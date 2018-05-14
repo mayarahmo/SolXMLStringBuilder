@@ -89,7 +89,7 @@ public class XMLStringBuilder {
  
     // utility method to create text node
     private static Node getFieldElement(Document doc, String atribute, String value) {
-        Element field = doc.createElement("field");
+        Element field = doc.createElement("text_pt");
         field.setAttribute("name", atribute);
         field.setTextContent(value);
         return field;
