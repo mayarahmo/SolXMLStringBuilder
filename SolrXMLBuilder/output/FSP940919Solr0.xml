@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940919-001</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-001</field>
+<field name="date">940919</field>
+<text_pt>
 A maioria das previsões sobre a inflação coincide em apontar um índice bastante baixo para este mês de setembro, seguido, em outubro, de um repique. A expectativa é de perto de 1,5% neste mês e em torno de 2,5% no mês seguinte.
 Para um país condenado a suportar até 50% mensais, antes do real, mesmo o índice previsto para outubro parece risível. Não é. Primeiro, porque interrompe a tendência de queda que vem se observando desde a introdução do real em julho. Segundo, porque, se se chegar mesmo perto de 2,5% em outubro, será um salto de mais de 50% com relação ao resultado de setembro.
 Essas expectativas para a economia vão coincidir com o mais importante fato político do ano, o primeiro turno das eleições gerais, com perspectiva de uma vitória de FHC já em 3 de outubro.
@@ -13,9 +13,9 @@ De qualquer forma, o principal cargo em disputa é obviamente a Presidência da Re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-002</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-002</field>
+<field name="date">940919</field>
+<text_pt>
 Esta Folha publicou há pouco um impressionante quadro elencando casos de constestação judicial de impostos e contribuições. A relação inclui nada menos do que cinco episódios de cobranças consideradas inconstitucionais pelo Supremo. Contempla ainda outros cinco nos quais o Superior Tribunal de Justiça detectou ilegalidade de tributos ou de sua majoração.
 Igualmente impressionante é a relação das consequências dessas decisões, que abrem para milhares de contribuintes espaço para pedir em juízo &#150;arcando com toda a burocracia envolvida&#150; a correção ou restituição de tributos.
 É uma situação quase surreal. De fato, longe de inócua, a frequência aberrante com que gravames são cobrados, contestados e devolvidos revela um sistema tributário quase caótico. Não apenas os contribuintes como também o próprio poder público encontram-se submetidos a incertezas altamente indesejáveis.
@@ -27,9 +27,9 @@ Não surpreende que venha se tornando cada vez mais consensual a tese de uma radi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-003</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-003</field>
+<field name="date">940919</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO -Nos primórdios da conquista do espaço, Jô Soares fez o seguinte comentário: "O primeiro vôo à Lua foi uma das coisas mais emocionantes do mundo. O segundo foi uma das coisas mais chatas do mundo".
 Pode-se aplicar a frase, sem retoques, à eleição deste ano. A primeira eleição presidencial direta, depois de 31 anos (em 89), foi empolgante. A segunda, este ano, é um tédio.
@@ -42,9 +42,9 @@ Aqui, no entanto, não ocorre nem uma coisa nem a outra. O fastio com a política 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-004</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-004</field>
+<field name="date">940919</field>
+<text_pt>
 Florestan Fernandes
 O governo do sr. Itamar Franco está sendo beneficiado por avaliações positivas que está longe de merecer. O imediatismo cega as pessoas e as leva a confusões oscilantes.
 Poucos são os ministros com envergadura intelectual e política. Alguns, mais eficientes, passam pelos cargos como um relâmpago. Outros participam do governo e "dão as cartas", incluindo-se no "grupo dos válidos". Por fim, o poder está deslocado de lugar.
@@ -60,9 +60,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-005</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-005</field>
+<field name="date">940919</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; O PT começa a partir de hoje um esforço concentrado para dinamitar o senador Marco Maciel &#150;e, assim, criar um fato novo capaz de subtrair preciosos pontos de Fernando Henrique Cardoso, impedindo-o de vencer no primeiro turno. Motivo: a suspeita de que ele teria sido beneficiado por uma conta fantasma, alimentada pelo empresário PC Farias.
 Em contato ontem com esta coluna, Aloízio Mercadante disse que, por "muito menos", caíram José Paulo Bisol e Guilherme Palmeira. "Até por uma questão de coerência, exigimos uma invesgitação completa. Do contrário, de nada terá valido o princípio ético que norteou o impeachment de Fernando Collor", afirmou.
@@ -75,9 +75,9 @@ Posição sóbria: é preciso investigar, mas sem antes condenar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-006</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-006</field>
+<field name="date">940919</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Os entendidos garantem que se trata de um complexo judaico-cristão. Mas Agostinho, antes mesmo da conversão, quando era apenas um belo e pecaminoso pagão em Cartago, dizia que toda riqueza é miséria e toda glória é infâmia. Certo ou errado, o fato é que muita gente foi educada dentro desses princípios. Pelo menos, até há pouco. Acompanho com interesse e gosto o desfile dos candidatos no programa do TSE e vejo que as coisas mudaram.
 Qualquer orador, nos bons tempos judaico-cristãos, começava seus discursos proclamando que era o mais humilde dos presentes, o mais apagado dos convivas, o mais indigno de receber homenagens. Podia ser hipocrisia &#150;e era, certamente&#150;, mas ninguém se atrevia a violar a regra de qualquer intervenção oratória: "Quis o destino que o mais inexpressivo dos auxiliares de Vossa Excelência..." A afirmação provocava apartes de reprovação, mas o orador ia em frente, impávido: as três ou quatro primeiras frases eram a pública admissão de sua humildade.
@@ -86,9 +86,9 @@ A truculência verbal reservada aos adversários é frouxa se comparada à violência
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-007</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-007</field>
+<field name="date">940919</field>
+<text_pt>
 O esfacelamento da estrutura partidária nacional é evidenciado pelas alianças feitas para as eleições que se aproximam. Não são apenas os políticos, entretanto, que demonstram incoerência. Os eleitores mostram que pretendem votar em pessoas e não em partidos.
 O fato de um concorrente à Presidência da República apoiar em um mesmo Estado mais de um candidato a governador tornou-se corrente. Postulantes aos cargos máximos dos Estados perfilam-se com igual naturalidade ao lado de presidenciáveis de outras coligações. Partidos que numa região se confrontam noutra estão coligados.
 A força do personalismo, cuja maior e ao mesmo tempo mais desastrada consequência foi a eleição de Fernando Collor de Mello, parece persistir nas eleições atuais.
@@ -100,9 +100,9 @@ Quanto mais fracos forem os partidos, mais volúvel será o jogo político que, em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-008</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-008</field>
+<field name="date">940919</field>
+<text_pt>
 O êxito do caso chileno é que o país pode exibir-se como nação de economia e política abertas
 HERALDO MUÑOZ
 O Chile encontra-se hoje em uma situação de consolidação democrática e crescimento econômico sustentável. Ainda que o país esteja longe de ser &#150;no dizer de alguns&#150; um "tigre latino-americano", devido, entre outras coisas, ao desafio pendente da pobreza, o Chile tem a possibilidade de alcançar níveis inéditos de desenvolvimento e progresso.
@@ -133,9 +133,9 @@ HERALDO MUÑOZ, 46, é embaixador do Chile no Brasil. Foi embaixador representante
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-009</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-009</field>
+<field name="date">940919</field>
+<text_pt>
 Essa dupla é a que mostra maior compatibilidade de propostas para construir uma nação moderna
 MARCOS CINTRA
 
@@ -164,9 +164,9 @@ MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE, 48, doutor em economia pela Universidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-010</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-010</field>
+<field name="date">940919</field>
+<text_pt>
 "Gostaria de cumprimentar este grande veículo de comunicação pela publicação do caderno Olho no Voto (18/09). É uma pena que grande parte dos eleitores não tenha acesso a uma informação como esta. Mais uma vez a Folha parte na frente prestando um serviço ao eleitor."
 Alicio Cortes Netto (Juiz de Fora, MG)
 
@@ -209,9 +209,9 @@ Vicky Adler Amádio (Rio de Janeiro, RJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-011</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-011</field>
+<field name="date">940919</field>
+<text_pt>
 A De Millus está lançando a linha de sutiãs Fascination. A nova coleção é uma versão mais sofisticada do sutiã Super-Up. Os preços para o consumidor variam de R$ 15 a R$ 21. A coleção também tem calcinhas coordenadas. Informações: (011) 881-2422.
 
 Clinique Santé faz pacote para secretária 
@@ -231,9 +231,9 @@ A Roc Importação Representação Ltda. está trazendo para o Brasil o chapéu Claude
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-012</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-012</field>
+<field name="date">940919</field>
+<text_pt>
 O Planalto calcula que o Congresso será renovado em mais de 60%. Essa taxa, somada ao grande número de votos inválidos previsto para o Legislativo, faz o governo prever uma "crise de depressão" no final da atual legislatura.
 
 Desinformação geral 
@@ -260,9 +260,9 @@ De Paulo Delgado (PT-MG), sobre o trecho do programa de FHC que aponta corrupção
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-013</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-013</field>
+<field name="date">940919</field>
+<text_pt>
 Em 46, Milton Campos começou por Belo Horizonte sua campanha para o governo de Minas. Ninguém acreditava que ele vencesse o candidato da situação, Bias Fortes. Um dos poucos a contrariar essa previsão era um mendigo meio enlouquecido, o Voluntário.
 O homem, que morava nas ruas, anunciava-se como voluntário na Segunda Guerra e trajava farda com medalhas de latão. Nos comícios, tratava de gritar sua arenga favorável a Milton Campos.
 Campos venceu as eleições e mudou-se para o Palácio da Liberdade. O prédio, na época, tinha instalações para residência e despachos oficiais, sem a grade que hoje impede o acesso da rua.
@@ -273,9 +273,9 @@ Aleixo ameaçou chamar a guarda, mas foi contido por Campos:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-014</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-014</field>
+<field name="date">940919</field>
+<text_pt>
 Opinião é do sociólogo mexicano Jorge G. Castañeda, que lançará livro sobre o tema quinta-feira na Folha
 OTÁVIO DIAS
 Coordenador de Artigos e Eventos
@@ -288,9 +288,9 @@ A seguir, os principais trechos da entrevista concedida à Folha pelo telefone na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-015</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-015</field>
+<field name="date">940919</field>
+<text_pt>
 
 Jorge Castañeda - Para mim é difícil saber exatamente quais podem ter sido os erros do PT. Parece pertinente refletir sobre eleições em outros países da América Latina (AL). Dois elementos me parecem importantes.
 O primeiro, é a questão da crítica, do negativismo. Em países onde se viveram períodos de hiperinflação ou de instabilidade cambial muito séria, quando se consegue o mínimo de estabilidade de preços e de tipo de câmbio &#150;ainda que a um custo recessivo muito elevado, por um período breve ou sob o risco de desindustrializar o país&#150;, essa estabilidade passa a ter enorme importância para a população.
@@ -327,9 +327,9 @@ Castañeda - Não sou a favor da privatização feita por motivação ideológica e não
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-016</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-016</field>
+<field name="date">940919</field>
+<text_pt>
 Da Redação
 O deputado federal Roberto Campos (PPR-RJ), 77, diz que a resposta às afirmações de Castañeda já foi dada por Winston Churchill: "No socialismo, as intenções são melhores que os resultados. No capitalismo, os resultados são melhores que as intenções".
 Segundo o ex-ministro do Planejamento (gov. Castelo Branco), a desigualdade social na AL não será combatida com slogans de esquerda, mas com menos Estado e mais mercado.
@@ -342,9 +342,9 @@ Para Campos, a privatização diminui a corrupção e o poder econômico do Estado, q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-017</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-017</field>
+<field name="date">940919</field>
+<text_pt>
 Guiba diz que categoria marcou 'golaço' e mostrou que plano impôs perda
 Da Folha ABCD
 Cerca de 62 mil metalúrgicos das montadoras do ABCD voltam ao trabalho hoje, após a greve que durou seis dias.
@@ -363,9 +363,9 @@ Amanhã, Guiba vai a Brasília para levar a proposta à câmara setorial. "Nós não v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-018</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-018</field>
+<field name="date">940919</field>
+<text_pt>
 Da Folha ABCD
 Os metalúrgicos das indústrias de autopeças decidiram permanecer em greve até que as empresas repassem aos trabalhadores o acordo das montadoras.
 Das cerca de 100 empresas do setor de autopeças existentes no ABCD, dez estão em greve: Metal Leve, Sachs, Kostal, Carfriz, Nakayone, Polimatic, Arteb, Conforja, Forjaria São Bernardo, Inca, Magnet e Brastemp.
@@ -376,9 +376,9 @@ Vicente Paulo da Silva, o Vicentinho, presidente da CUT (Central Única dos Traba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-019</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-019</field>
+<field name="date">940919</field>
+<text_pt>
 Da Sucursal do Rio
 Os petroleiros decidiram anteontem à noite em reunião plenária da categoria entrar em greve a partir da 0h do próximo dia 27.
 A plenária reuniu cem delegados, representando os 21 sindicatos da categoria. Os petroleiros reivindicam reajuste de 108,36%, referente a perda salarial do período de setembro do ano passado a agosto deste ano. O cálculo é baseado no índice do Dieese (Departamento Intersindical de Estatística e Estudos Sócio-Econômicos).
@@ -389,9 +389,9 @@ A assessoria de imprensa da Petrobrás informou que está prevista para o dia 20 u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-020</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-020</field>
+<field name="date">940919</field>
+<text_pt>
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
 Em 1995, o Brasil receberá um fluxo recorde de recursos estrangeiros tanto em investimentos diretos na produção como em investimentos indiretos no mercado de ações.
@@ -411,9 +411,9 @@ Ele diz que a inflação estará de volta se o Real não for sustentado com a revisã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-021</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-021</field>
+<field name="date">940919</field>
+<text_pt>
 "Gorduras" ainda a queimar devem manter taxas mensais entre zero e 1% até dezembro, afirma Nogueira
 Da Sucursal do Rio
 O presidente da Abras (Associação Brasileira dos Supermercados), Levy Nogueira, disse ontem que os preços do setor ainda têm "gorduras" para garantir uma inflação entre zero e 1% até dezembro deste ano.
@@ -436,9 +436,9 @@ Levy Nogueira informou que o ministro Ciro Gomes visita hoje à noite a exposição
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-022</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-022</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A redução nas alíquotas de importação anunciada pelo governo na semana passada vai levar à suspensão dos investimentos em vários setores industriais que estavam retomando seus níveis de produção e até mesmo o sucateamento de vários deles, resultando em desemprego estrutural a médio prazo.
 Essas são as consequências dramáticas previstas pelo empresário Emerson Kapaz, coordenador-geral do PNBE (Pensamento Nacional das Bases Empresariais).
@@ -450,9 +450,9 @@ Foi aprovada também a formação da Escola PNBE de Cidadania para Empresários, que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-023</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-023</field>
+<field name="date">940919</field>
+<text_pt>
 Da Agência Folha, em Fortaleza
 O ministro da Fazenda, Ciro Gomes, disse ontem em Fortaleza (CE) que o governo não vai "se curvar" diante da pressão de fornecedores de matérias-primas para aumentar seus preços.
 A Folha divulgou ontem que fabricantes de material plástico e de material de higiene e limpeza pediram ajuda ao Ministério da Fazenda para combater a pressão dos fornecedores de matéria-prima.
@@ -466,9 +466,9 @@ O ministro embarcou ontem à noite para São Paulo. Hoje, Ciro Gomes toma café com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-024</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-024</field>
+<field name="date">940919</field>
+<text_pt>
 Cerca de 3,5 milhões de pneus meia-vida deverão ser importados até o final deste ano, segundo a Abip (Associação Brasileira de Importadores de Pneus) contra 1,2 milhão em 1993. O preço do pneu meia-vida importado é cerca de 60% inferior ao de um pneu novo nacional. A vida útil do produto importado é de 25 mil quilômetros contra 30 mil quilômetros de um equivalente nacional novo.
 
 Indústria prevê falta de brinquedos no Natal
@@ -480,9 +480,9 @@ A Embraco, maior produtora de compressores de refrigeração do Brasil, escolheu a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-025</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-025</field>
+<field name="date">940919</field>
+<text_pt>
 Stephen Rose, dono de uma das maiores carteiras de aplicações estrangeiras no Brasil, acha que o mercado acionário não deve recuar por enquanto.
 Uma eventual desvalorização só ocorreria às vésperas do primeiro turno.
 
@@ -517,9 +517,9 @@ A Embraco, maior produtora de compressores de refrigeração do Brasil, entrega ho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-026</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-026</field>
+<field name="date">940919</field>
+<text_pt>
 A corretora Banespa contratou o escritório de advocacia Thomé, Novaes e Ramos de Azevedo Advogados Associados para fazer defesa em reclamação trabalhista.
 
 Custo da ação
@@ -551,9 +551,9 @@ Boletim da Adeval que circulou na semana passada ainda tratava Ricupero como min
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-027</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-027</field>
+<field name="date">940919</field>
+<text_pt>
 ÁLVARO AUGUSTO VIDIGAL
 Não há como negar o sucesso do plano de estabilização econômica. Um indicador eloquente é o comportamento do índice de preços ao consumidor apurado pela Fipe, que se reduziu de 50,7% em junho, para 1,38% no período de 30 dias terminado em 7 de setembro. E isto sob a mais ampla liberdade de preços que o país já vivenciou.
 Entretanto, o plano de estabilização não se esgotou na reforma monetária. Sua consolidação requer do governo constante monitoramento das variáveis macroeconômicas e determinação política para enfrentar os conflitos que naturalmente surgirão de um processo de ajustamento de tamanha envergadura e complexidade.
@@ -576,9 +576,9 @@ Somente então teremos feito um verdadeiro ajuste fiscal e preparado o terreno pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-028</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-028</field>
+<field name="date">940919</field>
+<text_pt>
 ANTÔNIO MACIEL NETO
 Os presidentes da CUT, Vicente Paulo da Silva, e do Sindicato dos Metalúrgicos do ABC, Heiguiberto Guiba Della Bella Navarro, têm razão quando detectam diferenças de opinião no governo federal a respeito do papel das câmaras setoriais. De fato, como eles escreveram, "há quem as considere como prioridade e há os que querem eliminá-las".
 À luz dos fatos, a discussão sobre o papel das câmaras não é nova. A idéia de estabelecer entendimentos setoriais para alcançar a competitividade dos setores surgiu no governo anterior, mais especificamente no Departamento de Indústria e Comércio, então sob o comando de Luís Paulo Vellozo Lucas.
@@ -599,9 +599,9 @@ ANTÔNIO MACIEL NETO, 36, é presidente da Cecrisa (Cerâmica Crisciúma S/A). Foi d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-029</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-029</field>
+<field name="date">940919</field>
+<text_pt>
 Se as eleições presidenciais forem efetivamente decididas no primeiro turno, no dia 4 de outubro começa a grande cobrança em cima desses levianos que atrasaram em vários anos o ajuste da economia, para beneficiar-se eleitoralmente do cargo.
 Desde o período Marcílio tinha-se um processo de reconstrução institucional em marcha, que foi aprofundado por Paulo Haddad.
 O ajuste dos bancos estaduais estava encaminhado, as dívidas do setor elétrico equacionadas. Previdência e Saúde vinham relativamente equilibradas, enquanto se aguardavam as reformas constitucionais que viabilizassem as soluções definitivas. Já haviam sido negociadas as dívidas do setor público com os fundos sociais, e reduzira-se sensivelmente o peso da folha do funcionalismo público.
@@ -620,9 +620,9 @@ Há a necessidade de grande clareza a respeito desse assunto, para que a partir d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-030</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-030</field>
+<field name="date">940919</field>
+<text_pt>
 A redução tarifária pode ser catastrófica se implementada imperialmente
 OSIRIS LOPES FILHO
 Especial para a Folha
@@ -651,9 +651,9 @@ OSIRIS LOPES FILHO, 55, é professor de Direito Tributário da Universidade de Bra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-031</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-031</field>
+<field name="date">940919</field>
+<text_pt>
 MARCELO CHERTO e MARCUS RIZZO
 Como consultores especializados na prestação de serviços a franqueadores e a master-franqueados de empresas internacionais, temos a oportunidade de conhecer algumas das mais charmosas empresas do mundo.
 Pudemos sacar que nem todas sabem muito a respeito do mercado brasileiro e do que pode, ou não, funcionar por aqui. Para sermos francos, muitos franqueadores internacionais não sabem nem onde fica o Brasil, ou que língua se fala neste patropi.
@@ -673,9 +673,9 @@ MARCELO CHERTO e MARCUS RIZZO são diretores da Cherto &amp; Rizzo Franchising e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-032</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-032</field>
+<field name="date">940919</field>
+<text_pt>
 HELCIO EMERICH
 Como anda, por esse mundo afora, o negócio da pesquisa (de mercado, de opinião pública, de comunicação etc)?
 Segundo dados recentes publicados no newsletter "Inside Research", editado pelo escritório de consultoria de comunicação Marketing Aid Center, com sede na cidade de Barrington, Illinois (EUA), a pesquisa é uma atividade que movimenta mundialmente uma cifra em torno de US$ 6.800 bilhões por ano.
@@ -694,9 +694,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap-BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-033</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-033</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A alavancagem das marcas em transações internacionais tornou-se prática disseminada a partir da década passada, na onda de fusões e aquisições estimuladas pela conquista de posições de liderança no mercado europeu.
 A Buitoni, do setor de alimentos, que amargava má situação financeira e problemas mercadológicos, foi adquirida pelo financista italiano Carlo De Benedetti em 1985.
@@ -712,9 +712,9 @@ O bônus de marca, por ele proposto, não visa valorizar a venda de empresas em di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-034</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-034</field>
+<field name="date">940919</field>
+<text_pt>
 EDUARDO SIMANTOB
 Da Redação
 Com a inauguração do Circuito X em julho, o mercado de fitas pornográficas adquiriu um caráter empresarial inédito no Brasil e investe na sua disseminação em todo o país através do franchising, reabrindo dezenas de cinemas falidos.
@@ -735,9 +735,9 @@ Silva diz que a investida no mercado pornô é o início de um plano mais ambicioso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-035</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-035</field>
+<field name="date">940919</field>
+<text_pt>
 Bolsa dos EUA visita empresas e incentiva lançamento de papéis no exterior; Bovespa teme ser prejudicada
 RODNEY VERGILI
 Da Redação
@@ -762,9 +762,9 @@ Jair Ribeiro da Silva Neto, diretor-executivo do Banco Patrimônio de Investiment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-036</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-036</field>
+<field name="date">940919</field>
+<text_pt>
 
 Variação % acumulada no mês
 
@@ -797,30 +797,30 @@ Os juros do CDB caíram na semana passada, depois que o Banco Central flexibilizo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-037</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-037</field>
+<field name="date">940919</field>
+<text_pt>
 O papa João Paulo 2º disse em um missa em Lecce (sul da Itália) que a instituição familiar está ameaçada. Foi a primeira declaração dele após a Conferência Internacional Sobre População e Desenvolvimento, no Cairo. A agência iugoslava "Beta" informou que o papa pode ir a Sarajevo encontrar líderes religiosos. Neste mês, o papa cancelou viagem à cidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-038</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-038</field>
+<field name="date">940919</field>
+<text_pt>
 Os habitantes de Hong Kong votaram ontem para representantes nas assembléias municipais. Os primeiros resultados dão vantagem aos candidatos pró-democracia (31 cadeiras, contra 10 do partido pró-China e 5 dos conservadores). As eleições são fruto das reformas do governador Chris Patten. A China, que recebe o território em 1997, protestou contra a votação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-039</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-039</field>
+<field name="date">940919</field>
+<text_pt>
 Sarajevo, capital da Bósnia, voltou a ser bombardeada ontem por sérvios e muçulmanos. Houve quatro mortes. O cemitério judaico foi o alvo principal dos ataques. Os sérvios mantêm o bloqueio de água, gás, eletricidade e mantimentos a Sarajevo. Cerca de 1.700 muçulmanos foram expulsos ontem do território ocupado pelos sérvios, no nordeste da Bósnia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-040</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-040</field>
+<field name="date">940919</field>
+<text_pt>
 Os social-democratas venceram as eleições legislativas de ontem na Suécia com 45% dos votos, segundo resultados preliminares. Foi uma derrota política para os conservadores liderados pelo primeiro-ministro Carl Bildt (foto), que tinham 22%. O provável próximo premiê, Ingvar Carlsson, deve formar uma coalizão.
 
 Argentina liberta libaneses suspeitos 
@@ -844,9 +844,9 @@ A TV peruana divulgou vídeo provando que o SIN filmou secretamente uma reunião d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-041</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-041</field>
+<field name="date">940919</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 Depois de mais de 15 horas de reuniões com o líder militar do Haiti, general Raoul Cedras, a delegação norte-americana chefiada pelo ex-presidente Jimmy Carter finalizava ontem à noite esboço de acordo para o retorno ao poder do presidente no exílio, Jean-Bertrand Aristide.
@@ -873,9 +873,9 @@ Pesquisa divulgada ontem pela rede de televisão ABC revela que 60% das pessoas o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-042</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-042</field>
+<field name="date">940919</field>
+<text_pt>
 De Washington
 O chefe do Estado-Maior das Forças Armadas dos Estados Unidos, general John Shalikashvili, disse ter "um cronograma muito específico" para invadir o Haiti e que ele "não será atrasado em nem um minuto".
 A declaração foi feita ontem pela manhã em Washington, quando o ex-presidente Jimmy Carter ainda estava reunido com a junta militar haitiana em Porto Príncipe.
@@ -894,9 +894,9 @@ No serviço religioso da igreja batista que frequenta, Clinton baixou a cabeça qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-043</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-043</field>
+<field name="date">940919</field>
+<text_pt>
 De Washington
 As redes de televisão norte-americanas concordaram em não fazer transmissões ao vivo dos movimentos das tropas dos EUA no Haiti durante os 60 primeiros minutos da ação militar.
 Assessores de comunicação da Casa Branca e executivos das redes de TV se reuniram no sábado e discutiram proposta do governo pela qual as emissoras fariam embargo voluntário de cenas que pudessem pôr em risco a segurança das tropas dos EUA no Haiti.
@@ -909,9 +909,9 @@ Por isso, a Casa Branca se empenhou em obter compromissos de autocensura das emi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-044</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-044</field>
+<field name="date">940919</field>
+<text_pt>
 Das agências internacionais
 O ex-ditador do Haiti Jean-Claude Duvalier, o Baby Doc, tem evitado falar sobre possibilidade da invasão a seu país. Derrubado em fevereiro de 1986, ele trocou Porto Príncipe pela Riviera francesa (sul do país). Na época, EUA, Grécia, Suíça e Espanha negaram asilo a ele.
 Os repórteres que tentam chegar a sua casa são expulsos pela mãe do ex-ditador, Simone Duvalier, que vive com ele. Apesar de morar em Cannes, um dos mais sofisticados balneários do mundo, Baby Doc não goza mais do luxo a que estava acostumado.
@@ -922,9 +922,9 @@ Após sua queda, uma série de golpes e contragolpes levou ao comando do país o ge
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-045</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-045</field>
+<field name="date">940919</field>
+<text_pt>
 Das agências internacionais
 O presidente da Argentina, Carlos Menem, disse ontem que só dará asilo ao líder haitiano Raoul Cedras se este deixar o poder antes da possível invasão americana.
 Menem foi criticado pela oposição por sua oferta. Para tentar remediar a confusão, o vice-chanceler argentino, Fernando Petrella, deu declarações dizendo que a oferta de Menem reflete apenas "as boas intenções do presidente", e não uma posição oficial de seu país.
@@ -937,9 +937,9 @@ Menem alegou que os soldados vão "instruir a polícia haitiana a cumprir suas fun
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-046</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-046</field>
+<field name="date">940919</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 O presidente dos EUA, Bill Clinton, 48, anunciou ontem à noite que tropas de seu país começarão a ocupar pacificamente o Haiti na manhã de hoje.
@@ -968,9 +968,9 @@ A questão do futuro de Cedras e da junta militar não foi incluída no acordo acer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-047</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-047</field>
+<field name="date">940919</field>
+<text_pt>
 De Washington
 A invasão do Haiti pelos EUA teria ocorrido na noite de ontem se o ex-presidente Jimmy Carter não tivesse chegado a um acordo antes do desembarque dos soldados. A operação chegou a ser iniciada e foi abortada.
 Aviões carregados com pára-quedistas que efetuariam os primeiros assaltos retornaram a suas bases quando já estavam a meio caminho do Haiti.
@@ -988,9 +988,9 @@ O navio de comando dos EUA, o USS Mount Whitney, tem a bordo não apenas comandan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-048</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-048</field>
+<field name="date">940919</field>
+<text_pt>
 De Washington
 As redes de televisão norte-americanas haviam concordado em não fazer transmissões ao vivo dos movimentos das tropas dos EUA no Haiti durante os 60 primeiros minutos da ação militar.
 A rede CNN tinha a informação e inclusive cenas da decolagem dos aviões com os pára-quedistas que iniciariam a invasão, mas só as colocou no ar depois de anunciado o sucesso da missão Carter.
@@ -1004,9 +1004,9 @@ Acordo firmado no ano passado entre o Pentágono e meios de comunicação dos EUA p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-049</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-049</field>
+<field name="date">940919</field>
+<text_pt>
 O presidente da Sociedade Brasileira de Cirurgia Plástica, Munir Curi, 53, afirmou na abertura de um congresso médico no Recife, na sexta-feira, que 110 mil mulheres em todo o mundo pediram indenização aos fabricantes de próteses de silicone por possíveis danos causados ao organismo. No Brasil, 4.000 mulheres já teriam processado os fabricantes, segundo o cirurgião.
 
 O NÚMERO
@@ -1023,9 +1023,9 @@ A Assembléia Legislativa do Rio Grande do Sul encaminhou ao Ministério Público e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-050</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-050</field>
+<field name="date">940919</field>
+<text_pt>
 Passeio ciclístico, limpeza de parques e encontro esotérico marcam chegada da nova estação
 Da Reportagem Local
 Milhares de paulistanos anteciparam a chegada da primavera participando de três grandes eventos que aconteceram na cidade durante o fim-de-semana lembrando a chegada da nova estação.
@@ -1038,9 +1038,9 @@ No Morumbi, quem se dispôs a pagar R$ 40,00 pôde degustar o banquete floral do e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-051</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-051</field>
+<field name="date">940919</field>
+<text_pt>
 A BHTrans (Empresa Municipal de Transporte) e a Secretaria Municipal da Saúde vão desenvolver um projeto de acompanhamento de vítimas de acidente de trânsito em Belo Horizonte. O objetivo é acompanhar as vítimas durante o tempo de internação no hospital.
 
 Minas Gerais 2
@@ -1060,9 +1060,9 @@ Um incêndio que ocorreu na madrugada de sábado em São Carlos (101 km de Ribeirão
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-052</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-052</field>
+<field name="date">940919</field>
+<text_pt>
 O município de Arapoti (norte do PR) criou a Comissão Municipal de Solo para atender 1.500 produtores rurais com propriedades entre três e cinco alqueires. O objetivo é elaborar projetos para melhorar a qualidade de vida dos pequenos agricultores.
 
 Paraná 2
@@ -1076,9 +1076,9 @@ A Secretaria Estadual da Saúde promove a partir de hoje em Florianópolis o curso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-053</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-053</field>
+<field name="date">940919</field>
+<text_pt>
 O Tribunal de Justiça do Estado decidiu transferir para Belém o julgamento do fazendeiro Jerônimo Amorim, acusado de ser mandante do assassinato do presidente do Sindicato dos Trabalhadores Rurais de Rio Maria, Expedito Ribeiro de Souza, morto em 1991.
 
 Pará 2
@@ -1104,9 +1104,9 @@ A privatização da Companhia Siderúrgica Nacional do Amazonas será acompanhada pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-054</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-054</field>
+<field name="date">940919</field>
+<text_pt>
 Os detentos da Casa de Prisão Provisória de Goiânia começaram a receber, na última semana, aulas de vôlei e futebol de salão. Eles estão sendo beneficiados pelo projeto "Integração de Condomínios", que antes atendia alunos e moradores de condomínios da cidade.
 
 Mato Grosso do Sul 1
@@ -1120,9 +1120,9 @@ De hoje a sexta-feira estarão sendo realizados, na Universidade Federal do MS, o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-055</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-055</field>
+<field name="date">940919</field>
+<text_pt>
 O Serviço de Vigilância Sanitária da Prefeitura de Salvador interditou três casas comerciais na última semana por falta de higiene. Os fiscais apreenderam ainda 67 quilos de produtos alimentícios, considerados impróprios para o consumo.
 
 Pernambuco
@@ -1148,9 +1148,9 @@ O promotor de Alhandra, Antonio Inácio Neto, vai entrar na Justiça para obrigar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-056</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-056</field>
+<field name="date">940919</field>
+<text_pt>
 MARCUS CASTRO FERREIRA
 Entre as distorções que o problema sócio-econômico tem causado em nosso país está, menos discutido mas não menos importante, o atendimento às crianças com deficiências.
 Muitas têm deformidades externas no corpo desde o nascimento ou causadas por acidentes (as queimaduras são cada vez mais frequentes). Sofrem consequências pessoais, na sua vida familiar e social.
@@ -1167,9 +1167,9 @@ MARCUS CASTRO FERREIRA, 50, é professor titular de cirurgia plástica da Faculdad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-057</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-057</field>
+<field name="date">940919</field>
+<text_pt>
 
 Da equipe de articulistas
 O coquetel de lançamento e os autógrafos estão adquirindo constância nos hábitos jurídicos paulistanos. Quinta-feira Pedro Dallari lançou "Constituição e Relações Exteriores", pela Saraiva.
@@ -1191,9 +1191,9 @@ O autor desenvolve projeto didático em que explica a sociedade política reunida 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-058</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-058</field>
+<field name="date">940919</field>
+<text_pt>
 PAULO SILVA PINTO
 Da Reportagem Local
 A região metropolitana do Rio de Janeiro teve queda na renda média de seus habitantes durante a década de 80, enquanto em São Paulo houve crescimento no mesmo período, graças à economia informal e aos autônomos.
@@ -1218,9 +1218,9 @@ Já os 50% mais pobres do Rio tinham 15% da renda em 81 e passaram a ter 11,9% em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-059</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-059</field>
+<field name="date">940919</field>
+<text_pt>
 O endocrinologista Geraldo Medeiros (foto) do Hospital das Clínicas da USP afirma que pelo menos 45% dos obesos têm excesso de peso por causas genéticas. A obesidade é um problema que atinge hoje cerca de 12 milhões de brasileiros.
 
 O NÚMERO
@@ -1244,9 +1244,9 @@ Será inaugurada no início de outubro a casa de apoio infantil Siloé. A casa é um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-060</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-060</field>
+<field name="date">940919</field>
+<text_pt>
 The Road, no km 23 da Régis Bittencourt, que liga São Paulo a Curitiba, abre suas portas ao público sexta-feira
 Da Reportagem Local
 Depois de transbordar para o bairro vizinho de Pinheiros, a noite dos Jardins, (zona oeste de São Paulo), está pegando a estrada.
@@ -1267,9 +1267,9 @@ A entrada vai custar R$ 15. Mas os preços no bar vão ficar abaixo da média dos l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-061</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-061</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A The Road aparece na esteira de um "boom" de inaugurações de casas noturnas, bares, restaurantes e locais de diversão na cidade &#150;a "Primavera do real".
 Quem gosta de dançar já pode ir à Zoo, no Itaim. Fanáticos por bingo vão ganhar pelo menos sete casas até o final do ano. Os que preferem experimentar um cardápio de comida afrodisíaca procuram o recém inaugurado Helena. 
@@ -1278,9 +1278,9 @@ O problema é que chegar a esses lugares está cada vez mais difícil, também por c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-062</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-062</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A Associação Brasileira "A Hebraica" vai simular as eleições presidenciais de 3 de outubro entre seus 4.000 sócios de 7 a 15 anos.
 Os sócios mirins vão escolher dois presidentes que, durante um dia, despacharão com o presidente oficial do clube. Nesta ocasião, os dois eleitos terão a chance de expor as propostas que fizeram aos eleitores, tentando implementá-las.
@@ -1294,9 +1294,9 @@ A Hebraica - al. Gabriel Monteiro da Silva, 2.731 - Tel: 816-6463
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-063</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-063</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A Polícia Federal e os Correios realizam nesta segunda-feira uma vistoria em correspondências para tentar detectar a presença de drogas. A operação é definida como uma medida preventiva, segundo a assessoria de imprensa dos Correios.
 Agentes da Polícia Federal usarão cães das raças Springer Spaniel e Labrador treinados para detectar a presença de qualquer tipo de droga. Os cachorros são capazes de identificar as drogas, mesmo que estejam acondicionadas ou escondidas.
@@ -1307,9 +1307,9 @@ Nenhuma apreensão de droga foi feita nas operações anteriores em São Paulo, que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-064</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-064</field>
+<field name="date">940919</field>
+<text_pt>
 O leitor Marcos Tronchin está construindo um imóvel na Vila Maria e solicitou à Eletropaulo, em maio deste ano, uma mudança nas instalações elétricas da casa.
 Tronchin diz que na primeira visita do inspetor, em 13 de junho, o mesmo solicitou a modificação dos cabos. "Como era um serviço simples, eu mesmo o fiz", diz.
 Tronchin afirma que na segunda visita do mesmo inspetor, "sempre muito mal-educado", foi feito outro pedido de modificação, devido à disposição errada da fiação. Ele conta que pediu orientações ao departamento técnico da Eletropaulo para fazer o trabalho. 
@@ -1320,9 +1320,9 @@ Segundo Arnaldo Jubelini Júnior, gerente do Departamento de Imprensa da Eletropa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-065</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-065</field>
+<field name="date">940919</field>
+<text_pt>
 Fátima de Jesus Morais comprou um radiogravador através do serviço de televendas da Casa Centro. Segundo ela, "além do prazo de entrega não ter sido cumprido, o entregador foi mal-educado, pois se negou a entregar a mercadoria, alegando que só poderia fazê-lo à pessoa portadora do CPF constante da nota. Expliquei que a conta era conjunta, mas ele foi embora e levou o aparelho".
 
 Resposta
@@ -1332,9 +1332,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Editoria de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-066</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-066</field>
+<field name="date">940919</field>
+<text_pt>
 Estudo mostra que acidentados sofrem 'complexo de castração' e ignoram direito à indenização
 DANIEL CASTRO
 Da Reportagem Local
@@ -1355,17 +1355,17 @@ Hilda propõe também a adoção no Brasil da indenização por danos estéticos &#150;
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-067</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-067</field>
+<field name="date">940919</field>
+<text_pt>
 Um jogador e três membros da tripulação morreram ontem, em um acidente com o avião que transportava o time de futebol nigeriano Iwuanyanwu Nationale. O acidente ocorreu no aeroporto de Tamanrasset, no sul da Argélia. O avião transportava 32 pessoas do clube nigeriano e sete tripulantes. Segundo a agência 'EFE', 24 pessoas feridas foram hospitalizadas.
 O avião da companhia nigeriana Oriental Air Lines seguia de Cartago, Tunísia, para Lagos, Nigéria, quando se desviou da rota, por falta de combustível. Ao tentar pousar no aeroporto de Tamanrasset, onde as condições de visibilidade eram ruins, o avião bateu em um poste e em um caminhão de bombeiros.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-068</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-068</field>
+<field name="date">940919</field>
+<text_pt>
 Onze times já têm vaga nos grupos de elite na 2ª fase; só Palmeiras assegurou o ponto extra
 Da Reportagem Local
 O Corinthians perdeu ontem para o Sport, 2 a 0 em Recife, mas continua na frente na luta pelo ponto extra do Grupo A. Em Criciúma, o Grêmio, que até ontem era o segundo colocado, perdeu para o Criciúma. O Flamengo bateu o Bragantino (1 x 0 em Bragança Paulista).
@@ -1376,9 +1376,9 @@ No Grupo C, o Santos goleou o Cruzeiro (4 x 1) e continua um ponto atrás do líde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-069</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-069</field>
+<field name="date">940919</field>
+<text_pt>
 Técnico do Corinthians terá dificuldades para implantar time mais ofensivo por ter perdido para o Sport
 ALBERTO HELENA JR.
 Da Equipe de Articulistas
@@ -1400,9 +1400,9 @@ Já o sistema ofensivo do Milan, que deu certo na decisão da Copa Européia, não f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-070</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-070</field>
+<field name="date">940919</field>
+<text_pt>
 Wanderley Luxemburgo afirma que equipe passou no teste, mas volante Amaral volta na próxima partida
 MARCELO DAMATO
 Da Reportagem Local
@@ -1421,9 +1421,9 @@ O meia Rivaldo, o último a deixar o campo após o jogo, elogiou o novo esquema. "
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-071</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-071</field>
+<field name="date">940919</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 Da Equipe de Articulistas
 Pela primeira vez na sua história, 81 anos, cinco temporadas na Série A, o Parma é o líder solitário do Campeonato Italiano.
@@ -1437,9 +1437,9 @@ Outros resultados: Fiorentina 3 x 1 Cremonese, Roma 3 x 0 Genoa, Bari 1 x 0 Regg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-072</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-072</field>
+<field name="date">940919</field>
+<text_pt>
 Tais caracterizações são contraditórias
 MARCELO FROMER e NANDO REIS
 Especial para a Folha
@@ -1458,9 +1458,9 @@ Marcelo Fromer e Nando Reis são músicos da banda Titãs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-073</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-073</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 Emerson Fittipaldi é o vice-campeão da temporada 94 da Indy. Foi o terceiro colocado ontem, no GP de Nazareth, penúltima etapa, e garantiu o prêmio de US$ 500 mil dados pelor organizadores do campeonato.
 O canadense Paul Tracy foi o vencedor da prova, com Al Unser Jr., o campeão por antecipação, em segundo. Pela quinta vez nesta ano, a equipe Penske colocou seus três carros no pódio.
@@ -1478,9 +1478,9 @@ A prova foi vencida pelo candense Greg Moore, que disputa com Ribeiro o título d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-074</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-074</field>
+<field name="date">940919</field>
+<text_pt>
 CIDA SANTOS
 No final do treino de sexta-feira, jogadores da seleção e comissão técnica se reuniram no canto da quadra e repetiram o gesto que fizeram ao longo de todos os jogos da Olimpíada de 92: mãos colocadas umas sobre as outras e o grito de guerra "pra cima".
 Era o fim de mais uma semana de treinos e o fim também de um período difícil da seleção em busca da motivação perdida.
@@ -1493,9 +1493,9 @@ Zé Roberto disse que quer ver o time assim, jogando na pressão. E chegou a uma c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-075</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-075</field>
+<field name="date">940919</field>
+<text_pt>
 
 
 Os doze jogadores da Itália inscritos no Mundial são: Gardini, Gravina, De Giorgi, Tofoli, Papi, Bracci, Bernardi, Cantagalli, Zorzi, Pippi, Giani e Giretto. Os italianos fazem amanhã e quinta-feira os dois últimos amistosos contra Cuba. O time viaja dia 27 para a Grécia e estréia no dia 29 contra a China.
@@ -1506,9 +1506,9 @@ Samuelson deixou aberta a possibilidade de voltar à seleção dos Estados Unidos n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-076</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-076</field>
+<field name="date">940919</field>
+<text_pt>
 Da agências internacionais
 O pugilista mexicano Julio César Chávez, 32, venceu, na noite de sábado, o norte-americano Meldrick Taylor por nocaute técnico no oitavo assalto do confronto.
 A luta, disputada em Las Vegas (EUA), valeu pelo título dos meio-médio-ligeiros do Conselho Mundial de Boxe, o qual foi mantido nas mãos de Chávez.
@@ -1518,9 +1518,9 @@ Outras lutas de sábado: Gabriel Ruelas (EUA) venceu James Leija por pontos; Fran
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-077</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-077</field>
+<field name="date">940919</field>
+<text_pt>
 MARCUS FERNANDES
 Da Agência Folha, em Santos
 O Santos manteve a sua invencibilidade de um ano na Vila Belmiro ao ganhar do Cruzeiro ontem por 4 a 1. Com o resultado, a equipe do técnico Serginho mantém a esperança de conseguir a liderança do Grupo C.
@@ -1537,9 +1537,9 @@ Dois minutos depois, o meia Paulinho Kobayashi sofreu pênalti. Guga cobrou e fez
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-078</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-078</field>
+<field name="date">940919</field>
+<text_pt>
 JOÃO BATISTA NATALI
 Da Reportagem Local
 A ópera brasileira está morrendo.
@@ -1557,37 +1557,37 @@ sobre ópera à pág. 5-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-079</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-079</field>
+<field name="date">940919</field>
+<text_pt>
 Spielberg quer Sean Connery para o papel de Zorro no "remake" que fará sobre o herói mascarado. Segundo o roteiro, Connery deve perceber que não está em forma o bastante para tanta cavalgada e passará cavalo, capa, máscara e espada para seu filho Andy Garcia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-080</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-080</field>
+<field name="date">940919</field>
+<text_pt>
 O escritor Clive Cussler, autor das aventuras de Dirk Pitt, assinou um contrato de US$ 14 milhões com a Simon &amp; Schuster para a publicação de dois livros. Seu último livro, "Inca Gold", ficou 14 semanas entre os mais vendidos da lista do "The New York Times".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-081</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-081</field>
+<field name="date">940919</field>
+<text_pt>
 Mas quem ficou realmente satisfeito com seu contrato foi Jeffrey Archer. Apesar de seu mais recente livro, "Twelve Red Herrings", não ter obtido grande sucesso, conseguiu da britânica Harper Collins cerca de US$ 34 milhões por seus próximos três livros.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-082</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-082</field>
+<field name="date">940919</field>
+<text_pt>
 Johnny Depp diz que cresceu muito ao se travestir para interpretar o protagonista de "Ed Wood". "Aprendi o que as garotas passam antes de um encontro. Todos os rapazes deveriam usar meia-calça pelo menos uma vez na vida", disse à revista "Seventeen".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-083</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-083</field>
+<field name="date">940919</field>
+<text_pt>
 Com a inanição do Rio e São Paulo, montagens exequíveis e baratas são executadas por casas do Nordeste
 Da Reportagem local
 O maestro David Machado, que já regeu ópera em São Paulo e agora atua no Rio, é entre poético e pragmático em suas definições:
@@ -1609,9 +1609,9 @@ O principal, no entanto, é que nenhuma montagem ultrapassa os R$ 150 ou R$ 200 m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-084</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-084</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 São Paulo chegou a encenar sete óperas numa única temporada e não faz tanto tempo assim. Foi em 1992, por obra de uma prefeitura que oscila em seus humores e capacidade de gestão.
 É por isso que duas iniciativas do setor privado procuram colocar o teatro lírico em patamares qualitativos mais constantes.
@@ -1623,9 +1623,9 @@ Quanto ao Novo Teatro, questões como a programação são ainda embrionárias. De qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-085</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-085</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 A Prefeitura de São Paulo esboça uma reação para reerguer o Teatro Municipal. Está programando quatro montagens para 95, entre elas a dificílima "Lulu", ópera dodecafônica de Alban Berg.
 "Tivemos este ano diversos problemas financeiros e de organização", diz o atual responsável pelos corpos permanentes do teatro, Lauro Machado Coelho.
@@ -1638,9 +1638,9 @@ No Rio, a música bem escrita de Franz Lehar para sua "A Viúva Alegre" lotou rece
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-086</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-086</field>
+<field name="date">940919</field>
+<text_pt>
 
 
 Esta seção corrigiu informação de que o guitarrista Eric Clapton era norte-americano. O erro, diferentemente do que afirmou esta seção, não estava no texto, mas sim no subtítulo da reportagem.ERRAMOS
@@ -1665,9 +1665,9 @@ Ele afirma que já tentou de tudo: folk, rock, country, western, jazz. Mas sabe q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-087</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-087</field>
+<field name="date">940919</field>
+<text_pt>
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
 São exercícios de afinação as 13 práticas de auto-admiração do segundo disco do cantor paulistano Edson Cordeiro.
@@ -1688,9 +1688,9 @@ Quanto: R$ 20,00 (O CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-088</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-088</field>
+<field name="date">940919</field>
+<text_pt>
 ARTHUR NESTROVSKI
 Especial para a Folha
 Se há uma coisa que não falta no mundo no hoje são bons violinistas. Dos veteranos (Isaac Stern, Milstein) à geração intermediária (Perlman, Mintz, Kremer) aos jovens (Salerno-Sonnenberg, Kennedy) e até às crianças (Midori), é impressionante a quantidade de grandes solistas.
@@ -1718,9 +1718,9 @@ Quanto: R$ 24 (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-089</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-089</field>
+<field name="date">940919</field>
+<text_pt>
 "Nada É Sagrado" e "Errado pra Cachorro" são os destaques em dia que tem um inédito de Bruce Lee
 Da Redação
 
@@ -1741,9 +1741,9 @@ Já que se fala de equilíbrio, convém não esquecer o inédito "O Vôo do Dragão", d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-090</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-090</field>
+<field name="date">940919</field>
+<text_pt>
 Obra do artista tenta unir cegueira e fenômenos cósmicos
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1768,27 +1768,27 @@ Mais que isso, o artista faz referência ao mito de Orfeu para falar de arte. "Vo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-091</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-091</field>
+<field name="date">940919</field>
+<text_pt>
 
 
 Não percebe o alarido, vê o tiro e não percebe o estampido, a flor que gira é amarela e vê, o rio respira e corre, a cor se livra da matéria, a íris cega dilatada foca, a pele úmida se abre e outra pele, uma rosa, sua haste, a noite (nanquim) cobre o nanquim da noite, pretos pobres cobertos de pauladas, bairros dormem, negros morrem, brancos homens, cães curvados, uivos, pedras, pingos, a carne redonda do olho não vê a própria carne."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-092</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-092</field>
+<field name="date">940919</field>
+<text_pt>
 
 
 Abra a flor, acenda a luz poente à luz nenhum, homem-cavalo sem centauro, a estrela cega não te guia, sem destino para ele (este cavalo), o mar é de sargaços e eu colho a flor molhada, a água sobre a água num mar sobre o mar sonoro numa concha, a mulher procria numa concha, o ouvido guarda numa concha, o céu é uma e côncava, digo o meu segredo a uma concha, o nome do teu nome, músculo do teu músculo, lume do meu guia, coração buraco."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-093</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-093</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 O artista plástico Waltércio Caldas, 48, terminou na quinta-feira à noite a instalação de sua obra "A Matéria Tem Dois Corações", no quarto andar do edifício Guanabara, no vale do Anhangabaú.
 O objeto &#150;um cubo de vidro transparente, cheio de leite, onde o artista colocou um coração de boi&#150; faz parte do projeto "Arte Cidade 2", que será inaugurado dia 24, com 22 artistas.
@@ -1810,9 +1810,9 @@ Em outubro, o MoMA de Nova York faz uma exposição de desenhos do artista, "Mappi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-094</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-094</field>
+<field name="date">940919</field>
+<text_pt>
 A partir de amanhã, 97 filmes traçam em seis dias um panorama da produção brasileira, dos anos 60 até hoje
 INÁCIO ARAUJO
 Crítico de Cinema
@@ -1834,9 +1834,9 @@ As discussões sobre o cinema de curta-metragem (e, mais genericamente, o cinema 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-095</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-095</field>
+<field name="date">940919</field>
+<text_pt>
 VALDO CRUZ
 Secretário de Redação da Sucursal de Brasília
 GABRIELA WOLTHERS
@@ -1861,9 +1861,9 @@ Mas esta idéia está praticamente descartada, porque geraria muita confusão para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-096</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-096</field>
+<field name="date">940919</field>
+<text_pt>
 Do enviado a Recife e Palmares e da Reportagem Local
 Fernando Henrique Cardoso, candidato do PSDB à Presidência, saiu anteontem em defesa de seu vice, Marco Maciel, suspeito de receber dinheiro do empresário PC Farias em 1990.
 FHC disse não aceitar a hipótese de afastar Maciel da campanha. "Eu jogo a minha eleição nisso. Para mim é uma questão ética o Marco ficar até o fim", disse o tucano.
@@ -1884,9 +1884,9 @@ Segundo ele, a sociedade, em nome da valorização da ética na política, tem o dir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-097</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-097</field>
+<field name="date">940919</field>
+<text_pt>
 TALES FARIA
 Enviado especial a Palmares e Recife
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, participou ontem pela manhã de um comício em Palmares (PE) no qual parte do público foi transportada por ônibus cedidos por empresários sem a contrapartida de bônus eleitorais.
@@ -1900,9 +1900,9 @@ Mas a parte da platéia mais próxima do palanque estava animada. O apresentador d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-098</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-098</field>
+<field name="date">940919</field>
+<text_pt>
 Da Sucursal de Brasília
 A Procuradoria Geral Eleitoral quer que os tucanos Fernando Henrique Cardoso (candidato à Presidência), Tasso Jeireissati (candidato ao governo do Ceará) e Ciro Gomes (ministro da Fazenda) expliquem o uso da máquina do governo cearense em benefício da candidatura de FHC.
 A Folha revelou que o governo do Estado do Ceará, na gestão de Ciro Gomes, pagou passagens aéreas para militantes do PSDB participarem da convenção em Contagem (MG), que definiu Fernando Henrique como candidato do partido à Presidência.
@@ -1913,9 +1913,9 @@ Caberá ao corregedor-geral-eleitoral, ministro Flaquer Scartezzini, decidir sobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-099</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-099</field>
+<field name="date">940919</field>
+<text_pt>
 Da Sucursal de Brasília
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, entrou com um pedido no TSE (Tribunal Superior Eleitoral) com o objetivo de adiar seu depoimento para depois das eleições de 3 de outubro.
 O Tribunal intimou FHC a prestar depoimento na próxima quarta-feira no inquérito que investiga o uso da máquina do governo federal na campanha eleitoral.
@@ -1930,16 +1930,16 @@ Galvão deu 24 horas para que FHC apresente sua defesa prévia, se desejar, e dete
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-100</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-100</field>
+<field name="date">940919</field>
+<text_pt>
 A divulgação de que Marco Maciel, vice de Fernando Henrique Cardoso (PSDB), pode ter sido beneficiado com dinheiro de PC Farias em sua campanha em 90, provocou irritação entre os tucanos. Para FHC, tudo não passa de uma armação. Aloizio Mercadante, vice de Lula (PT), disse a suspeita é grave e comparou-a ao caso Collor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-101</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-101</field>
+<field name="date">940919</field>
+<text_pt>
 Fez comícios em Palmares e Belo Jardim, em Pernambuco. Sobre as denúncias contra seu vice, Marco Maciel, Fernando Henrique disse que se trata de uma armação e que, para ele, é uma "questão de ética o Marco Maciel ficar até o final" de sua campanha. Chegou no final da tarde a São Paulo. Em seus comícios chamou Lula e Miguel Arraes de "cadáveres ambulantes".
 pág. 1
 Lula
@@ -1952,9 +1952,9 @@ Participou de encontro com a militância no Circo Voador, no Rio. Voltou a atacar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-102</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-102</field>
+<field name="date">940919</field>
+<text_pt>
 JOSÉ ROBERTO DE TOLEDO 
 Editor do Painel
 O efeito eleitoral do imbróglio Ricupero esvaiu-se apenas duas semanas após o ex-ministro ter confessado para antenas parabólicas ajuda indireta à campanha de Fernando Henrique, via propaganda do real.
@@ -1966,9 +1966,9 @@ No Sul e no Norte/Centro-Oeste a intenção de voto no tucano não teve variação si
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-103</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-103</field>
+<field name="date">940919</field>
+<text_pt>
 JAN ROCHA
 Especial para a Folha
 Conheço a maioria dos candidatos à Presidência de outros tempos e sei que são homens bem-intencionados.
@@ -1989,9 +1989,9 @@ Jan Rocha é correspondente no Brasil do jornal britânico "The Guardian"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-104</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-104</field>
+<field name="date">940919</field>
+<text_pt>
 JOSIAS DE SOUZA
 Diretor-executivo da Sucursal de Brasília
 A Folha publicou ontem uma das mais graves denúncias desta cruzada eleitoral de 1994. Embora bombástica, a notícia não ganhou a capa do jornal. Encontrava-se escondida, na última página de um pequeno caderno interno.
@@ -2007,9 +2007,9 @@ Eis a grave denúncia que já não nos sensibiliza: traído pela memória, o eleitor 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-105</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-105</field>
+<field name="date">940919</field>
+<text_pt>
 JOÃO BATISTA NATALI
 Da Reportagem Local
 O peemedebista Marcelo Barbieri, 37, exerce seu primeiro mandato como deputado federal por São Paulo e agora concorre à reeleição.
@@ -2034,9 +2034,9 @@ Barbieri - Deveria ser feita pelo Congresso, mas segundo um procedimento aberto 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-106</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-106</field>
+<field name="date">940919</field>
+<text_pt>
 Tucano tem 46% das intenções de voto para o governo paulista, enquanto seus adversários somam agora 37%
 Da Redação
 Os adversários do senador Mario Covas (PSDB) na disputa pelo governo de São Paulo conseguiram, nos últimos 16 dias, reduzir a vantagem do candidato tucano.
@@ -2058,9 +2058,9 @@ A pesquisa Datafolha entrevistou 2.524 eleitores em 110 municípios do Estado de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-107</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-107</field>
+<field name="date">940919</field>
+<text_pt>
 Da Redação
 O candidato do PL ao Senado, Romeu Tuma, está empatado com o deputado José Serra (PSDB) na eleição para o Senado. Tuma, que tinha 29% das intenções de voto, subiu para 34%, um ponto a menos do que Serra, que tem 35%.
 Luiza Erundina (PT) oscilou um ponto para cima, alcançando 24%. João Leite Neto (PFL) oscilou um ponto para baixo, passando a 17%. Machado de Campos (PMDB) tem 6% e João Herrmann (PPS), 5%.
@@ -2076,9 +2076,9 @@ Tuma tem leve vantagem entre os que ganham até 5 salários (31% contra 30% de Ser
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-108</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-108</field>
+<field name="date">940919</field>
+<text_pt>
 JOSÉ SIMÃO 
 Da equipe de articulistas
 Dona Alaíde que se cuide! O Quércia tá recolhendo as peruas. É verdade, depois da última pesquisa o Quércia já tá recolhendo as peruas da rua. A ordem do Quércia agora é essa: "Recolhe as peruas!" Fepenc, Fundação das Peruas Carentes! E qual vai ser o destino das petistas: passar 4 anos jogando buraco e colecionando a Caras! Rarará!
@@ -2091,9 +2091,9 @@ E o Tuma, o xerife da Elementolândia, demitiu o assessor condenado pela Justiça.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-109</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-109</field>
+<field name="date">940919</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro das Minas e Energia, Alexis Stepanenko, tem até o dia de hoje para aparecer em casa e receber a notificação do TSE (Tribunal Superior Eleitoral) para que deponha na investigação de uso da máquina do governo em favor da candidatura de Fernando Henrique Cardoso à Presidência (PSDB).
 Os policiais federais encarregados de entregar a notificação pessoalmente a Stepanenko já estiveram duas vezes na casa do ministro neste fim-de-semana. Stepanenko não estava.
@@ -2104,9 +2104,9 @@ Um livreto de sua pasta também dizia que o partido do seu ministério era o parti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-110</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-110</field>
+<field name="date">940919</field>
+<text_pt>
 
 Posições defendidas na Conferência do Cairo
 EUA, Canadá, União Européia, Brasil, países escandinavos - apóiam os programas de educação sexual para jovens, bem como seu acesso aos serviços de prevenção de gravidez e de doenças sexualmente transmissíveis, em caráter confidencial.
@@ -2118,9 +2118,9 @@ Muçulmanos: Brunei, Irã, Líbia, Argélia e Iêmen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-111</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-111</field>
+<field name="date">940919</field>
+<text_pt>
 Conferência do Cairo assegura assistência aos jovens, mas dá responsabilidade aos pais
 HÉLIO SCHWARTSMAN 
 Enviado especial ao Cairo
@@ -2139,9 +2139,9 @@ Sobre a Conferência do Cairo na página 3.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-112</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-112</field>
+<field name="date">940919</field>
+<text_pt>
 Especial para a Folha
 Que americano é "doidgio", todos sabem. Que americano é chegado numas comidas gordurentas e mal balanceadas, é público e notório. Que americano é o povo ideal para se falar mal, é até desleal, irresistível tentação.
 São descompensadamente gordos, descompassados, histéricos: temem o câncer, o colesterol, o cálcio e o plutônio. Café sem cafeína. Chá sem chachaína. Prazer sem prazer.
@@ -2159,9 +2159,9 @@ MARCELO PAIVA está em San Francisco (EUA), como bolsista da Knight Fellowship na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-113</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-113</field>
+<field name="date">940919</field>
+<text_pt>
 
 Li a reportagem sobre a geração "antisurra" e achei constrangedor o estado em que ficaram os pais desses "teens rebeldes". Confesso ter passado por esta fase entre meus 12 e 14 anos. Tudo que queria era curtir a vida, dançando e fazendo muitas amizades. Nada de drogas, bebidas, sexo e enrascadas. Mas ao mesmo tempo em que curtia a vida, fazia meu pai e minha mãe sofrerem, pois eles não aceitavam isso, afinal eu era muito nova. Era um verdadeiro pesadelo quando entrava em casa. Até que um dia eu notei que eles mudaram, passaram a não ligar mais para minha presença e saídas. Comecei a me sentir vazia e sem amor. Então percebi que estava em um mundo de ilusão e falsidades, onde os amigos só eram amigos quando você tinha dinheiro para eles também saírem. Abri meus olhos e larguei tudo. Tornei-me uma pessoa séria e comecei a trabalhar com 14 anos. Hoje, aos 19, agradeço a Deus por ter colocado em minha mente a verdade: meus pais não podem sofrer tanto assim. Ainda bem que mudei, pois estava perdendo as partes mais valiosas da minha vida, partes estas totalmente insubstituíveis: o amor e a confiança de de meu papai e minha mamãe. Gostaria que publicassem esta carta pois com certeza alguns pais terão uma idéia de como mudar os filhos: usando a psicologia "indiferença". Foi assim que aprendi e dei a volta por cima.
 Valeu, Aparecida.
@@ -2181,9 +2181,9 @@ Escreva para o Folhateen, al. Barão de Limeira, 425, 4º andar, São Paulo, SP, CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-114</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-114</field>
+<field name="date">940919</field>
+<text_pt>
 é um vídeo de 55 minutos que traz dicas para iniciantes e informações para os maníacos do esporte. O pacote inclui uma revista e já está disponível em bancas de jornais ou no Serviço de Atendimento ao Leitor Video Print, tel. (011) 287-2454, por R$ 19,00.
 FORMA DO CORPO
 é uma nova versão de absorvente da linha Sempre Livre. Anatômico, este absorvente tem a mesma largura em toda sua extensão e seu comprimento também é maior, dando maior conforto e proteção.
@@ -2200,9 +2200,9 @@ A LOIRA GAÚCHA GISELE B&#154;NDCHEN,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-115</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-115</field>
+<field name="date">940919</field>
+<text_pt>
 Especial para a Folha
 "Tenho 17 anos e há alguns dias perdi minha virgindade em uma dessas casas noturnas que fazem programas pagos. O problema é que não consegui chegar ao fim, meu pênis deixou de ficar ereto no meio da relação. Eu estava nervoso e não queria fazer aquilo, mas meus amigos insistiram. Estou com receio de não conseguir de novo; será que sou impotente ou será que não consegui por estar contrariado ali? Pode acontecer isso com quem não é impotente?"
 
@@ -2222,9 +2222,9 @@ ROSELY SAYÃO, 44, é psicóloga. Se você tem dúvidas sobre sexo escreva para o Fol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-116</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-116</field>
+<field name="date">940919</field>
+<text_pt>
 Especial para a Folha
 Pessoalmente eu não gosto, mas camiseta de banda um monte de gente usa e ninguém quer saber do que eu gosto ou não. Mas já que é para usar, pelo menos tem que ter a ver com a roupa. Por exemplo: vocês acham que esse cara realmente gosta do Sepultura?
 A menina eu tenho certeza que gosta do Pearl Jam, pelo menos ela veste Pearl Jam. A roupa sempre mostra quem a gente é.
@@ -2233,18 +2233,18 @@ ESTELA ALCANTARA, 28, é estilista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-117</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-117</field>
+<field name="date">940919</field>
+<text_pt>
 GILBERTO DIMENSTEIN
 A greve dos metalúrgicos do ABC, em São Paulo, transformou-se no fato eleitoral da semana. E, como todo fato eleitoral, produziu mentiras e enganações em todos os cantos. Não é a primeira vez que greves são manipuladas politicamente. Há inúmeros exemplos. Durante a ditadura, os militares acusavam as greves por aumentos salariais de serem conduzidas pelos comunistas para desestabilizar o regime. Um exagero, mas com dose de verdade: comunistas usavam mesmo as greves para atacar os militares.
 GILBERTO DIMENSTEIN é diretor da Sucursal de Brasília.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-118</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-118</field>
+<field name="date">940919</field>
+<text_pt>
 
 
 Clima de pânico no Congresso. Afinal, não foi só ele que usou a gráfica, mas vários deputados e senadores. Mais: centenas de parlamentares usam facilidades do Congresso (telefone, correio, fax) para fazer campanha.
@@ -2253,9 +2253,9 @@ Se o Tribunal anular a candidatura de todo e qualquer candidato que use máquinas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-119</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-119</field>
+<field name="date">940919</field>
+<text_pt>
 Os rapazes garantem que ninguém precisa virar palito para ficar bonita e acompanhar os mandamentos
 ANTONINA LEMOS
 Da Reportagem Local
@@ -2275,9 +2275,9 @@ Alexandra acha que as meninas brasileiras não devem tentar se adequar ao seu pad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-120</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-120</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 Elas não eram consideradas exatamente as bonitonas da escola. São altas demais, magras demais e não escondem um certo ar desengonçado.
 Quando andam pela rua não despertam olhares admirados. Mas são paparicados pelos estilistas, entraram no mundo da moda e têm se saindo bem.
@@ -2294,9 +2294,9 @@ E diz: "Se eu fosse homem, ia preferir namorar a Kate Moss, à Cindy Crawford."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-121</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-121</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 "Não existe mais ditadura de moda. O que se preza em uma modelo é a sua atitude pessoal". As palavras são do estilista Lorenzo Martino, 23.
 Ele explica que as modelos magras são preferidas pelos estilistas apenas porque vestem bem qualquer tipo de roupa."Qualquer coisa que você poèm nela fica bom."Isso não quer dizer que lorenzo ache que a modelo tenha que ser perfeita. "Ela pode ter um rosto esquisito", diz.
@@ -2306,9 +2306,9 @@ O badalado Alexandre Hercovich vai mais longe. "Escolho pessoas estrahas para mo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-122</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-122</field>
+<field name="date">940919</field>
+<text_pt>
 KATHY WOLLARD
 Quando você joga uma pedra na água e vê círculos aparecerem e se espalharem a partir do ponto onde a pedra caiu, você está testemunhando um dos mais fundamentais eventos do universo &#150;ondas.
 O nosso é um universo baseado em ondas. Pense que você está em uma praia. Enquanto você brinca no mar, ondas te empurram e passam por você, quando o vento empurra a água. O vento passa em ondas através da vegetação e da areia em uma duna.
@@ -2330,9 +2330,9 @@ Copyright Los Angeles Times Syndicate.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-123</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-123</field>
+<field name="date">940919</field>
+<text_pt>
 ANDRÉ FORASTIERI
 Especial para a Folha
 Dê uns descontos para tudo que você andou lendo nesta coluna nos últimos dois meses. Chame de falta de produção, falta de distribuição ou falta de organização, mas os cronogramas de todas as gravadoras estão atrasando &#150;uns mais, outros menos.
@@ -2357,9 +2357,9 @@ ANDRÉ FORASTIERI, 29, é editor da revista "General".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-124</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-124</field>
+<field name="date">940919</field>
+<text_pt>
 Alunos querem movimento estudantil preocupado com questões práticas
 RODRIGO LEITE
 Da Reportagem Local
@@ -2378,9 +2378,9 @@ Mais números da pesquisa Datafolha e a disputa política pelas entidades.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-125</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-125</field>
+<field name="date">940919</field>
+<text_pt>
 
 1710 - Cerca de 500 estudantes cariocas se unem para conter a invasão francesa ao Rio de Janeiro.
 1786 - Doze estudantes brasileiros fundam na França um clube para lutar pela independência.
@@ -2405,9 +2405,9 @@ Fonte: "O Poder Jovem", de Artur José Poerner, e lideranças estudantil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-126</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-126</field>
+<field name="date">940919</field>
+<text_pt>
 Quando chega a hora do intervalo nas aulas do colégio, a estudante Ana Carolina Fassina, 14, aluna do 1º Colegial do Augusto Laranja, se reúne com os amigos em um canto do pátio para discutir um assunto importante: a melhor forma de chegar a uma festa na Zona Sul.
 As atividades do movimento estudantil passam muito longe de Ana Carolina. O colégio Augusto Laranja (particular, frequentado pela classe média alta de São Paulo) não tem grêmio estudantil. Ana Carolina não sente falta dele. "Quando temos algum problema vamos direto à diretoria do colégio. Eles próprios se encarregam de fazer shows, festas e campeonatos", argumenta Ana Carolina. "Nunca passou pela cabeça de ninguém aqui criar um grêmio."
 A menina sabe que existe uma entidade, a Ubes, que a representa nacionalmente. Sabe também que a carteirinha desta entidade dá direito a meia-entrada em cinemas e teatros. "Tenho vontade de fazer a carteirinha mas nunca fui. Estou esperando que alguma amiga se disponha a ir comigo."
@@ -2416,9 +2416,9 @@ O seu interesse por política, admite ela, é pequeno. Ana acha que quando fizer 1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940919-127</text_pt>
-<text_pt name="date">940919</text_pt>
-<text_pt name="text">
+<field name="id">FSP940919-127</field>
+<field name="date">940919</field>
+<text_pt>
 Da Reportagem Local
 Joel Benin, 23, é catarinense e se mudou para São Paulo no começo do ano. Veio assumir a Presidência da União Brasileira dos Estudantes Secundaristas (Ubes), a entidade máxima de representação dos alunos de 1º e 2º Graus -além de estudantes de cursinho, o caso de Joel atualmente.
 Devido a suas funções, Joel não frequenta aulas. Nem por isso se sente afastado do colégio. "Eu passo a maior parte do tempo dentro de escolas, conversando com estudantes."

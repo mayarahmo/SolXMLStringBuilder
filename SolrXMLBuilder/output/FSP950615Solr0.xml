@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950615-001</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-001</field>
+<field name="date">950615</field>
+<text_pt>
 As críticas dirigidas pelo ministro Cavallo e pelo presidente Menem contra a decisão do presidente Fernando Henrique Cardoso em favor de cotas na importação de automóveis já têm lugar garantido na história sul-americana.
 A virulência dos ataques coloca em evidência uma enorme fragilidade, não do projeto Mercosul, mas da própria política econômica argentina. A rigor, um exame da opção brasileira por cotas poderia abrir espaço para maior otimismo na Argentina e no Mercosul.
 Esta Folha tem insistido, desde que se começou a cogitar das cotas, no aspecto prático e na urgência, do ponto de vista da estabilidade do Plano Real, de se reverter os déficits comerciais sem apelar para a maxidesvalorização cambial. As cotas, doutrinas à parte, são uma espécie de ``second best" ou, em português claro, é dos males o menor.
@@ -16,9 +16,9 @@ Exagerar no destempero diplomático ou caluniar-se mutuamente só agrava um quadro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-002</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-002</field>
+<field name="date">950615</field>
+<text_pt>
 Parece que a moda do ``esqueçam tudo o que eu disse" pegou mesmo no governo federal. Na sexta-feira passada, o ministro das Comunicações, Sérgio Motta, declarava que o Planalto não estava trocando votos a favor das propostas de reforma constitucional por cargos. A quem duvidasse, Motta sugeria que passasse os olhos pelo ``Diário Oficial", que, segundo ele, seria a melhor fonte para esse tipo de pesquisa.
 Anteontem, em Paris, passando uma borracha sobre sua fala da semana anterior, Motta admitiu que o governo trocou nomeações nas telefônicas federais por votos em favor da flexibilização do monopólio das telecomunicações.
 O ministro também estava errado quando disse que a melhor fonte para desvendar manobras fisiológicas era o ``Diário Oficial". O PTB, partido aliado do governo, por exemplo, chegou a elaborar uma lista com seus candidatos a cargos no governo. Ao lado do nome do candidato e do posto almejado consta uma curiosa coluna QI (Quem Indicou). A cada caso atendido, dá-se baixa no processo com a rubrica OK.
@@ -29,9 +29,9 @@ De resto, o governo só tem a perder em credibilidade quando desdiz o que afirmar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-003</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-003</field>
+<field name="date">950615</field>
+<text_pt>
 A idéia de tabelar em 12% ao ano os juros seria apenas mais um episódio folclórico da política nacional, não estivesse em jogo nessa utopia o próprio sucesso do Real.
 Não se trata de ser a favor de juros altos. Mas, assim como ninguém em sã consciência é a favor da miséria, do desemprego, do atraso ou de outros tantos males, somente os desajuizados acreditam que é possível traduzir de modo direto e mecânico as leis econômicas em legislação econômica.
 Os juros são como qualquer outro preço da economia. Ou seja, são informação. Predeterminá-los é o mesmo que resfriar um termômetro para tentar curar a febre.
@@ -43,9 +43,9 @@ O tabelamento dos juros em 12% ao ano tem o mesmo sabor de fábula. Espera-se ent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-004</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-004</field>
+<field name="date">950615</field>
+<text_pt>
 Clóvis Rossi
 HALIFAX, CANADÁ _ É raro acontecer com presidentes, mas o norte-americano Bill Clinton pôs o dedo na ferida no discurso com que anunciou anteontem à noite o seu pacote para zerar o déficit orçamentário dentro de dez anos.
 ``Não quero que a geração de minha filha seja a primeira geração de americanos a estar pior do que a de seus pais", disse Clinton.
@@ -59,9 +59,9 @@ Nessa batida, a filha de Clinton talvez ainda consiga viver melhor do que os seu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-005</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-005</field>
+<field name="date">950615</field>
+<text_pt>
 Gilberto Dimenstein 
 BRASÍLIA _ Um dos destaques entre os novos parlamentares, o deputado e economista Antônio Kandir, do PSDB, está na linha de frente da base de sustentação do presidente Fernando Henrique Cardoso no Congresso. É o exemplo vivo, porém, das discordâncias provocadas nos grupos de sustentação do governo devido às cotas de importação de automóveis.
 Reservadamente, ele critica: ``É um retrocesso. E estou torcendo para que me convençam, com números, de que estou errado". Kandir tinha uma idéia alternativa, que lhe parecia simples e eficaz: o governo aumentaria ainda mais o imposto de importação e, com parte dele, compraria dólares. Isso, na sua opinião, teria efeito positivos na balança comercial.
@@ -75,9 +75,9 @@ PS _ Para quem ainda acredita nos vendedores do caos. Em conversa ontem com esta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-006</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-006</field>
+<field name="date">950615</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ Desde cedo ameaçava ser espírito de porco. Nas aulas de latim, me explicaram o uso do acusativo com dois exemplos muito citados: o verso de Horácio ``carpe diem" (aproveita o dia) e o ditado que outro dia lembrei, inscrito em mosaico no pórtico da Casa do Poeta Trágico, em Pompéia, uma das mais visitadas daquela cidade-fantasma: ``Cave canem" (cuidado com o cão).
 Meus conhecimentos de latim (ou de qualquer outra língua, viva ou morta) nunca foram suficientes para questionar tais e tamanhas filigranas de gramática. Eu achava errado não o uso do acusativo, mas o sentido da frase: aproveita o dia. O que seria aproveitar o dia? O restante do verso de Horácio é esclarecedor: ``aproveita o dia e crê o mínimo no dia seguinte". Bolas, o dia de hoje foi o dia seguinte de ontem, como aproveitar um dia do qual se esperou o mínimo?
@@ -88,9 +88,9 @@ De maneira que, já no início da faina humana, além do ketchup, desconfiei dos pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-007</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-007</field>
+<field name="date">950615</field>
+<text_pt>
 Otavio Frias Filho
 As figuras de linguagem são atalhos para se chegar logo ao sentido. Ao comparar a amada com a lua ou dizer que ela é uma flor, como vimos no Dia dos Namorados, o pensamento se transporta imediatamente, sem demoras explicativas. Tropo, sinônimo de figura de linguagem, em grego quer dizer desvio.
 A linguagem não apenas está cheia de figuras vivas como é formada a partir de figuras que morreram. Como mostra o próprio termo ``tropo", cada palavra é a ruína de uma imagem esquecida no passado. A razão é que não é possível pensar a não ser por imagens.
@@ -107,9 +107,9 @@ Otavio Frias Filho escreve às quintas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-008</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-008</field>
+<field name="date">950615</field>
+<text_pt>
 O câmbio é como o anzol de um pescador que fisgou um peixe grande: a taxa de inflação
 JOÃO SAYAD
 Nos anos 30, havia um grande problema: como aumentar o emprego. Muitos economistas argumentavam que a solução era deixar os salários livres _com salários menores, o emprego aumentaria. Em 1936, no famoso ``Teoria Geral do Emprego e da Renda", Keynes argumentava que salários nominais flexíveis _que sobem e descem ao sabor da situação_ tenderiam a agravar o problema do desemprego. Contra-intuitivo, revolucionário. Não convenceu, ou convence pouco até hoje, 59 anos depois.
@@ -130,9 +130,9 @@ JOÃO SAYAD, 46, doutor em economia pela Universidade de Yale (EUA), é presidente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-009</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-009</field>
+<field name="date">950615</field>
+<text_pt>
 Melhor será que direita e esquerda busquem juntas alternativas eficazes para a diminuição da miséria
 GILBERTO DUPAS
 Instigado por Norberto Bobbio, que o velho amigo Celso Lafer fez questão de me presentear no original, comecei a fuçar os jornais em busca do que mudou na política brasileira após o débâcle do leste.
@@ -160,9 +160,9 @@ GILBERTO DUPAS, 52, consultor econômico, é membro do Instituto de Estudos Avança
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-010</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-010</field>
+<field name="date">950615</field>
+<text_pt>
 ``A propósito da matéria `Alta de tarifas pode levar a inflação a 3%', publicada neste prestigioso jornal em 11/6, gostaria de dizer que não fiz qualquer comentário sobre a alegada antecipação de reajustes tarifários por parte dos secretários de Porto Alegre e Brasília, nem tampouco que o acompanhamento do acordo depende da necessidade da sobrevivência das empresas. Também não afirmei que os gastos com combustíveis e o aumento da demanda de passageiros foram itens que justificaram o reajuste da tarifa de Salvador. Nossa preocupação exclusiva é com a situação de Salvador, entendendo que cada cidade tem de considerar suas especificidades. No caso de Salvador, estes reajustes decorreram, principalmente, da correção dos salários dos operadores em quase 70%, fruto de dois dissídios, aumento dos preços dos veículos e melhoria na qualidade do serviço, representada pela elevação da oferta de viagens, criação de novas linhas e renovação e ampliação da frota operante. Nossa postura em todo o processo de reajuste da tarifa de ônibus de Salvador, após um ano de congelamento, pautou-se pela total observância às recomendações do Fórum Nacional de Secretários Municipais de Transporte, em comum acordo com o dr. Milton Dallari, no que diz respeito ao cálculo tarifário, baseado na metodologia do Ministério dos Transportes, ao escalonamento das datas de reajustes, no caso de Salvador previsto para junho, e ao envio prévio da nova planilha, antes do reajuste, para análise do ministério. O reajuste de Salvador não está `fora da realidade', como, segundo a matéria, teria sido observado pelo dr. Dallari, o qual, segundo podemos confirmar, apenas disse que não poderia se posicionar naquele momento por desconhecer a realidade tarifária de Salvador."
 Miguel Kertzman, secretário municipal de Transportes Urbanos de Salvador (Salvador, BA)
 
@@ -181,9 +181,9 @@ Filipe Salvador (Rio de Janeiro, RJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-011</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-011</field>
+<field name="date">950615</field>
+<text_pt>
 Presidente Menem ameaça não vir para reunião de cúpula em São Paulo 
 SÔNIA MOSSRI
 De Buenos Aires
@@ -212,9 +212,9 @@ sobre as cotas na página 1-5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-012</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-012</field>
+<field name="date">950615</field>
+<text_pt>
 LUCAS FIGUEIREDO
 Da Sucursal de Brasília
 A ministra Dorothéa Werneck (Indústria, Comércio e Turismo) admitiu ontem que o governo poderá conceder compensações à Argentina devido ao fato de o Mercosul ter sido incluído no regime de cotas de importação de automóveis.
@@ -230,9 +230,9 @@ A reivindicação foi feita durante as discussões entre diplomatas dos dois países
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-013</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-013</field>
+<field name="date">950615</field>
+<text_pt>
 Do Banco de Dados
 Uma declaração do presidente argentino Carlos Menem deflagrou, em 94, uma crise diplomática entre Brasil e Argentina.
 Ao comentar uma passeata de 50 mil pessoas em Buenos Aires contra sua política econômica, Menem disse em rede de TV: ``Quantas marchas deveriam ser feitas no Brasil, onde o salário mínimo é metade do que ganha um aposentado argentino?"
@@ -246,9 +246,9 @@ O Ministério das Relações Exteriores brasileiro teve que dar explicações à chanc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-014</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-014</field>
+<field name="date">950615</field>
+<text_pt>
 Nova modalidade de ganhos assombrosos das grandes empreiteiras, como sempre às custas dos cofres públicos, já recebeu esquisita aprovação do Judiciário e só depende agora, para estrear com a entrega de quase R$ 2 bilhões extras à Construtora Mendes Jr., da confirmação pelo Tribunal de Justiça de Pernambuco.
 Consiste a manobra na cobrança de juros de mercado aplicados aos atrasos de pagamento por órgãos públicos. Acontece que os preços absurdos das obras são explicados pelas empreiteiras como decorrência da inclusão, neles, de compensações para a demora dos recebimentos. Isto é só arremedo de verdade, porque os acréscimos excedem de muito, com frequência em mais de 100%, o que seria um preço razoável (estimado, seja pelas tabelas de custo da engenharia, seja pelos preços internacionais). Por isso mesmo, os contratos, em geral, não estabelecem juros por atraso de pagamento, seja qual for o atraso.
 Foi o caso do contrato para a obra, pela Mendes Jr., de terraplenagem e estruturas de concreto da Hidrelétrica de Itaparica, em Pernambuco, no valor de aproximadamente R$ 1,7 bilhão. Neste valor, 60% são consideráveis como acréscimo aos 40% de custo real, com aumento do preço, portanto, de 150%. Apesar disso, a Mendes Jr. entrou com ação judicial cobrando juros _e não juros oficiais, mas juros de mercado, os juros da especulação_ e ressarcimento de encargos financeiros pelo período em que teria financiado a obra, alegadamente com recursos de empréstimos.
@@ -259,9 +259,9 @@ Com base na autorização do STJ, a Mendes entra com nova cobrança na mesma 4ª Var
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-015</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-015</field>
+<field name="date">950615</field>
+<text_pt>
 FHC manda dizer que espera Menem no Brasil para ``tirar dúvidas"
 SILVANA DE FREITAS
 Da Sucursal de Brasília
@@ -277,9 +277,9 @@ Segundo ele, FHC não recebeu nenhum comunicado formal de Menem anunciando a ausê
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-016</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-016</field>
+<field name="date">950615</field>
+<text_pt>
 MARTA SALOMON
 Da Sucursal de Brasília
 O relator da medida provisória que limita a importação de carros, deputado José Carlos Aleluia (PFL-BA), previu ontem que a MP enfrentará resistências entre os parlamentares, mas deve ser aprovada com pequenas modificações.
@@ -290,9 +290,9 @@ Além dos interesses dos importadores, o relator prevê que estarão em jogo pressõ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-017</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-017</field>
+<field name="date">950615</field>
+<text_pt>
 Lideranças da categoria pretendem insistir na negociação com a Petrobrás; FUP busca apoio de parlamentares
 Da Agência Folha, da Sucursal do Rio e das Regionais
 Funcionários de várias refinarias da Petrobrás que encerraram greve de 30 dias no último dia 2 de junho aprovaram ontem o início de nova paralisação.
@@ -315,9 +315,9 @@ Ontem, a Petrobrás não divulgou a lista dos demitidos durante a greve. A Folha p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-018</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-018</field>
+<field name="date">950615</field>
+<text_pt>
 Das Sucursais
 O ministro Raimundo Brito (Minas e Energia) disse ontem que a Petrobrás não vai rever nenhuma outra demissão além das 33 já acertadas com o comando de negociação dos petroleiros.
 Durante a greve de 30 dias a Petrobrás demitiu 104 grevistas, segundo o governo.
@@ -341,9 +341,9 @@ Por ser feriado, os parlamentares deverão estar em suas bases eleitorais.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-019</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-019</field>
+<field name="date">950615</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
 O presidente da CUT (Central Única dos Trabalhadores), Vicente Paulo da Silva, o Vicentinho, sugeriu ontem aos petroleiros a realização de uma ``operação tartaruga" como alternativa à greve caso não se consiga avançar as negociações com a Petrobrás.
@@ -359,9 +359,9 @@ Spis afirmou que as assembléias de petroleiros ontem aprovaram que a CUT deve se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-020</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-020</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local
 O abastecimento de gás de cozinha em botijões continua irregular na cidade de São Paulo, mesmo depois de 12 dias do fim da greve dos petroleiros.
 Motivo: as empresas engarrafadoras não estão recebendo da Petrobrás a quantidade necessária para o consumo, que é de cerca de 150 mil botijões de 13 kg por dia.
@@ -378,9 +378,9 @@ Colaborou a Folha Sudeste
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-021</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-021</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 A divergência entre o PSDB e o PFL em relação à manobra para evitar a votação dos juros de 12% ao ano marca, mais uma vez, a dificuldade de convivência dos dois partidos no Congresso.
 No almoço de anteontem com os tucanos, o próprio presidente Fernando Henrique Cardoso aproveitou para pedir que os dois partidos parassem com as ``picuinhas".
@@ -397,9 +397,9 @@ O presidente do PFL, Jorge Bornhausen, chega a rir das picuinhas. ``Às vezes, as
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-022</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-022</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local
 A política do governo, de desindexação salarial, não é a livre negociação, mas sim ``um abandono total" aos salários, no entender do presidente da CUT, Vicente Paulo da Silva, o Vicentinho.
 A CUT apresentou sua proposta para o salário mínimo, que prevê que seu valor chegue a R$ 200 em 12 meses. Para os demais salários, os reajustes seriam anual, semestral, trimestral de acordo com a inflação, com reposição automática das perdas anteriores sempre que a inflação chegasse a 2% ao mês.
@@ -408,9 +408,9 @@ A CUT, segundo o diretor Marcelo Sereno, vai elaborar uma proposta de legislação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-023</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-023</field>
+<field name="date">950615</field>
+<text_pt>
 Fernando Ferro diz que Motta violou Lei de Responsabilidade ao trocar cargos por votos; Planalto nega barganha
 LUCIO VAZ
 Da Sucursal de Brasília
@@ -436,9 +436,9 @@ Colaboraram WILLIAM FRANÇA, da Sucursal de Brasília, e ROBERTO SAMORA, da Agênci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-024</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-024</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 O 44º Congresso da UNE (União Nacional dos Estudantes), aberto ontem, em Brasília, deve aprovar neste fim-de-semana proposta da atual direção de pressionar o Congresso Nacional pela realização de referendo popular sobre as reformas constitucionais.
 No referendo, assim como no plebiscito, é feita uma consulta à população _no caso, se aprova ou não as reformas. Ambas as consultas estão previstas no artigo 14 da Constituição.
@@ -457,9 +457,9 @@ Brizola foi um dos últimos políticos a aderir ao impeachment e chegou a classifi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-025</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-025</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 Dezoito minutos. Esse foi o tempo que a CCJ (Comissão de Constituição e Justiça) do Senado levou para aprovar o parecer favorável à emenda do governo que abre para as empresas estrangeiras a navegação entre os portos brasileiros (cabotagem).
 Sem discussão sobre o tema, os senadores votaram a proposta enquanto beliscavam biscoitos de água e sal, tomavam água e Coca-Cola diet. A votação ocorreu das 13h13 às 13h31.
@@ -475,9 +475,9 @@ Ramez Tebet (PMDB-MS), relator da empresa nacional, e Jefferson Peres (PSDB-AM),
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-026</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-026</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Fernando Henrique Cardoso fez um apelo aos senadores do PFL para que votem o mais rápido possível as emendas constitucionais que estão em tramitação no Senado.
 O presidente defendeu que o Congresso continue trabalhando durante julho, mês de recesso parlamentar.
@@ -496,9 +496,9 @@ A votação da primeira emenda no plenário _a que trata da distribuição do gás can
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-027</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-027</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 O programa Comunidade Solidária informou, por intermédio de sua assessoria de comunicação, que receberão alimentos apenas as cidades já selecionadas pelo critérios de necessidade.
 O órgão nega também que haja qualquer risco de haver uma distribuição política dos alimentos, como aponta a deputada Marta Suplicy.
@@ -509,9 +509,9 @@ A pobreza e a fome obrigaram 208 municípios (no Espírito Santo, Minas Gerais e B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-028</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-028</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 Em véspera de feriadão, 426 dos 513 deputados participaram da sessão de ontem da Câmara. Os deputados trabalharam e até aprovaram um projeto, que autoriza o governo a distribuir alimentos de seus estoques reguladores.
 Em geral, os projetos importantes não são colocados em pauta nas vésperas de feriado. Existe dificuldade de obter quórum, e a aprovação dos projetos é difícil.
@@ -525,9 +525,9 @@ A sessão de ontem foi realizada pela manhã. Durante a tarde, começou a debandada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-029</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-029</field>
+<field name="date">950615</field>
+<text_pt>
 Da Agência Folha, em Curitiba
 O ex-secretário-geral do PSDB Euclides Scalco, 62, deixou ontem o partido. Ele disse que saiu do PSDB por causa da entrada de Álvaro Dias, ex-governador do Paraná e ex-presidente do PP.
 ``É claro que saio por causa dele. Não concordo politicamente com a entrada de Álvaro Dias."
@@ -540,9 +540,9 @@ Scalco afirmou também que não pretende se filiar a outro partido. ``É a primeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-030</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-030</field>
+<field name="date">950615</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte
 Os chamados ``helistas" _aliados do ex-governador de Minas, Hélio Garcia (PTB)_ estão se preparando para deixar o PTB e ingressar no PSDB.
 O deputado federal Roberto Brant assinou ontem a ficha de filiação ao PSDB em uma solenidade na Assembléia Legislativa, que contou com a presença do governador tucano Eduardo Azeredo.
@@ -552,9 +552,9 @@ As mudanças estão sendo feitas com o aval de Garcia. A entrada do ex-governador 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-031</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-031</field>
+<field name="date">950615</field>
+<text_pt>
 Se quiser, empresário pode prestar serviços de ``conforto solidário" em hospitais, orfanatos e abrigos públicos
 Da Sucursal de Brasília
 O empresário Paulo César Farias, condenado a sete anos de reclusão por ter movimentado contas ``fantasmas", poderá sair da prisão especial onde está detido, no quartel do Corpo de Bombeiros de Maceió desde que aceite dedicar os dias úteis ao trabalho gratuito em entidades assistenciais ou programas comunitários.
@@ -581,9 +581,9 @@ Junto com o ex-sócio Jorge Bandeira, PC teria deixado de pagar à Receita Federal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-032</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-032</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 A indicação de Geraldo Brindeiro para ser o novo procurador-geral da República, feita pelo presidente Fernando Henrique Cardoso, deve ser aprovada com tranquilidade pelo Senado Federal.
 Entre os senadores, não há resistências ao nome de Brindeiro, apesar de alguns, que não quiseram se identificar, terem receio de que o seu desempenho como procurador-geral venha a ser burocrático.
@@ -601,9 +601,9 @@ Brindeiro é primo do vice-presidente Marco Maciel e integra o Ministério Público
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-033</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-033</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local
 Os participantes do 1º Seminário Internacional sobre o projeto de pesquisa ``Estudos Críticos da História" encerraram o evento com debates sobre antigas civilizações e a influência de ideologias no estudo da história. O evento aconteceu ontem e anteontem na Universidade de São Paulo.
 Durante o seminário, o cientista político Hélio Jaguaribe, decano do Instituto de Estudos Políticos e Sociais (Iepes), do Rio, defendeu que o estudo da história não seja limitado por dogmas e ideologias.
@@ -617,9 +617,9 @@ Em seguida, o estudo deverá analisar as condições específicas existentes no perí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-034</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-034</field>
+<field name="date">950615</field>
+<text_pt>
 Da Agência Folha, em Sorocaba
 O governador de São Paulo, Mário Covas (PSDB), disse ontem que dará amplo direito de defesa aos delegados acusados de tortura e de participação na repressão política durante o regime militar (1964-1985) antes de afastá-los de cargos de chefia na polícia.
 A Folha revelou ontem que o grupo de defesa dos direitos humanos Tortura Nunca Mais denunciou ao governo paulista seis nomes que têm cargos de confiança no esquema policial. Entre eles está o diretor Departamento Estadual de Trânsito, Enos Beolqui.
@@ -629,9 +629,9 @@ Covas esteve ontem em Sorocaba (87 km de São Paulo) para repassar verba de R$ 1,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-035</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-035</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília
 O Ministério do Trabalho criou ontem uma comissão que vai analisar os registros profissionais concedidos a jornalistas.
 Segundo a Fenaj (Federação Nacional dos Jornalistas Profissionais), houve registros concedidos sem a apresentação de todos os documentos exigidos.
@@ -643,9 +643,9 @@ A comissão terá três membros da Fenaj, três membros do Ministério do Trabalho e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-036</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-036</field>
+<field name="date">950615</field>
+<text_pt>
 Pesquisadores dos EUA sugerem mecanismo como DDT provoca malformação no sistema reprodutor do homem
 Da Redação
 O pesticida DDT afeta o funcionamento dos hormônios masculinos, provocando anormalidades no sistema reprodutor.
@@ -666,9 +666,9 @@ Se os novos resultados forem confirmados, o DDT sai da lista dos potenciadores d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-037</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-037</field>
+<field name="date">950615</field>
+<text_pt>
 Presidente Menem ameaça não vir para reunião de cúpula em São Paulo
 SÔNIA MOSSRI
 De Buenos Aires
@@ -696,9 +696,9 @@ Para o presidente da Adefa, o novo regime da indústria automobilística brasileir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-038</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-038</field>
+<field name="date">950615</field>
+<text_pt>
 FERNANDO GODINHO
 Coordenador de Economia da Sucursal de Brasília
 Desde a implementação do Mercosul _em janeiro deste ano_ até abril último, as importações brasileiras feitas na Argentina superaram as exportações para aquele país em US$ 459,59 milhões. O setor automotivo argentino é o principal responsável pelo déficit comercial do Brasil em relação àquele país. Foram importados US$ 252,22 milhões em veículos, autopeças e outros componentes do setor automobilístico argentino. Estes números demonstram que a pauta de exportação da Argentina para o Brasil depende, principalmente, do setor automotivo.
@@ -714,9 +714,9 @@ Colaboraram GUSTAVO PATÚ, da Sucursal de Brasília, e a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-039</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-039</field>
+<field name="date">950615</field>
+<text_pt>
 Das Sucursais
 O ministro Raimundo Brito (Minas e Energia) disse ontem que ``não há a menor hipótese de uma nova greve dos petroleiros mudar a decisão do governo" com relação às demissões de grevistas.
 Conforme o ministro, a Petrobrás não vai rever nenhuma outra demissão além das 33 já acertadas com o comando de negociação dos petroleiros.
@@ -741,9 +741,9 @@ Os 27 funcionários haviam sido reincorporados à Petrobrás após suas empresas de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-040</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-040</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal do Rio
 O presidente Fernando Henrique Cardoso anunciou ontem, no Rio de Janeiro, a transferência da CVM (Comissão de Valores Mobiliários) para o Rio. A CVM, que controla o mercado de ações, foi transferida para Brasília no governo Collor (1990-92).
 FHC negou que pretenda aumentar novamente o mínimo neste ano. ``Meu Deus! Nós acabamos de dar um aumento. Isto que está nos jornais não corresponde. Só daqui a um ano, em maio".
@@ -761,9 +761,9 @@ Fernando Henrique viu a maquete da nova sede da Bolsa de Valores do Rio de Janei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-041</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-041</field>
+<field name="date">950615</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Não precisa muita coisa para causar arrepios de nacionalismo entre Brasil e Argentina.
@@ -782,9 +782,9 @@ Vai mal, o rolo compressor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-042</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-042</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília 
 A indicação de Geraldo Brindeiro para ser o novo procurador-geral da República, feita pelo presidente Fernando Henrique Cardoso, deve ser aprovada pelo Senado.
 Entre os senadores, não há resistências ao nome de Brindeiro, apesar de alguns, que não quiseram se identificar, terem receio de que o seu desempenho como procurador-geral seja burocrático.
@@ -793,9 +793,9 @@ Para o líder do PSDB, senador Sérgio Machado (CE), a escolha significará uma ``m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-043</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-043</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 Os participantes do 1º Seminário Internacional sobre o projeto de pesquisa ``Estudos Críticos da História" encerraram o evento com debates sobre antigas civilizações e a influência de ideologias no estudo da história. O encontro aconteceu ontem e anteontem na Universidade de São Paulo.
 O cientista político Hélio Jaguaribe, decano do Instituto de Estudos Políticos e Sociais (Iepes), do Rio, defendeu que o estudo da história não seja limitado por dogmas e ideologias. ``As ideologias envenenam a história", disse.
@@ -808,30 +808,30 @@ Sepúlveda quer propor emenda para Judiciário
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-044</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-044</field>
+<field name="date">950615</field>
+<text_pt>
 Pelo menos 20 pessoas morreram e 6 têm poucas chances de sobreviver depois de caírem com um píer (plataforma de embarque de um porto), que desabou no principal rio de Bancoc, a capital da Tailândia. A polícia disse que muitos ficaram presos sob a água. Sobreviventes disseram que cerca de cem pessoas estavam no píer. Ontem continuava o resgate.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-045</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-045</field>
+<field name="date">950615</field>
+<text_pt>
 O FBI (polícia federal dos EUA) afirmou ter pistas de ``John Doe 2" (Fulano de Tal 2), o segundo suspeito pelo atentado a bomba em Oklahoma City que deixou 167 mortos. Seu nome seria Todd Bunting. Segundo o FBI, ele estava com Timothy McVeigh, o ``John Doe 1", quando foi alugado o furgão que explodiu, mas não participou do atentado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-046</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-046</field>
+<field name="date">950615</field>
+<text_pt>
 O presidente da Rússia, Boris Ieltsin, aceitou ontem a renúncia do general Alexander Lebed do comando do 14º Exército russo. Lebed é provável candidato às eleições presidenciais no país em junho de 1996. Ele renunciou há duas semanas, em protesto ao plano de diminuir a graduação do 14º Exército e de retirá-lo da ex-república soviética da Moldova.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-047</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-047</field>
+<field name="date">950615</field>
+<text_pt>
 O governo francês passou a reconhecer a validade de passaportes expedidos pela Autoridade Nacional Palestina. Os vistos serão válidos apenas em território francês, e não em todos os outros países da União Européia. EUA, Reino Unido, Espanha e Israel reconhecem o passaporte.
 
 Argentina promete extraditar ex-nazista 
@@ -852,9 +852,9 @@ A onda de calor no sul do Egito já deixou 32 mortos nos últimos dias. A temperat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-048</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-048</field>
+<field name="date">950615</field>
+<text_pt>
 Atentado que matou 29 teria sido provocado por guerrilheiros a mando de traficantes 
 Das agências internacionais 
 O governo colombiano disse ontem ter provas de que traficantes são os responsáveis pelo atentado a bomba que matou 29 pessoas e feriu mais de 200 no sábado, em Medellín.
@@ -877,9 +877,9 @@ No sul do país, o Exército encontrou e destruiu um laboratório de processamento 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-049</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-049</field>
+<field name="date">950615</field>
+<text_pt>
 Participantes da reunião de cúpula no Canadá reclamam da retomada dos testes franceses no Pacífico
 CLÓVIS ROSSI 
 Enviado especial a Halifax (Canadá) 
@@ -906,9 +906,9 @@ O presidente francês chega hoje a Halifax, bem como seus interlocutores, exceto 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-050</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-050</field>
+<field name="date">950615</field>
+<text_pt>
 Do enviado especial 
 Enquanto os governantes do G-7 discutem como reformar o FMI e o Banco Mundial (leia texto nesta página), o P-7 pura e simplesmente dinamita retoricamente as duas organizações.
 P-7 é a abreviação para ``Cúpula do Povo" (de onde sai o P), promovida por ONGs (organizações não-governamentais), na ``Zona Verde", a seis quadras do local da cúpula oficial.
@@ -926,9 +926,9 @@ Ed Broadbent, presidente do Centro Internacional para Direitos Humanos e Desenvo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-051</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-051</field>
+<field name="date">950615</field>
+<text_pt>
 Do enviado especial 
 O jornal ``The Chronicle-Herald", de Halifax, criou a ``vigilância de celebridade". Convida o leitor a telefonar para contar se viu alguma celebridade do G-7 na cidade e promete incluir a informação na sua cobertura da cúpula.
  
@@ -949,9 +949,9 @@ A austeridade chegou ao mundo dos ricos. Em cúpulas anteriores, havia comida grá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-052</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-052</field>
+<field name="date">950615</field>
+<text_pt>
 Do enviado especial
 O FMI (Fundo Monetário Internacional) assumirá o papel de xerife da economia mundial, se os planos de reforma das organizações internacionais saírem de acordo com o que planeja o G-7, o clube dos sete países mais ricos.
 A reunião anual de cúpula do G-7, que se inicia hoje em Halifax, cidadezinha da costa leste canadense, vai tratar exatamente da reforma do FMI e de seu irmão-gêmeo, o Banco Mundial.
@@ -975,9 +975,9 @@ Aí é que entra a proposta de aumentar a disponibilidade de fundos de emergência 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-053</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-053</field>
+<field name="date">950615</field>
+<text_pt>
 Das agências internacionais 
 Cerca de cem homens fortemente armados atacaram Budennovsk (sul da Rússia), mataram pelo menos 41 pessoas e fugiram com cerca de 160 reféns. Relatos extra-oficiais falam em até 70 mortos.
 A cidade fica 70 km a norte da fronteira da Tchetchênia, república que declarou independência da Federação Russa no ano passado e foi invadida, em dezembro, pelo Exército russo. O país está, desde então, em guerra.
@@ -999,9 +999,9 @@ Para Dudaiev, o ataque foi feito pela própria Rússia. "O ato de terror em Budenn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-054</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-054</field>
+<field name="date">950615</field>
+<text_pt>
 De Lisboa 
 Racismo causa mais incidentes 
 O jornal informa que mais dois incidentes racistas aconteceram na quarta-feira em Lisboa. No primeiro, 15 indivíduos brancos agrediram 2 jovens negros que tiveram de ser atendidos pelo Hospital de São José, no centro da capital portuguesa.
@@ -1012,25 +1012,25 @@ Um imigrante cabo-verdiano espancado por neonazistas morreu há três dias no país
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-055</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-055</field>
+<field name="date">950615</field>
+<text_pt>
 De Tel Aviv 
 Jornal abandona anúncio de sexo 
 O segundo maior jornal de Israel decidiu não aceitar anúncios de sexo. O jornal vai deixar de faturar US$ 40 mil por dia. O "Maariv" tomou a decisão ao começar a ser investigado pela polícia. A investigação é pedido do comitê parlamentar de educação que discute o tema. Organizações religiosas e feministas vinham protestando contra o caráter excessivamente explícito dos anúncios.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-056</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-056</field>
+<field name="date">950615</field>
+<text_pt>
 Um terremoto de 6,3 graus na escala Richter (que não tem fim, mas cujo máximo registrado é 9) atingiu a Grécia na madrugada de hoje (noite de ontem no Brasil). Um prédio caiu em Egion (oeste). Várias pessoas ficaram sob os escombros, mas até as 23h de ontem não havia registro de vítimas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-057</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-057</field>
+<field name="date">950615</field>
+<text_pt>
 AMAURY RIBEIRO JR
 Da Agência Folha, em Belo Horizonte 
 O capitão Harley Alves telefonou às 18h de ontem (horário de Brasília), de Pale (Bósnia), para sua mãe, Helena Alves, em Belo Horizonte (MG). O capitão, que está há 20 dias como refém dos sérvios, disse que estava bem.
@@ -1046,9 +1046,9 @@ Ela disse que rezou com amigas anteontem em sua casa, na esperança de que seu fi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-058</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-058</field>
+<field name="date">950615</field>
+<text_pt>
 Em maio, importações do país atingiram US$ 4,8 bilhões e exportações, US$ 4,2 bilhões 
 Da Sucursal de Brasília 
 As importações brasileiras em maio ficaram em US$ 4,8 bilhões e pela quinta vez no ano superaram as exportações, que registraram US$ 4,2 bilhões no mesmo mês.
@@ -1062,9 +1062,9 @@ A importação de combustíveis aumentou devido à greve dos petroleiros. A importaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-059</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-059</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília 
 O secretário de Política Econômica do Ministério da Fazenda, José Roberto Mendonça de Barros, disse que a MP (medida provisória) que limitou a importação de veículos não deve ter efeito imediato na balança comercial.
 Mendonça de Barros disse que a MP vincula as importações de carros com as exportações. Com isso, as empresas podem planejar melhor seus investimentos no país. Mesmo assim, o governo continua com a expectativa de fechar o ano com um superávit comercial.
@@ -1072,39 +1072,39 @@ O resultado da balança comercial nos próximos meses, segundo ele, depende ainda 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-060</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-060</field>
+<field name="date">950615</field>
+<text_pt>
 O custo médio da cesta básica teve queda de 0,68% ontem na cidade de São Paulo. A compra dos 31 produtos passou a custar R$ 100,93. O grupo dos alimentos, principal item da cesta, recuou 0,76%. Os produtos de limpeza ficaram 0,78% mais baratos e os de higiene pessoal subiram 0,10%.
 No acumulado do mês até ontem, a cesta básica registra queda de 0,13%. Os alimentos recuaram 0,96% no período. Os produtos de higiene pessoal aumentaram 4,47% e os de limpeza, 2,22%. A pesquisa é feita pelo Procon, em convênio com o Dieese, em 70 supermercados na capital.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-061</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-061</field>
+<field name="date">950615</field>
+<text_pt>
 O setor de construção pesada registrou queda de 1,61% no total de empregos em maio, o que representa o fechamento de 717 postos de trabalho em comparação com o mês anterior. O número de empregos no setor alcança 43.775, segundo pesquisa do Sinicesp (sindicato da indústria da construção).
 As demissões neste ano atingem 7.132 trabalhadores e, nos últimos 12 meses, 25.580.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-062</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-062</field>
+<field name="date">950615</field>
+<text_pt>
 O movimento de câmbio foi negativo em US$ 125 milhões no dia 13, a primeira vez em 30 dias. O saldo foi negativo tanto no câmbio comercial (exportações menos importações) quanto no financeiro (entradas e saídas de capitais). As importações superaram em US$ 42 as exportações. Já a entrada de dólares (investimentos etc.) foi US$ 83 milhões menor que a saída (pagamentos diversos ao exterior).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-063</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-063</field>
+<field name="date">950615</field>
+<text_pt>
 O volume de consultas sobre crédito feitas por empresas ao banco de dados do SCI(Serviço de Segurança ao Crédito e Informações) somou 200,7 mil. Esse total se refere aos primeiros nove dias úteis de junho. Sobre igual período de maio, o volume subiu 5,8%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-064</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-064</field>
+<field name="date">950615</field>
+<text_pt>
 AFFONSO BRANDÃO HENNEL 
 A ZFM foi criada pelo decreto-lei 288, com o objetivo de promover a integração econômica e assegurar a soberania nacional sobre uma região que representa 50% da área do país e abriga riquezas tais que a tornaram objeto da cobiça internacional.
 O método instituído pelo decreto-lei 288 para tal objetivo consistiu, e consiste ainda, na concessão de incentivos fiscais para estimular a instalação de indústrias na região. Na prática, uma vez aprovado o projeto, ocorre, na sua fase inicial, um deslocamento parcial de indústrias oriundas de outras regiões; com o passar do tempo, há um gradual aumento de produção, ou seja, um gradual aumento do deslocamento. Na fase posterior, muitas vezes projetos novos são implementados pelas próprias indústrias e novos produtos lançados a partir da Zona Franca. Pode-se dizer que este deslocamento, em muitos casos, atingiu altas percentagens, tendo sido de 100% no caso de eletrônicos e motocicletas.
@@ -1125,9 +1125,9 @@ AFFONSO BRANDÃO HENNEL, 65, engenheiro industrial pela Universidade de Syracuse 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-065</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-065</field>
+<field name="date">950615</field>
+<text_pt>
 CARI RODRIGUES
 Da Sucursal de Brasília
 A Secretaria de Acompanhamento Econômico do Ministério da Fazenda já detectou reajustes ``exagerados" nas tarifas de ônibus municipais.
@@ -1144,9 +1144,9 @@ Dallari disse que ainda não tomou conhecimento do cálculo do aumento dos custos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-066</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-066</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal de Brasília 
 Os produtores de álcool e açúcar estão reivindicando à equipe econômica um reajuste nos preços de 33% _correspondente, segundo eles, à defasagem acumulada nos primeiros 11 meses do Real.
 O governo estuda conceder 6% de reajuste, informou ontem o secretário de Acompanhamento Econômico do Ministério da Fazenda, José Milton Dallari. Esse reajuste seria assumido pela Petrobrás sem repasses para o consumidor, segundo a assessoria de Dallari.
@@ -1156,9 +1156,9 @@ Para o presidente do Comitê Nacional dos Produtores de Açúcar e Álcool, José Pil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-067</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-067</field>
+<field name="date">950615</field>
+<text_pt>
 A decisão do governo de instituir cotas de importação para o setor automobilístico é retrocesso claro. E não se deve ao fato de o ministro José Serra ser paulista, ou de a ministra Dorothéa Werneck ser mineira, como sugerem alguns desses inacreditáveis comentários que volta e meia pipocam na mídia, brilhantes como a luz do abajur lilás.
 Um setor como o automobilístico _que responde por 10% do PIB_ afeta a economia como um todo. E há a necessidade premente de se definir uma política industrial clara, de longo prazo, que estimule os investimentos no setor.
 A questão é que o caminho escolhido não foi o melhor. Baseia-se numa visão cepalina (da Comissão Econômica para a América Latina) da história, que se supunha erradicada pelas modernas teorias de política industrial, mas que ainda frequenta o imaginário do ministro José Serra.
@@ -1176,9 +1176,9 @@ A ministra Dorothéa Werneck, que foi a grande propagandista do modelo original _
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-068</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-068</field>
+<field name="date">950615</field>
+<text_pt>
 Hariri acena com baixa carga tributária e incentivo ao capital externo 
 ANTONIO CARLOS SEIDL
 Da Reportagem Local 
@@ -1195,9 +1195,9 @@ Os empresários brasileiros presentes à reunião na Fiesp ressaltaram a importânci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-069</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-069</field>
+<field name="date">950615</field>
+<text_pt>
 Índice Bovespa recua 6,8% em uma semana; Telebrás PN é responsável por 68% dos negócios à vista 
 Da Reportagem Local
 A Bolsa de Valores de São Paulo caiu ontem 3,27%, fechando em 36.650 pontos. O volume negociado foi de R$ 309,97 milhões. O índice Bovespa caiu em uma semana 6,8%.
@@ -1242,9 +1242,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-070</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-070</field>
+<field name="date">950615</field>
+<text_pt>
 Quarta marca mundial de tênis convoca Viola e Renato Gaúcho para ampliar vendas de artigos esportivos 
 NELSON BLECHER 
 Da Reportagem Local 
@@ -1263,9 +1263,9 @@ Ele diz que o mercado mundial de calçados esportivos deve movimentar US$ 6 bilhõ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-071</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-071</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 A Spal-Indústria Brasileira de Bebidas, maior fabricante de Coca-Cola no país, está lançando a água mineral Crystal.
 A empresa investiu US$ 2,5 milhões na produção e mais US$ 1 milhão em propaganda e promoção, diz Denis Herbach, vice-presidente de marketing.
@@ -1275,9 +1275,9 @@ A Crystal será distribuída na Grande São Paulo, litoral do Estado e região de Ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-072</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-072</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 A Lionella Indústria e Comércio Ltda., fabricante de bichos de pelúcia, pediu concordata à 11ª Vara Cível da Capital na terça-feira, dia 13.
 Concordata é o pedido feito por uma empresa à Justiça para poder pagar seus credores num prazo maior _normalmente, dois anos.
@@ -1287,9 +1287,9 @@ Outro fator para a concordata foi a inadimplência (não pagamento) dos varejistas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-073</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-073</field>
+<field name="date">950615</field>
+<text_pt>
 Recém-nascidos prematuros morreram em 48 horas vítimas de uma infecção hospitalar 
 BILL SOUZA 
 Da Folha Sudeste 
@@ -1309,9 +1309,9 @@ O diretor disse que dos pacientes atendidos, 20% apresentam risco de vida. Geral
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-074</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-074</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 O prefeito Paulo Maluf assinou ontem um decreto isenta os doadores de órgãos do pagamento de taxas ao Serviço Funerário Municipal na realização de funerais.
 A assessoria de imprensa da prefeitura informou que os doadores ficarão isentos do pagamento de urna clássica tipo 2 (caixão mais sofisticado que os populares), carreto, remoção do corpo, transporte para o enterro, ornamentos e taxas de velórios e cemitérios municipais.
@@ -1321,9 +1321,9 @@ Pela nova lei, se uma pessoa morrer em um hospital municipal, os familiares do p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-075</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-075</field>
+<field name="date">950615</field>
+<text_pt>
 Da Sucursal do Rio 
 A transmissão do vírus da Aids da mãe para o feto ou para o recém-nascido representa 80,15% dos casos notificados da doença em menores de 15 anos no Estado do Rio entre 1992 e março de 95.
 No período, foram constatados 105 casos de crianças que adquiriram o vírus dessa forma.
@@ -1338,9 +1338,9 @@ O aumento nos casos de homens doentes que mantêm relações bissexuais ajuda a com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-076</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-076</field>
+<field name="date">950615</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA 
 De Washington 
 O ministro da Saúde, Adib Jatene, anunciou ontem em Washington que até setembro de 1996 sua pasta vai receber empréstimos no valor de entre US$ 1 bilhão e US$ 3 bilhões.
@@ -1355,9 +1355,9 @@ O CDC, que ficou famoso graças ao acompanhamento que faz da Aids, vai ajudar o B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-077</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-077</field>
+<field name="date">950615</field>
+<text_pt>
 Daniela Mercury será embaixadora da Unicef
 A cantora Daniela Mercury (foto), 29, disse ontem em Salvador (BA) que o governo brasileiro precisa investir mais em saneamento básico para melhorar a qualidade de vida de crianças carentes. Daniela, considerada a musa do ``axé-music", foi indicada para ser embaixadora da Unicef (Fundo das Nações Unidas para a Infância). A assinatura do contrato entre Daniela Mercury e a Unicef deve acontecer em agosto, em Brasília.
 
@@ -1376,9 +1376,9 @@ A Assembléia Legislativa do Rio Grande do Sul aprovou projeto determinando que t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-078</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-078</field>
+<field name="date">950615</field>
+<text_pt>
 Crimes contra mulher são 15% dos processos em andamento em Minas 
 Da Agência Folha, em Belo Horizonte 
 Os processos de crimes que envolvem violência contra a mulher em Minas Gerais somam 17.625, o que representa 15% dos 115 mil processos criminais em andamento no Estado.
@@ -1390,9 +1390,9 @@ Entre as sugestões apresentadas pela comissão para reduzir a incidência desses c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-079</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-079</field>
+<field name="date">950615</field>
+<text_pt>
 A magia da vassoura 
 MOACYR SCLIAR 
 ``As minhas colegas não gostaram quando o prefeito nos botou a varrer rua. Antes a gente tinha muito mais liberdade, elas diziam. Pode até ser verdade. Porque a gente não era empregada de ninguém, sabe? A gente trabalhava quando dava na telha. Claro, não dava para vadiar, a vida tá difícil, mas quem não tem patrão se vira mais fácil.
@@ -1406,9 +1406,9 @@ Você duvida? Então me diga: por que as bruxas usavam uma vassoura para voar? Hei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-080</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-080</field>
+<field name="date">950615</field>
+<text_pt>
 Medo de trabalho 
 EDER JOFRE
 A moralização do poder público vem sendo hoje pauta de discussão obrigatória em qualquer canto do país. 
@@ -1427,9 +1427,9 @@ EDER JOFRE, 59, bicampeão mundial de boxe, é vereador pelo PSDB em São Paulo. Fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-081</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-081</field>
+<field name="date">950615</field>
+<text_pt>
 Juíza condena advogadas por tráfico de bebês 
 Da Agência Folha, em Belo Horizonte 
 A 4ª Vara da Justiça Federal em Belo Horizonte (MG) condenou anteontem as advogadas Liege Gomes Rocha, 40, e Maria do Carmo Rabelo Oliveira Santana, 40, a seis e quatro anos de prisão, respectivamente, por tráfico ilegal de crianças para a Europa.
@@ -1439,9 +1439,9 @@ O advogado das advogadas, Antônio Veloso, já recorreu da decisão. Ele diz que as
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-082</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-082</field>
+<field name="date">950615</field>
+<text_pt>
 Detentos se rebelam em Cadeião de SP 
 Grupo de presos foge em caminhão 
 Da Redação 
@@ -1451,27 +1451,27 @@ Um grupo de presos se utilizou do caminhão para arrebentar o portão e fugir. Os 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-083</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-083</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 O comandante da GCM (Guarda Civil Metropolitana), coronel Luis Gonzaga de Oliveira, determinou ontem que os guardas civis não podem mais checar carros suspeitos de serem roubados e abordar suspeitos nas ruas.
 Oliveira também decidiu dar prioridade para o patrulhamento de propriedades municipais em vez de os guardas fazerem rondas pelas ruas. As decisões foram tomadas após confrontos ocorridos entre a PM e a GCM. Em maio, dois PMs foram mortos em um suposto tiroteio por guardas na zona leste.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-084</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-084</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 Dois homens armados com revólveres renderam uma escolta da Penitenciária do Estado e soltaram o assaltante Rubens Leôncio Pereira, 25. O resgate do preso aconteceu anteontem, às 13h45, na praça Nossa Senhora da Penha, na Penha (zona leste de São Paulo).
 Pereira e o preso Paulo Sérgio dos Santos, 25, estavam sendo levados para tratamento médico no Pronto-Socorro da Penha. Após parar a ambulância em frente ao hospital, a escolta foi rendida. Os criminosos fugiram na ambulância. Santos não fugiu.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-085</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-085</field>
+<field name="date">950615</field>
+<text_pt>
 Poluição em SP pode diminuir com feriado 
 PATRICIA DECIA
 Da Reportagem Local 
@@ -1488,9 +1488,9 @@ Com maior poluição, é comum o surgimento de sintomas de doenças cardiovasculares
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-086</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-086</field>
+<field name="date">950615</field>
+<text_pt>
 Daniela Mercury será embaixadora da Unicef 
 A cantora Daniela Mercury (foto), 29, disse ontem em Salvador (BA) que o governo brasileiro precisa investir mais em saneamento básico para melhorar a qualidade de vida de crianças carentes. Daniela foi indicada para ser embaixadora da Unicef (Fundo das Nações Unidas para a Infância). A assinatura do contrato entre ela e a Unicef deve acontecer em agosto, em Brasília.
 
@@ -1511,9 +1511,9 @@ O Tribunal de Justiça de São Paulo concedeu habeas-corpus aos cinco acusados de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-087</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-087</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 A Pontifícia Universidade Católica (PUC) de São Paulo divulgou a lista de livros e o calendário do Vestibular Unificado 96. 
 As inscrições para o vestibular da PUC vão de 3 de outubro a 19 de novembro. As provas vão acontecer entre os dias 9 e 11 de dezembro.
@@ -1521,9 +1521,9 @@ Confira a lista de livros que a PUC divulgou: ``Poesia Lírico-amorosa" in Poemas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-088</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-088</field>
+<field name="date">950615</field>
+<text_pt>
 Médico afirma que está tendo prejuízos por causa do Correio 
 Alderico Nogueira Carvalho é médico, mora na Vila Olímpia (zona sul) e diz que está tendo problemas de atrasos na entrega de suas correspondências.
 Carvalho diz que o problema começou a ocorrer há três meses e que isto está causando prejuízos.
@@ -1536,9 +1536,9 @@ Cartas para ``A Cidade é Sua" devem ser enviadas para a Editoria de Cidades, Red
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-089</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-089</field>
+<field name="date">950615</field>
+<text_pt>
 Guarda Civil restringe o patrulhamento 
 Por causa de incidentes com a Polícia Militar, guardas municipais não poderão mais abordar suspeitos na rua 
 Da Reportagem Local 
@@ -1555,9 +1555,9 @@ Os dois teriam sido mortos por um guarda-civil, que os teria confundido com ladr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-090</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-090</field>
+<field name="date">950615</field>
+<text_pt>
 Presos  se rebelam por 5h em Cadeião 
 Detentos  fogem em caminhão 
 CHRISTIAN CARVALHO 
@@ -1571,9 +1571,9 @@ A rebelião acabou por volta das 18h, depois de quase uma hora de negociação. Os 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-091</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-091</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 Dois homens armados com revólveres renderam uma escolta da Penitenciária do Estado e soltaram o assaltante Rubens Leôncio Pereira, 25. O resgate do preso aconteceu anteontem, às 13h45, na praça Nossa Senhora da Penha, na Penha (zona leste de São Paulo).
 Pereira e o preso Paulo Sérgio dos Santos, 25, estavam sendo levados para tratamento médico no Pronto-Socorro da Penha. 
@@ -1583,9 +1583,9 @@ Os dois homens e Pereira pegaram um táxi. Santos não quis fugir, pois sua pena t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-092</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-092</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 Um comando realizado ontem pela Semab (Secretaria Municipal do Abastecimento) interditou 11 lanchonetes, padarias e restaurantes por descumprimento de ordem administrativa. Eles  haviam sido interditados anteriormente e voltaram a funcionar sem a autorização.
 O comando vistoriou 101 estabelecimentos. Além das interdições, foram multados outros 45.
@@ -1594,9 +1594,9 @@ Sérgio Arno, dono do restaurante, disse que o local está limpo e que já havia pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-093</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-093</field>
+<field name="date">950615</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
  De Washington 
 O ministro da Saúde, Adib Jatene, anunciou ontem em Washington que até setembro de 1996 sua pasta vai receber empréstimos no valor de entre US$ 1 bilhão e US$ 3 bilhões.
@@ -1615,9 +1615,9 @@ Jatene diz que ele e Shalala descobriram durante sua conversa que eles têm primo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-094</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-094</field>
+<field name="date">950615</field>
+<text_pt>
 Congestionamento atrasa fuga do paulistano 
 Trânsito com 174 km de lentidão no final da tarde prejudica saída de 990 mil carros em direção às estradas 
 Da Reportagem Local e das Regionais 
@@ -1635,9 +1635,9 @@ O desvio ocorre no km 48, em Jundiaí, na pista sentido interior-capital, das 15h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-095</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-095</field>
+<field name="date">950615</field>
+<text_pt>
 Ritmo atrai cerca de mil pessoas a cada noite de fim-de-semana em duas casas noturnas da região 
 PATRICIA DECIA 
 Da Reportagem Local 
@@ -1656,9 +1656,9 @@ REMELEXO - r. Ferreira de Araújo, 1.070. Tel: 814-2750. Preço: R$ 6.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-096</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-096</field>
+<field name="date">950615</field>
+<text_pt>
 Ritmo invade os Jardins às terças 
 Da Reportagem Local 
 Desde 5 de maio, o forró invadiu um dos espaços considerados mais ``mudernos" da cidade: a boate Columbia. O ``Forró do Asfalto", promovido por Pierre Perez, 37, vem reunindo cerca de 300 pessoas todas as sextas-feiras.
@@ -1676,9 +1676,9 @@ BARBAHALA - r. Mourato Coelho, 648. Tel: 212-5387. Preços ainda não definidos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-097</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-097</field>
+<field name="date">950615</field>
+<text_pt>
 Trios nordestinos fazem som ao vivo 
 Da Reportagem Local 
 A música ao vivo é uma das principais atrações dos forrós. No Espaço Equilíbrio, três bandas fazem a animação das festas: Mafuá e Farinha Seca (às quintas e sábados) e o Trio Virgulino (às sextas).
@@ -1693,9 +1693,9 @@ Para os simpatizantes da ``dança de dois", Souza também promove há um ano a ``Fe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-098</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-098</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local 
 O prefeito Paulo Maluf assinou ontem decreto que isenta doadores de órgãos do pagamento de taxas ao Serviço Funerário Municipal em funerais.
 A assessoria de imprensa da prefeitura informou que os doadores ficarão isentos do pagamento de urna clássica tipo 2 (caixão mais sofisticado que os populares), carreto, remoção do corpo, transporte para o enterro, ornamentos e taxas de velórios em cemitérios municipais.
@@ -1708,9 +1708,9 @@ Maluf assinou o decreto um dia após anunciar que pretende vetar projeto de lei a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-099</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-099</field>
+<field name="date">950615</field>
+<text_pt>
 Piso do estádio do Botafogo está se soltando e pode servir de "munição" para a torcida 
 RICARDO PERRONE 
 Da Folha Nordeste 
@@ -1736,9 +1736,9 @@ O estádio Santa Cruz poderá receber ainda as duas partidas finais do Campeonato 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-100</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-100</field>
+<field name="date">950615</field>
+<text_pt>
 Torcida prepara festa para os jogos contra o São Paulo 
 Da Folha Nordeste 
 Um grupo de palmeirenses de Ribeirão Preto quer aproveitar o jogo do clube contra o São Paulo no estádio Santa Cruz, no próximo dia 2, para lançar a torcida Mancha Verde da cidade.
@@ -1751,9 +1751,9 @@ Ele disse que pretende comemorar pelas ruas da cidade caso o Palmeiras ganhe o j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-101</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-101</field>
+<field name="date">950615</field>
+<text_pt>
 Vacilamos na semana passada, quando dissemos que Kalani Robb foi ``Rookie of the Year". Na verdade, o estreante que mais subiu no ranking em 94 foi o brasileiro Jojó de Olivença, de 39º para 11º. Kalani é sério candidato a ser o melhor estreante nesta temporada.
  
 Começa amanhã em Saquarema, Rio de Janeiro, a terceira etapa do ``Limão Brahma Surf Pro". O circuito define o campeão carioca de surfe profissional e conta pontos para o Brasileiro. Os irmãos Plínio e Victor Ribas estão em primeiro e terceiro, respectivamente, e dividem com três paulistas as cinco primeiras posições.
@@ -1762,9 +1762,9 @@ O dinamarquês Bjorn Dunkerbeck faturou o título profissional do ``O'Neal Hi-Wind
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-102</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-102</field>
+<field name="date">950615</field>
+<text_pt>
 ALBERTO HELENA JR. 
 Da Equipe de Articulistas 
 Foi assim que o Grêmio desclassificou o Flamengo, na fase semifinal da Copa do Brasil: levou um vareio no Maracanã; perdia de 2 a 0, mas fez o golzinho salvador, que lhe permitiria pular às finais no Olímpico. Sim, porque ontem o Grêmio, apesar da violência incontrolável, que explodiu na expulsão de Mancini, conseguiu escapar do Pacaembu também com uma derrota de 2 a 1, diante do Corinthians, o que lhe dá a vantagem de ganhar lá pelo mínimo, o indigente 1 a 0.
@@ -1775,9 +1775,9 @@ Já o Corinthians, ao menos, tem o menino Souza, cheio de dengos, com aquela canh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-103</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-103</field>
+<field name="date">950615</field>
+<text_pt>
 Da Folha Nordeste
 O estádio Santa Cruz, em Ribeirão Preto, que vai receber pelo menos dois jogos do Paulista, não resolveu inteiramente os problemas que provocaram a interdição do local há cerca de três anos.
 Em 92, o estádio foi interditado depois que torcedores do Botafogo atiraram pedaços de reboco (retirados da arquibancada) no meia Neto, então jogador do Corinthians.
@@ -1795,9 +1795,9 @@ Severi informou que 350 policiais participarão do esquema de segurança para os j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-104</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-104</field>
+<field name="date">950615</field>
+<text_pt>
 Estréia hoje filme sobre `pior diretor do mundo' 
 AMIR LABAKI
 Da Equipe de Articulistas 
@@ -1825,9 +1825,9 @@ Burton - Eu produzi e dirigi "Conversas com Vincent". Tenho seus últimos depoime
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-105</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-105</field>
+<field name="date">950615</field>
+<text_pt>
 Da Equipe de Articulistas 
 
 Filme: Ed Wood
@@ -1848,9 +1848,9 @@ Em plena era da inflação das imagens, Tim Burton defende de dentro da balela hol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-106</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-106</field>
+<field name="date">950615</field>
+<text_pt>
 Com fotos de Ana Lontra Jobim, `Visão do Paraíso' retrata a Mata Atlântica e traz manuscritos do maestro
 Da Redação
 Os últimos escritos do compositor e maestro Tom Jobim (1927-1994) saem agora em livro. ```Visão do Paraíso - Mata Atlântica" traz textos ``descompromissados" de Tom sobre a Mata combinados a um ensaio fotográfico de Ana Lontra Jobim, 40, viúva do compositor.
@@ -1871,9 +1871,9 @@ Preço: R$ 90 no lançamento e R$ 100 nas livrarias.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-107</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-107</field>
+<field name="date">950615</field>
+<text_pt>
 SERGIO AUGUSTO
 Da Sucursal do Rio
 Os escoceses não sabem quem foi Tiradentes, mas em compensação nós não sabíamos quem era William Wallace. Agora, graças ao australiano Mel Gibson, ficamos sabendo que William Wallace foi mais que o Tiradentes da Escócia. Foi o Mad Max _perdão, o Mad Bill_ medieval de lá.
@@ -1902,9 +1902,9 @@ Estréia: hoje nos cines Astor, Center Iguatemi, Metrópole e Marabá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-108</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-108</field>
+<field name="date">950615</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Jesus dizia: ``que o seu sim seja sim e que o seu não seja não". Se você assumiu uma responsabilidade, vá até o final. Mantenha sua palavra, porque ela é preciosa.
@@ -1914,9 +1914,9 @@ Se você assumiu uma responsabilidade boba, que resultará em prejuízo de entusias
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-109</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-109</field>
+<field name="date">950615</field>
+<text_pt>
 Preocupação com o interesse social foi um dos principais temas na discussão realizada anteontem à noite
 Da Reportagem Local
 A TV pública no Brasil deve se tornar um instrumento de defesa da cidadania, com funcionamento garantido por recursos públicos e privados. Além disso, manter um padrão de qualidade técnica equivalente ao das grandes redes.
@@ -1935,9 +1935,9 @@ Muylaert criticou editorial publicado pela Folha no último domingo, que afirmava
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-110</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-110</field>
+<field name="date">950615</field>
+<text_pt>
 Com um novo álbum e um novo visual, o guitarrista fala com exclusividade sobre a nova fase da sua banda
 EDSON FRANCO
 Da Reportagem Local
@@ -1962,9 +1962,9 @@ A parte européia da turnê do Van halen passa nas próximas semanas pela ex-Aleman
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-111</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-111</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local
 Apesar do produtor Bruce Fairbaim, ``Balance" é um CD de rock acima da média. Não é nada que o Van Halen vá se orgulhar muito no futuro, mas o trabalho se sustenta em dois pilares básicos: a riqueza dos arranjos e o surpreendente vigor musical da banda.
 A prova cabal desse último atributo é a faixa ``Big Fat Money", um pulsante petardo que esbarra no punk sem deixar de ser metal. É de dar inveja em bandas com integrantes mais jovens a virilidade com que a banda se atira nessa música. Ela tem tantos detalhes nos arranjos que o aconselhável é desvendá-la aos poucos.
@@ -1977,9 +1977,9 @@ Se esse disco for um indício de que a banda vai passar o resto dos seus dias ten
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-112</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-112</field>
+<field name="date">950615</field>
+<text_pt>
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
 O cantor e compositor norte-americano Bob Dylan, 54, delineia um sorriso na capa do CD ``MTV Unplugged", gravado em 17 de novembro do último ano no estúdio da Sony em Nova York.
@@ -2006,9 +2006,9 @@ Quanto: R$ 20 (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-113</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-113</field>
+<field name="date">950615</field>
+<text_pt>
 Crianças mostram com descontração roupas da Giovanna Baby
 ERIKA PALOMINO
 Colunista da Folha
@@ -2023,9 +2023,9 @@ A menina Caroline caprichou: feito as ``modelos gente grande" desfilava com um p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-114</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-114</field>
+<field name="date">950615</field>
+<text_pt>
 Seis estilistas estréiam no evento
 Da Reportagem Local
 Já estão escolhidos os nove participantes do próximo Phytoervas Fashion, edição primavera-verão, que acontece dias 17, 18 e 19 de julho em São Paulo.
@@ -2040,9 +2040,9 @@ A comissão que escolhe os estilistas inclui jornalistas de moda, produtores e in
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-115</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-115</field>
+<field name="date">950615</field>
+<text_pt>
 DANIEL PIZA
 Enviado especial a Veneza
 Se depender do meio artístico, a gestão do francês Jean Clair da 46ª Bienal de Veneza _que fica em cartaz até 15 de outubro_ será lembrada como um parêntese conservador no período de novidades estéticas iniciado em 1980, com a criação do ``Aperto".
@@ -2066,9 +2066,9 @@ O jornalista DANIEL PIZA viajou a convite da Varig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-116</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-116</field>
+<field name="date">950615</field>
+<text_pt>
 E a prova de que o Zé Serra tem complexo de Terceiro Mundo é que ele usa gravata de free shop! Rarará!
 JOSÉ SIMÃO
 Da equipe de articulistas
@@ -2083,9 +2083,9 @@ E com a aprovação da MP das importações de automóveis a Dorothea Werneck não vai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-117</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-117</field>
+<field name="date">950615</field>
+<text_pt>
 Da Redação
 Adaptações de romance para cinema apresentam, normalmente, o problema da comparação com o original, e costumam comer poeira. Mas a situação mais incômoda acontece em filmes como este ``O Grande Gatsby" (Gazeta/CNT, 20h), de Jack Clayton.
 Existe uma hipertrofia da direção de arte, de tal modo que a atenção é permanentemente chamada para as roupas e para a cenografia. Em circunstâncias normais, Robert Redford é um galã que consegue camuflar a própria beleza. Aqui, ele não chega a isso.
@@ -2097,9 +2097,9 @@ A virtude não está na defesa, mas na capacidade de explicar essa formação e suas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-118</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-118</field>
+<field name="date">950615</field>
+<text_pt>
 Com um novo dicionário (presente de Dia dos Namorados), ele explora as origens de ``outras palavras"
 DAVID DREW ZINGG
 em Sampa
@@ -2135,9 +2135,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-119</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-119</field>
+<field name="date">950615</field>
+<text_pt>
 ANA FRANCISCA PONZIO
 Especial para a Folha
 O Grupo Corpo inaugura no Teatro Municipal de São Paulo, na próxima segunda-feira, a série de temporadas que comemora os 20 anos da melhor companhia de dança do Brasil.
@@ -2158,9 +2158,9 @@ Em seguida, Rodrigo inicia nova aventura criativa com Marco Antonio Guimarães, s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-120</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-120</field>
+<field name="date">950615</field>
+<text_pt>
 Especial para a Folha
 Na retrospectiva que começa em São Paulo e vai viajar para outras seis capitais brasileiras, o Corpo mostra três programas diferentes. ``São obras que marcaram os últimos 10 anos e que definiram nosso caminho estético", diz Paulo Pederneiras.
 De 19 até 25 de junho, no Teatro Municipal, as coreografias mudam a cada dois dias. Os programas juntam obras de períodos distintos.
@@ -2171,9 +2171,9 @@ Em ``I Ching", Rodrigo faz uma fusão entre coreografia e música, a partir de uma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-121</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-121</field>
+<field name="date">950615</field>
+<text_pt>
 Especial para a Folha
 Quem vai aproveitar o feriado deste fim de semana em Campos do Jordão, pode se programar para o Festival de Dança que se realiza de hoje até domingo na cidade.
 O 9º Festival de Dança de Campos do Jordão abre a temporada cultural de inverno local. Sua programação é voltada exclusivamente para grupos brasileiros e os espetáculos se realizam no Auditório Cláudio Santoro.
@@ -2188,9 +2188,9 @@ O destaque do espetáculo de encerramento é o Primeiro Ato, de Belo Horizonte.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-122</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-122</field>
+<field name="date">950615</field>
+<text_pt>
 WILLIAM LI
 Especial para a Folha
 O que uma platéia espera da estréia de uma música contemporânea? Pode vir qualquer coisa. Geralmente, é uma cacofonia danada.
@@ -2209,17 +2209,17 @@ A Orquestra Sinfônica do Estado de São Paulo, sob a batuta de aço do maestro Ele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-123</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-123</field>
+<field name="date">950615</field>
+<text_pt>
 Artigo de Roberto Maksoud, diretor do hotel Maksoud Plaza, afirma que critérios de fiscalização da Secretaria Municipal de Abastecimento de São Paulo afastam turistas da cidade. Em artigo na mesma página o secretário Waldemar Costa Filho defende a ação da prefeitura.
 PÁG. 9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-124</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-124</field>
+<field name="date">950615</field>
+<text_pt>
 Da Reportagem Local
 Todos os pacotes de viagem para a Índia passam pelas cidades de Nova Déli, Bombaim ou Calcutá. Os programas abaixo têm preços por pessoa em apartamento duplo, para saídas regulares em junho.
 US$ 3.300: 19 dias e 18 noites com parte aérea, hospedagem com café da manhã e traslados (transporte da cidade para o aeroporto). O tour abrange cidades do norte e sul da Índia, iniciando em Bombaim e passando por Jaipur, Varanasi e Kathmandu. Na Mandala.
@@ -2234,9 +2234,9 @@ RESERVAS: MANDALA: tel. (011) 257-6277; AS TRAVEL: tel. (011) 571-6277; SOFT TRA
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-125</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-125</field>
+<field name="date">950615</field>
+<text_pt>
 Turbilhão de pessoas e trânsito caótico distinguem cidade que, às margens do Ganges, é sagrada para hindus
 Free-lance para a Folha
 À margem esquerda do sagrado rio Ganges, de 2.510 km de extensão, está localizada Varanasi, também chamada Benares ou Kashi e conhecida como ``a cidade eterna que sobrevive aos tempos".
@@ -2257,9 +2257,9 @@ Existem hotéis próximos à estação ferroviária, mas não são muito recomendáveis. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-126</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-126</field>
+<field name="date">950615</field>
+<text_pt>
 Estúdios indianos lançam mais de 900 títulos/ano, batendo de longe a indústria cinematográfica americana
 LÚCIA NAGIB
 Da Equipe de Articulistas
@@ -2287,9 +2287,9 @@ Infelizmente, durante o festival, o cinema artístico indiano acaba passando em s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-127</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-127</field>
+<field name="date">950615</field>
+<text_pt>
 PATRICIA CARTA
 Da Revista da Folha
 O grande fornecedor da estampa cashmere é o italiano Etro. Aqui, no último verão, o desenho estava em maiôs e biquínis.
@@ -2301,9 +2301,9 @@ Na época, só o Tibete fornecia essa lã. Uma das marcas era o dorso da mão fechad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-128</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-128</field>
+<field name="date">950615</field>
+<text_pt>
 O navegador português Vasco da Gama foi o primeiro europeu na região
 Free-lance para Folha
 O Kerala é por excelência uma das regiões mais civilizadas e atraentes da Índia. De grande beleza natural, está localizado no extremo sudoeste do país.
@@ -2316,9 +2316,9 @@ Entre os melhores hotéis da região está o Casino, com preços entre US$ 20 e US$ 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-129</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-129</field>
+<field name="date">950615</field>
+<text_pt>
 ROBERTO MAKSOUD
 A Prefeitura de São Paulo parece estar desenvolvendo uma campanha para não trazer o turista para a cidade.
 Cuidado, pois alguns títulos como ``Fuja de São Paulo" ou, quem sabe, ``São Paulo é um Lixo" poderão estar saindo das mentes brilhantes do marketing do gabinete eleitoreiro do prefeito ou da assessoria de imprensa da Semab (Secretaria Municipal de Abastecimento).
@@ -2340,9 +2340,9 @@ ROBERTO MAKSOUD, 40, é diretor do Maksoud Plaza, presidente da Associação Brasil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-130</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-130</field>
+<field name="date">950615</field>
+<text_pt>
 ALDEMAR COSTA FILHO
 O senhor Roberto Maksoud não consegue distinguir entre o público e o privado. Insiste em dizer que as multas aplicadas pela vigilância sanitária da Secretaria Municipal de Abastecimento (Semab) ao hotel Maksoud Plaza e a outros hotéis cinco estrelas de São Paulo atrapalham a imagem da cidade enquanto ``capital da gastronomia", afastando os turistas.
 Nada mais falso. Os quinze autos de multa lavrados no último dia 23 de maio indicam apenas que a fiscalização constatou, naquela data, nas cozinhas e açougue do Maksoud, igual número de infrações ao código sanitário, como a presença de insetos, alimentos com data de validade vencida, falta de higiene nas instalações e equipamentos.
@@ -2361,9 +2361,9 @@ WALDEMAR COSTA FILHO, 72, é secretário municipal de Abastecimento de São Paulo (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-131</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-131</field>
+<field name="date">950615</field>
+<text_pt>
 JOSÉ KOSMINSKY
 Free-lance para a Folha
 Com a manutenção do valor do dólar abaixo do real, fazer um curso de línguas ou de especialização profissional no exterior é a melhor pedida para aproveitar as férias na escola ou no trabalho e fugir do inverno brasileiro.
@@ -2388,9 +2388,9 @@ Sobre cursos no exterior nas págs. 6-11 e 6-14
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-132</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-132</field>
+<field name="date">950615</field>
+<text_pt>
 A Study &amp; Adventure (tel. 011_829-6156) tem cursos em Riverside (Califórnia) de quatro semanas por US$ 750. Hospedagem em residência estudantil sai por US$ 24 por dia.
 
 A Studytour (tel. 011-288-8623) tem curso de um mês em Seattle (Washington) por US$ 1.930, com acomodação em dormitório duplo e todas as refeições.
@@ -2415,9 +2415,9 @@ A Englishmania (tel. 011-881-1644) tem curso na UCLA (Universidade da Califórnia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-133</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-133</field>
+<field name="date">950615</field>
+<text_pt>
 A fundação suíça Eurocentres oferece 25 horas semanais de francês por semana em Paris, La Rochelle e Amboise
 SÉRGIO DÁVILA
 Enviado especial à França
@@ -2446,9 +2446,9 @@ O jornalista SÉRGIO DÁVILA viajou a convite do STB (Student Travel Bureau), Mais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-134</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-134</field>
+<field name="date">950615</field>
+<text_pt>
 Francês
 A Study &amp; Adventure (tel. 011-829-6165) tem curso de quatro semanas na cidade litorânea de Cannes a partir de US$ 1.650, com acomodação em casa de família e duas refeições por dia.
 
@@ -2478,9 +2478,9 @@ A EF (tel. 011-887-6427) tem curso de quatro semanas em Florença por US$ 1.580. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-135</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-135</field>
+<field name="date">950615</field>
+<text_pt>
 A Bell Language School, a dez minutos do centro, tem preços mais salgados e atividades extracurriculares
 CAROLINA CHAGAS
 Da Reportagem Local
@@ -2495,9 +2495,9 @@ Se você tiver sorte, a ginga brasileira pode garantir-lhe um lugar no pódio de u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950615-136</text_pt>
-<text_pt name="date">950615</text_pt>
-<text_pt name="text">
+<field name="id">FSP950615-136</field>
+<field name="date">950615</field>
+<text_pt>
 A Fast Forward (tel. 011-815-4681) leva os interessados para um curso na escola Sawston Hall, nos arredores de Cambridge. O programa de três semanas sai por R$ 2.160, com passagem aérea, hospedagem em casa de família e com as três refeições diárias. O preço do curso vale para embarque até o dia 20 de junho.
 
 O Yazigi (tel. 011-884-9600) tem um programa de duas semanas em Brighton, cidade no litoral sul da Inglaterra, por preços a partir de US$ 705.

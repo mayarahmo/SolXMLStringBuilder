@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940101-001</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-001</field>
+<field name="date">940101</field>
+<text_pt>
 Pesquisa Datafolha feita nas dez principais capitais do país, após um ano de mandato, aponta o prefeito de Recife, Jarbas Vasconcelos (PMDB), como o mais popular (63% de ótimo e bom), seguido de Tarso Genro (PT), de Porto Alegre, com 55% de aprovação. Os prefeitos César Maia (PMDB), do Rio, com 50% de ruim e péssimo; Lídice da Mata (PSDB), de Salvador, com 48%, e Paulo Maluf (PPR), de São Paulo, com 41%, tiveram a pior avaliação. A PF vai investigar pagamentos da Prefeitura de São Paulo a construtoras citadas no caso Paubrasil. Brasil e Cotidiano
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-002</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-002</field>
+<field name="date">940101</field>
+<text_pt>
 Os quenianos dominaram a corrida de São Silvestre ontem. Simon Chemwoyo, 25, venceu a prova masculina pelo segundo ano consecutivo, num final confuso. Outros dois quenianos chegaram em terceiro e sexto lugares. A também queniana Hellen Kimaiyo, 25, venceu a prova feminina, disputada mais cedo. Fita Bayesa, 22, da Etiópia, liderava os últimos metros perseguido de perto por Chemwoyo. Na chegada, seguiram as motos dos batedores e entraram pelo corredor exclusivo para os veículos que acompanhavam a prova. Chemwoyo foi mais rápido ao voltar para o corredor de chegada e completou a prova com o tempo de 43min20. Chemwoyo, Bayesa e William Sigei (3.º) se revezaram na liderança o tempo todo. O mexicano Arturo Barrios, vencedor da prova em 90 e 91, chegou em quarto lugar. O brasileiro melhor colocado foi Ronaldo Costa, na sétimo posição. No feminino a brasileira Carmem Oliveira chegou a cinco segundos da vencedora. A portuguesa Albertina Dias foi a terceira. Pág. 5-1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-003</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-003</field>
+<field name="date">940101</field>
+<text_pt>
 O ano que se encerrou não trouxe a tão desejada estabilização da economia. De fato, a taxa de inflação para dezembro ficou próxima de 38%, com o que 1993 terminou com o recorde de todos os tempos em matéria de alta anual de preços. Esse malogro lamentável ofusca alguns dos avanços obtidos no campo econômico, como por exemplo o crescimento próximo a 4,5%.
 Há ângulos setoriais que merecem comemoração. O setor externo teve um desempenho muito bom. O saldo da balança comercial será de quase US$ 14 bilhões, um dos maiores do mundo. Aliado ao afluxo de capitais especulativos, isso permitiu ao governo acumular um alto nível de reservas (US$ 29 bilhões em outubro), o que diminui o risco de dificuldade no balanço de pagamentos.
 Além disso, o governo fechou um acordo com os bancos estrangeiros e, com isso, regularizou parcialmente sua situação com a comunidade financeira internacional. Falta fechar o acerto com o Fundo Monetário Internacional, para o qual, de todo o modo, a negociação já está avançada. Foram dados, igualmente, passos importantes no rumo de uma liberalização cambial.
@@ -30,9 +30,9 @@ Esses avanços setoriais são, no entanto, ofuscados pela crise social e pela acel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-004</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-004</field>
+<field name="date">940101</field>
+<text_pt>
 A Justiça brasileira viveu um ano marcante em 1993. Os cidadãos recorreram como nunca aos tribunais, num movimento que só fortalece o Estado de Direito. Apenas no âmbito trabalhista, por exemplo, estima-se que mais de 1,8 milhão de ações foram ajuizadas no ano passado. E o Judiciário não fez parte apenas da vida cotidiana da população como envolveu-se também nas grandes decisões nacionais &#150;do IPMF à cassação de Fernando Collor.
 No entanto, a avalanche de ações, somada à ultrapassada máquina judiciária e a intricadas normas de procedimento, significou ainda mais morosidade. É um problema reconhecido pela própria magistratura e que traz danos muito concretos para a sociedade, além de reforçar a desconfiança sobre a capacidade do Estado de produzir justiça.
 O recorde de processos registrado neste ano &#150;segundo o "Jornal do Advogado" (da OAB-SP) de dezembro&#150; traduz ainda a profunda e perversa instabilidade legislativa que vive o país. Apenas entre janeiro e novembro, foram editadas 116 leis. É um número até menor do que o de outros anos (em 1990, por exemplo, foram editados 365 diplomas), mas ainda assim representa uma nova lei a cada dois dias úteis.
@@ -43,9 +43,9 @@ De todo modo, é extremamente positivo que o Judiciário esteja cada vez mais se f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-005</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-005</field>
+<field name="date">940101</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A CPI do Orçamento parece estar se afogando em pouca água. Começa pelas divergências em torno da convocação ou não de três governadores para prestar depoimento. Não há a menor lógica em se hesitar em fazê-lo. Convocá-los não significa que sejam culpados, como aliás ocorreu no caso de todos os demais depoentes.
 É verdade que a simples presença na CPI pode passar ao público a impressão de que o depoente é culpado e não apenas suspeito. Mas esse tipo de preocupação não pode manietar a CPI. Até porque político, em geral, culpado ou inocente, mencionado ou não no escandalo do Orçamento, é hoje no mínimo suspeito aos olhos de boa parte do público. Se a CPI passar a impressão de que está protegendo um ou outro político, essa injusta suspeição disseminada sobre os políticos acabará se justificando a posteriori.
@@ -56,9 +56,9 @@ Chega de transição, de interinidade, de provisoriedade. O país já está grandinho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-006</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-006</field>
+<field name="date">940101</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Numa época em que havia mais jornais e revistas, e em que eu botava a banca de pessimista profissional, fizeram uma enquete para ser publicada no primeiro dia do ano. A pergunta fundamental era: "Qual a manchete que gostaria de ver nos jornais de amanhã?". Sendo um dos editores do jornal, tive acesso às respostas que outros jornalistas e escritores haviam dado. Disparado, ganhava a manchete: "Reina paz em todo o mundo". Havia então algumas guerras localizadas e a competição entre Estados Unidos e União Soviética vivia um dos momentos mais críticos.
 Outras manchetes também apareciam com frequência: "Descoberta a cura do câncer!" (numa época em que ainda não havia Aids) vinha em segundo lugar, seguida por outras menos votadas: "Ninguém morrerá mais de fome!", "A terra dará para todos!", "Todos os homens são iguais!" e "O Brasil venceu o subdesenvolvimento!".
@@ -68,9 +68,9 @@ Recebi algumas cartas de protesto, mas o dono do jornal &#150;que estava em Pari
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-007</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-007</field>
+<field name="date">940101</field>
+<text_pt>
 Luciano Mendes de Almeida
 Todo dia é convite para continuar a viver, superando desafios e fazendo o bem. O primeiro dia do ano oferece, no entanto, a oportunidade de uma avaliação do caminho percorrido em 1993, percebendo omissões, faltas cometidas e as boas ações que, apesar de nossas limitações, pudemos praticar. Na passagem do ano, cabe um tempo maior de meditação. Vamos, na memória, virando as páginas de nosso álbum de fotografias, revivendo dificuldades, quedas e vitórias, para entrarmos, com coragem, no ano que começa.
 Há, no entanto, um modo melhor de contemplar o ano que passou. É a atitude de quem, com humildade, se coloca na presença de Deus e fala a Ele, revendo os próprios atos. Jesus Cristo estava em contínua oração e nos ensinou o diálogo filial com o Pai, em quem devemos sempre confiar. O exame de consciência se transforma, assim, numa conversa amiga com o Pai que nos ama, conhece nossa consciência e nos ajuda a ver melhor o livro da vida. Podemos, então, reconhecer as nossas culpas e pedir perdão na certaza de sermos atendidos e auxiliados a nos corrigir. Na oração filial, somos capazes de constatar algum bem realizado, mas atribuindo à graça divina os benefícios recebidos. Diante do passado, renasce a paz, sabendo que "tudo coopera para o bem à luz do amor de Deus" (Rm 8, 28). Cresce a atitude de abandono frente ao futuro, esperando, aos poucos, melhorar nossa conduta e contribuir para o bem do próximo.
@@ -83,9 +83,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-008</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-008</field>
+<field name="date">940101</field>
+<text_pt>
 GILBERTO DIMENSTEIN
 O brasileiro paga muito ou pouco imposto? O presidente da República e seu ministro da Fazenda fizeram com que pulássemos de ano com essa incômoda questão nas manchetes dos jornais. Comparando estatísticas internacionais, o governo afirma: paga pouco. Apenas olhando os números está certo. Não se deixe, porém, enganar.
 Vou traduzir em termos bem simples. Você vai num restaurante, é muito bem tratado, a comida está ótima. No final, a conta é salgada, mas justa. Mas um indivíduo se sente lesado ao ter de pagar num botequim por um cafezinho requentado.
@@ -97,9 +97,9 @@ E o governo quer que você se sinta culpado por pagar "pouco" imposto. Devem acha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-009</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-009</field>
+<field name="date">940101</field>
+<text_pt>
 HERBERT DE SOUZA
 Não, 1993 não foi um ano perdido. Ao contrário. Foi o ano em que a sociedade brasileira plantou uma importante semente, a da cidadania. O ano que vai ficar marcado como fundamental para o despertar da sociedade brasileira, que viu e se assustou com o desastre social para o qual estávamos caminhando. Viu e se assustou com o rosto da miséria, expressão máxima da indiferença em que estávamos enfiados. O ano chega ao fim e podemos comemorar o fato de que parte desta indiferença se transformou em solidariedade e que há um clima de mudança no ar, um sinal de alerta contra o desastre.
 É claro que o Brasil não resolveu os seus problemas em 1993. Mas despertou. Despertou para a compreensão de que democracia e miséria são incompatíveis, para a constatação de que 32 milhões de pessoas passam fome num país que desperdiça 20% da safra agrícola, despertou para o drama de 16 milhões de crianças que crescem na indigência, despertou para a necessidade de construir um Estado que atenda os interesses da sociedade, despertou para a solidariedade como forma de ver no outro um cidadão igual, com direito a uma vida digna, comida, trabalho, casa, escola.
@@ -111,9 +111,9 @@ HERBERT DE SOUZA, 58, sociólogo, é secretário-executivo do Ibase (Instituto Bras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-010</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-010</field>
+<field name="date">940101</field>
+<text_pt>
 ROBERTO CAMPOS
 Sim. O que houve de positivo foi uma bolha de crescimento, o auto-expurgo do Legislativo e o saldo comercial de US$ 13,5 bilhões. Mas a inflação quase dobrou, a privatização se desacelerou, os dinossauros estatais continuam vorazes e o país se tornou cada vez mais anedótico, entrando para o livro "Guinness" dos recordes como uma média de 4,4 ministros por mês.
 O crescimento, infelizmente, não é sustentável pois é difícil planejar investimentos com uma inflação de 2.567% ao ano. O auto-expurgo do Legislativo é saudável, desde que se tirem as conclusões corretas. A corrupção do Orçamento e das empreiteiras não é apenas uma depravação conjuntural e sim uma deformação estrutural. O principal motivo é o excessivo tamanho do governo, que faz com que muitas empresas não possam sobreviver sem as boas graças do Leviatã. Um segundo motivo é a falta de concorrência, por causa das reservas de mercado. Um terceiro motivo, que justifica os sobrefaturamentos das empreiteiras, são os crônicos atrasos de pagamento do governo.
@@ -130,9 +130,9 @@ ROBERTO CAMPOS, 75, economista e diplomata, é deputado federal pelo PPR do Rio d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-011</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-011</field>
+<field name="date">940101</field>
+<text_pt>
 BOLÍVAR LAMOUNIER
 Num país que se arrasta em dificuldades desde a década passada, não é extraordinário que se contabilize como "aproveitado" o ano em que algumas coisas boas puderem ser lembradas. Por este critério, 1993 talvez tenha sido razoável.
 Na economia, continuamos com o nosso velho apartheid monetário &#150;os ricos têm sua moeda, os pobres que se virem&#150;, mas temos agora uma chance razoável com o plano do ministro Fernando Henrique Cardoso. Sabemos que, sem estabilidade monetária, poderemos ter espasmos de crescimento, mas não teremos recuperação efetiva, nem política social digna do nome.
@@ -149,9 +149,9 @@ BOLÍVAR LAMOUNIER, 50, cientista político, é pesquisador senior do Instituto de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-012</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-012</field>
+<field name="date">940101</field>
+<text_pt>
 "Achei deveras oportuna e elucidativa a publicação, de 12/12, dos cadernos 100 Centros do Poder e Guia do poder. O dicionário elaborado pela jornalista Kathryn Tolbert pode até suscitar 'questionamentos e críticas', como diz a Folha, mas dá uma visão do mundo atual sobre as diversas e diferentes áreas do poder, sem pretender &#150;o que seria impossível&#150; ser a palavra definitiva e perene. Afinal, vivemos num mundo em mudança onde as previsões são, quase sempre, temerárias. A leitura do dicionário levou-me a refletir e até chegar a certas conclusões que, no momento, deixo de mencionar. Creio que outros leitores da Folha tiveram, também, os seus 'insights'. Atrevo-me, no entanto, a fazer uma sugestão: que tal fazer um dicionário semelhante tendo o Brasil como a área de influência? Figurariam aí organizações governamentais e não-governamentais, nacionais e internacionais. É claro, que a exemplo do dicionário da sra. Kathryn Tolbert, em certas áreas apareceriam pessoas que, independentemente de qualquer filiação, têm enorme poder de influência."
 Edite do Ceu Faial Jacques, secretária-geral da Comissão Justiça e Paz da Arquidiocese de Brasília (Brasília, DF)
 
@@ -203,9 +203,9 @@ das 237 cartas recebidas pelo Painel do Leitor na semana passada comentavam a vi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-013</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-013</field>
+<field name="date">940101</field>
+<text_pt>
 A então ministra do Planejamento, Yeda Crusius, gostava de ir à praia. Sempre que se encontrava numa cidade litorânea escapava do hotel às 7h, quando supunha que os fotógrafos estavam dormindo, e se atirava no mar. Seu assessor de imprensa entrava em pânico e prevenia:
 &#150; Mais dia, menos dia, eles vão descobrir e fotografar a senhora.
 Não deu outra. Num belo dia, os jornais estamparam as fotos da ministra de maiô.
@@ -219,9 +219,9 @@ O assessor foi sincero:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-014</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-014</field>
+<field name="date">940101</field>
+<text_pt>
 Em 91, o relator João Alves foi autor de 73% das emendas aprovadas por ele
 RUDOLFO LAGO
 Da Sucursal de Brasília
@@ -236,9 +236,9 @@ O texto destaca ainda o enorme poder concedido ao relator-geral da Comissão de O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-015</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-015</field>
+<field name="date">940101</field>
+<text_pt>
 Livro diz que direito de defesa atrasa o processo
 Da Sucursal de Brasília
 Se depender do presente do presidente da CPI, senador Jarbas Passarinho (PPR-PA), o deputado José Genoino (PT-SP) terá mais argumentos para fazer perguntas duras nos depoimentos na comissão. Passarinho comprou para o deputado o livro "Manual dos Inquisidores" como presente de fim-de-ano.
@@ -248,18 +248,18 @@ O livro questiona também o direito de defesa: "O direito de defesa deve ser conc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-016</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-016</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal de Brasília
 O deputado José Carlos Aleluia (PFL-BA) afirmou ontem que nunca pertenceu a nenhuma cadeia de corrupção e disse ter achado "estranho" o fato de a subcomissão de emendas da CPI do Orçamento ter elaborado um relatório sem ao menos ter lhe ouvido. O deputado afirmou que a CPI não possui prova contra ele.
 A maioria dos políticos citados no relatório não estava em casa ontem e não pôde ser contatada pela  Folha. Nas ligações para os deputados Genebaldo Correia, Cid Carvalho, Osvaldo Melo e Felipe Mendes, ninguém atendeu. Nas residências dos deputados Flávio Derzi, Lúcia Vânia e Fernando Diniz, a informação foi que eles estavam viajando para lugar desconhecido.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-017</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-017</field>
+<field name="date">940101</field>
+<text_pt>
 DENISE MADUEÑO
 Da Sucursal de Brasília
 O ex-assessor do Senado José Carlos Alves dos Santos deverá depor novamente na CPI do Orçamento. Ele enviou carta ao presidente da Comissão, senador Jarbas Passarinho (PPR-PA), na qual se oferece para depor na Subcomissão de Subvenções Sociais. Passarinho vai recomendar que o economista seja ouvido: "Acho que ele deve ser ouvido."
@@ -270,9 +270,9 @@ O presidente da CPI descartou ontem a possibilidade da Comissão ouvir o ex-presi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-018</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-018</field>
+<field name="date">940101</field>
+<text_pt>
 TALES FARIA
 Da Sucursal de Brasília
 O relator da Comissão Mista de Orçamento, deputado Marcelo Barbieri (PMDB-SP), disse ontem que irá dar parecer contrário à tramitação do projeto de Orçamento enviado pelo governo ao Congresso. "Ao vincular parte de sua receita ao Fundo Social de Emergência, que não é previsto pela Constituição, o projeto se tornou inconstitucional. Assim que ele chegar às minhas mãos, darei parecer contra sua tramitação", disse Barbieri.
@@ -285,18 +285,18 @@ Colaborou Susi Aissa, da Sucursal de Brasília.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-019</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-019</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal de Brasília
 O líder do governo no Senado, Pedro Simon, imaginava que o Orçamento não contaria com o Fundo Social de Emergência. "Eu tinha lido nos jornais que a área econômica enviaria o projeto sem contar com os 15%", disse. Mas lembrou que partiu do Congresso o pedido para mandar o projeto ainda em 93, mesmo que com o fundo, na esperança de se votar a emenda que prevê a sua criação antes da votação do Orçamento.
 "Se a suspensão dos 15% das transferências constitucionais for aprovada, tudo bem, o Orçamento passa a ser constitucional. Se não for, o Congresso proporá outra forma de zerar o déficit público e a faz constar do Orçamento no lugar do fundo", disse Simon.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-020</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-020</field>
+<field name="date">940101</field>
+<text_pt>
 JOÃO CARLOS DE OLIVEIRA
 Da Reportagem Local
 O presidente Itamar Franco é visto como um obstáculo para o sucesso do plano de estabilização proposto pelo ministro Fernando Henrique Cardoso (Fazenda). Esta opinião é compartilhada pelo ex-ministro Mailson da Nóbrega e pelo ex-secretário de política econômica Antônio Kandir.
@@ -313,9 +313,9 @@ Mailson desconfia da avaliação corrente entre os economistas de que, depois de e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-021</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-021</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal de Brasília
 A tributação sobre operações sem rendimento real, prevista pela medida provisória assinada pelo presidente Itamar Franco na última quarta-feira, tem como principal objetivo coibir artifícios das grandes empresas para diminuir a base de cálculo do recolhimento do imposto de renda.
 Segundo o coordenador de Arrecadação da Receita Federal, José Alves da Fonseca, muitas empresas estavam simulando prejuízos para diminuir a taxação sobre o resultado financeiro. Com o apoio de gerentes de bancos, as empresas acertam um rendimento dos CDBs abaixo da inflação e, por isso mesmo, simulam prejuízos no resultado financeiro.
@@ -325,9 +325,9 @@ A Medida Provisória 402 também muda o regime tributário sobre as aplicações de i
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-022</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-022</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 O aumento de impostos no setor bancário levará a uma alta das taxas de juros dos empréstimos. Esta é a avaliação da Febraban (Federação Brasileira das Associações de Bancos). Segundo a entidade, 50% das taxas de juros reais na concessão de empréstimos já referem-se a impostos recolhidos ao governo. E este percentual deverá aumentar, pressionando os juros.
 Segundo a Febraban, antes do aumento do IOF para os bancos no início de dezembro passado, o percentual dos juros referentes aos impostos era de 47%. Subiu para 50% com o aumento do IOF e deverá subir ainda mais agora com a elevação na contribuição social das instituições financeiras de 23% para 30% sobre o lucro e também com o IPMF que passa a vigorar a partir de hoje.
@@ -335,9 +335,9 @@ Os dados mais recentes da Febraban mostram que em 1992 o sistema bancário brasil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-023</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-023</field>
+<field name="date">940101</field>
+<text_pt>
 TALES FARIA
 Da Sucursal de Brasília
 O presidente Itamar Franco disse ao líder do governo no Senado, Pedro Simon (PMDB-RS), que pretende concluir até o próximo dia 10 a reforma ministerial. Na segunda-feira, Itamar e Simon se reúnem no Palácio do Planalto para retomar a discussão sobre a nova composição do ministério.
@@ -349,9 +349,9 @@ Está previsto para quarta-feira um encontro de Itamar Franco com o presidente do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-024</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-024</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Itamar Franco conseguiu, mais uma vez, driblar a imprensa. Sumiu desde a noite de quinta-feira passada e até ontem à tarde seu esconderijo era um mistério. Nenhum de seus assessores e amigos revelou onde Itamar passaria o Réveillon.
 O secretário-geral da Presidência, Mauro Durante, afirmou ao porta-voz interino, Fernando Costa, que Itamar comemoraria a passagem de ano com amigos e só reapareceria na segunda-feira.
@@ -360,9 +360,9 @@ Na última hora, foi cancelada a viagem do escalão de apoio, marcada para às 17h 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-025</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-025</field>
+<field name="date">940101</field>
+<text_pt>
 Desesperadas, pessoas usam água contaminada pelo cólera numa região que em 93 teve menos chuva que o Saara
 ADELSON BARBOSA
 Da Agência Folha, no Cariri (PB)
@@ -382,9 +382,9 @@ A pesquisa da Universidade Federal da Paraíba se apóia em dados do IBGE (Institu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-026</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-026</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha, em João Pessoa
 A pesquisa da UFPB revela que a região do Cariri Ocidental da Paraíba está em avançado estágio de desertificação por causa da seca. Segundo o professor Lucindo José Quintans, 46, a vegetação nativa está se extinguindo em consequência da seca.
 Sem meios para sobreviver, a população retirou todo tipo de planta para usar na alimentação. Agora, os habitantes estão destruindo a vegetação seca para fazer carvão e ter alguma fonte de renda. Quintans afirma que seriam necessários de 20 a 30 anos para o Cariri se recuperar do processo de desertificação.
@@ -395,9 +395,9 @@ Quintans afirma que a previsão é de que este ano também será seco. "Se a seca se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-027</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-027</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha, em Monteiro
 Jailson da Silva tem 7 anos, menos de um metro de altura e pesa 13 quilos. Ele e o irmão Genilson, 8, passam o dia dormindo "para não sentir fome", segundo a mãe, Maria José da Silva, 44. Os dois falam com dificuldade e mal se sustentam de pé.
 Maria José mora em uma casa de taipa com dois quartos, sala e cozinha no sítio Santa Catarina, município de Monteiro (PB), junto com seus 14 filhos e cinco netos. Onze filhos têm menos de 15 anos e aparência de crianças famintas da Etiópia. Só têm pele e osso, como se diz na região.
@@ -409,9 +409,9 @@ Na esperança de alimentar os filhos, ela matriculou sete deles na primeira série
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-028</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-028</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha, em João Pessoa
 O economista Lucindo José Quintans, 46, professor do curso de Administração da UFPB e coordenador do estudo, compara o Cariri Ocidental da Paraíba à Eritréia, uma das regiões mais pobres da Etiópia. A renda per capita da Etiópia (US$ 120) só supera dois países, Moçambique (US$ 80) e Tanzânia (US$ 110).
 Segundo ele, 60% dos 111 mil habitantes do Cariri vivem "em miséria absoluta". São pessoas com renda per capita anual de US$ 118. A renda per capita anual do restante da população varia entre US$ 118 e US$ 365.
@@ -420,9 +420,9 @@ Dos 12 municípios da área, oito tiveram crescimento populacional negativo na déc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-029</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-029</field>
+<field name="date">940101</field>
+<text_pt>
 CBPO e Andrade Gutierrez são pagas com dinheiro do município; dívida estava vinculada a empréstimo externo
 MÁRIO SIMAS FILHO
 Da Reportagem Local
@@ -438,9 +438,9 @@ No final de janeiro, o delegado Eldo Saraiva Garcia, que investiga o caso Paubra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-030</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-030</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 O prefeito de São Paulo, Paulo Maluf (PPR), não foi encontrado ontem para comentar as suspeitas da Polícia Federal. As 11h, sua assessoria de imprensa informou que o prefeito não estava na cidade e que só retornaria na segunda-feira.
 O secretário de Vias Públicas, Reynaldo de Barros, também não se encontrava na secretaria. O assessor de imprensa do secretário, Mário Chamie, disse ontem que "parece não haver nenhuma irregularidade na operação" de pagamento das dívidas que a prefeitura mantinha com a Andrade Gutierrez e com a CBPO.
@@ -449,9 +449,9 @@ Na PF, diretores das empreiteiras que contribuíram com o esquema Paubrasil afirm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-031</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-031</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 O prefeito Paulo Maluf (PPR) pagou uma dívida de US$ 8,9 milhões para a construtora CBPO de uma obra que não está sendo feita e que para ser retomada precisaria de nova licitação.
 A dívida foi feita na gestão do ex-prefeito Jânio Quadros (1986-1988) em decorrência de um trecho do Boulevard Juscelino Kubitschek, entre as ruas João Cachoeira e Renato Paes de Barros, na zona Sul da Capital. A conclusão da obra não está nos planos da atual administração, segundo secretário de Vias Públicas, Reynaldo de Barros.
@@ -463,9 +463,9 @@ A lei municipal número 10.544 estabelece que todo contrato tem um prazo de venci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-032</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-032</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A dívida de US$ 28,9 milhões que a prefeitura tinha com a construtora Andrade Gutierrez foi feita pela administração do ex-prefeito Jânio Quadros e era referente à construção do minianel viário e reurbanização do Vale do Anhangabaú. Em novembro de 1986, a empreiteira venceu a licitação para o minianel viário.
 Em 1989, as obras foram interrompidas pela prefeita Luiza Erundina. Mas o contrato feito com a administração Jânio Quadros foi renegociado. Com isso, a licitação não perdeu a validade em razão do tempo e o prefeito Paulo Maluf pôde reiniciar as obras com base no novo contrato.
@@ -476,9 +476,9 @@ Para concluir as obras de reurbanização do Anhangabaú, a ex-prefeita renegociou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-033</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-033</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha
 O senador Mário Covas (PSDB) lidera a pesquisa de intenção de votos para o governo de São Paulo em todas as regiões do Estado. No ABCD e no Vale do Paraíba, Covas tem as suas maiores vantagens, segundo o Datafolha, com 51%.
 No ABCD, há um empate técnico na disputa pelo segundo lugar: o secretário de Desenvolvimento Urbano de São Paulo, o ex-prefeito Reynaldo de Barros (PPR), com 6%, e o deputado federal José Dirceu (PT), que obteve 5%.
@@ -491,9 +491,9 @@ Covas tem maior vantagem sobre o segundo colocado &#150;Reynaldo de Barros, do P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-034</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-034</field>
+<field name="date">940101</field>
+<text_pt>
 ELVIRA LOBATO
 Da Reportagem Local
 O governo deu 90 dias para a ECT (Empresa Brasileira de Correios e Telégrafos) sair do vermelho e zerar um prejuízo operacional de US$ 30 milhões, que vem sendo coberto com empréstimo de curtíssimo prazo no Banco do Brasil, ao custo de 50% ao mês. A rolagem diária da dívida custou US$ 150 milhões em juros para os Correios, este ano.
@@ -507,9 +507,9 @@ Uma das soluções em estudo é a redução do prazo de cobrança. Outra hipótese é o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-035</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-035</field>
+<field name="date">940101</field>
+<text_pt>
 Antártica muda rótulo de três cervejas
 A cerveja Antártica vai mudar o rótulo de três marcas de cerveja: Pilsen Extra, Munchen e Malzbier. A intenção é de modernizar o produto. A criação é da Seragini Design.
 
@@ -526,9 +526,9 @@ Representantes do grupo Royal Dutch/Shell e da Montedison SPA assinaram esta sem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-036</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-036</field>
+<field name="date">940101</field>
+<text_pt>
 
 Preço mais baixo, alta tecnologia e melhor qualidade marcam os novos lançamentos
 FILOMENA SAYÃO
@@ -558,9 +558,9 @@ Excepcionalmente hoje deixa de circular o caderno Consumo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-037</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-037</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A indústria de brinquedos, que vive de tirar produtos de linha e lançar novos, promete laçar também gente grande. A Tec Toy, empresa que tem a marca de videogames japonesa Sega, vai fabricar no Brasil o Sega VR (de "Virtual Reality"), acessório para o Mega Drive que põe o jogador "dentro" do game.
 O acessório, misto de óculos e capacete, virá junto com jogos especiais. "Dependendo do game, poderá ser utilizado por crianças ou adultos", explica Stefano Arnhold, 39, vice-presidente da empresa. O aparelho estará disponível no segundo semestre e custará cerca de US$ 300. Antes disso, a Tec Toy lança o Activator, acessório para o Mega Drive que torna o game interativo. 
@@ -568,9 +568,9 @@ A Playtronic, que traz os games da Nintendo, faz três lançamentos: o We're Back,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-038</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-038</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 1993 foi difícil. Mas as indústrias não deixaram por menos. Foram 1.950 lançamentos &#150;entre novos produtos, extensão de linhas e modificações&#150;, segundo indica projeção da empresa de pesquisas Indicator. "Se o mercado continuar aquecido, 94 poderá atingir o recorde de 2.500", afirma Jeni Sobreira Lima, 25, gerente da divisão de pesquisas.
 Até novembro, a Indicator computou 1.718 lançamentos. Em 1992, foram 1.253 novos produtos. Em 1991, 819 novidades chegaram às lojas. Se for considerada a projeção de 1.950 lançamentos para 93, o crescimento em relação ao ano anterior foi de 56%. Jeni diz que continua a tendência de o consumidor procurar praticidade no que compra.
@@ -583,9 +583,9 @@ Colaborou Márcia De Chiara
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-039</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-039</field>
+<field name="date">940101</field>
+<text_pt>
 PAUL SINGER
 O plano de estabilização apresentado pelo ministro Fernando Henrique se compõe de duas partes distintas: o chamado ajuste fiscal e a reforma monetária. Como apenas o ajuste fiscal foi concretamente delineado, as discussões têm se centrado nele. E o governo insiste que o ajuste constitui a parte mais difícil e decisiva do plano.
 É duvidoso que assim seja: para começar, porque não faz tanta diferença se o Orçamento é equilibrado a partir da lei aprovada pelo Legislativo ou por decisão do Executivo de não gastar além do que arrecada. Do ponto de vista da demanda global, que seria inflada pelo excesso de dispêndio governamental, é indiferente que este excesso seja eliminado antes ou durante a execução orçamentária. Resta a famosa questão das expectativas.
@@ -605,9 +605,9 @@ PAUL SINGER, 61, economista, é professor titular da Faculdade de Economia e Admi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-040</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-040</field>
+<field name="date">940101</field>
+<text_pt>
 O banqueiro Luiz Cezar Fernandes, um dos donos da Superpac, já detém as marcas Benetton e Fiorucci no país
 FÁTIMA FERNANDES
 Da Reportagem Local
@@ -624,9 +624,9 @@ A estratégia, diz ele, é fazer da Teba uma gande exportadora de tecidos de linho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-041</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-041</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A Braspérola, maior fabricante de tecidos de linho do país, terminou 93 com produção da ordem de 20 milhões de metros lineares de tecidos &#150;divididos entre linho puro e mistos de linho. Esse volume é 25% maior do que o fabricado durante 1992.
 Yvah Pacheco Reis, diretor comercial da empresa, diz que o consumo de linho tem crescido no Brasil por causa da abertura do mercado. Ele conta que só três empresas fazem fio de linho no país &#150;Braspérola, Teba e Leslie. Elas fabricam cerca de 4.000 toneladas desse fio por ano. O país importa mais 3.000 toneladas anuais.
@@ -637,9 +637,9 @@ A empresa detém 50% do mercado brasileiro de linho, seguida da Leslie e Fama (am
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-042</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-042</field>
+<field name="date">940101</field>
+<text_pt>
 KATIA MILITELLO
 Da Reportagem Local
 A doceria Amor aos Pedaços, conhecida por seus bolos vendidos em fatias, partiu-se em dois. Um acordo entre os três sócios definiu a separação da empresa, que no exterior terá operação totalmente desvinculada da brasileira. A Amor aos Pedaços já atua em Miami e Portugal. Prepara-se para desembarcar em Chicago e Taiwan.
@@ -651,9 +651,9 @@ O crescimento no Brasil não gera arrependimentos em Reinaldo Abramovay, que já s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-043</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-043</field>
+<field name="date">940101</field>
+<text_pt>
 RODNEY VERGILI
 Da Reportagem Local
 O Bradesco intensifica sua escalada para ganhar mercado nos cartões de afinidade com o lançamento, no início do ano, do catálogo da Sears dos EUA.
@@ -666,9 +666,9 @@ No caso de cartões emitidos por sociedades ecológicas, como o do Bradesco com a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-044</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-044</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Décio Burd, 40, vice-presidente de vendas diretas do Credicard, diz que o cartão de afinidade é um novo filão de expansão do mercado brasileiro. Nos EUA, a tendência iniciou-se há sete anos.
 O Credicard lançou o cartão do Esporte Clube Internacional Mastercard. Não é preciso ser associado do Credicard para possuir o cartão.
@@ -681,9 +681,9 @@ O Banco Panamericano optou por deixar o processamento dos cartões com a empresa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-045</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-045</field>
+<field name="date">940101</field>
+<text_pt>
 MAURO ZAFALON
 Da Redação
 Os reajustes de preços nos supermercados ficaram em 7,44% na última semana do ano em São Paulo. Esta evolução foi menor do que a das duas semanas imediatamente anteriores, quando a alta esteve em 10%. Os hipermercados também registraram aceleração menor nos preços, com aumento médio de 7,7% neste final de ano, contra 9,9% nas duas semanas anteriores.
@@ -695,9 +695,9 @@ A pesquisa do Datafolha inclui 96 itens, pesquisados em 12 supermercados e 12 hi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-046</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-046</field>
+<field name="date">940101</field>
+<text_pt>
 Da Redação
 e da Sucursal de Brasília
 A partir de hoje todas as pessoas e empresas que se utilizam do sistema bancário passam a pagar 0,25% de IPMF (Imposto Provisório sobre Movimentação Financeira) sobre débitos de qualquer natureza. Escapar do novo imposto, que na prática começa a ser cobrado na segunda-feira, não é tarefa fácil. Com a inflação apontando para 40% ao mês não vale a pena ficar com dinheiro no bolso e fora do sistema bancário.
@@ -709,30 +709,30 @@ A cobrança do IPM causou muita polêmica no ano passado. O governo começou a cobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-047</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-047</field>
+<field name="date">940101</field>
+<text_pt>
 Em seu pronunciamento de início de ano, o primeiro-ministro japonês, Morihiro Hosokawa, reafirmou suas metas de desregulamentação da economia e políticas que dão uma maior ênfase ao consumidor. Ao ser eleito premiê, em agosto passado, Hosakawa prometeu que faria o Parlamento aprovar as reformas até o fim de 93, mas não conseguiu.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-048</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-048</field>
+<field name="date">940101</field>
+<text_pt>
 A neta de Fidel Castro, Alina Maria Fernandez, comprou passagem ontem para se juntar à mãe, Alina Fernandez Revuelta, nos Estados Unidos. Alina Fernandez Revuelta, filha de Fidel Castro, fugiu de Cuba na semana passada e recebeu asilo nos EUA. No exílio, ela disse ter pena do pai e pediu ao governo cubano que permitisse a viagem da filha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-049</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-049</field>
+<field name="date">940101</field>
+<text_pt>
 A resposta da OLP às propostas de Israel formuladas nas negociações do Cairo (Egito), quarta-feira passada, não agradou os israelenses. Sem dar detalhes, as autoridades disseram ontem que a resposta "não é razoável". Assim, o impasse continua. Também ontem, Israel confirmou que seus delegados mantiveram encontros informais com sírios na Europa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-050</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-050</field>
+<field name="date">940101</field>
+<text_pt>
 Madonna vê seu time perder na NBA
 A cantora Madonna foi ao Miami Arena quinta-feira para ver a partida entre Miami Heat e Orlando Magic pela NBA (na foto ela é abraçada por "Bernie", mascote do time da casa). A equipe visitante venceu o jogo por 108 a 100.
 
@@ -750,9 +750,9 @@ O crocodilo de 2,8 m que matou Cassey Bond, 47, na véspera do Natal, será mantid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-051</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-051</field>
+<field name="date">940101</field>
+<text_pt>
 Governador do Estado acusa governo federal dos EUA de não impedir entrada de estrangeiros
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -770,9 +770,9 @@ No entanto, como demonstram estudos de economistas como Charles Kelly, da Univer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-052</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-052</field>
+<field name="date">940101</field>
+<text_pt>
 De Washington
 O presidente dos EUA, Bill Clinton, criou um grupo interministerial de 33 pessoas com o objetivo de estudar e propor até julho deste ano propostas para diminuir benefícios sociais garantidos a imigrantes ilegais e seus descendentes. A idéia mais controvertida é a criação de uma carteira de identidade obrigatória para todos os residentes nos EUA.
 Esse tipo de documento não existe no país e todas as entidades de defesa dos direitos humanos se opõem à sua criação, por acharem que ele ameaçaria a privacidade e se constituiria em excessiva ingerência do Estado na vida do cidadão. Clinton, no entanto, mostra simpatia pela sugestão e tem repetido que é preciso diminuir o fluxo da imigração ilegal.
@@ -782,9 +782,9 @@ Clinton também não mudou, como havia prometido na campanha, a proibição de entra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-053</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-053</field>
+<field name="date">940101</field>
+<text_pt>
 De Washington
 Estudo do Censo dos EUA divulgado em novembro de 1993 oferece mais dados para se compreender por que os norte-americanos natos andam com tanto desconforto em relação aos estrangeiros: o desempenho social dos imigrantes legais é tão bom ou melhor do que o deles.
 Por exemplo: 20,4% dos estrangeiros terminam um curso superior, o que só 20,3% dos americanos conseguem; a renda familiar média anual do estrangeiro é apenas US$ 1.800 inferior à dos americanos; 6,8% dos estrangeiros têm seus próprios negócios (7% dos americanos estão no mesmo caso).
@@ -793,9 +793,9 @@ Outro trabalho, do economista Gregory de Freitas, da Universidade Hofstra, de No
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-054</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-054</field>
+<field name="date">940101</field>
+<text_pt>
 De Washington
 As pesquisas sobre os sentimentos dos americanos em relação aos imigrantes não deixam dúvida de que grande parte da má-vontade atual se deve a simples racismo. Os estrangeiros latino-americanos, árabes e asiáticos, pela ordem, são muito pior vistos do que os europeus (inclusive os da Europa oriental) e africanos.
 Esse racismo em parte se explica pelo fato de que a maior parte dos americanos atuais descende de europeus e africanos (58 milhões de alemães, 39 milhões de irlandeses, 33 milhões de ingleses, 24 milhões de africanos, 15 milhões de italianos, 10 milhões de franceses, 9 milhões de poloneses, 6 milhões de holandeses). Poucos odeiam seus ancestrais.
@@ -805,9 +805,9 @@ Contra latinos e asiáticos o racismo vem não só dos brancos, mas também dos negr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-055</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-055</field>
+<field name="date">940101</field>
+<text_pt>
 FERNANDA GODOY
 De Nova York
 Desde o primeiro minuto de hoje, Nova York tem novo prefeito, o ítalo-americano Rudolph Giuliani, 49, advogado e ex-procurador federal. Giuliani celebra somente amanhã sua posse como sucessor do democrata David Dinkins, primeiro prefeito negro da história da maior cidade dos Estados Unidos.
@@ -823,9 +823,9 @@ O déficit do orçamento de Nova York em 1994 deverá superar US$ 2 bilhões, segund
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-056</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-056</field>
+<field name="date">940101</field>
+<text_pt>
 De Nova York
 O combate à violência foi o carro-chefe da campanha de Rudolph Giuliani. E agora promete ser seu maior desafio. Com o crescimento do crime organizado e do tráfico de drogas, espalhou-se também a corrupção entre uma corporação de 30 mil policiais, a maior força policial de uma cidade norte-americana.
 Em relatório divulgado esta semana, a Comissão Mollen, instituída para fazer um diagnóstico da corrupção na polícia de Nova York, apontou a existência de "uma cultura de tolerância com a corrupção e com os procedimentos fora da lei". O relator sugeriu a criação de um órgão de fiscalização independente para prevenir e detectar más condutas entre policiais.
@@ -835,9 +835,9 @@ Todas as pesquisas de opinião pública têm apontado a violência como a preocupaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-057</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-057</field>
+<field name="date">940101</field>
+<text_pt>
 Das agências internacionais
 Cinco homens armados atacaram ontem a tiros um bar na Cidade do Cabo (sudoeste da Africa do Sul), matando quatro pessoas e ferindo outras cinco. O massacre deixou o presidente sul-africano, Frederik de Klerk, "chocado e horrorizado". Segundo testemunhas, os pistoleiros eram negros e todas as vítimas, brancas. A polícia ofereceu US$ 60 mil por informações sobre os assassinos.
 Pouco depois do ataque, um homem, que se identificou como Zwaye Mfeya, telefonou para a Associação Sul-Africana de Imprensa (Sapa) e reivindicou a autoria do atentado. Ele disse ser integrante do Exército Popular Azaniano de Libertação, braço armado do Congresso Pan-Africano (PAC) &#150;movimento negro que se recusa a participar do processo de transição democrática.
@@ -847,9 +847,9 @@ O bar atacado, chamado Heidelberg Tavern, é frequentado por estudantes de todas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-058</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-058</field>
+<field name="date">940101</field>
+<text_pt>
 Das agências internacionais
 O Exército do Japão usou armas biológicas na China durante a 2.ª Guerra Mundial. Forças japonesas disseminaram pulgas portadoras da bactéria da peste e infectaram poços de água e frutas com o vibrião do cólera, entre outros recursos.
 As acusações foram feitas por professores das universidades de Chuo e de Rikkyo, no Japão, através do Centro de Dados sobre a Responsabilidade de Guerra do Japão. Eles investigaram diários de oficiais dos departamentos médico e estratégico do quartel-general do Exército, que estão nos arquivos do Instituto Nacional de Defesa.
@@ -858,9 +858,9 @@ Os diários revelaram planos de estender a guerra biológica a quase toda a região
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-059</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-059</field>
+<field name="date">940101</field>
+<text_pt>
 Das agências internacionais
 O secretário da Defesa dos EUA, Les Aspin, ordenou a abertura de todos os arquivos relativos aos anos 40 para descobrir se o Departamento teve algum envolvimento com o uso de cobaias humanas em experimentos com radiação naquela época. A realização dos testes foi denunciada domingo passado pelo jornal "The Boston Globe" e confirmada pelo Departamento de Energia.
 Segundo o diário, os testes continuaram até os anos 60 na faculdade Walter E. Fernald, de Massachusetts. As cobaias, nesse caso, foram 49 adolescentes e 61 crianças com duas coisas em comum: eram deficientes mentais e não sabiam que estavam sendo testados.
@@ -873,9 +873,9 @@ O deputado Martin Frost (democrata) defende uma lei específica para proteger as 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-060</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-060</field>
+<field name="date">940101</field>
+<text_pt>
 Vereador quer acabar com painel de ônibus
 O vereador Devanir Ribeiro (foto), do PT-SP, acionou o Ministério Público Estadual solicitando que sejam retiradas as propagandas dos vidros traseiros dos ônibus. Segundo o vereador, a propaganda "desvia a atenção dos demais condutores para a leitura de anúncios, podendo provocar acidentes".
 
@@ -887,9 +887,9 @@ Um caminhão Mercedes Benz, carregado de ovos, perdeu o freio e entrou na portari
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-061</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-061</field>
+<field name="date">940101</field>
+<text_pt>
 Jarbas Vasconcelos é aprovado por 63% em pesquisa Datafolha; César Maia (Rio) tem pior avaliação
 Da Redação
 Após um ano de mandato, o prefeito de Recife, Jarbas Vasconcelos (PMDB), obteve a maior taxa de aprovação de sua população entre os dez prefeitos avaliados em pesquisa do Datafolha realizada entre os dias 16 e 17 de dezembro últimos. Para 63% da população recifense, a administração Vasconcelos é boa ou ótima. O prefeito do Rio, César Maia, recebeu a pior avaliação &#150;50% dos pesquisadores consideram sua gestão ruim ou péssima. O prefeito de São Paulo, Paulo Maluf, ficou em oitavo lugar entre os dez prefeitos avaliados, com uma taxa de aprovação de apenas 25%.
@@ -900,9 +900,9 @@ Já Paulo Maluf viu subir de 35% para 41% a taxa de reprovação de sua gestão na P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-062</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-062</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha, em Recife
 O prefeito de Recife (PE), Jarbas Vasconcelos (PMDB), atribui a sua popularidade ao cumprimento das metas apresentadas durante a campanha eleitoral. Ele destaca a participação popular na definição das obras como um dos pontos que o levou a manter o primeiro lugar na pesquisa Datafolha sobre o desempenho dos prefeitos de capitais.
 Jarbas, que obteve 63% de aprovação dos moradores de Recife, concorda que o saneamento é o principal problema da cidade. Segundo ele, apenas 11% dos 270.633 imóveis de Recife possuem rede de esgoto. Vasconcelos espera ampliar o atendimento a 30% até o final de seu mandato.
@@ -913,9 +913,9 @@ De acordo com a pesquisa, a segurança pública (com 15% das menções) e o asfaltam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-063</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-063</field>
+<field name="date">940101</field>
+<text_pt>
 41% dos paulistanos dizem que gestão é ruim ou péssima, mas índice de ótimo sobe para 25%
 Da Redação
 O prefeito Paulo Maluf (PPR) tem poucas razões para comemorar o primeiro aniversário de seu governo na cidade de São Paulo. Sua administração é considerada ruim ou péssima por 41% dos paulistanos ouvidos pela pesquisa Datafolha realizada entre os dias 16 e 17 de dezembro últimos. O resultado coloca Maluf em oitavo lugar entre os prefeitos das dez principais capitais do país.
@@ -932,9 +932,9 @@ Sobre Maluf na página 3 e sobre o desempenho do prefeito nas áreas de saúde e ob
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-064</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-064</field>
+<field name="date">940101</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O ano não terminou bem para o prefeito Paulo Maluf. Dezembro era o mês que Maluf reservara para consolidar a imagem de "administrador competente", indispensável para alavancar sua candidatura à Presidência da República. A quase irrelevante mudança nos índices de avaliação de Maluf, no entanto, não estava nos planos da cúpula do PPR.
@@ -946,9 +946,9 @@ O desafio de Maluf até 2 de abril, prazo para desincompatibilização dos que quer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-065</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-065</field>
+<field name="date">940101</field>
+<text_pt>
 A Secretaria Estadual da Educação envia, entre 3 e 7 de janeiro, correspondência para as famílias que fizeram o cadastramento escolar indicando as escolas municipais ou estaduais nas quais os candidatos da 2.ª à 8.ª séries do 1.º grau devem ser matriculadas em 94.
 Minas Gerais 2
 Quem não receber a comunicação da Secretaria da Educação até 7 de janeiro deve comparecer à agência dos Correios onde foi feito o cadastramento e localizar a escola. A matrícula será feita entre 10 e 17 de janeiro. O governo estadual nomeou ontem 6.358 novos profissionais para trabalhar a partir de janeiro nas escolas estaduais.
@@ -963,9 +963,9 @@ A Câmara de São Bernardo aprovou anteontem, em sessão extraordinária, projeto de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-066</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-066</field>
+<field name="date">940101</field>
+<text_pt>
 Da Folha Nordeste
 A Fundação Civil Casa de Misericórdia, que administra a Santa Casa de Franca, vai assumir a área da Saúde do município por 30 dias, até que a prefeitura local resolva a situação do setor. A decisão foi anunciada ontem após reunião entre representantes da fundação e o prefeito Ary Balieiro.
 "Esses 30 dias serão suficientes para reassumirmos a Saúde do município", afirmou o prefeito. A crise do setor em Franca agravou-se anteontem com a demissão do secretário Ciro Botto. "Não aceitei ainda a decisão do Botto. Ele continua no cargo até segunda ordem", disse ontem Balieiro, do PMDB.
@@ -973,9 +973,9 @@ A greve dos médicos municipais, há dois meses, iniciou a crise da Saúde em Franc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-067</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-067</field>
+<field name="date">940101</field>
+<text_pt>
 Em 93, o Corpo de Bombeiros atendeu 73 ocorrências na cidade de Pedro Juan Caballero, no Paraguai. O número representa 8,36% das ocorrências registradas pela corporação no Estado. As chamadas de incêndio foram 25, sendo superadas pelos trabalhos de auxílio à comunidade (42). Seis foram as ocorrências de salvamento. Além desta cidade paraguaia, o Corpo de Bombeiros também atende as cidades de Quijarro e Porto Soares, na Bolívia.
 Mato Grosso do Sul 2
 As construções irregulares comerciais e residenciais de Campo Grande &#150;cerca de 17.500, que representam 20% do total das edificações da cidade&#150; podem obter anistia na Secretaria de Assuntos Urbanísticos, no Paço Municipal. O prefeito Juvêncio César da Fonseca (PMDB) sancionou decreto neste sentido esta semana. Os proprietários de imóveis devem protocolar requerimento na secretaria dentro de 180 dias para conseguir a regularização.
@@ -986,9 +986,9 @@ A Sanemat (Companhia de Saneamento Básico do Estado) e os moradores do bairro de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-068</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-068</field>
+<field name="date">940101</field>
+<text_pt>
 O prefeito de Passo Fundo, Osvaldo Gomes, e seu vice, Júlio Teixeira, ambos do PMDB, divulgaram nota informando que devolveram a gratificação de Natal que renderia CR$ 716 mil ao primeiro e CR$ 312 mil ao segundo. A gratificação foi instituída pela Câmara de Vereadores. Conforme o prefeito e o vice, a iniciativa fere a Lei Orgânica do Município.
 Rio Grande do Sul 2
 A Secretaria Municipal de Saúde de Porto Alegre, que dispõe de 89 cães recolhidos nas ruas durante o ano, está em campanha para doar os animais. Conforme a secretaria, todos os cães foram vacinados contra a raiva e são saudáveis. Quem desejar adotá-los deve procurar o Centro de Zoonoses, na avenida João Pessoa, 325. Um funcionário levará as pessoas interessadas ao canil para que seja escolhido o cão a ser adotado.
@@ -999,9 +999,9 @@ A Polícia Militar terá a mesma política salarial da Polícia Civil do Estado. O p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-069</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-069</field>
+<field name="date">940101</field>
+<text_pt>
 O prefeito de Belém, Hélio Gueiros (PFL), vai transferir ainda no início do mês seu gabinete para o Palácio Antônio Lemos, no centro comercial da cidade. O Departamento de Trânsito prevê congestionamento na área por falta de vagas. Nesta parte da cidade, os carros estacionados fazem fila dupla.
 Pará 2
 O vereador Arnaldo Jordy (PPS) disse que é passível de ação judicial a cobrança de Contribuição Urbanística, recém-aprovada na Câmara Municipal. A contribuição tributa os proprietários de imóveis por serviços urbanos, como saneamento. Jordy diz que a lei fere a Constituição, pois saneamento é saúde, cuja responsabilidade constitucional é do Estado.
@@ -1020,18 +1020,18 @@ Moçambique pode realizar este ano convênios de cooperação técnica com o Amazonas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-070</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-070</field>
+<field name="date">940101</field>
+<text_pt>
 Da Agência Folha, em Belém
 Representantes de entidades internacionais ligadas à Organização das Nações Unidas (ONU) vão se reunir, em Brasília, a partir de 15 de janeiro, para aprovar um projeto no valor de US$ 300 mil dedicado ao combate à prostituição infantil em Belém. A informação é da presidente da Funpapa (Fundação Papa João 23), Adelayde Soares, entidade do PA.
 Adelayde afirma que a cidade tem um dos mais graves problemas de prostituição infantil no país. Em julho, a Funpapa levantou que 23,7% das crianças e adolescentes nas ruas eram meninas. "Pelo fato de estar na rua, elas já estão ou caminham para a prostituição."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-071</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-071</field>
+<field name="date">940101</field>
+<text_pt>
 O Serviço de Salvamento Marítimo de Salvador (Salvamar) realizou 790 salvamentos em 1993. Segundo um levantamento do órgão, o serviço alcançou um índice de segurança de 92% nas praias onde os salva-vidas trabalharam. Em 1993, foram 20 afogamentos.
 Ceará
 Uma pesquisa da Secretaria de Ação Social do Ceará revela que existem 6.146 meninos de rua em Fortaleza. Deste total, 184 perderam totalmente o vínculo com suas famílias. A pesquisa foi feita através da aplicação de questionários em 170 pontos da cidade.
@@ -1050,9 +1050,9 @@ Telmano Japiassú, do INSS, disse que criou uma comissão que vai fazer o levantam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-072</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-072</field>
+<field name="date">940101</field>
+<text_pt>
 ODON PEREIRA
 Um dos conceitos mais perniciosos da esquerda paleolítica, da qual o vereador Francisco Whitaker é líder, consiste em atribuir suas derrotas ao que chama "baixo nível" ou "despolitização" do povo.
 O vereador do PT exibe com cristalina clareza esse conceito no artigo publicado nesta coluna no último dia 27: os adversários de seu partido só conseguem ser vitoriosos em razão do "baixo nível" ou "despolitização" do povo.
@@ -1069,9 +1069,9 @@ ODON PEREIRA, 54, jornalista, é assessor-chefe de imprensa da Prefeitura de São 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-073</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-073</field>
+<field name="date">940101</field>
+<text_pt>
 Da FT
 O túnel Nove de Julho será interditado para o trânsito de carros por 30 dias a partir das 9h de amanhã. A pista bairro-centro ficará aberta apenas para a circulação de ônibus, em mão dupla. O motivo do bloqueio são as obras de reconstrução do pavimento da pista centro-bairro e a reforma do teto do túnel.
 O trânsito será desviado para as ruas laterais que cruzam a avenida Paulista. No sentido centro-bairro, o desvio será pelas ruas Engenheiro Monlevade, Carlos Comenale, Peixoto Gomide e alameda Itu, voltando para a avenida Nove de Julho. No sentido bairro-centro, será pela rua Convenção de Itu, alamedas Jaú e Casa Branca, e ruas Prof. Otávio Mendes e Prof. Picarolo, retornando para a Nove de Julho.
@@ -1080,9 +1080,9 @@ Mesmo com a redução, a CET prevê lentidão no trânsito. O engenheiro da CET Luiz 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-074</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-074</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 O shopping Center Norte vai sortear uma viagem ao Caribe. Para concorrer, é preciso trocar notas fiscais recebidas durante as compras em lojas do shopping por cupons. Cada CR$ 5.000,00 em notas vale um cupom, que ficará depositado na urna do shopping até as 18h do dia 30 de janeiro, quando acontece o sorteio.
 O prêmio é um cruzeiro pelo Caribe, com direito a um acompanhante e todas as despesas pagas. O slogan da promoção é "Que tal catar coquinho no Caribe?". Essa é a última viagem sorteada pelo shopping. Todos os meses, desde junho, o Center Norte dá como prêmio uma viagem internacional a seus frequentadores.
@@ -1090,9 +1090,9 @@ A promoção vale para as compras feitas a partir de segunda-feira. Os cupons serã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-075</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-075</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Os moradores do edifício Paul Klee economizaram CR$ 900 mil na conta de água referente ao consumo em novembro por causa de uma planilha. Trata-se de um gráfico para o controle diário do consumo de água, que tem como objetivo inicial detectar rapidamente qualquer vazamento que esteja ocorrendo em um apartamento.
 A planilha é simples. Em uma coluna, coloca-se a data, na outra, a marcação do relógio de água. A diferença de um dia para outro equivale ao consumo. No final do mês é possível somar e comparar com a medição impressa na conta da Sabesp. Se houver alguma grande diferença de um dia para o outro, é muito provável que haja vazamento.
@@ -1101,9 +1101,9 @@ Kissajikian afirma que, como a medição do consumo é feita por metros cúbicos, o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-076</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-076</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 O Sesc Pinheiros, que começou a funcionar em novembro, já abriu inscrições para nove cursos de férias. Também estão programadas duas mostras de vídeo e dois shows musicais no mês de janeiro. Todas as atividades são abertas mesmo para quem não é comerciário ou sócio do Sesc.
 Os cursos serão realizados entre os dias 10 e 30 de janeiro. As opções são: ginástica voluntária, massagem psíquica e quiroprática, radiestesia e comportamento energético, massagem para gestantes, automassagem, thai chi qi gong, eutonia, dança negra contemporânea e consciência pelo movimento.
@@ -1113,9 +1113,9 @@ Sesc Pinheiros- av. Rebouças, 2876. Inscrições no setor de recepção das 8h às 19
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-077</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-077</field>
+<field name="date">940101</field>
+<text_pt>
 A leitora Luciane da Silva reclama o pagamento de sua conta inativa. Segundo ela, em 18 de novembro o pagamento estava atrasado 56 dias.
 "Gostaria que a Caixa Econômica Federal averiguasse o motivo de tal demora", disse.
 Resposta
@@ -1125,9 +1125,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-078</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-078</field>
+<field name="date">940101</field>
+<text_pt>
 Prefeito do Rio diz que administração ficou imobilizada no começo pelas dívidas e pela inexperiência da equipe
 Da Sucursal do Rio
 O prefeito do Rio, César Maia (PMDB), que obteve o maior índice de reprovação entre os dez prefeitos avaliados pela pesquisa Datafolha, disse que seu governo "começou mal". Na avaliação de Maia, reprovado por 50% dos cariocas entrevistados, sua administração começou de fato em outubro, após o ajuste das finanças municipais.
@@ -1142,18 +1142,18 @@ Como exemplo no combate à violência, o prefeito carioca cita a criação da Guarda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-079</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-079</field>
+<field name="date">940101</field>
+<text_pt>
 Da Redação
 A pesquisa Datafolha é um levantamento por amostragem estratificada, com cotas de sexo e cidade, sendo que o conjunto da população adulta da cidade é tomado como universo da pesquisa. Neste levantamento, realizado entre os dias 16 e 17 de dezembro, foram entrevistadas 1.076 pessoas em São Paulo, 646 no Rio de Janeiro, 432 em Belo Horizonte, 432 em Salvador, 432 em Porto Alegre, 432 em Curitiba, 432 em Florianópolis, 432 em Fortaleza, 428 em Recife e 431 em Campo Grande.
 A direção do Datafolha é exercida pelos sociólogos Antonio Manuel Teixeira Mendes e Gustavo Venturi, tendo como assistentes Mauro Francisco Paulino, Emilia de Franco e a estatística Renata Nunes Cesar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-080</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-080</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A polícia instaurou mais um inquérito contra Bruno César Pasini, 38. Pasini é suspeito de ter assassinado sua mulher Gisele Balesteiros Ribeiro Pasini em junho passado. Ele já é acusado de ser um falso médico endocrinologista e de traficar drogas. Entre os clientes de Pasini estava o governador Luiz Antônio Fleury Filho.
 Desta vez, Pasini é suspeito de estelionato, falsificação de documentos e uso de documentos falsos. Segundo o delegado Waldomiro Bueno Filho, 44, da Delegacia de Crimes Contra Fé Pública, ele pode ter aplicado um golpe para adquirir uma BMW 325i. O inquérito 181/93 foi aberto semana passada.
@@ -1163,9 +1163,9 @@ No começo de dezembro, a Justiça determinou que Pasini perdesse as mordomias que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-081</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-081</field>
+<field name="date">940101</field>
+<text_pt>
 Maluf defende aumento no IPTU, a 'Rota' municipal e diz que médicos e professores estão ganhando bem
 LUIS HENRIQUE AMARAL
 ALEXANDRE SECCO
@@ -1207,9 +1207,9 @@ Maluf - Se eu dissesse que não gostaria de ser candidato estaria mentindo. Se di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-082</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-082</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A verticalização de 14 favelas paulistanas, ou Projeto Cingapura &#150;como foi batizado pelos assessores do prefeito&#150;, começa a ser colocada em prática este mês. Mas mesmo antes de serem conhecidos os ganhadores da licitação, o conceito da verticalização foi criticado pela norte-americana Janice Perlmann, diretora do Projeto Megacidades, uma organização não-governamental.
 Para Janice, que esteve no Brasil entre os dias 12 e 17 deste mês para participar da Eco Urbs-93, "é inadmissível que depois de o ser humano conhecer tantas tecnologias de construção, a prefeitura de São Paulo venha construir caixotões para enfiar os favelados".
@@ -1220,9 +1220,9 @@ O secretário Lair Krahenbuhll rebate as críticas dizendo que "a prefeitura está 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-083</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-083</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 No primeiro ano de governo, o prefeito Paulo Maluf não cumpriu a promessa de subir a tarifa de acordo com a inflação, nem conseguiu uma solução para o transporte clandestino. Na pesquisa Datafolha, o transporte coletivo foi o principal problema da cidade para a maior parte dos paulistanos &#150;19%. Só para 4% dos paulistanos o prefeito Paulo Maluf se saiu melhor em Transportes. Maluf discorda do resultado da pesquisa. Para ele, após um ano de governo, o transporte melhorou. "O problema é emocional", afirma.
 Nesse um ano de governo, Maluf afirma ter conseguido poupar dinheiro público com o programa de privatização da CMTC (Companhia Municipal de Transportes Coletivos) e ao renegociar os contratos da municipalização. Uma auditoria supervisionada pela Fundação Getúlio Vargas mostrou que as planilhas da municipalização tinham 20% de gorduras. O gasto com o transporte, previsto em US$ 1 bilhão pelo orçamento de 93 caiu para US$ 745 milhões.
@@ -1234,9 +1234,9 @@ Está em curso o processo licitatório para transferir para a iniciativa privada n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-084</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-084</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Passado um ano do governo Maluf, a equipe da área de transportes ainda não definiu o destino da CMTC (Companhia Municipal de Transportes Coletivos), a maior empresa pública de transporte rodoviário urbano do Brasil.
 Restam pelo menos duas pendências importantes: 1 - Definir quem assumirá as funções próprias da CMTC &#150;como o gerenciamento da municipalização e a fiscalização do sistema. 2 - Detalhar a terceira etapa da privatização, que prevê a transferência das linhas mais deficitárias &#150;como a rede de trólebus.
@@ -1245,9 +1245,9 @@ Hanashiro é um dos poucos da equipe de Maluf a assumir abertamente ser candidato
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-085</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-085</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Para este ano a maior novidade no setor dos transportes no município deve ser a introdução do sistema de catracas eletrônicas, que poderá gerar demissões nas empresas de transporte, já que os cobradores não serão mais necessários. O sindicato dos condutores é contra a medida e, no ano passado, ameaçou fazer greves em protesto.
 Com a catraca eletrônica, a compra de bilhetes poderia ser antecipada, como no Metrô, e também permitiria integração gratuita entre uma linha e outra.
@@ -1255,9 +1255,9 @@ O programa de corredores, outra promessa para este ano, teve as primeiras licita
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-086</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-086</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Para quem tem como meta construir 120 mil unidades habitacionais até o fim de sua gestão, 1993 foi para a prefeitura um ano de poucas iniciativas neste campo. A Secretaria da Habitação (Sehab) mantém em construção atualmente 15.785 unidades habitacionais, sendo que 10.101 moradias &#150;construídas pelo sistema de mutirão&#150; estão com obras paralisadas a pedido do Tribunal de Contas do Município (TCM) e sob suspeitas de irregularidades.
 De acordo com o secretário da Habitação, Lair Krahenbuhll, a retomada dos mutirões deve acontecer em março. Ele afirma que o sistema voltará a receber verbas da prefeitura assim que regularizar a prestação de contas com o município. A Sehab está cedendo contadores para "colocar em ordem" a documentação.
@@ -1268,9 +1268,9 @@ Em seu primeiro ano, em 1989, a administração do PT também avançou pouco para di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-087</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-087</field>
+<field name="date">940101</field>
+<text_pt>
 FERNANDO ROSSETTI
 Da Reportagem Local
 A previsão feita por pais durante os 79 dias da greve na rede estadual de ensino de São Paulo se realizou: a reposição de aulas foi fraca, curta e os prejuízos no aprendizado acompanharão os alunos, no mínimo, durante todo o próximo ano letivo &#150;que vai começar com um mês de atraso, dia 1.º de março.
@@ -1284,9 +1284,9 @@ Na última quinta-feira à tarde, as turmas de reposição de primeiro grau da Escol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-088</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-088</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 Para a vice-presidente da Apeoesp &#150;o sindicato que liderou a greve&#150;, Eneide Moreira Lima, "os calendários escolares estão se tornando rotativos".
 Eneide, que também é vice-presidente da CNTE (Confederação Nacional dos Trabalhadores em Educação), afirma que a "amarração" de um ano letivo ao outro ocorreu em 1992 em Alagoas &#150;que teve 150 dias de greve e só terminou as aulas em meados de 1993. Os 109 dias de greve na rede estadual do Espírito Santo em 93 leva a conclusão do ano letivo para abril de 94.
@@ -1294,9 +1294,9 @@ Eneide, que também é vice-presidente da CNTE (Confederação Nacional dos Trabalha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-089</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-089</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A Secretaria da Educação pretende "amarrar" o ano letivo de 1993 ao de 1994. "O que temos de garantir é a continuidade pedagógica e os mínimos de conteúdos neste ano letivo", diz José Carlos Bortolato, diretor da Coordenadoria de Ensino do Interior. "O conteúdo do ano que vem deve iniciar do ponto em que acabou 93."
 Segundo Bortolato, o ano letivo é regulado por três parâmetros: o de dias letivos (que baixou de 200 para 180), o de horas/aula (720 por ano) e o de conteúdo mínimo. Este último exige que o professor nunca dê menos de 75% do conteúdo planejado para uma determinada turma.
@@ -1306,9 +1306,9 @@ A possibilidade disso poder prejudicar alunos que tenham tirado notas baixas no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-090</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-090</field>
+<field name="date">940101</field>
+<text_pt>
 Parreira pede investigação no Rio
 Treinador, no entanto, duvida dos resultados do inquérito sobre subornos de árbitros de futebol
 Da Reportagem Local
@@ -1321,17 +1321,17 @@ O técnico não se segurou e bradou que se o "futebol brasileiro não se organizar,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-091</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-091</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal do Rio
 O delegado Luis Mariano dos Santos, da Polinter, vai investigar as denúncias de corrupção por determinação do secretário de Polícia Civil, Nilo Batista. A investigação começa com os depoimentos dos árbitros Cláudio Cerdeira, autor das primeiras denúncias, e Reginaldo Matias, que prometeu uma lista de corruptos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-092</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-092</field>
+<field name="date">940101</field>
+<text_pt>
 Da Sucursal do Rio
 O inquérito policial para investigar as denúncias de corrupção no futebol do Rio foi instaurado a pedido do deputado estadual Sérgio Cabral Filho (PSDB). "Estou esperançoso, mas só lamento que a Assembléia Legislativa não tenha entrado nesta apuração", disse o autor do projeto de criação da chamada "CPI do apito".
 Com a instauração do inquérito pela polícia do Rio, as investigações de supostas irregularidades no futebol fluminense se ampliam. Também a pedido de Cabral Filho, o Ministério Público do Estado está investigando as denúncias envolvendo o diretor da Comissão de Arbitros, Wagner Canazaro, e o presidente da Federação, Eduardo Vianna. De acordo com as denúncias dos árbitros, o esquema que seria coordenado por Canazaro e Vianna favoreceria clubes ligados aos dois.
@@ -1339,9 +1339,9 @@ A criação da "CPI do Apito" foi adiada depois que dois deputados ligados a Viann
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-093</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-093</field>
+<field name="date">940101</field>
+<text_pt>
 Evair pode ir para o Japão
 O centroavante do Palmeiras (foto) pode se tranferir para o Nagoya Grampus, da primeira divisão do futebol japonês. A saída do jogador serviria para abrir uma vaga no time de Wanderley Luxemburgo para o colombiano Rincón. Evair só não irá se julgar que tiver chance de disputar a Copa dos EUA.
 
@@ -1363,9 +1363,9 @@ O volante Luisinho, que joga no Celta, da Espanha, deve voltar para o Vasco da G
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-094</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-094</field>
+<field name="date">940101</field>
+<text_pt>
 
 'Caixa d'Água' obteve a ajuda pela qual suplicou, mas o esporte ainda tem chance de readquirir sua grandeza
 JOÃO MÁXIMO
@@ -1381,9 +1381,9 @@ Excepcionalmente não publicamos hoje artigo de  Matinas Suzuki Jr.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-095</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-095</field>
+<field name="date">940101</field>
+<text_pt>
 THALES DE MENEZES
 Da Reportagem Local
 A Copa Hopman é sempre interessante. É um torneio festivo, disputado com muita descontração. Na edição do ano passado, a Alemanha deu um passeio, vencendo fácil com a charmosa dupla Steffi Graf e Michael Stich.
@@ -1394,9 +1394,9 @@ Palhaçadas à parte, a cena protagonizada por McEnroe é simbólica. Quem acompanha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-096</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-096</field>
+<field name="date">940101</field>
+<text_pt>
 Torneio na Austrália testa sistema que pode revolucionar o esporte
 Das agências internacionais
 Uma novidade futurística é a atração da Copa Hopman de tênis, cuja abertura estava programada para ontem em Perth (Austrália). Pela primeira vez, partidas de tênis serão disputadas sem juiz de linha. Todas as marcações serão realizadas por um sistema eletrônico. Restam apenas o juiz de cadeira, o de rede e o que controla o pé dos tenistas no saque.
@@ -1408,9 +1408,9 @@ Participam da Copa Hopman duplas mistas de 12 países, em sistema semelhante ao d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-097</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-097</field>
+<field name="date">940101</field>
+<text_pt>
 Das agências internacionais
 O Chicago Bulls perdeu uma invencibilidade de dez partidas ao ser derrotado de forma humilhante pelo Charlotte Hornets, quinta-feira à noite, por 115 a 95. Os Hornets, que atuaram em casa, venceram sem seus dois principais jogadores, Larry Johnson e Alonzo Mourning, ambos contundidos. Em contrapartida, Horace Grant, dos Bulls, também lesionado, foi outra ausência na partida.
 Dell Curry e Hersey Hawkins foram os destaques dos Hornets. Curry anotou 28 pontos (5 cestas de 3 pontos), enquanto que Hawkins marcou 26 e apanhou 12 rebotes.
@@ -1421,9 +1421,9 @@ OUTROS RESULTADOS &#150; New York 102 x 84 Washington, Detroit 91 x 97 Sacrament
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-098</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-098</field>
+<field name="date">940101</field>
+<text_pt>
 FLAVIO GOMES
 Ainda usava calças curtas quando meu pai me levou pela primeira vez a Interlagos. Não faz tanto tempo assim, deve ter sido lá por 68 ou 69. Também não tenho muita convicção se o programa era ver as Mil Milhas, mas acho que era, porque lembro também que ficava horas e horas vendo carros passarem de faróis acesos, parecia que aquele negócio não ia acabar nunca.
 Mil Milhas. Há quem diga que a corrida foi a grande alavanca do automobilismo nacional, e eu não tenho grandes motivos para duvidar disso. Daquele tempo lembro com alguma nitidez dos JK, do barulhinho gostoso dos motores dois tempos dos DKW e dos Malzoni, de um ou outro Simca, mas, sobretudo, da carreteira amarela de Camilo Christófaro, número 18, o Leão do Canindé. Tinha até um carrinho de autorama igual, que só levava ferro na pista do Ibirapuera, com um motorzinho Estrela fajuto diante dos Mabushi e Mura da molecada mais velha.
@@ -1434,9 +1434,9 @@ Não tem mais DKW, JK, Simca, Alpine. Mas o autódromo está lá, o hino ainda exist
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-099</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-099</field>
+<field name="date">940101</field>
+<text_pt>
 *
 Brunner trabalhou na Ferrari de 86 a 88, fez o projeto do carro de Indy da fábrica &#150;que nunca correu&#150; e só saiu de lá quando Barnard chegou pela primeira vez. Seu último trabalho foi o bom Minardi de 93 &#150;que só não andou nada porque o time vive numa pindaíba de dar dó e não gastou um centavo em testes. Na Ferrari, Brunner será responsável pelo desenvolvimento do carro que Barnard fez para este ano.
 *
@@ -1446,9 +1446,9 @@ Ex-cineasta, picareta de carteirinha, De Rouvre agora vai ter que devolver a equ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-100</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-100</field>
+<field name="date">940101</field>
+<text_pt>
 MARCELO DAMATO
 Da Reportagem Local
 A rivalidade entre São Paulo, Corinthians e Palmeiras perde força na parte de fisiologia. Os quatro responsáveis pela orientação dos programas de preparação física dos três principais times do Estado são adversários apenas dentro de campo. Turíbio Leite de Barros Neto, 43, do São Paulo, Renato Moreira Fraga Lotufo, 37, do Corinthians, e os palmeirenses Ivan Piçarro da Cruz, 40, e Paulo Sérgio Martino Zogaib, 36, mantêm, extrafutebol, fortes ligações pessoais e profissionais.
@@ -1464,9 +1464,9 @@ No teste de São Paulo, a solução foi criar uma mistura mais pobre em oxigênio &#
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-101</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-101</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A congregação da Escola Paulista de Medicina deve votar neste mês a proposta de criação do Centro de Fisiologia da Atividade Física, que tem entre seus idealizadores Turíbio, Piçarro, Lotufo e Zogaib. Se for aprovada a criação, o centro será subordinado à diretoria da "escola", como é chamada pelos professores.
 Turíbio Leite de Barros diz que o nome "Fisiologia da Atividade Física" foi escolhido porque os esportistas de alto nível não são o único público-alvo do centro que está em discussão. Pessoas que fazem ou querem fazer atividade física, por qualquer motivo, também serão atendidas, se a congregação da EPM acolher a proposta.
@@ -1476,9 +1476,9 @@ O último setor visa criar um atendimento para pessoas que querem ou precisam de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-102</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-102</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A fisiologia é o estudo das funções orgânicas de um ser vivo, neste caso o homem. O fisiologista pode ser diplomado em ciências biomédicas ou medicina. Sua formação é diferente do preparador físico, que normalmente tem diploma de educação física.
 O trabalho de um fisiologista tem duas etapas. A primeira é avaliar o estágio atlético de uma pessoa, atleta ou não. Para isso, são feitos os famosos testes de bicicleta e esteira, que fornecem grandezas como limiar anaeróbico (velocidade máxima que pode se obter sem que o organismo necessite de mais oxigênio do que o corpo é capaz de absorver), potência muscular (que revela o pico de desempenho muscular) e resistência muscular (a capacidade do organismo em manter-se ao longo do tempo perto do pico).
@@ -1486,9 +1486,9 @@ Com as informações, o fisiologista define as linhas de um programa de condiciona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-103</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-103</field>
+<field name="date">940101</field>
+<text_pt>
 Homenagem é inédita no futebol
 RICARDO SETYON
 Especial para a Folha, de Tóquio
@@ -1498,9 +1498,9 @@ Zico, em conversa exclusiva com a Folha, disse: "Estou muito contente com essa h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-104</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-104</field>
+<field name="date">940101</field>
+<text_pt>
 Da Folha Nordeste
 O São Paulo vai emprestar os jogadores que não estão nos planos do técnico Telê Santana para o Taquaritinga e o Botafogo, de Ribeirão Preto, equipes da série A-2 do Campeonato Paulista. Ao todo, 12 profissionais e 5 amadores estão à disposição, com prioridade para o Taquaritinga.
 A intenção do clube é manter os atletas jogando em São Paulo, onde podem se projetar mais. "Quando emprestamos os jogadores para clubes de outros Estados, ganhamos pouco. É melhor cedê-los de graça para um time do interior", disse João Kalef Francisco, diretor do clube.
@@ -1508,9 +1508,9 @@ Entre os disponíveis, estão os goleiros Gilberto e Marcos, os zagueiros Sérgio B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-105</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-105</field>
+<field name="date">940101</field>
+<text_pt>
 Africanos vencem no feminino e no masculino; Chewmoyo ganha o bi num erro do etíope Bayesa
 Da Reportagem Local
 O queniano Simon Chemwoyo conquistou ontem o bicampeonato da Corrida de São Silvestre, num final de prova confuso. Chemwoyo estava alguns metros atrás do etíope Fita Bayesa até as últimas passadas da corrida. Os dois se atrapalharam e seguiram as motocicletas dos batedores e os carros da TV, não entrando no "funil" que leva os atletas à linha de chegada. Quando os funcionários da organização perceberam o erro dos atletas, retiraram a grade divisória que separava as pistas. Chemwoyo foi mais rápido ao retornar à pista correta e cruzou a faixa um segundo antes de Bayesa. Na prova feminina, outra vitória queniana, de Hellen Kimayio.
@@ -1521,9 +1521,9 @@ No começo da subida da Brigadeiro Luiz Antônio, Kimayio, Carmem e Albertina esta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-106</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-106</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A queniana Hellen Kimayio, da tribo Kalejin, disse ontem que não esperava vencer a São Silvestre. Kimayio, 25, recepcionista da empresa estatal de telecomunicações e correios do Quênia, só se irritou na chegada, quando foi agarrada pela organização da prova e empurrada na direção do pódio. Antes da premiação, a atleta de 1,75 kg e 52 kg, deu um forte abraço em sua "manager", a holandesa Carolyn Feith. Leia a seguir, os melhores trechos da entrevista que deu após a prova:
 Pergunta - Que tática usou?
@@ -1537,18 +1537,18 @@ Kimayio - A descida. O ritmo foi tão forte que senti meu joelho falsear.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-107</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-107</field>
+<field name="date">940101</field>
+<text_pt>
 Da Reportagem Local
 A brasileira Carmem de Oliveira, 28, disse após a prova feminina ter ficado feliz com o 2.º lugar. "Queria melhorar um minuto. Melhorei quase quatro", disse. Em 92, fez a prova em 54min19; ontem, levou 50min31. "Na outra vez, ela perdeu. Hoje (ontem), a outra ganhou", disse seu técnico, Brian Appell. (MD)
 A edição saiu com a data do alto errada. A data correta é 1 de janeiro de 1994. ERRAMOS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-108</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-108</field>
+<field name="date">940101</field>
+<text_pt>
 Cinema vira campo de guerra planetária
 Na última reportagem da série 'Cultura - Fim de Milênio', produtores e cineastas falam do futuro do audiovisual
 JOSÉ GERALDO COUTO
@@ -1564,9 +1564,9 @@ Mas a grande incógnita vem do Oriente distante: a iminente abertura do imenso me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-109</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-109</field>
+<field name="date">940101</field>
+<text_pt>
 Extremo Oriente é pólo mais dinâmico
 Da Reportagem Local
 O sucesso no Ocidente de filmes chineses como "Lanternas Vermelhas" e "Adeus Minha Concubina" representa apenas a ponta de um imenso iceberg: o volumoso e surpreendente cinema do Extremo Oriente.
@@ -1580,9 +1580,9 @@ Sobre o futuro do cinema à pág. 5-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-110</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-110</field>
+<field name="date">940101</field>
+<text_pt>
 Palco
 A quituteira Dadá &#150;a mais famosa de Salvador&#150; resolveu brindar o final de ano antes da hora em seu antigo restaurante na Federação.
 *
@@ -1608,18 +1608,18 @@ A moça ganhou duas músicas especialmente compostas para ela:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-111</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-111</field>
+<field name="date">940101</field>
+<text_pt>
 
 SOLIDARIEDADE
 O diário "Cronica", de Buenos Aires, divulgou que a atriz mexicana Veronica Castro sofreu uma operação plástica facial na cidade. Mas o mais espantoso é que levou consigo a irmã Beatriz, o cabelereiro e uma cantora não identificada. Todos sairam operados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-112</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-112</field>
+<field name="date">940101</field>
+<text_pt>
 Produtor de 'Concubina' briga pelo Oscar
 O inglês Donald Ranvaud fala da situação do cinema chinês e diz que chegou a hora dos filmes latino-americanos
 Da Reportagem Local
@@ -1641,9 +1641,9 @@ Ranvaud - Comecei a fazer filmes na China por causa de entraves no Brasil. Conhe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-113</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-113</field>
+<field name="date">940101</field>
+<text_pt>
 Brasileiros defendem reserva de mercado
 Da Reportagem Local
 A briga dos europeus para defender seu mercado da invasão audiovisual americana reacendeu, no Brasil, a discussão sobre a conveniência da reserva de mercado para o cinema nacional.
@@ -1654,9 +1654,9 @@ Para Adhemar de Oliveira, diretor da distribuidora Filmes do Estação e programad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-114</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-114</field>
+<field name="date">940101</field>
+<text_pt>
 OS IMPÉRIOS
 Motion Pictures Association of America (MPAA) - Representante da grande indústria cinematográfica americana, setor que fatura US$ 18 bilhões por ano e é o segundo produto de exportação dos EUA, depois da indústria aeronáutica. Regida desde 1966 pelo texano Jack Valenti, 72, a MPAA ficou célebre pelas pressões que exerceu ao longo dos anos pela abertura dos mercados nacionais ao cinema americano.
 *
@@ -1670,9 +1670,9 @@ Creative Artists Agency (CAA) - Criada em 1975 por Michael Ovitz &#150;considera
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-115</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-115</field>
+<field name="date">940101</field>
+<text_pt>
 Televisão pode ser parceira ou inimiga
 Da Reportagem Local
 Já virou clichê dizer que a TV acabou com o reinado do cinema como entretenimento de massas. Mas as relações entre cinema e TV não são assim tão simples, e variam de país para país.
@@ -1685,9 +1685,9 @@ Também o produtor Aníbal Massaini Neto critica a inexistência de uma legislação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-116</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-116</field>
+<field name="date">940101</field>
+<text_pt>
 Futuro do cinema depende da relação com imagem eletrônica
 Da Reportagem Local
 O cinema tem futuro? As vésperas de seu centenário, a chamada sétima arte parece, para muitos, prestes a ser substituída pela oitava &#150;a arte do vídeo, com todos os seus desdobramentos (TV interativa, realidade virtual etc.).
@@ -1703,9 +1703,9 @@ Aníbal Massaini Neto, presidente do Sindicato da Indústria Cinematográfica de Sã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-117</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-117</field>
+<field name="date">940101</field>
+<text_pt>
 'Dossiê Pelicano' volta a ser mais vendido
 Enquanto conta os ganhos do filme com Julia Roberts, John Grisham escreve sem pressa seu 5.º livro
 Das agências internacionais
@@ -1717,9 +1717,9 @@ Uma série de ingredientes imprescindíveis para obter sucesso estão nos livros de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-118</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-118</field>
+<field name="date">940101</field>
+<text_pt>
 Ken Follett vai à Inglaterra vitoriana
 DANIEL PIZA
 Da Reportagem Local
@@ -1734,9 +1734,9 @@ Quanto: CR$ 7.620,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-119</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-119</field>
+<field name="date">940101</field>
+<text_pt>
 Terceiro livro de Turow não convence
 Da Reportagem Local
 Scott Turow tem pelo menos uma virtude: muda um pouco a geografia comum dos livros norte-americanos. Em "Declarando-se Culpado" (lançado pela Record), de novo, a história acontece em Chicago. Basta de Nova York e sua estranha mistura de raças. Em Chicago, sim, estamos nos Estados Unidos.
@@ -1752,9 +1752,9 @@ Quanto: CR$ 7.371,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-120</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-120</field>
+<field name="date">940101</field>
+<text_pt>
 Ator recebe prêmio Mambembe nu
 EDNA DANTAS
 Da Sucursal do Rio
@@ -1767,9 +1767,9 @@ Além do Uzyna Uzona, os premiados do teatro paulista foram Jandira Martini e Mar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-121</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-121</field>
+<field name="date">940101</field>
+<text_pt>
 Júpiter traz proteção e ordem no novo ano
 CLAUDIA HOLLANDER
 Especial para a Folha
@@ -1779,9 +1779,9 @@ O momento é excelente para a gente, neste Dia Mundial da Paz, mentalizar um mund
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-122</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-122</field>
+<field name="date">940101</field>
+<text_pt>
 Corinne Day elege a imperfeição e defende o naturalismo
 EVA JOORY
 Da Reportagem Local
@@ -1811,17 +1811,17 @@ Corinne - Gosto de fotografar adolescentes do jeito que são, naturalmente.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-123</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-123</field>
+<field name="date">940101</field>
+<text_pt>
 ABC DA FOTOGRAFIA
 A fotografia realista substituiu a imagem glamourizada da década de 80 e por enquanto se estabelece como a cara dos anos 90. Como realismo, entenda-se a intenção de retratar poses mais naturais e espontâneas, incluindo pernas tortas, costas encurvadas, em cenários domésticos &#150;quando não o fundo branco dos estúdios. Alguns itens caracterizam a nova estética realista: cabelos desalinhados e "sebentos", pés descalços, modelos de maquiagem borrada, às vezes com a pele brilhando, roupas de corte simples, animais de estimação e objetos de casa como geladeiras, televisão, carpetes. Com a difusão desses recursos, o risco agora é a banalização. Mais um desafio para os bons. (Erika Palomino )
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-124</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-124</field>
+<field name="date">940101</field>
+<text_pt>
 DAVID SIMS
 fotógrafo de moda, 26 anos
 O fotógrafo inglês David Sims, hoje um dos nomes da nova geração da fotografia de moda voltada para a realidade, chegou em Londres aos 17 anos com US$ 15 (cerca de CR$ 500,00) no bolso, vindo de Sheffield, sua cidade natal. Sims nunca pensou em ser fotógrafo. Queria ser desenhista de quadrinhos. Mudou de idéia depois que viu as fotos de Larry Clark e resolveu estudar fotografia. O trabalho de Sims, assim como de Mario Sorrenti e de Corinne Day, trouxe para a fotografia um frescor até então nunca explorado.
@@ -1829,9 +1829,9 @@ Sims, cujo trabalho inspirou estilistas como o francês Jean Colonna e o alemão H
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-125</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-125</field>
+<field name="date">940101</field>
+<text_pt>
 Músicos se vêem em lojas de instrumentos
 Adolescentes batem perna em Pinheiros e no centro atrás das ofertas e 'babam' diante das grandes marcas
 MARIA LUÍSA CAVALCANTI
@@ -1844,9 +1844,9 @@ Os frequentadores dão as dicas para quem quer levar a melhor ao fazer a razão pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-126</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-126</field>
+<field name="date">940101</field>
+<text_pt>
 Mercado de arte teve aumento nas vendas
 Das agências internacionais
 De acordo com o balanço feito pelas casas de leilão Sotheby's e Christie's de Londres, o ano de 1993 não repetiu o 'boom' de vendas de obras de arte como nos anos de 1988 e 1989, mas também não decepcionou.
@@ -1856,9 +1856,9 @@ Ambas as casas acreditam que em 1994 tendência de 1993 continuará, em especial a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-127</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-127</field>
+<field name="date">940101</field>
+<text_pt>
 Preço pode variar muito
 Da Reportagem Local
 Sua decisão de ano novo é tornar-se músico ou você passou de ano e agora seu pai vai comprar aquela guitarra? OK, mas vale dar uma olhadinha nas lojas para conseguir um preço mais legal?
@@ -1875,9 +1875,9 @@ Gang: rua Teodoro Sampaio, 826. Tels. (011) 883-1673 e 881-7619
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-128</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-128</field>
+<field name="date">940101</field>
+<text_pt>
 
 Corman e Polanski disputam mundo bizarro de Coffin Joe
 Zé do Caixão pode gravar videoclipe com o grupo de rock Sepultura
@@ -1892,9 +1892,9 @@ O cineasta também pretende surpreender o público brasileiro. "A Sina do Aventure
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-129</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-129</field>
+<field name="date">940101</field>
+<text_pt>
 Artifício arruina "Baile"
 Da Redação
 O BAILE. Globo, 23h15.
@@ -1908,9 +1908,9 @@ Mas "Rosalie" tem a seu favor a atriz Marianne Sagebrecht: numa mão ela carrega 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-130</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-130</field>
+<field name="date">940101</field>
+<text_pt>
 PESADELOS DA GUERRA
 SBT, 13h30.
 (Nightwars). EUA, 1987, 85 min. Direção: David A. Prior. Com Dan Haggerty, Brian O'Connor.
@@ -1963,9 +1963,9 @@ A neve impede prosseguimento de viagem de ônibus e dá tempo ao impetuoso vaqueir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-131</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-131</field>
+<field name="date">940101</field>
+<text_pt>
 Livro retoma a conversa com Otto Lara
 Todos os que conheceram o escritor têm a sensação de que um diálogo foi interrompido com sua morte, há um ano
 ANTONIO CALLADO
@@ -1985,9 +1985,9 @@ Não me desfiz da página amarelecida de "Mais!" Vou guardá-la, como guardei até a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940101-132</text_pt>
-<text_pt name="date">940101</text_pt>
-<text_pt name="text">
+<field name="id">FSP940101-132</field>
+<field name="date">940101</field>
+<text_pt>
 A PANTERA COR DE ROSA VOLTA AOS CINEMAS
 "O Filho da Pantera Cor de Rosa, com direção de Blake Edwards, estréia hoje na cidade. O filme mostra as atrapalhadas aventuras do filho ilegítimo do inspetor Closeau, na investigação do rapto de uma princesa. No papel principal o ator italiano Roberto Benigni (foto). Em cartaz nos cines Gemini 1, Belas Artes e circuito.
 </text_pt>

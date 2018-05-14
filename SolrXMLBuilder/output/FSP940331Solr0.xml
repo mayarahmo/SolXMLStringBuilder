@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940331-001</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-001</field>
+<field name="date">940331</field>
+<text_pt>
 Guia que a Folha publica hoje traz orientações para o agricultor. Com 20 páginas em formato ideal para guardar, o Guia da Safra 94 mostra as condições de tráfego nas principais estradas da região Centro-Sul para o escoamento da maior colheita da história brasileira.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-002</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-002</field>
+<field name="date">940331</field>
+<text_pt>
 A decisão formalizada ontem pelo prefeito paulistano, Paulo Maluf (PPR), de não disputar a sucessão presidencial caracteriza uma situação inédita em todos os pleitos para cargos executivos, desde que eles foram reintroduzidos no país, generalizadamente, a partir de 1985: será a primeira vez em que o nome de Maluf não estará na cédula eleitoral.
 Candidato, derrotado, ao governo paulista em 86 e 90, candidato presidencial nas indiretas de 85 e nas diretas de 89, derrotado em ambas, candidato à Prefeitura de São Paulo em 88 (perdeu para Luíza Erundina) e em 92 (finalmente, venceu), agora Maluf não disputa.
 Pode-se ler a desistência sob um de dois ângulos. O favorável a Maluf dirá que o prefeito preferiu ser fiel à sua promessa de governar a cidade pelos quatro anos de seu mandato. Seria uma atitude elogiável, em um cenário político marcado pelo descumprimento sistemático de promessas, mas seria, igualmente, uma interpretação ingênua.
@@ -22,9 +22,9 @@ A segunda importante consequência da saída de Maluf refere-se à eventual coligaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-003</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-003</field>
+<field name="date">940331</field>
+<text_pt>
 O que mais chama a atenção na solução que vem sendo encaminhada para a crise entre os Poderes é que ela tenha demorado tanto. Afinal, a saída agora adotada, de reeditar a medida provisória 434 com alterações que tornassem inequívoca a regra de conversão dos salários do funcionalismo pela URV do dia 30, já havia sido proposta quando o confronto mal começava a se acirrar, há cerca de duas semanas.
 Essa medida abre espaço para uma solução que poupa os envolvidos de maiores constrangimentos ao mesmo tempo em que evita um golpe nas finanças públicas que seria em tudo inquietante. Isso, ressalte-se, se a nova MP for mesmo seguida, como se espera, de um decreto legislativo regulando os salários de março. O decreto deverá determinar, segundo o entendimento entre os Poderes, que a diferença de pouco mais de 10% nos salários deste mês dos servidores do Legislativo e do Judiciário &#150;que está em litígio&#150; não poderá em caso algum ser incorporada aos vencimentos. A expectativa é portanto que o texto garanta que não haverá novos aumentos de gastos nessa rubrica a partir de abril, afastando a perspectiva nefasta de um efeito bola de neve no funcionalismo, com grande risco para o plano econômico.
 Causa exasperação decerto constatar que essa saída poderia ter sido adotada antes, poupando o país de tensões absolutamente desnecessárias num período já tão conturbado. O mais importante agora, contudo, é que esse fator diversionista seja retirado do cenário político e econômico sem maiores danos, permitindo que as atenções voltem a se dedicar a questões mais relevantes.
@@ -32,9 +32,9 @@ Permanece, de todo modo, o alerta aos agentes políticos de como é perigosamente 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-004</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-004</field>
+<field name="date">940331</field>
+<text_pt>
 O conceito que hoje se faz de criança é, infelizmente, muito recente em termos históricos. Grosso modo, durante a maior parte da Antiguidade e da Idade Média, a criança era vista como um adulto de proporções reduzidas que não sabia falar. Não é por outra razão que a palavra latina para criança, "infans" (que está na raiz dos termos portugueses "infantil, infância"), significa apenas "aquele que não fala". Fenômeno análogo se observa nas pinturas pré-renascentistas, nas quais as representações de crianças apresentam quase invariavelmente as feições de um adulto.
 E a evolução no Direito foi ainda mais lenta. É só no século 20 que vão surgir leis que efetivamente protegem as crianças de maus-tratos, seja por parte de pais ou professores. Entretanto, é com o advento da psicologia e pedagogia modernas que se vão reconhecer as peculiaridades das crianças e se vai procurar educá-las de acordo com uma base científica.
 É claro que há muito mais a fazer e a descobrir. À luz dessa lenta evolução, causa a mais profunda revolta em toda a sociedade a notícia de que uma escola particular paulistana vinha explorando sexualmente crianças de quatro anos de idade &#150;inclusive com casos de violação&#150;, provavelmente para produzir fotos e vídeos pornográficos. Trata-se, por certo, de um caso isolado &#150;daqueles que podem acontecer em qualquer país do mundo. Enfim, um caso de polícia que exige a punição dos responsáveis com as penas máximas da lei.
@@ -42,9 +42,9 @@ Ainda assim, ao observar a situação da infância no Brasil &#150;garotos de rua, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-005</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-005</field>
+<field name="date">940331</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Hipocrisia e certa dose de cinismo são ingredientes na carreira de um político profissional. Evidente que há políticos não profissionais, que estudam e analisam a vida e os costumes da "pólis" sem nada querer com a carreira propriamente dita.
 Errando ou acertando, nutrem e mantêm a honestidade pessoal e intelectual acima de tudo. Têm, em comum, sejam da direita, do centro ou da esquerda, o sagrado horror à vida pública. Hoje, 31 de março, o tabuleiro da sucessão presidencial, longe de estar definido, ganha pelo menos um elemento de confusão a menos.
@@ -57,9 +57,9 @@ Lembro, não sei por que, o assanhamento da mídia em torno da Mangueira no último
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-006</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-006</field>
+<field name="date">940331</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; O prefeito Paulo Maluf mudou a cara da sucessão presidencial ao abandonar sua candidatura &#150;imagino que a maioria dos leitores preferisse uma análise sobre quem perde ou ganha. Lamento frustrá-los. O que mais me chama a atenção é a denúncia estampada ontem sobre o orgias sexuais com crianças numa escola de São Paulo. De quem é a culpa?
 O problema é que, mesmo comprovada a denúncia das vítimas, a responsabilidade não se limita aos dirigentes ou funcionários da escola. É também das autoridades públicas. Motivo: não existe fiscalização para o ensino básico. Uma lei determinando a fiscalização rasteja lerda, sem que se vislumbre sua aprovação.
@@ -71,9 +71,9 @@ PS &#150; Há, evidente, várias exceções de ensino público bem-sucedido pelo país
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-007</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-007</field>
+<field name="date">940331</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A desistência de Paulo Maluf de disputar a sucessão presidencial permite a montagem semi-definitiva do "grid" de largada. Um estranho "grid", aliás, pois há um primeiro colocado (Luiz Inácio Lula da Silva, do PT), mas não há o segundo, que era justamente Maluf.
 Mais: o ex-presidente José Sarney, o outro potencial candidato que disputava com Maluf o segundo lugar nas pesquisas, tem formidáveis dificuldades pela frente até para alinhar-se para a partida do GP-94. Depende de o seu partido, o PMDB, adotar a prévia, de a prévia ser considerada instrumento idôneo de seleção do candidato por todos os grupos peemedebistas, de vencer a prévia e de conseguir colar os cacos de um partido esgarçado pelas disputas internas.
@@ -85,9 +85,9 @@ Mas há outros elementos importantes no "grid" de largada, a saber:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-008</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-008</field>
+<field name="date">940331</field>
+<text_pt>
 Tasso Jereissati
 É possível que a saída de Fernando Henrique Cardoso da Fazenda para disputar a eleição presidencial seja questionada ou até criticada por adversários. No entanto, o PSDB só instou o ministro da Fazenda a tomar essa decisão depois de uma profunda e demorada avaliação sobre as alternativas que poderiam ser apresentadas ao país.
 A candidatura de Fernando Henrique Cardoso surge como o único projeto concreto para o país. O programa de estabilização da economia é a base de uma proposta de mais longo alcance que tem como objetivo final erradicar a miséria, reduzir as desigualdades e construir um país socialmente justo.
@@ -105,9 +105,9 @@ Tasso Jereissati escreve às quintas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-009</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-009</field>
+<field name="date">940331</field>
+<text_pt>
 AL GORE
 Nesta década dispomos de recursos tecnológicos e meios econômicos para aproximar todas as comunidades do mundo. Podemos, finalmente, criar uma rede de informação planetária que transmita mensagens e imagens com a velocidade da luz, desde a maior cidade até o menor vilarejo de todas as partes do continente.
 O presidente dos EUA e eu acreditamos que a criação desta rede das redes constitui um pré-requisito essencial de desenvolvimento sustentável para todos os membros da família humana. Com vistas ao alcance desse objetivo, legisladores, regulamentadores e homens de negócios devem fazer o seguinte: construir e operar uma Infra-Estrutura Global de Informação (IGI).
@@ -126,9 +126,9 @@ AL GORE, 45, é vice-presidente dos Estados Unidos da América.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-010</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-010</field>
+<field name="date">940331</field>
+<text_pt>
 "O caderno especial sobre o golpe de 1964 foi primoroso. As excelentes entrevistas, as pesquisas e a abordagem imparcial tornaram-no uma peça para coleção. A crise de hoje é decorrente daquele regime. Os problemas econômicos, sociais e morais não mudaram muito. Hoje ao menos podemos discuti-los através da imprensa."
 Marcus Abreu de Magalhães (Brasília, DF)
 
@@ -183,9 +183,9 @@ Afonso Celso Rocha Mastrelli (Ribeirão Preto, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-011</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-011</field>
+<field name="date">940331</field>
+<text_pt>
 LUCIANO MARTINS
 A persistência até hoje de uma polaridade (golpe/revolução) para designar o que ocorreu em 64 não se explica apenas pela função valorativa (crítica ou laudatória, conforme o caso) que reveste cada um desses termos. Antes, parece indicar ainda uma dificuldade conceitual para entender a natureza da crise do início dos anos 60 e a arregimentação política que ela gerou.
 Os grandes investimentos realizados no governo JK, que mudaram o perfil da economia, haviam sido possíveis graças ao concurso do capital estrangeiro e do financiamento estatal. Mas terminada a montagem da indústria de bens de consumo durável e a expansão dos setores de infra-estrutura, já eram outras as condições existentes.
@@ -211,9 +211,9 @@ LUCIANO MARTINS DE ALMEIDA, 58, sociólogo, é professor titular de ciência políti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-012</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-012</field>
+<field name="date">940331</field>
+<text_pt>
 A inscrição do senador José Sarney na prévia que indicará o candidato do PMDB transpira a força que a ambição pode ter, em certas pessoas, sobre qualquer outra consideração. Mas, por seu aspecto estritamente eleitoral, não é um gesto de esperanças desvairadas. Se vencer a prévia, Sarney não tem menos possibilidades de chegar ao segundo turno, como candidato anti-Lula, do que qualquer dos outros que aí estão com o mesmo propósito. A Fernando Henrique, em particular, a candidatura de Sarney imporia efeitos corrosivos.
 A receptividade a Sarney na prévia ainda não é calculável, porque não há indicadores confiáveis da situação no conjunto de filiados ao PMDB. É certo que seu nome não une o partido, mas, a esta altura, tudo indica não haver quem fizesse a união. Não há dúvida, também, de que Sarney conta com a simpatia de numerosos governadores e parlamentares peemedebistas, capazes de lhe garantir apoio substancial na prévia e na campanha. Resta ver, contudo, qual é exatamente a manobra em curso, já que vêm de longe os indícios de que entre Sarney e Quércia há um acordo com vistas à sucessão presidencial.
 Caso saia candidato, Sarney tem reservas de apoio também fora do PMDB. Mesmo que Fernando Henrique consiga formalizar a difícil aliança com o PFL, Sarney pode ter certeza de que atrai parcela ponderável dos pefelistas, talvez a ponto de inutilizar aquela aliança. No PTB e mesmo no PPR de Maluf estão, hoje, muitos dos seus habituais correligionários. O vasto contingente de políticos bem servidos pelo seu governo tenderá a lhe dar apoio, de preferência a arriscar com outro candidato. E o mesmo se pode dizer de boa parte do grande empresariado.
@@ -225,9 +225,9 @@ Primeiro a falar depois do presidente, Fernando Henrique não fez menção ao memor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-013</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-013</field>
+<field name="date">940331</field>
+<text_pt>
 Texto negociado com Planalto excluía parlamentares, que poderiam manter critério de conversão que gerou a crise
 GUTEMBERG DE SOUZA
 Da Sucursal de Brasília
@@ -244,9 +244,9 @@ Para que todos mantivessem remuneração idêntica, como manda a Constituição, a co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-014</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-014</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 O STF (Supremo Tribunal Federal) recebeu a reedição da MP 434 com alterações como a solução para a crise entre os três Poderes. Para o Supremo, a medida deveria ter sido adotada há dez dias &#150;quando a crise começou.
 Agora, o Supremo espera a edição de um decreto legislativo regulamentando os atos feitos sob as regras previstas na MP que perdeu validade. Ou seja, dizendo o que fazer com os 10,94% a mais nos salários de março.
@@ -256,9 +256,9 @@ O decreto legislativo pode conceder os 10,94% pagos a mais como um "abono" espec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-015</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-015</field>
+<field name="date">940331</field>
+<text_pt>
 Esta é a íntegra da nova medida provisória:
 
 "Medida provisória nº 457, de 29 de março de 1994
@@ -396,9 +396,9 @@ Parágrafo 4º As contribuições para a Seguridade Social, de que tratam os arts. 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-016</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-016</field>
+<field name="date">940331</field>
+<text_pt>
 Governo pode incluir autorizações para novas emissoras de TV; ministro diz que objetivo é reativar indústria
 Da Sucursal de Brasília
 Sob o pretexto de "reaquecer a indústria de equipamentos", o governo se prepara para liberar 500 novas concessões de rádio até o final do ano. As liberações, propostas pelo Ministério das Comunicações, serão feitas em pleno ano eleitoral.
@@ -415,9 +415,9 @@ Outra alternativa para as concessões estudada pelos técnicos é o leilão de emiss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-017</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-017</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 A distribuição de emissoras multicanais, normatizada em fevereiro, sinalizou a intenção do ministério de reabrir as concessões, suspensas por Collor após a avalanche de distribuições do final do governo Sarney.
 Segundo o deputado Luiz Salomão (PDT-RJ), a distribuição é inconstitucional. Salomão entrou com um projeto de decreto legislativo pedindo a suspensão da portaria que normatizou as concessões de MMDS. O deputado argumenta que a homologação tem que ser feita pelo Congresso.
@@ -425,9 +425,9 @@ As chamadas MMDS (Sistema de Distribuição de Sinais multiponto multicanal) são u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-018</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-018</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 A saída de quatro ministros para disputar as eleições obrigou o presidente Itamar Franco a realizar a segunda reforma de seu ministério neste ano.
 No Ministério da Fazenda assume Rubens Ricupero, Alexandre Dupeyrat é o ministro da Justiça e o secretário da Amazônia, Henrique Brandão Cavalcanti, assume o Ministério do Meio Ambiente e da Amazônia Legal.
@@ -445,9 +445,9 @@ Em 1972, foi o delegado do Brasil à Conferência das Nações Unidas em Estocolmo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-019</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-019</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 A CPI da Previdência vai pedir a reabertura do processo que apurou fraude em aposentadorias no município de Vassouras (RJ). A comissão acusou a Justiça do Rio de Janeiro de ser conivente com a fraude no INSS. O relatório deve ser apresentado até o dia 8 de abril.
 Para a CPI, o processo realizado pela própria Justiça é a prova de que o tribunal sabia da participação da juíza Eloisa Gomes da Mota e de quatro funcionários da Justiça de Vassouras em irregularidades, mas não pediu suas punições.
@@ -456,9 +456,9 @@ O relatório vai afirmar que 50% dos juízes do Tribunal de Justiça do Rio estão s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-020</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-020</field>
+<field name="date">940331</field>
+<text_pt>
 Prefeito diz deter 4 milhões de votos e que adora uma disputa, mas desta vez 'usou mais a cabeça que o coração'
 Da Reportagem Local
 O prefeito de São Paulo, Paulo Maluf (PPR), oficializou ontem sua desistência da disputa pela Presidência. Expressão cansada, Maluf atribuiu a decisão às pesquisas que constataram a opção de seu eleitorado pela permanência no cargo e à dificuldade de conseguir coligações.
@@ -476,9 +476,9 @@ Os auxiliares que o conhecem há anos dizem que, nos últimos anos, nunca Maluf an
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-021</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-021</field>
+<field name="date">940331</field>
+<text_pt>
 Esta é a nota distribuída pelo prefeito de São Paulo, Paulo Maluf (PPR):
 "Sou candidato a presidente... mas não agora... em 1998. O bom senso me fez tomar essa decisão.
 Minha missão mais importante, neste momento, é cuidar da cidade e do povo de São Paulo o melhor que eu puder. Vou cumprir por inteiro o meu mandato. Quero deixar a Prefeitura como o melhor prefeito que São Paulo já teve. Depois disso, aí sim, quero ser presidente.
@@ -490,9 +490,9 @@ E se tudo isso não fosse motivo suficientemente forte, existe mais uma razão, qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-022</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-022</field>
+<field name="date">940331</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O projeto de candidatura presidencial do prefeito Paulo Maluf começou a naufragar em dezembro do ano passado, quando o prefeito esperava estar consolidado como única alternativa a Luiz Inácio Lula da Silva. Não conseguiu. O pior ocorreu em fevereiro último, quando o PFL começou a costurar um acordo com o PSDB de Fernando Henrique Cardoso.
@@ -508,9 +508,9 @@ A manifestação contrária à candidatura da apresentadora Hebe Camargo, a face mai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-023</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-023</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Com a saída do páreo de Maluf, abre-se um dilema para o PPR. Há no partido a avaliação de que o partido não resistirá a uma campanha sem um candidato a presidente da República.
 Na reunião em que decidiu ficar fora da eleição, Maluf sugeriu que a candidatura fique ou com o senador Esperidião Amin (SC) ou com o senador Jarbas Passarinho (PA).
@@ -535,9 +535,9 @@ Tanto pela fama de Quércia de ser "bom de campanha" quanto pela aparente falta d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-024</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-024</field>
+<field name="date">940331</field>
+<text_pt>
 Desistência de Maluf abre espaço para uma aliança maior; PFL está animado e o PPR diz que está aberto
 GILBERTO DIMENSTEIN
 Diretor da Sucursal de Brasília
@@ -557,9 +557,9 @@ Colaborou LILIANA LAVORATTI, da Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-025</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-025</field>
+<field name="date">940331</field>
+<text_pt>
 MÁRIO SIMAS FILHO 
 Da Reportagem Local
 O PSDB já traçou a estratégia de lançamento da candidatura de Fernando Henrique Cardoso à Presidência. O secretário-geral do partido, Sérgio Motta, disse que na segunda-feira FHC retornará ao Senado. No dia seguinte, durante a transmissão do cargo de ministro, ele fará um discurso que os tucanos batizaram de "pronunciamento à nação".
@@ -578,9 +578,9 @@ O PSDB também já resolveu que duas instâncias serão montadas para definir os rum
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-026</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-026</field>
+<field name="date">940331</field>
+<text_pt>
 NELSON BLECHER
 Enviado especial a Cuiabá
 O ex-ministro José Eduardo Andrade Vieira, 55, disse que vai se encontrar com o prefeito Paulo Maluf, na próxima semana, para prosseguir conversações já iniciadas sobre eventual coligação de apoio à sua candidatura à Presidência da República pelo PTB.
@@ -592,9 +592,9 @@ Apesar das críticas, ele não descartou a hipótese de ocorrer uma aliança futura 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-027</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-027</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 O ex-governador de São Paulo Orestes Quércia já está sendo considerado o candidato inevitável do PMDB à Presidência da República. O líder do partido na Câmara, Tarcísio Delgado (MG), reconheceu ontem que não há outro nome que queira enfrentar Quércia.
 "É inevitável. Não temos outro candidato", afirmou Delgado. O líder tentava até anteontem convencer o governador de Goiás, Iris Rezende, a concorrer com Quércia nas eleições prévias dentro do partido.
@@ -606,9 +606,9 @@ O prefeito de Recife (PE), Jarbas Vasconcellos (PMDB-PE), reafirmou ontem sua de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-028</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-028</field>
+<field name="date">940331</field>
+<text_pt>
 CLÓVIS ROSSI 
 Da Reportagem Local
 Ao completar-se ontem a montagem do "grid" de largada para a disputa presidencial, verifica-se que Luiz Inácio Lula da Silva (PT) tinha razão ao comparar-se, no início do mês, com Ayrton Senna, a bordo de uma potente Williams, competindo com meros "fusquinhas".
@@ -625,9 +625,9 @@ Quércia sequer alinhou-se no "grid" de 89, Collor foi o primeiro colocado e Lula
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-029</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-029</field>
+<field name="date">940331</field>
+<text_pt>
 Debate na Folha reúne partidários e opositores do movimento que há 30 anos derrubou João Goulart
 JOÃO BATISTA NATALI
 Da Reportagem Local
@@ -639,9 +639,9 @@ O regime militar é objeto de consensos. Dois deles são as transformações econômi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-030</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-030</field>
+<field name="date">940331</field>
+<text_pt>
 O milagre econômiconão foi acompanhadopelo social e político
 Da Reportagem Local
 O senador Jarbas Passarinho (PPR-PA) diz que o regime militar deveria ter sido bem mais curto e cita duas datas em que se frustraram projetos de rápida redemocratização.
@@ -657,9 +657,9 @@ Passarinho nega que a tortura tenha sido um instrumento de coerção recomendado p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-031</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-031</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Para o senador Fernando Henrique Cardoso (PSDB-SP), o Movimento Militar de 64 criou um sistema repressivo que escapou ao controle de seus dirigentes. "Foi um túnel que custou muito a ser atravessado. Nós o atravessamos e temos a memória dele para não repeti-lo", afirmou.
 A lição básica que restou foi a transformação da democracia num valor que é ao mesmo tempo meio e fim, sem que ela seja vista como mero instrumento para atingir outros objetivos.
@@ -672,9 +672,9 @@ No capítulo das heranças, o ex-ministro da Fazenda menciona a Constituição de 88
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-032</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-032</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 O deputado José Genoino (PT-SP) se refere ao regime militar como "baseado no uso da força, na maximização da coerção, na não regulação dos conflitos e na tutela, através do Estado, da sociedade e da economia".
 Em consequência, diz ele, o regime provocou "um processo de esgarçamento, de exaustão e de liquidação de gerações políticas e de instrumentos e normas de funcionamento da democracia".
@@ -687,9 +687,9 @@ Sobre o PT, Genoino admitiu que o partido surgiu em razão da ascensão de um oper
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-033</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-033</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 O almirante Mário César Flores diz acreditar que o maior legado do regime de 64 se materializou 24 anos após a queda de Jango: uma Constituição "formulada olhando pelo retrovisor do tempo".
 As instituições foram moldadas de maneira a impedir que se reunissem novamente as condições para a implantação de um Estado unitário e forte.
@@ -702,9 +702,9 @@ O ministro-chefe do SAE também disse não acreditar no retorno de um regime milit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-034</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-034</field>
+<field name="date">940331</field>
+<text_pt>
 Tribunal afirma que utilização de apenas uma urna poderá atrasar a contagem nos Estados mais populosos
 DANIELA PINHEIRO
 Da Sucursal de Brasília
@@ -718,9 +718,9 @@ A Folha publicou reportagem em outubro do ano passado apontando o problema. Base
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-035</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-035</field>
+<field name="date">940331</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Fernando Henrique Cardoso está em plena campanha. A armação da cena em que apresentou as notas da nova moeda, para o Jornal Nacional anunciar que foi "revelada a cara do real", é um ato claro de propaganda. É o que chamam de "photo-op", oportunidade para fotografia, para aparecer na televisão. De quebra, como ironizou o Jornal Bandeirantes, para lançar seu "santinho".
@@ -735,9 +735,9 @@ No TJ, Boris Casoy fez uma longa história em que procurou manter-se distanciado,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-036</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-036</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 Os ministros do Exército, da Marinha e da Aeronáutica fizeram ontem uma veemente defesa do Movimento militar de 1964. Disseram, em nota conjunta, que o movimento "nasceu e frutificou no seio do povo".
 As palavras constam da "ordem do dia" das Forças Armadas relativa à comemoração do 30º aniversário do Movimento militar de 64. No documento, os ministros rejeitam os conceitos de "quartelada", "usurpação do poder" ou "golpe".
@@ -747,9 +747,9 @@ No Rio, soldados da Polícia do Exército reprimiram ontem de manhã, com cassetete
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-037</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-037</field>
+<field name="date">940331</field>
+<text_pt>
 Esta é a íntegra da ordem do dia distribuída ontem pelos ministros militares:
 31 de março de 1964
 Ordem do Dia
@@ -775,9 +775,9 @@ Ministro da Aeronáutica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-038</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-038</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 O ex-governador de São Paulo Orestes Quércia já está sendo considerado o candidato inevitável do PMDB à Presidência da República. O líder do partido na Câmara, Tarcísio Delgado (MG), reconheceu ontem que não há outro nome que queira enfrentar Quércia.
 "É inevitável. Não temos outro candidato", afirmou Delgado. O líder tentava até anteontem convencer o governador de Goiás, Iris Rezende, a concorrer com Quércia nas eleições prévias do partido.
@@ -787,16 +787,16 @@ Para Quércia, o ex-presidente José Sarney (PMDB-AP) não está na disputa. De acor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-039</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-039</field>
+<field name="date">940331</field>
+<text_pt>
 "Quero ser deputado, em primeiro lugar, para dar sustentação na Câmara ao governo Lula, A cada dia que passa ficam mais efetivas as chances de Lula ganhar a Presidência. Seu governo representará a abertura de um processo histórico de transformação, que certamente enfrentará resistências nas elites dominantes. Para vencê-las, além do essencial apoio popular, Lula necessitará também de uma sólida base parlamentar formada não apenas por petistas. Pretendo eleger-me para contribuir na articulação desse bloco. E, em segundo lugar, porque o ABCD carece de uma representação política maior".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-040</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-040</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 O ex-ministro da Fazenda Fernando Henrique Cardoso disse ontem não estar preocupado com a eventual divulgação, por seus adversários políticos, de dossiês sobre sua vida íntima.
 "Eu não temo nada disso. Isso é baixaria de campanha", afirmou FHC, ao ser indagado se não temia a divulgação, durante a campanha, de dossiês que apontariam supostos casos extra-conjugais.
@@ -812,9 +812,9 @@ O ex-ministro da Fazenda negou a acusação e advertiu que "vão dizer este tipo de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-041</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-041</field>
+<field name="date">940331</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Da Reportagem Local
 A entrega do título de cidadã de São Paulo para Hebe Camargo, ontem, foi uma festa da apresentadora e do malufismo. Horas depois de anunciar oficialmente sua desistência da candidatura à Presidência da República, Paulo Maluf foi aplaudido em pé na solenidade.
@@ -831,9 +831,9 @@ Além de Maluf, estavam na solenidade Salim Curiati, secretário da Família e Bem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-042</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-042</field>
+<field name="date">940331</field>
+<text_pt>
 FHC diz que ele e Ricupero apresentam normas, mas não revelou data da troca
 Da Sucursal de Brasíliam
 Na próxima terça-feira, o novo ministro da Fazenda, Rubens Ricupero, deverá anunciar as novas regras cambiais e monetárias, mostrando como será a passagem para a nova moeda, o real. Foi o que revelou ontem o ex-ministro Fernando Henrique Cardoso. O anúncio será feito durante a transmissão de cargo para o novo ministro, Rubens Ricupero.
@@ -850,9 +850,9 @@ sobre o real na pág. 2-1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-043</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-043</field>
+<field name="date">940331</field>
+<text_pt>
 SÔNIA MOSSRI
 Da Sucursal de Brasília
 O ex-ministro da Fazenda, Fernando Henrique Cardoso, decidiu deixar o cargo com manifestações da equipe econômica sobre a criação do real. O objetivo de FHC é evitar interferências do grupo de Juiz de Fora no programa econômico.
@@ -868,9 +868,9 @@ A criação do comitê da moeda para controlar a emissão do real também é motivo de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-044</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-044</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 "Não vamos atar o real na paridade de um por um com o dólar", afirmou o ex-ministro Fernando Henrique Cardoso, após ser questionado por parlamentares sobre os riscos de defasagem cambial por ocasião da criação do real. "Queremos evitar que haja um gargalo nas exportações."
 Segundo Fernando Henrique, o governo tentará garantir a paridade do real com o dólar através do mercado, com a utilização de suas reservas. Disse que o governo brasileiro não está copiando experiências de outros países, como a da Argentina.
@@ -883,9 +883,9 @@ Entre essas razões, FHC citou o equacionamento da dívida externa. Ele lembrou qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-045</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-045</field>
+<field name="date">940331</field>
+<text_pt>
 Novo ministro prevê uma batalha no Congresso para aprovar Orçamento
 GILBERTO DIMENSTEIN
 Diretor da Sucursal de Brasília
@@ -903,9 +903,9 @@ Ricupero reconheceu que ainda não estudou com profundidade o plano de estabiliza
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-046</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-046</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 Rubens Ricupero, disse ontem que a ida de cinco assessores seus para o ministério não implicará mudanças na atual equipe econômica.
 Segundo Ricupero, o secretário da Receita Federal, Osiris Lopes Filho, seria sua própria escolha para o cargo que hoje ele ocupa. Ele afirmou que Osiris "é uma unanimidade nacional".
@@ -916,9 +916,9 @@ Ricupero reafirmou que está "totalmente" disposto a preservar a atual equipe. "S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-047</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-047</field>
+<field name="date">940331</field>
+<text_pt>
 Obra do italiano é hobby de Ricupero
 MARCO CHIARETTI
 Da Reportagem Local
@@ -931,9 +931,9 @@ Sua poesia une um elogio à pureza perdida e à natureza, com uma crítica da socie
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-048</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-048</field>
+<field name="date">940331</field>
+<text_pt>
 Decidido a trazer os tucanos para seu governo, o então presidente Collor pediu a seu ministro da Justiça, Jarbas Passarinho, que organizasse um jantar de aproximação com o senador Fernando Henrique.
 O ministro articulou o encontro para a sua própria residência. Jantaram Collor, Passarinho, FHC e o senador Albano Franco. Combinaram manter sigilo, já que havia resistências no PSDB a qualquer relação mais próxima com Collor.
 Mas os jornalistas souberam e foram em peso para a porta de Passarinho. O grupo então decidiu que Collor e Albano, acompanhados do ministro, sairiam e dariam entrevistas. Depois, se despediriam e a imprensa constataria que não havia mais ninguém ali. FHC aguardaria dentro da casa.
@@ -942,9 +942,9 @@ FHC já não tinha mais assunto para conversar com Passarinho quando, quase duas h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-049</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-049</field>
+<field name="date">940331</field>
+<text_pt>
 Fóssil encontrado na África é o mais antigo capaz de mostrar o formato da cabeça dos ancestrais humanos
 CLÁUDIO CSILLAG
 Editor-assistente de Ciência*
@@ -965,9 +965,9 @@ Cientistas da Universidade do Texas, em Dallas, estudaram a variedade genética h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-050</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-050</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Os antepassados dos seres humanos são chamados de hominídeos. O mais antigo que se conhece é o Australopithecus afarensis (3,9 milhões de anos).
 Os vestígios de seus corpos, ou fósseis &#150;em geral fragmentos de ossos&#150;, são a principal fonte de informação sobre eles.
@@ -977,18 +977,18 @@ Foi o caso do esqueleto "Lucy", escavado na Etiópia. Este exemplar de Australopi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-051</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-051</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 O Instituto Nacional do Câncer dos EUA informou ontem ter encontrado mais irregularidades em dados fornecidos por hospitais canadenses a um estudo sobre câncer de mama. Já haviam sido descobertas fraudes nesse estudo, mas elas não afetavam suas conclusões.
 Segundo essas conclusões, mulheres com o câncer em fase inicial têm chances iguais de sobreviver se for removido apenas o tumor (tumorectomia) ou a mama inteira (mastectomia).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-052</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-052</field>
+<field name="date">940331</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG 
 Da Reportagem Local
 O sucesso do Plano FHC passa a depender agora do avanço da candidatura presidencial de Fernando Henrique Cardoso. Essa é a conclusão que se forma nos meios políticos e econômicos, invertendo-se a observação segundo a qual o êxito da candidatura depende do sucesso do plano.
@@ -1006,9 +1006,9 @@ sobre o plano econômico nas págs. 1-4 e 1-5 e sobre sucessão nas págs. 1-10 e 1-
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-053</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-053</field>
+<field name="date">940331</field>
+<text_pt>
 
 Bolsa do Rio, fundos DI, de commodities e de renda fixa são as melhores aplicações no mês
 MARIO ROCHA
@@ -1024,16 +1024,16 @@ O mercado financeiro trabalhou o mês de março com quatro parâmetros básicos: inf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-054</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-054</field>
+<field name="date">940331</field>
+<text_pt>
 A Polícia Federal está investigando irregularidades nas empresas do cantor Roberto Carlos. O Banco Central considerou ilegal um empréstimo feito entre a Horizonte Consórcio e a Horizonte Veículos. Há cerca de um ano, a Horizonte Consórcio emprestou US$ 10 mil à Horizonte Veículos. Os administradores das empresas afirmaram na PF que a irregularidade foi cometida involuntariamente, por falta de conhecimento da legislação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-055</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-055</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro da Fazenda, Fernando Henrique Cardoso, apresentou as provas das primeiras notas da nova moeda, o real. Serão impressas l,375 bilhão de cédulas, que estarão à disposição da Casa da Moeda no dia 30 de maio, segundo informou o Banco Central. A troca de notas velhas de cruzeiros reais por reais poderá ser feita em 15 dias após a entrada em vigor da nova moeda, sem desvalorização.
 Um consórcio composto pela Canadian Bank Note, Thomas De La Rue e Gieseck e Devuent fabricarão 395 milhões de cédulas e o restante será impresso pela Casa da Moeda.
@@ -1042,9 +1042,9 @@ A distribuição por valor deste primeiro lote de 1,375 bilhão de cédulas &#150;um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-056</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-056</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A Abamec (Associação Brasileira dos Analistas de Mercado de Capitais) denunciou, ontem, prejuízo de US$ 240 milhões para os cerca de 6 milhões de acionistas da Telebrás. A perda vai ocorrer, segundo a entidade, por decisão do Conselho de Administração da estatal de cortar a correção monetária dos dividendos referentes ao exercício de 93.
 "Não há medida legal contra a decisão", lamentou Wladimir Riolli, presidente da Abamec. Com a decisão, os dividendos referentes ao ano passado somarão US$ 60 milhões, diz a Abamec. O pagamento da correção monetária do período cresceria para US$ 300 milhões.
@@ -1054,9 +1054,9 @@ A Abamec pede em nota divulgada ontem que os acionistas não ratifiquem a decisão
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-057</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-057</field>
+<field name="date">940331</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 A Bolsa de Valores de Nova York fechou ontem com pesadas perdas para os investidores. O índice Dow Jones, das 30 principais ações negociadas, caiu 72,27 pontos, ou 1,95%, para fechar em 3.626,75 pontos. É o menor patamar do Dow Jones desde 14 de outubro do ano passado, quando fechou em 3.621,63 pontos.
@@ -1069,9 +1069,9 @@ Em Tóquio, o banco central japonês comprou dólares para conter a queda da moeda 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-058</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-058</field>
+<field name="date">940331</field>
+<text_pt>
 JORGE CHAMI BATISTA
 MAURÍCIO MESQUITA MOREIRA
 A recente aceleração inflacionária trouxe novamente para o centro da discussão política o papel das grandes empresas na economia. Sob o codinome oligopólio &#150;denominação acadêmica para mercados dominados por um número reduzido de firmas&#150; estas empresas vêm sendo acusadas, entre outras coisas, de aumentos abusivos de preços e de, portanto, colocar em risco o programa de estabilização. No calor do debate, não faltou quem sugerisse a volta ao controle de preços ou até mesmo soluções ainda mais autoritárias igualmente ineficazes.
@@ -1090,9 +1090,9 @@ MAURÍCIO MESQUITA MOREIRA, 32, é doutor em Economia pela Universidade de Londres
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-059</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-059</field>
+<field name="date">940331</field>
+<text_pt>
 O balanço de 93 da Metal Leve registra os problemas administrativos que explicam boa parte do prejuízo no exercício.
 E como se deu a antecipação da renúncia de José Mindlin.
 
@@ -1131,9 +1131,9 @@ Segundo José Eduardo Nascimento, ele ficou convencido de que a conversão da URV 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-060</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-060</field>
+<field name="date">940331</field>
+<text_pt>
 Os analistas ainda não chegaram a um consenso sobre se chamam o movimento militar de 1964 de revolução ou golpe. É um sinal ostensivo de que 30 anos não parecem suficientes para produzir o devido distanciamento histórico.
 Há quase um consenso de que o período Castello Branco foi o que proporcionou as mais profundas transformações institucionais do Brasil moderno. Mas é pouco para um julgamento abrangente do regime militar.
 A partir dos anos 50, uma brilhante geração de funcionários públicos começava a conduzir um vibrante processo de modernização das estruturas.
@@ -1154,9 +1154,9 @@ Mas a pior herança &#150;que definitivamente condena o modelo&#150; foi ter abor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-061</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-061</field>
+<field name="date">940331</field>
+<text_pt>
 
 INA teve queda de 1,5% em fevereiro e Fiesp teme resultado pior em março
 Da Reportagem Local
@@ -1172,9 +1172,9 @@ O salário nominal médio da indústria paulista cresceu 36,6% em fevereiro em rela
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-062</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-062</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 O novo presidente da Caixa Econômica Federal (CEF), Joseh Fernando de Almeida, disse hoje que a partir de julho deverão ser reabertos os financiamentos habitacionais com recursos do FGTS, informa a Agência Brasil. A previsão depende de decisão do conselho curador do Fundo em relação aos percentuais de aplicação dos recursos em habitação, infra-estrutura e saneamento.
 Almeida estima que os recursos disponíveis somem mais de US$ 800 milhões. Ele diz que dos financiamentos contratados até 91 &#150;sem desembolsos durante 92 por excesso de aplicação&#150;, cerca de 60% ainda nao foram finalizados mas já se encontram em conclusão.
@@ -1182,9 +1182,9 @@ Os financiamentos habitacionais com recursos do FGTS podem beneficiar famílias c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-063</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-063</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal do Rio
 As vendas reais das indústrias brasileiras cresceram 2,62% em janeiro deste ano em comparação a janeiro de 93, de acordo com o Informe Conjuntural da CNI (Confederação Nacional ds Indústrias). Mas em relação ao pessoal ocupado na indústria, a CNI constatou uma queda de 0,43% em janeiro. Foi o sétimo mês consecutivo de queda no emprego industrial.
 Segundo a CNI, em janeiro houve um aumento de 0,49% nas horas trabalhadas na produção. O total dos salários líquidos pagos pelo setor caiu 4,52%.
@@ -1192,9 +1192,9 @@ De acordo com os técnicos do Departamento Econômico da CNI, a queda nos rendimen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-064</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-064</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A Fiesp divulgou ontem o estudo "Investimento Nacional 1980-91", que explica, segundo Mario Bernardini, diretor, os problemas de empobrecimento, desemprego e violência no país.
 Partindo de dados básicos do Departamento de Contas Nacionais, a Fiesp mostra que a taxa de investimento setorial em equipamentos caiu de 8,2% em 1980 para 4,1% em 1991, no mesmo período em que o investimento total sofreu um declínio de 22,8% para 15,2%.
@@ -1203,9 +1203,9 @@ Essa queda pela metade na taxa de investimento em equipamentos preocupa a Fiesp.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-065</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-065</field>
+<field name="date">940331</field>
+<text_pt>
 SÉRGIO MALBERGIER
 De Londres
 A Associação dos Países Produtores de Café (APPC) decidiu em reunião em Londres diminuir de 20% para 10% a retenção das exportações de café. A decisão foi tomada após o preço da libra (453,5 quilos) do café arábica (produzido no Brasil) ter atingido 75 centavos de libra esterlina.
@@ -1221,9 +1221,9 @@ Com agências internacionais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-066</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-066</field>
+<field name="date">940331</field>
+<text_pt>
 
 FILOMENA SAYÃO
 Da Reportagem Local
@@ -1237,9 +1237,9 @@ Quem puder pagar mais pode optar por ovos importados. A Godiva investiu US$ 35 m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-067</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-067</field>
+<field name="date">940331</field>
+<text_pt>
 A Volkswagen norte-americana poderá voltar a produzir o Fusca nos EUA. O carro será moderno, de US$ 12 mil. A empresa está fazendo pesquisas para medir o interesse dos americanos pela volta do Beetle (besouro), como o carro é chamado nos EUA.
 
 GM pede paciência a compradores do Corsa
@@ -1256,9 +1256,9 @@ O INSS (Instituto Nacional do Seguro Social) vai gastar US$ 1,7 bilhão para paga
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-068</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-068</field>
+<field name="date">940331</field>
+<text_pt>
 Governo coloca títulos com juros de até 35% ao ano mais correção cambial; mercado exige taxas maiores por causa do real
 Da Redação
 O governo conseguiu colocar NTNs (Notas do Tesouro Nacional) no leilão realizado ontem, mas para isso pagou juros de até 35% ao ano em papéis com correção cambial e prazo de três meses.
@@ -1305,9 +1305,9 @@ No mercado futuro de dólar, a expectativa de desvalorização cambial para março f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-069</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-069</field>
+<field name="date">940331</field>
+<text_pt>
 Secretário da Receita diz que vai recorrer à Justiça Federal, na próxima semana, por meio de mandado de segurança
 CLÓVIS ROSSI
 Da Reportagem Local
@@ -1322,9 +1322,9 @@ Agora, Osiris diz que vai recorrer à Justiça na próxima semana por meio de manda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-070</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-070</field>
+<field name="date">940331</field>
+<text_pt>
 Decisão deve sair na próxima semana
 Da Agência Folha, em Porto Alegre
 O Banco Central deve começar a liberar, na próxima semana, as primeiras operações de captação do mercado financeiro em URV, disse em Porto Alegre (RS) o assessor especial da Fazenda, José Milton Dallari.
@@ -1336,9 +1336,9 @@ Disse que na próxima semana pedirá aos supermercados que apresentem as faturas p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-071</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-071</field>
+<field name="date">940331</field>
+<text_pt>
 A partir de segunda-feira, dia 4 de abril, o setor farmacêutico passa a operar em URV. A conversão dos preços dos medicamentos foi feita pela média de setembro a dezembro de 93, desprezando os reajustes de preços ocorridos em janeiro e fevereiro deste ano.
 Os 300 medicamentos mais vendidos &#150;54% do faturamento da indústria farmacêutica&#150; terão redução média de 20% dos preços em URV, segundo Omilton Visconde, presidente do Sindusfarm (Sindicato da Indústria de Produtos Farmacêuticos no Estado de São Paulo).
 Os preços ficarão fixos de segunda a domingo, em cruzeiros reais. Depois serão reajustados pela variação da URV nesse período, diz Visconde. Considerando-se o preço fixo na farmácia, a redução para o consumidor pode atingir até 24%, acrescenta. A redução média dos 14 mil medicamentos comercializados no país é de 17,53%, informa Visconde.
@@ -1349,9 +1349,9 @@ Assim, aumento no custo de matéria-prima deverá ser repassado para o preço final
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-072</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-072</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal do Rio
 A Petrobrás anunciou ontem a descoberta de um novo campo de petróleo, em terra, no Rio Grande do Norte. A descoberta foi constatada através do poço 4-VR-2-RN, que apresentou uma vazão de 340 barris de óleo por dia, a uma profundidade entre 818 metros e 828 metros. Foi constata ainda a existência de um reservatório de gás natural em profundidade menor.
 Segundo a Petrobrás, as reservas estimadas do novo campo são de 2,2 milhões de barris de petróleo &#150;aproximadamente, a produção brasileira de três dias&#150; e de 285 milhões de metros cúbicos de gás. O campo fica nas proximidades da cidade de Mossoró.
@@ -1359,23 +1359,23 @@ A Bacia Potiguar (Rio Grande do Norte e parte do Ceará) produz hoje 80 mil barri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-073</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-073</field>
+<field name="date">940331</field>
+<text_pt>
 Milhares de indianos foram às ruas da capital, Nova Déli, protestar contra a decisão do governo da Índia de entrar para o Gatt (Acordo Geral de Tarifas e Comércio, que regula transações comerciais internacionais). Centenas de opositores foram presos. Segundo eles, o plano é uma "venda" dos interesses dos agricultores e da indústria farmacêutica do país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-074</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-074</field>
+<field name="date">940331</field>
+<text_pt>
 Altos funcionários dos governos dos EUA e da Coréia do Norte afirmaram ser "altamente improvável" que a China barre uma eventual resolução do Conselho de Segurança da ONU sobre a suspeita de que a Coréia do Norte tenha armas nucleares. Informações não confirmadas dão conta de que a China vai pressionar por inspeções nas instalações suspeitas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-075</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-075</field>
+<field name="date">940331</field>
+<text_pt>
 O Partido Democrático Nacional da Alemanha, de extrema-direita, disse que vai processar o líder judeu Ignatz Bubis por racismo e por calúnia ao acusar a alimentação da violência neo-nazista por grupos de direita. A decisão vem após guerra verbal entre Bubis e neonazistas depois de atentado a uma sinagoga na semana passada.
 
 Cemitério judeu é atacado na Alemanha
@@ -1401,9 +1401,9 @@ Foram acertados ontem à noite os detalhes finais da entrada de Áustria, Noruega,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-076</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-076</field>
+<field name="date">940331</field>
+<text_pt>
 'Wall Street Journal' diz que economia do México cresce menos por causa da morte de Colosio
 Das agências internacionais
 O candidato governista à Presidência do México, Ernesto Zedillo, anunciou ontem que vai começar a campanha eleitoral logo depois da Semana Santa. A eleição é em 21 de agosto.
@@ -1422,9 +1422,9 @@ Tranquilino Sanchez, o segundo acusado pela morte de Colosio, foi transferido on
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-077</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-077</field>
+<field name="date">940331</field>
+<text_pt>
 SÉRGIO MALBERGIER
 De Londres
 O grupo terrorista Exército Republicano Irlandês (IRA), que luta pelo fim da soberania britânica na Irlanda do Norte, anunciou ontem um cessar-fogo de Páscoa de três dias, começando na terça-feira.
@@ -1439,9 +1439,9 @@ Desgastado pelo recuo britânico na questão de veto de decisões na União Européia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-078</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-078</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 Silvio Berlusconi, o líder da coligação de direita que venceu as eleições parlamentares na Itália, se reuniu ontem com Umberto Bossi, do Liga Norte, um dos três partidos da coligação.
 O magnata da mídia disse em seguida que seu caminho para ser primeiro-ministro está aberto.
@@ -1457,9 +1457,9 @@ O PPI deve fazer um congresso nas próximas semanas. Martinazzoli disse, através 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-079</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-079</field>
+<field name="date">940331</field>
+<text_pt>
 O governo da França demitiu o ex-presidente do banco estatal Crédit Lyonnais na segunda-feira. A pedido do presidente, François Mitterrand, foi aberta uma investigação sobre o gigantesco prejuízo do banco &#150;US$ 1,21 bilhão em 1993&#150; que está provocando um escândalo político e financeiro.
 O Estado deverá aplicar uma injeção de US$ 3,51 bilhões para sanear o banco.
 Jean-Yves Haberer, afastado do Crédit Lyonnais em novembro pelo governo conservador, foi agora demitido do Crédit Nacional. Designado pelo governo anterior, socialista, Haberer conseguiu em cinco anos tornar o Lyonnais o maior banco da Europa.
@@ -1468,9 +1468,9 @@ Ele é, contudo, apontado como responsável por empréstimos duvidosos que causaram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-080</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-080</field>
+<field name="date">940331</field>
+<text_pt>
 O dia de ontem da modelo canadense Linda Evangelista (foto) não foi mais tranquilo que o primeiro, na terça-feira. Sua presença em Parati atraiu outros fotógrafos à cidade, o que deixou a modelo nervosa. Pela manhã ela fotografou com Duran para a segunda e última parte de seu trabalho no Brasil. Na terça-feira à noite, Linda jantou feijoada num restaurante perto do Pier e depois foi dormir.
 
 Bombeiros acham mais corpos em Mangaratiba
@@ -1488,9 +1488,9 @@ A Justiça condenou os cinco integrantes da quadrilha que assaltou e manteve 27 p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-081</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-081</field>
+<field name="date">940331</field>
+<text_pt>
 Um desmanche clandestino de carros, ao lado da rodovia Pedro Taques, foi descoberto anteontem pela polícia de Cubatão. Dois carros semidesmontados foram encontrados no local. No momento do flagrante, dois homens que estavam no desmanche fugiram.
 
 Minas Gerais 1
@@ -1510,9 +1510,9 @@ A Secretaria da Saúde de Jacareí está realizando um trabalho de prevenção e orie
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-082</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-082</field>
+<field name="date">940331</field>
+<text_pt>
 Os servidores administrativos da Prefeitura de Campo Grande voltaram ao trabalho ontem, depois de nove dias em greve. A paralisação protestava contra a política salarial da prefeitura: conversão dos salários em URV e mais 5% para cada mudança de referência. Dentro de 60 dias, voltam as negociações.
 
 Mato Grosso do Sul 2
@@ -1526,9 +1526,9 @@ As polícias rodoviárias Federal e Estadual iniciam hoje, às 8h, a Operação Seman
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-083</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-083</field>
+<field name="date">940331</field>
+<text_pt>
 O general Alexandre Lopes, 56, assumiu a chefia do Estado-Maior do Comando Militar do Sul, em ato presidido pelo comandante do CMS, general Délio de Assis Monteiro. Lopes, nascido no Paraná, já foi adido militar na Colômbia e serviu na 17ª Brigada de Infantaria de Selva, em Porto Velho.
 
 Santa Catarina 1
@@ -1542,9 +1542,9 @@ Os uruguaios estão incrementando o turismo no Estado por causa do feriado de uma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-084</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-084</field>
+<field name="date">940331</field>
+<text_pt>
 
 Da Agência Folha, em João Pessoa
 Três navios de guerra da Marinha do Brasil estão ancorados desde anteontem no Porto de Cabedelo (18 km ao norte de João Pessoa). Segundo a assessoria de imprensa da Capitania dos Portos da Paraíba, os navios estão fazendo o percurso entre as ilhas do Caribe e o Rio de Janeiro, em treinamentos de guerra com a tripulação.
@@ -1552,9 +1552,9 @@ O contra-torpedeiro "Pernambuco", o navio "Transporte Marajó" e o submarino "Hum
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-085</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-085</field>
+<field name="date">940331</field>
+<text_pt>
 O prefeito de Maceió, Ronaldo Lessa (PSB), não havia decidido até ontem sancionar aumento de 58,91% nas tarifas de transportes urbanos. O aumento é proposto por técnicos da prefeitura e passaria a vigorar a partir de domingo. Com o reajuste, a tarifa iria a CR$ 300.
 
 Alagoas 2
@@ -1580,9 +1580,9 @@ Por enquanto, os distritos emancipados continuarão ligados aos atuais municípios
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-086</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-086</field>
+<field name="date">940331</field>
+<text_pt>
 A Companhia Vale do Rio Doce aceitou ser responsável pela fiscalização da reserva dos índios Xicrin do Cateté, depois que os chefes decidiram não firmar nenhum acordo com madeireiros para venda de mogno. A reserva tem 440 mi hectares.
 
 Pará 2
@@ -1608,9 +1608,9 @@ O arcebispo de Manaus, dom Luís Vieira, disse que os fiéis poderão substituir o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-087</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-087</field>
+<field name="date">940331</field>
+<text_pt>
 IVO SALDANHA
 A fusão do Estado da Guanabara com o Estado do Rio de Janeiro, foi um ato de violência política e erro administrativo que prejudicou tanto a população do antigo Distrito Federal, quanto a do velho Estado do Rio de Janeiro. O governo militar não atuou sem o concurso de líderes conservadores do Rio.
 O projeto de fusão foi redigido por Célio Borja, udenista e lacerdista, com o propósito de impedir o ressurgimento das forças políticas mais próximas do velho PSD agrupadas em torno de Amaral Peixoto. A Arena, não podendo ter o governo do Estado do Rio, pretendia obter o controle do novo Estado, apostando na fugacidade do chaguismo. Sem que as populações interessadas fossem ouvidas, o projeto de Célio Borja tramitou no Congresso, onde o governo tinha a maioria, convertendo-se em Lei Complementar, sancionada pelo presidente Geisel em junho de 1974.
@@ -1624,9 +1624,9 @@ IVO SALDANHA, 42, médico psiquiatra, foi prefeito de Cabo Frio (RJ), de 1989 a 1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-088</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-088</field>
+<field name="date">940331</field>
+<text_pt>
 Segundo eles, as crianças estariam sendo usadas em filmes e fotos pornográficas; diretores negam
 Da Reportagem Local
 A Escola de Educação Infantil de Base está sendo acusada de usar crianças para fazer filmes e fotos pornográficas. A Base é uma escola particular e fica na rua Oliveira Peixoto, na Aclimação (região central de São Paulo).
@@ -1644,9 +1644,9 @@ Na tarde de ontem, o casal Sheila Cristina Fiorito, 23, e Abraão Rodrigues do Na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-089</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-089</field>
+<field name="date">940331</field>
+<text_pt>
 PAULO FERRAZ
 Da Reportagem Local
 A Sociedade Brasileira de Ajuda Mútua lança amanhã no município de Francisco Morato, um dos mais violentos da Grande São Paulo, uma campanha para que os moradores troquem suas armas por cestas básicas. As crianças vão receber livros em troca de suas armas de brinquedo.
@@ -1663,9 +1663,9 @@ O Estado fará a seleção dos presos, que deverão ser de baixa periculosidade e de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-090</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-090</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A polícia prendeu anteontem Otaviano Líbano Neto, 48, acusado de ser um dos dez maiores ladrões de carro de São Paulo. Com ele, foram apreendidos cinco carros furtados (quando o ladrão age sem violência contra a vítima).
 Condenado a 11 anos de prisão, Líbano Neto responde a 26 inquéritos por furto de carros. Ele e seus amigos furtariam cerca de 20 veículo por dia em São Paulo.
@@ -1678,9 +1678,9 @@ Além dos cinco carros apreendidos, a polícia descobriu outros sete que teriam si
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-091</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-091</field>
+<field name="date">940331</field>
+<text_pt>
 Da Agência Folha, em Londrina
 Os agricultores Anarolino Ribeiro, 53, e Volmir Comelatto, 34, admitiram, em depoimento ao delegado Volney Thibes, a participação no linchamento de três pessoas, em 21 de março, em Salto do Lontra (550 km a sudoeste de Curitiba).
 Ribeiro é pai da enfermeira Eronildes Ribeiro Comelatto, assassinada em 20 de março. Os três linchados eram os acusados pelo crime.
@@ -1690,9 +1690,9 @@ Comelatto e Ribeiro são acusados de terem comandado a invasão da cadeia e o linc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-092</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-092</field>
+<field name="date">940331</field>
+<text_pt>
 
 Da Reportagem Local
 As Polícias Rodoviárias Estadual e Federal estimam que mais de um milhão de veículos começaram a deixar São Paulo a partir do final da tarde de ontem, em direção ao litoral e interior do Estado.
@@ -1713,9 +1713,9 @@ Nos aeroportos, a maioria dos vôos previstos para hoje para as capitais do Norde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-093</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-093</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 O prefeito Paulo Maluf inaugura hoje, às 11h, o túnel Presidente Jânio Quadros, sob o rio Pinheiros, em São Paulo. O túnel, que começou a ser construído pelo ex-prefeito Jânio Quadros, custou US$ 178 milhões.
 O túnel liga os bairros Itaim Bibi e Morumbi. Tem 880 metros de extensão, mais 780 metros de embocaduras.
@@ -1727,9 +1727,9 @@ Das 2h às 14h, os carros vão circular no sentido bairro-centro (do Morumbi para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-094</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-094</field>
+<field name="date">940331</field>
+<text_pt>
 
 Da Agência Folha, em Santos
 As prefeituras da Baixada Santista prepararam esquema especial para instruir os cerca de um um milhão de turistas que devem visitar a região no feriado.
@@ -1747,18 +1747,18 @@ O secretário de Saúde de São Vicente, Arthur Chioro, discorda. "Os frutos do mar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-095</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-095</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Professores da PUC de São Paulo entraram em greve anteontem, uma semana depois de os funcionários terem paralisado suas atividades. Ambos pedem que o salário de março sejam reajustados pela inflação do quadrimestre anterior (novembro a fevereiro) mais 9%.
 A reitoria diz não ter dinheiro e está negociando com os alunos um reajuste de mensalidades. A greve é mais um capítulo da crise da PUC-SP, que há uma década gasta mais do que arrecada.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-096</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-096</field>
+<field name="date">940331</field>
+<text_pt>
 Da Folha Sudeste
 A campanha para o segundo turno das eleições na Unicamp está polarizada entre o candidato da situação, o vice-reitor José Martins Filho, e um dos candidatos da oposição, o professor Fernando Galembeck. O segundo turno acontece nos dias 5 e 6 de abril.
 Galembeck conseguiu reunir o apoio dos outros três candidatos de oposição que concorreram no primeiro turno: Francisco Reis, Luís Alberto Magna e Antonio Celso da Fonseca Arruda.
@@ -1772,9 +1772,9 @@ Na eleição, os votos dos docentes valem três quintos e o de alunos e funcionário
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-097</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-097</field>
+<field name="date">940331</field>
+<text_pt>
 Da Agência Folha, em Manaus
 Quarenta e uma pessoas do povoado Vila do Arara foram atendidas no hospital de Manacapuru (a 80 km de Manaus) com sintomas de intoxicação por resina de açacu, madeira usada como bóia pelos ribeirinhos.
 O diretor do hospital, Waldino Alecrim, confirmou a morte de uma mulher de 55 anos. "Os pacientes apresentavam quadro de bronquite aguda ou asma", disse.
@@ -1784,9 +1784,9 @@ Segundo Alecrim, os próprios ribeirinhos informaram que o açacuzeiro é "venenoso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-098</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-098</field>
+<field name="date">940331</field>
+<text_pt>
 
 Usar sempre água tratada. Para os que não dispõem de água clorada, recomenda-se pingar duas gotas de hipoclorito de sódio por litro e esperar 30 minutos para beber ou usar a água. O hipoclorito é vendido em farmácias e distribuído em postos de saúde. Se fervida, deve-se deixar a chaleira cinco minutos sobre o fogo.
 Lavar as mãos com água e sabão antes das refeições, ao preparar qualquer alimento e após ir ao banheiro. Levar mãos infectadas à boca pode significar contaminação pelo cólera.
@@ -1800,9 +1800,9 @@ Fonte: Secretaria Estadual da Saúde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-099</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-099</field>
+<field name="date">940331</field>
+<text_pt>
 Numa primeira etapa, serão reformados os telhados de vidro do prédio, construído em 1925 e em processo de tombamento
 VICTOR AGOSTINHO
 Da Reportagem Local
@@ -1822,9 +1822,9 @@ Nessa primeira etapa, a prefeitura não pretende mexer na fachada externa do edif
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-100</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-100</field>
+<field name="date">940331</field>
+<text_pt>
 LUIZ CARLOS DUARTE
 Da Reportagem Local
 O juiz José Roberto Peiretti de Godoy, da 3ª Vara da Fazenda Federal, não acatou o pedido de liminar formulado pelo Ministério Público, que solicitava a suspensão da obra de prolongamento da avenida Faria Lima, incluindo o processo de desapropriação de 105 casas em Pinheiros e 167 no Itaim (zona oeste).
@@ -1839,9 +1839,9 @@ Duas ações populares também foram impetradas contra os atos de desapropriação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-101</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-101</field>
+<field name="date">940331</field>
+<text_pt>
 Passeata dos ex-motoristas
 Da FT
 Ex-funcionários da CMTC (Companhia Municipal de Transportes Coletivos) fizeram uma manifestação, ontem de manhã, em frente ao Palácio das Indústrias, sede da Prefeitura de São Paulo.
@@ -1852,9 +1852,9 @@ O Sindicato dos Motoristas espera que a prefeitura tome rápidas providências, po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-102</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-102</field>
+<field name="date">940331</field>
+<text_pt>
 O leitor Noé Aparecido da Silva, residente na rua Mundo Novo, no Sumarezinho, vem reclamar do não-pagamento de sua conta inativa do FGTS. "Mandei para a Caixa Econômica Federal minhas solicitações de saque e até agora não fui atendido. Já fiz ao todo quatro solicitações", conta Aparecido. Ele afirma que a primeira solicitação foi feita em agosto de 93. As outras três foram feitas em setembro, novembro e dezembro, todas sem sucesso. "Eu gostaria que a CEF averiguasse o motivo de tanta demora e me desse uma resposta."
 
 Resposta
@@ -1864,9 +1864,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-103</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-103</field>
+<field name="date">940331</field>
+<text_pt>
 Obra causava barulho e poluição
 Da Reportagem Local
 Desde agosto do ano passado, quando as obras do túnel passaram a ser tocadas dia e noite, o adminstrador de empresas Sergio Domeneghetti, 48, não dorme mais direito.
@@ -1878,25 +1878,25 @@ Anasilda quer utilizar o túnel, que passa sob sua casa, hoje mesmo. "A obra é fa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-104</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-104</field>
+<field name="date">940331</field>
+<text_pt>
 
 Delmar Mattes, secretário de Vias Públicas durante a gestão da prefeita Luiza Erundina: "O túnel beneficia o transporte individual, enquanto a prioridade deveria ser investimento em transportes coletivos. O túnel não é uma obra prioritária para a cidade. O túnel é uma prova da política eleitoreira do prefeito Paulo Maluf.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-105</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-105</field>
+<field name="date">940331</field>
+<text_pt>
 
 Francisco Whitaker, vereador do PT: "O túnel é um grande desperdício que toda a cidade pagará. A conclusão da obra seria necessária, mas em ritmo lento, de modo a não prejudicar as finanças do município. Mesmo assim, o ideal seria a construção de pontes, o que seria muito mais barato e serviria para a mesma coisa".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-106</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-106</field>
+<field name="date">940331</field>
+<text_pt>
 Operação deve durar cerca de uma hora e será feita com cones e barreiras; motociclistas vão escoltar últimos carros
 Da Reportagem Local
 O trânsito no túnel Presidente Jânio Quadros terá um sentido em cada parte do dia. De manhã (das 2h às 14h), será no sentido bairro-centro. À tarde-noite (das 15h à 1h), na direção centro-bairro.
@@ -1914,9 +1914,9 @@ Em caso de congestionamento no túnel, a recomendação é que os motoristas desligu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-107</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-107</field>
+<field name="date">940331</field>
+<text_pt>
 
 Novembro de 92 - túnel escavado do Pinheiros vira palco da peça "Viagem ao Centro da Terra"
 
@@ -1932,9 +1932,9 @@ Fevereiro de 94 - juíza embarga obra do túnel da Juscelino. Embargo cai três dia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-108</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-108</field>
+<field name="date">940331</field>
+<text_pt>
 FERNANDA DA ESCÓSSIA
 Da Sucursal do Rio
 Uma operação realizada por dez promotores do Ministério Público e pela Polícia Militar do Rio apreendeu livros-caixa com nomes de policiais que receberiam propinas do jogo do bicho.
@@ -1947,9 +1947,9 @@ As anotações nos livros indicavam propinas fixas mensais de Cr$ 300 mil, mais ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-109</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-109</field>
+<field name="date">940331</field>
+<text_pt>
 Da FT
 Os usuários do metrô, ônibus intermunicipais ou trens metropolitanos vão pagar mais caro pela passagem a partir de hoje. O bilhete unitário do metrô e a tarifa do trems metropolitano sobem de CR$ 350 para CR$ 500. O aumento foi de 42,86%.
 O valor das passagens de ônibus intermunicipais também sobe 42,86% e passa a ser CR$ 400.
@@ -1959,9 +1959,9 @@ Para quem quer adquirir o bilhete do trabalhador, que tem desconto de 10% sobre 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-110</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-110</field>
+<field name="date">940331</field>
+<text_pt>
 Prédio, invadido por alunos, estava interditado; universitário está internado com suspeita de lesão na medula
 Da Reportagem Local
 O estudante do segundo ano de filosofia da USP Moisés da Silva Santos, 26, caiu ontem do sexto andar do bloco D do Crusp (conjunto de alojamentos dos estudantes) no poço de um dos elevadores do prédio. O rapaz foi levado para o Hospital Universitário, no campus da USP, e transferido para o Hospital das Clínicas, com suspeita de lesão na medula óssea.
@@ -1975,9 +1975,9 @@ Segundo a assessoria, os estudantes estão por sua "conta e risco" no prédio e o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-111</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-111</field>
+<field name="date">940331</field>
+<text_pt>
 De rap a xaxado, maioria das danceterias vai funcionar normalmente na sexta-feira
 Da Reportagem Local
 O roteiro pagão da Semana Santa está garantido. A maioria dos clubes e danceterias da cidade vai estar funcionando normalmente.
@@ -1993,9 +1993,9 @@ Sem programação especial, mas funcionando do mesmo jeito estão os clubes Columbi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-112</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-112</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 As Polícias Rodoviárias Estadual e Federal estimam que mais de um milhão de veículos começaram a deixar São Paulo a partir do final da tarde de ontem, em direção ao litoral e interior do Estado.
 Minas Gerais e Rio de Janeiro são os destinos mais comuns entre os que procuram outros Estados neste feriado. Nenhum acidente grave ocorreu até o final da tarde.
@@ -2010,9 +2010,9 @@ Técnicos do Dersa (Desenvolvimento Rodoviário S/A) lembram que um dos motivos ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-113</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-113</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Nos terminais rodoviários, as cidades mais procuradas continuavam a ser as do Litoral Norte do Estado e as do Litoral Sul do Rio.
 No terminal do Jabaquara, com linhas de ônibus entre a capital e as cidades da Baixada Santista e do Litoral Sul, a procura por passagens ainda era pequena ontem, mas deve se intensificar muito a partir de hoje.
@@ -2021,9 +2021,9 @@ As empresas aconselham os passageiros a procurar as listas de espera ou mesmo te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-114</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-114</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A comida é barata, a bebida pega fogo e o lugar fica aberto até o último cliente &#150;alguns deles chegam às quatro da manhã. Além disso, o Moe Flamejante fica num dos cantos um pouco mais tranquilos da Vila Madalena, apesar de ter os seus 120 lugares quase sempre ocupados.
 "Preferimos ficar um pouco longe da molecada, mesmo porque não servimos álcool para menores", diz Rodrigo Ferreira, um dos cinco donos do bar, aberto em janeiro deste ano.
@@ -2037,9 +2037,9 @@ Moe Flamejante - rua Purpurina, 534. Tel.: 210-2286. Fecha domingo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-115</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-115</field>
+<field name="date">940331</field>
+<text_pt>
 Free-lance para a Folha
 Sair de casa de madrugada em busca de um atendimento veterinário de emergência não é novidade para o empresário Stanley Hodge Junior, 28. Na última quarta-feira, sua cachorra Jinger (raça labrador) teve uma séria infecção no estômago e intestino e acabou internada na Clínica Veterinária Doutor Caldas, que atende 24h.
 Esta foi a terceira vez que Hodge procurou a clínica durante a madrugada. Segundo o empresário, o atendimento à noite é mais corrido, mas a qualidade é a mesma.
@@ -2050,9 +2050,9 @@ Clínica Veterinária Doutor Caldas. Rua da Consolação, 3.649. Jardim América. Tel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-116</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-116</field>
+<field name="date">940331</field>
+<text_pt>
 Prefeitura inaugura passagem sob o rio Pinheiros; dinheiro daria para construir 5 pontes
 Da Reportagem Local
 O prefeito Paulo Maluf inaugura hoje, às 11h, o túnel Presidente Jânio Quadros, sob o rio Pinheiros. A obra, que liga o Itaim-Bibi ao Morumbi, será entregue pela metade. Está sendo aberto o túnel norte, que custou US$ 178 milhões &#150;mais caro por metro linear que o metrô. Falta ainda o túnel sul, em projeto e sem previsão de entrega.
@@ -2067,9 +2067,9 @@ sobre o túnel nas págs. 4 e 5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-117</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-117</field>
+<field name="date">940331</field>
+<text_pt>
 Time de Serginho enfrenta o Ituano, em Itu; o centroavante Guga, contundido, não joga
 MARCUS FERNANDES
 Da Agência Folha, em Santos
@@ -2089,9 +2089,9 @@ Bandeirantes, ao vivo, às 21h10
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-118</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-118</field>
+<field name="date">940331</field>
+<text_pt>
 Da Folha Sudeste
 Os jogadores do Ituano têm um estímulo a mais para conseguir derrotar o Santos hoje em Itu. A diretoria, na expectativa de que a equipe possa obter sua primeira vitória no Paulista, dobrou a premiação dos atletas caso vençam.
 Com isso, se houver o resultado positivo, cada jogador e os integrantes da comissão técnica receberão US$ 200 (CR$ 178,97 mil). Nas partidas anteriores, a premiação era de US$ 100 (CR$ 89,48 mil), com exceção do jogo contra o Guarani, quando a vitória valia US$ 150 (CR$ 134,23 mil).
@@ -2101,9 +2101,9 @@ Para sair desta situação difícil, o time já tem a solução: conseguir vitórias so
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-119</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-119</field>
+<field name="date">940331</field>
+<text_pt>
 Temos duas maneiras de jogar: uma, personificada em Telê Santana; a outra, com a dupla Parreira-Zagalo
 BOB FERNANDES
 Da Reportagem Local
@@ -2126,9 +2126,9 @@ Hoje, excepcionalmente, não publicamos a coluna de Matinas Suzuki Jr.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-120</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-120</field>
+<field name="date">940331</field>
+<text_pt>
 CARLOS SARLI
 Duas semanas era todo tempo que eu teria na minha viagem ao Havaí. Quando saí de Los Angeles com destino a Honolulu, o final de inverno estava ensolarado e quente. Ondas de quatro a cinco pés durante o fim-de-semana me animaram para a minha curta temporada no North Shore.
 Cinco minutos após a decolagem, o visual da costa da Califórnia sumia no horizonte. Desci no principal aeroporto do arquipélago ainda de dia com as três horas que se ganham no fuso horário. Na caminhada para retirar as malas e as pranchas, a chuva e um vento forte me recepcionaram em solo havaiano.
@@ -2141,9 +2141,9 @@ Nunca, nem mesmo em São Paulo, onde passei quase toda a minha vida, tive tantos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-121</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-121</field>
+<field name="date">940331</field>
+<text_pt>
 
 Em plena Miami, paraíso dos Nikes e das calças Levi's, o ex-campeão amador Binho Nunes, voltando do Havaí, resolveu fazer compras no mínimo diferentes: levou para sua casa em Itanhaém, litoral sul de São Paulo, meia dúzia de monstrinhos de cabelo verde espichado à la Don King e roupinha de vampiro. "Vou dar para as gatas, elas deliram..." afirmou Binho, que foi um dos destaques brasileiros este ano no Havaí.
 
@@ -2151,9 +2151,9 @@ Depois de levar algumas porradas durante o Sea Clubs Final Heat, Todd Holland te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-122</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-122</field>
+<field name="date">940331</field>
+<text_pt>
 Diretoria contrata até um psicólogo para trabalhar com os jogadores
 Da Agência Folha, em Santos
 Serginho assumiu o comando técnico do Santos prometendo mudar a situação do time na base do diálogo. Ante uma crise que para muitos só seria resolvida na briga, o novo treinador prometia reverter levantando o moral dos jogadores.
@@ -2166,9 +2166,9 @@ Aos poucos, o sempre brincalhão Serginho vai dando lugar a um homem carrancudo. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-123</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-123</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Pela décima vez desde a chegada do técnico Carlos Alberto Silva em fevereiro, o Corinthians mudou o resultado de um jogo a seu favor no segundo tempo. Anteontem, o time venceu o CRB por 1 a 0, no estádio Rei Pelé, de Maceió, na estréia na Copa do Brasil.
 O gol foi marcado, aos 42min, por Embu, que substituía Moacir. Ele chutou de fora da área. A bola bateu num adversário, enganou o goleiro e entrou.
@@ -2201,9 +2201,9 @@ Embu, aos 42min do segundo tempo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-124</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-124</field>
+<field name="date">940331</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte
 O Cruzeiro enfrenta o Velez Sarsfield, esta noite em Buenos Aires, pela Libertadores. Seus objetivos são garantir uma vaga na próxima fase &#150;o empate é suficiente&#150; e ficar à frente do Palmeiras. O Velez já está classificado.
 Pelo regulamento da Libertadores, segundo a diretoria do Cruzeiro, o primeiro colocado do grupo enfrenta o terceiro do grupo que tem chilenos e uruguaios.
@@ -2219,9 +2219,9 @@ Na primeira partida contra o Velez, disputada em Belo Horizonte, houve empate em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-125</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-125</field>
+<field name="date">940331</field>
+<text_pt>
 Técnico José Roberto Guimarães aguarda a volta dos 'brasilianos' para a seleção o mais rápido possível 
 SÉRGIO KRASELIS
 Da Reportagem Local
@@ -2239,9 +2239,9 @@ A estréia do Brasil no torneio será contra a Bulgária. A seleção enfrenta os búl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-126</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-126</field>
+<field name="date">940331</field>
+<text_pt>
 Atletas se apresentam hoje no Rio
 Da Reportagem Local
 A seleção brasileira feminina de vôlei recebe hoje as atacantes Edna e Estefânia, da Nossa Caixa-Recra/Ribeirão Preto, campeã da Liga Nacional da temporada 93/94.
@@ -2254,9 +2254,9 @@ Para hoje, o técnico Bernardinho prevê treinos em dois períodos. Pela manhã, as 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-127</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-127</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A Nossa Caixa-Recra, de Ribeirão Preto, e a Colgate/São Caetano, iniciam no próximo dia 4 a disputa do Campeonato Sul-americano de Vôlei Feminino.
 A competição acontece em Medellín, Colômbia, e prossegue até o dia 11 de abril. A Colgate, atual campeã sul-americana, conseguiu reforçar a equipe com Silvana (ex-Leite Moça) e Denise (ex-Rioforte), já que Fofão e Patrícia Cocco estão na seleção brasileira.
@@ -2266,9 +2266,9 @@ Para amenizar a ausência das jogadoras, o time de Ribeirão Preto terá o reforço 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-128</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-128</field>
+<field name="date">940331</field>
+<text_pt>
 Piloto admite que não esperava perder para Schumacher em Interlagos e promete recuperação no próximo GP
 Da Reportagem Local
 Nem Ayrton Senna, nem a Williams esperavam ser derrotados na abertura do Mundial de Fórmula 1, domingo passado em Interlagos. O piloto brasileiro admitiu que o resultado foi "uma ducha d'água fria" no time. A corrida foi vencida pelo alemão Michael Schumacher, da Benetton.
@@ -2281,9 +2281,9 @@ Senna deve passar o feriado da Páscoa em sua casa de praia, em Angra dos Reis (R
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-129</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-129</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Ao apresentar os carros da Audi que passou a importar para o Brasil, Ayrton Senna não descartou a possibilidade de a marca disputar as Mil Milhas Brasileiras. "Pensei nisso. É uma possibilidade, mas ainda não foi estudada a fundo", disse. Pilotar na prova, no entanto, é algo "muito improvável". "Minha atividade esportiva principal é ser piloto da Williams. Tenho compromisso com a equipe."
 A meta da Senna Import, para este ano, é comercializar mil unidades do carro alemão. Os modelos disponíveis são o Audi 80, o Audi 100 e suas versões esportivas S2 e S4.
@@ -2292,9 +2292,9 @@ O investimento da Senna Import em 93 chegará a US$ 5 milhões. Metade desse valor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-130</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-130</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 O piloto francês Jean Alesi sofreu ontem um grave acidente nos testes privados da Ferrari no circuito de Mugello, próximo a Florença (norte da Itália).
 Alesi bateu seu carro a cerca de 200 km/h. Ele perdeu o controle da nova Ferrari 412t1 numa das curvas mais velozes do circuito e se chocou duas vezes contra o guard-rail.
@@ -2307,9 +2307,9 @@ O novo motor V12, em compensação, apresentou um rendimento melhor que o esperado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-131</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-131</field>
+<field name="date">940331</field>
+<text_pt>
 MÁRIO MAGALHÃES
 Da Sucursal do Rio
 O preparador de goleiros Wendell Lucena Ramalho é o novo integrante da comissão técnica da seleção brasileira. Ele entra no lugar de Nielsen Elias, cuja demissão foi anunciada ontem pelo presidente da Confederação Brasileira de Futebol, Ricardo Teixeira.
@@ -2325,18 +2325,18 @@ Ele teria entrado em atrito com o supervisor da seleção, Américo Faria. Faria se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-132</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-132</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal do Rio
 Wendell foi o preparador do goleiro Dida na seleção de juniores que conquistou o tricampeonato mundial na Austrália. Admirador do goleiro do Cruzeiro, pode incentivar sua convocação para a Copa.
 Wendell jogou em clubes como Botafogo, Fluminense e Guarani. Era o titular da seleção brasileira que foi à Copa de 74 na Alemanha, mas se contundiu, foi cortado, e o reserva Leão virou titular. O último clube em que trabalhou foi o Marítimo (Portugal). (MM)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-133</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-133</field>
+<field name="date">940331</field>
+<text_pt>
 Parreira e Zagalo são recebidos com gritos de "Romário"
 Da Sucursal do Rio
 O técnico Carlos Alberto Parreira participou ontem de um painel sobre futebol no Colégio Pedro 2.º, no Rio, que teve a presença de mais de 500 estudantes. Participaram também o coordenador Zagalo, o supervisor Américo Faria e o ex-técnico da seleção Sebastião Lazaroni.
@@ -2346,9 +2346,9 @@ Lazaroni defendeu a manutenção de Raí. "Desde que Zico se afastou da seleção, o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-134</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-134</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 A União Européia de Futebol (Uefa) já tomou posição quanto à eleição do presidente da Fifa (Federação Internacional de Futebol Association). Só que preferiu não divulgá-la até a próxima semana.
 A informação foi dada pelo presidente da entidade, o sueco Lennart Johansson, após uma reunião dos dirigentes da Uefa, ontem, em Barcelona (Espanha).
@@ -2358,9 +2358,9 @@ Segundo alguns observadores, o adiamento do anúncio da decisão reforça a posição
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-135</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-135</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 O árbitro argentino Francisco Lamolina vai dar uma aula aos jogadores da seleção argentina sobre as novas regras de combate à violência no futebol que entrarão em vigor na Copa dos EUA. Lamolina é um dos juízes que poderão apitar partidas na Copa.
 Lamolina fez duras críticas ao comportamento dos argentinos no amistoso contra a seleção brasileira, quarta-feira, em Recife (PE). Segundo ele, se tivesse sido um jogo da Copa, vários argentinos teriam sido expulsos.
@@ -2369,9 +2369,9 @@ Basile apoiou a convocação de Lamolina. Segundo ele, os jogadores precisam entra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-136</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-136</field>
+<field name="date">940331</field>
+<text_pt>
 Da Sucursal do Rio
 O 1º Grupo de Câmaras do Tribunal de Alçada do Rio acatou, por quatro votos a um, o mandado de segurança impetrado pelo presidente da CBF, Ricardo Teixeira, para que o ex-jogador Pelé vá a julgamento na 13ª Vara Criminal em dez dias. Teixeira acusa Pelé de calúnia e difamação.
 A ação teve início depois que Pelé chamou Ricardo Teixeira de corrupto em entrevista a uma revista, concedida em agosto. O advogado de Teixeira, Clóvis Sahione, apresentou uma queixa-crime à juíza da 13ª Vara, Ruth Viana Leite. Os advogados de Pelé haviam bloqueado a ação, através de um recurso. Mas a decisão de anteontem derrubou o recurso.
@@ -2379,9 +2379,9 @@ Segundo Pelé, a CBF recusou sua proposta para a transmissão dos jogos do Brasil 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-137</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-137</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Os dois técnicos norte-americanos que atuam no basquete brasileiro &#150;Jack Avina, do Sollo-Minas Tênis Clube, e Mike Frink, do Blue Life/Rio Claro&#150;, fazem um duelo à parte na rodada de hoje, a última do primeiro turno das semifinais, da Liga Nacional Masculina. Minas e Blue Life se encontram às 20h30 em Belo Horizonte.
 Os dois treinadores gostam de trabalho intenso de seus times na defesa. Mas, na rodada de terça-feira à noite, as duas equipes, que integram o grupo J, saíram da quadra derrotadas. O Minas perdeu para o Palmeiras por 90 a 89, em São Paulo, e o Blue Life foi derrotado pelo Pitt-Corinthians por 94 a 82, em Santa Cruz do Sul (RS).
@@ -2391,9 +2391,9 @@ Outros resultados da rodada de anteontem: em Franca, Satierf-Sabesp 94 x 82 Dhar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-138</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-138</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 O Los Angeles Lakers conseguiu sua segunda vitória consecutiva sob o comando técnico do ex-jogador Magic Johnson. Mas a equipe teve dificuldades, mesmo jogando em casa, para superar o Minnesota Timberwolves por 91 a 89, anteontem, na NBA, a liga profissional de basquete dos EUA.
 O Minnesota é o terceiro pior time da temporada (19 vitórias e 50 derrotas), empatado com o Washington. O LA Lakers acumula 30 vitórias e 38 derrotas. A pior campanha é a do Dallas (8v e 61d) e a melhor, a do Seattle (52v e 17d).
@@ -2405,9 +2405,9 @@ Outros resultados: Atlanta 101 x 98 New Jersey, Cleveland 106 x 96 LA Clippers, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-139</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-139</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Portuguesa e Ponte Preta ficaram no 0 a 0 ontem à noite no Canindé numa partida fraca, com raras chances de gol. O centroavante Sinval, da Portuguesa, foi muito vaiado pela torcida no segundo tempo, no momento em que era substituído por Jackson.
 O resultado mantém as duas equipes mal colocadas na classificação do Campeonato Paulista. A Portuguesa tem 17 pontos em oitavo lugar ao lado de Rio Branco e Novorizontino e a Ponte, que no último fim-de-semana venceu o Palmeiras, está com 16 em 11º junto com Ferroviária e União.
@@ -2435,9 +2435,9 @@ Dionísio Roberto Domingos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-140</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-140</field>
+<field name="date">940331</field>
+<text_pt>
 Da Folha Sudeste
 O Guarani não conseguiu escapar de um empate sem gols com o Novorizontino, ontem à noite no estádio Brinco de Ouro, em Campinas, decepcionando mais uma vez sua torcida. Com esse resultado, a equipe do Guarani vai a 18 pontos ganhos no Paulistão.
 No final da partida, que teve poucos lances de perigo nos dois lados, os torcedores pediram a cabeça do técnico Candinho e tentaram invadir o vestiário.
@@ -2465,9 +2465,9 @@ estádio Brinco de Ouro, em Campinas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-141</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-141</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A Nossa Caixa-Recra, de Ribeirão Preto, e a Colgate, de São Caetano, iniciam no próximo dia 4 a disputa do Campeonato Sul-americano de Vôlei Feminino.
 A competição acontece em Medellín, Colômbia, e prossegue até o dia 11 de abril. A Colgate, atual campeã sul-americana, conseguiu reforçar a equipe com Silvana (ex-Leite Moça) e Denise (ex-Rioforte), já que Fofão e Patrícia Cocco estão na seleção brasileira.
@@ -2476,9 +2476,9 @@ Para amenizar a ausência das jogadoras, a Nossa Caixa reforçou o time com Kerly 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-142</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-142</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Os dois técnicos norte-americanos que atuam no basquete brasileiro &#150;Jack Avina, do Sollo-Minas Tênis Clube, e Mike Frink, do Blue Life/Rio Claro&#150;, fazem um duelo à parte na rodada de hoje, a última do primeiro turno das semifinais, da Liga Nacional Masculina. Minas e Blue Life se encontram às 20h30 em Belo Horizonte.
 Os dois treinadores gostam de trabalho intenso de seus times na defesa. Mas, na rodada de terça-feira à noite, as duas equipes, que integram o Grupo J, saíram da quadra derrotadas. O Minas perdeu para o Palmeiras por 90 a 89, em São Paulo, e o Blue Life foi derrotado pelo Pitt-Corinthians por 94 a 82, em Santa Cruz do Sul (RS).
@@ -2489,9 +2489,9 @@ O segundo turno começa sábado. As equipes vencedoras dos grupos decidirão o títu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-143</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-143</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 O Los Angeles Lakers conseguiu sua segunda vitória consecutiva sob o comando técnico do ex-jogador Magic Johnson.
 Mas a equipe teve dificuldades, mesmo jogando em casa, para superar o Minnesota Timberwolves por 91 a 89, anteontem, na NBA, a liga profissional de basquete dos Estados Unidos.
@@ -2503,9 +2503,9 @@ Outros resultados: Atlanta 101 x 98 New Jersey, Cleveland 106 x 96 LA Clippers, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-144</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-144</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 A TVA/ESPN está transmitindo, ao vivo, o torneio de tênis feminino de Hilton Head (EUA) todos os dias da semana, a partir das 15h. A competição, que vai até o dia 3 de abril, distribui 750 mil dólares em prêmio. As favoritas são as
 espanholas Arantxa Sánchez e Conchita Martínez.
@@ -2513,9 +2513,9 @@ A nº 1 do mundo, Steffi Graf, não participa do torneio por estar contundida. Mar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-145</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-145</field>
+<field name="date">940331</field>
+<text_pt>
 O artista venezuelano, um dos principais representantes da arte cinética, terá duas instalações na Bienal
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -2543,9 +2543,9 @@ Soto - Meu trabalho me permite ver sempre novas saídas. Presto muita atenção às 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-146</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-146</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A arte cinética se afirmou em vários pontos da Europa, durante os anos 50, incluindo artistas como o húngaro Victor Vasarely, o italiano Bruno Munari e o suíço Jean Tinguely. Inspirados em movimentos de vanguarda do início do século, sobretudo nos artistas construtivistas, os representantes da arte cinética experimentaram diversas formas de criar o movimento (óptico e mecânico) na obra de arte, como um desdobramento da abstração e de seus impasses.
 Chegando a Paris com uma bolsa de estudos no início dos anos 50, Soto acabou se aproximando naturalmente dos artistas do chamado Novo Realismo &#150;sobretudo os ligados à criação da arte cinética: Tinguely, Pol Bury e Agam.
@@ -2555,37 +2555,37 @@ As duas instalações que trará à Bienal em outubro também funcionam dentro dessa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-147</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-147</field>
+<field name="date">940331</field>
+<text_pt>
 O Ex-Sex Pistols Johnny Rotten (hoje John Lydon) passou por Londres para lançar sua biografia "Rotten, No Irish, No Blacks, No Dogs" e aproveitou para conferir sua cópia de cera no museu de Madame Tussaud. É tão parecida que ficou difícil saber quem é quem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-148</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-148</field>
+<field name="date">940331</field>
+<text_pt>
 Os fãs do rei do rock podem festejar. Elvis realmente está vivo. A Crunch Media criou o CD-ROM "Graceland", que permite uma visita digitalizada à sua residência em Memphis, ciceroneada pelo ídolo. Só não poderão entrar no quarto e no banheiro do cantor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-149</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-149</field>
+<field name="date">940331</field>
+<text_pt>
 A cantora italiana Adriana Caselotti cobrou apenas US$ 970 para &#150;há 57 anos atrás&#150; ler os diálogos e interpretar as canções de Branca de Neve no desenho da Disney. Hoje, com 77 anos, vive contente em Los Angeles e se vangloria de ainda cantar muito bem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-150</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-150</field>
+<field name="date">940331</field>
+<text_pt>
 John McEnroe, um dos grandes da história do tênis, abriu uma galeria de arte no bairro de Soho, em Nova York. Disse que quer descobrir jovens talentos e que não espera ganhar dinheiro, pelo menos no início. Nem por isso abandonou a guitarra elétrica, sua outra paixão.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-151</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-151</field>
+<field name="date">940331</field>
+<text_pt>
 O novo conservador-chefe do Masp diz que Magalhães "deixou tudo encaminhado" e que terá autonomia
 DANIEL PIZA
 Da Reportagem Local
@@ -2603,27 +2603,27 @@ Quanto a assuntos financeiros, Hossaka declara que não sabe dizer se as acusaçõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-152</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-152</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 Quatorze atores já entraram com processo contra a Paramount Pictures, o programa "The Arsennio Hall Show" e um antigo roteirista do programa por abuso sexual. De acordo com o processo, Lawrence Amoros, o roteirista, pedia para que eles se despissem e então os acariciava durante uma suposta audição para um quadro do programa norte-americano de TV.
 Amoros levava os atores para seu escritório, os despia (pois o script assim exigia), mostrava revistas eróticas (pois precisava medir seus pênis flácidos e eretos). As "sessões" aconteceram em fevereiro último. Amoros já foi demitido e a Paramount conduz uma investigação para esclarecer o ocorrido.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-153</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-153</field>
+<field name="date">940331</field>
+<text_pt>
 Das agências internacionais
 A atriz norte-americana Lana Turner recebeu alta anteontem do Centro Médico Cedars-Sinai, em Los Angeles, onde se tratava há uma semana de uma pneumonia. Turner está com 74 anos de idade. Fontes do hospital informaram que seu câncer na garganta, diagnosticado e operado há dois anos, deu sinais de melhora.
 Lana Turner nasceu em Idaho, em 1920, e ficou famosa nos anos 40 interpretando papéis de loura fatal nos anos 40. Casou-se sete vezes, mas sua relação mais famosa foi com o gângster Johnny Stompanato, morto a punhaladas por Cheryl Crane, filha da atriz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-154</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-154</field>
+<field name="date">940331</field>
+<text_pt>
 O grupo londrino Blaggers Ita lança disco com bandeira brasileira na capa e música sobre meninos abandonados
 CAMILO ROCHA
 Free-lance para a Folha
@@ -2641,9 +2641,9 @@ Matty &#150; Quando virou moda ser anti-fascista e a imprensa musical resolveu b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-155</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-155</field>
+<field name="date">940331</field>
+<text_pt>
 Free-lance para a Folha
 O Blaggers Ita é gente nova e autêntica. Seu som segue uma tendência não-sofisticada, de produção barata, compartilhada por outras novas bandas engajadas da Inglaterra como Senser e Voodoo Queens. Pega coisas do rock, funk, rap e punk, para produzir um resultado onde a garra e a mensagem são mais importantes que a musicalidade e técnica.
 Mas esse lado anti-músico está mudando. Depois de quase sete anos de singles, EPs e um LP independentes, o Blaggers foi contratado pela EMI-Odeon. Seu novo LP está bem produzido e parece que os Blaggers Ita estão aprendendo a tocar melhor.
@@ -2660,9 +2660,9 @@ bom de bic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-156</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-156</field>
+<field name="date">940331</field>
+<text_pt>
 Clube comemora hoje duas décadas do primeiro show do Television, marco inaugural da new wave nova-iorquina
 FERNANDO CANZIAN
 De Nova York
@@ -2689,9 +2689,9 @@ Krystal - Eu sou o dono. Abri isso aqui e pretendo continuar por aqui mais algum
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-157</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-157</field>
+<field name="date">940331</field>
+<text_pt>
 O líder do 'mangue beat' lança o primeiro disco para chamar atenção para os ritmos pernambucanos
 LUÍS ANTÔNIO GIRON
 Enviado especial ao Rio
@@ -2711,9 +2711,9 @@ Science - Temos fome de informação. Na imagem de Josué, somos "caranguejos com c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-158</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-158</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 O CD "Da Lama Ao Caos" sacode os ossos encarquilhados do pop brazuca. Suas 14 faixas se enfeixam como uma suíte dos "mangueboys" tão isolados como fascinados pelo pop.
 O maracatu é um gênero feito aos berros, movido a golpes de tambor. Não poderia haver agora idéia melhor do que transformar isso em produto. Mas há dois elementos já ouvidos. A mão de ouro de Liminha se faz ouvir em todo o trabalho. O rock de 1988 é um subtexto, ainda que Science não reconheça a influência.
@@ -2732,9 +2732,9 @@ Quanto: CR$ 15 mil (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-159</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-159</field>
+<field name="date">940331</field>
+<text_pt>
 MARCELO MIGLIACCIO
 Da Sucursal do Rio
 A cantora nissei radicada no Japão, Lisa Ono, está no Rio colocando voz nas músicas de seu sexto disco, com lançamento previsto inicialmente apenas para o mercado japonês, pela BMG-Ariola. Entre as participações brasileiras, destaca-se a presença de Tom Jobim na faixa "Estrada Branca". No mês que vem, a gravadora lança a primeira compilação de sucessos de Lisa no Brasil.
@@ -2745,9 +2745,9 @@ O encontro com Tom, a quem já havia tietado no camarim antes de um show em Tóqui
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-160</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-160</field>
+<field name="date">940331</field>
+<text_pt>
 Comédia da Disney com John Candy fez sucesso nos EUA, com a história de uma equipe jamaicana de trenó no gelo
 INÁCIO ARAUJO
 Crítico de Cinema
@@ -2772,9 +2772,9 @@ Parte da trilha é ocupada por músicas jamaicanas. Ajuda o filme tanto quanto o s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-161</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-161</field>
+<field name="date">940331</field>
+<text_pt>
 "Como Agarrar um Milionário" sofre sem CinemaScope e tem na atuação de Marilyn Monroe seu maior trunfo
 Da Sucursal do Rio
 Não tem saída: a televisão é o túmulo do CinemaScope. Ainda que recauchutados com cirurgia eletrônica, os filmes em CinemaScope perdem no vídeo o seu maior trunfo, a espetaculosidade. Uma coisa foi ver "Como Agarrar um Milionário" nas telas adequadas, 40 anos atrás, outra é vê-la (ou revê-la) em videocassete. Se na época, o filme já era boboca, imagine agora, telemurchado.
@@ -2793,9 +2793,9 @@ Lançamento: Abril Vídeo (tel. 011/832-1555 ramal 226)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-162</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-162</field>
+<field name="date">940331</field>
+<text_pt>
 RUY CASTRO
 Especial para a Folha
 Em Portugal, os Irmãos Marx são conhecidos como Os Quatro Aldrabões. Segundo o Aurélio, "aldrabão", entre outras virtudes, é quem faz as coisas de maneira confusa, atabalhoada. Pois o comportamento absurdo, dadaísta, groucho-marxista, não era privilégio dos Irmãos Marx. Contagiou também as distribuidoras de vídeo que, quando fazem a caridade de lançar aqui os filmes do time mais infernal do cinema, preferem lançar justamente os piores.
@@ -2814,9 +2814,9 @@ Distribuição: Continental Home Video (tel.011/284-9479)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-163</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-163</field>
+<field name="date">940331</field>
+<text_pt>
 
 MAIS RETIRADOS
 "Invasão de Privacidade"
@@ -2930,18 +2930,18 @@ De Zhang Yimou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-164</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-164</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 A feminilidade está em alta na moda. Mas o que se celebra agora não são as curvas do corpo, a maquiagem ou a sensualidade explícita da mulher, como nos anos 80. Também não se trata de festejar de novo os valores da androginia, mas adaptar com charme e personalidade algumas peças da moda masculina ao guarda-roupa.
 E aí está Armani para comprovar esse sucesso. Blazers, camisas de colarinho, suspensórios, botas, mocassins e coletes compoem o look; o oversize e a moda esportiva entram no aspecto conforto. Nas fotos, alguns usos da tendência nas ruas.(EJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-165</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-165</field>
+<field name="date">940331</field>
+<text_pt>
 EVA JOORY
 Enviada especial a Parati (RJ)
 Depois de quase cinco anos morando em Nova York, o fotógrafo J.R. Duran é o homem do momento no Brasil. É ele quem fotografa a supermodel Linda Evangelista em Parati (RJ) para a campanha da Mesbla &#150;é a segunda vez que trabalha com ela, a primeira foi para o cartão American Express.
@@ -2979,9 +2979,9 @@ Devido à entrevista com J.R. Duran, não publicamos hoje a sessão "egos &amp; ids
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-166</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-166</field>
+<field name="date">940331</field>
+<text_pt>
 Os irmãos Paolo e Vittorio fazem de "Aconteceu na Primavera" seu melhor filme desde "A Noite de São Lourenço"
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
@@ -3007,9 +3007,9 @@ Como de hábito, a direção dos Taviani é quase invisível, às vezes banal, e suas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-167</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-167</field>
+<field name="date">940331</field>
+<text_pt>
 A pessoa mais interessada na permanência do Maluf não é a Hebe Camargo. É o Camargo Correa! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -3020,9 +3020,9 @@ E eu li na "Vanity Fair" uma piada sobre a fome que assola o regime de Fidel Cas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-168</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-168</field>
+<field name="date">940331</field>
+<text_pt>
 
 CURSO - O Tuca (Teatro da Universidade Católica) vai promover, entre os dias 4 de abril e 29 de junho, um curso de formação de atores para iniciantes. As inscrições podem ser feitas no Tuca (r. Monte Alegre, 1.024, tel. 011/ 65-0111, Perdizes). A matrícula é de Cr$ 10.000 e o valor do curso é de 75 URVs. O curso, que tem como objetivo a encenação de um texto, será dirigido pelos professores Paulo Roberto Moreira e Carlos Gardin.
 
@@ -3030,9 +3030,9 @@ ROCK - A banda inglesa Rolling Stones encontrou um substituto para o baixista Bi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-169</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-169</field>
+<field name="date">940331</field>
+<text_pt>
 
 Gosto por escândalos sexuais nas altas esferas e eficácia da chibata confirmam identidade entre ingleses e brasileiros
 DAVID DREW ZINGG
@@ -3074,9 +3074,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-170</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-170</field>
+<field name="date">940331</field>
+<text_pt>
 HÉLIO GOMES
 Da Redação
 Os primeiros passos de Jimi Hendrix finalmente alcançam o Brasil. A trilogia "Are You Experienced" (67), "Axis: Bold as Love" (67) e "Electric Ladyland" (68) chega ao país de forma torta e tardia, porém necessária.
@@ -3084,9 +3084,9 @@ A Polygram importou dos EUA uma edição "maquiada" dos discos, remasterizados e e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-171</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-171</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 Reza a lenda que um dos primeiros encontros entre Jimi Hendrix e os Beatles aconteceu nos estúdios londrinos da Polydor, no princípio de 1967. Hendrix gravava seu álbum de estréia, "Are You Experienced?", e os Beatles esboçavam os primeiros traços de "Sgt. Pepper's...".
 Esse suposto encontro teria sido um dos estopins do nascimento de algo único na história do rock, o psicodelismo. Naquele ano, ainda estourariam "Disraeli Gears", do Cream, e "Their Satanic Majesty Request", dos Rolling Stones. O estrago estava feito e o rock nunca mais seria o mesmo depois daquele ano.
@@ -3102,9 +3102,9 @@ Quanto: CR$ 10 mil (cada CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-172</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-172</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 Depois de liberar todos os sons que giravam em sua cabeça em "Are You Experienced", Hendrix forjou no mesmo ano de 1967 o álbum mais coeso de sua carreira, "Axis: Bold as Love". Um álbum com começo, meio e fim. "Boa noite senhoras e senhores, tenho ao meu lado um cavalheiro muito peculiar, que vai nos falar sobre OVNIs e até mesmo sobre seres espaciais", assim começa "EXP", primeira faixa do disco.
 Hendrix faz ali um convite explícito à fantasia e, sobretudo, chega ao auge da experimentação sonora. Obcecado como poucos pelo tema, o guitarrista assume logo depois a persona de um "alien" que caminha perplexo pelo planeta Terra, em "Up From the Skies". Resguardado por esse disfarce, Hendrix está livre para questionar todos os valores que eram, naquele momento, seu alvo preferido.
@@ -3114,9 +3114,9 @@ Lá está a clássica "Little Wing", canção capaz de traduzir todo o romantismo de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-173</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-173</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 Em 1968, a barra começava a pesar para Jimi Hendrix. A desordem imperava e o fim do Experience era algo claro e inevitável. O testamento daquela genial banda está registrado no álbum duplo &#150;agora editado em apenas um CD&#150; "Electric Ladyland".
 Hendrix gravou o disco em casa, ou melhor, em seu estúdio, batizado com o mesmo nome do álbum. A unidade original do disco, já confusa em sua primeira edição, se perde por completo nessa nova versão. Inexplicavelmente, as músicas tiveram sua ordem virada pelo avesso. O estranhamento é inevitável para aqueles que conhecem "Electric Ladyland" da fonte.
@@ -3125,9 +3125,9 @@ Um dos maiores trunfos de "Electric Ladyland" é a regravação de "All Along the W
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-174</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-174</field>
+<field name="date">940331</field>
+<text_pt>
 Documentário de Silvio Tendler, realizado em 1984, foge do personalismo e comemora volta da democracia
 Da Redação
 
@@ -3145,9 +3145,9 @@ Surpreendido pelo golpe de 64, Goulart acabou se recusando a liderar uma resistê
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-175</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-175</field>
+<field name="date">940331</field>
+<text_pt>
 Terzopoulos prende a tragédia de Ésquilo na camisa-de-força de uma única idéia, de um lamento interminável
 NELSON DE SÁ
 Da Reportagem Local
@@ -3173,9 +3173,9 @@ Sinopse: Na capital do império persa, a rainha e os anciãos esperam pelo exércit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-176</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-176</field>
+<field name="date">940331</field>
+<text_pt>
 Trabalhos feitos a partir dos anos 50 estão na mostra
 ANA MARIA GUARIGLIA
 Especial para a Folha
@@ -3193,9 +3193,9 @@ Quanto: Entrada franca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-177</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-177</field>
+<field name="date">940331</field>
+<text_pt>
 Garotas "maiko", aprendizes de gueixa, passeiam em Kyoto, que foi a capital imperial do Japão até 1868 e possui quase 1.600 templos
 THAÍS OYAMA
 Enviada especial a Kyoto
@@ -3211,9 +3211,9 @@ A jornalista THAÍS OYAMA viajou a convite do governo japonês.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-178</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-178</field>
+<field name="date">940331</field>
+<text_pt>
 Para quem está de passagem na cidade são indispensáveis visitas ao Jardim das Pedras e ao Palácio Imperial
 Da enviada especial
 Para um tour bem-sucedido por Kyoto, uma dica importante é calçar sapatos confortáveis e meias que não comprometam. A cidade é bastante íngreme e exige que se ande muito.
@@ -3226,9 +3226,9 @@ Para uma viagem quase completa pela culinária de Kyoto, tente o "kaiseki-ryori",
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-179</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-179</field>
+<field name="date">940331</field>
+<text_pt>
 Ruas estreitas, iluminadas por lanternas de papel e ladeadas por colinas, descortinam paisagens seculares
 Da enviada especial ao Japão
 Das flores de cerejeira &#150;abundantes em abril&#150;, ao dialeto mais sonoro &#150;chamado "Kyoto-ben"&#150;, Kyoto reúne o que de mais delicado existe no Japão. Os japoneses costumam dizer que quando uma nativa de Kyoto fala é como se fosse poesia.
@@ -3243,9 +3243,9 @@ O percurso de 16 quilômetros, por um leito de pedras e uma paisagem de montanhas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-180</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-180</field>
+<field name="date">940331</field>
+<text_pt>
 Da enviada especial
 Não, gueixas não são prostitutas. Gueixa (a palavra significa pessoa artística ou refinada) é uma mulher criada para dar prazer aos homens. Um prazer tão sofisticado e cheio de requinte que prescinde do sexo, pelo menos o pago. Gueixas reservam o sexo para os seus amantes &#150;oficiais ou não.
 Elas não passam de 17 mil hoje no Japão. Embora o sistema tenha sofrido modificações &#150;do século 17, quando surgiu, até hoje&#150; ainda preserva sua essência. Garotas entre 15 e 20 anos, normalmente filhas ou netas de gueixas, são encaminhadas para as "okyas" (escolas de gueixa), onde aprendem a cantar, dançar, tocar "shamisen" (instrumento de cordas), servir chá, fazer arranjos florais (ikebana) e, o principal, encantar os homens. Saber conversar e, mais importante, saber ouvir, é a maior arte da gueixa.
@@ -3256,9 +3256,9 @@ Quando encontra seu "danna", a gueixa se "casa" com ele em cerimônia fechada e n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-181</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-181</field>
+<field name="date">940331</field>
+<text_pt>
 GILSON SCHWARTZ
 Da Equipe de Articulistas
 Quatro em cada cinco administradores de empresas escolheram o Japão como modelo nos anos 80. Agora a economia japonesa entrou na maior recessão desde a crise do petróleo de 20 anos atrás. E há quem desconfie que os problemas devem continuar em 1994.
@@ -3270,9 +3270,9 @@ Quando o mundo ia mal, a economia do Japão era protegida e ia bem. Agora que a l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-182</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-182</field>
+<field name="date">940331</field>
+<text_pt>
 Irmandades religiosas desfilam em tapetes de flores portando cenas da Paixão de Cristo
 ROBERTO CATTANI
 Free-lance para a Folha
@@ -3290,9 +3290,9 @@ Para completar a visita ao país, a cidadezinha (situada a 2.000 m de altitude) p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-183</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-183</field>
+<field name="date">940331</field>
+<text_pt>
 Turismo traz quatro diferentes roteiros para pais e filhos se divertirem no feriado da Páscoa em São Paulo
 SIMONE GALIB
 Da Reportagem Local
@@ -3307,9 +3307,9 @@ Sobre os roteiros nas págs. 6-10, 6-11 e 6-13 e sobre a Páscoa no mundo na pág. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-184</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-184</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 O coelho está reinando nos shoppings de São Paulo desde a segunda quinzena deste mês. Fábricas de chocolate, brindes e pinturas são as estratégias para atrair a criançada nesta Páscoa.
 Center Norte: Um berçário com filhotes de coelhos de verdade é a novidade da praça principal do shopping. Há dezenas deles, de vários tamanhos e cores. O cercadinho dos animais é decorado com ovos coloridos e cenouras.
@@ -3322,9 +3322,9 @@ Tamboré: Até sábado há distribuição de bombons e atividades como pintura de giz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-185</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-185</field>
+<field name="date">940331</field>
+<text_pt>
 A data é guardada a sete chaves pela direção desta que é uma das maiores e mais rentáveis empresas aéreas do mundo
 PATRÍCIA TRUDES DA VEIGA
 Da Reportagem Local
@@ -3344,9 +3344,9 @@ Colaborou ANA ASTIZ, editora de Empregos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-186</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-186</field>
+<field name="date">940331</field>
+<text_pt>
 Roteiro na Ásia, de 24 dias, custa US$ 5.450 em 18 vezes
 Da Reportagem Local
 Stopover Holidays'94 (desconto de até 50% em mais de 250 hotéis em todo o mundo) e três excursões econômicas, que podem ser parceladas em até 18 vezes pelo cartão de crédito internacional &#150;Tailândia-Cingapura-Índia-Nepal-Europa; África do Sul-Austrália-Nova Zelândia e EUA e Ásia&#150; são as novidades da Singa Brasil, agora com representação em São Paulo, para os passageiros da Singapore Airlines.
@@ -3360,9 +3360,9 @@ RESERVAS - Na Singa Brasil (011-255-7173 e 021-252-1335) ou nas agências de viag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-187</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-187</field>
+<field name="date">940331</field>
+<text_pt>
 
 A Austrian Airlines amplia seus destinos no mundo. Liubliana, na Eslovênia, e Odessa, na Ucrânia, são as novas cidades servidas pela companhia aérea no Leste Europeu. Com esses novos vôos, sobem para 15 o número de frequências da empresa na região.
 
@@ -3370,9 +3370,9 @@ Lufthansa e United Airlines devem anunciar em maio a associação de seus vôos atr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-188</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-188</field>
+<field name="date">940331</field>
+<text_pt>
 MÔNICA RODRIGUES COSTA
 Editora da Folhinha
 A mais exuberante das peças em cartaz é "Chimbirins &amp; Chimbirons". O nome esquisito indica que a história é narrada em uma língua inventada, como que para desautomatizar a percepção do espectador. Quase que só há ação e cantos a capela (sem instrumentos), mas a história é inteligígel e prende a atenção. O cenário e o figurino envolvem o público em um ambiente atemporal e mítico.
@@ -3382,9 +3382,9 @@ A mais exuberante das peças em cartaz é "Chimbirins &amp; Chimbirons". O nome es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-189</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-189</field>
+<field name="date">940331</field>
+<text_pt>
 Centenas de bichos podem ser vistos nos diversos parques de São Paulo, que abrem normalmente no feriado
 Da Reportagem Local
 Aves, abelhas, leões, tigres, cobras e lagartos. Nem só de coelho vive a Páscoa. O mundo animal é programa quase obrigatório para aqueles que têm crianças. Na capital e cidades próximas, há muita bicharada para ser vista.
@@ -3402,9 +3402,9 @@ Instituto Butantan (av. Vital Brasil, 1.500, tel. 011-813-7222, Butantã): Existe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-190</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-190</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Alguns parques paulistanos já estão em clima de Páscoa, com sorteios de ovos e brindes. Outros mantêm a programação normal, mas esticam o horário de funcionamento para aproveitar o clima de feriadão. Confira os endereços e horários de diversão na cidade para maiores e menores de 18 anos:
 Parque da Mônica (shopping Eldorado, av. Rebouças, 3.970, tel. 011-816-7766): Aqui não importa se chove ou faz sol. O parque &#150;fechado, climatizado e com iluminação natural&#150; ocupa uma área de 10 mil metros quadrados, com cerca de 50 brinquedos destinados a crianças de dois a 13 anos, acompanhadas de seus pais. É diversão para o dia inteiro. Desde o último dia 25 promove sorteios de ovos, coelhos da Mônica e brindes. No domingo de Páscoa, aqueles que levarem qualquer embalagem de ovos da Bauducco, pagam meia entrada. Durante a semana, os adultos têm 50% de desconto e nos fins-de-semana, 20%. Ingressos: CR$ 9.900,00 (crianças), CR$ 4.950,00 (adultos durante a semana) e CR$ 7.900,00 (adultos nos fins-de-semana e feriados). Abre de quarta a domingo. Nesta quinta, sexta, sábado e domingo funciona das 10h às 21h. Outras informações adicionais pelo "Disque Parque da Mônica", tel. 200-2031.
@@ -3413,9 +3413,9 @@ The Waves: Na falta da praia, este parque implantado numa área de 57 mil metros 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-191</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-191</field>
+<field name="date">940331</field>
+<text_pt>
 Costume dos cristãos de distribuir ovos se origina na antiguidade pagã e comemora a chegada da primavera
 FEDERICO MENGOZZI
 Free-lance para a Folha
@@ -3428,9 +3428,9 @@ No Brasil, como em outros países católicos, a Páscoa é o último ato da Semana Sa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-192</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-192</field>
+<field name="date">940331</field>
+<text_pt>
 Da Redação
 Nazaré é uma cidade pitoresca da Galiléia, em Israel, localizada a meio caminho entre o Mediterrâneo e o mar da Galiléia. No tempo de Jesus, era uma vila onde Maria e José fizeram sua morada.
 Nazaré tem sido um centro de peregrinação cristã por centenas de anos. Durante a Semana Santa, chegam mais de 100 mil peregrinos. Entre estes, vários moradores dos antigos países comunistas, sedentos de uma religiosidade que lhes foi por décadas negada.
@@ -3442,9 +3442,9 @@ O bom ano que vive o turismo é creditado por Chaya Fischer, do Ministério do Tur
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-193</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-193</field>
+<field name="date">940331</field>
+<text_pt>
 Trama de Agatha Christie exibida em palcos londrinos há 42 anos é o espetáculo com carreira mais longa no mundo
 ANTONIO CARLOS SEIDL
 Enviado especial a Londres
@@ -3461,9 +3461,9 @@ O jornalista ANTONIO CARLOS SEIDL viajou a convite da British Airways e da Briti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-194</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-194</field>
+<field name="date">940331</field>
+<text_pt>
 Do enviado especial
 Em março de 1956, o produtor Peter Saunders vendeu os direitos de filmagem de "The Mousetrap" para a produtora Romulus Films, com a condição de que o filme não poderia ser exibido até seis meses depois do final da temporada do espetáculo no West End.
 Como a peça está em cartaz até hoje, o filme ainda não foi feito. Sir Peter já tentou duas vezes obter de volta os direitos, mas a Romulus prefere aguardar sua oportunidade de produzir ela mesma a versão da história para o cinema.
@@ -3471,9 +3471,9 @@ Em 12 de abril de 1958, a peça ultrapassou a comédia "Chu-Chin-Chow" como a prod
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-195</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-195</field>
+<field name="date">940331</field>
+<text_pt>
 Aumento na oferta de grãos favorece combate à inflação, mas causa prejuízos no campo
 ALOYSIO BIONDI
 Especial para a Folha
@@ -3488,9 +3488,9 @@ O Brasil está mudando, o Congresso está mudando, por mais que os pessimistas ten
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-196</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-196</field>
+<field name="date">940331</field>
+<text_pt>
 Com a falta de recursos, apenas os agricultores verdadeiros permanecem na atividade
 LUÍS NASSIF
 Colunista da Folha
@@ -3509,9 +3509,9 @@ Mas a modernização é inevitável também no campo. E quem não perceber a tempo, nã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-197</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-197</field>
+<field name="date">940331</field>
+<text_pt>
 O presidente Itamar nomeou nove ministros para a Agricultura; a maioria não fez nada
 BRUNO BLECHER
 Editor do Agrofolha
@@ -3526,9 +3526,9 @@ No algodão, o Brasil passou de exportador a importador, depois que o governo eli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-198</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-198</field>
+<field name="date">940331</field>
+<text_pt>
 CARLOS ALBERTO DE SOUZA
 Da Agência Folha, em Camaquã (RS)
 O produtor de arroz Paulo Fonseca, 44, manterá até o final de abril uma rotina iniciada no último dia 14: sai às 6h de sua casa, em Camaquã (RS), e só volta à noite. Ele passa o dia na colheita de suas três lavouras de arroz, que vão lhe dar quase 2.000 t do produto.
@@ -3542,9 +3542,9 @@ O bom desempenho das lavouras de Fonseca é devido às técnicas como cultivo mínim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-199</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-199</field>
+<field name="date">940331</field>
+<text_pt>
 Estimativa da Conab, de 31,6 milhões de t, pode estar superestimada
 Da agência Safras
 A comercialização do milho na safra 93/94 deverá ser muito semelhante à registrada no ano passado, que teve quadro de oferta e demanda ajustado, mas com preços em baixa no mercado internacional.
@@ -3561,9 +3561,9 @@ Até setembro, o mercado deverá operar na faixa de US$ 6,50/7 a saca, em média, n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-200</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-200</field>
+<field name="date">940331</field>
+<text_pt>
 JOSÉ MASCHIO
 Da Agência Folha, em Londrina
 Guilherme Kniebel, 45, diretor-técnico da fazenda Antares, em Londrina (379 km ao norte de Curitiba), gosta de ser chamado de "doutor esterco".
@@ -3575,9 +3575,9 @@ Em 1993, a fazenda Antares faturou US$ 348 mil. Este ano, Kniebel estima um aume
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-201</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-201</field>
+<field name="date">940331</field>
+<text_pt>
 Volta das chuvas recupera as lavouras; produção deve chegar a 4,9 milhões de toneladas
 FÁBIO GUIBU
 Da Agência Folha, em Recife
@@ -3593,9 +3593,9 @@ Nos demais Estados, a produtividade, que é a relação entre a quantidade de produ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-202</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-202</field>
+<field name="date">940331</field>
+<text_pt>
 No Mato Grosso, média chega a 3.000 quilos/ha
 SÉRGIO PRADO
 Da Reportagem Local
@@ -3607,9 +3607,9 @@ Usando o corredor de exportação da ferrovia de Carajás da Vale do Rio Doce, Bals
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-203</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-203</field>
+<field name="date">940331</field>
+<text_pt>
 Da Reportagem Local
 Novas opções de transporte com menor custo estão surgindo em todas as regiões do País. O corredor do Centroleste, formado por ramais da Rede Ferroviária Federal (RFFSA) e Vitória Minas, da Vale do Rio Doce, liga Brasília ao Porto de Tubarão em Vitória (ES).
 "Em 94, exportaremos 1,8 milhão de toneladas de soja", afirma Sandra Stehling, coordenadora do Centroleste. Em 93 passaram pelo local 800 mil t. O frete ferroviário entre Brasília e Vitória é de US$ 23 contra US$ 50 do rodoviário.
@@ -3620,9 +3620,9 @@ Surge ainda a hidrovia Tietê-Paraná, que unirá o Centro Oeste a Foz do Iguaçu (P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-204</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-204</field>
+<field name="date">940331</field>
+<text_pt>
 Para controlar consumo, juro deve ser alto na transição entre a URV e a nova moeda
 GABRIEL J. DE CARVALHO
 Da Redação
@@ -3641,9 +3641,9 @@ De qualquer forma, não é cenário para curto prazo. Por isso, a recomendação dos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940331-205</text_pt>
-<text_pt name="date">940331</text_pt>
-<text_pt name="text">
+<field name="id">FSP940331-205</field>
+<field name="date">940331</field>
+<text_pt>
 GUSTAVO PATÚ
 Da Sucursal de Brasília
 O plano econômico comprometeu os recursos para a comercialização da safra 93/94, já que o Orçamento da União ainda está sendo reformulado.

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940301-001</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-001</field>
+<field name="date">940301</field>
+<text_pt>
 A Folha publica hoje um guia que esclarece como ficam salários e contratos com a entrada em vigor da URV. Os salários deste mês já serão convertidos para o indexador. O mínimo de março foi fixado em 65,79 URVs, que corresponderão a CR$ 58.732,14 em abril. Simulações feitas com base em salário equivalente a seis mínimos mostram que haverá perdas para as categorias com data-base em março, julho e novembro. Ficam como estão contratos de aluguel, planos de saúde e mensalidades escolares. Guia da URV
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-002</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-002</field>
+<field name="date">940301</field>
+<text_pt>
 * Centrais articulam greves para protestar contra perdas salariais
 * Ministério convoca empresas para explicar reajustes de preços
 A equipe econômica apresentou ontem o Plano FHC. Foi publicada medida provisória que institui a URV (Unidade Real Valor), indexador que será base para a nova moeda, o real, sem data de implantação definida. Os principais partidos se dispõem a aprovar o plano, mas querem mudanças. O PMDB e os partidos de esquerda pretendem incluir ganhos para o salário mínimo e a reposição de perdas salariais. A inclusão de mecanismos de controle de preços para casos de abusos nos primeiros 15 dias do plano conta com apoio de quase todos os partidos. O governo vai convocar empresários responsáveis pelos produtos da cesta básica para explicar aumentos. Centrais sindicais preparam paralisações contra perdas salariais. O presidente da Fiesp, Carlos Eduardo Moreira Ferreira, disse que o plano deve ser apoiado porque "a inflação é o pior mal da sociedade". A MP instituiu multa para empresas que demitirem funcionários sem justa causa durante a vigência da URV. FHC informou ao PSDB que está disposto a deixar o cargo para preparar sua candidatura ao Planalto. 
@@ -19,9 +19,9 @@ Leia cobertura nos cadernos Plano FHC e Guia da URV.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-003</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-003</field>
+<field name="date">940301</field>
+<text_pt>
 O início da segunda etapa do Plano FHC ocorreu sem sustos. Sem tarifaços ou maxidesvalorizações cambiais, sem qualquer forma de congelamento de preços, sem ruptura imediata de contratos financeiros. Confirmou-se parcialmente a proposta inicial de esperar pela adesão voluntária dos agentes econômicos ao novo indexador -ainda que, ao mesmo tempo, o governo não abra mão de induzir essa adesão. Resta saber se o cálculo da URV terá a credibilidade necessária.
 O principal instrumento de adesão é a própria conversão salarial à URV, pela média dos últimos quatro meses. A indexação existente até hoje servia como nuvem de fumaça através da qual progredia a concentração de renda e sancionava-se a especulação. Agora, e à medida que mais preços sejam submetidos ao novo regime contratual, não será impossível produzir-se inflação em URV, mas será mais difícil ver aumentos de preços sancionados na nova moeda.
 O plano volta-se contra a corrida de todos contra todos, mecanismo perverso embutido no processo inflacionário. Nesse jogo, cada participante acredita poder jogar sobre os ombros dos outros os custos reais e imaginários de um sistema econômico desequilibrado. Cada agente vive na ilusão de nunca perder, ainda que ao longo do tempo a maioria acabe perdendo.
@@ -34,9 +34,9 @@ O Plano FHC combate a cultura inflacionária na economia brasileira. Mas para afa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-004</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-004</field>
+<field name="date">940301</field>
+<text_pt>
 A insensatez que ronda as ações humanas sugere, por vezes, a própria inviabilidade da espécie. E essa insensatez se manifesta da maneira mais perfeita e acabada nas guerras, sobretudo nas guerras fratricidas, como a que há quase dois anos devasta a Bósnia-Herzegóvina.
 Não há argumento racional para justificar que um povo que compartilha passado, língua, espaço e até a crença no mesmo Deus &#150;o princípio supremo das grandes religiões monoteístas&#150; faça a guerra apenas por rezar de formas diferentes.
 E esta guerra entrou ontem numa fase que deve trazer ainda mais inquietações e incertezas quanto ao futuro dos Bálcãs. De fato, a derrubada de jatos aparentemente pertencentes aos sérvios por aviões da Otan &#150;no que configura a primeira ação de combate de toda a história da organização, criada em 49&#150; lança uma série de novas incógnitas.
@@ -48,9 +48,9 @@ O fator Rússia é outro dos pontos obscuros no conflito bósnio, sobretudo se se c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-005</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-005</field>
+<field name="date">940301</field>
+<text_pt>
 Luiz Caversan
 RIO DE JANEIRO &#150; Aos trancos e barrancos, eis que mais uma vez o país tenta dar um passo em direção a um futuro mais feliz. O panorama é assustador: ameaça de greve, possibilidade de hiperinflação e descontrole de preços, perda salarial, nuvens negras para todos os lados.
 Exercendo o direito de não estar a favor ou contra ninguém, gostaria aqui de remar contra a maré e &#150;pasmem&#150; manifestar meu otimismo. Por que não? Se há um artigo em falta no mercado hoje &#150;todo tipo de mercado, diga-se&#150; é o otimismo. Por que não ousar ainda que ingenuamente esperar que as coisas desta vez se ajeitem?
@@ -61,9 +61,9 @@ Sonhar não custa nada ou quase nada. Os céticos e sérios &#150;os sérios são ext
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-006</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-006</field>
+<field name="date">940301</field>
+<text_pt>
 Clóvis Rossi
 BRASÍLIA &#150; A URV, irmã siamesa do real, nasce em uma peculiar encruzilhada: do ponto de vista econômico, as condições são quase ideais para o seu lançamento. Mas, sob o ângulo político, são, talvez, as piores possíveis.
 Da economia, já se tratou neste espaço, em análise feita pelo economista Ibrahim Eris, ex-presidente do Banco Central. Só para ajuda-memória: o plano começa com reservas na altura dos US$ 33 bilhões, ou 11 vezes mais do que havia tanto no Plano Cruzado como no Plano Collor. O país, hoje, está mais aberto e as importações já estão institucionalizadas, o que facilita usá-las como elemento de contenção dos preços. Por fim, o déficit público é menor, infinitamente menor, do que na época dos planos anteriores.
@@ -75,9 +75,9 @@ Como Deus, comprovadamente, ajudou muito um mero deputado (João Alves), nada imp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-007</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-007</field>
+<field name="date">940301</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Recebi cartas protestando contra a coluna que critica a impunidade entre os médicos &#150;afirmei que está muitíssimo abaixo do ideal a taxa de fiscalização. Algumas das cartas perguntam se, por acaso, os jornalistas estariam acima de suspeita.
 Para começo de conversa, jamais iria generalizar. E nem é o caso da coluna. Muitos médicos fazem críticas corajosas ao que chamam de mercantilismo e corporativismo. Por exemplo: Aloysio Campos da Paz, renomado internacionalmente, é chefe do Hospital Sarah Kubitschek, um dos modelos mundiais de eficiência em medicina pública.
@@ -89,9 +89,9 @@ PS &#150; Por falar em ousadia contra o corporativismo, o mundialmente premiado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-008</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-008</field>
+<field name="date">940301</field>
+<text_pt>
 José Serra
 O programa de estabilização em marcha representa a terceira grande chance para vencer a superinflação que infecciona a vida brasileira há 14 anos. A primeira chance foi a do Plano Cruzado, infelizmente perdida pela relativa frouxidão fiscal e monetária, pela escassez cambial e pela ausência das reformas estruturais indispensáveis para a estabilidade a médio e longo prazos. Uma coisa é derrubar a inflação, outra (como se aprendeu) é mantê-la embaixo até que, praticamente, desapareça.
 A segunda grande chance foi a do Plano Collor, jogada fora pela overdose, pelo triunfalismo e pela incompetência da gestão governamental.
@@ -106,9 +106,9 @@ José Serra escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-009</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-009</field>
+<field name="date">940301</field>
+<text_pt>
 "A Comissão Nacional de Diálogo Religioso Católico-Judaico, órgão da Conferência Nacional dos Bispos do Brasil (CNBB), repudia energicamente o bárbaro massacre perpetrado em Hebron contra inocentes palestinos que rezavam em sua mesquita. Aliamo-nos a todos os homens e mulheres de boa vontade &#150;cristãos, judeus e muçulmanos&#150; determinados a impedir que os atos de um fanático comprometam os esforços de paz entre dois povos. A tragédia ocorrida torna ainda mais urgente o diálogo substancial entre as partes e a aceleração das negociações visando a uma paz justa e duradoura."
 Leonardo Martin, coordenador da Representação Católica, e Henry I. Sobel, coordenador da Representação Judaica, da Comissão Nacional de Diálogo Religioso Católico-Judaico (São Paulo, SP)
 
@@ -142,9 +142,9 @@ Luiz Alberto F. B. Horta Barbosa, servidor do Conselho Nacional de Desenvolvemen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-010</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-010</field>
+<field name="date">940301</field>
+<text_pt>
 A moeda hermafrodita
 ROBERTO CAMPOS
 O Plano FHC apresenta várias falhas genéticas no tratamento da moléstia inflacionária:
@@ -169,9 +169,9 @@ ROBERTO CAMPOS, 75, economista e diplomata, é deputado federal pelo PPR do Rio d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-011</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-011</field>
+<field name="date">940301</field>
+<text_pt>
 ANTONIO KANDIR
 Em meio às incertezas que estamos vivendo com a introdução da URV, não é sem utilidade uma análise prospectiva sobre o estado da economia no futuro previsível. Divido essa análise em três momentos: 1) o estado da economia daqui até a emissão do real, a nova moeda; 2) o estado da economia nos meses seguintes; 3) a economia a longo prazo, com ênfase na possibilidade de o real ser confiável ao longo do tempo.
 Ninguém deve alimentar ilusões acerca do primeiro momento. À medida que afeta o sistema de indexação vigente, a introdução da URV tende a acentuar o conflito distributivo e a produzir alguma aceleração da inflação em cruzeiros reais. Como reação, o governo tenderá a lançar mão de taxas de juros ainda mais elevadas, para acomodar preços e salários em patamares os mais próximos possíveis à situação anterior à introdução da URV. Afora esses males, a introdução da URV gera problemas para o funcionamento das empresas e as operações domésticas, criando dúvida, incerteza, irritação.
@@ -193,9 +193,9 @@ ANTONIO KANDIR, 40, engenheiro, doutor em economia, foi secretário de Política E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-012</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-012</field>
+<field name="date">940301</field>
+<text_pt>
 Ele quer deixar cargo no fim do mês; Jereissati e Serra são cogitados
 GILBERTO DIMENSTEIN
 Diretor da Sucursal de Brasília
@@ -214,9 +214,9 @@ Sobre o plano econômico no caderno Plano FHC
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-013</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-013</field>
+<field name="date">940301</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Enviada especial a São José dos Campos
 O presidente da Federação Brasileira de Bancos (Febraban), Alcides Tápias, e o presidente do Bradesco, Lázaro Brandão, acreditam que o sucesso do plano econômico independe da permanência de Fernando Henrique Cardoso frente ao Ministério da Fazenda. "O importante é que o ministro delegue corretamente a condução do plano", observa Brandão.
@@ -226,9 +226,9 @@ O ministro chefe da Casa Civil, Henrique Hargreaves, representou o presidente It
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-014</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-014</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal do Rio
 O deputado federal Vivaldo Barbosa (PDT-RJ) afirmou ontem que o ministro da Fazenda, Fernando Henrique Cardoso, não tem condições de disputar as eleições presidenciais deste ano. "Quem pega uma inflação de 20% e deixa que ela atinja mais de 40% não tem condições de enfrentar uma campanha eleitoral."
 A lógica de Barbosa estaria na dificuldade de a inflação cair de imediato até o prazo de desincompatibilização (2 abril), quando FHC terá que sair do governo caso pretenda se candidatar. Se sair com a inflação em alta, a candidatura de FHC à Presidência não resistiria as críticas à sua passagem pelo governo.
@@ -238,9 +238,9 @@ O governador do Rio de Janeiro, Leonel Brizola (PDT), também criticou o ministro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-015</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-015</field>
+<field name="date">940301</field>
+<text_pt>
 TALES FARIA
 Da Sucursal de Brasília
 O PTB aderiu à proposta de aliança eleitoral entre o PFL e o PSDB. O senador e ex-ministro da Indústria e Comércio José Eduardo Andrade Vieira (PTB-PR), pré-candidato do partido à sucessão presidencial, declarou ontem sua disposiçção de abrir mão da candidatura em favor da aliança.
@@ -257,9 +257,9 @@ Maurílio já tem inclusive o nome para vice-presidente na chapa de Fernando henri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-016</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-016</field>
+<field name="date">940301</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O programa do PT em cadeia nacional, na próxima quinta-feira, apresentará Luiz Inácio Lula da Silva como o candidato à Presidência da República que mais conhece o país e seus problemas. Para isso, usará imagens das várias "caravanas" eleitorais já comandadas por Lula. Outro ponto priorizado é a denúncia sobre "armações" que, no entender do PT, podem ocorrer durante a campanha para prejudicar Lula.
@@ -272,9 +272,9 @@ O programa foi produzido pela TVT (TV dos Trabalhadores).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-017</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-017</field>
+<field name="date">940301</field>
+<text_pt>
 JANIO DE FREITAS
 O problema que se apresenta agora, afinal estando aí a Medida Provisória da URV &amp; cia., é mais de sentido político do que econômico. Trata-se das dimensões e dos efeitos, sobre o governo e sobre a desordenada situação política, das reações que se prenunciam.
 O governo não tem base política nem social para sentir-se tranquilo diante de reações que se mostrem mais fortes, com movimento grevista em setores econômicos importantes. Desgastado por uma revisão constitucional que se desmoraliza sozinha, o Congresso atravessa um momento de fragilidade intensa e extensa, que por si só lhe dificultaria a repetição dos excessos de subserviência demonstrados diante de outros planos com aspectos repelidos por setores sociais. Hoje, porém, esta fragilidade está circundada, ainda, pela proximidade das eleições, com toda a enorme influência que exercem sobre os comportamentos partidários.
@@ -283,9 +283,9 @@ Em todo caso, como disse Fernando Henrique ao fim da sua exposição eleitoreira d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-018</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-018</field>
+<field name="date">940301</field>
+<text_pt>
 O mais novo candidato à sucessão de Itamar Franco é o deputado Flávio Rocha (PL-RN). A Executiva do Partido Liberal decidiu ontem indicar Rocha para disputar a convenção da legenda no dia 10 de abril. O brigadeiro Ivan Frota, outro pré-candidato, contesta no TSE a prévia realizada ontem.
 
 Albano Franco será candidato em Sergipe
@@ -299,9 +299,9 @@ A Fundação Niwano para a Paz, do Japão, anunciou que vai conceder seu Prêmio da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-019</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-019</field>
+<field name="date">940301</field>
+<text_pt>
 KENNEDY ALENCAR
 Da Reportagem Local
 O deputado estadual Barros Munhoz e o secretário de Governo, Michel Temer, informaram ontem oficialmente ao PMDB que são pré-candidatos do partido a governador de São Paulo. O presidente do PMDB paulista, Roberto Rollemberg, informou que realizará um prévia entre os filiados do PMDB para a escolha do candidato. Temer deverá deixar o governo até o final desta semana.
@@ -317,17 +317,17 @@ O governador é grato a Temer também pela gestão na Secretaria de Segurança Públi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-020</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-020</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal do Rio
 O presidente do Clube Militar, general da reserva Nilton Cerqueira, 63, disse ontem no Rio que há uma "insatisfação muito grande" que pode ser o "combustível" para um crise institucional no país. "É uma situação de legítima defesa. Ou sobrevivemos com dignidade ou não teremos mais esperanças nos que estão aí." Cerqueira negou que tenha dito que o Brasil vive clima semelhante ao pré-64.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-021</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-021</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 O empresário Paulo César Farias ficará preso até o julgamento do processo por corrupção passiva que tramita no STF (Supremo Tribunal Federal). O ministro Ilmar Galvão, relator do processo, se antecipou a um eventual pedido de relaxamento e determinou ontem que PC Farias aguarde o julgamento sob "custódia".
 Galvão afirmou em seu despacho que a permanência de PC Farias na prisão não pode ser "traduzida como constrangimento ilegal". Para o ministro, o número de diligências e a complexidade do processo são motivos suficientes para não liberar PC.
@@ -340,9 +340,9 @@ O julgamento do processo deve ocorrer no final de abril ou início de maio. Depoi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-022</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-022</field>
+<field name="date">940301</field>
+<text_pt>
 Presidente poderia disputar eleições
 EDNA DANTAS
 Da Sucursal do Rio
@@ -356,9 +356,9 @@ Se forem mantidas as regras atuais, o presidente Itamar Franco pode disputar ele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-023</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-023</field>
+<field name="date">940301</field>
+<text_pt>
 Bilhetes pedindo liberação de verbas provocaram queda; marido da ministra é afastado da Noronha Engenharia
 Da Sucursal de Brasília
 A ministra dos Transportes, Margarida Coimbra, foi demitida no final da tarde de ontem pelo presidente Itamar Franco. A demissão foi confirmada pelo presidente da Telerj e ex-advogado geral da União, José de Castro. O marido de Margarida, Carlos Henrique Siqueira, pivô da queda, também foi afastado da Noronha Engenharia, da qual era diretor.
@@ -371,9 +371,9 @@ A Procuradoria da República estuda a possibilidade de entrar com uma ação civil 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-024</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-024</field>
+<field name="date">940301</field>
+<text_pt>
 Líderes partidários temem que votação da medida provisória da URV atropele os trabalhos do Parlamento
 EUMANO SILVA
 Da Sucursal de Brasília
@@ -389,9 +389,9 @@ A interferência da MP da URV na revisão preocupa o senador Garibaldi Alves Filho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-025</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-025</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 O Congresso revisor deve votar hoje um requerimento das lideranças governistas pedindo a promulgação antecipada do FSE (Fundo Social de Emergência). Caso o requerimento seja aprovado, o FSE poderá ser promulgado amanhã.
 A equipe econômica considera que o FSE é essencial para o êxito do programa de estabilização. Com o dinheiro do fundo, aproximadamente US$ 16 bilhões, o governo promete zerar o déficit público.
@@ -401,9 +401,9 @@ O governo teme que a Medida Provisória (MP) que cria a URV e determina o novo va
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-026</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-026</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro Marco Aurélio, do STF (Supremo Tribunal Federal), negou ontem o pedido de reconsideração da liminar que concedeu ao deputado José Geraldo (PMDB-MG), ampliando seu prazo de defesa. O pedido de reconsideração foi feito pelo presidente da Câmara, Inocêncio Oliveira.
 Marco Aurélio enviou o processo para a Procuradoria Geral da República, que vai emitir parecer. O ministro pediu urgência para o parecer. Depois da manifestação da Procuradoria, o processo será levado a julgamento.
@@ -412,9 +412,9 @@ O advogado do deputado João Alves (sem partido-BA), Antonio Carlos Osório, pediu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-027</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-027</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O governador do Ceará, Ciro Gomes (PSDB), disse ontem que uma eventual aliança entre o seu partido e o PFL "deve ser pensada". A proposta foi defendida pelo governador da Bahia, Antônio Carlos Magalhães (PFL), em entrevista publicada ontem pela Folha.
 Ciro afirmou que "a direita conservadora provavelmente" vai se articular em uma coligação no primeiro turno da eleição, porque "está assustada".
@@ -425,17 +425,17 @@ Ciro esteve em São Paulo para dar uma palestra na Fiesp (Federação das Indústria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-028</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-028</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 A deputada Raquel Cândido (PTB-RO) fugiu ontem do Hospital Santa Luzia, onde está internada desde janeiro, e colocou em pânico a Presidência e a Diretoria-Geral da Câmara. No meio da tarde, Raquel Cândido teria ameaçado de morte o presidente, Inocêncio Oliveira (PFL-PE), e o diretor-geral, Adelmar Sabino. Ela estava inconformada porque Sabino havia cortado a ajuda de custo para as despesas hospitalares. A Folha não conseguiu localizar a deputada no hospital nem em casa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-029</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-029</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O senador Mário Covas, virtual candidato do PSDB ao governo do Estado, escolheu o PMDB como alvo ao apresentar as diretrizes de seu programa de governo a cerca de 400 'tucanos' ontem em São Paulo. Ele disse que as administrações de Luiz Antonio Fleury Filho e Orestes Quércia foram "governos fracos, confusos e opacos".
 Covas prometeu reverter o que entende ser um processo de perda de importância política de São Paulo. As diretrizes apresentadas pelo senador, que nortearão a elaboração do programa de governo, são "revolução moral das práticas de governo, revolução administrativa e revolução na produtividade dos recursos públicos". O programa de governo deverá estar pronto até 1º de maio, data da convenção estadual.
@@ -446,9 +446,9 @@ Colaborou o Painel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-030</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-030</field>
+<field name="date">940301</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 "Não tenho visto nenhuma reação negativa." A frase do ministro da Fazenda abriu uma das suas incontáveis entrevistas ao vivo, ontem à noite, nos principais telejornais. Se ele ficou assistindo televisão, não tinha como ver mesmo. A televisão foi toda elogios, desde o início da tarde, para Fernando Henrique Cardoso e seu plano que diz não arrochar salários.
@@ -461,9 +461,9 @@ Tudo bem que as críticas pareciam ainda mais interessadas do que os próprios elo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-031</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-031</field>
+<field name="date">940301</field>
+<text_pt>
 Governador diz, no STJ, que não teve 'qualquer participação' na compra de equipamentos para a polícia
 FREDERICO VASCONCELOS
 Enviado especial a Brasília
@@ -482,18 +482,18 @@ Fleury, segundo um dos assessores, estava nervoso ao chegar ao STJ. Posteriormen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-032</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-032</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 As empresas Votorantim, Noberto Odebrecht e Andrade Gutierrez entraram ontem com recurso no TRF (Tribunal Regional Federal) pedindo a cassação do despacho do juiz Novély Vilanova, da 7ª Vara Federal. O juiz proibiu as empresas de participar de licitações públicas, receber benefícios fiscais e contratar genericamente com o governo.
 As três empresas apresentaram mandado de segurança que foi distribuído ao juiz Mauro Leite Soares, da 2ª Seção. O juiz deve decidir hoje se cassa a decisão de Vilanova ou não. Para as empresas, a decisão de Vilanova pode causar irreparáveis danos financeiros.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-033</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-033</field>
+<field name="date">940301</field>
+<text_pt>
 Caso repete características da mulher autopsiada por médicos com roupa de astronauta na semana passada
 Das agências internacionais
 Foi registrado na Califórnia (EUA) o segundo caso de um corpo que emite gases tóxicos em menos de três dias. Domingo, médicos e enfermeiros que atendiam uma mulher internada na sala de urgência do hospital de Bakersfield (a cerca de 100 km de Los Angeles) aparentemente sentiram náusea por sentir as emanações da paciente.
@@ -508,9 +508,9 @@ Os médicos aventaram a hipótese de ela ter ingerido alguma substância tóxica que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-034</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-034</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 Dois astronautas norte-americanos se preparavam ontem para um treinamento de cerca de um ano, como parte do projeto do plano espacial conjunto com a Rússia. Os astronautas chegaram quinta-feira a Zvezdni Gorodok, nordeste de Moscou, onde ficam instalações para treinamento de cosmonautas &#150;que eram secretas.
 "Estamos em uma nova era. Não há mais Guerra Fria", disse o astronauta Norman Thagard. "Sabemos que as coisas no espaço custam muito, e que algumas delas ficam melhores se feitas em conjunto. Estamos cientes de que é mais uma fase de melhora no nosso relacionamento", completou.
@@ -521,9 +521,9 @@ Cientistas da Universidade da Califórnia, em San Francisco, acharam uma primeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-035</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-035</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O Japão está preparando dois novos tipos de foguetes espaciais destinados a colocar satélites em órbita. Eles se somariam ao modelo H2, o primeiro foguete comercial totalmente japonês, que foi lançado com sucesso no início de fevereiro.
 De acordo com um documento das duas agências espaciais do Japão &#150;a Agência Nacional para o Desenvolvimento do Espaço (Nasda) e o Instituto para as Ciências do Espaço e da Astronáutica&#150; os dois novos modelos utilizarão combustível sólido e vão ser chamados J1 e MV.
@@ -532,9 +532,9 @@ O foguete J1 seria um modelo menor. Está previsto que ele possa transportar uma 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-036</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-036</field>
+<field name="date">940301</field>
+<text_pt>
 A estação orbital russa Mir, lançada no dia 21 de fevereiro de 1986, completou oito anos em órbita terrestre. Durante esse período, ela recebeu 14 tripulações russas e 15 internacionais. Autoridades russas admitem que a idade da estação já se faz sentir. Ocorreram, durante esse período, 661 "problemas técnicos".
 A agência de notícias russa Itar-Tass informou que uma versão mais moderna da Mir, Mir-2, fará parte do núcleo da programada estacão orbital internacional, a Alpha.
 
@@ -543,9 +543,9 @@ O governo canadense anunciou que não pretende fazer parte do projeto internacion
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-037</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-037</field>
+<field name="date">940301</field>
+<text_pt>
 Incertezas sobre o plano econômico e especulações valorizaram o dólar paralelo em 43,05%
 RODNEY VERGILI
 Da Redação
@@ -562,9 +562,9 @@ As tradicionais cadernetas de poupança renderam 40,56% em fevereiro, o que signi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-038</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-038</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília e da Folha Sudeste
 A Receita Federal começou ontem uma devassa fiscal dos 400 maiores contribuintes pessoa física do Brasil. O coordenador de fiscalização da Receita, Luis Henrique Barros de Arruda, disse que os fiscais vão até as casas desses contribuintes para realizar uma fiscalização completa.
 "Queremos saber se os empregados dessas pessoas têm carteira assinada. Os fiscais estão instruídos para colher informações sobre os gastos dessas pessoas com restaurantes e outras despesas", disse Luis Henrique Barros de Arruda.
@@ -578,9 +578,9 @@ Ao todo, são seis empresas de Campinas, duas de Sumaré, uma de Jundiaí, uma de V
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-039</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-039</field>
+<field name="date">940301</field>
+<text_pt>
 RUY MARTINS ALTENFELDER SILVA
 A Constituição da República Federativa do Brasil, de 5 de outubro de 1988, no "caput" do artigo 5º, acolheu o princípio da isonomia, segundo o qual "todos são iguais perante a lei, sem distinção de qualquer natureza...".
 No campo do direito tributário, principalmente o princípio da isonomia vem sendo maculado, por atos das autoridades fazendárias, baseadas em medidas legislativas inconstitucionais.
@@ -598,9 +598,9 @@ RUY MARTINS ALTENFELDER SILVA, 53, advogado e empresário, é diretor-geral do Ins
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-040</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-040</field>
+<field name="date">940301</field>
+<text_pt>
 JOSÉ VALDIR RIBEIRO DOS REIS
 Repetir uma mentira até que se torne verdade é uma prática que tem se intensificado no Brasil. As versões, cada vez mais, vão ocupando o espaço que deveria ser dos fatos, como, aliás, já prognosticava o mineiro Gustavo Capanema em uma de suas mais célebres piadas &#150;"o que vale é a versão, não o fato"&#150; que acabou entrando para o nosso anedotário como sendo de autoria do também mineiro José Maria Alkimin.
 Mas vamos ao fato. No Brasil, assim como nos principais países capitalistas do mundo, os fundos de pensão desempenham um papel de extrema importância social: ao mesmo tempo que garantem aposentadorias dignas para os trabalhadores, investem os recursos poupados por seus participantes em atividades produtivas, geradoras de empregos e impostos. No entanto, o que tem prevalecido nos meios de comunicação é a versão que os apresenta como mais uma mordomia concedida aos funcionários das empresas estatais.
@@ -618,9 +618,9 @@ JOSÉ VALDIR RIBEIRO DOS REIS, 49, economista, é presidente da Previ (fundo de pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-041</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-041</field>
+<field name="date">940301</field>
+<text_pt>
 LUÍS NASSIF
 Da leitura da medida provisória 433 é possível se tirar as seguintes conclusões preliminares:
 Negociação de contratos &#150; A lógica da conversão de contratos pela URV permite estabelecer os seguintes princípios:
@@ -639,9 +639,9 @@ A medida visa, basicamente, impedir que o mercado financeiro obtenha lucros extr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-042</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-042</field>
+<field name="date">940301</field>
+<text_pt>
 Dólar no paralelo volta a registrar ágio; governo coloca NTNs cambiais de 12 meses com juros de 24,1% ao ano
 Da Redação
 As Bolsas de Valores reagiram bem ao anúncio da criação da URV. O índice da Bolsa paulista valorizou-se 4,5% e o da carioca 4,3%. O volume de negócios na Bovespa de US$ 337,82 milhões foi menor do que o da sexta-feira (US$ 395,52 milhões). O montante diário negociado é superior, no entanto, com os US$ 156,7 milhões de todo o ano passado.
@@ -684,9 +684,9 @@ No mercado futuro de dólar, a expectativa de desvalorização cambial para março f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-043</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-043</field>
+<field name="date">940301</field>
+<text_pt>
 Corte de vagas nas três primeiras semanas de fevereiro eleva para 19.818 o número de desempregados no ano
 Da Reportagem Local
 O nível de emprego industrial no Estado de São Paulo registrou uma queda de 0,12% na terceira semana de fevereiro em relação à semana anterior, mantendo a tendência de declínio iniciada há quatro meses.
@@ -700,9 +700,9 @@ Entre os setores de maior desempenho negativo estão malharia e meias (-1,93%), c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-044</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-044</field>
+<field name="date">940301</field>
+<text_pt>
 FRANCISCO SANTOS
 Da Sucursal do Rio
 A pesquisa mensal de emprego e de salário na indústria feita pelo IBGE constatou que, apesar de um crescimento de 9,6% registrado na produção industrial em 1993, o nível de emprego nas fábricas registrou uma queda de 1,7%. Mesmo assim, ao comentar os resultados da pesquisa, os técnicos comemoraram o número como a menor redução do emprego industrial nos anos 90. A produtividade cresceu 17,3%.
@@ -713,9 +713,9 @@ De acordo com o IBGE, o crescimento da produtividade, considerado recorde, expli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-045</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-045</field>
+<field name="date">940301</field>
+<text_pt>
 Da Folha Vale
 A fábrica de cobertores Tecelagem Parahyba, em São José dos Campos, volta a funcionar hoje, depois de três meses parada. A empresa será reativada por uma associação de funcionários, que assumiu uma dívida trabalhista de US$ 6 milhões da tecelagem.
 A fábrica pertence à família do senador Severo Gomes, morto em acidente em 92. Foi a maior fabricante de cobertores do país até o final da década de 80.
@@ -724,9 +724,9 @@ O advogado da família Gomes, proprietária da tecelagem Parahyba, Diogo Bastos Ne
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-046</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-046</field>
+<field name="date">940301</field>
+<text_pt>
 Da Folha Vale
 O vice-presidente da General Motors, André Beer, disse ontem, durante o lançamento do Corsa, que a produção do carro fez com que a empresa deixasse de demitir 2.100 empregados da fábrica de São José dos Campos (97 km a Nordeste de São Paulo). Segundo ele, esses funcionários eram ligados à produção do Chevette, que foi desativada. Beer disse que a GM está recuperando sua posição no mercado graças aos incentivos do governo à fabricação do carro popular.
 Segundo o vice-presidente, no ano passado a GM ficou em 10.º lugar em vendas no mercado. "Na década de 80 a empresa tinha caído do 8.º para o 12.º lugar no mercado", disse. De acordo com Beer, o Corsa e o sucesso do novo plano econômico do governo podem melhorar ainda mais a posição da empresa.
@@ -736,9 +736,9 @@ O lançamento oficial do Corsa motor 1.0 foi feito no último dia 18, na Espanha. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-047</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-047</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local e da Folha Sudeste
 Os preços dos carros da Volkswagen e da Ford estão 38% mais caros a partir de hoje. O índice vale para todos os modelos das duas montadoras, menos para os carros "populares", que terão o novo preço definido hoje. Embora tenha comunicado o reajuste às concessionárias, a Autolatina não enviou a nova tabela para as lojas.
 Segundo a assessoria da Volkswagen, a nova tabela não foi distribuída porque deverá sofrer alterações nos próximos dias, com a provável utilização da URV para a fixação dos novos preços dos carros. De acordo com Nicolau Kohn, diretor de comercialização da Assobrav (Associação Brasileira dos Distribuidores Volkswagen), "o preço em URV tem que ser um preço médio. É preciso saber os critérios que serão usados para definir esse valor".
@@ -749,9 +749,9 @@ O juiz Theophilo Carlos Vessoni de Siqueira, da 3.ª Vara Cível de Rio Claro, dec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-048</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-048</field>
+<field name="date">940301</field>
+<text_pt>
 A American Port Co., subsidiária da Drummond Ltd., fechou contrato de US$ 21 milhões com a Construtora Norberto Odebrecht para a construção de um porto em Santa Marta, na Colômbia. Em abril, a CNO inicia a recuperação de 230 km da ferrovia que levará o carvão explorado pela Drummond ao novo porto.
 
 SP arrecada US$ 108 milhões com multas
@@ -762,30 +762,30 @@ O Sindicato dos Eletricitários de Campinas começou a distribuir 1.500 formulário
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-049</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-049</field>
+<field name="date">940301</field>
+<text_pt>
 O presidente sul-africano, Frederik de Klerk, abriu ontem aquela que deve ser a última sessão do Parlamento dominado pela minoria branca. Serão votadas emendas, entre elas as que darão virtual autonomia a nove Províncias &#150;exigência de brancos extremistas e zulus. Os conservadores ainda exigem adiamento das eleições multirraciais de 26 a 28 de abril.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-050</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-050</field>
+<field name="date">940301</field>
+<text_pt>
 Cerca de 50 mil trabalhadores alemães da área de transportes públicos fizeram greves de advertência ontem. Eles protestavam contra a proposta de congelamento de salários e corte de benefícios feita pelo governo. O maior sindicato de servidores públicos do país, o ÕTV, disse que nos próximos dois dias serão atingidas a coleta de lixo a a administração.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-051</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-051</field>
+<field name="date">940301</field>
+<text_pt>
 James Molyneux, líder do principal partido protestante da Irlanda do Norte, o Partido Unionista do Ulster, descartou ontem participar de negociações multipartidárias propostas pelo plano de paz dos primeiros-ministros britânico, John Major, e irlandês, Albert Reynolds. O partido é favorável à manutenção do domínio do Reino Unido sobre a Irlanda do Norte.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-052</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-052</field>
+<field name="date">940301</field>
+<text_pt>
 F-16 dos EUA derrubam quatro Galebs sobre a Bósnia; sérvios bombardeiam duas cidades
 Das agências internacionais
 Caças F-16 da Otan derrubaram ontem quatro aviões militares que acabavam de bombardear posições muçulmanas no noroeste da Bósnia-Herzegóvina. Todos os indícios são de que os aviões derrubados pertenciam aos rebeldes sérvios que combatem a independência da Bósnia &#150;ou à Iugoslávia (Sérvia e Montenegro), que os apóia. A aliança militar ocidental advertiu que qualquer represália contra as forças da ONU na Bósnia será respondida com a força.
@@ -797,9 +797,9 @@ A ONU informou que no domingo os sérvios movimentaram seis ou sete tanques dentr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-053</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-053</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 Centenas de moradores de Sarajevo contentraram-se ontem dos dois lados de uma ponte que separa o bairro de Grbavica, controlado pelos rebeldes sérvios, do resto da cidade. Eles viram frustrada a expectativa de reabertura da ponte à passagem de civis, interrompida desde o início da guerra civil, em abril de 1992.
 "Eu não os vejo há dois anos", disse Mubera Zelkovic sobre seu marido e sua filha, que vivem do outro lado. A população esperava a reabertura da passagem depois que tropas francesas da ONU assumiram o controle da ponte, logo depois do cessar-fogo que se seguiu ao ultimato da Otan aos sérvios.
@@ -809,9 +809,9 @@ A adolescente Dina, que tem pai sérvio e mãe muçulmana e trabalha para as forças
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-054</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-054</field>
+<field name="date">940301</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 A conferência entre bósnios e croatas patrocinada pelos Estados Unidos prosseguiu ontem em Washington sem resultados concretos mas em ambiente classificado em geral como positivo. Representantes das três partes convidadas (o governo muçulmano da Bósnia-Herzegóvina, o governo da Croácia e o líder dos croatas que vivem na Bósnia) concordavam ontem com a possibilidade de um acordo entre si.
@@ -820,9 +820,9 @@ Mas o principal problema virá depois que isso for obtido: convencer os sérvios, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-055</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-055</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 A Rússia expulsou ontem um diplomata norte-americano em represália à expulsão de um russo dos Estados Unidos. A agência russa "Interfax" disse que o norte-americano é James Morris, conselheiro da embaixada dos Estados Unidos. Segundo a agência, ele seria o representante em Moscou da CIA (Agência Central de Inteligência dos EUA). A embaixada não comentou o caso.
 A atitude russa é uma represália à expulsão de Aleksandr Lisenko, conselheiro da embaixada da Rússia em Washington. A expulsão de Lisenko foi a primeira consequência da descoberta das atividades de Aldrich Ames, funcionário da CIA que espionava para os russos.
@@ -831,9 +831,9 @@ Mas a agência "Itar-Tass" disse que a demissão pode estar ligada a libertação de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-056</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-056</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O líder ultranacionalista Vladimir Jirinovski entrou com recurso contra a decisão da corte que anulou sua eleição para a Câmara (Duma) da Rússia.
 A decisão, anunciada na sexta-feira, é resultado de um processo movido por outro candidato, o independente Oleg Novikov, que concorria pelo mesmo distrito de Jirinovski e não foi eleito. Novikov alegou "várias violações" na eleição realizada em dezembro para justificar a anulação.
@@ -842,9 +842,9 @@ Jirinovski condenou ontem o ataque da Otan contra quatro aviões sérvios na Bósni
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-057</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-057</field>
+<field name="date">940301</field>
+<text_pt>
 Lorena Bobbitt deixa clínica nos EUA
 A manicure equatoriana Lorena Bobbitt recebeu permissão ontem para deixar o hospital psiquiátrico de Manassas (Costa Leste) após fazer um teste. Ela cortou o pênis de seu marido, John Wayne Bobbitt, e foi absolvida por insanidade temporária em janeiro. O juiz de Manassas determinou que Lorena deverá continuar fazendo psicoterapia.
 
@@ -859,18 +859,18 @@ Sam Green, amiga da atriz, entregou a um museu de Connecticut (Costa Leste dos E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-058</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-058</field>
+<field name="date">940301</field>
+<text_pt>
 O ministro da Economia da Argentina, Domingo Cavallo, rompeu um silêncio de dias para negar categoricamente que tenha a intenção de renunciar.
 Em entrevista que ocupou as três primeiras páginas do jornal "La Prensa", Cavallo atribuiu os rumores sobre sua renúncia a interesses particulares, como os das montadoras contrárias à abertura às importações de veículos, e até a pessoas que participam do Congresso e do governo, sem especificar quais.
 "É falso. Nunca ameacei renunciar. Jamais renunciaria em circunstâncias que colocariam em risco o plano econômico", disse Cavallo. Os boatos sobre a renúncia do ministro provocaram drásticas quedas na Bolsa de Valores de Buenos Aires na semana passada.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-059</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-059</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 As primeiras negociações bilaterais sobre política e economia entre os governos dos EUA e do Vietnã em 21 anos começaram ontem em Hanói, a capital vietnamita. O objetivo é acertar dívidas de cerca de US$ 520 milhões em propriedades e contas correntes norte-americanas no país, pendentes desde o final da Guerra do Vietnã, em 1975.
 Será discutida também a troca de escritórios de representação, primeiro passo rumo ao estabelecimento de relações diplomáticas formais. O chefe da delegação vietnamita, Nguyen Xuan Phong, disse não saber quando os primeiros serão instalados.
@@ -878,9 +878,9 @@ As negociações, que devem durar dois dias, só acontecem porque, em 3 de fevereir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-060</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-060</field>
+<field name="date">940301</field>
+<text_pt>
 Presidente Rafael Caldera suspende artigo da Constituição que garante os direitos econômicos do cidadão
 Das agências internacionais
 O presidente da Venezuela, Rafael Caldera, suspendeu o artigo 96 da Constituição que garante os direitos econômicos do cidadão. Isto significa que o Estado pode intervir em qualquer setor econômico e financeiro, impondo, por exemplo, controles de preços e normas ao mercado.
@@ -894,9 +894,9 @@ Ontem, o governo ampliou o controle dos preços sobre medicamentos por 90 dias e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-061</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-061</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O presidente venezuelano, Rafael Caldera, escolheu o quinto aniversário do "caracazo" para decretar, no final de semana passado, medidas de emergência econômica. Para os analistas, é um claro sinal de que a síndrome da explosão social que deixou pelo menos 300 mortos continua viva no país.
 O "caracazo" foi um protesto contra o programa de austeridade aplicado pelo então presidente Carlos Andrés Pérez, que aumentou os preços dos produtos básicos e do transporte, enquanto praticava o arrocho salarial.
@@ -904,9 +904,9 @@ Em 1992, houve novos protestos contra o programa econômico. Com as medidas do fi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-062</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-062</field>
+<field name="date">940301</field>
+<text_pt>
 Diplomata de Israel admite presença estrangeira nos territórios, mas premiê se recusa a desarmar colonos
 Das agências internacionais
 A Organização para a Libertação da Palestina disse que não vai retomar as negociações com os israelenses enquanto os colonos judeus mantiverem "armas apontadas para a cabeça dos palestinos". Israelenses e norte-americanos rejeitaram as condições palestinas.
@@ -915,9 +915,9 @@ Israel anunciou ontem a libertação de 800 presos palestinos e o desarmamento de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-063</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-063</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O presidente da Organização para a Libertação da Palestina, Iasser Arafat, disse em Argel que o Exército de Israel é cúmplice do assassinato de 43 palestinos na mesquita de Ibrahim, em Hebron (Cisjordânia ocupada).
 Ontem, mais dois palestinos morreram em confronto com soldados. Já são 21 os palestinos mortos em combates com soldados de Israel desde a sexta-feira. Israel ampliou o toque de recolher nos territórios ocupados, elevando para 2 milhões o número de palestinos confinados em suas casas.
@@ -927,9 +927,9 @@ Ontem, os delegados jordanianos, libaneses e sírios às negociações com Israel de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-064</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-064</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O Líbano declarou feriado nacional e dia de luto ontem em respeito às vítimas das bombas que explodiram no altar de uma igreja cristã a 19 km de Beirute, durante a missa de domingo.
 O presidente Elias Hrawi e outros membros cristãos e muçulmanos do governo compareceram à cerimônia que precedeu o enterro das dez vítimas, celebrada na igreja maronita de Nossa Senhora da Salvação, onde as bombas explodiram, deixando outros 60 feridos.
@@ -937,9 +937,9 @@ Segundo fontes do governo, alguns suspeitos foram presos e interrogados. Cristão
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-065</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-065</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 Oito militantes fundamentalistas islâmicos e dois policiais morreram na noite de anteontem em Edfu, 600 km ao sul do Cairo (Egito). O tiroteio, o pior enfrentamento entre terroristas e policias este ano, aconteceu quando os oito homens invadiram um quartel da polícia na cidade.
 Segundo as autoridades egípcias, os fundamentalistas pertenciam ao grupo islâmico radical Gama al Islamiya. O Ministério do Interior afirmou que dois dos fundamentalistas mortos eram líderes do terrorismo local e já teriam sido indiciados por vários crimes.
@@ -947,9 +947,9 @@ Na Universidade do Cairo, estudantes e professores protestaram pelo terceiro dia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-066</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-066</field>
+<field name="date">940301</field>
+<text_pt>
 Documento do Ministério da Saúde acaba com obrigatoriedade do certificado de qualidade
 CLÁUDIA TREVISAN
 Da Reportagem Local
@@ -967,9 +967,9 @@ Colaborou AURELIANO BIANCARELLI.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-067</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-067</field>
+<field name="date">940301</field>
+<text_pt>
 AURELIANO BIANCARELLI
 Da Reportagem Local
 Vira-Lata acabara de ser contratado como jardineiro quando conheceu a empregada Madalena, uma mulata cheia de predicados. Aconteceu nos fundos da lavanderia. Quando os dois se abraçavam, já sem roupa, Vira-Lata sacou do bolso uma camisinha.
@@ -985,9 +985,9 @@ Ao mesmo tempo, a dupla está criando outro gibi para operários e um terceiro par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-068</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-068</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O Ministério da Saúde acredita que por trás da discussão sobre a qualidade das camisinhas esteja o preço desse produto no Brasil e o interesse dos fabricantes nacionais. Álvaro Machado, presidente da Fundação Nacional de Saúde, disse que as camisinhas coreanas importadas através da Organização Mundial de Saúde (OMS) custaram 20 vezes menos que as nacionais. "É natural que recebêssemos críticas", disse. As camisinhas nacionais sofrem cerca de 45% de impostos e são obrigadas a utilizar dois terços de látex brasileiro, um dos mais caros do mundo.
 Wildney Peres Contrera, vice-presidente do Gapa paulista (Grupo de Apoio à Prevenção à Aids) disse que os programas preventivos "não podem ser interrompidos em nome de interesses particulares ou de outro órgão".
@@ -996,9 +996,9 @@ O Gapa distribuiu em São Paulo 20 mil camisinhas das 6 milhões importadas até ag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-069</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-069</field>
+<field name="date">940301</field>
+<text_pt>
 Meio Ambiente de SP aprova Faria Lima
 O secretário municipal do Verde e do Meio Ambiente de São Paulo, Werner Zulauf (foto), 57, disse que deverá aprovar até o final da semana o Rima (relatório de impacto ambiental) das obras de extensão da avenida Faria Lima. Com isso, a prefeitura poderá começar a desapropriação inicial de 105 casas no bairro de Pinheiros. Os moradores aguardam decisão do Ministério Público para evitar a obra.
 
@@ -1021,9 +1021,9 @@ Cr$ 382,74 milhões
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-070</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-070</field>
+<field name="date">940301</field>
+<text_pt>
 Funcionários e usuários do Hospital São José, em São Vicente, criaram o Movimento SOS Hospital. O objetivo é coletar dinheiro para a manutenção do único hospital que atende previdenciários na cidade, e que está sob intervenção da prefeitura desde janeiro de 93.
 
 SP Litoral 2
@@ -1043,9 +1043,9 @@ Quatro pessoas morreram afogadas neste fim-de-semana na região metropolitana de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-071</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-071</field>
+<field name="date">940301</field>
+<text_pt>
 A tarifa dos ônibus urbanos de Fortaleza passou de CR$ 180,00 para CR$ 250,00. O reajuste, de 38,89%, entrou em vigor hoje. As tarifas de ônibus intermunicipais e da região metropolitana também estão mais caras desde hoje. O reajuste foi de 39,97%.
 
 Ceará 2
@@ -1071,9 +1071,9 @@ O governo e o Banco Mundial assinaram um convênio no valor de US$ 20 milhões par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-072</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-072</field>
+<field name="date">940301</field>
+<text_pt>
 Técnicos do Jardim Botânico de Brasília e da Naturatins vão iniciar esta semana uma estudo para a elaboração do Plano de Manejo da reserva ecológica de Palmas, em Palmas. Segundo a Naturatins, a reserva tem hoje ocupações e loteamentos clandestinos.
 
 Tocantins 2
@@ -1099,9 +1099,9 @@ O empresário Édson Martins Cardoso vai pedir garantias ao Ministério da Justiça 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-073</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-073</field>
+<field name="date">940301</field>
+<text_pt>
 O governo estadual cedeu por 20 anos o Cais Flutuante do rio Cuiabá à prefeitura para ser utilizado na implantação do projeto de recuperação urbana. O Cais, construído em 68, foi pouco utilizado, devido aos baixos níveis apresentados pelo rio e ao assoreamento.
 
 Mato Grosso do Sul
@@ -1115,9 +1115,9 @@ Até o final de março deverão desembarcar em Goiás os primeiros exemplares de bov
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-074</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-074</field>
+<field name="date">940301</field>
+<text_pt>
 Da Folha ABCD
 Mais de 60 entidades nacionais e internacionais participam, na segunda-feira, do lançamento da campanha "Billings, Eu Te Quero Viva". A campanha, coordenada pela produtora Pró-Mix, de São Bernardo, alertará para o perigo de contaminação da represa, que abastece os sete municípios do ABCD e parte de São Paulo.
 O coordenador da campanha, Carlos Bocuhy, da Pró-Mix, disse que a Billings pode vir a ser o único reservatório de água da região metropolitana de São Paulo. "É preciso preservar a represa e seu manancial, que são de vital importância", afirmou Bocuhy.
@@ -1125,9 +1125,9 @@ A OAB (Ordem dos Advogados do Brasil), a SBPC (Sociedade Brasileira para o Progr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-075</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-075</field>
+<field name="date">940301</field>
+<text_pt>
 HÉLIO CESAR ROSAS
 Cada candidato a cargo político ou homem público, normalmente, elege um "mote" de campanha, isto é, algo pelo que lutar de forma a identificá-lo com determinado público alvo (seus eleitores).
 Assim é que determinados homens públicos são conhecidos por sua atuação no mundo econômico, outros na área de saúde, da educação, dos aposentados e por aí a fora, constituindo seus nichos de mercado.
@@ -1144,9 +1144,9 @@ HÉLIO CESAR ROSAS, 64, é deputado federal pelo PMDB de São Paulo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-076</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-076</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O Conselho Especial de Sentença da 4ª Auditoria do TJM (Tribunal de Justiça Militar) absolveu ontem os cinco oficiais acusados de não terem reprimido o maior motim da história da PM. Ocorrido nos dias 19 e 20 de fevereiro de 1988, o protesto por causa dos baixos salários quase parou a polícia na Grande São Paulo. Após ser controlado, o comando da PM expulsou cerca de 200 policiais.
 Por unanimidade, os cinco membros do conselho (quatro coronéis e a juíza auditora Matilde Hojda) consideraram que não havia provas suficientes para condenar os coronéis Aluízio Silveira de Carvalho Pereira, Francisco Lamenza, o tenente-coronel Manoel Carlos Nogueira Abissi, o capitão Olinto Bueno Neto e o tenente Juliano Campos de Azevedo.
@@ -1154,9 +1154,9 @@ O julgamento durou quatro horas. O promotor Luis Roque Lombardo Barbosa disse qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-077</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-077</field>
+<field name="date">940301</field>
+<text_pt>
 Da Folha ABCD
 Uma tentativa de roubo a carro-forte às 8h de ontem no Paço Municipal de São Bernardo (Grande São Paulo) resultou na morte do assaltante Marcelo Fernandes Gonçalves, 20. Outros quatro assaltantes, que estavam em uma Saveiro preta, e outros dois, que estavam no saguão do paço, fugiram após troca de tiros com os vigias que transportavam o dinheiro. O carro-forte transportava CR$ 18 milhões. Os assaltantes não foram encontrados pela polícia. Foi apreendida uma pistola 7.65 usada por Gonçalves.
 O carro-forte da empresa Estrela Azul, placas LU-2012, chegou ao pátio da prefeitura, na praça Samuel Sabatini, para fazer a entrega do dinheiro ao posto bancário do Banespa, minutos após a entrada de 800 funcionários públicos que trabalham no local.
@@ -1170,9 +1170,9 @@ No dia 3 de janeiro deste ano, uma tentativa de roubo a carro-forte deixou sete 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-078</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-078</field>
+<field name="date">940301</field>
+<text_pt>
 
 Seis homens e quatro mulheres entraram atirando em DP e fugiram quando o delegado disparou rajada de metralhadora
 PAULO FERRAZ
@@ -1187,9 +1187,9 @@ Com informações prestadas por Rosana, a polícia conseguiu prender Selma Alves do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-079</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-079</field>
+<field name="date">940301</field>
+<text_pt>
 FERNANDO ROSSETTI
 Da Reportagem Local
 As salas de aula da rede estadual de São Paulo deverão ter mais alunos este ano do que nos anteriores. Portaria da Secretaria de Estado da Educação exige que as classes tenham no mínimo 35 alunos matriculados para poder funcionar no ano letivo de 1994 &#150;que começa hoje para 6,5 milhões de estudantes e 240 mil professores. Caso as classes não tenham o número mínimo de matriculados, os alunos são encaminhados a outra escola.
@@ -1218,9 +1218,9 @@ Martins &#150; Tem que se imaginar que, no caso de uma mudança de governo, de po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-080</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-080</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A exigência de se formar classes com no mínimo 35 alunos "vai deixar alguns milhares de professores desempregados", afirma Roberto Felício, 42, presidente da Apeoesp (Sindicato dos Professores do Ensino Oficial do Estado de São Paulo).
 Para ele, é falso o argumento do secretário da Educação, Carlos Estevam Martins, de que ninguém ficará desempregado porque havia escolas sem professores (leia texto ao lado). "Faltam professores em algumas áreas específicas, em outras, não", diz Felício.
@@ -1232,9 +1232,9 @@ A campanha faz parte do programa ação solidária em Defesa da Criança e do Adoles
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-081</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-081</field>
+<field name="date">940301</field>
+<text_pt>
 Da Agência Folha
 Dez moradores de Santos (72 km a sudeste de São Paulo) estão sob suspeita de estar com leptospirose. A cidade teve uma morte na última sexta-feira provavelmente por causa da doença. O resultado dos exames, que estão sendo feitos pelo Instituto Adolfo Lutz, ainda não foi divulgado.
 Segundo a coordenadora do Centro de Vigilância de Doenças Epidemiológicas, Maria Filomena de Gouveia, o garçom Aurimar Xavier de Assis, 33, apresentava todos os sintomas e para o centro não há dúvida de que a causa da morte foi a doença. A leptospirose é transmitida através da urina dos ratos.
@@ -1244,9 +1244,9 @@ Segundo Maria Filomena, a Vigilância tem feito um trabalho junto com o Centro de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-082</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-082</field>
+<field name="date">940301</field>
+<text_pt>
 Julia Mann viveu na cidade de Parati até os sete anos
 RONI LIMA
 Da Sucursal do Rio
@@ -1258,9 +1258,9 @@ Frido deverá ficar no Brasil até 6 de abril. Dia 16 de março, em São Paulo, part
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-083</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-083</field>
+<field name="date">940301</field>
+<text_pt>
 Da Agência Folha,em Belo Horizonte
 A partir de hoje todas as pessoas que quiserem tirar a carteira de habilitação em Minas Gerais serão obrigadas a conhecer, além da Legislação de Trânsito, as noções básicas de atendimento pré-hospitalar (primeiros-socorros) e direção defensiva.
 A medida &#150;inédita no país, segundo a Cruz Vermelha&#150; foi tomada no final do ano passado pelo Detran mineiro, que publicou a portaria 44.039/93. O próprio Conselho Nacional de Trânsito (Contran) já prevê a medida em sua legislação, mas até hoje nenhum Detran a tinha colocado em prática.
@@ -1268,9 +1268,9 @@ O secretário-geral da Cruz Vermelha em Minas, Eduardo Cosso, foi o técnico em em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-084</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-084</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A Televisão Abril, braço do Grupo Abril que controla a MTV e a TVA, demitiu sexta-feira à tarde 30 funcionários e 50 colaboradores. Os cortes representaram uma diminuição de 20% na folha de pagamento das duas emissoras. Entre os demitidos da MTV, estão Miriam Chaves (diretora-geral), Zeca Camargo (diretor de produção e programação), Jacqueline Cantore (diretora de jornalismo) e Paula Perin (gerente de projetos especiais).
 "Com os cortes, pretendemos reduzir os níveis hierárquicos das duas empresas e concentrar funções nas mãos de um número menor de executivos", diz Walter Longo, diretor-superintendente da Televisão Abril. Segundo Longo, o Grupo Abril vive um processo de reestruturação administrativa e operacional que tem por objetivo diminuir os custos e elevar os ganhos de produção.
@@ -1279,9 +1279,9 @@ Para implantar as emissoras, o Grupo Abril investiu aproximadamente US$ 100 milh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-085</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-085</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Técnicos da Secretaria Estadual do Meio Ambiente vistoriaram ontem as obras do túnel sob o parque Ibirapuera (zona sul). Segundo o Conselho Estadual do Meio Ambiente (Consema), as escavações não podem prosseguir enquanto não for aprovado um novo Estudo de Impacto Ambiental para a obra. No dia 4 de março, o Consema se reúne para decidir se pede o embargo judicial dos trabalhos. Os conselheiros devem decidir pelo pedido de embargo.
 A obra, orçada em US$ 55 milhões, faz parte do Corredor Sudoeste, complexo viário de túneis e avenidas que vai ligar o bairro de Cidade Jardim à avenida 23 de Maio, próximo ao parque Ibirapuera. Em dezembro passado, o Consema embargou uma das obras do complexo &#150;o sistema de exaustores do túnel sob o rio Pinheiros, fora das especificações ambientais, segundo a Cetesb (Companhia de Tecnologia de Saneamento Ambiental).
@@ -1290,9 +1290,9 @@ Hoje às 9h, na Câmara Municipal, o secretário de Obras da prefeitura, Reynaldo d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-086</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-086</field>
+<field name="date">940301</field>
+<text_pt>
 O leitor Cosmo de Oliveira Lima reclama do atraso para a liberação de sua conta inativa. Lima diz ter comparecido diversas vezes à agência da CEF (Caixa Econômica Federal) para saber se já havia ocorrido a liberação de seu saque. "A última vez que fui, em 19 de janeiro, fui informado de que ainda não havia nenhuma resposta à minha solicitação. Não consigo entender o porquê da demora de 60 dias para a liberação de minha conta inativa", diz Lima.
 
 Resposta
@@ -1301,9 +1301,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-087</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-087</field>
+<field name="date">940301</field>
+<text_pt>
 Empresários de ônibus ganham processo contra a CMTC pelo descumprimento da Lei da Municipalização
 ALEXANDRE SECCO
 Da Reportagem Local
@@ -1320,9 +1320,9 @@ Getúlio Hanashiro, secretário de Transportes e executor das mudanças, e o presid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-088</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-088</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A disputa entre Maluf e os empresários de ônibus de São Paulo começou no segundo turno da eleição municipal de 92. A eleição do prefeito paulistano ficou entre o petista Eduardo Suplicy e Paulo Maluf.
 Uma das marcas da administração Erundina (89-92), a municipalização dos transportes, foi o principal alvo das críticas de Maluf, que tentava desmoralizar a gestão do PT e arranhar a imagem de seu concorrente.
@@ -1334,17 +1334,17 @@ Maluf assumiu e disse que queria o dinheiro do transporte para obras. Impôs às e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-089</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-089</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Cerca de 17% dos 4.500 presos da Casa de Detenção são portadores do vírus da Aids. A pesquisa foi feita três anos atrás pela equipe de Drauzio Varella. Novos testes estão sendo feitos e a incidência deve aumentar. Em 92, um estudo realizado no sistema prisional do Estado apontou 21,6% de soropositivos. Segundo Varella, entre os travestis da Detenção a incidência era de 82%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-090</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-090</field>
+<field name="date">940301</field>
+<text_pt>
 
 Conselho municipal aprova relatório de impacto ambiental para extensão da avenida, que se inicia com as desapropriações
 LUIZ CARLOS DUARTE
@@ -1358,9 +1358,9 @@ Criado em outubro, junto com a Secretaria do Verde e do Meio Ambiente, o Cades é
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-091</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-091</field>
+<field name="date">940301</field>
+<text_pt>
 O técnico do Palmeiras não quer escalar Edmundo, Edílson, Evair, Rincón e Zinho juntos
 WILSON BALDINI JR.
 Da Reportagem Local
@@ -1372,17 +1372,17 @@ Para a próxima partida pelo Campeonato Paulista, contra o Mogi Mirim, sexta-feir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-092</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-092</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O técnico Wanderley Luxemburgo tem uma reunião marcada com todo o grupo de jogadores, hoje, na Academia de Futebol. O objetivo da conversa é tentar encontrar um melhor posicionamento da equipe na marcação, fundamento mais deficiente no clássico de domingo, frente ao São Paulo. "Contra adversários mais fortes, a marcação ajuda muito na conquista da vitória", afirmou o treinador. (WBJr)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-093</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-093</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O são-paulino Cafu só soube que iria jogar como volante na preleção do técnico Telê Santana, momentos antes da partida. A escalação de Cafu por aquele setor foi a principal responsável pelo desmantelamento do esquema tático do Palmeiras, que levou o técnico palmeirense, Wanderley Luxemburgo, a dizer que tinha "errado na escalação".
 "Gosto mais de jogar pelo meio. Tenho mais liberdade para atacar e tentar chutes a gol", disse ontem o jogador. No final do jogo de domingo, ele teve sua atuação elogiada por Telê. "O Cafu rendeu bem mais do que estava rendendo na lateral."
@@ -1393,9 +1393,9 @@ Em 1992, Telê pôs Cafu como meia, para jogar ao lado de Muller, Palhinha e Raí. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-094</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-094</field>
+<field name="date">940301</field>
+<text_pt>
 
 O técnico mostrou mais uma vez no domingo que o xadrez e a guerra são as melhores metáforas do futebol
 MARCO CHIARETTI
@@ -1414,9 +1414,9 @@ Hoje, excepecionalmente, não publicamos a coluna de Matinas Suzuki Jr.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-095</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-095</field>
+<field name="date">940301</field>
+<text_pt>
 FÁBIO SORMANI
 O troca-troca entre Atlanta Hawks e Los Angeles Clippers agitou o basquete norte-americano na semana passada. Dominique Wilkins, patrimônio dos Hawks, foi descartado pela sua equipe e mandado para LA em troca do ala/pivô Danny Manning. Torcedores dos Hawks até agora se recusam a acreditar no negócio.
 Para eles, os executivos dos Hawks fizeram um mau negócio. Afinal, Dominique ganhou duas vezes o campeonato de enterradas e, junto com Karl Malone, do Utah Jazz, foi o jogador que ameaçou o reinado de Michael Jordan pela artilharia da NBA. Dominique, aliás, foi o último cestinha antes da era Jordan, quando na temporada 85/86 terminou com a média de 30,3 pontos por partida.
@@ -1430,9 +1430,9 @@ Parece que em Atlanta ninguém acredita no velho ditado do "time que ganha não se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-096</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-096</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Craques de três gerações do futebol brasileiro aplaudiram a iniciativa da Folha e do chocolate Snickers de promover um concurso de redação para a escolha dos dois adolescentes brasileiros entre 11 e 16 anos que entrarão em campo antes das partidas da Copa do Mundo carregando bandeiras com o slogan "Fair Play, Please", da Fifa, que prega o fim da violência nos campos. Bellini, capitão da seleção de 58, Rivelino, campeão em 70, e Casagrande, atacante do Corinthians, foram unânimes em elogiar o envolvimento da Folha na escolha.
 "É um incentivo maravilhoso para os jovens e crianças voltarem a frequentar os estádios", afirmou Rivelino. Para Bellini, "a campanha é muito importante não só para o futebol, porque também está faltando fair play na vida comum das pessoas." Casagrande destacou a importância da participação da Folha para o sucesso da campanha no Brasil. "A iniciativa de um jornal importante como a Folha dá mais credibilidade ao fato."
@@ -1442,9 +1442,9 @@ Os escolhidos ganham passagens aéreas para a Califórnia com direito a acompanhan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-097</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-097</field>
+<field name="date">940301</field>
+<text_pt>
 Técnico tira o Rio Branco da crise
 JOSÉ KOSMINSKY
 Da Folha Sudeste
@@ -1466,23 +1466,23 @@ Ramirez &#150; Este é um episódio antigo e que já foi superado. Entre eu e o Riv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-098</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-098</field>
+<field name="date">940301</field>
+<text_pt>
 O goleiro da Argentina, Sergio Goycochea, recebeu muitas críticas pelo "frango" que tomou no empate em 2 a 2 entre sua equipe, o River Plate, e o Platense, anteontem, pelo Campeonato Argentino. Goycochea tentou tirar de soco um cruzamento e jogou a bola em seu próprio gol.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-099</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-099</field>
+<field name="date">940301</field>
+<text_pt>
 O presidente do Comitê Olímpico Chileno, Sergio Santander, disse que "por enquanto é impossível" perdoar o goleiro Roberto Rojas, do Chile. Rojas foi eliminado do futebol pela Fifa por simular ter sido atingido por um rojão, no jogo Brasil x Chile, em 89, no Maracanã, pelas eliminatórias da Copa de 90.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-100</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-100</field>
+<field name="date">940301</field>
+<text_pt>
 MAURO TAGLIAFERRI
 Da Reportagem Local
 Começa amanhã às 19h nas piscinas do clube Pinheiros, em São Paulo, o Campeonato Sul-americano de pólo aquático masculino e feminino. Para a Confederação Brasileira de Desportes Aquáticos (CBDA), o torneio é uma oportunidade para mostrar que a América do Sul tem seleções femininas de pólo com nível técnico suficiente para incluir a modalidade nos Jogos Pan-americanos de Mar Del Plata (Argentina-1995).
@@ -1496,9 +1496,9 @@ O Brasil é o único sul-americano entre as 12 equipes que estarão no Mundial. Par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-101</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-101</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A jogadora Camila Pedrosa, 18, tem a responsabilidade de comandar a seleção brasileira no Campeonato Sul-americano que tem início amanhã em São Paulo. Há três anos na equipe do Brasil, ela forma com Regina Abla, Júlia de Albuquerque e Adriana Maximiliano o quarteto das jogadoras mais experientes entre as 13 convocadas pelo técnico Paulo Comini. Com o desfalque de cinco titulares da seleção (Cristiana Pinciroli, Alexandra de Santis, Antonella Bertolucci, Kátia e Kláudia Alencar), Camila torna-se peça chave no esquema tático do time do Brasil, articulando as jogadas de ataque da seleção. (MT)
 Folha - Com a ausência de cinco titulares da seleção, você se tornou uma das jogadoras mais experientes do grupo. Como você encara esta situação?
@@ -1518,9 +1518,9 @@ Camila - Principalmente os meninos. Eles são mais briguentos. De qualquer forma,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-102</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-102</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A seleção brasileira masculina de pólo aquático tenta, a partir de amanhã, reconquistar o título sul-americano na categoria, perdido para a equipe da Colômbia há dois anos em Medellín. Para isso, contará com 13 jogadores do eixo Rio-São Paulo, que vão enfrentar as equipes da Argentina, Colômbia, Venezuela e Chile para chegar ao título.
 Depois de passar por uma fase de treinamentos no Rio de Janeiro, a seleção masculina começou a treinar em São Paulo na semana passada. A maioria dos jogadores é carioca: oito vêm dos clubes Guanabara e Flamengo. Dos paulistas, três jogam pelo Pinheiros e dois pela academia Fórmula.
@@ -1528,9 +1528,9 @@ Ao contrário da seleção feminina, o time masculino ainda não garantiu sua presen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-103</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-103</field>
+<field name="date">940301</field>
+<text_pt>
 PAULO D'AMARO
 Da Reportagem Local
 O piloto brasileiro Emerson Fittipaldi declarou ontem que não são boas as relações entre a Cart, associação americana que organiza o campeonato da Fórmula Indy, e a Federação Internacional de Automobilismo (FIA). A declaração foi feita em São Paulo, durante um evento realizado pela fabricante de cigarros Phillip Morris, que está patrocinando cinco pilotos brasileiros no automobilismo mundial.
@@ -1542,9 +1542,9 @@ Além de Emerson, estavam presentes Raul Boesel, também da Indy, Christian Fittip
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-104</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-104</field>
+<field name="date">940301</field>
+<text_pt>
 ANDRÉA FORNES
 Especial para a Folha, de Tóquio
 A segunda temporada profissional de futebol japonês começa oficialmente no próximo dia 12, mas alguns times já estão em campo. Uma série de 20 amistosos foi programada para o período de férias, entre janeiro e março, com a participação de equipes brasileiras.
@@ -1554,9 +1554,9 @@ Em outro amistoso, o Corinthians enfrenta amanhã o Bellmare Hiratsuka no Tokyo D
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-105</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-105</field>
+<field name="date">940301</field>
+<text_pt>
 Filmes de três fases do cineasta retratam violência, autoritarismo e belicosidade como facetas da sociedade espanhola
 ANTONIO CARLOS RODRIGUES
 Free-Lance para a Folha
@@ -1577,9 +1577,9 @@ Saura radicaliza essa regessão fazendo o mesmo ator interpretar o personagem cri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-106</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-106</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O trombonista Raul de Souza, reconhecido como um dos melhores do mundo em seu instrumento, se apresenta até quinta-feira, no Bourbon Street Music Club. Faz o lançamento oficial de seu CD "The Other Side of the Moon", distribuído às lojas pela RGE, no final do ano passado.
 Ao lado de Raul, que nos últimos anos também tem se dedicado ao saxofone, estará o trio formado por Edsel Gomes (teclados), Chico Gomes (baixo) e Maguinho (bateria). O repertório do show reúne "standards" jazzísticos, como "I Concentrate on You" (de Cole Porter) e "'Round Midnight" (Thelonious Monk), composições próprias e clássicos da música popular brasileira.
@@ -1592,23 +1592,23 @@ Quanto: CR$ 5.000 (couvert artístico); CR$ 4.500 (consumação mínima)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-107</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-107</field>
+<field name="date">940301</field>
+<text_pt>
 "É a primeira história e o primeiro roteiro decentes de minha carreira", declarou recentemente o belga Jean-Claude Van Damme a respeito de seu novo filme, "Time-Cop", de Peter Hyams. Só não falou que a história é &#150;de novo&#150; sobre um megapolicial do futuro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-108</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-108</field>
+<field name="date">940301</field>
+<text_pt>
 Já entre os homens, a mesma pesquisa revelou: 50% deles nunca deixariam de praticar sexo (se isso dependesse apenas de sua vontade, é claro). Outros 37% preferem o álcool. A pesquisa foi encomendada por um centro de informações sobre comida congelada.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-109</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-109</field>
+<field name="date">940301</field>
+<text_pt>
 História minuciosa de Truman Capote confunde-se com a crônica do "international set' da década de 40 à de 80
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
@@ -1631,9 +1631,9 @@ Preço: CR$ 15.000
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-110</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-110</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal do Rio
 Apesar de "muito revista", segundo a editora Globo, a tradução que Lya Luft fez do livro de Gerald Clarke está chegando às livrarias com erros que denotam imperícia profissional de um lado e descaso editorial de outro. Há nomes próprios grafados de maneira incorreta (P.T. Tarnum, John Gielguld, Joshwa Logan, John Houston, &#150;em vez de Barnum, Gielgud, Joshua, Huston) somam-se expressões, também carentes de emenda, como uísque sawer (leia-se uísque sour) e "Reflexions in a Golden Eyes" (leia-se "Reflections in a Golden Eye"). Aliás, tanto este filme quanto outro de Huston, cujo roteiro foi escrito por Capote, "Beat the Devil", tiveram mantidos os seus títulos originais, ao contrário de "The Maltese Falcon" e "The African Queen", que embora lançados no Brasil como, respectivamente, "Relíquia Macabra" e "Uma Aventura na África", viraram "O Falcão Maltês" e "A Rainha da África".
 Na página 345, um deslize relativamente comum na imprensa brasileira: uma crítica (de F.W. Dupee) publicada na "New York Review of Books" foi transferida para o suplemento literário do "New York Times" (ou "New York Times Book Review"). Bem pior fizeram com Charles Chaplin, transformado em crítico de cinema do "Los Angeles Times" na página 231. Claro que Clarke se referia ao veterano jornalista Charles Champlin.
@@ -1642,9 +1642,9 @@ Por fim, um cochilo do texto original: a certa altura, Capote e mais alguém cruz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-111</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-111</field>
+<field name="date">940301</field>
+<text_pt>
 O pequeno Snoop queria ser um criminoso filho da puta quando crescesse. Pelo menos é isso que ele diz em uma das vinhetas do seu álbum de estréia, "Doggystyle" &#150;melhor lançamento de rap "malvado" dos últimos anos. Se fosse só pelas blasfêmias que ele diz nas músicas (e entre elas), talvez Snoop passasse apenas por mais um rapper categoria gângster. Mas o funk especial das batidas, os samplers bem escolhidos, os refrões fáceis e brilhantes, o apitinho presente em quase todas as faixas e mais sua voz naturalmente blasé ajudaram a transformar seu trabalho de estréia em mais que um sucesso fonográfico (com seus 4 milhões de cópias vendidas só nos Estados Unidos). "Doggystyle" é o triunfo da cafajestada &#150;e todo mundo adora e você também vai gostar.
 A maneira mais bonita que Snoop consegue chamar uma garota nas suas músicas é "bitch" &#150;ou "cadela" ou (numa tradução um pouco mais livre) "puta". Não que ele queira ofender essas meninas. Talvez até ele quisesse agradá-las, como quando ele disputa um par de "bitches" com outro cara. "Essa puta me escolheu", diz Snoop. Adorável, não?
 O programa de rádio que aparece em uma das vinhetas chama-se "A Hora da Punheta". E logo na introdução, ele está na banheira com uma mulher (provavelmente uma "bitch") e em menos de cinco segundos ele fala a palavra "fuck" três vezes &#150;uma boa média. Fora isso, a "arte" que vem na capa do CD é das coisas mais ofensivas que você pode comprar fora de uma loja especializada em pornografia.
@@ -1652,9 +1652,9 @@ Snoop Doggy Dogg dá inúmeros motivos para você implicar com ele. Mas nenhum dele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-112</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-112</field>
+<field name="date">940301</field>
+<text_pt>
 Snoop Doggy Dogg está com problemas para escolher o terceiro single do seu álbum de sucesso. É que além das faixas que já foram trabalhadas, não sobra muita coisa do disco que possa ser tocada nas rádios e na TV, justamente por causa da linguagem ofensiva.
 O Brasil se encanta com "What's my Name?", enquanto os Estados Unidos já repete o irresistível refrão de "Gin and Juice". A primeira música rouba legal de "Atomic Dog", de George Clinton (nome pesado do funk dos últimos 20 anos) &#150;e se dá bem. Já "Gin and Juice" triplica os poderes hiptnóticos de "What's My Name?" e chega mais perto do som de dr. Dre, seu parceiro de produção que também emplacou um álbum de sucesso no ano passado, "The Chronic".
 Essa marca registrada de Snoop e Dre é a "completa tradução" do cotidiano de um gueto negro em Los Angeles. Muita droga, muita violência, muita sacanagem &#150;e também muito suco com gin.
@@ -1663,24 +1663,24 @@ Infelizmente, esse mesmo clima também inspirou Snoop a cometer alguns crimes. Só
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-113</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-113</field>
+<field name="date">940301</field>
+<text_pt>
 Cinco anos depois do aiatolá Khomeini oferecer US$ 1 milhão pela sua cabeça, Salman Rushidie recebe a proposta de uma indústria de alimentos para ser o garoto-propaganda de um peru sem colesterol &#150;Rushdie seria um exemplo de como sobreviver com uma sentença de morte... Felizmente, ainda tem quem o defenda seriamente, como Julian Barnes em texto recente da "New Yorker".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-114</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-114</field>
+<field name="date">940301</field>
+<text_pt>
 Para o Grammy de hoje (e que é aquela cerimônia mais insignificante que o Oscar para os brasileiros, mas que todo mundo presta a maior atenção), comece a fazer suas apostas. Whitney Houston é um pouco óbvia, mas tudo bem. Diga que "I Will Always Love You" é insuportável, mas complete dizendo que ela merece ganhar tudo. E não deixe de fingir interesse (se algum brasileiro ganhar numa categoria menor).
 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-115</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-115</field>
+<field name="date">940301</field>
+<text_pt>
 JOÃO MÁXIMO
 Da Sucursal do Rio
 
@@ -1702,9 +1702,9 @@ Como complemento da exposição, serão exibidos na biblioteca do Instituto Goethe 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-116</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-116</field>
+<field name="date">940301</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Existem momentos em que a paciência é a única maneira de superar determinados problemas. A história a seguir ilustra isto.
@@ -1713,9 +1713,9 @@ Exausta com o esforço, a rã maior morreu afogada. A outra conseguiu boiar a noit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-117</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-117</field>
+<field name="date">940301</field>
+<text_pt>
 A artista, selecionada para a Bienal de São Paulo, expõe hoje seus objetos na galeria Camargo Villaça
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1737,9 +1737,9 @@ No caso das rosas, o que fica é uma sensação de luto, de fim de festa, algo morr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-118</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-118</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Salvador vai ser a sede do 1º World Percussion Panorama, um festival de grupos brasileiros e internacionais que tem como tema a música de percussão. O evento reúne grupos de vários países, entre eles a Índia, Cuba, França e Grã-Bretanha. Os espetáculos começam dia 21 de março e vão até o domingo seguinte, dia 27 de março, com um grande show no Pelourinho. Os organizadores esperam com isso tornar a cidade uma espécie de "capital mundial da percussão". Entre os convidados estão o grupo bahiano Olodum e o percussionista brasileiro Naná Vasconcelos, que vive atualmente em Nova York.
 A abertura, no dia 21, será no teatro Cstro Alves, às 21h. Está prevista uma apresentação rápida de todos os participantes, entre eles o grupo de Antígua, Harmonites International Steel Orchestra, o Friots Mandigues, de Mali, Los Papines, de Cuba, o Trilok Gurtu, da Índia, o Teka Percussion Ensemble, da Hungria, e o The Queen's Lancashire Regiment, da Grã-Bretanha.
@@ -1747,27 +1747,27 @@ Do Brasil, além do Olodum, estarão também o Timbalada, o Duo Diálogos, Dudu Tucc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-119</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-119</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 O colecionador, crítico e historiador Sir Harold Acton morreu anteontem, aos 89 anos, em Villa Pietra, sua casa-museu em Florença, cidade onde nasceu em 1904.
 Filho de pai inglês e mãe americana, realizou seus estudos em Eton e em Oxford. Nos anos 30, viveu em Pequim, onde foi professor de literatura inglesa. Entre seus ensaios estão "Oa Bourbons em Nápoles" e "O Último Medici". Sem herdeiros, seus bens serão distribuídos entre universidades.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-120</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-120</field>
+<field name="date">940301</field>
+<text_pt>
 Das agências internacionais
 Os ladrões que entraram na casa londrina do guitarrista Brian May no último sábado podem ter levado canções inéditas de Freddie Mercury, disse o jornal inglês "The Sun". Os ladrões levaram dinheiro, passaportes, uma câmera fotográfica e algumas fitas. Mercury morreu em novembro de 1991.
 Brian May disse ao jornal que o que mais lhe preocupava era o desaparecimento das fitas, mas que não tinha certeza do material gravado nas fitas roubadas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-121</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-121</field>
+<field name="date">940301</field>
+<text_pt>
 O compositor concorre a seis categorias do prêmio, cuja cerimônia de entrega acontece hoje à noite em NY
 FERNANDA GODOY
 De Nova York
@@ -1782,9 +1782,9 @@ O colunista JOSÉ SIMÃO está em férias durante o mês de março
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-122</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-122</field>
+<field name="date">940301</field>
+<text_pt>
 
 O desencanto do aristocrático marxista Visconti serve como sintoma profético do mundo e da arte que viriam
 ARNALDO JABOR
@@ -1808,9 +1808,9 @@ O mundo piorou muito. O cinema mudou para pior. Onde estão os heróis da arte e s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-123</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-123</field>
+<field name="date">940301</field>
+<text_pt>
 JOÃO BATISTA NATALI
 Da Reportagem Local
 As multinacionais são espertas. Não investem sem boas chances de retorno. A Sony, por exemplo, descobriu que não tem grande fundamento o mito de que o brasileiro não gosta de ópera. Acaba de lançar quatro de uma só vez.
@@ -1823,9 +1823,9 @@ Mas são, no conjunto, detalhes que em nada tiram das quatro óperas recém-lançada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-124</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-124</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 As gravadoras adotam geralmente dois critérios para obter o rápido retorno do investimento em gravações operísticas: recorrem a cantores conhecidos (e tome Pavarotti!), ou recuperam, em seus catálogos, interpretações já antigas e amplamente amortizadas.
 Os quatro lançamentos da Sony não entram em nenhum desses casos. São produções inéditas. Datam, todas, de 1992.
@@ -1834,9 +1834,9 @@ Os elencos reunidos pelo Scala refletem uma tendência européia recente, que cons
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-125</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-125</field>
+<field name="date">940301</field>
+<text_pt>
 Em cinco anos plantio cresce 101% na região de Ribeirão Preto; cultura serve para recuperar solo após a cana
 LUIZ HENRIQUE TROVO
 Da Folha Nordeste
@@ -1854,9 +1854,9 @@ Parte desse dinheiro vai para a colheita deste ano. "Trabalho com amendoim há 27
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-126</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-126</field>
+<field name="date">940301</field>
+<text_pt>
 BRUNO BLECHER
 Editor do Agrofolha
 Cana, laranja, soja e seringueira estão expulsando o boi do mapa de Ribeirão Preto, que detém a maior área cultivada do Estado (3,2 milhões de hectares ou 18,5% do total paulista).
@@ -1871,9 +1871,9 @@ Responsável por 37% da produção de cana de São Paulo, 60% da de soja e 46% da de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-127</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-127</field>
+<field name="date">940301</field>
+<text_pt>
 AMILCAR GRAMACHO
 O desenvolvimento das economias em todos os quadrantes do planeta e a democratização crescente dos regimes de governo parecem constituir, neste final de século, uma base sólida para sustentar um processo amplo e contínuo de globalização dos mercados. Nesse processo, os benefícios decorrem basicamente de se explorar convenientemente as vantagens comparativas de cada país. Quanto mais cedo e mais amplamente o Brasil se incorporar às correntes do mercado internacional, maiores serão as oportunidades para alavancar a conquista de novas posições nesse mercado.
 A geografia e a história do nosso país têm-nos mostrado a potencialidade dos nossos recursos naturais. Dispomos de amplas extensões de terras agricultáveis e de condições climáticas favoráveis. Produtos como café, açúcar, algodão, sisal, cacau, laranja, frutas e soja, entre outros, foram e continuam sendo fontes de sustentação para milhões de empregos.
@@ -1889,9 +1889,9 @@ AMILCAR GRAMACHO é coordenador do departamento técnico da Organização das Cooper
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-128</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-128</field>
+<field name="date">940301</field>
+<text_pt>
 A política de retenção do café, que tem por objetivo valorizar os preços no mercado externo, está prejudicando a indústria de café torrado e moído.
 
 Balanço
@@ -1920,9 +1920,9 @@ Antes mesmo do início da colheita, cerca de 36% da safra 93/94 de soja já foi co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-129</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-129</field>
+<field name="date">940301</field>
+<text_pt>
 SILVIA QUEVEDO
 Da Agência Folha, em Florianópolis
 O primeiro carregamento de cebola da região Sul exportada para a Europa foi embarcado em fevereiro em Santa Catarina, com destino a Hamburgo, Alemanha.
@@ -1935,9 +1935,9 @@ A produção brasileira varia entre 850 mil toneladas e 900 mil toneladas/ano.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-130</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-130</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Após sete anos de negociações, a rodada Uruguai do Gatt (Acordo Geral de Tarifas e Comércio) foi afinal encerrada, em dezembro passado, em Genebra.
 O acordo, que será assinado em abril no Marrocos, traz poucas mudanças, consequência da forte resistência dos países ricos em reduzir o protecionismo agrícola.
@@ -1950,9 +1950,9 @@ AGRICULTURA NA VIRADA DO SÉCULO 20, de Luiz Antonio Pinazza e Ney Bittencourt de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-131</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-131</field>
+<field name="date">940301</field>
+<text_pt>
 Produção deve chegar a 24,2 milhões de toneladas, superando a colheita de 89; produtividade média cresceu
 Da Agência Folhas
 A safra brasileira de soja 93/94 deve totalizar 24,2 milhões de toneladas, o que representa aumento de 8% em relação ao total colhido na temporada anterior (22,4 milhões de toneladas).
@@ -1975,9 +1975,9 @@ As perspectivas de comercialização são positivas. Ainda que os picos de preços o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-132</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-132</field>
+<field name="date">940301</field>
+<text_pt>
 PR traz sementes da Argentina e amplia área; produto vale US$ 170 a tonelada contra custo de US$ 110
 SÉRGIO PRADO
 Da Reportagem Local
@@ -1993,9 +1993,9 @@ O produto já conquistou crédito para custeio junto ao Banco do Brasil, garantia 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-133</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-133</field>
+<field name="date">940301</field>
+<text_pt>
 JOSÉ ALBERTO GONÇALVES
 Da Redação
 A quebra e o atraso da safra de Irecê, na Bahia, provocou em fevereiro uma explosão nos preços do feijão carioquinha. Segundo a Companhia Nacional de Abastecimento (Conab), a cotação média no atacado de São Paulo atingiu em fevereiro US$ 102 a saca, recuando para US$ 85/saca na última sexta-feira.
@@ -2004,9 +2004,9 @@ Segundo Petrarcas de Deus, técnico da Conab, o mercado só deve ceder de forma ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-134</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-134</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O presidente da Associação Brasileira dos Criadores de Cavalos Mangalarga, Clodoaldo Antonângelo, começa a colocar em prática sua antiga idéia de interiorizar os leilões da raça. Dia 19 de março, ele realiza, em Barra do Garça (MT), o Leilão Avançado, com venda de 50 lotes.
 Antonângelo acredita que o mercado em São Paulo está saturado. "Chegou o momento. Vamos percorrer todo o Brasil, promovendo leilões em várias cidades e abrindo novas fronteiras de negócios", diz. Cada associado paga US$ 100 para inscrever seu animal. "A asssociação se encarrega do resto", afirma Antonângelo.
@@ -2014,9 +2014,9 @@ Outros remates estão programados para acontecer nas cidades de Rio Verde (GO) em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-135</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-135</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A insegurança tomou conta do setor agropecuário com a implantação da Unidade Real de Valor (URV) prevista para hoje.
 "Os negócios estão parados há mais de uma semana, por absoluto desconhecimento do que vai acontecer no mercado", afirma Cesário Ramalho da Silva, diretor da Sociedade Rural Brasileira.
@@ -2026,9 +2026,9 @@ Em relação à agricultura o quadro é o mesmo. Em plena colheita de soja, milho e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-136</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-136</field>
+<field name="date">940301</field>
+<text_pt>
 Leilão comercializa 25 animais por CR$ 22,6 milhões
 Da Reportagem Local
 Dia 19 último, quando o prêmio acumulado no Jóquei Clube de São Paulo totalizava US$ 315 mil, a Pró-Horse, empresa leiloeira, aproveitou o "otimismo" dos turfistas e promoveu um pregão de animais em treinamento e reprodutoras com linhagem de velocidade, todos da raça puro-sangue inglês, logo após os páreos.
@@ -2040,9 +2040,9 @@ Friedberg acredita que a diretoria do Jóquei Clube também aposta na baixa da inf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-137</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-137</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Depois de apresentar uma das melhores performances entre as raças equinas comercializadas no ano passado, a andaluz abre o calendário de 94 com um leilão oficial na segunda-feira próxima no Palace (zona sul de São Paulo).
 Quatro dias depois, é vez do quarto-de-milha participar de uma verdadeira maratona de negócios no Parque da Água Branca (zone oeste de São Paulo). No total, 250 deles, de linhagens de conformação, corrida e trabalho recebem lances.
@@ -2053,9 +2053,9 @@ No Parque da Água Branca, a oferta de quarto-de-milha inclui puros, mestiços e c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-138</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-138</field>
+<field name="date">940301</field>
+<text_pt>
 SEBASTIÃO NASCIMENTO
 Da Reportagem Local
 O dia começa cedo no Jóquei Clube de São Paulo. São apenas 5h30 e na vila hípica, onde cerca de 2.000 cavalos estão alojados em 2.066 baias, um exército de peões começa a preparar os velocistas para os treinamentos.
@@ -2078,9 +2078,9 @@ Jóquei Clube de São Paulo, av. Lineo de Paula Machado, 1263, tel. (011) 816-4011
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-139</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-139</field>
+<field name="date">940301</field>
+<text_pt>
 Novo salário mínimo, válido a partir de hoje, é fixado em CR$ 58.732,14, o equivalente a 64,79 URVs
 Cálculo da URV é definido pelo governo; indexador não deve ficar abaixo de outros índices de inflação
 Da Redação
@@ -2090,9 +2090,9 @@ O plano FHC foi recebido com bons olhos pelos empresários. Neste setor, fez uma 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-140</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-140</field>
+<field name="date">940301</field>
+<text_pt>
 Estudo mostra que aumento dos preços em dólar no Brasil em 1993 foi um dos menores da América Latina
 CLÓVIS ROSSI
 Enviado especial a Brasília
@@ -2109,9 +2109,9 @@ Colaborou Ivanir José Bortot, da Sucursal de Brasília.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-141</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-141</field>
+<field name="date">940301</field>
+<text_pt>
 Do enviado especial a Brasília
 A introdução definitiva do Real não depende, ao contrário do que se supõe, da adaptação dos preços, dos contratos e do sistema financeiro à URV, embrião da nova moeda. Depende, sim, de o governo ter segurança de que haverá equilíbrio orçamentário em 1994.
 A avaliação da equipe econômica, conforme a Folha apurou, é a de que, com mais ou menos traumas, a adaptação da economia à URV acabará ocorrendo ou, na pior das hipóteses, se tornará compulsória quando chegar o momento de sepultar o Cruzeiro Real e introduzir o Real.
@@ -2123,9 +2123,9 @@ Na avaliação da equipe econômica, o fato de se ter tornado compulsória apenas a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-142</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-142</field>
+<field name="date">940301</field>
+<text_pt>
 Do enviado especial a Brasília e da Sucursal de Brasília
 Apesar das dificuldades iniciais, a equipe econômica acredita que "as tendências a curto prazo são as mais favoráveis possíveis", em termos de inflação, como disse o secretário de Política Econômica do Ministério da Fazenda, Winston Fritsch, outro dos pais do Real.
 Fritsch mencionou, para justificar seu otimismo, o fato de que a entrada das safras assegura que "não haverá pressão dos preços agrícolas" e que "as tarifas públicas estão já alinhadas há dois ou três anos".
@@ -2140,9 +2140,9 @@ O governo garante, em todo o caso, que não vai patrocinar ou assistir imóvel a u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-143</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-143</field>
+<field name="date">940301</field>
+<text_pt>
 IVANIR JOSÉ BORTOT
 Da Sucursal de Brasília
 JOSIAS DE SOUZA
@@ -2154,9 +2154,9 @@ O ministro evitou uma resposta objetiva à pergunta sobre a possibilidade de deix
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-144</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-144</field>
+<field name="date">940301</field>
+<text_pt>
 Eu quero agradecer a presença, nesta tarde, aqui conosco, dos ministros que aqui se encontram. Ministro Barelli, ministro Élcio Álvares, ministro Arnaldo, o secretário Mauro Durant, ministro Mauro Durant, ministro Cutolo, ministro Stepanenko, ministro Canhim, advogado geral da União, que aqui nos honram com a sua presença, dr. Quintão, srs. secretários, srs. presidentes de federações governamentais, senhoras e senhores.
 Eu disse há alguns meses que eu considerava que a inflação e a miséria eram os dois grandes problemas que afligiam o povo brasileiro. Nós hoje estamos dando mais um passo nesta guerra contra a inflação, para que isso nos permita continuar a combater a miséria e para que nós possamos ter um êxito nessa dupla luta contra esses dois males. Os brasileiros, todos sabem, têm assistido, que não é fácil. Nós estamos vindo de décadas de um comportamento inflacionário, no qual houve uma imensa concentração de renda, comportamento inflacionário que levou aqueles que não tinham a capacidade econômica de proteger seus haveres, seus ganhos, seus salários, colocando-os na moeda remunerada, mas que estavam desabrigados de qualquer defesa e que no dia-a-dia mal conseguiam fazer frente às suas necessidades. Esse comportamento que se cristalizou no Brasil precisava ser rompido e precisa ser rompido. Este é um processo, é uma luta. É uma luta que tem que ser uma luta de todos nós. Fomos dando os passos iniciais no governo do presidente Itamar Franco, que com muita determinação, resolveu que ao invés de cruzar os braços e ao invés de se preocupar simplesmente com a conjuntura e com aquilo que pode afligir um governo, que por sua própria natureza é passageiro e não dispõe de um grande período de tempo, tomou outro rumo, resolveu enfrentar pela raiz essas questões.
 E nós diagnosticamos esses dois males, a miséria e a inflação, e nós os estamos atacando. Ao ministro da Fazenda e aos ministros das áreas econômicas cabe a responsabilidade principal, sempre dentro das diretrizes do governo e do presidente da República, no combate à inflação. Mas isso não quer dizer que esses mesmos ministros, ao lado de outros da área social, possam desinteressar-se do combate à fome, à pobreza, ao desemprego e à miséria. É um processo convergente. No front de luta direto da área econômica, nós lutamos por refazer o orçamento da República em 93 e 94. Não vou entrar em detalhes, por uma razão muito simples. Se o governo gasta mais do que ele ganha, mais do que ele recolhe de impostos, ele ó obrigado a emitir títulos, a pedir dinheiro emprestado, a pagar juros altos e ele então passa a ser o principal alimentador da ciranda financeira, que mantém o país em estado de perplexidade, vendo uma grande expansão da massa dos financiamentos a juros elevados e não sendo o governo capaz de fazer frente às suas necessidades, as mais elementares.
@@ -2184,9 +2184,9 @@ Esse programa é feito para ser positivo, afirmativo para os que trabalham, não p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-145</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-145</field>
+<field name="date">940301</field>
+<text_pt>
 PMDB e esquerda querem garantir ganhos para o mínimo e reposição de perdas; Congresso apóia controle de preços
 LUCIO VAZ e TALES FARIA
 Da Sucursal de Brasília
@@ -2204,9 +2204,9 @@ O deputado Paulo Paim (PT-RS) afirma que a maior falha do plano é desconsiderar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-146</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-146</field>
+<field name="date">940301</field>
+<text_pt>
 Do enviado especial a Brasília
 O governo admite que a tramitação no Congresso da MP (Medida Provisória) que cria a URV será um "vôo cego", conforme expressão ouvida ontem pela Folha no Ministério da Fazenda. Mas, de público, o ministro Fernando Henrique Cardoso é obrigado a exibir otimismo quanto à perspectiva de aprovação da MP sem grandes alterações.
 O ministro disse, em café de manhã com jornalistas, que as resistências ao plano econômico se dissolveriam assim que "o Congresso entender que os salários seguirão variação próxima do dólar e, os preços, não". Completa FHC: "Como é que o Congresso vai pedir que os preços subam diariamente?".
@@ -2220,9 +2220,9 @@ O temor, na equipe econômica, é o de que o Congresso tente a seguinte barganha: 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-147</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-147</field>
+<field name="date">940301</field>
+<text_pt>
 Brizola diz que só empresas ganham; Lula critica Barelli e prevê greve geral
 Da Reportagem Local
 e da Agência Folha
@@ -2241,9 +2241,9 @@ Colaborou a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-148</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-148</field>
+<field name="date">940301</field>
+<text_pt>
 FLÁVIA DE LEON
 Da Sucursal de Brasília
 Apesar de dividido em relação à conversão compulsória dos salário em URV (Unidade Real de Valor), o STF (Supremo Tribunal Federal) tende a aceitar a fórmula proposta pelo governo. Para o Supremo, a cláusula que determina a prevalência do salário de fevereiro, caso a média dos últimos quatro meses seja inferior ao valor nominal, protege juridicamente a MP (Medida Provisória).
@@ -2257,9 +2257,9 @@ A maioria dos integrantes do STF começou a analisar a Medida Provisória que cria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-149</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-149</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Já nas primeiras palavras a Medida Provisória que institui a Unidade Real de Valor incorre em erro e abre brecha para contestações na Justiça. A constatação é do jurista Saulo Ramos, ex-consultor Geral da República e ex-ministro da Justiça, que foi convidado a analisar o rascunho das medidas e na ocasião alertou para dois problemas: o artigo primeiro e o parágrafo primeiro da MP 433 praticamente instituem duas moedas no país, o que é proibido. Além disto, a manutenção da Ufir para correção de tributos é ilegal, segundo o jurista. Outros especialistas apontam mais defeitos técnicos na MP.
 Diz o artigo primeiro que fica instituída a URV, dotada de "curso legal" para servir "exclusivamente" como padrão de valor monetário. Isto restringe 'a URV todos os poderes da moeda do país. No entanto, o primeiro parágrafo deste artigo diz: "...continuando o cruzeiro real a ser utilizado como meio de pagamento dotado de poder liberatório...". "É um erro técnico grave e que pode resultar em um conflito judiciário muito grande", segundo Saulo Ramos.
@@ -2267,9 +2267,9 @@ A Ufir será calculada a partir de um índice, o IPCA, enquanto a URV com três índ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-150</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-150</field>
+<field name="date">940301</field>
+<text_pt>
 Empresários da alimentação serão os primeiros convocados a dar explicações sobre explosão de aumentos
 CLÓVIS ROSSI
 Enviado especial a BrasíliaOs empresários responsáveis pelos produtos que compõem a cesta básica serão os primeiros a serem chamados a dar explicações pelo "xerife" dos preços do Ministério da Fazenda, o economista Milton Dallari. Foi o que o próprio Dallari anunciou ontem.
@@ -2283,9 +2283,9 @@ Dallari admite que a redução de tarifas demora de 45 a 60 dias para produzir efe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-151</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-151</field>
+<field name="date">940301</field>
+<text_pt>
 Do enviado especial a Brasília
 O governo acertou com a indústria farmacêutica que, dentro de 120 a 180 dias, estarão sendo comercializados os chamados remédios "genéricos", o que tenderá a produzir uma redução superior a 25% nos preços, pela expectativa do assessor especial para preços do Ministério da Fazenda, Milton Dallari.
 "Genéricos" são os sais que formam a base de um determinado medicamento. Exemplo: o ácido acetilsalisíco é a base de analgésicos, que, no entanto, chegam ao mercado com marcas de fantasia diferentes (Aspirina, Melhoral etc).
@@ -2294,9 +2294,9 @@ A queda se deve à inexistência ou redução de custos relativos à embalagens, prop
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-152</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-152</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Indústrias e varejo não vão aderir à URV nos próximos dez dias. A afirmação veio de Edmundo Klotz e Levy Nogueira, respectivamente presidentes da Associação Brasileira das Indústrias de Alimentos (Abia) e Associação Brasileira dos Supermercados (Abras). As duas partes ainda não sabem como introduzir a URV no mercado de livre negociação. O tema prevê nova queda de braço entre indústria e varejo.
 Os supermercados acham que a indústria não poderá colocar a expectativa da inflação futura nas próximas tabelas. E avisam que vão checar se os preços dos fornecedores irão mesmo ficar abaixo da média dos preços praticados entre setembro e dezembro de 93, como prevê a MP 344.
@@ -2305,9 +2305,9 @@ Enquanto a inflação permanecer instável, será impraticável a cobrança em URV, av
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-153</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-153</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 A definição de aumento abusivo de preços na MP (medida provisória) divulgada ontem permitirá ao governo punir os oligopólios com a Lei Antitruste (número 8.158/91). O presidente do Cade (Conselho Administrativo de Defesa Econômica), Ruy Coutinho, disse ontem que agora os órgãos de defesa da livre concorrência poderão baixar medida preventiva obrigando as empresas a retroagir seus preços.
 A medida provisória que cria a URV (Unidade Real de Valor) diz que até a criação da nova moeda, o Real, "será considerado como aumento abusivo o aumento injustificado que resultar em preço equivalente em URV superior à média dos meses de setembro, outubro, novembro e dezembro de 1993". Segundo Coutinho, os oligopólios terão de enquadrar seus preços tendo como parâmetro reajustes máximo de 237% nos últimos quatro meses do ano passado. Os que desrespeitarem esse critério sofrerão multa diária de até 100 mil Ufir (Unidade Fiscal de Referência), de acordo com a lei 8.158/91.
@@ -2318,9 +2318,9 @@ O assessor especial do Ministério da Fazenda, José Milton Dallari, acena também 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-154</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-154</field>
+<field name="date">940301</field>
+<text_pt>
 
 
 Lázaro de Mello Brandão, presidente do Bradesco: "Estou otimista com o plano. Tenho certeza de que progressivamente os empresários vão aderir à URV. O importante é que o plano tenha um gerenciamento forte. Ele tem fases que exigem um acompanhamento constante."
@@ -2351,9 +2351,9 @@ Dick Carlos de Geus, presidente da Ocepar (Organização das Cooperativas do Paran
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-155</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-155</field>
+<field name="date">940301</field>
+<text_pt>
 O presidente da entidade, Moreira Ferreira, diz que vai ainda analisar melhor as medidas que criam a URV
 Da Folha ABCD e da Reportagem Local
 O presidente da Fiesp, Carlos Eduardo Moreira Ferreira, evitou analisar ontem a URV e o plano econômico. Ele disse que deve receber somente hoje estudos detalhados sobre as mudanças econômicas. Moreira Ferreira se limitou a dizer que o plano deve ser apoiado porque a "inflação é o pior mal da sociedade". Ele também afirmou não acreditar que os trabalhadores tenham as perdas salariais propagadas pelos sindicalistas.
@@ -2364,9 +2364,9 @@ O presidente do SindusCon acha que o plano pode gerar uma paralisação das obras,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-156</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-156</field>
+<field name="date">940301</field>
+<text_pt>
 GUSTAVO PATÚ
 Da Sucursal de Brasília
 A equipe econômica precisou recorrer ontem a fórmulas aritméticas para tentar provar que não haverá perdas salariais referentes à inflação de fevereiro. Os assessores do ministro Fernando Henrique Cardoso não negam a seguinte afirmação: o IRSM (Índice de Reajuste do Salário Mínimo) de fevereiro, de 39,67%, não será aplicado sobre o valor nominal dos salários de fevereiro &#150;conforme determinava a lei salarial em vigor neste mês.
@@ -2380,9 +2380,9 @@ Ao ser colocado diante de um exemplo extremo, supondo inflação de 0% em março, o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-157</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-157</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Os bancos querem fazer a migração das operações do mercado financeiro para a URV (Unidade Real de Valor) antes da mudança de padrão monetário. O objetivo é acabar com as aplicações prefixadas e iniciar um processo de transição para produtos de investimento pós-fixadas. "Vamos, a partir de quarta ou quinta-feira, realizar reuniões com o Banco Central para ele nos dizer como devemos fazer para isso", contou Alcides Lopes Tápias, presidente da Febraban (Federação Brasileira das Associações de Bancos).
 "Nossa expectativa é que antes da implantação da nova moeda, todos já tenham aderido à URV", acrescentou. "O balanços dos bancos, por exemplo, devem se transformar em URV, mas para isso precisamos operar a transição dos ativos. Nos próximos dias, o BC vai expor suas idéias, e nós vamos discutí-las."
@@ -2393,9 +2393,9 @@ Para Tápias, é possível realizar um processo tranquilo, sem maiores problemas. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-158</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-158</field>
+<field name="date">940301</field>
+<text_pt>
 
 
 Matias Machline, presidente do Conselho de Administração do Grupo Sharp:"A elaboração do plano foi tão transparente, tão democrática que, desta vez, nem o governo tem direito de atrapalhar. A indenização extra de 50% sobre o último salário em casos de demissão sem justa causa não machuca as empresas e o abono de 5% para o funcionalismo público era necessário. A conversão dos preços para URV não altera muito a vida de minhas empresas, pois eles já estavam atrelados ao dólar. Acho que o governo está certo em acompanhar de perto os oligopólios, pois alguns setores aumentaram seus preços indiscriminadamente. Acho que os juros tenderão a cair em dois ou três meses e esperamos um aumento de 15% em nossas vendas este ano.'
@@ -2420,9 +2420,9 @@ Fernando A. Fernandes, presidente da Alshop (Associação de Lojistas de Shoppings
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-159</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-159</field>
+<field name="date">940301</field>
+<text_pt>
 Ministro do Trabalho continua em oposição ao plano FHC; maior dificuldade é o valor do salário mínimo
 CARLOS ALBERTO SARDENBERG
 Enviado especial a Brasília
@@ -2435,9 +2435,9 @@ A equipe econômica não queria nada disso, especialmente nenhuma referência a con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-160</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-160</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal do Rio
 O presidente da Comissão Diretora do programa de privatização, André Franco Montoro Filho, disse ontem que os preços das empresas a serem privatizadas serão calculados em URV e convertidos para cruzeiros reais da data do leilão. A nova regra passa a vigorar para o leilão da Caraíba Metais, marcado para 17 deste mês.
 Até agora, os preços das empresas privatizados eram cotados em dólar e convertidos em cruzeiros reais da data do leilão, com correção pela TR (Taxa Referencial) até a data da liquidação financeira.
@@ -2445,9 +2445,9 @@ Hoje, na Bolsa do Rio, serão leiloadas as ações da CSN (Companhia Siderúrgica Na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-161</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-161</field>
+<field name="date">940301</field>
+<text_pt>
 Do enviado especial a Brasília
 A URV e o Real nasceram, na teoria, dez anos atrás, nos estudos dos economistas Pérsio Arida, André Lara Resende e Francisco Lopes. Analisando alternativas de derrubar a chamada inflação inercial, eles desenvolveram a idéia de fazer circular ao lado da moeda podre, inflacionária, uma moeda sólida, indexada e/ou vinculada ao dólar. Dada a superioridade da moeda estável, a sociedade passaria progressivamente para ela.
 A teoria clássica dizia que a moeda podre expulsa a boa. André Lara Resende, em 1984, propos então a anti-lei: criar mecanismos pelos quais a moeda boa expulsa a podre. A idéia foi desenvolvida em dois textos, escritos com Pérsio Arida.
@@ -2458,9 +2458,9 @@ Como não tem choques, o plano pôde ser discutido com diversos economistas e cons
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-162</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-162</field>
+<field name="date">940301</field>
+<text_pt>
 EDNA DANTAS
 Da Sucursal do Rio
 O economista Francisco Lopes, um dos "pais" do plano Cruzado, disse ontem que o Real deverá ser implantado num prazo de dois a três meses. Segundo ele, quanto maior a inflação em cruzeiro real mais rápida será a adoção da nova moeda. Lopes passou a manhã discutindo com cerca de 70 empresários fluminenses a medida provisória que instituiu a URV (Unidade Real de Valor).
@@ -2471,9 +2471,9 @@ Francisco Lopes ressaltou que o plano vai "ufirizar" a economia. Segundo o econo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-163</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-163</field>
+<field name="date">940301</field>
+<text_pt>
 
 
 Marcos Cintra Cavalcanti de Albuquerque, vereador pelo PL-SP e professor titular da Fundação Getúlio Vargas: "O plano não é recessivo. Pode até ter um efeito expansionista, por causa da indexação pela média dos salários. O governo precisa utilizar todos os instrumentos de que dispõe para evitar que uma pressão de demanda acabe contaminando a URV. Não há dúvida que há um processo de dolarização, mas sem a paridade fixa da Argentina, o que seria muito difícil de fazer no Brasil. O governo, nesse ponto, agiu corretamente. Estou bastante otimista com o plano. É mais flexível que os anteriores e tem boa probabilidade de sucesso, apesar de algumas incógnitas, como, por exemplo, saber se haverá um efetivo controle do déficit."
@@ -2508,9 +2508,9 @@ Paulo Nogueira Batista Júnior, professor da FGV: "Existem várias coisas positiva
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-164</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-164</field>
+<field name="date">940301</field>
+<text_pt>
 Segundo sindicatos de São Paulo, Osasco e Guarulhos, 100 mil trabalhadores vão parar contra perdas salariais
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
@@ -2523,18 +2523,18 @@ A Força Sindical Estadual tem reunião dia 2 e a Nacional, dias 7 e 8, quando a p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-165</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-165</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A Força Sindical promete também realizar uma manifestação de aposentados, no próximo dia 9, às 10h, na Praça da Sé, em protesto contra o mínimo de US$ 64,79, que por enquanto continua a ser o piso dos aposentados. Foram convocados 35 mil trabalhadores, segundo a central sindical.
 O presidente da Força Sindical, Luiz Antônio de Medeiros, disse que continua apoiando o plano de combate à inflação de FHC. "Eu tenho simpatia pelo Fernando Henrique e quero que ele seja o que ele aspira ser do país. Mas se nos acomodássemos nessa situação, estaríamos nos suicidando. Não há como convencer os trabalhadores e aposentados de que não há perdas", afirmou. (CPL)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-166</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-166</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 O funcionalismo público civil e militar terá em março ganho real de 1,26% em URV, afirmou ontem o ministro Romildo Canhim (Secretaria de Administração Federal). Segundo ele, os 5% de abono concedidos pelo governo no salário de fevereiro, especificados na MP 433, servirão para manter a expectativa do poder aquisitivo, sobretudo dos servidores que recebem menores salários &#150;cerca de 60% do funcionalismo federal.
 Segundo Canhim, como o abono foi dado sobre o salário de fevereiro, passa a ser incluído no cálculo da média dos últimos quatro meses, para efeito de conversão de salários em URV. Já que o abono entra no cálculo, acaba por aumentar a média, o que representa o ganho real em URV.Em março, os servidores públicos deveriam ter reposição salarial de 47% &#150;representando 50% da inflação dos últimos dois meses. Em vez disso, segundo Canhim, haverá a recuperação da inflação total de todo o período e haverá ainda o abono, que representa o ganho real.
@@ -2542,9 +2542,9 @@ Segundo Canhim, como o abono foi dado sobre o salário de fevereiro, passa a ser 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-167</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-167</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local e da Folha ABCD
 O presidente da CUT, Jair Meneguelli, disse ontem que "não estamos questionando a política salarial de 1º de março para frente", mas sim na hora de conversão em URV. Ele reafirmou que não vai aceitar perdas salariais e a "conversão dos salários pela média traz perdas, resta saber quanto".
 Segundo ele, a executiva ampliada da central se reúne hoje, com um estudo do Dieese sobre 73 categorias em mãos, para discutir formas de mobilização. "Há a possibilidade de decidirmos por uma paralisação", disse. A CUT Estadual São Paulo e cerca de 100 sindicatos filiados já votaram na proposta de greve geral.
@@ -2557,9 +2557,9 @@ Vicentinho esteve também ontem à tarde na sede da Anfavea, que representa as mon
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-168</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-168</field>
+<field name="date">940301</field>
+<text_pt>
 GILSON SCHWARTZ
 Da equipe de articulistas
 O Plano FHC é mais uma tentativa de apagar a memória inflacionária, essa mania de cada agente recuperar as perdas passadas.
@@ -2578,9 +2578,9 @@ Para combater a inflação em reais vai ser preciso acionar outras armas além do f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-169</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-169</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 As expectativas em relação ao plano econômico do governo puxaram os preços da cesta básica em São Paulo: de sexta-feira para ontem, a alta foi de 4,15%, um dos maiores índices já registrados em um fim-de-semana pela pesquisa do Procon/Dieese, iniciada há quatro anos. Em CR$ 60,9 mil, o preço da cesta básica subiu 54% no mês de fevereiro,  e 60% em relação ao dia 28 de janeiro.
 O aumento que os preços costumam registrar entre sexta-feira e segunda-feira fica em torno de 2,5%. No fim-de-semana anterior o preço da cesta já havia subido 5%, segundo Cornélia Nogueira Porto, do Dieese. "É uma alta especulativa e creio que agora haverá uma acomodação dos preços, passado o anúncio das medidas", afirma Cornélia. Na sua avaliação, o mercado não sustenta mais preços tão elevados.
@@ -2588,9 +2588,9 @@ A cesta básica do Procon/Dieese é composta por 22 alimentos, quatro produtos de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-170</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-170</field>
+<field name="date">940301</field>
+<text_pt>
 ALOYSIO BIONDI
 Especial para a Folha
 Primeira indignação. Depois, um crédito de confiança. Agora, volta à preocupação. De domingo para segunda-feira, foi essa a montanha russa de reações provocadas pela equipe econômica e seu plano. Nos últimos dias, havia ficado bem claro que o Plano FHC repetia choques anteriores, resumindo-se a três tipos de ação: achatamento de salários, (e preços liberados), elevação de juros, ajuste fiscal.
@@ -2602,9 +2602,9 @@ Está confirmado: a equipe inventou um plano esotérico para combater a inflação p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-171</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-171</field>
+<field name="date">940301</field>
+<text_pt>
 Medida provisória nº 434, de 27 de fevereiro de 1994
 Dispõe sobre o Programa de Estabilização Econômica, o Sistema Monetário Nacional, institui a Unidade Real de Valor &#150;URV e dá outras providências.
 O presidente da República, no uso da atribuição que lhe confere o art 62 da Constituição, adota a seguinte medida provisória, com força de lei:
@@ -2734,9 +2734,9 @@ b) o valor apurado na forma da alínea anterior será convertido para cruzeiros re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-172</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-172</field>
+<field name="date">940301</field>
+<text_pt>
 Pela medida provisória, mínimo é convertido em URV pela média dos quatro meses anteriores à conversão
 O salário mínimoserá convertidoem URV no dia1º de março
 Perdem eficáciacláusulas que corrigemsalários com prazoinferior a 12 meses
@@ -2825,9 +2825,9 @@ e) Os valores da URV ao sábados, domingos e feriados se referem à cotação do pri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-173</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-173</field>
+<field name="date">940301</field>
+<text_pt>
 Decreto nº 1.066, de 27 de fevereiro de 1994
 Dispõe sobre a metodologia de cálculo da Unidade Real de Valor (URV).
 O presidente da República, no uso das atribuições que lhe confere o art. 84, incisos II, IV, e VI, da Constituição, e tendo em vista o disposto no art. 4º, da Medida Provisória nº 434, de 27 de fevereiro de 1994,
@@ -2846,9 +2846,9 @@ Fernando Henrique Cardoso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-174</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-174</field>
+<field name="date">940301</field>
+<text_pt>
 Maior alteração é nos salários e aposentadorias; contratos em geral e aplicações financeiras permanecem iguais
 Da Sucursal de Brasília
 O novo indexador da economia, a URV (Unidade Real de Valor), não altera a vida cotidiana dos brasileiros. Com exceção dos salários e das aposentadorias, nada foi mofidicado em função do novo indexador. Ficam como estão as aplicações financeiras, o aluguel, os planos de saúde e as mensalidades escolares, por exemplo.
@@ -2862,9 +2862,9 @@ A seguir, uma guia completo para você se orientar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-175</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-175</field>
+<field name="date">940301</field>
+<text_pt>
 Com o cruzeiro real, a URV passa a integrar o Sistema Monetário Nacional; ela vale hoje CR$ 647,50
 Da Sucursal de Brasília e da Reportagem Local
 A URV (Unidade Real de Valor) junto com o cruzeiro real passam a integrar o Sistema Monetário Nacional. O Banco Central (BC) vai estimar diariamente a desvalorização do cruzeiro diante da URV. Depois de encerrado o expediente bancário, o BC informará o valor da URV do dia seguinte. "A URV é como uma moeda", disse Winston Fritsch, secretário de Política Econômica do Ministério da Fazenda.
@@ -2880,9 +2880,9 @@ Para Rizzieri, a URV não se trata exatamente da medida da inflação presente. O i
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-176</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-176</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Os inquilinos com contratos antigos de aluguel residencial (por prazo determinado ou indeterminado) saem ganhando com a não obrigatoriedade de adesão da URV como indexador. Isso porque, pelo menos até que a URV se transforme em moeda, os locatários têm o direito de continuar pagando seu aluguel com reajuste semestral &#150;sem atualização em cruzeiros reais durante esse período.
 "Com a inflação atual, no sexto mês de pagamento da mesma quantia em cruzeiros reais, o dinheiro recebido pelo dono do imóvel equivale a cerca 15% do estipulado na data do reajuste", diz Sérgio Luiz Abrantes Lembi, 36, vice-presidente do Secovi-SP (Sindicato das Empresas de Compra, Venda, Administração e Locação de Imóveis).
@@ -2895,9 +2895,9 @@ Graiche afirma que é importante salientar que as despesas mensais de condomínio 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-177</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-177</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 A decisão do governo de não criar regras específicas para a conversão das mensalidades em URV (Unidade Real de Valor) preocupa os representantes paulistas de pais e alunos e dos professores da rede particular de ensino. O temor é que, nessa segunda fase do plano econômico, os donos de escola aumentem os valores das mensalidades e sua margem de lucro enquanto os salários dos professores e demais funcionários das instituições de ensino estão sendo convertidos em URV pela média dos últimos quatro meses.
 "A ausência de regras é inaceitável. O governo quer promover uma medição de forças desigual entre pais e donos de escola", disse Hebe Toloso, presidente da Associação de Pais e Alunos do Estado de São Paulo. Para ela, é "surrealista" pensar que os pais têm força para negociar com as escolas a conversão das mensalidades pela média dos quatro meses.
@@ -2911,9 +2911,9 @@ Ele explica: primeiro os professores vão perder. A categoria têm dissídio em mar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-178</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-178</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Quem está pagando financiamento da casa própria não terá mudanças na forma de reajuste estipulada em contrato. As dívidas e prestações do SFH (Sistema Financeiro da Habitação) mantém-se inalteradas, para não haver descasamento com a poupança. No caso de financiamentos diretos já contratados com a incorporadora e/ou construtora, também não há obrigatoriedade de adoção da URV como indexador.
 Dolzonan da Cunha Mattos, 45, diretor-superintendente da construtora Encol, diz que a empresa não vai procurar os compradores para propor troca de indexador nos casos em que há financiamento direto. "Não pretendemos mexer nos contratos, a não ser que haja interesse do cliente", afirma.
@@ -2925,9 +2925,9 @@ Segundo Rocha, o receio da entidade é que no futuro o governo tente repassar ess
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-179</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-179</field>
+<field name="date">940301</field>
+<text_pt>
 Cálculo para a URV vai considerar o valor desta no dia do pagamento, inclusive quando há adiantamento
 VIVALDO DE SOUZA
 Da Sucursal de Brasília
@@ -2946,9 +2946,9 @@ Colaborou a Redação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-180</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-180</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo calcula que o salário mínimo de março valerá CR$ 58.732,14 ao ser pago no último dia do mês -considerando uma inflação de 40% esse mês. Esse valor é hipotético: o mínimo será mantido em 64,79 URVs, o que hoje equivale a CR$ 41.951,52. Pela lei salarial em vigor até ontem, o mínimo de março valeria pouco mais de CR$ 55 mil.
 É o valor em URV que balizará o valor do mínimo quando este for pago diária ou semanalmente. Uma diarista, por exemplo, que recebe pelo correspondente do salário mínimo diário, terá vencimento de 2,16 URVs (64,79 dividido por 30). Operários da construção civil com vencimento semanal pelo salário mínimo receberão 16,2 URVs, sempre pelo valor da URV no dia do pagamento.
@@ -2957,9 +2957,9 @@ O valor do mínimo em URV foi calculado pela média dos últimos quatro meses, como
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-181</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-181</field>
+<field name="date">940301</field>
+<text_pt>
 VIVALDO DE SOUZA
 Da Sucursal de Brasília
 Os aposentados e pensionistas da Previdência Social só vão receber benefícios convertidos em URV (Unidade Real de Valor) em abril, quando são pagos os benefícios de março. O ministro da Previdência, Sérgio Cutolo, disse ontem que os segurados terão ganhos entre 6% e 27% com a conversão, porque o pagamento será com base na URV do dia de recebimento.
@@ -2971,9 +2971,9 @@ A contribuição previdenciária de março, paga em abril, também deve ser calculada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-182</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-182</field>
+<field name="date">940301</field>
+<text_pt>
 Presidente do Banco Central, Pedro Malan, diz que instituição não pretende alterar atual política de juros
 Da Sucursal de Brasília
 A introdução da segunda fase do plano de estabilização não vai alterar a política de juros que vem sendo praticada pelo Banco Central, disse ontem o presidente da instituição, Pedro Malan. Segundo ele, o BC vai continuar trabalhando para manter uma taxa de juros reais, ou seja, superior à inflação.
@@ -2990,9 +2990,9 @@ Colaborou a Redação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-183</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-183</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 A regra de remuneração das cadernetas de poupança poderá ser alterada antes mesmo de a URV &#150;o novo indexador&#150; se transformar em Real. Segundo anunciou ontem o presidente do Banco Central, Pedro Malan, assim que o governo concluir os estudos necessários, a poupança passa a ser remunerada pela URV e não mais pela TR (Taxa Referencial).
 Não há prazo para essa transformação. O governo prefere estudar com calma os reflexos disso na parte de financiamentos com recursos da caderneta. Uma vez concluídos os estudos, não há necessidade de lei. A MP 434 permite que a alteração seja feita por resolução do Conselho Monetário Nacional.
@@ -3002,9 +3002,9 @@ A tendência, acredita o BC, é uma redução no volume de aplicações em CBDs prefix
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-184</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-184</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 O mercado acionário viverá um período de intensa volatilidade na fase de transição até a criação da nova moeda, situação que faz crescer o risco de grandes lucros, mas também de grandes prejuízos. Por isso, os especialistas recomendam a aplicação nesse ativo apenas quando o horizonte for o retorno de longo prazo. Aplicar em Bolsa de Valores aquele dinheiro que tem gasto previsto no curto prazo, nem pensar. 
 Segundo Álvaro Augusto Vidigal, presidente da Bovespa (Bolsa de Valores de São Paulo), as perspectivas do investimento em ações são excelentes para o médio e o longo prazo. "Nessa fase de transição, é muito risco", afirma. "A tendência do mercado acionário é de continuar o seu ciclo de alta."
@@ -3014,9 +3014,9 @@ Segundo Buchenrode, para comprar ações agora, na fase de transição, será preciso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-185</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-185</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de BrasíliaA introdução da URV poderá beneficiar assalariados que receberem o pagamento até o último dia do mês trabalhado. Eles pagarão menos Imposto de Renda Retido na Fonte (IRRF). A nova tabela do IRRF, divulgada ontem, exclui da base de cálculo do tributo a inflação do mês.
 De acordo com a instrução normativa da Receita, os rendimentos expressos em URV serão convertidos para cruzeiros reais com base no valor da URV no primeiro dia do mês do recebimento. Ou seja, se o salário for pago no dia 30, o imposto incidirá sobre uma base de cálculo menor porque a URV do dia primeiro vale menos cruzeiros reais que no último dia do mês.
 Até ontem, o IRRF incidia sobre os salários nominais, incluindo a correção monetária.
@@ -3024,9 +3024,9 @@ Os rendimentos expressos em cruzeiros reais &#150;caso dos autônomos&#150; terão
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-186</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-186</field>
+<field name="date">940301</field>
+<text_pt>
 Da Redação
 Os saldos do FGTS (Fundo de Garantia do Tempo de Serviço) permanecem sendo corrigidos pela remuneração básica da poupança (TR) mais juros de 0,246627% ao mês (equivalentes a 3% ao ano).
 As regras de saque em caso de demissão por justa causa e de contas inativas também não se alteram. O crédito continuará sendo feito todo dia 10 (ou o primeiro dia útil subsequente) e o dinheiro, no caso de demissão sem justa causa, é liberado até cinco dias úteis após o pedido.
@@ -3035,9 +3035,9 @@ A única mudança introduzida pela medida provisória do Plano FHC é reflexo da alt
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-187</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-187</field>
+<field name="date">940301</field>
+<text_pt>
 Da Redação
 Os financiamentos ao consumidor, prefixados ou pós-fixados, permanecem com as regras já pactuadas, seja em relação a prazo, juros e correção monetária. Nada muda também quanto à emissão de cheques e juros do cheque especial.
 No caso do crediário, nada muda se a prestação corresponde a um financiamento obtido em financeiras. Se for, no entanto, um financiamento próprio da loja, o caso se insere na regra válida para os contratos em geral. Pode haver repactuação dos valores, com base na URV, se as partes concordarem. Se não, são mantidas as condições previstas em contrato.
@@ -3046,9 +3046,9 @@ Títulos de crédito em geral, ordens de pagamento e letras de câmbio continuam se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-188</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-188</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 Todos os impostos continuam indexados à Ufir (Unidade Fiscal de Referência). O ministro da Fazenda, Fernando Henrique Cardoso, chegou a incluir no seu "Programa de Estabilização" que os impostos seriam corrigidos pela URV para dar maior confiabilidade ao novo indexador.
 A Receita Federal desaconselhou o uso da URV como indexador dos impostos por temer as contestações judiciais. Um estudo feito pela Receita indicava que os tributos só poderiam ser corrigidos monetariamente por um indexador que conseguisse medir a inflação passada.
@@ -3061,9 +3061,9 @@ Embora salário pago até o quinto dia útil do mês seja do mês anterior e a anteci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-189</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-189</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília e da Reportagem Local
 A variação diária da Unidade Real de Valor e a do dólar serão praticamente iguais nesse primeiro momento de implantação do novo indexador, disse ontem o presidente do Banco Central, Pedro Malan. As duas cotações serão balizadas pelo BC a partir dos mesmos critérios: os dados do IPCA-E (que corrige a Ufir), IGP-M e IPC da Fipe, projeções de inflação futura e da variação dos preços internacionais.
 Não estão previstas dificuldades para a administração da política cambial pelo BC, em virtude do volume de US$ 33 bilhões em reservas internacionais. Segundo Malan, o BC atuará no mercado de dólar comercial sempre que esta cotação ameaçar ficar acima da URV fixada para o dia &#150;entretanto, como há um grande fluxo de entrada de recursos estrangeiros no país, o BC normalmente é comprador de dólar, cuidando apenas de preservar a correção diária de seu valor.
@@ -3072,9 +3072,9 @@ O controle do BC sobre o mercado de dólar é total. Ontem, o BC realizou leilão d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-190</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-190</field>
+<field name="date">940301</field>
+<text_pt>
 Da Reportagem Local
 Começa hoje uma nova fase de juros reais altos na economia e que deve durar até pelo menos outubro, quando já estará claro se o programa de estabilização da moeda deu certo. Como, porém, ainda há dúvidas sobre como será a aplicação dos diversos indexadores da economia na transição para o novo padrão monetário, será importante deixar o dinheiro aplicado em produtos que rendam juros, mas que permitam seu resgate diariamente. 
 Neste período, vale a pena manter o dinheiro aplicado em renda fixa e em modalidades de investimento como os fundos de commodities, DI e carteira livre. Todos oferecem essa possibilidade. O Fundão perde para essas alternativas: a tributação é alta no dinheiro sacado no curto prazo, o que não acontece os outros fundos sugeridos. "A política monetária é de juros altos e vai permanecer assim", afirma Alcides Lopes Tápias, presidente da Febraban (Federação Brasileira das Associações de Bancos). "Não dá para ser diferente neste momento."
@@ -3086,9 +3086,9 @@ Para Vicente Teixeira, diretor financeiro do Bamerindus, as operações do mercado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940301-191</text_pt>
-<text_pt name="date">940301</text_pt>
-<text_pt name="text">
+<field name="id">FSP940301-191</field>
+<field name="date">940301</field>
+<text_pt>
 Da Sucursal de Brasília
 As empresas que demitirem funcionários sem justa causa durante a vigência da URV (Unidade Real de Valor) deverão pagar multa de 50% sobre o último salário recebido. Essa multa será acrescida à indenização trabalhista já prevista na legislação e e deverá ser paga ao trabalhador que tiver sido demitido desde ontem, quando a MP (Medida Provisória) 434 foi publicada no "Diário Oficial da União".
 Esta indenização adicional, como qualificada na MP, foi criada para evitar demissões imotivadas, artigo da Constituição ainda não regulamentado. O objetivo da multa é evitar o desemprego no atual quadro recessivo da economia.

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940926-001</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-001</field>
+<field name="date">940926</field>
+<text_pt>
 Lula volta a afirmar que é vítima de preconceito e chora; PM calcula em 100 mil os presentes no Anhangabaú
 O PT realizou ontem seu último comício em São Paulo. A menos de uma semana da eleição e com 22% de intenções de voto, Luiz Inácio Lula da Silva voltou a afirmar que é vítima de preconceito. Lula levou um menino de rua para o palanque e, ao entrevistá-lo, chorou.
 A PM calcula que cerca de 100 mil pessoas participaram do comício no vale do Anhangabaú, no centro. Chico Buarque, o principal artista presente, cantou quatro músicas.
@@ -13,9 +13,9 @@ Supereleição
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-002</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-002</field>
+<field name="date">940926</field>
+<text_pt>
 Já se comentou, neste espaço, a perspectiva de que algumas lideranças políticas tradicionais sofram um golpe duro em consequência das eleições, como são em especial os casos de Leonel Brizola (PDT) e Orestes Quércia (PMDB). Agora, surgem informações que permitem contabilizar entre as vítimas do processo eleitoral também o sistema partidário em vigor. Se de fato as urnas confirmarem os resultados que as pesquisas apontam e o candidato Fernando Henrique Cardoso eleger-se já no primeiro turno, há quem suponha que possa ocorrer uma grande rearrumação partidária.
 É pelo menos o que está na cabeça dos coordenadores da campanha do concorrente tucano, conforme revelou reportagem publicada anteontem por esta Folha. O projeto seria o de construir um grande partido social-democrata, recolhendo fatias de várias agrupações, mesmo daquelas (como o PFL) que nem mesmo com licença poética poderiam ser consideradas como de tendência social-democrata.
 Em tese, faz todo o sentido a intenção de agrupar os que se consideram sociais-democratas em um único partido. É uma das incongruências do sistema partidário brasileiro o fato de que políticos que assumem esse rótulo estejam espalhados, hoje, pelo PSDB, PDT, PMDB e até mesmo o PT.
@@ -26,9 +26,9 @@ Desse ponto de vista, portanto, o artificialismo permaneceria, ainda que reduzid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-003</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-003</field>
+<field name="date">940926</field>
+<text_pt>
 Apesar do clima de otimismo apontado nas pesquisas, o plano de estabilização vem acumulando algumas tensões. Na entrevista que concedeu a esta Folha, publicada na edição de ontem, o ministro da Fazenda, Ciro Gomes, diz que pretende agir com energia para superá-las. Afinal, preservar a estabilidade da moeda e conduzir a economia sem maiores turbulências até o próximo governo é a principal responsabilidade da atual gestão.
 Algumas das declarações parecem decorrer de uma forma própria de se expressar, o que não muda necessariamente o conteúdo das futuras ações. Descontadas questões de estilo, a declarada disposição de combater os oligopólios e pressionar os futuros governadores a ajustar os bancos estaduais é positiva.
 A queda da inflação pôs às claras as consequências de administrações que vieram gastando irresponsavelmente, tomando empréstimos dos bancos estaduais sob seu controle até endividá-los excessivamente. Para sanear essas instituições parecem ser necessárias medidas de grande envergadura.
@@ -38,9 +38,9 @@ Neste momento ainda delicado do ponto de vista das expectativas, a atuação ágil 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-004</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-004</field>
+<field name="date">940926</field>
+<text_pt>
 O slogan "povo desenvolvido é povo limpo", utilizado em uma antiga campanha para incentivar a população a adotar salutares hábitos de limpeza, vem à memória a propósito de uma recente pesquisa sobre lixo atirado nas ruas feita pela Associação Brasileira das Empresas de Limpeza Pública: 28% dos paulistanos acham que é mais prático jogar o lixo casual no chão.
 Se os dados chocam pela quantidade de pessoas que não se preocupam nem um pouco com a limpeza da cidade, note-se também que eles ajudam a explicar a sujeira que usualmente se vê nas ruas de São Paulo e, sem dúvida, na maioria da cidades brasileiras.
 Deve-se ressaltar que a administração pública tem grande parcela de culpa por não instalar caixas coletoras de lixo em quantidade suficiente pela cidade. Mas o papel de vilão é também do cidadão, que, ao desdenhar princípios básicos de educação, não preserva o precário serviço de limpeza geralmente realizado pelas prefeituras.
@@ -50,9 +50,9 @@ Uma mudança de atitude com relação à limpeza urbana teria como consequência óbvi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-005</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-005</field>
+<field name="date">940926</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; A Lagoa, como a Gália no tempo de Júlio César, é dividida em três partes: o acidente topográfico, os acidentes de percurso e os problemas incidentais. Como acidente topográfico é aquilo que os compêndios ensinam: uma porção de água cercada de terra por todos lados. Havia mais água quando os tamoios aqui pescavam em suas pirogas. Hoje, não temos nem tamoios nem pirogas, a bela Sacopenapã tomou o nome do engenho de açúcar que havia lá pelos lados do Jardim Botânico mas ninguém se refere à lagoa pelo nome oficial: é a Lagoa e basta.
 Os acidentes de percurso são notáveis: maior rótulo viário do mundo (mais de 60 entradas e saídas em todas as direções e intenções), a Lagoa já foi bairro terminal, fim de linha onde acabava o trabalho e começava o lazer. A Curva do Calombo foi retificada diversas vezes mas sempre apanha o forasteiro deslumbrado que atravessa o túnel.
@@ -62,9 +62,9 @@ Todas as noites, antes de deitar, dou uma espiada para ver se ele continua lá em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-006</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-006</field>
+<field name="date">940926</field>
+<text_pt>
 Florestan Fernandes
 À medida que se contrai o espaço geopolítico e militar dos EUA, como consequência da globalização da economia mundial sob novas tecnologias e dinamismos do mercado, mais esse país se volta para as Américas. Em um mesmo momento de violência, ele procura obter submissão para converter o antigo quintal em território soldado a seus interesses econômicos, culturais e políticos.
 O governo ditatorial vigente no Haiti não pode receber o apoio racional de ninguém. Cabe aqui a pergunta: por que a intervenção não se deu quando os militares tomaram o poder e expulsaram o presidente Jean-Bertrand Aristide, participando os EUA da discussão do assunto na OEA e resolvendo-o democraticamente nessa instituição? Só quando surgiu um presidente norte-americano ávido por melhorar sua porcentagem de apoio popular e o governante haitiano deposto pelo golpe aderiu às concepções "neoliberais", contrárias à sua plataforma política, corporificou-se uma solução arbitrária.
@@ -78,9 +78,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-007</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-007</field>
+<field name="date">940926</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Na entrevista publicada ontem pela Folha, o ministro Ciro Gomes cutucou os empresários com uma ironia, mostrando-os em conluio com a CUT. Numa questão essencial, estariam mais próximos de Luiz Inácio Lula da Silva, candidato que combatem, do que com as idéias pregadas em seus discursos: abertura de importações. Tem sentido.
 Por trás da discussão sobre a abertura de importação, há uma tremenda enganação: empresários e sindicalistas alegam que corre-se o risco de a produção cair e provocar desemprego. Acena-se, portanto, com o marketing social.
@@ -92,9 +92,9 @@ O presidente Fernando Henrique terá problemas com o empresariado, coisa que não 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-008</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-008</field>
+<field name="date">940926</field>
+<text_pt>
 A solução para os problemas do ensino passa por uma televisão educativa moderda
 ROBERTO MUYLAERT
 A televisão, bode expiatório ou panacéia para os males do país, está sempre no centro de todas as discussões, principalmente em momentos eleitorais. Mas quem queira se debruçar sobre a questão do poder da mídia de maneira menos imediatista deve se perguntar: como seria a televisão brasileira em um governo que demonstre real vontade política de melhorar a condição e a qualidade de vida dos brasileiros?
@@ -115,9 +115,9 @@ ROBERTO MUYLAERT, 59, jornalista, é presidente da Fundação Padre Anchieta e auto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-009</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-009</field>
+<field name="date">940926</field>
+<text_pt>
 O controle da mídia eletrônica por oligarquias políticas torna a transparência impossível
 PAULO SÉRGIO PINHEIRO
 
@@ -145,9 +145,9 @@ PAULO SÉRGIO PINHEIRO, 48, é professor de ciência política, diretor do Núcleo de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-010</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-010</field>
+<field name="date">940926</field>
+<text_pt>
 "Queremos protestar contra a nota do dia 22/08, que classifica o Grupo Pela Vidda-SP (Valorização, Integração e Dignidade do Doente de Aids), como um grupo gay. Nosso grupo não é fechado apenas a um segmento. É aberto a todos os segmentos sócio-políticos e econômicos e a todas as opções sexuais. Nosso trabalho se concentra na solidariedade de todos na luta contra essa terrível pandemia. E não fazemos nenhuma distinção entre os portadores do HIV e suas opções. As pessoas aqui se apresentam como voluntárias no combate à Aids, que é vista como um problema comum de toda a sociedade."
 Renata Moura de Almeida (São Paulo, SP)
 
@@ -178,9 +178,9 @@ Alberto Gomes dos Santos (Curitiba, PR)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-011</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-011</field>
+<field name="date">940926</field>
+<text_pt>
 Governo quer dar 13,39% e Petrobrás chegou a estudar concessão de abono
 FRANCISCO SANTOS
 Da Sucursal do Rio
@@ -203,9 +203,9 @@ O Exército foi chamado a intervir e ocupou as unidades de Duque de Caxias (RJ), 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-012</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-012</field>
+<field name="date">940926</field>
+<text_pt>
 O governador Fleury chegou a Barretos, no interior paulista, para participar da Festa do Peão de Boiadeiro. No caminho da tribuna, ia cumprimentando as pessoas, até que um dos organizadores lembrou: o convidado precisava de um chapéu de boiadeiro.
 Os anfitriões se mobilizaram para encontrar um chapéu para Fleury. Logo apareceu um, dos mais elegantes, mas pequeno para se ajeitar na cabeça do governador. Os organizadores foram procurar outro.
 O locutor já havia anunciado a presença de Fleury, e nada de o governador conseguir um chapéu para poder aparecer. Finalmente, alguém surgiu com uma peça que cabia na sua cabeça.
@@ -215,9 +215,9 @@ Fleury não teve dúvidas: tirou o próprio chapéu e estendeu a Munhoz, de físico a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-013</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-013</field>
+<field name="date">940926</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro das Relações Exteriores, Celso Amorim, defenderá hoje em Nova York, na abertura da Assembléia Geral da ONU (Organização das Nações Unidas), a participação permanente do Brasil no Conselho de Segurança.
 Ele pedirá também a convocação de uma conferência sobre o desenvolvimento e cobrará dos países mais ricos uma parceria mais direta com as nações mais pobres.
@@ -234,9 +234,9 @@ Amorim também vai criticar a ocupação do Haiti comandada pelas Forças Armadas do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-014</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-014</field>
+<field name="date">940926</field>
+<text_pt>
 Da FT
 Os cerca de um milhão de trabalhadores na construção civil paulista entram hoje em greve por tempo indeterminado. Na capital, a categoria tem 300 mil operários.
 Embora tenham data-base em 1º de maio, os trabalhadores querem o cumprimento do acordo coletivo, que prevê a negociação de perdas no segundo semestre. Eles reivindicam a reposição dos 11,87% do IPC-r de julho e agosto mais 36,22% de perdas antigas.
@@ -245,9 +245,9 @@ O Sindicato dos trabalhadores na construção civil da capital mapeou 18 pontos on
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-015</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-015</field>
+<field name="date">940926</field>
+<text_pt>
 Audiência será em clima tenso; sindicatos querem reajuste de 119% mais 13% reais e bancos acenam com 16%
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
@@ -268,9 +268,9 @@ Está marcada para amanhã uma nova assembléia dos bancários.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-016</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-016</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A seguir, os principais trechos da entrevista de Ricardo Berzoini, presidente do Sindicato dos Bancários:
 Folha - O que muda agora que a Fenaban pediu o julgamento do dissídio de vocês?
@@ -286,9 +286,9 @@ Berzoini - Nós temos uma referência sindical muito forte e que nós, apesar de to
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-017</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-017</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A seguir os principais trechos da entrevista com Alencar Rossi, coordenador de negociações da Fenaban.
 Folha - Por que a Fenaban resolveu pedir o julgamento do dissídio dos bancários?
@@ -319,9 +319,9 @@ Rossi - Não dá para fazer isso. Até porque o sistema bancário depende de toda um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-018</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-018</field>
+<field name="date">940926</field>
+<text_pt>
 John Maddox - Eu creio que são duas coisas. Em primeiro lugar é a tradição. Há uma longa tradição em muitos campos da ciência de as pessoas gostarem de suas descobertas interessantes aparecerem na "Nature".
 Nós também sempre tivemos, desde que começamos há 125 anos, um grande interesse em evolução, porque um dos nossos fundadores foi T. H. Huxley, o homem que apoiou Darwin. Nós ainda somos uma espécie de revista darwiniana, por assim dizer.
 Folha - Qual o papel do editor em uma revista científica como a "Nature", na qual os artigos passam por um revisão pelos pares, isto é, outros cientistas analisam o mérito de cada artigo enviado à revista?
@@ -371,9 +371,9 @@ Maddox - Sim. E é um serviço que nós pretendemos continuar, expandir.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-019</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-019</field>
+<field name="date">940926</field>
+<text_pt>
 Telesp prepara concorrência de US$ 1 bilhão; novos telefones passarão a ser alugados
 ELVIRA LOBATO
 Da Reportagem Local
@@ -398,9 +398,9 @@ O modelo se tornou um problema para a Telebrás, que não consegue gerir uma base 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-020</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-020</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Na sexta-feira passada, o ministro das Comunicações, Djalma Morais, e presidentes de várias telefônicas estatais reuniram-se com representantes das indústrias de equipamentos de telecomunicações para discutir o sistema de parcerias. A reunião foi no Rio de Janeiro, na sede da Telerj.
 Segundo o presidente da Ericsson, Carlos Paiva Lopes, o governo apresentou as perspectivas de parcerias, mas os projetos ainda estão em fase de análise. "As empresas estão animadas com as parcerias, porque será uma forma de aumentar a ocupação industrial", afirmou. Há uma ociosidade atual na indústria de 50%.
@@ -408,16 +408,16 @@ Verner Dittmer, diretor superintendente da Equitel (sócia da Siemens alemã) diz 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-021</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-021</field>
+<field name="date">940926</field>
+<text_pt>
 Começa hoje em Londres nova rodada de negociações da Organização Internacional do Café. Seu objetivo é tentar estabilizar os preços do café que, desde o início de 94, saltaram de US$ 1 mil para US$ 4 mil a t. "O mercado não deve esperar medidas drásticas", disse o embaixador brasileiro Rubens Barbosa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-022</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-022</field>
+<field name="date">940926</field>
+<text_pt>
 OSMAR ZOGBI
 O processo de estabilização da economia, embora debatido com abertura, não se impõe, diante de uma realidade inflacionária incontrolável e renitente, sem traumas ou sem entrechoque de interesses.
 O Plano Real, ao instituir a URV como valor de passagem de uma economia inflacionária para outra estável, para que os preços pudessem ser realinhados, inibiu a partir da implantação da nova moeda qualquer aumento de preço que pressionasse a inflação.
@@ -447,9 +447,9 @@ OSMAR ZOGBI, 48, industrial, é presidente da ANFPC (Associação Nacional dos Fabr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-023</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-023</field>
+<field name="date">940926</field>
+<text_pt>
 SÉRGIO ROSA
 A lucratividade do sistema financeiro nas últimas décadas dispensa maiores comentários. É do conhecimento de todos o desempenho sempre acima da média dos bancos, favorecidos pela ciranda financeira e pela concentração de serviços que a sociedade entregou a eles, sem ter recebido, em contrapartida, bom atendimento e investimentos na produção.
 Para comprovar a excelente situação basta ver os balanços do primeiro semestre de 94. Os 50 maiores bancos do país tiveram lucro de US$ 2,8 bilhões, enquanto as 50 maiores empresas nacionais tiveram lucro acumulado de US$ 287 milhões.
@@ -475,9 +475,9 @@ SÉRGIO ROSA, 35, é presidente da Confederação Nacional dos Bancários.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-024</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-024</field>
+<field name="date">940926</field>
+<text_pt>
 A psicologia já estudou exaustivamente esse mecanismo interno que leva as pessoas a sublimarem a realidade, como alternativa a ter de enfrentar problemas.
 Alguns exemplos práticos e educativos:
 Caso 1: Nossos fisiológicos são mais cívicos do que os outros.
@@ -493,9 +493,9 @@ Veio o Real, os bancos que fizeram o ajuste estão no azul, e o BB acumula um pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-025</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-025</field>
+<field name="date">940926</field>
+<text_pt>
 Expansão da telefonia em SP poderá ter parceria com setor privado
 REGIS MALLMANN
 Da Agência Folha, em Florianópolis
@@ -528,9 +528,9 @@ Por este motivo, há pressões, dentro da própria Telesp, para que o governo adote
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-026</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-026</field>
+<field name="date">940926</field>
+<text_pt>
 Patrimônio total supera R$ 43 bilhões; novas normas do IOF dificultarão escolha das melhores aplicações
 FIDEO MIYA
 Da Reportagem Local
@@ -560,9 +560,9 @@ Segundo técnicos da Andima, que reúne instituições financeiras, pelas novas norm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-027</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-027</field>
+<field name="date">940926</field>
+<text_pt>
 Variação % acumulada no mês
 
 POUPANÇA
@@ -594,9 +594,9 @@ Os CDBs prefixados para 31 dias pagavam entre 26% e 51% ao ano na última sexta-f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-028</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-028</field>
+<field name="date">940926</field>
+<text_pt>
 MARCELO CHERTO e MARCUS RIZZO
 Shirley Rogers, atual reitora da Universidade do Hamburger do McDonald's, sediada em Oak Brook, nas cercanias de Chicago, começou sua carreira na empresa como estagiária.
 Encostou a barriga no balcão e pôs a mão na massa. Foi gerente de loja, supervisora de área, consultora de campo e muita coisa mais. Portanto, conhece tudo a respeito da operação de uma loja McDonald's.
@@ -615,9 +615,9 @@ MARCELO CHERTO e MARCUS RIZZO são diretores da Cherto &amp; Rizzo Franchising e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-029</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-029</field>
+<field name="date">940926</field>
+<text_pt>
 HELCIO EMERICH
 De que maneira uma empresa pode capitalizar um acontecimento cívico, como as eleições, para reforçar sua imagem de marca sem perder de vista suas metas de vendas?
 No Brasil, os anunciantes ainda se mostram cautelosos em relação à idéia de vincular suas marcas a um evento político, talvez na suposição de que isso possa trazer um outro tipo de associação, que é a ideológica.
@@ -638,9 +638,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-030</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-030</field>
+<field name="date">940926</field>
+<text_pt>
 Líder mundial da venda direta de cosméticos globaliza operações e cresce
 NELSON BLECHER
 Enviado especial a Nova York
@@ -669,9 +669,9 @@ O jornalista Nelson Blecher viajou a Nova York a convite da Avon.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-031</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-031</field>
+<field name="date">940926</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG
 Da Reportagem Local
 Bill Gates, que revolucionou a informática com sua empresa Microsoft, produtora de programas de computador, revoluciona agora o mercado editorial: seu livro sobre o futuro da informação sairá simultaneamente em 13 línguas e 80 países.
@@ -693,30 +693,30 @@ Schwarcz está limitado, por contrato, a dizer apenas que se trata de uma visão d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-032</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-032</field>
+<field name="date">940926</field>
+<text_pt>
 Partidos aliados do chanceler (primeiro-ministro) da Alemanha, Helmut Kohl, devem manter a maioria no Parlamento do Estado da Baviera. A CSU (União Social Cristã), venceu as eleições com 52,8% dos votos. O FDP (Partido Liberal Democrata), que também apóia Kohl, teve apenas 2,8%. É a última votação local antes das eleições gerais de 16 de outubro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-033</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-033</field>
+<field name="date">940926</field>
+<text_pt>
 Ao fim da reunião entre o primeiro-ministro de Israel, Yitzhak Rabin, e o líder da OLP, Iasser Arafat, ontem em Erez (fronteira de Israel com a faixa de Gaza), foram marcadas para 3 de outubro no Cairo (Egito) novas negociações sobre a eleição de um Conselho de Autonomia Palestino. Também será discutida a extensão da autonomia palestina a toda a Cisjordânia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-034</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-034</field>
+<field name="date">940926</field>
+<text_pt>
 Cerca de 400 mil indianos já deixaram a região de Surat (270 km ao norte de Bombaim), fugindo da epidemia de peste peneumônica que matou cerca de 100 pessoas. Embora as autoridades afirmem terem controlado a epidemia em Surat, foi decretado alerta em 7 dos 25 estados do país e na capital, Nova Déli, para evitar a propagação da epidemia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-035</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-035</field>
+<field name="date">940926</field>
+<text_pt>
 DAVID DREW ZINGG
 Enviado especial a Los Angeles
 Bem-vindo à nova novela norte-americana: "O Programa O. J. Simpson".
@@ -737,9 +737,9 @@ O caso da madame Hollywood vai ganhar mais espaço entre as notícias se os advoga
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-036</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-036</field>
+<field name="date">940926</field>
+<text_pt>
 O líder zulu Mangosuthu Buthelezi desafiou instruções do rei Goodwill Zwelithini e liderou ontem uma comemoração com 15 mil pessoas em homenagem ao nascimento da nação zulu. Buthelezi, ministro do Interior de Nelson Mandela, disse que vai lutar para incluir o reino Zulu na Constituição sul-africana.
 
 A FRASE
@@ -763,9 +763,9 @@ O senador democrata dos EUA Christopher Dodd pediu ao presidente Bill Clinton qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-037</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-037</field>
+<field name="date">940926</field>
+<text_pt>
 Das agências internacionais
 O presidente deposto do Haiti, Jean-Bertrand Aristide, convocou ontem uma sessão extraordinária do Parlamento do país na quarta-feira em Porto Príncipe.
 O objetivo da reunião será analisar o projeto de lei de anistia aos militares haitianos.
@@ -782,9 +782,9 @@ Aristide comentou o incidente de sábado entre marines e soldados da polícia hait
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-038</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-038</field>
+<field name="date">940926</field>
+<text_pt>
 ANDRÉ FONTENELLE
 De Paris
 O "Libération", um dos maiores jornais da Europa, reagiu às mudanças recentes na imprensa francesa e lança hoje seu novo projeto gráfico e editorial.
@@ -800,9 +800,9 @@ Em 1981, viveu a segunda grande transformação, iniciando sua fase atual, como ve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-039</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-039</field>
+<field name="date">940926</field>
+<text_pt>
 O prefeito Paulo Maluf (foto) lança hoje projeto que promete o plantio de um milhão de árvores na cidade. O evento ocorre às 12h, nas ruas José de Camargo e José Vicente de Azevedo, no Bosque da Saúde (zona sul).
 
 O NÚMERO
@@ -819,9 +819,9 @@ O trajeto ferroviário entre Guaianazes (zona leste de SP) e Barra Funda (zona oe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-040</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-040</field>
+<field name="date">940926</field>
+<text_pt>
 'A Cidade e seus Fluxos', aberta anteontem, ocupa diversos pontos do centro da cidade
 DANIEL PIZA
 Da Reportagem Local
@@ -858,9 +858,9 @@ Em sala revestida por papéis escritos em braile, de Andrea Tonacci, um "rapper" 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-041</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-041</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Se a exposição no antigo matadouro, primeira parte do projeto Arte/Cidade, tendia ao conceitual, "A Cidade e seus Fluxos" tende ao lúdico e ao sensorial.
 Foi um ganho. Por ocupar vários pontos do centro da cidade, a nova exposição já pede a participação do público e o obriga a contrastá-la com a vida urbana real. Munido de mapa na mão, o espectador é levado a fazer um jogo de leitura múltiplo.
@@ -871,9 +871,9 @@ A montagem é eficiente, sobretudo no aproveitamento dos espaços. Há problemas de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-042</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-042</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A exposição "A Cidade e seus Fluxos" tem participação de 24 artistas: Abílio Guerra, Andrea Tonacci, Carlos Reichenbach, Tadeu Jungle, Wagner Garcia, Rubens Mano, Iole de Freitas, Anna Muylaert, Arlindo Machado, Artur Lescher, Artur Matuck, Carlos Fadon Vicente, Fujocka, Guto Lacaz, Lenora de Barros, Marco do Valle, Nelson Brissac Peixoto, Otávio Donasci, Regina Silveira, Roberto Ventura, Tadeu Knudsen, Walter Silveira, Wilson Sukorski e Wartércio Caldas.
 Várias linguagens interagem: instalação, performance, escultura, fotografia, CD-ROM, música, cinema, vídeo, computador.
@@ -887,9 +887,9 @@ Quando: até 23 de outubro; de terça a domingo, das 12h às 21h (filmes ao ar livr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-043</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-043</field>
+<field name="date">940926</field>
+<text_pt>
 O Sindicato dos Metalúrgicos de Juiz de Fora assinou um acordo que dá 44% de reajuste salarial para 6.000 trabalhadores. Maior categoria profissional da região, os metalúrgicos ameaçavam entrar em greve. O índice reivindicado pelo sindicato era de 45%.
 
 SP Litoral
@@ -909,9 +909,9 @@ A escola Zé Colméia, com duas unidades em Ribeirão Preto, começou a vacinar os a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-044</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-044</field>
+<field name="date">940926</field>
+<text_pt>
 Uma parada cardíaca matou na semana passada, aos 92, o entomologista (estudioso de insetos) Fritz Plaumann. Nascido na Alemanha, Plaumann chegou ao Brasil em 1924, quando começou a catalogar as espécies de insetos existentes em Santa Catarina.
 
 Santa Catarina 2
@@ -925,9 +925,9 @@ A estiagem de mais de 60 dias no norte do Paraná está causando em Londrina uma r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-045</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-045</field>
+<field name="date">940926</field>
+<text_pt>
 EURÍPEDES DE CARVALHO
 No Brasil, a Constituição de 88, a partir da pressão do movimento comunitário e dos profissionais da área, inscreveu a saúde como direito do cidadão e determinou a criação do SUS (Sistema Único de Saúde).
 O SUS apóia-se nos princípios da descentralização e da democratização. Descentralizar e democratizar significam aproximar as instâncias de decisão dos cidadãos. Para possibilitar a participação e controle popular, criam-se os Conselhos de Saúde. Esse processo tem avançado, de forma que hoje há conselhos em todos os Estados e em cerca de mil municípios.
@@ -943,9 +943,9 @@ EURÍPEDES DE CARVALHO, 38, médico ginecologista e obstetra, é presidente da Fede
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-046</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-046</field>
+<field name="date">940926</field>
+<text_pt>
 Dez dias de festa marcam os 459 anos da cidade de Igarassu, a 30 km de Recife. A programação religiosa se concentra na igreja matriz de São Cosme e Damião, a mais antiga do país, construída em 1535. Haverá shows diários, feira de artesanato e comidas típicas.
 
 Rio Grande do Norte
@@ -971,9 +971,9 @@ O cacique Apolônio, da tribo Xocó, em Sergipe, acusou fazendeiros da região do r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-047</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-047</field>
+<field name="date">940926</field>
+<text_pt>
 Da Agência Folha, em Recife
 O Instituto do Patrimônio Histórico e Artístico Nacional liberou R$ 670 mil para obras de estabilização e drenagem na colina onde está a igreja do Carmo, construída em 1580, em Olinda (PE).
 O deslizamento do solo tem provocado rachaduras nos prédios do centro histórico de Olinda, declarado Patrimônio Cultural da Humanidade pela Unesco. Em junho deste ano, havia sido pedido ao presidente Itamar Franco tratamento prioritário para a igreja do Carmo.
@@ -981,9 +981,9 @@ Mais R$ 70 mil serão destinados à conclusão das obras de restauração na igreja d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-048</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-048</field>
+<field name="date">940926</field>
+<text_pt>
 A Vigilância Sanitária começa hoje a orientar as distribuidoras de remédios, unidades de saúde e farmácias sobre os medicamentos para diarréia infantil. O Ministério da Saúde cancelou os registros de 75 remédios. A decisão saiu no "Diário Oficial" em 19 de setembro.
 
 Mato Grosso do Sul 2
@@ -997,9 +997,9 @@ A Secretaria de Saúde de Goiânia quer ampliar o atendimento na Casa de Atenção I
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-049</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-049</field>
+<field name="date">940926</field>
+<text_pt>
 O Tribunal Regional Eleitoral de Roraima pediu ao Tribunal Superior Eleitoral o envio de tropas federais para o primeiro turno. O TRE negou que haja clima de tensão no Estado. O motivo seria a necessidade de ajuda do Exército para a locomoção na região.
 
 Roraima 2
@@ -1025,9 +1025,9 @@ A PM do Amazonas começou anteontem a retirada de famílias do bairro São José Ope
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-050</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-050</field>
+<field name="date">940926</field>
+<text_pt>
 Da Equipe de Articulistas
 Em separata do número 121 da "Revista de Informação Legislativa" encontro análise de um tema atual: "Controle externo do Poder Judiciário e controle de qualidade do Judiciário e da magistratura: uma proposta" (24 páginas). O autor Carlos Mário da Silva Velloso, jurista consagrado e ministro do Supremo Tribunal Federal, examina o assunto sem preconceitos. Conclui &#150;diversamente da orientação que tenho defendido&#150; pela desnecessidade do controle externo. Propõe, porém, a implantação de um controle de qualidade da magistratura, que fiscalizaria o andamento dos serviços judiciários, com autoridade para propor soluções destinadas a eliminar as práticas viciosas.
 "Sigilo bancário para fins tributários" é o título do texto de José Luis de G. Rios no nº 3 do Boletim editado pela Escola de Advocacia da OAB de Minas Gerais, que traz outros estudos e jurisprudência.
@@ -1047,9 +1047,9 @@ Na mesma área do tomo precedente sai a atualização do livro de Blanchet, já com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-051</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-051</field>
+<field name="date">940926</field>
+<text_pt>
 JAIRO BOUER
 Especial para a Folha
 Começa hoje em todo o Brasil a 15ª edição da Semana do Coração. Até o próximo dia 30, profissionais especializados vão orientar a prevenção dos fatores de risco para as doenças cardiovasculares.
@@ -1070,9 +1070,9 @@ Um dado recente revela que 6% do sangue coletado nos bancos de sangue da cidade 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-052</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-052</field>
+<field name="date">940926</field>
+<text_pt>
 O secretário  estadual da Saúde, Cármino Antonio de Souza, pretende unificar as campanhas contra a doença no "Movimento de São Paulo na luta contra a Aids". A iniciativa quer definir uma programação de eventos, até fevereiro de 95, de esclarecimentos sobre a Aids.
 
 O NÚMERO
@@ -1095,9 +1095,9 @@ A Escola Paulista de Medicina (EPM) está usando uma nova forma de tratamento par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-053</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-053</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 O trajeto ferroviário entre Guaianazes (zona leste) e Barra Funda (zona oeste) vai ganhar um trem expresso a partir de hoje.
 A nova linha vai funcionar nos horários de pico, das 5h às 8h e entre 17h e 20h. Os trens vão fazer cinco viagens em cada período, com intervalos de 40 minutos. A passagem vai custar R$ 0,50.
@@ -1106,9 +1106,9 @@ O passageiro que descer na Barra Funda poderá usar a linha leste-oeste do metrô,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-054</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-054</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Os alunos do Liceu Coração de Jesus, na alameda Dino Bueno, estão aprendendo a economizar água, luz e telefone e ganhar dinheiro com isso.
 O professor de geografia Fernando Carraro, 52, propôs aos estudantes das 11 classes de 5ª a 8ª séries em que dá aula um trabalho inédito: esquematizar, em forma de gráficos, o consumo mensal de energia elétrica, água e impulsos telefônicos.
@@ -1119,9 +1119,9 @@ Os gráficos, que alguns estudantes chegaram a fazer no computador, estão exposto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-055</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-055</field>
+<field name="date">940926</field>
+<text_pt>
 O leitor Osvaldo Passadore Júnior utilizou no dia 12 de agosto o estacionamento Unipark localizado no hospital Santa Catarina e reclama do valor cobrado.
 "Dei entrada no estacionamento às 17h38 do dia 12 e, devido a uma emergência médica, saí às 9h50 do dia 14. Fiquei surpreso ao verificar que meu débito no estacionamento era de R$ 101,50", diz o reclamante.
 Passadore Júnior afirma que tal valor deve ter sido resultado de algum engano no sistema de cobrança. Ele sugere, ainda, que o Unipark faça um convênio com o Hospital Santa Catarina, para que seja possível dar desconto em casos como o dele. "Basta pedir um comprovante do hospital", diz.
@@ -1132,9 +1132,9 @@ Naman informa ainda que "o Unipark já entrou em contato com a administração do h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-056</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-056</field>
+<field name="date">940926</field>
+<text_pt>
 O leitor Marcelo Oliveira de Lima pede explicações à Telesp sobre a demora na instalação de sua linha telefônica, adquirida há dois anos. "A Telesp só sabe dizer que não consegue localizar o número do telefone correspondente ao meu endereço. De acordo com o registro deles, o meu telefone consta da estranha rua Lembranças do Futuro, 40", diz o leitor.
 
 Resposta
@@ -1144,9 +1144,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Editoria de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-057</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-057</field>
+<field name="date">940926</field>
+<text_pt>
 SERGIO TORRES
 Da Sucursal do Rio
 O prefeito do Rio, César Maia (PMDB), quer assumir os trens, estações, trilhos e bens da Companhia do Metropolitana do Rio, mas não os 3.300 funcionários da empresa, pertencente ao Estadual.
@@ -1164,9 +1164,9 @@ Os funcionários do Metrô reclamam que a prefeitura não tem pessoal especializado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-058</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-058</field>
+<field name="date">940926</field>
+<text_pt>
 Congestionamentos em horário de pico, das 17h às 19h, aumentaram em 25% após Plano Real
 Da Reportagem Local
 O hábito do paulistano de fazer compras à tarde contribuiu para a piora do trânsito na cidade depois da implantação do Plano Real.
@@ -1190,9 +1190,9 @@ Maluf sugere que o comprador retorne para casa depois das 20h, quando o trânsito
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-059</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-059</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 O número de mortes em acidentes de trânsito em São Paulo caiu nos meses de maio, junho, julho e agosto deste ano em relação aos mesmos meses do ano passado.
 Em maio, o total de 204 mortos foi 15,7% menor que o de maio de 93 (242). Em junho, a queda foi maior: 31,3% &#150;160 casos em 94 contra contra 233 em 93. A redução em julho foi de 15,6% (173 mortos em 94 e 205 em 93). Em agosto de 94, morreram 3% menos pessoas que em 93.
@@ -1201,9 +1201,9 @@ Os dados revelam que o número de acidentes entre janeiro e agosto deste ano (107
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-060</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-060</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A rua Alvorada, na Vila Olímpia (zona sul), está interditada entre as ruas Nova Cidade e Ribeirão Claro até a próxima semana, segundo a CET (Companhia de Engenharia de Tráfego).
 As obras se devem à canalização do córrego Uberaba.
@@ -1211,9 +1211,9 @@ Enquanto isso, quem utiliza a rua com destino à hípica, Aeroporto e Jabaquara, d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-061</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-061</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Três ruas do Campo Belo (zona sul) continuarão interditadas por pelo menos 120 dias para a canalização do córrego Águas Espraiadas.
 A rua João Álvares Soares está bloqueada entre as ruas Bernardino de Campos e Volta Redonda.
@@ -1224,9 +1224,9 @@ Quadro na página 4-4 errou ao informar que Yang Deng é a nº 14 da seleção da Chi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-062</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-062</field>
+<field name="date">940926</field>
+<text_pt>
 Cada grupo da 2ª fase tem três times paulistas e dois cariocas
 Palmeiras, Corinthians, Guarani e Botafogo saem com ponto extra
 Da Redação
@@ -1247,9 +1247,9 @@ A primeira rodada da segunda fase está programada para o próximo sábado. Não hav
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-063</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-063</field>
+<field name="date">940926</field>
+<text_pt>
 Grupo E
 Corinthians
 São Paulo
@@ -1288,9 +1288,9 @@ As outras duas vagas serão preenchidas pelos dois melhores times da repescagem. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-064</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-064</field>
+<field name="date">940926</field>
+<text_pt>
 Da Redação
 A segunda fase do Campeonato Brasileiro terá como maior novidade a volta da suspensão para o jogador que receber três cartões amarelos. E, ao contrário da primeira fase, vai eliminar clubes da disputa.
 A experiência de substituir a suspensão por uma multa de R$ 50,00 por cartão tomado não passou da fase inicial do torneio.
@@ -1303,9 +1303,9 @@ A repescagem reúne num octagonal os dois últimos colocados de cada grupo na prim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-065</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-065</field>
+<field name="date">940926</field>
+<text_pt>
 Time tem recursos para duelar com o Palmeiras na final, mas oscila na formação durante o campeonato
 ALBERTO HELENA JR.
 Da equipe de articulistas
@@ -1325,9 +1325,9 @@ Não acho que venha a ser um novo Zico. Mas, se não descair pelos desvãos da fama
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-066</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-066</field>
+<field name="date">940926</field>
+<text_pt>
 Equipe derrota o Sport por 3 a 0, mas não leva ponto de bonificação
 MÁRIO MAGALHÃES
 Da Sucursal do Rio
@@ -1358,9 +1358,9 @@ Gols: Sávio aos 17min, aos 32min e aos 33min do segundo tempo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-067</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-067</field>
+<field name="date">940926</field>
+<text_pt>
 Mas torneio não premia os melhores
 MARCELO FROMER e NANDO REIS
 Especial para a Folha
@@ -1381,9 +1381,9 @@ Nando Reis e Marcelo Fromer são músicos e integrantes da banda Titãs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-068</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-068</field>
+<field name="date">940926</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 Da Equipe de Articulistas
 A regra dos três pontos por vitória efetivamente transformou o campeonato da Bota numa diferente sensação. Depois de apenas quatro rodadas, os clubes que buscam o sucesso já se destacam daqueles retranqueiros.
@@ -1404,9 +1404,9 @@ a classificação do campeonato na pág. 5.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-069</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-069</field>
+<field name="date">940926</field>
+<text_pt>
 Giovane recupera vaga após vitória sobre a Rússia; Carlão se machuca
 Da Reportagem Local
 A seleção brasileira masculina de vôlei desembarca hoje em Atenas, Grécia, em busca do título inédito do Mundial da categoria.
@@ -1425,9 +1425,9 @@ A seleção brasileira inicia nesta semana seu período de treinos em São Paulo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-070</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-070</field>
+<field name="date">940926</field>
+<text_pt>
 Das agências internacionais
 O advogado mexicano Rubén Acosta foi reeleito por aclamação para um novo mandato de quatro anos na presidência da Federação Internacional de Vôlei (FIVB).
 A reeleição aconteceu no sábado em Atenas, Grécia, durante o Congresso Técnico da FIVB.
@@ -1441,9 +1441,9 @@ Na temporada 96, foram acertadas as datas dos torneios de vôlei masculino e femi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-071</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-071</field>
+<field name="date">940926</field>
+<text_pt>
 CIDA SANTOS
 Dezesseis seleções começam a traçar a nova geografia do vôlei a partir desta quinta-feira, dia em que a bola começa a rolar no Mundial da Grécia. Por enquanto, o império está dividido entre italianos, atuais campeões mundiais, e brasileiros, campeões olímpicos.
 O campeonato promete ser um dos mais equilibrados de toda a história. Cuba, Rússia, Holanda ou até mesmo Bulgária podem surpreender e balançar a hegemonia ítalo-brasileira.
@@ -1457,9 +1457,9 @@ Somou esses três algarismos e chegou ao número 13. Pensou em Zagalo, um amante d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-072</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-072</field>
+<field name="date">940926</field>
+<text_pt>
 
 Depois dos treinos, só os repórteres de TVs poderão falar com os brasileiros &#150;e por apenas 15 minutos. A imprensa escrita terá 30 minutos diários pra conversar com os atletas no hotel.
 As entrevistas serão coletivas e os jornalistas terão que escolher apenas dois reservas e dois titulares. O objetivo é fazer um rodízio entre os jogadores. Eles não poderão ser repetidos de um dia para o outro.
@@ -1473,9 +1473,9 @@ O próximo Campeonato Mundial Masculino de Vôlei, em 1998, no Japão, terá a parti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-073</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-073</field>
+<field name="date">940926</field>
+<text_pt>
 Das agências internacionais
 Suécia e Rússia vão se enfrentar em dezembro na final da Copa Davis, principal competição por equipes do tênis mundial.
 Nas semifinais, as duas equipes eliminaram respectivamente EUA e Alemanha, considerados favoritos. Os EUA foram campeões da Davis em 92 e os alemães, em 93.
@@ -1488,9 +1488,9 @@ Ontem, em jogos disputados em melhor de três sets, apenas para cumprir tabela, K
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-074</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-074</field>
+<field name="date">940926</field>
+<text_pt>
 JOSÉ HENRIQUE MARIANTE
 Enviado especial a Estoril
 O inglês Damon Hill venceu ontem no circuito do Estoril o GP de Portugal de F-1 e entrou na luta pelo título do Mundial. Agora apenas um ponto o separa do líder do campeonato, o alemão Michael Schumacher.
@@ -1510,9 +1510,9 @@ E é o próprio inglês que volta a correr na F-1 em Jerez, daqui a três semanas. M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-075</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-075</field>
+<field name="date">940926</field>
+<text_pt>
 
 A capa deste caderno contém um erro de português. O correto é "Bibliotecas resistem a sair do século 19".ERRAMOS
 Bibliotecas resistem em sair do século 19
@@ -1544,9 +1544,9 @@ Com relação ao governo do Estado, diz ela, "não dá para levar a sério um concurs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-076</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-076</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A melhor relação custo/benefício do sistema público de bibliotecas não está hoje na região Centro-Sul. Está no Pará.
 É ao menos o que afirmam bibliotecários e planejadores ouvidos pela Folha.
@@ -1565,9 +1565,9 @@ Mas, entre os ministérios, a situação é no mínimo pouco gloriosa. O Ministério d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-077</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-077</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Como o Orçamento da União para este ano não foi ainda votado pelo Congresso, as bibliotecas públicas deixaram de receber para a compra de novos livros algo em torno de US$ 1 milhão.
 É o que diz Armando Antogioni Filho, presidente da Câmara Brasileira do Livro.
@@ -1582,30 +1582,30 @@ Um último tópico generalizado nas queixas de responsáveis está no fato de, com a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-078</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-078</field>
+<field name="date">940926</field>
+<text_pt>
 O ministro grego da Cultura, Thanos Mikrutsikos, inaugurou o programa Arquipélagos, para o fortalecimento cultural das cerca de 300 ilhas gregas do mar Egeu. O programa é uma homenagem à ex-ministra e atriz Melina Mercouri, que morreu em março passado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-079</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-079</field>
+<field name="date">940926</field>
+<text_pt>
 Existem muitas estátuas de falcão ditas verdadeiras no mercado. Esta tem 30 cm, pesa 22 kg e apresenta as marcas causadas quando Sidney Greenstreet a derruba em uma cena do filme dirigido por John Huston. A Christie's espera conseguir US$ 50 mil por ela.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-080</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-080</field>
+<field name="date">940926</field>
+<text_pt>
 Biarritz, na França, inicia hoje seu Festival Internacional de Cinema, dedicado à produção latino-americana, com dez filmes em concurso. Pela primeira vez em sua história, a direção artística está com um latino-americano: o diretor venezuelano Atahualpa Lichy.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-081</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-081</field>
+<field name="date">940926</field>
+<text_pt>
 Boas estratégias de marketing e filmes com boas perspectivas de Oscar animam estação historicamente baixa
 Das agências internacionais
 O verão cinematográfico norte-americano parece ainda não ter acabado. Neste fim-de-semana, por exemplo, além da estréia de "Terminal Velocity" &#150;uma espécie de "Velocidade Máxima" da Disney&#150;, os estúdios investiram em estratégias de marketing que tiraram o gosto de ressaca da temporada.
@@ -1619,9 +1619,9 @@ A Universal também provocou uma surpresa no mercado ao colocar novamente em cart
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-082</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-082</field>
+<field name="date">940926</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 "Quiz Show", o novo filme do ator e diretor Robert Redford, exibido numa espécie de "preview" em 27 cinemas desde o dia 16, e em 219 salas a partir da última sexta-feira nos EUA, já arrecadou quase US$ 1 milhão.
@@ -1642,9 +1642,9 @@ Mas, ao colocar toda a sociedade em xeque com sua desonestidade, Van Doren tenta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-083</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-083</field>
+<field name="date">940926</field>
+<text_pt>
 Coleção traz as músicas mais populares de Mel Thormé, Doris Day, Benny Goodman, Bing Crosby e Sarah Vaughan
 RUY CASTRO
 Especial para a Folha
@@ -1665,9 +1665,9 @@ Quanto: R$ 18 (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-084</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-084</field>
+<field name="date">940926</field>
+<text_pt>
 Especial para a Folha
 Ao contrário do que diz, a gravadora Verve não está comemorando 50 anos (foi fundada em 1956). Mas, como isso está servindo para que sua atual proprietária, a Polygram, solte bons discos comemorativos, vamos fazer de conta. Dois desses discos são "Carnegie Hall Salutes the Jazz Masters" e "Jazz at the Philharmonic - The First Concert".
 Ambos comemoram o concerto de jazz que, isto sim, originou os selos que depois se fundiriam na Verve: o do Philharmonic Hall, em Hollywood, produzido por Norman Granz em julho de 1944.
@@ -1690,9 +1690,9 @@ Preço: R$ 18 (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-085</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-085</field>
+<field name="date">940926</field>
+<text_pt>
 ROGÉRIO SIMÕES
 De Londres
 Já que todo mundo estava fazendo, os Cranberries resolveram fazer também. E parece que gostaram do resultado.
@@ -1711,9 +1711,9 @@ Não há realmente muita ligação entre uma coisa e outra. Mas a combinação de uma 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-086</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-086</field>
+<field name="date">940926</field>
+<text_pt>
 A apresentação de "21" e "Nazareth" de Rodrigo Pederneiras obtém ótima recepção na 6ª Bienal da Dança
 ANA FRANCISCA PONZIO
 Especial para a Folha, de Lyon
@@ -1734,9 +1734,9 @@ Procurando recriar a atmosfera baiana em Lyon, o Balé Folclórico da Bahia trouxe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-087</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-087</field>
+<field name="date">940926</field>
+<text_pt>
 
 Diferentemente do que afirma este texto, os testes para a peça "Mistérios Gozozos à Moda da Ópera" acontecem hoje e não amanhã.ERRAMOS
 Oficina faz seleção de atores para montagem
@@ -1748,9 +1748,9 @@ As candidatos devem comparecer às 17h no Teatro Oficina (r. Jaceguai, 520, Bela 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-088</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-088</field>
+<field name="date">940926</field>
+<text_pt>
 Projeto do Instituto Goethe traz DJs alemães para festas e produções; Rave tem hoje o americano Will Brown
 RENATO LOPES
 Especial para a Folha
@@ -1772,9 +1772,9 @@ RENATO LOPES, 32, é DJ há sete anos. Toca aos sábados no Galpão Paparazzi e, a p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-089</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-089</field>
+<field name="date">940926</field>
+<text_pt>
 Da Redação
 
 Mostra: Retrospectiva Orson Welles
@@ -1791,9 +1791,9 @@ A mostra exibe também o documentário francês "Retrato de Orson Welles" (1976), r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-090</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-090</field>
+<field name="date">940926</field>
+<text_pt>
 Da Redação
 
 Filme: A Mulher do Dia
@@ -1814,9 +1814,9 @@ De todo modo, estava dado o tom da dupla: a união do mínimo denominador comum do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-091</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-091</field>
+<field name="date">940926</field>
+<text_pt>
 DANIEL PIZA
 Da Reportagem Local
 Paulo Pasta, 34, vai se sentir como escoteiro em bordel na 22ª Bienal Internacional de São Paulo, que será inaugurada no dia 12 de outubro.
@@ -1835,9 +1835,9 @@ Na sala de 10m x 12m que terá na 22ª Bienal, Pasta vai mostrar dez pinturas inéd
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-092</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-092</field>
+<field name="date">940926</field>
+<text_pt>
 
 Não são dois os pintores brasileiros na 22ª Bienal, mas cinco. Também levarão pinturas ao evento Niura Bellavinha, Marianita Luzzati e Antonio Dias.ERRAMOS
 Pintores brasileiros são dois
@@ -1854,9 +1854,9 @@ Entre os representantes dos países estrangeiros a porcentagem de pintores cai a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-093</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-093</field>
+<field name="date">940926</field>
+<text_pt>
 FERNANDO ROSSETTI
 De Johannesburgo
 A inauguração, no mês passado, do primeiro museu pós-apartheid da África do Sul é representativa do ponto a que chegou a política de segregação racial no país.
@@ -1880,9 +1880,9 @@ Com recursos simples como este e a permissão para que os visitantes manipulem a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-094</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-094</field>
+<field name="date">940926</field>
+<text_pt>
 Da Redação
 A uma semana das supereleições, os candidatos à Presidência da República fazem os útimos esforços quer para assegurar a vantagem adquirida &#150; no caso do tucano Fernando Henrique Cardoso &#150; quer para tentar um lance espetacular que possa tirar as eleições de uma rota que parece inevitável &#150; no caso do petista Luiz Inácio Lula da Silva.
 O peemedebista Orestes Quércia, que já não crê mais em qualquer possibilidade de reversão no quadro eleitoral, usará os últimos dias  para tentar refazer as contas com o passado e já investe nas eleições de 98.
@@ -1891,9 +1891,9 @@ O pedetista Leonel Brizola passa a investir nas eleições estaduais buscando alav
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-095</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-095</field>
+<field name="date">940926</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O PT planeja forçar a realização do segundo turno da eleição presidencial "ocupando" a partir de hoje as ruas das principais cidades.
@@ -1916,9 +1916,9 @@ sobre a campanha de Lula na pág. Esp. 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-096</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-096</field>
+<field name="date">940926</field>
+<text_pt>
 GEORGE ALONSO e
 FERNANDO DE BARROS E SILVA
 Da Reportagem Local
@@ -1934,16 +1934,16 @@ O segundo estigma são as suspeitas de irregularidades em sua vida pública. O cas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-097</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-097</field>
+<field name="date">940926</field>
+<text_pt>
 Termina na próxima sexta-feira o horário eleitoral gratuito, que teve início em 2 de agosto. Sexta-feira também é o dia-limite para a realização de comícios. Sem TV, o petista Lula e o tucano FHC apostam suas fichas na estratégia de suas respectivas máquinas partidárias.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-098</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-098</field>
+<field name="date">940926</field>
+<text_pt>
 Esteve em São Paulo. Pela manhã, recebeu manifesto de apoio de 776 sindicatos, entregue por Enilson Simões, o Alemão, secretário-geral da Força Sindical. Gravou programa eleitoral e fez fotos para a revista "Caras". Disse que vai concentrar sua campanha, nesta última semana, em São Paulo e nas gravações para a TV.
 págs. 1 e 4
 
@@ -1961,9 +1961,9 @@ pág. 1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-099</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-099</field>
+<field name="date">940926</field>
+<text_pt>
 JEB BLOUNT
 Do "Washington Post"
 Uma coisa que ouço a toda hora durante esta campanha eleitoral é como o Brasil é rico. "Por que", se pergunta, "um país tão abençoado com riquezas naturais, terra e um clima agradável é tão pobre e miserável?".
@@ -1984,9 +1984,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-100</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-100</field>
+<field name="date">940926</field>
+<text_pt>
 Comício no Anhangabaú reuniu 100 mil pessoas; petista leva menino de rua para casa após 'entrevistá-lo' no palanque
 CARLOS EDUARDO ALVES
 Da Reportagem Local
@@ -2009,9 +2009,9 @@ Antes do Hino Nacional, que encerrou o discurso de Lula, o candidato conclamou a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-101</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-101</field>
+<field name="date">940926</field>
+<text_pt>
 Cantor acha que PFL pode emperrar governo tucano
 CARLOS MAGNO DE NARDI
 Da Reportagem Local
@@ -2025,9 +2025,9 @@ Chico - O tipo de governo com o PFL atuante é um governo que não tem muito a ver
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-102</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-102</field>
+<field name="date">940926</field>
+<text_pt>
 Tucano volta a dizer que não se preocupará com filiação partidária na composição de seu eventual ministério
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -2053,9 +2053,9 @@ Colaborou VINICIUS TORRES FREIRE, da Reportagem Local
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-103</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-103</field>
+<field name="date">940926</field>
+<text_pt>
 Pedetista do RJ tem os mesmos 31% que Alencar (PSDB); candidato do PDT no PR bate Dias (PP) em 10 pontos
 Da Reportagem Local
 Anthony Garotinho (PDT) empatou com Marcello Alencar (PSDB) na disputa pelo governo do Rio de Janeiro. Os dois têm agora 31% das intenções de voto.
@@ -2077,9 +2077,9 @@ A direção do Datafolha é exercida pelos sociólogos Antonio Manuel Teixeira Mende
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-104</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-104</field>
+<field name="date">940926</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Bomba! Bomba! Vote no elo perdido! Finalmente na reta final a "Veja" deu apoio explícito à minha candidatura: deram capa pro macaco. Adorei a foto do macaco mas faltou escrever embaixo em dourado fosforescente: Macaco Simão pra 94! E o povo pra 69! Adorei a foto do macaco: sou eu depois da campanha. Com cabelo de grunge e três olhêras!
@@ -2095,9 +2095,9 @@ Macaco chic não gosta de banana. Gosta de bacana!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-105</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-105</field>
+<field name="date">940926</field>
+<text_pt>
 
 O deputado estadual mineiro José Reinaldo Lima é do PDT e não do PSDB, como foi publicado nesta reportagem.ERRAMOS
 Voto em MG pode escalar bancada de ex-jogadores
@@ -2130,9 +2130,9 @@ Eleito vereador de Belo Horizonte pelo PSDB em 1992, Masci espera receber o apoi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-106</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-106</field>
+<field name="date">940926</field>
+<text_pt>
 PAULO PEIXOTO
 Da Agência Folha, em Belo Horizonte
 Dario José dos Santos, 48, o Dadá Maravilha, Dadá Peito de Aço ou Dadá Beija-flor, começou sua carreira aos 19 anos.
@@ -2157,9 +2157,9 @@ Dario - Estou com o Quércia. Mas acho o Fernando Henrique ótimo e o Amin excelen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-107</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-107</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 Fernando Henrique Cardoso recebeu na manhã de ontem em sua casa, em São Paulo, o apoio de 776 sindicatos de todo o país.
 O manifesto, intitulado "O Brasil tem pressa; mudanças já", foi entregue por um grupo de sindicalistas liderado por Enilson Simões, o Alemão, secretário-geral da Força Sindical. Segundo Alemão, os sindicatos da lista representam 10 milhões de trabalhadores.
@@ -2171,9 +2171,9 @@ O tucano disse que agora vai concentrar a campanha em São Paulo e em gravações d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-108</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-108</field>
+<field name="date">940926</field>
+<text_pt>
 Chega esta semana ao país, o 2º volume do livro 'Olho Mágico', que vendeu já seis milhões de exemplares no planeta
 PRISCILA SÉRVULO
 Da Agência Folha
@@ -2198,9 +2198,9 @@ A SÉRIE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-109</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-109</field>
+<field name="date">940926</field>
+<text_pt>
 Especial para a Folha
 Americano é danado. Não é à toa que são ricos, gordinhos, corados e, atualmente, dominam o cenário da política internacional.
 Invade o que quer e o povo invadido aplaude, esperando entrar de supetão no primeiro-mundo. A ONU não abre o bico.
@@ -2220,9 +2220,9 @@ MARCELO PAIVA está em San Francisco (EUA), como bolsista da Knight Fellowship na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-110</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-110</field>
+<field name="date">940926</field>
+<text_pt>
 Vi no Folhateen uma reportagem sobre a rebeldia dos filhos com os pais que me chamou a atenção. Fiquei espantada com os depoimentos dos pais. Porque aqui, os filhos respeitam os pais e chegam a tratar de igual para igual, mas com "respeito". Não vou dizer que também não existe esse conflito entre pais e filhos aqui. Existe sim, mas é de três em cada cem filhos. Na minha opinião, a educação que os pais dão para os filhos é que está errada. Acho que deve haver liberdade entre pais e filhos, mas os pais devem dar respeito para receber, deve haver um diálogo acima de tudo e também carinho. A partir daí, os pais saberão acalmar as "ferinhas" que têm dentro de casa.
 
 Recado dado, Jamylle.
@@ -2244,9 +2244,9 @@ Escreva para o Folhateen, al. Barão de Limeira, 425, 4º andar, São Paulo, SP, CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-111</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-111</field>
+<field name="date">940926</field>
+<text_pt>
 
 A BANDA ANJOS DA NOITE apresenta o show "Vote Certo, Vote no Rock" com músicas do primeiro disco, além de composições novas. O show acontece no Olympia (rua Clélia, 1517, Lapa, zona oeste de São Paulo, tel. 011.950-6958), no próximo dia 3, às 21h.
 
@@ -2258,9 +2258,9 @@ A "CHICLETE TIPINHOS INÚTEIS" lança nas bancas no dia 30 a revista especial com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-112</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-112</field>
+<field name="date">940926</field>
+<text_pt>
 ROSELY SAYÃO
 Especial para a Folha
 "Estou meio encucado com meu modo de ser em relação ao sexo. Adoro ler revistas pornográficas e qualquer tipo de reportagem que fale de sexo. Os filmes chamam mais minha atenção se tiverem sexo. Sempre que surge uma oportunidade legal eu e minha namorada transamos, o que não acontece muito frequentemente. Mas toda vez que vejo uma mulher gostosa, fico com o pênis ereto. Minha namorada disse que nunca viu alguém tão fissurado em sexo. Isso pode ser um problema? No futuro isso pode me trazer problemas psicológicos? O que é que eu tenho?"
@@ -2277,9 +2277,9 @@ ROSELY SAYÃO, 44, é psicóloga. Se você tem dúvidas sobre sexo escreva para o Fol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-113</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-113</field>
+<field name="date">940926</field>
+<text_pt>
 Com a decisão, os estudantes voltam a fazer pedidos de passe escolar nas escolas, sem se filiar a entidades
 Da Reportagem Local
 Os estudantes da cidade de São Paulo não precisam mais ter carteirinha da UNE ou Umes para comprar passe escolar.
@@ -2292,9 +2292,9 @@ No próximo ano letivo, cada colégio ou universidade vai fazer o cadastramento do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-114</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-114</field>
+<field name="date">940926</field>
+<text_pt>
 GILBERTO DIMENSTEIN
 Nas duas últimas semanas, Fernando Henrique Cardoso e Lula correram atrás dos artistas, capazes de repassar prestígio. Usar a imagem dos cantores e atores é um antigo ingrediente das campanhas eleitorais. Eles sempre aparecem nos palanques, o que, por seu prestígio, atraem a atenção. Na eleição de 1989, estavam quase todos no palanque de Lula contra Collor. Agora, porém, dividiram-se e muitos decidiram apoiar o candidato tucano.
 
@@ -2302,9 +2302,9 @@ GILBERTO DIMENSTEIN é diretor da Sucursal de Brasília.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-115</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-115</field>
+<field name="date">940926</field>
+<text_pt>
 
 Fernando Henrique conseguiu adesões de brilho no mundo da música: Gilberto Gil, Caetano Veloso e Tom Jobim. Na ala dos atores, sua principal estrela é Regina Duarte.
 
@@ -2312,9 +2312,9 @@ Recomendação: não se deixe impressionar por esses apoios. É até relevante saber 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-116</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-116</field>
+<field name="date">940926</field>
+<text_pt>
 
 Fernando Henrique prometeu, em seu governo, um salário mínimo decente. Não disse o que entendia por "decente". Se fizesse um trabalho extraordinário, mantivesse a inflação estável e o país crescesse em quatro anos, já seria uma conquista extraordinária um mínimo de R$ 200. O que ainda não seria decente. Dois patos.
 
@@ -2322,9 +2322,9 @@ O Almirante Ernani Fortuna, candidato do PSC, prometeu devolver às Forças Armada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-117</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-117</field>
+<field name="date">940926</field>
+<text_pt>
 5 de agosto - O sequestro de três balsas por cubanos que queriam fugir para os EUA causou um confronto entre oposicionistas e a polícia, em Havana. Uma pessoa morreu e 35 ficaram feridas. Fidel acusou os EUA de estimular a fuga e ameaçou permitir o êxodo.
 
 19 de agosto - Para interromper o êxodo -que só em agosto chegou a 3.500 refugiados &#150; O governo norte-americano reverteu política de dar asilo automático a refugiados cubanos. A guarda costeira e marítima dos EUA receberam ordem para recolher barcos com refugiados e levá-los à base norte-americana de Guantánamo, em Cuba.
@@ -2357,9 +2357,9 @@ Chefe de estado: Fidel Castro Ruz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-118</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-118</field>
+<field name="date">940926</field>
+<text_pt>
 1959 - O ditador Fulgêncio Batista foi deposto. O governo emite decreto de reforma agrária e nacionalização de vário setores
 
 1960 - As empresas norte-americanas recusaram-se a a refinar petróleo soviético e são desapropriadas, em represália os EUA cortam a importação de açúcar
@@ -2382,9 +2382,9 @@ Chefe de estado: Fidel Castro Ruz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-119</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-119</field>
+<field name="date">940926</field>
+<text_pt>
 KATHY WOLLARD
 Surgindo do jeito que aparece, aparentemente de lugar nenhum, e brilhando em cada folha e flor, as pessoas pensam que o orvalho é uma espécie de néctar dos céus.
 Mas o orvalho não está confinado à grama nas manhãs. Um tipo de orvalho aparece em canos frios durante o clima quente e do lado de fora de copos cheios de gelo durante o verão.
@@ -2400,9 +2400,9 @@ Copyright Los Angeles Times Syndicate.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-120</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-120</field>
+<field name="date">940926</field>
+<text_pt>
 ANDRÉ FORASTIERI
 Especial para a Folha
 Começam a despontar as primeiras bandas da turma brasileira contratada um tempinho atrás pela Roadrunner. Os dois primeiros tiros foram dados sexta-feira passada no Columbia, com os lançamentos dos discos do Garage Fuzz e do Killing Chainsaw.
@@ -2425,9 +2425,9 @@ ANDRÉ FORASTIERI, 29, é editor da revista "General".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-121</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-121</field>
+<field name="date">940926</field>
+<text_pt>
 RODRIGO LEITE
 Da Reportagem Local
 Um dos principais desafios para o movimento estudantil brasileiro é conseguir livrar as entidades do domínio de grupos políticos. Atualmente, dois grupos &#150;o PC do B e o MR-8&#150; controlam UNE (União Nacional dos Estudantes) e Ubes (União Brasileira dos Estudantes Secundaristas), as duas principais entidades do país.
@@ -2441,9 +2441,9 @@ O poderoso PC do B não é atingiu 1% na pesquisa entre os estudantes. O PMDB (par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-122</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-122</field>
+<field name="date">940926</field>
+<text_pt>
 Da Reportagem Local
 A pesquisa Datafolha, realizada entre 600 estudantes paulistanos, mediu o grau de concordância com algumas das principais causas do movimento estudantil.
 A maioria absoluta dos estudantes concorda com reivindicações "práticas", como meia-entrada em atividades culturais e ensino gratuito e de qualidade para todos (ambos com mais de 90% de aprovação) e o cumprimento da medida provisória que regulamenta as mensalidades escolares (75% de "sim" entre secundaristas e 84% entre universitários).
@@ -2453,9 +2453,9 @@ Entre os universitários, 55% rejeitam a presença do FMI e 33% acham que o Fundo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-123</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-123</field>
+<field name="date">940926</field>
+<text_pt>
 PC do B
 O Partido Comunista do Brasil surgiu em 1962. É uma dissidência do Partido Comunista Brasileiro (PCB, fundado em 1922). A separação aconteceu porque o PCB resolveu romper com as idéias do dirigente soviético Josef Stalin, em 1957. Os membros do grupo continuavam apoiando Stalin e decidiram criar um partido próprio. Passaram a apoiar o tipo de comunismo que se praticava na China e, posteriormente, na Albânia.
 
@@ -2479,9 +2479,9 @@ Militantes do movimento estudantil ditos "independentes" conseguem alguns postos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-124</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-124</field>
+<field name="date">940926</field>
+<text_pt>
 
 Vladimir Lênin. Foi o líder da Revolução Russa, que pela primeira vez implantou o comunismo em um país do mundo, em 1917.
 
@@ -2495,9 +2495,9 @@ Mao Tsé-Tung (1893-1976). O principal líder do comunismo chinês. Criou o Partido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940926-125</text_pt>
-<text_pt name="date">940926</text_pt>
-<text_pt name="text">
+<field name="id">FSP940926-125</field>
+<field name="date">940926</field>
+<text_pt>
 Desenvolvidas nos EUA, a técnica Bioplastique reestrutura tecidos moles do corpo. Segundo Ovídio Costa Ramos, médico que aplica o Bioplastique no Brasil além de outras práticas de estética, a técnica garante recuperação mais rápida que as demais. Informações: (011) 570-7819.
 
 Video explica franquia para empresários

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940607-001</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-001</field>
+<field name="date">940607</field>
+<text_pt>
 O levantamento publicado ontem por esta Folha acerca das coligações eleitorais no âmbito dos Estados vem revelar que estas alianças regionais seguem uma lógica própria, diversa daquela que norteou os acordos no plano federal.
 Isso não quer dizer, é certo, que os acertos feitos com vistas à sucessão presidencial tenham sido completamente ignorados no campo regional. Alianças estaduais entre o PSDB e o PFL &#150;tão díspares são essas agremiações&#150; provavelmente seriam raríssimas não tivesse ocorrido o polêmico acordo em torno da candidatura Fernando Henrique Cardoso. Mas o balanço revela que esses partidos concorrem juntos em sete Estados, incluindo alguns de peso eleitoral como São Paulo, Rio, Pernambuco e Paraná.
 Um número maior de acertos estaduais, no entanto, foi feito à margem desse acordo federal. O principal destaque do levantamento, nesse sentido, é o que ele revela da total falta de coerência e de consistência ideológica dos partidos brasileiros em geral. Com efeito, as alianças se multiplicam em tantas combinações diferentes que tornam patente a fragilidade &#150;se não a própria inexistência&#150; de qualquer identidade programática.
@@ -12,9 +12,9 @@ Fica evidente que tais acordos não são feitos com base em qualquer semelhança de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-002</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-002</field>
+<field name="date">940607</field>
+<text_pt>
 Além das reservas internacionais em bom nível, da transição bastante razoável dos preços à URV, da boa safra agrícola e da formação de estoques involuntários na indústria, fatores que ajudam todos a amortecer eventuais acidentes de percurso, divulgou-se na semana passada um resultado no comércio externo que é tranquilizador da ótica da estabilização que o governo busca.
 A equipe econômica já se declarou oficialmente a favor de uma fixação por tempo indeterminado da taxa de câmbio. Ato contínuo, vieram à baila as sempre presentes queixas dos exportadores de que o câmbio está atrasado.
 Pelo menos dois institutos de pesquisa (a Funcex e a FGV-RJ) têm apontado a existência, já antes de ser introduzido o real, de uma defasagem da ordem de 25% na taxa de câmbio. Mas o crescimento de 20,09% nas exportações em abril, se não desqualifica de todo esses cálculos, mostra que justamente às vésperas do congelamento do câmbio o comércio exterior brasileiro se mostra bastante dinâmico.
@@ -23,9 +23,9 @@ Mas as estatísticas tendem a voltar ao normal logo em seguida, a menos que ocorr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-003</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-003</field>
+<field name="date">940607</field>
+<text_pt>
 Praticamente eliminada de toda a Europa Ocidental e também da maior parte da América do Sul, a pena de morte é hoje quase uma exclusividade de países de regime autoritário ou ainda a caminho da transição para a plena democracia. Paradoxalmente, uma das nações de maior tradição democrática do mundo, os Estados Unidos, não só mantém essa abjeta punição como também a aplica &#150;e muito.
 Como esta Folha revelou em sua edição de domingo num impressionante dossiê sobre a crueldade da pena capital, os EUA executaram, no ano passado, 38 pessoas. Há ainda 2.700 condenados nos chamados "corredores da morte".
 É realmente chocante constatar que o país que ajudou a consolidar os ideais de liberdade e justiça no mundo contemporâneo ainda cometa esse tipo de violência, sobretudo quando se considera que há estatísticas que demonstram que a existência da pena de morte não tem impacto sobre a redução dos índices de criminalidade.
@@ -35,9 +35,9 @@ Mais paradoxal ainda, os EUA, devido às custas dos vários recursos cabíveis, che
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-004</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-004</field>
+<field name="date">940607</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Depois de duas intermináveis reuniões ministeriais às vésperas do anúncio da URV, em março, o governo decidiu incluir na medida provisória então encaminhada ao Congresso um item definindo o que era aumento abusivo de preços por parte de monopólios e oligópolios.
 Seria a cobrança de preços, em URV, acima da média do trimestre final do ano passado. A fixação desse período, conforme o xerife dos preços, Milton Dallari, no dia mesmo do lançamento da URV, se devia ao reconhecimento de que, a partir do início do ano, ocorrera uma disparada preventiva nos preços, na expectativa da edição da MP.
@@ -51,9 +51,9 @@ Para que, presidente? Para ficar na gaveta como o item da MP da URV?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-005</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-005</field>
+<field name="date">940607</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Afastado do país havia duas semanas, mergulhei ontem nos jornais, buscando informações sobre a disputa presidencial. Pela leitura do noticiário, percebi que o ex-governador Antônio Carlos Magalhães está-se tornando o grande mago das eleições, distribuindo conselhos sobre como um candidato deve proceder. É curiosíssimo.
 Curiosíssimo porque, afinal, Lula está bem na frente nas pesquisas na Bahia, onde nunca inaugurou uma mísera obra. E, por enquanto, vai mal Fernando Henrique Cardoso, sustentado por ACM, que, além de deter o controle dos principais veículos de comunicação, espalhou obras pelo Estado nos seus vários mandatos de governador.
@@ -66,9 +66,9 @@ PS &#150; Será que os publicitários da campanha estão tentando vender FHC como s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-006</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-006</field>
+<field name="date">940607</field>
+<text_pt>
 José Serra
 Depois de percorrer no fim-de-semana exatamente 16 cidades do interior de São Paulo, em companhia do senador Mário Covas, fiz, domingo à noite, um balanço do noticiário e das análises dos jornais e revistas. Selecionei dois temas, talvez complexos para o espaço da coluna, mas extremamente relevantes.
 O primeiro é o da Ufir, nome de deus egípcio, na realidade mísera unidade de conta e de indexação dos impostos federais. Paira a seguinte idéia: "se o governo não extingue a Ufir, é porque não confia no seu programa contra a inflação; se não confia, não vai dar certo". Certo? Claro que não. Acertadíssima é a decisão de não apagar a Ufir e isto não significa necessariamente insegurança quanto ao sucesso da estabilização. Vejamos porque.
@@ -81,9 +81,9 @@ José Serra escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-007</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-007</field>
+<field name="date">940607</field>
+<text_pt>
 TARSO GENRO
 A ira gerada pela afirmativa de Lula de que prefere o "justo" e o "legítimo" à mera legalidade demonstra &#150;segundo a origem das opiniões&#150; hipocrisia, oportunismo eleitoral ou mero desconhecimento do direito numa sociedade que nunca respeitou a voz dos que exprimem qualquer tipo de dissidência aos padrões estabelecidos.
 Os conflitos entre legalidade e legitimidade, entre lei e justiça percorrem a história da filosofia do direito e a formação das democracias contemporâneas. Este conflito caracterizou a emergência da racionalidade do Estado de Direito democrático contra os privilégios de ordem e de casta no fim da sociedade feudal.
@@ -103,9 +103,9 @@ TARSO GENRO, 46, advogado, é prefeito de Porto Alegre. Foi deputado federal pelo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-008</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-008</field>
+<field name="date">940607</field>
+<text_pt>
 ALBERTO GOLDMAN
 Dois episódios recentes nos obrigam a uma reflexão sobre a conduta e as concepções do PT. Não fosse o seu candidato um forte concorrente à Presidência da República, os episódios teriam impacto desprezível. No entanto, por estarmos diante da possibilidade de um governo petista dirigindo a nação, a questão assume contornos preocupantes.
 Episódio nº 1. Cenário, São Bernardo do Campo (SP). Lula utiliza-se de carro de som do Sindicato dos Metalúrgicos para comícios eleitorais. Reação dos adversários e de autoridades do sistema judiciário: é ilegal! Resposta de Lula e dos petistas: pode ser ilegal, mas é justo.
@@ -130,9 +130,9 @@ ALBERTO GOLDMAN, 55, é deputado federal pelo PMDB de São Paulo. Foi ministro dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-009</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-009</field>
+<field name="date">940607</field>
+<text_pt>
 
 "No congresso da UNE do ano passado, a proposta de eleição direta para escolha do presidente e diretores da entidade foi rejeitada, sob a alegação de que a UNE não dispunha (e nem dispõe) das mesmas condições dos órgãos da Justiça Eleitoral. A eleição estaria vulnerável a abusos e fraudes. Paradoxalmente, agora, no Conselho de Entidades Gerais da mesma UNE, foi aprovada a proposta de um plebiscito entre os estudantes, que indicará o presidenciável de melhor aceitação. Aí configurou-se uma contradição, pois o plebiscito exigirá o mesmo aparato necessário para uma eleição direta e estará vulnerável aos mesmos vícios."
 Marcone Xavier Furtado, membro da Juventude Socialista do PDT (Rio de Janeiro, RJ)
@@ -179,9 +179,9 @@ Antonio Pinto de Almeida Júnior (São Lourenço, MG)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-010</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-010</field>
+<field name="date">940607</field>
+<text_pt>
 A má-repercussão, mesmo entre peessedebistas, das informações de que Fernando Henrique tem conversado com Egberto Baptista, sobre a possibilidade de entregar-lhe a condução da sua campanha, impôs urgente recuo na negociação com o tão criticável ex-marketeiro e ex-ministro de Collor. Mas, assim como não impede a contratação para que o trabalho se faça sob um véu de sigilo, a marcha-à-ré pública não evita duas consequências muito negativas para o candidato.
 As dissensões na cúpula da aliança PSDB&#150;PFL vêm emitindo sinais cada vez nítidos, com tendência a crescer na medida em que Fernando Henrique não consiga avanços substanciais nas pesquisas. Já se esperam novas estocadas de Antônio Carlos Magalhães, que não investiu seu prestígio para comprometê-lo com uma campanha frustrante. No PSDB mesmo, as críticas já não se contêm no âmbito interno, onde sua intensidade vai aos níveis mais altos possíveis.
 No interior da campanha de Fernando Henrique, portanto, uma iniciativa como a noticiada só pode produzir um destes dois efeitos: ou acirra as divergências sobre a condução da campanha e o comportamento do candidato, ou afasta correligionários experientes, mas tomados do sentimento de marginalização agora explícita. Em um ou outro caso, o efeito é negativo para Fernando Henrique.
@@ -192,9 +192,9 @@ Agora são os supermercados que o assessor de preços do ministro da Fazenda chama
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-011</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-011</field>
+<field name="date">940607</field>
+<text_pt>
 O nome da central sindical sul-africana Cosatu foi grafado incorretamente nesta matéria.
 
 ERRAMOS
@@ -211,9 +211,9 @@ Além dessas duas viagens, Lula deve ir em julho para a Argentina.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-012</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-012</field>
+<field name="date">940607</field>
+<text_pt>
 REGINA ALVAREZ
 Da Sucursal de Brasília
 A Delta Engenharia Indústria e Comércio, proprietária do prédio onde Fernando Henrique Cardoso instalou seu comitê central, recebeu do Ministério da Fazenda em 93 e 94 US$ 1,9 milhão por serviços prestados.
@@ -232,9 +232,9 @@ Colaborou DANIELA PINHEIRO, da Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-013</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-013</field>
+<field name="date">940607</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Itamar Franco, de vez em quando, até que acerta na sua ira divina. Ontem, por exemplo, ele bradou na televisão contra a "ganância desses indivíduos" que cartelizam a economia brasileira, em prejuízo de todos. Falava do projeto de lei que promete ser a última omissão do Congresso no ano.
@@ -251,16 +251,16 @@ Mais algum tempo e ele sai candidato a qualquer coisa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-014</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-014</field>
+<field name="date">940607</field>
+<text_pt>
 O presidente do PT de Bauru (SP), João Félix Neto Filho, 24, foi acusado de ter praticado "crime sexual" contra uma adolescente de 16 anos na cidade de Brotas (SP), no mês de março. Segundo o delegado de Brotas, José Garcia, a adolescente E.L.R. acusa Félix de tê-la embriagado, levado a um hotel e mantido relações sexuais com ela. O delegado afirma que só vai decidir se indicia o presidente do PT depois de ouvi-lo. Félix nega a acusação: "Eu a encontrei em um baile e não a levei para nenhum lugar." Ele afirma que o caso é uma "armação" para prejudicar o PT.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-015</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-015</field>
+<field name="date">940607</field>
+<text_pt>
 Da Reportagem Local
 Com uma palestra sobre o Imposto Único, o economista Marcos Cintra, 48, lança o livro "Tributação no Brasil e o Imposto Único", no próximo dia 9 (quinta-feira), às 19h30, no auditório da Folha.
 Organizado por Cintra, o livro (Makron Books, 360 páginas, 24 URVs) reúne artigos de especialistas, como os ex-ministros Roberto Campos e Mário Henrique Simonsen, o jurista Ives Gandra Martins e o próprio Cintra, além de textos veiculados pela imprensa.
@@ -272,9 +272,9 @@ Os interessados em participar do lançamento da obra poderão retirar os convites 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-016</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-016</field>
+<field name="date">940607</field>
+<text_pt>
 Presidente pede a Congresso que aprove logo projeto de lei antitruste
 Enviado especial a Belém
 O presidente Itamar Franco deu prazo até quarta-feira para que tanto a Câmara dos Deputados quanto o Senado concluam a aprovação do projeto de lei que combate o abuso de poder econômico.
@@ -289,9 +289,9 @@ O presidente disse que pediu ao ministro das Minas e Energia, Alexis Stepanenko,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-017</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-017</field>
+<field name="date">940607</field>
+<text_pt>
 Da Reportagem Local
 A Sunab deve intensificar a pesquisa de preços no Rio de Janeiro a pedido do assessor especial para preços, Milton Dallari.
 Ele se reuniu ontem com os presidentes da Abras, Levy Nogueira, e da Apas, Armando Peralta.
@@ -305,16 +305,16 @@ O presidente da Apas disse ainda que haverá altas de preços de vários produtos. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-018</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-018</field>
+<field name="date">940607</field>
+<text_pt>
 Níveis elevados de hormônios femininos (estrógenos) inibiram em camundongos a produção de um tipo de glóbulo branco que produz anticorpos, diz um estudo publicado hoje na revista da Academia Nacional de Ciências dos EUA. Os resultados sugerem que haja ligação entre a produção de hormônios sexuais e a produção dos glóbulos. Isso pode levar a pesquisas sobre a cura de doenças do sistema imunológico influenciadas pelos hormônios sexuais, como o lúpus (doença que causa marcas na pele).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-019</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-019</field>
+<field name="date">940607</field>
+<text_pt>
 A Câmara Brasileira da Indústria da Construção não tem posição unânime sobre o projeto de conversão da MP 472, que altera a lei de licitações. Marcos Sant'anna, presidente da entidade, quer a sanção de Itamar. O vice Eduardo Capobianco quer o veto.
 A decisão do presidente Itamar é iminente.
 
@@ -346,9 +346,9 @@ Vai abordar o novo perfil do contador nas empresas e a aplicação de conceitos de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-020</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-020</field>
+<field name="date">940607</field>
+<text_pt>
 CECILIO DO REGO ALMEIDA
 Como é óbvio, os engenheiros estão aptos a lidar mais com cálculo e concreto do que com palavras, embora haja exceções que raiam a genialidade, como Euclides da Cunha.
 Sem a pretensão de me comparar ao autor de "Os Sertões", nele inspirando-se, que tanto dignificou a engenharia civil, o jornalista e a literatura, sei separar a realidade da ficção.
@@ -385,9 +385,9 @@ CECILIO DO REGO ALMEIDA, 64, engenheiro civil, é presidente da C.R. Almeida S/A 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-021</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-021</field>
+<field name="date">940607</field>
+<text_pt>
 A cesta básica do paulistano está custando CR$ 196,5 mil, com aumento de 7,20% ontem, em relação à última pesquisa realizada no primeiro dia de junho, quando o custo básico era de CR$ 183,3 mil. No acumulado deste mês, os preços da cesta básica tiveram aumento de 8,69%.
 Em URV, os preços da cesta subiram 3,54% ontem em comparação a quarta-feira. O grupo dos alimentos liderou os aumentos, com variação de 7,80% sobre o dia 1º. No mês, a variação acumulada é de 9,43%. Em seguida vem o item limpeza, que teve alta de 5,64%.
 O acumulado em junho dos produtos de limpeza é de 6,23%. Os produtos de higiene pessoal aumentaram 5,94% no dia, com alta de 5,03% no mês. Dos 68 itens pesquisados apenas a farinha de mandioca teve queda de preço (1,04%). A maior alta foi da carne de segunda sem osso (11,90%).
@@ -395,25 +395,25 @@ A carne de primeira teve aumento de 10,71%. A pesquisa, realizada diariamente pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-022</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-022</field>
+<field name="date">940607</field>
+<text_pt>
 O Brasil importou menos petróleo nos quatro primeiros meses do ano. No acumulado desse período, as importações somam US$ 504 milhões FOB, o que representa uma queda de 32% em relação ao mesmo período do ano passado, segundo dados da Secex (Secretaria de Comércio Exterior).
 No mês de abril, as importações brasileiras de petróleo somaram US$ 151 milhões FOB, contra os US$ 96 milhões FOB registrados no mês anterior, aumento de 57,3%. Em relação a abril de 1993, quando foram importados US$ 153 milhões FOB, há redução de 1,3%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-023</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-023</field>
+<field name="date">940607</field>
+<text_pt>
 As exportações brasileiras de produtos semimanufaturados no primeiro quadrimestre de 1994 totalizaram US$ 1,849 bilhão FOB, aumento de 1,26% em comparação a igual período de 1993, quando foram exportados US$ 1,826 bilhão FOB, de acordo com informações da Secex.
 Em relação ao mês anterior, as vendas externas de semimanufaturados foram 9,22% superiores, atingindo US$ 533 milhões FOB. Já as exportações dos manufaturados, no quadrimestre, somaram US$ 7,75 bilhões FOB, contra os US$ 7,57 bilhões FOB do mesmo período do ano passado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-024</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-024</field>
+<field name="date">940607</field>
+<text_pt>
 O aumento das exportações de frutas em abril foi insuficiente para reverter a queda registrada no primeiro quadrimestre. Segundo a Secex (Secretaria de Comércio Exterior), com o embarque de 17,9 mil t (6,5% mais que em abril de 93) o Brasil conseguiu receita de US$ 7,6 milhões, 1% superior à de 93.
 Apesar de ter ultrapassado os números de 93, o resultado de abril foi inferior ao do mesmo mês de 92 (20,6 mil t no valor de US$ 10 milhões). De janeiro a abril a exportação de 85,5 mil t gerou receita de US$ 32,8 milhões, com redução de 13% e 7,9% sobre igual mês de 93, respectivamente.
 As maçãs, que lideraram vendas no primeiro quadrimestre, não são típicas das áreas tropicais, que teoricamente permitem almejar competitividade no mercado internacional. Cultivadas principalmente em Santa Catarina, as maçãs trouxeram ao país US$ 14,7 milhões.
@@ -421,9 +421,9 @@ A segunda fruta que gerou mais divisas no período foi o melão (US$ 10,5 milhões)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-025</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-025</field>
+<field name="date">940607</field>
+<text_pt>
 Ainda há pouco distanciamento histórico para analisar em toda sua dimensão o fenômeno Collor. O tempo conspira a seu favor e nisso reside o nó na cabeça dos especialistas: a enorme dificuldade em admitir que uma pessoa com o passado violento e imoderado de Fernando Collor, proveniente de um dos estados politicamente mais atrasados do país, chefiando um exército de pigmeus inescrupulosos, tivesse a clarividência de definir um novo país &#150;que gradativamente começa a se materializar.
 Como alguns outros analistas, criei cá para mim alguns álibis para não ter que encarar a questão de frente. O máximo que admitia era que Collor foi um fenômeno eleitoral &#150;algo muito menor do que um fenômeno político&#150; e que todos seus atos obedeceram exclusivamente a uma impulsividade irracional que, por vias tortas, conduziram o país às mudanças que agora começam a aflorar em toda sua intensidade.
 Visto assim, Collor representava apenas o fim de um modelo político que havia ficado tão irracional, a ponto de tornar-se autofágico, nas mãos de um louco varrido.
@@ -440,9 +440,9 @@ Não é nada disso. Tinha todos os grandes defeitos apontados e o episódio polític
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-026</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-026</field>
+<field name="date">940607</field>
+<text_pt>
 EVA JOORY
 Da Reportagem Local
 O estilista francês Jean-Charles de Castelbajac, 45, chegou ontem a São Paulo, para participar da Fenit.
@@ -454,9 +454,9 @@ Além da cor, a pesquisa de materiais alternativos e os toques de bom-humor també
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-027</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-027</field>
+<field name="date">940607</field>
+<text_pt>
 
 Parte do dinheiro da renda fixa vai para o mercado acionário e para o dólar no paralelo
 Da Redação
@@ -506,30 +506,30 @@ O mercado futuro do índice da Bolsa paulista para junho fechou com 32.400 pontos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-028</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-028</field>
+<field name="date">940607</field>
+<text_pt>
 Bósnios de origem croata e o governo de Sarajevo propuseram ontem uma trégua de quatro semanas no conflito na ex-Iugoslávia. O enviado especial da ONU, Yasushi Akashi, reuniu-se com representantes das facções em luta na Bósnia. Também estavam em Genebra, Boutros Boutros-Ghali, secretário-geral da ONU, e o negociador Thorvald Stoltenberg.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-029</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-029</field>
+<field name="date">940607</field>
+<text_pt>
 Tropas do Exército realizam a maior contra-ofensiva desde o início da guerra civil contra os rebeldes da FPR (Frente Patriótica Ruandesa). Um dos objetivos é retomar a estrada que vai de Kigali à fronteira com o Burundi. A ONU disse ontem que milhões de membros da etnia hutu estão fugindo para o sul do país. Eles temem ser massacrados pelos rebeldes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-030</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-030</field>
+<field name="date">940607</field>
+<text_pt>
 O governo do Iêmen, sediado em Sanaa (norte), anunciou uma trégua unilateral nos combates com os rebeldes socialistas do sul a partir da meia-noite de ontem (19h em Brasília). Horas antes, aviões dos rebeldes atacaram instalações de petróleo em Shabwa e Marib. O norte bombardeou uma refinaria em Áden. A ONU havia apelado por uma trégua.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-031</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-031</field>
+<field name="date">940607</field>
+<text_pt>
 Financial Times
 De Londres
 O aeroporto de Tóquio é o mais caro do mundo, seguido pelo aeroporto JFK de Nova York, diz o "Financial Times". Já o aeroporto de Heathrow, em Londres, que tem o maior movimento do mundo, é o 31º da lista, elaborada pela consultora Travers Morgan.
@@ -537,9 +537,9 @@ Os aeroportos são avaliados pelas taxas que cobram para pouso e decolagem, estac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-032</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-032</field>
+<field name="date">940607</field>
+<text_pt>
 Região ao norte da França pára no Dia D para comemorar os 50 anos do desembarque das forças aliadas
 ANDRÉ LAHÓZ
 Enviado especial a Caen
@@ -564,9 +564,9 @@ Em Mitcheville (Maryland, EUA), na mesma hora da cerimônia morreu o jornalista J
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-033</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-033</field>
+<field name="date">940607</field>
+<text_pt>
 Do enviado especial
 Milhares de franceses estiveram ontem em Ouistreham, a cidade que foi reconquistada ainda no Dia D pelo Comando Nº 4, que contava com o apoio de soldados franceses. A reconquista é motivo de orgulho no país.
 Mas a participação francesa na batalha foi meramente simbólica. Afinal, eram apenas 177 soldados entre os 150 mil homens que desembarcaram na Normandia no primeiro dia.
@@ -579,9 +579,9 @@ Vários veteranos de guerra estiveram presentes e alguns foram condecorados por M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-034</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-034</field>
+<field name="date">940607</field>
+<text_pt>
 Do enviado especial
 Nem todos os países envolvidos na Segunda Guerra estiveram representados nas comemorações que ocorreram ontem na Normandia. Alemanha e Rússia foram as maiores ausências em uma festa que reuniu chefes de Estado ou governo de 19 países.
 Os alemães não foram convidados para as festas de ontem, mas o presidente François Mitterrand e o chanceler alemão, Helmut Kohl, se apressaram a afastar qualquer incidente diplomático.
@@ -595,9 +595,9 @@ O presidente polonês, Lech Walesa, presente nas comemorações, declarou ainda em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-035</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-035</field>
+<field name="date">940607</field>
+<text_pt>
 O diretor de teatro José Celso Martinez Corrêa (foto) continua internado no Hospital do Coração, em São Paulo. Ele tem pleura-pericardite (inflamação nas membranas do pulmão e coração) e está no hospital desde o 29 de maio. Segundo o pneumologista responsável, Carlos Roberto Ribeiro de Carvalho, 40, os resultados dos exames colhidos na semana passada devem sair hoje à tarde. Ele afirmou o diretor apresentou melhora e está sem febre. "Mas o paciente terá alta apenas após o diagnóstico que aponta as causas de seu problema."
 
 Canal de 120 km será construído em Recife
@@ -618,9 +618,9 @@ CR$ 613 milhões
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-036</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-036</field>
+<field name="date">940607</field>
+<text_pt>
 CLAUDIO JULIO TOGNOLLI
 Da Reportagem Local
 Há cinco meses, bateu na diretoria da Polícia Federal, em Brasília, a informação de que "um enorme carregamento" de cocaína iria chegar ao Brasil, vindo de Cali, na Colômbia. Os donos da informação eram dois norte-americanos, agentes da Drugs Enforcement Administration (DEA), a agência que os EUA mantém para combater o tráfico internacional de cocaína.
@@ -634,9 +634,9 @@ O Depratamento de Estado dos EUA considera o Brasil como o segundo pçaís, no mui
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-037</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-037</field>
+<field name="date">940607</field>
+<text_pt>
 Da Sucursal de Brasília e das agências
 Na manhã de ontem a Polícia Federal prendeu mais dois traficantes envolvidos com o carregamento de sete toneladas de cocaína apreendido anteontem em Guaraí (TO). Foi a maior apreensão já realizada na América Latina.
 Os nomes ainda não foram divulgados. A polícia já capturou 11 membros da quadrilha: seis brasileiros e cinco colombianos, segundo informações não-oficiais.
@@ -651,9 +651,9 @@ As 20 toneladas atravessaram 3.300 km. A cocaína, ao contrário, vinha da Colômbi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-038</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-038</field>
+<field name="date">940607</field>
+<text_pt>
 A Sociedade Acadêmicos de Medicina de Minas lançou a campanha "SOS Sistema de Saúde: uma Atitude dos Estudantes de Medicina a Serviço da Comunidade". O projeto visa sensibilizar a população e os profissionais da área para a melhoria dos serviços.
 
 Minas Gerais 2
@@ -673,9 +673,9 @@ A Secretaria Estadual de Meio Ambiente quer que o Ministério Público obrigue qua
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-039</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-039</field>
+<field name="date">940607</field>
+<text_pt>
 Nos últimos 60 dias foram registrados, somente em duas delegacias de polícia de Porto Alegre, 53 casos de arrastões. A informação é do delegado Paulo Cesar Caldas Jardim. Segundo ele, nos últimos dois meses ocorreram 19 estupros no Parque da Redenção.
 
 Rio Grande do Sul 2
@@ -689,9 +689,9 @@ O casamento de José Trombini, 91, e Cecília Assunção, 87, movimentou o Lar Benef
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-040</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-040</field>
+<field name="date">940607</field>
+<text_pt>
 LUIZA YABIKU
 Apesar do uso do cinto de segurança estar crescendo no Brasil (onde seu uso é obrigatório em todo o território brasileiro, pelo Código Nacional de Trânsito), seu uso efetivo está aquém do desejado.
 A conscientização do uso, movido pelas campanhas, tem sido excelente, e seu uso tende a crescer, ainda que acompanhado de discussões e polêmicas.
@@ -711,9 +711,9 @@ LUIZA YABIKU, 48, é engenheira da Dersa (Desenvolvimento Rodoviário S/A) e membr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-041</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-041</field>
+<field name="date">940607</field>
+<text_pt>
 O historiador Marcelo Carmuça lançou o livro "Marretas, Molambudos e Rabelistas - A Revolta de 1914 em Juazeiro". O livro é uma análise do movimento político-religioso liderado pelo padre Cícero Romão Batista e foi lançado durante seminário sobre o mesmo.
 
 Ceará 2
@@ -739,9 +739,9 @@ Três tartarugas marinhas encontradas anteontem à tarde na praia da Coroa do Meio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-042</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-042</field>
+<field name="date">940607</field>
+<text_pt>
 O ex-presidente da Associação dos Importadores da Zona Franca de Manaus, Celso Santos, não acredita numa explosão de consumo com a chegada do real. O diretor da rede de lojas Belmiro's acredita que a população não terá restabelecido o seu poder aquisitivo.
 
 Amazonas 2
@@ -767,9 +767,9 @@ A Funai determinou à Radio Nacional da Amazônia a veiculação de avisos para a sa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-043</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-043</field>
+<field name="date">940607</field>
+<text_pt>
 Até o dia 10 acontece em Anastácio (127 Km de Campo Grande) o 1º Seminário Regional de Estudos Ambientais. O evento é promovido pela Universidade Federal do Estado, prefeitura e Polícia Florestal. O objetivo é melhorar o trabalho de defesa do meio ambiente.
 
 Mato Grosso do Sul 2
@@ -783,9 +783,9 @@ A Secretaria Estadual de Administração leiloa hoje em Campo Grande 141 bens, ent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-044</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-044</field>
+<field name="date">940607</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte
 O fazendeiro Alfredo Pereira de Carvalho, 68, foi preso em Águas Formosas (MG) acusado de ter mandado matar seu filho, Alfredo Pereira Ivo de Carvalho, 27.
 Segundo a polícia, Alfredo era a "ovelha negra" da família. O pai não teria suportado o fato do filho ser viciado e teria mandado matá-lo. O crime ocorreu em 4 de maio. Segundo o outro filho, Arjamiro Pereira Ivo, 37, seu pai teria pago CR$ 3 milhões a pistoleiros.
@@ -793,9 +793,9 @@ A filha do fazendeiro, Delvanir Ivo Carvalho, 28, disse que os pistoleiros estiv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-045</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-045</field>
+<field name="date">940607</field>
+<text_pt>
 PAULO SILVA PINTO
 Da Reportagem Local
 Depois de conquistar as escolas, os computadores estão competindo com os outros "brinquedos" acadêmicos no terreno deles: os laboratórios.
@@ -815,9 +815,9 @@ Os maiores beneficiados com esses recursos são exatamente os alunos que se dão m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-046</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-046</field>
+<field name="date">940607</field>
+<text_pt>
 Da Reportagem Local
 A UNE e a Ubes (União Nacional dos Estudantes e União Brasileira dos Estudantes Secundaristas) começaram a recolher esta semana no Estado de São Paulo assinaturas para apresentar ao Congresso um projeto de lei sobre mensalidades.
 O projeto de iniciativa popular precisa recolher 1,5 milhão de assinaturas para ser apresentado.
@@ -831,9 +831,9 @@ Essa medida, em discussão há três meses, inicialmente iria converter as mensalid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-047</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-047</field>
+<field name="date">940607</field>
+<text_pt>
 Venda de bebida alcoólica em delegacias é proibida, segundo estatuto do funcionalismo
 LUÍS EDUARDO LEAL
 Da Reportagem Local
@@ -854,9 +854,9 @@ No 22º DP, o quilo de comida custa CR$ 6.000,00. No 44º DP, os pratos custam ent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-048</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-048</field>
+<field name="date">940607</field>
+<text_pt>
 A leitora Olindina Maria Ferreira da Cunha, residente no Butantã, reclama que a Sabesp não repôs a calçada em frente à sua casa.
 "Em dezembro de 93 a Sabesp veio à minha casa e quebrou toda a calçada para fazer uma reforma na casa vizinha. A informação que recebemos era de que na semana seguinte a calçada seria reposta, mas até a segunda quinzena de abril nada havia sido feito", conta.
 Olindina diz já ter reclamado pelo telefone 195 e até ter ido pessoalmente à Sabesp, sem sucesso. "Não é justo minha calçada ficar destruída em função de uma reforma que não é minha."
@@ -867,9 +867,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-049</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-049</field>
+<field name="date">940607</field>
+<text_pt>
 
 GINECOLOGIA - Acontecerá de 28 a 31 de agosto, em Vitória (ES), o "1º Congresso de Ginecologia e Obstetrícia do Cone Leste da Febrasgo". Informações pelos tels. (011) 884-7654, (021) 221-2994 e (027) 325-3382.
 
@@ -889,9 +889,9 @@ Correspondência para esta seção deve ser enviada para a alameda Barão de Limeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-050</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-050</field>
+<field name="date">940607</field>
+<text_pt>
 Segundo Ricupero, a conversão das mensalidades escolares em URV  "não é responsabilidade do governo"
 Da Sucursal de Brasília e da Reportagem Local
 O ministro da Fazenda, Rubens Ricupero, criticou ontem a imprensa e a sociedade em geral por cobrarem do governo regras para a conversão das mensalidades escolares em URV.
@@ -910,9 +910,9 @@ O ex-presidente do Grupo &#150;associação que representa escolas particulares de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-051</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-051</field>
+<field name="date">940607</field>
+<text_pt>
 ALBERTO HELENA JR.
 Saímos do hotel, em Edmonton, no Canadá, lá pelas quatro e meia da madrugada, numa viagem tortuosa, com parada em Salt Lake City, para chegarmos a Los Gatos, Califórnia, EUA, por volta do meio-dia daqui, posto que uma hora se perde (ou se ganha, já nem sei mais se é pra frente ou se é pra trás, pois só sei que meu fuso entrou em parafuso).
 Acompanhava-me a expectativa de que encontraríamos uma seleção efervescente. Afinal, o mundo todo se diz decepcionado com o futebol apresentado pelo Brasil neste domingo.
@@ -937,9 +937,9 @@ O que me surpreende é Parreira, que convive há três anos com esse grupo de jogad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-052</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-052</field>
+<field name="date">940607</field>
+<text_pt>
 Raí e Ricardo Rocha podem ficar fora do jogo de quarta
 Dos enviados especiais
 O lateral-esquerdo Branco, afastado da seleção desde a semana passada, "deve jogar pelo menos um tempo" domingo, no amistoso contra a equipe de El Salvador.
@@ -961,9 +961,9 @@ O treino da seleção hoje deve ser novamente apenas no final da tarde, às 18h (22
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-053</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-053</field>
+<field name="date">940607</field>
+<text_pt>
 Jogador se diz um dos responsáveis pelo empate de 1 a 1 com o Canadá
 Dos enviados especiais
 O atacante Romário disse ontem que se considera um dos responsáveis pelo empate em 1 a 1 contra o Canadá no domingo. "Eu preciso de ter mais concentração", disse.
@@ -979,9 +979,9 @@ O técnico do Canadá trocou cinco jogadores. Esse era o limite de substituições. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-054</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-054</field>
+<field name="date">940607</field>
+<text_pt>
 Até o "New York Times" destacou a forma como os colombianos venceram a Grécia no Giants Stadium
 Das agências internacionais
 A imprensa norte-americana destacou na edição de ontem a vitória da Colômbia por 2 a 0 sobre a Grécia. "Colômbia irrompe", destacou o "The New York Times", o mais importante jornal norte-americano.
@@ -999,9 +999,9 @@ No domingo, a Colômbia enfrenta o Palmeiras. Depois, viaja para os Estados Unido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-055</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-055</field>
+<field name="date">940607</field>
+<text_pt>
 Time é exemplo da evolução africana
 JOHAN CRUYFF
 Especial para a Folha
@@ -1021,9 +1021,9 @@ O holandês JOHAN CRUYFF, técnico do Barcelona, escreve às terças, quintas e domi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-056</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-056</field>
+<field name="date">940607</field>
+<text_pt>
 FÁBIO SORMANI
 Quando começou a atual temporada da NBA, a maioria dos jornalistas norte-americanos elegeu New York Knicks e Phoenix Suns como os prováveis finalistas do campeonato. Por pouco não erraram por completo.
 O Phoenix sucumbiu diante de um Houston Rockets azeitado por esta máquina de fazer pontos, apanhar rebotes e dar tocos chamada Hakeem Olajuwon; o New York quase toma o mesmo caminho diante do Indiana Pacers, que cometeu o grande pecado de não acreditar em suas forças.
@@ -1039,9 +1039,9 @@ Dá Houston então? Eu não disse nada, só mostrei os fatos. Em final, tudo pode ac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-057</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-057</field>
+<field name="date">940607</field>
+<text_pt>
 Depois que Hakeem Olajuwon ganhou o troféu de MVP (Most Valuable Player) da fase de classificação, as estrelas de New York e Houston vão brigar agora pelo MVP das finais. Hakeem pode bizar e levar dois troféus para casa. O feito, se confirmado, não será inédito, uma vez que Willis Reed (Knicks), Kareem Abdul-Jabbar (Lakers), Moses Malone (76ers), Larry Bird (Celtics), Magic Johnson (Lakers) e Michael Jordan (Bulls) já beliscaram o troféu nas fases de classificação e final.
 *
 Amanhã à noite, a partir das 22h de Brasília, Houston e New York começam a decidir o 48º campeonato da NBA. Os assinantes da TVA Esportes vão ver a partida ao vivo. A Rede Bandeirantes anuncia a transmissão das finais, mas não diz a partir de quando. Torço para que seja já nesta quarta. Recado para a Bandeirantes: não são poucos os que me procuram e dizem que a emissora deveria abrir mão da NBA em favor de outra rede, que poderia passar os jogos.
@@ -1050,9 +1050,9 @@ Dia 17 de junho próximo vai fazer um ano que Drazen Petrovic morreu. Ex-jogador 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-058</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-058</field>
+<field name="date">940607</field>
+<text_pt>
 A Casa Triângulo abre hoje exposição com pinturas do artista mineiro da nova geração Marco Paulo Rolla
 CARLOS UCHÔA FAGUNDES JR.
 Especial para a Folha
@@ -1071,9 +1071,9 @@ Cética quanto a inovação no seu estatuto visual, esta pintura não lida com a inq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-059</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-059</field>
+<field name="date">940607</field>
+<text_pt>
 Festival italiano mostra em 94 painel dos 100 anos de cinema e faz competição para detectar tendências do futuro
 INÁCIO ARAUJO
 Crítico de Cinema
@@ -1100,9 +1100,9 @@ Do Brasil, quero mostrar "Limite", de Mario Peixoto, "Ganga Bruta", de Humberto 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-060</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-060</field>
+<field name="date">940607</field>
+<text_pt>
 Da Redação
 A seguir, Adriano Aprà fala sobre as transformações do cinema nas últimas três décadas.
 
@@ -1121,30 +1121,30 @@ LEIA MAIS sobre Pesaro à pág. 5-3.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-061</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-061</field>
+<field name="date">940607</field>
+<text_pt>
 "Indecência, exibicionismo, vício, dinheiro e homossexualismo. São esses os tristes e degradantes símbolos desta cidade". Palavras de Brigitte Bardot sobre sua Saint Tropez. Tanta fúria se deve ao fato de a cidade estar abrigando um congresso de caçadores.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-062</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-062</field>
+<field name="date">940607</field>
+<text_pt>
 A polícia de Bangladesh está atrás da escritora Taslina Nasreen, acusada de blasfêmia contra o Islã. Na clandestinidade, a escritora deu entrevista considerada ofensiva ao Alcorão que lhe rendeu uma campanha de fundamentalistas pedindo sua condenação à morte.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-063</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-063</field>
+<field name="date">940607</field>
+<text_pt>
 A Fundação Dean entrou com um pedido de indenização contra o Partido Conservador britânico por haver utilizado a imagem de James Dean sem permissão em sua campanha. "Com certeza Dean não compartilharia a causa dos conservadores", divulgou a entidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-064</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-064</field>
+<field name="date">940607</field>
+<text_pt>
 Adriano Aprà acredita que evolução técnica favorecerá trasnformações do cinema nos próximos anos
 Da Redação
 O surgimento de novas tecnologias, o papel da TV e do vídeo, e suas relações com o cinema são a preocupação do teórico Adriano Aprà:
@@ -1161,9 +1161,9 @@ Enfim, a maioria das pessoas aproveita a tecnologia para não ter que pensar. Tud
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-065</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-065</field>
+<field name="date">940607</field>
+<text_pt>
 SERGIO AUGUSTO
 A mostra de filmes e vídeos de Joaquim Pedro de Andrade (1932-1988), que hoje se inicia no Centro Cultural Banco do Brasil, no Rio, é a mais completa possível. Falta-lhe apenas uma obra de circunstância: "Vocações Sacerdotais", sua contribuição à telessérie "Caso Verdade", que a Rede Globo não apenas desistiu de pôr no ar, 18 anos atrás, como deu sumiço às suas imagens &#150;exceto àquelas que Walter Lima Jr. logrou garimpar para o vídeo ("Mestre Joaquim Pedro") que fez em homenagem ao cineasta.
 As razões da censura? O centro das atenções em "Vocações Sacerdotais" era um bispo (d. Adriano Hypolito) cujas atividades sociais no interior fluminense a arquidiocese do Rio, as autoridades militares e, supõe-se, o dr. Roberto Marinho não viam com bons olhos.
@@ -1177,9 +1177,9 @@ Ao pesquisar os arquivos de Joaquim Pedro, Monteiro descobriu que, além de "O Im
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-066</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-066</field>
+<field name="date">940607</field>
+<text_pt>
 Então você está a fim de entrar nessa onda neo-existencialista... Sua vida anda meio sem sentido... Pouca perspectiva e pouca vontade de fazer alguma coisa... Tudo bem, já existe um refrigerante feito sob medida para você.
 Vem aí OK, o novo produto da Coca-Cola, que já está sendo testado nos EUA (com planos para o lançamento mundial até o final do ano que vem), acompanhado de uma das maiores sacanagens do marketing moderno.
 As coisas vão ficar OK. Não é simples?
@@ -1190,9 +1190,9 @@ Nem suas dúvidas normais você pode ter mais. A Coca-Cola já resolveu isso. Você 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-067</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-067</field>
+<field name="date">940607</field>
+<text_pt>
 Horas em vão, seminários, debates e painéis têm sido gastos para se chegar a conclusões sobre o "recém"-descoberto (e lucrativo) segmento jovem. A Coca-Cola, com essa "mamutesca" campanha de lançamento do OK, chega mais perto desse consumidor. Não chega a agarrá-lo, mas em uma brilhante estratégia de comunicação, seu novo refrigerante perverte tudo que foi tentado ultimamente para falar com esse jovem.
 A abordagem é: honestidade. OK não promete aventuras e alegrias, mas tenta ser uma bóia (companhia?) para quem sabe que tem poucas chances de ter a vida transformada por um produto tão simples como um refrigerante.
 O gosto do OK nem é mencionado. Vem mais as sensações. OK é o básico, é o mínimo que o jovem pode contar, o mínimo que ele pode dizer quando tudo parece que irá na direção errada.
@@ -1200,23 +1200,23 @@ Perguntas são jogadas para uma geração que procura respostas. A campanha critica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-068</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-068</field>
+<field name="date">940607</field>
+<text_pt>
 Eles já estão aparecendo nos anúncios de revistas japonesas. São os depiladores masculinos, a última forma de vaidade que deve emplacar no Brasil das Barbies. Rosto, peito ou pernas: o Elimina SV promete deixar você liso como o mármore. Deve funcionar tanto quanto aquelas novidades de feiras de utilidades domésticas, mas não custa tentar. Homem não liga para essas coisas, não é mesmo?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-069</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-069</field>
+<field name="date">940607</field>
+<text_pt>
 Vale a pena se aprofundar na recente onda intelectual dos palcos. De "O Homem sem Qualidades", de Bia Lessa, a "Nome", de Arnaldo Antunes, você não pode deixar de comentar que está havendo uma "ressurreição das palavras" nas artes brasileiras. Não deixe de usar o termo "verborragia" sempre que possível e, para impressionar mesmo, diga que agora está tentando também poesia "a sério". Vai arrasar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-070</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-070</field>
+<field name="date">940607</field>
+<text_pt>
 ANA FRANCISCA PONZIO
 Especial para a Folha
 Quem quer ver uma das últimas boas atrações do 4º Festival Internacional de Artes Cênicas não deve perder os espetáculos do coreógrafo norte-americano Joe Goode, em cartaz até amanhã no teatro Sérgio Cardoso.
@@ -1237,9 +1237,9 @@ Preços: de CR$ 6.000,00 a CR$ 30 mil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-071</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-071</field>
+<field name="date">940607</field>
+<text_pt>
 De Londres
 O Sepultura fez um show tribal sábado no festival "Monsters of Rock", no autódromo de Donington Park, no centro da Inglaterra. Desde 1980, esta é uma das datas mais reverenciadas do heavy metal internacional e pela primeira vez uma banda brasileira participa.
 Os dois palcos separados por um pequeno morro exibiram 11 bandas e atraíram cerca de 60 mil pessoas. Tocando entre Biohazard e Pantera, o Sepultura teve que pegar pesado para marcar presença. Abriu com "Chaos AD", faixa-título do novo disco. "We are Sepultura from Brazil", gritou Max.
@@ -1249,9 +1249,9 @@ O sucesso "Orgasmatron" fechou o show, com boa parte da platéia cantando junto. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-072</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-072</field>
+<field name="date">940607</field>
+<text_pt>
 A Espaço Interior recebe estofados desenvolvidos por Marcio Colaferro, irmãos Campana, Guto Lacaz e outros
 CELSO FIORAVANTE
 Da Redação
@@ -1275,9 +1275,9 @@ Todos os móveis foram produzidos pela Espaço Interior, que pretende, no ano que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-073</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-073</field>
+<field name="date">940607</field>
+<text_pt>
 Em novo CD, o cantor de Nova Orleans tem como parceiro Anthony Kiedis, dos Red Hot Chili Peppers
 CARLOS CALADO
 Da Reportagem Local
@@ -1301,9 +1301,9 @@ Quanto: 18 URVs (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-074</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-074</field>
+<field name="date">940607</field>
+<text_pt>
 
 Bomba! Bomba! Cientista americano caça preguiça gigante. Aonde? Em Santa Clara?! Rarará! Rarará!
 JOSÉ SIMÃO
@@ -1316,9 +1316,9 @@ O Fernando colloriu! O dondoco FHC quer contratar o Egberto Batista! Cruuuzes, j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-075</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-075</field>
+<field name="date">940607</field>
+<text_pt>
 RUY OHTAKE
 Especial para a Folha
 Uma vez viajamos, Burle Marx e eu, para a Amazônia. Foi em 1979. Durante 10 dias, o barco nos levou Rio Negro acima. Navegando durante a noite e caminhando pela mata durante o dia. O sol mal conseguia atravessar as copas e os galhos da floresta: uma tênue luz marcava as silhuetas nossas e dos longos troncos das árvores. Contrastava com o altíssimo grau de umidade, tornando o calor muito pesado.
@@ -1336,9 +1336,9 @@ RUY OHTAKE, 56, é arquiteto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-076</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-076</field>
+<field name="date">940607</field>
+<text_pt>
 LUIZ ANTÔNIO PINAZZA
 Uma parcela significativa da agropecuária nacional está hoje integrada ao agrobusiness, em constante busca para melhorar a eficiência técnica e econômica dos seus processos de produção.
 Os desafios mesmo neste privilegiado segmento de produtores são enormes. De um lado, porque o país está longe de reconhecer a necessidade de implementar políticas de segurança alimentar, que defendam a renda do setor e dêem sustentação à produção. De outro, em função de precisarem competir com o protecionismo dos países desenvolvidos, cujas reformas em suas políticas agrícolas são gradualistas, como bem mostra o recente acordo selado na Rodada Uruguai.
@@ -1357,9 +1357,9 @@ LUIZ ANTÔNIO PINAZZA é engenheiro agrônomo e gerente de planejamento da Agrocere
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940607-077</text_pt>
-<text_pt name="date">940607</text_pt>
-<text_pt name="text">
+<field name="id">FSP940607-077</field>
+<field name="date">940607</field>
+<text_pt>
 Da Folha Vale
 O sensoriamento remoto é a análise das condições geológicas e climáticas da Terra, através de satélites.
 Tais satélites detectam as condições de solo, as imagens de plantações, de oceanos e de florestas.

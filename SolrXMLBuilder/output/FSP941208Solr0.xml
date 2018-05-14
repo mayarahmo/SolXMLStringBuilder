@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP941208-001</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-001</field>
+<field name="date">941208</field>
+<text_pt>
 Foi prudente a decisão de renovar, por pelo menos mais um mês, o convênio entre os governos federal e do Rio de Janeiro que permite a participação das Forças Armadas no combate ao crime.
 Seria no mínimo temerário retirar o Exército das ruas no próximo dia 30 e abandonar assim à própria sorte o futuro governador do Rio, Marcello Alencar (PSDB), a dois dias de sua posse. É evidente que o próximo mandatário fluminense vai precisar de algum fôlego e muito apoio na árdua tarefa de reestruturar as polícias do Estado.
 O que as Forças Armadas fizeram até agora foi apenas demonstrar que o poder público é capaz de chegar até as favelas e impor a ordem. Isso, por certo, transmitiu aos cariocas uma sensação de segurança e constitui passo importante para que o Estado consiga readquirir o controle sobre os morros.
@@ -15,9 +15,9 @@ Não se pode admitir em hipótese nenhuma que, a pretexto de combater o crime, age
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-002</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-002</field>
+<field name="date">941208</field>
+<text_pt>
 Foi privatizada ontem a Embraer (Empresa Brasileira de Aeronáutica). Já vai tarde, é o mínimo que se pode dizer.
 Por razões históricas que não cabe analisar aqui, o Estado brasileiro acabou tornando-se o maior empresário do país, atuando em áreas que vão da produção de petróleo até a confecção de aviões, passando pela fabricação de defensivos agrícolas e fluido para isqueiros.
 Com a tradicional ineficiência administrativa do Estado &#150;onde imperam o desperdício, o apadrinhamento e a corrupção&#150;, as cerca de 120 estatais brasileiras acumulam hoje, segundo o BNDES, uma dívida de aproximadamente US$ 80 bilhões e sugam dos cofres públicos US$ 15 bilhões por ano só para evitar depreciação de patrimônio.
@@ -28,9 +28,9 @@ Não existe lógica em ter o poder público dedicando recursos e empenho para fabri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-003</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-003</field>
+<field name="date">941208</field>
+<text_pt>
 Há cerca de três anos, pouco antes de começarem a ganhar corpo as suspeitas que levaram ao impeachment no Brasil, iniciava-se na Itália uma outra operação de combate à corrupção arraigada nos meandros do Estado. Passado este tempo, o que os dois países têm a mostrar é um histórico tão díspar que chega a ser vergonhoso.
 A Operação Mãos Limpas contabiliza até aqui a investigação de 2.150 suspeitos e o indiciamento de 847 &#150;dos quais 221 já foram condenados. Foram atingidos não só políticos, incluindo ex-ministros e premiês, como também grandes empresários. A comparação com o Brasil é até desnecessária.
 Um dado que chama particularmente a atenção é que US$ 18 milhões que haviam sido desviados dos cofres públicos já foram restituídos, e o equivalente a US$ 125 milhões em bens móveis e imóveis foram sequestrados pela Justiça à espera de novas sentenças. Nesse aspecto crucial da recomposição do patrimônio público ilegalmente dilapidado, a tradição do Brasil é desgraçadamente pobre.
@@ -40,9 +40,9 @@ Mais do que apenas impressionantes, os resultados das investigação revelam a opç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-004</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-004</field>
+<field name="date">941208</field>
+<text_pt>
 Clóvis Rossi 
 SÃO PAULO &#150; Fim-de-semana para fotógrafo nenhum botar defeito. Cúpulas das Américas, FHC posando ao lado de Bill Clinton, Itamar Franco também (se quiser) ou, pelo menos, ao lado de qualquer um dos demais 32 governantes convidados para o festival de Miami.
 Se as fotos estão garantidas, faltam os fatos. Um deles já existe, independentemente da cúpula. É o ineditismo histórico de que todos os 34 países presentes (Cuba é a única ausência) têm hoje governos legitimamente eleitos. Pode-se até questionar o grau de pureza de algumas dessas eleições, mas o quadro geral é bastante razoável.
@@ -55,9 +55,9 @@ Mas o "mood" não parece ser esse, não. O pessoal anda embevecido demais com suas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-005</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-005</field>
+<field name="date">941208</field>
+<text_pt>
 Josias de Souza 
 BRASÍLIA &#150; Não estivesse decidido a seguir a trajetória de partido político, o PMDB teria ótimas chances no ramo teatral.
 A legenda saiu estropiada da eleição presidencial. Orestes Quércia, seu candidato, frequentou o retrovisor até de Enéas.
@@ -74,9 +74,9 @@ Mantido o interesse pelo PMDB, terá conversar com Sarney, Britto, Simon, Íris Re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-006</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-006</field>
+<field name="date">941208</field>
+<text_pt>
 Carlos Heitor Cony 
 RIO DE JANEIRO &#150; Li e ouvi, nas últimas horas, os chamados formadores de opinião que desfilam pela mídia. Uns pelos outros, podem ser resumidos na advertência comum ao Supremo Tribunal Federal: a opinião pública já condenou Collor, o STF não pode se perder em detalhes técnicos que formam o direito e expressam a justiça. Numa palavra: para que o STF?
 Por instinto, não exatamente por gosto, desconfio das montagens que formam a opinião pública. Collor foi eleito numa complicadíssima montagem em que despossuídos e possuidores estiveram unidos. Foi expulso do poder através de outra montagem que explorou com habilidade os pretextos que o próprio Collor forneceu com exagero.
@@ -88,9 +88,9 @@ Se dependesse de mim, Collor não teria sido presidente um só dia. Mas acho que e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-007</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-007</field>
+<field name="date">941208</field>
+<text_pt>
 A equipe econômica acaba de inventar o suicídio coletivo da indústria brasileira 
 ROGÉRIO CÉZAR DE CERQUEIRA LEITE 
 Uma das lendas mais fascinantes que se repete em culturas distintas aparentemente isoladas é a do suicídio do escorpião. O caboclo brasileiro, o maori neozelandês, o tadjique afegane e o "snob" autor inglês Ian Flemming, supostamente bem-informados, todos descrevem a mesma irretocável cena.
@@ -113,9 +113,9 @@ ROGÉRIO CÉZAR DE CERQUEIRA LEITE, 61, físico, é professor emérito da Unicamp (Un
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-008</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-008</field>
+<field name="date">941208</field>
+<text_pt>
 A América Latina está se tornando rapidamente um fator importante na economia mundial 
 MELVYN LEVITSKY 
 Em recente discurso na Organização dos Estados Americanos, o vice-presidente dos Estados Unidos, Albert Gore, disse: "Nunca antes, na história, a América Latina, o Caribe, o Canadá e os Estados Unidos estiveram em tão estreita consonância, como estão agora, em relação a todos os valores econômicos, políticos e sociais que são fundamentais para povos livres".
@@ -140,9 +140,9 @@ MELVYN LEVITSKY, 56, é embaixador dos Estados Unidos da América no Brasil. Foi s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-009</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-009</field>
+<field name="date">941208</field>
+<text_pt>
 "Ao ler o artigo de Clóvis Rossi de 6/12, veio-me à mente uma declaração dada há poucos anos pelo senador Fernando Henrique, em quem votei para presidente, de que seu texto sociológico preferido era 'A Política como Vocação', de Max Weber. Creio por isso que o presidente eleito está bem lembrado da afirmação de Weber nesse ensaio: 'A política é como perfuração lenta de tábuas duras. Exige tanto paixão como perspectiva. Certamente, toda experiência histórica confirma a verdade &#150;que o homem não teria alcançado o possível se repetidas vezes não tivesse tentado o impossível."
 Antônio Carlos Cintra do Amaral (São Paulo, SP)
  
@@ -196,9 +196,9 @@ Alfredo Frajdenberg (Rio de Janeiro, RJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-010</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-010</field>
+<field name="date">941208</field>
+<text_pt>
 Um grupo de amigos reuniu-se anteontem à noite em São Paulo para homenagear o deputado eleito Almino Affonso (PSDB-SP), que volta à Câmara após 30 anos. Mandaram preparar especialmente um prato à base de tambaqui, peixe típico do Amazonas, terra natal de Almino.
 Ao final do jantar, o deputado eleito levantou-se para fazer um discurso de agradecimento. Lembrou que o mesmo grupo o havia homenageado em 82, quando ele foi candidato a senador.
 Naquela época, disse, os amigos o presentearam com a ampliação de uma caricatura publicada por um jornal.
@@ -208,18 +208,18 @@ Depois de uma breve pausa, Almino olhou os convidados e, sorrindo, emendou:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-011</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-011</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O Baneser (Banespa Serviços Técnicos e Administrativos S.A) vai recorrer contra decisão da 10ª Vara da Fazenda Pública que anulou 18 mil contratações feitas pela instituição para os governos Quércia e Fleury. O recurso, pedindo a anulação da decisão, será encaminhado ao Tribunal de Justiça do Estado. Caso seja mantida a anulação das contratações, o Baneser pode apresentar novo recurso ao Superior Tribunal de Justiça.
 O Baneser afirma que as contratações foram feitas dentro da lei. As contratações foram feitas sem realização de concurso público, contrariando a Constituição.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-012</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-012</field>
+<field name="date">941208</field>
+<text_pt>
 A prorrogação da presença militar no Rio até 30 de janeiro é, em si, de pouca importância. O que poderá fazê-la de fato significativa será, se ocorrer como prometido, o reajustamento dos métodos e ações aos objetivos do convênio federal/estadual e da participação militar mesma.
 À parte as explorações políticas, a causa objetiva da operação no Rio foi a violência armada. Reconhecida nesta causa a quota de responsabilidade dos órgãos federais, absolutamente omissos na sua obrigação exclusiva de reprimir o contrabando de armas, decorreu a conclusão óbvia de que a eficácia do combate à violência dependia, em grande parte, do fim da omissão federal. Pois bem, o pouco feito neste sentido é tão pouco, que na verdade é nada. Até hoje, a Polícia Federal, que tem a incumbência da repressão ao contrabando, sequer foi mobilizada, embora desde o convênio 800 dos seus policiais tenham sido postos à disposição das operações que seriam conjuntas.
 A principal preocupação mencionada pelos militares, desde suas mais remotas considerações sobre a violência no Rio, vinha do crescente uso de armas de combate nas disputas de quadrilhas do varejo de drogas. A população do asfalto, por sua vez, em áreas numerosas foi posta sob a ameaça, e com frequência como vítima inocente, pelo alcance tão maior de tais armas.
@@ -228,9 +228,9 @@ Os militares diziam-se despreparados para o tipo de ação que acabaram fazendo. M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-013</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-013</field>
+<field name="date">941208</field>
+<text_pt>
 O deputado Sigmaringa Seixas (PSDB-DF) vai pedir ao ministro da Justiça, Alexandre Dupeyrat, que seja apurada a autoria intelectual das escutas telefônicas em sua residência. Os "grampos" foram feitos à época da CPI do Orçamento. Sigmaringa coordenava a Subcomissão de Emendas. 
 
 João Paulo 2º nomeia dois bispos no Brasil 
@@ -238,9 +238,9 @@ O papa João Paulo 2º nomeou ontem dois novos bispos no Brasil. O sacerdote espan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-014</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-014</field>
+<field name="date">941208</field>
+<text_pt>
 ELVIS CESAR BONASSA 
 Da Redação 
 O cientista político Francisco Weffort, 56, do PT de São Paulo, disse que manifestou ao presidente eleito, Fernando Henrique Cardoso (PSDB), a disposição de ajudá-lo no governo. Segundo a Folha revelou ontem, FHC lhe ofereceu o Ministério da Cultura.
@@ -253,9 +253,9 @@ Weffort encerrou a conversa com a Folha repetindo o chavão dos ministeriáveis: "
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-015</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-015</field>
+<field name="date">941208</field>
+<text_pt>
 Atletismo cerebral substitui exibição muscular da era Collor 
 FERNANDO DE BARROS E SILVA 
 Da Reportagem Local 
@@ -272,9 +272,9 @@ Na campanha eleitoral, entre carreatas e comícios, FHC carregou a tiracolo o últ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-016</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-016</field>
+<field name="date">941208</field>
+<text_pt>
 Procurador-geral diz que pedirá novos processos; ex-presidente diz que Aristides "não poderia ter sido melhor" 
 O STF (Supremo Tribunal Federal) encerrou às 19h39 de ontem a primeira fase do julgamento do ex-presidente Fernando Collor de Mello. Sobraram lugares na platéia do tribunal e a única manifestação pública ficou por conta de cerca de 30 funcionários demitidos por Collor.
 O procurador-geral da República, Aristides Junqueira, insistiu na acusação de corrupção passiva contra o ex-presidente e inocentou Cláudio Vieira deste mesmo crime. Criticado por ter feito uma denúncia inconsistente, Junqueira anunciou que pedirá a abertura de novos processos contra Collor e PC Farias.
@@ -282,9 +282,9 @@ O ex-presidente disse através de um amigo que o trabalho da acusação "não poderi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-017</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-017</field>
+<field name="date">941208</field>
+<text_pt>
 DENISE MADUEÑO 
 DANIELA PINHEIRO 
 Da Sucursal de Brasília 
@@ -303,9 +303,9 @@ A acusação usou trecho do depoimento do empresário quando afirmou que "tudo que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-018</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-018</field>
+<field name="date">941208</field>
+<text_pt>
 MÁRCIA MARQUES 
 FLÁVIA DE LEON 
 Da Sucursal de Brasília 
@@ -324,9 +324,9 @@ A denúncia também afirma que Ribeiro, ex-diretor da empreiteira Tratex, foi nome
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-019</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-019</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal de Brasília 
 A presença de poucas pessoas na sessão de ontem do STF contrariou as expectativas de realização de manifestações e disputa por lugares no plenário. A discussão sobre Collor, PC e outros sete acusados atraiu mais estudantes de direito do que autoridades.
 Apenas três parlamentares compareceram ao STF até as 19h: o deputado eleito Lindbergh Farias (PC do B-RJ), o senador Áureo Mello (PRN-AM), membro da "tropa de choque" de Collor, e o deputado reeleito Augusto Farias (PSC-AL), irmão de PC.
@@ -337,9 +337,9 @@ Apenas uma tímida manifestação marcou o primeiro dia do julgamento. Cerca de 30 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-020</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-020</field>
+<field name="date">941208</field>
+<text_pt>
 HELCIO ZOLINI 
 Da Agência Folha, em Belo Horizonte 
 O engenheiro Marcelo Ribeiro, 48, afirmou em Belo Horizonte que a sua nomeação para o cargo de secretário nacional dos Transportes no governo Collor só aconteceu depois de passar pela aprovação de Itamar Franco.
@@ -349,9 +349,9 @@ O ex-secretário disse que ele mesmo se candidatou ao cargo e negou que tenha sid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-021</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-021</field>
+<field name="date">941208</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte 
 A irmã do ex-presidente Fernando Collor de Mello e mulher do embaixador Marcos Coimbra, Leda Maria de Mello Coimbra, 52, foi internada no Hospital Prontocor, em Belo Horizonte (MG) na tarde de terça-feira com uma infecção na base do pulmão direito.
 Leda viajou para Belo Horizonte no fim-de-semana a fim de participar festa de aniversário de um parente e começou a passar mal no domingo. Após o exame, os médicos aconselharam o internamento.
@@ -361,9 +361,9 @@ Quando sair do hospital, ela deverá ficar em Belo Horizonte por pelo menos sete 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-022</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-022</field>
+<field name="date">941208</field>
+<text_pt>
 Aristides Junqueira, procurador-geral da República, reforçando a acusação contra os outros acusados durante a sustentação oral.
 
 "Por que excluo Claudio Vieira da acusação de corrupção passiva? Exatamente porque não interessa ao Ministério Público a condenação de alguém contra a qual não tenha provas suficientes. O delito é sem dúvida nenhuma dos outros dois acusados (Collor e PC)" Aristides Junqueira
@@ -373,9 +373,9 @@ Evaristo de Moraes Filho, advogado do ex-presidente Fernando Collor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-023</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-023</field>
+<field name="date">941208</field>
+<text_pt>
 Consórcio liderado pelo Bozano, Simonsen compra 71% das ações leiloadas; participação estrangeira chega a 33% 
 FERNANDO CANZIAN 
 Da Reportagem Local 
@@ -400,9 +400,9 @@ O processo de privatização da Embraer demorou 1.059 dias para ser concretizado. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-024</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-024</field>
+<field name="date">941208</field>
+<text_pt>
 CLAUDIO JULIO TOGNOLLI 
 Da Reportagem Local 
 O centro de São Paulo teve ontem seu dia de Haiti e Rio de Janeiro: numa operação de guerra, 680 homens da Polícia Militar cercaram o prédio da Bolsa de Valores, fiscalizados pelo helicóptero da corporação, marca Esquilo, e guarnecidos por cães adestrados. Saldo final: dois estudantes presos e um deputado espancado a golpes de cacetete.
@@ -416,9 +416,9 @@ Os cerca de 500 manifestantes gravitavam entre a Central Única dos Trabalhadores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-025</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-025</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal do Rio 
 O consórcio que adquiriu a maioria das ações da Embraer no leilão de privatização de ontem pretende investir US$ 100 milhões em um ano e meio na modernização da empresa.
 O principal projeto é o jato EMB 145, com o qual a empresa pretende disputar a liderança mundial na categoria de jatos até 50 lugares, utilizados em vôos regionais.
@@ -435,9 +435,9 @@ Baeza disse que seu banco pretende participar de mais privatizações no Brasil, p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-026</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-026</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal de Brasília 
 Um protocolo assinado ontem entre os ministros da Justiça dos países do Mercosul &#150;Brasil, Argentina, Uruguai e Paraguai&#150; permitirá que seja usada a figura jurídica da medida cautelar entre as nações, a partir de 1º de janeiro.
 A medida cautelar existe para bloquear ou arrestar bens de supostos responsáveis por um dano, enquanto a Justiça decide sobre o caso. Ela evita que um processado se desfaça de bens e alegue, ao final do processo &#150;se condenado&#150; que não pode pagar a indenização.
@@ -445,9 +445,9 @@ Esse protocolo será ratificado na próxima semana, na reunião dos quatro presiden
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-027</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-027</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O presidente do Haiti, o ex-padre Jean-Bertrand Aristide, solicitou audiência a seu colega brasileiro, Itamar Franco, a ser concedida durante a "Cúpula das Américas".
 Aristide vai, certamente, pedir ao governo brasileiro ajuda econômica para seu país, o mais pobre do continente.
@@ -458,9 +458,9 @@ Mas, antes, havia se oposto também ao chamado "Plano de Washington", que previa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-028</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-028</field>
+<field name="date">941208</field>
+<text_pt>
 CLAUDIO JULIO TOGNOLLI 
 Da Reportagem Local 
 O presidente Itamar Franco deve assinar em Miami (EUA) um novo acordo internacional de defesa de direitos humanos. No próximo dia 10 ocorre na cidade a Cúpula das Américas, com a presença de mandatários de 34 países.
@@ -471,9 +471,9 @@ Entre eles, a adoção das "Regras mínimas das Nações Unidas para o tratamento de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-029</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-029</field>
+<field name="date">941208</field>
+<text_pt>
 NELSON DE SÁ 
 Da Reportagem Local 
 Pode ser "o maior processo penal da história do Supremo", como diz a Globo. Pode ser também "o mais longo julgamento da história do Supremo", como diz o SBT.
@@ -492,9 +492,9 @@ Ou o brasileiro esquece fácil, ou não quer justiça seletiva.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-030</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-030</field>
+<field name="date">941208</field>
+<text_pt>
 Dois mil homens participam da maior ação desde o início da Operação Rio; pelo menos 50 suspeitos são presos 
 SERGIO TORRES 
 Da Sucursal do Rio 
@@ -510,9 +510,9 @@ Colaborou WAGNER MATHEUS, free-lance para a Folha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-031</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-031</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal do Rio e 
 Free-lance para a Folha 
 As denúncias de torturas supostamente praticadas pelo Exército no morro do Borel (Tijuca, zona norte) geraram uma mudança no comportamento militar durante as operações nas favelas.
@@ -522,9 +522,9 @@ A dona-de-casa Maria Rosa de Araújo, 40, disse ter se surpreendido com a "gentil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-032</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-032</field>
+<field name="date">941208</field>
+<text_pt>
 FERNANDO RODRIGUES 
 Enviado especial ao Rio 
 Um dos itens mais procurados pelos soldados em ações nos morros são uniformes do Exército. O comando da Operação Rio está preocupado com o uso indiscriminado de fardas por assaltantes.
@@ -534,9 +534,9 @@ Ontem, no único comunicado oficial sobre as operações do dia, os militares expli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-033</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-033</field>
+<field name="date">941208</field>
+<text_pt>
 CRISTINA GRILLO 
 Da Sucursal do Rio 
 O primeiro fim-de-semana de dezembro foi o mais violento dos últimos três meses no Rio. De sábado até segunda, 74 pessoas foram mortas na capital, média de 24,6 assassinatos por dia.
@@ -549,9 +549,9 @@ O maior número de assassinatos foi registrado na área da 21º DP (Bonsucesso, zon
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-034</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-034</field>
+<field name="date">941208</field>
+<text_pt>
 Free lance para a Folha 
 O cabo do Exército Joelson Ferreira Santos, 29, e o soldado Pedro Luiz dos Santos, 19, foram presos em flagrante anteontem ontem em frente ao número 307 da avenida Nossa Senhora de Copacabana portando duas pistolas 7.65 e um revolver calibre 38.
 Segundo os dois policiais dos 19º Batalhão de Polícia Militar, em Copacabana (zona sul), uma das pistolas e o revólver tinham suas numerações de identificação raspadas.
@@ -563,9 +563,9 @@ Os dois militares só foram liberados às 23h, sob a escolta de um oficial do Exér
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-035</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-035</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal do Rio 
 A análise do sangue de Alex Alexandre Teles Pacheco feita por peritos do Instituto Médico Legal comprovou que ele estava bêbado ao ultrapassar uma barreira do Exército na favela do Urubu. Alex foi morto a tiros por soldados no sábado, num cerco a favela.
 De acordo com o laudo do exame, ele apresentava uma concentração de 2,4 gramas de álcool por litro de sangue. Isso significa que "estado de confusão".
@@ -575,9 +575,9 @@ A Folha apurou que ele esteve no hospital no domingo. Foi atendido e liberado e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-036</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-036</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A Associação de Juízes para a Democracia e seis outras entidades divulgam hoje em São Paulo documento criticando a intervenção do Exército nos morros do Rio de Janeiro. A carta faz críticas também a "segmentos do Judiciário que estariam sendo utilizados para legitimar as forças de repressão".
 O documento afirma que "é acintoso à inteligência mediana afirmar que a importação e o tráfico (de drogas) são organizados nas favelas e que lá se encontram os promotores dessas atividades".
@@ -588,9 +588,9 @@ Também participam do manifesto o grupo Tortura Nunca Mais, a Comissão de Familia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-037</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-037</field>
+<field name="date">941208</field>
+<text_pt>
 Benefício vale para todos os que usaram indevidamente a gráfica do Senado 
 Da Sucursal de Brasília 
 O Senado Federal aprovou ontem, em votação simbólica, o projeto de lei que concede "ampla e geral" anistia ao presidente do Congresso Nacional, senador Humberto Lucena (PMDB-PB).
@@ -606,17 +606,17 @@ O projeto, que determina o arquivamento de todos os processos contra os parlamen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-038</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-038</field>
+<field name="date">941208</field>
+<text_pt>
 
 PETROBRÁS - O presidente da Petrobrás, Joel Rennó, negou ontem que a empresa tenha fechado acordo com funcionários para aumento de salários fora do determinado pelo governo. Segundo ele, estudos para adequar interníveis salariais dependem de aprovação dos ministérios de Minas e Energia e de Planejamento.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-039</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-039</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A Folha começou a receber esta semana as sacolas de papel destinadas à arrecadação de alimentos não-perecíveis dentro da campanha "Natal Sem Fome", do sociólogo Herbert de Souza, o Betinho.
 A campanha visa arrecadar alimentos para famílias carentes. Cerca de 450 mil sacolas estarão encartadas na edição da Folha que circulará no próximo dia 13 no Estado de São Paulo, convidando o leitor a participar com doações de alimentos que formam a cesta básica, como arroz, macarrão, açúcar, sal e leite em pó.
@@ -628,9 +628,9 @@ Para Índio Brasileiro Guerra Neto, gerente de Marketing da Folha, "a sacola é um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-040</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-040</field>
+<field name="date">941208</field>
+<text_pt>
 JOSÉ GERALDO COUTO 
 Enviado especial a Belo Horizonte 
 O escritor peruano Mario Vargas Llosa encerrou sua "semana brasileira" com uma palestra para 500 pessoas no Teatro Clara Nunes, em Belo Horizonte, ontem à noite. Hoje ele volta a São Paulo e à noite parte para Miami.
@@ -642,9 +642,9 @@ O escritor almoçou com o ex-vice-presidente Aureliano Chaves, o vice-governador 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-041</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-041</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial a Brasília 
 Mesmo após receber relatos otimistas de familiares e dos advogados, o empresário Paulo César Farias manteve ontem o que ele chama de "ceticismo permanente".
 PC quer evitar frustrações, embore avalie que as "provas" apresentadas pela acusação &#150;o Ministério Público Federal&#150; sejam tecnicamente frágeis.
@@ -661,9 +661,9 @@ No Batalhão de Choques da Polícia Militar de Brasília, os policiais buscavam inf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-042</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-042</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal de Brasília 
 A Câmara dos Deputados ratificou ontem à noite a participação do Brasil no acordo que cria a Organização Mundial do Comércio e estabelece novas regras de relacionamento comercial entre os países membros do Gatt (Acordo Geral de Tarifas e Comércio).
 Resultado de sete anos de negociações na "Rodada Uruguai", o novo acordo do Gatt, assinado pelo Brasil em abril passado, vai agora para votação no Senado.
@@ -673,9 +673,9 @@ A Câmara entendeu que não ratificar o documento, assinado por 124 países, seria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-043</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-043</field>
+<field name="date">941208</field>
+<text_pt>
 Atividade econômica evolui 6% no terceiro trimestre; crescimento deve superar o de 93 
 Da Redação 
 O Plano Real deslanchou um explosivo crescimento da economia. O Produto Interno Bruto (expressão do valor de todos os bens e serviços produzidos no país) atingiu no trimestre de estréia da nova moeda o seu mais alto nível desde 1980, segundo as estatísticas divulgadas ontem pelo IBGE.
@@ -689,9 +689,9 @@ A rápida queda da inflação trouxe os efeitos previstos &#150;mais consumo das ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-044</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-044</field>
+<field name="date">941208</field>
+<text_pt>
 LUIZ A.P. SOUTO MAIOR 
 De amanhã a 11 de dezembro reúnem-se, na chamada  Cúpula das Américas, os chefes de Estado  democraticamente eleitos do continente. O objetivo seria mapear o curso a ser seguido, até o fim deste século e pelo seguinte adentro, pelos países americanos irmanados na fidelidade aos mesmos princípios de política democrática e economia de mercado.
 De acordo com tal discurso, a adesão a esses valores deveria fornecer a base necessária e suficiente para a definição de um programa de ação destinado a orientar as Américas rumo a um destino comum de crescimento e prosperidade. A realidade é, porém, mais complicada do que a retórica.
@@ -714,9 +714,9 @@ LUIZ A.P. SOUTO MAIOR, 66, é embaixador do Quadro Especial do Ministério das Rel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-045</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-045</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal do Rio 
 A caderneta de poupança perdeu cerca de US$ 4 bilhões em depósitos entre agosto e novembro. A informação é da Abecip (Associação Brasileira de Crédito Imobiliário e Poupança).
 A estimativa era de que, em dezembro, houvesse uma recuperação entre 1,5% e 2% (entre R$ 300 milhões e R$ 700 milhões) por causa do 13º salário. Mas o cálculo já foi refeito.
@@ -733,9 +733,9 @@ Gatti diz que, se este cenário se realizar, o setor tem condições de investir US
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-046</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-046</field>
+<field name="date">941208</field>
+<text_pt>
 O custo médio da cesta básica em São Paulo ficou ontem em R$ 104,71, praticamente estável em relação aos R$ 104,66 do dia anterior. A maior pressão veio do grupo alimentação, com alta de 0,20%, mas que no mês acumula queda de 0,60%. A variação mensal da cesta é de -0,45%.
 A pesquisa do Procon, em convênio com o Dieese, mostrou que o grupo produtos de limpeza apresentou ontem a maior queda na cesta básica (-0,88%), seguido de higiene pessoal, que caiu 0,47%. No mês, produtos de limpeza têm alta de 0,67%, enquanto higiene pessoal mantém estabilidade.
 Os produtos que tiveram as maiores altas ontem foram: salsicha avulsa (4,46%), carne de primeira/coxão mole (2,13%) e de segunda/acém (2,01%). As maiores quedas na cesta básica ficaram com margarina Doriana (-5,26%), feijão carioquinha (-2,53%) e frango resfriado inteiro (-2,05%).
@@ -743,9 +743,9 @@ Dos 68 produtos da cesta básica, 28 subiram, 15 baixaram de preço e 25 ficaram e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-047</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-047</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal de Brasília 
 Os estoques oficiais de café somam 14,679 milhões de sacas disponíveis para comercialização, segundo auditoria anunciada ontem pelo Ministério da Indústria, Comércio e Turismo.
 É o primeiro levantamento do volume de café estocado pelo governo. Os números ficaram abaixo das expectativas dos técnicos do MICT, que previam estoques na casa de 17 milhões de sacas.
@@ -755,9 +755,9 @@ O MICT, ainda, publica hoje portaria no "Diário Oficial" que restringe as export
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-048</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-048</field>
+<field name="date">941208</field>
+<text_pt>
 MARCUS FERNANDES 
 Da Agência Folha, em Santos 
 Os armadores decidiram adiar a cobrança de sobretaxa nas cargas movimentadas por contêineres no porto de Santos (SP). A medida, que entraria em vigor no dia 12, vale a partir do próximo dia 17.
@@ -768,17 +768,17 @@ A sobretaxa foi criada para pressionar a Codesp a agilizar o trabalho, afirmou C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-049</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-049</field>
+<field name="date">941208</field>
+<text_pt>
 O volume de ouro negociado na BM&amp;F (Bolsa Mercadorias e de Futuros) foi de 45,84 toneladas em novembro. O resultado é 73,2% superior comparado com outubro. A média diária comercializada no mês foi de 2,29 toneladas e teve crescimento de 64,8% em relação ao mês anterior.
 No acumulado do ano, o total do metal negociado foi de 534,3 toneladas. O volume diário no período foi de 2,38 toneladas. Comparado com igual período de 93, quando foram comercializadas 1.221,4 toneladas, os negócios registram queda de 56,5%. A média diária recua 56,2%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-050</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-050</field>
+<field name="date">941208</field>
+<text_pt>
 Taxas de juros se estabilizam após a queda; Bolsa de Valores paulista sobe com baixo volume de negócios 
 Da Redação 
 A incidência do compulsório sobre as operações de empréstimo e de captação no mercado financeiro trouxe de volta a preocupação sobre a liquidez (falta de dinheiro) entre as instituições financeiras.
@@ -823,9 +823,9 @@ No mercado de DI, a expectativa é de rentabilidade de 3,78% para dezembro e de 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-051</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-051</field>
+<field name="date">941208</field>
+<text_pt>
 Há duas entidades habitando Fernando Henrique Cardoso: o vaidoso e o inteligente. Recentemente, uma delas acalmou a opinião pública, garantindo que o inteligente superaria o vaidoso. O que parecia manifestação de bom senso do inteligente, era falsa modéstia do vaidoso.
 Fortalecido pelo sentimento de onipotência que acomete candidaturas vitoriosas &#150;e inícios de planos de estabilização&#150;, o FHC vaidoso criou um eufemismo chamado de  equipe econômica, para garantir seu direito de atravessar quatro anos de mandato em meio a tertúlias acadêmicas e saraus literários, sem o risco de ser interrompido por esses chatos que teimam em perseguir transformações no mundo real.
 A  equipe teria vetado o nome do senador José Serra para o Ministério da Fazenda. Mas que equipe é essa?
@@ -841,9 +841,9 @@ A tarefa exige presidente com traquejo internacional, capaz de vender o Brasil a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-052</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-052</field>
+<field name="date">941208</field>
+<text_pt>
 Indústria fecha o ano com recordes; 'popular' já tem 53% do mercado 
 ARTHUR PEREIRA FILHO 
 Da Reportagem Local 
@@ -866,9 +866,9 @@ O governador de São Paulo, Fleury Filho, é favorável à manutenção da redução do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-053</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-053</field>
+<field name="date">941208</field>
+<text_pt>
 Força Sindical e Simpi negociam com Ministério da Fazenda 
 LUCAS FIGUEIREDO 
 Da Sucursal de Brasília 
@@ -881,9 +881,9 @@ O presidente do Sindicato dos Metalúrgicos de São Paulo, Paulo Pereira da Silva,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-054</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-054</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O faturamento real do comércio varejista na região metropolitana da Grande São Paulo cresceu 14% em novembro em relação ao mesmo mês de 1993.
 Os dados, ainda preliminares, são da pesquisa conjuntural realizada pela Federação do Comércio do Estado de São Paulo.
@@ -897,9 +897,9 @@ As vendas do comércio ainda mantêm desempenhos positivos nos últimos 12 meses e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-055</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-055</field>
+<field name="date">941208</field>
+<text_pt>
 ANTONIO CARLOS SEIDL 
 Da Reportagem Local 
 Abram Szajman, presidente da Federação do Comércio do Estado de São Paulo, disse que "a nova ofensiva governamental contra o crédito afeta mais a área da produção porque os juros vão subir, fazendo parte das indústrias adiar planos de aumento da produção".
@@ -911,9 +911,9 @@ No almoço, Szajman defendeu a reforma do Estado "hipertrofiado" e a manutenção d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-056</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-056</field>
+<field name="date">941208</field>
+<text_pt>
 Chapa de Rocha Azevedo conquista trunfo importante para eleger o novo presidente da entidade em janeiro 
 Da Redação 
 A chapa de oposição liderada pelo dono da corretora Convenção, Eduardo da Rocha Azevedo, foi ontem a vencedora das eleições na Bolsa de Valores de São Paulo para as vagas de dois membros efetivos e três suplentes no Conselho de Administração da entidade.
@@ -934,9 +934,9 @@ Magliano Filho, da tradicional corretora Magliano, foi o candidato mais votado (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-057</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-057</field>
+<field name="date">941208</field>
+<text_pt>
 FIDEO MIYA 
 Da Reportagem Local 
 Os bancos BBA Creditanstalt, brasileiro, e Paribas, francês, assinaram um acordo de cooperação para oferecer às empresas brasileiras o acesso à captação de recursos de longo prazo no mercado de capitais internacional, principalmente por meio dos mecanismos de crédito securitizado, que vão de eurobônus a lançamentos de ações.
@@ -949,30 +949,30 @@ A parceria, que será executada através do Paribas Capital Markets, divisão do ba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-058</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-058</field>
+<field name="date">941208</field>
+<text_pt>
 Aviões russos voltaram a bombardear Grozni, capital da república da Tchetcheno-Inguchétia, que tenta se separar de Moscou. O chanceler tchetcheno, Chamsedin Iusef, disse que a Rússia "mentiu" ao iniciar conversações. O Conselho de Segurança russo exigiu que os "bandos ilegais" sejam desarmados. O governo rebelde libertou soldados russos capturados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-059</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-059</field>
+<field name="date">941208</field>
+<text_pt>
 Pelo menos quatro pessoas morreram e 48 ficaram feridas com a explosão de uma tubulação de gás subterrânea em Seul, na Coréia do Sul. Várias casas e prédios comerciais foram destruídos por explosões no distrito de Ahyon, na região central da cidade, depois que o gás vazou de uma tubulação e pegou fogo. As chamas atingiram 30 m de altura.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-060</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-060</field>
+<field name="date">941208</field>
+<text_pt>
 O governo britânico decidiu aumentar as taxas de juros para 6,25%, depois de ter sido derrotado terça-feira no projeto que aumentava um imposto sobre o combustível para aquecimento residencial. A derrota no Parlamento por 319 a 311, provocada pelo voto de rebeldes conservadores ao lado da oposição trabalhista, foi a maior do governo de John Major.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-061</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-061</field>
+<field name="date">941208</field>
+<text_pt>
 Um tribunal de Danville, Virgínia (EUA), sentenciou o cão labrador "Somkey" à morte por injeção letal. Ele foi condenado por atacar três carteiros, que não chegou a morder. Seu dono, Craig Jackson, vai recorrer. 
 
 Polícia mata atirador na Flórida 
@@ -997,9 +997,9 @@ O sistema educacional japonês vem sofrendo críticas da imprensa e de parlamentar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-062</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-062</field>
+<field name="date">941208</field>
+<text_pt>
 Quatrocentos homens deixam o país; Otan faz plano de apoio para possível retirada total 
 Das agências internacionais 
 A ONU anunciou ontem que irá retirar 400 soldados bengaleses que fazem parte das forças de paz em Bihac (noroeste da Bósnia). Havia 1.200 soldados bengaleses na região até ontem.
@@ -1020,9 +1020,9 @@ Os muçulmanos, que haviam concordado com o plano, não aceitam a confederação dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-063</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-063</field>
+<field name="date">941208</field>
+<text_pt>
 CLÓVIS ROSSI 
 Enviado especial a Miami O Plano de Ação a ser divulgado domingo em Miami, no encerramento da Cúpula das Américas, conterá propostas concretas para a "promoção da democracia".
 O Plano de Ação é um dos dois documentos que serão assinados pelos 34 chefes de governo das Américas, que iniciam amanhã a sua reunião de cúpula. O outro é uma Declaração Política, necessariamente mais genérica.
@@ -1041,18 +1041,18 @@ Na questão da pobreza, tema crucial no continente, os governantes do continente 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-064</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-064</field>
+<field name="date">941208</field>
+<text_pt>
 Das agências internacionais 
 Dois jornalistas lançaram um livro ontem que acusa a Argentina pelo fracasso das investigações sobre os atentados à embaixada israelense em 92 e à sede de associações judaicas em julho.
 O americano Joe Goldman e o argentino Jorge Lanata dizem em "Cortinas de Fumaça" que os investigadores primeiro decidiram aonde chegar, depois a maneira de fazê-lo. Nos dois casos foi insinuada a participação do Hizbollah, milícia xiita pró-Irã do Líbano, mas não se acharam evidências.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-065</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-065</field>
+<field name="date">941208</field>
+<text_pt>
 Das agências internacionais 
 O promotor-chefe de Milão, Francesco Borrelli, disse ontem que investigações de corrupção na Itália continuam apesar da demissão de Antonio di Pietro, juiz símbolo da Operação Mãos Limpas.
 "Estamos convencidos de que não se deve recuar frente aos ataques a nossa independência", disse Borrelli no Palácio de Justiça de Milão. Lá se realizou uma festa de despedida de Di Pietro, que deixou a magistratura anteontem alegando que vinha sendo usado por grupos políticos.
@@ -1065,9 +1065,9 @@ O juiz se referiria a um protesto de Borreli contra abuso de poder por causa de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-066</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-066</field>
+<field name="date">941208</field>
+<text_pt>
 Das agências internacionais 
 O ex-primeiro-ministro socialista da Itália, Bettino Craxi, acusou os juízes milaneses de serem "um pelotão de fuzilamento". Craxi foi condenado anteontem a cinco anos e seis meses de prisão por receber propinas na criação de um serviço de seguros para os funcionários da ENI, estatal italiana de energia.
 Craxi já havia sido condenado em outro caso a oito anos e meio de prisão. Anteontem, o juiz Antonio di Pietro pediu sua condenação a três anos e quatro meses por subornos recebidos em outro caso.
@@ -1078,9 +1078,9 @@ Um comitê do Senado italiano recomendou que o Senado não autorize investigação s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-067</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-067</field>
+<field name="date">941208</field>
+<text_pt>
 Um tribunal de Danville, Virgínia (EUA), sentenciou o cão labrador "Somkey" à morte por injeção letal. Ele foi condenado por atacar três carteiros, que não chegou a morder. Seu dono, Craig Jackson, vai recorrer. 
 
 Polícia mata atirador na Flórida 
@@ -1108,9 +1108,9 @@ A polícia da Suécia prendeu um chileno de 23 anos e um sueco de 25, suspeitos pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-068</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-068</field>
+<field name="date">941208</field>
+<text_pt>
 O atacante Túlio (foto), do Botafogo (RJ), doou ontem R$ 500 ao Movimento Nacional dos Meninos de Rua. O jogador recebeu o dinheiro como cachê pela participação num documentário de uma emissora de televisão da Suíça, país onde ele atuou. Túlio é artilheiro do Campeonato Brasileiro, com 19 gols, ao lado de Amoroso (Guarani). O Botafogo já foi eliminado da competição.
 
 O NÚMERO
@@ -1125,9 +1125,9 @@ O reverendo sul-coreano Sun Myung Moon chegou a São Paulo anteontem. Segundo o p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-069</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-069</field>
+<field name="date">941208</field>
+<text_pt>
 MARTA SUPLICY 
 Os pais de um garotinho de seis anos retiram seu filho da escola por esta se recusar a permitir que ele assista as aulas de brinco. Isto mostra que a maioria de nossas escolas está despreparada para lidar com os novos tempos, com temas relacionados a sexo e gênero. Apesar de tudo ter sido colocado num contexto disciplinar, creio que o tema latente é o medo, fruto da desinformação, de incentivar comportamentos ditos homossexuais, e não saber como agir com atitudes não-corriqueiras. Baixa então o autoritarismo. Fala-se da manutenção da ordem, que o tal brinco era um "fator de dispersão", mas pergunto: o que fizeram foi educativo? E por que fizeram de forma tão canhesta, constrangedora para a escola, para a família do aluno, e traumatizante para a criança?
 Adolescente usando brincos é sinal de rebeldia em uma idade na qual esta atitude, assim como o som em altura insuportável, o jeans rasgado, a ameaça, às vezes realizada, de fazer tatuagem, são bastante comuns. Aliás, bem melhor se rebelar com brincos do que com drogas, corridas de carro, álcool etc. Por perceber esta necessidade de se impor, ser diferente, "individual", enquanto igualzinho ao grupo, é que muitas escolas reavaliaram suas regras e flexibilizaram. É evidente que normas têm que existir, que adolescente precisa de disciplina. Mas não se faz tempestade em copo d'água.
@@ -1142,9 +1142,9 @@ MARTA SUPLICY, 49, psicanalista, é deputada federal eleita pelo PT de São Paulo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-070</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-070</field>
+<field name="date">941208</field>
+<text_pt>
 Da Agência Folha, em Curitiba 
 O Serviço de Loterias do Paraná (Serlopar) lança hoje em Curitiba, Maringá e Londrina a Lotopar "on line", primeira loteria deste tipo no país. O apostador da nova loteria fará seu jogo em terminais ligados diretamente ao computador central, o que permitirá a realização de apostas até minutos antes dos sorteios.
 O primeiro jogo lançado pela Lotopar é o Premiatta, em que o apostador concorre à quina, quadra e terno. Das 35 dezenas do sorteio, o apostador pode jogar no mínimo em cinco e no máximo em 12 dezenas. O preço das apostas varia de R$ 0,50 a R$ 396.
@@ -1152,9 +1152,9 @@ A principal vantagem do sistema "on line" é a possibilidade de apostas até minut
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-071</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-071</field>
+<field name="date">941208</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre 
 O governo gaúcho inaugura em 17 de dezembro a avenida do Trabalhador, que terá ao longo de seus 58 km serviços inéditos à disposição dos usuários, como centros com postos de saúde, de polícia, correio, biblioteca e helipontos para casos de emergência.
 A avenida liga o bairro Restinga, na zona sul de Porto Alegre, aos municípios de Viamão, Alvorada, Cachoeirinha e Canoas, na região metropolitana da capital. A nova via está numa área onde moram 1,5 milhão de pessoas. A obra, iniciada em novembro de 1993, custou R$ 16 milhões.
@@ -1163,17 +1163,17 @@ Os usuários dos ônibus na avenida pagarão tarifa de R$ 0,50, enquanto estudantes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-072</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-072</field>
+<field name="date">941208</field>
+<text_pt>
 O pai de um bebê que quase foi enterrado vivo em Guaramirim registrou queixa na polícia ontem. Valdecir Fernandes, 20, confirmou que o bebê recém-nascido prematuro chorou no caixão após ter sido dado como morto. O bebê morreu de fato depois de ser levado a Florianópolis. 
  Policiais da 4ª Delegacia de Polícia de Florianópolis estão intensificando a busca do homem que atropelou e matou a menina Suelem Amaral, 2, em novembro. A menina estava na calçada com a mãe, que foi hospitalizada. O motorista fugiu do local.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-073</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-073</field>
+<field name="date">941208</field>
+<text_pt>
 AMAURY RIBEIRO JR. 
 Da Agência Folha, em Belo Horizonte 
 Os fiscais da Receita Federal em Minas Gerais aprenderam nos últimos três dias cerca de cinco toneladas de mercadorias contrabandeadas do Paraguai, avaliadas em US$ 500 mil.
@@ -1189,9 +1189,9 @@ Os ônibus com destino ao Paraguai saem todas as sextas-feiras do terminal turíst
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-074</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-074</field>
+<field name="date">941208</field>
+<text_pt>
 A Secretaria Municipal de Abastecimento de Belo Horizonte lança hoje a campanha do 2º Natal Sem Fome. Os órgãos municipais, supermercados e as lojas Eureka vão distribuir sacolas da campanha para receber doações de alimentos, brinquedos e roupas. 
 
 São Paulo 
@@ -1200,9 +1200,9 @@ A Diocese de Bauru está fazendo uma pesquisa em 12 municípios da região. O objet
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-075</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-075</field>
+<field name="date">941208</field>
+<text_pt>
 A cidade de Parintins (a 350 km de Manaus), no rio Amazonas, terá sua primeira pista de pouso para aviões de grande porte nos próximos seis meses. Parintins recebe grande número de turistas brasileiros e estrangeiros em junho, quando acontece a festa do boi-bumbá.
 
 A Prefeitura de Manaus está construindo um loteamento de 174 mil m2 na zona leste da cidade para assentar 400 sem-teto. Os novos moradores serão escolhidos pela Secretaria Municipal de Organização Social e Fundiária. Cada família receberá um terreno de 200 m2.
@@ -1212,9 +1212,9 @@ As 216 famílias que ocupavam um terreno em Porto Velho foram desalojadas anteont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-076</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-076</field>
+<field name="date">941208</field>
+<text_pt>
 Comércio, bancos e repartições públicas não funcionam hoje em Recife, feriado por causa do dia de Nossa Senhora da Conceição. Feiras e mercados públicos abrem até 12h. Bancos, lojas e órgãos públicos voltarão ao normal amanhã. 
 
 Paraíba 
@@ -1224,9 +1224,9 @@ Pesquisa do Dieese (Departamento Intersindical de Estatísticos e Estudos Sócio-E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-077</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-077</field>
+<field name="date">941208</field>
+<text_pt>
 O índice de inadimplência registrado em novembro pelo Serviço de Proteção ao Crédito (SPC) de Cuiabá foi 61% maior que o de outubro, segundo Roberto Peron, diretor do órgão. O número de consultas ao cadastro do SPC aumentou em 26% no mês.
 
 Mato Grosso do Sul 
@@ -1236,9 +1236,9 @@ Vinte e dois alunos da 3ª série da escola Oliva Enciso, de Campo Grande, lançara
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-078</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-078</field>
+<field name="date">941208</field>
+<text_pt>
 Elaborada com dados do IBGE, pesquisa revela que distrito de Anhanguera (zona norte) tem pior qualidade de vida 
 PAULO FERRAZ 
 Da Reportagem Local 
@@ -1253,9 +1253,9 @@ Para a elaboração final do mapa, o Fórum da Assistência Social vai promover um m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-079</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-079</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 Para elaboração do quadro de notas, o fórum utilizou uma comparação proporcional entre os resultados de cada distrito. Para o melhor desempenho, foi estabelecida a nota 10 e, para o pior resultado, a nota 0.
 Os dados, obtidos junto ao IBGE e Instituto Lidas, foram: instrução do chefe de família, renda do chefe de família, cômodos por domicílio, população maior de 15 anos não-alfabetizada, crianças alfabetizadas com menos de 7 anos, demanda reprimida por creches, coleta de lixo, canalização interna de água e ligação à rede de esgoto. Na composição da nota geral, foi dado peso igual para todas as variáveis.
@@ -1264,9 +1264,9 @@ No mapa final serão incluídos outros dados específicos, como discriminação cultu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-080</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-080</field>
+<field name="date">941208</field>
+<text_pt>
 Radialista é acusado de matar mãe e filho 
 PAULO YAFUSSO 
 Da Agência Folha, em Campo Grande (MS) 
@@ -1287,9 +1287,9 @@ De acordo com a Polícia Militar de Glória de Dourados, algumas lojas não abriram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-081</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-081</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 Depois da viagem-teste do primeiro final de semana, o Trem de Prata entra hoje em circulação.
 Com os 133 lugares dos sete vagões-dormitório ocupados, o trem sai hoje às 20h30 da estação Barão de Mauá (centro do Rio) em direção à estação Barra Funda (zona oeste de São Paulo).
@@ -1305,9 +1305,9 @@ No primeiro mês, tanto os passageiros do Rio quanto os de São Paulo terão de com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-082</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-082</field>
+<field name="date">941208</field>
+<text_pt>
 Da Sucursal do Rio 
 Um tumulto na entrada do hospital Salgado Filho (Méier, zona norte do Rio) marcou ontem o segundo dia da greve dos profissionais de saúde da rede pública municipal do Rio.
 O motorista de uma Brasília usou seu carro para atravessar um piquete de grevistas na porta do hospital. Ele levava a doméstica Ednéia Francisco da Rocha, 28, para ser atendida na emergência.
@@ -1317,18 +1317,18 @@ Ontem, a emergência do Salgado Filho, que atende em média 500 casos por dia, rec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-083</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-083</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O Ministério da Saúde lança hoje em Brasília uma primeira campanha nacional de prevenção à Aids voltada para as mulheres. A campanha vai durar até 8 de março, Dia Internacional da Mulher.
 Será apresentada no rádio, TVs e revistas. Cartilhas informativas serão distribuídas através de ONGs e serviços de saúde estaduais. A preocupação com a mulher se deve ao crescimento da Aids entre elas. Em São Paulo, a proporção entre homens e mulheres infectados já é de três para um.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-084</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-084</field>
+<field name="date">941208</field>
+<text_pt>
 O leitor Roberto Prado Matias diz ter comprado uma radiogravador na RPS Informática e reclama da demora da empresa para entregar o equipamento.
 "Comprei o rádio há mais de um mês e paguei US$ 129,00 com cartão de crédito. A RPS prometeu a entrega no prazo máximo de 15 dias. Esgotado esse prazo, entrei em contato com a empresa e fui informado de que o atraso foi ocasionado por uma greve na alfândega", conta o leitor.
 "Esperei por mais uma semana e obtive outra desculpa. Quero saber o que está acontecendo, pois parece que estou sendo enganado. Da última vez que liguei me disseram que o rádio estava na transportadora. Então por que não me entregam? O responsável é a RPS e não a transportadora", diz.
@@ -1339,9 +1339,9 @@ Segundo o Departamento de Marketing da PRS Informática Ltda., houve problemas co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-085</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-085</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O 1º Tribunal do Júri condenou por seis votos a um o carcereiro José Ribeiro a 45 anos de prisão sob a acusação de ele ter matado 18 e tentado matar 32 presos em uma cela-forte do 42º DP, no Parque São Lucas (zona leste).
 O juiz Jair Martins concedeu ao réu o direito de apelar em liberdade da sentença. É a segunda vez que Ribeiro é condenado. Em novembro de 93, Ribeiro havia sido condenado à mesma pena, mas o Tribunal de Justiça decidiu que ele tinha direito a novo julgamento.
@@ -1351,9 +1351,9 @@ O promotor Antônio Carlos Da Ponte, 30, disse que irá recorrer da sentença a fim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-086</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-086</field>
+<field name="date">941208</field>
+<text_pt>
 Principal modificação com relação à anterior é a definição de 'acordo prévio' entre pais ou alunos e escolas 
 SILVANA DE FREITAS 
 Da Sucursal de Brasília 
@@ -1368,9 +1368,9 @@ Por essa fórmula, o valor será obtido dividindo-se o valor em cruzeiros reais do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-087</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-087</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 Até o final do primeiro semestre de 95, o Trem de Prata irá aos domingos, terças e quintas-feiras para o Rio de Janeiro e voltará a São Paulo às segundas, quartas e sextas-feiras.
 No ano que vem, deve estar terminado o novo trem que entrará em circulação. Com os novos vagões, a viagem será diária nos dois sentidos.
@@ -1379,9 +1379,9 @@ A rede de hotéis Portogallo e a empresa de ônibus Util ganharam a concessão de e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-088</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-088</field>
+<field name="date">941208</field>
+<text_pt>
 O Deic (Departamento de Investigações Criminais) prendeu anteontem João Batista de Oliveira, 31, o "Dólar". Acusado de dez roubos a bancos e suspeito de 18. Dólar estava foragido há um ano. Ao mesmo tempo, Altair Almeida Duarte, acusado de roubar carros, fugiu do Deic ao se livrar de uma algema, pular de uma janela do segundo andar, pular um muro e pegar um táxi.
 
 Acidente na Dutra deixa um morto e 22 feridos 
@@ -1395,9 +1395,9 @@ O prefeito Paulo Maluf assinou ontem um decreto que regulamenta a construção de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-089</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-089</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A interdição do estádio do Morumbi, determinada ontem pelo Contru (Departamento de Controle de Uso de Imóveis), pode ameaçar a realização dos shows dos Rolling Stones em São Paulo (27 e 28 de janeiro). O estádio foi interditado porque parte da arquibancada não apresenta condições de segurança.
 Segundo Carlos Alberto Venturelli, diretor do Contru, enquanto o São Paulo &#150;dono do estádio&#150; não fizer as reformas necessárias o Morumbi não será liberado e o festival não será realizado. "Creio que até lá estará tudo resolvido. Mas se a obra não for feita não haverá liberação. Não vamos colocar ninguém em risco", diz.
@@ -1408,9 +1408,9 @@ sobre a interdição do Morumbi à pág. 4-4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-090</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-090</field>
+<field name="date">941208</field>
+<text_pt>
 Para chegar à pista, casais esperam horas do lado de fora de casas noturnas como Blen Blen Club, Balafon e Limelight 
 Da Reportagem Local 
 O paulistano enfrenta filas de até duas horas para dançar em algumas das pistas mais disputadas da cidade nos fins-de-semana.
@@ -1429,9 +1429,9 @@ Quem quiser fugir da fila deve chegar antes da meia-noite.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-091</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-091</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 No Banana Banana, as festas são as responsáveis pelos "congestionamentos". À meia-noite de um sábado de festa, as filas chegam a 20 minutos. O público comparece atraído pela mistura de dance music e pagode da pista.
 Segundo a "promoter" Patrícia Melo, para fugir da fila o negócio é chegar às 23h, no máximo.
@@ -1449,9 +1449,9 @@ Blen Blen Club: rua Cardeal Arcoverde, 2.978. Balafon: rua Sergipe, 160. Banana 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-092</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-092</field>
+<field name="date">941208</field>
+<text_pt>
 19.set.94 - Agência DynO argentino deixou o cargo de técnico por divergir do presidente do clube, Roberto Cruz. Em 10 jogos como técnico, Maradona conseguiu uma vitória, quatro empates e cinco derrotas. O ex-jogador da seleção argentina ficou irritado com Cruz, que criticou Maradona nos vestiários do clube.
 
 Diretoria já admite vender o meia Neto 
@@ -1468,9 +1468,9 @@ A categoria feminina definiu ontem as três primeiras duplas para a fase final do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-093</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-093</field>
+<field name="date">941208</field>
+<text_pt>
 Umidade no piso impede a disputa 
 Das agências internacionais 
 Trata-se de um caso raro, mas nem a NBA, a liga profissional de basquete dos EUA, escapa de um motivo de "força maior" para adiar uma partida.
@@ -1483,9 +1483,9 @@ Resultados de anteontem: Cleveland 97 x 114 Orlando, Indiana 90 x 83 Detroit, Ne
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-094</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-094</field>
+<field name="date">941208</field>
+<text_pt>
 Times de Limeira, Rio Claro, Franca e Jales iniciam finais em Araraquara 
 Da Reportagem Local 
 Com sua força concentrada totalmente em cidades do Interior, o basquete paulista dá início hoje à decisão do Campeonato Estadual Masculino da Divisão Especial, série A-1, a principal.
@@ -1499,9 +1499,9 @@ Escalações prováveis: Cesp - Josuel, Tonico, Paulinho Villas Boas, Luiz Felipe e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-095</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-095</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A decisão em Araraquara, local neutro, não é obstáculo para que os finalistas possam ter o apoio de seus torcedores. Limeira e Rio Claro, as cidades mais próximas, acabam privilegiadas.
 "Já sei que, para o primeiro dia, pelo menos cem torcedores já estão com três ônibus alugados e muita gente vai de carro", afirmou José Roberto Soares, o Bacalhau, dirigente do Nossa Caixa, de Limeira (156 km a noroeste de São Paulo e cerca de 120 km de Araraquara).
@@ -1511,9 +1511,9 @@ O LA Gear, de Jales (580 km a noroeste de São Paulo), é o time com sede mais dis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-096</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-096</field>
+<field name="date">941208</field>
+<text_pt>
 CARLOS SARLI 
 Sua mãe considera idéia fixa. Para ele, é pura determinação. Ainda se recuperando do acidente de snowboard que o deixou três meses de molho após duas cirurgias no braço &#150;um dos quais continua imobilizado&#150; Luiz Roberto 'Formiga' de Moraes, 31, já busca novos recordes e aventuras.
 Durante dois dias na última semana, ele, o cinegrafista aéreo Luiz 'Sabiá' Antunes, Silvester Campe (cinegrafista da Globo) e a família Hain, composta pelo pai Salvator e o filho Sacha, 19 (campeão brasileiro de balonismo), decolaram a partir do Centro Nacional de Pára-quedismo de Boituva. Objetivo: realizar o primeiro salto de skysurfe de balão no mundo, colher imagens para o programa 'Fantástico' e bater o recorde sul-americano de salto de balão, a 11.500 pés de altura.
@@ -1526,9 +1526,9 @@ Daí pra frente é esperar o pouso, quando a prancha poderá ser utilizada para des
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-097</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-097</field>
+<field name="date">941208</field>
+<text_pt>
  
 O surfista de Ubatuba Róbson Silva, 18, conquistou no domingo o bicampeonato do Circuito Lighting Bolt de Surf Amador na categoria Júnior (até 18 anos), a mais importante do campeonato, em Pitangueiras, Guarujá.
  
@@ -1538,9 +1538,9 @@ Na mesma cerimônia, chamou atenção um grupo de 15 garotas de maiôs vermelhos e e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-098</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-098</field>
+<field name="date">941208</field>
+<text_pt>
 
 Diferentemente do que este texto informou, o primeiro jogo das finais do Campeonato Brasileiro acontecerá no dia 15/12, quinta-feira, e não quarta.ERRAMOS
 Final paulista pode acontecer no Maracanã 
@@ -1564,9 +1564,9 @@ O jogo São Paulo x Corinthians, marcado para amanhã, no Morumbi, pela Copa Conme
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-099</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-099</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 O Palmeiras enfrenta o Guarani hoje à noite, no Morumbi, pelas semifinais do Campeonato Brasileiro, "sem necessidade extrema de vencer", segundo o técnico Wanderley Luxemburgo.
 Pelo regulamento da competição, o Guarani, por ter melhor campanha, pode empatar as duas partidas contra o Palmeiras &#150;a segunda será domingo, em Campinas&#150; que estará classificado às finais.
@@ -1583,9 +1583,9 @@ Globosat/Sport, ao vivo; TVA, VT, às 21h30, e Bandeirantes, VT, às 23h30
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-100</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-100</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A produção do Holywood Rock acredita que hoje acabem os últimos ingressos para os dois shows dos Rolling Stones em São Paulo. Ontem, havia poucas cadeiras inferiores.
 No Rio de Janeiro a venda está mais lenta. Por enquanto, o único setor que teve os ingressos esgotados foi o gramado, para o show de sábado, dia 4.
@@ -1605,9 +1605,9 @@ CARTA DE BEETHOVEN ALCANÇA MAIOR PREÇO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-101</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-101</field>
+<field name="date">941208</field>
+<text_pt>
 Roberto Frejat, vocalista da banda, diz estar orgulhoso em abrir os shows dos Rolling Stones no Brasil 
 LUIZ ANTÔNIO RYFF 
 Da Reportagem Local 
@@ -1628,18 +1628,18 @@ Ele aproveita para avisar que não pretende aderir à moda do acústico. "Não refle
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-102</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-102</field>
+<field name="date">941208</field>
+<text_pt>
 Da Redação 
 A casa noturna Banana Banana (av. Nove de Julho, 5.872) abriga hoje, às 19h, o lançamento do livro "Guia Russomano do Consumidor", de autoria do jornalista e deputado federal eleito Celso Russomano (PSDB-SP) e dos jornalistas Carlos Adese Jr. e Bell Kranz.
 O livro pretende, através de situações do cotidiano, conscientizar o consumidor sobre seus direitos e obrigações. Custa R$ 13.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-103</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-103</field>
+<field name="date">941208</field>
+<text_pt>
 Seminário 'Cultura e Desenvolvimento' revela a visão paternalista dos produtores culturais em relação ao Estado 
 ELVIS CESAR BONASSA 
 Da Redação 
@@ -1657,9 +1657,9 @@ Weffort, ao contrário, mostrou intimidade com as idéias de FHC para a área cultu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-104</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-104</field>
+<field name="date">941208</field>
+<text_pt>
 ARTHUR NESTROVSKI 
 Especial para a Folha 
 "Uma das maiores obras-primas do nosso tempo", dizia Mahler. "Uma peça de exibição, ridiculamente frígida", contestava Thomas Mann. "A mais bela de todas as obras de Strauss", discordava Hoffmansthal. "De uma trivialidade sem igual", rebatia o grande teórico Schenker. "Estupenda, de uma riqueza orquestral e rítmica sem paralelo", comentava Ravel. O contraste entre essas opiniões é característico e tem sido, até hoje, a tônica na história da recepção da ópera.
@@ -1679,9 +1679,9 @@ Arthur Nestrovsky é doutor em música e professor na pós-graduação em comunicação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-105</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-105</field>
+<field name="date">941208</field>
+<text_pt>
 A trilha sonora do julgamento do Collor devia ser a Rosane cantando "Ô Tira o Leite". Pelo selo LBA! 
 JOSÉ SIMÃO 
 Da Equipe de Articulistas 
@@ -1695,9 +1695,9 @@ E a grande prova contra o PC é a sua secretária eletrônica da época: "Após o rec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-106</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-106</field>
+<field name="date">941208</field>
+<text_pt>
 Nos figurinos de 'Madama Butterfly' 67 trajes orientais vão para o palco e até uma soprano negra vira gueixa 
 JACKSON A. 
 Free-lance para a Folha 
@@ -1719,9 +1719,9 @@ Quanto: de R$ 6 a R$ 15
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-107</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-107</field>
+<field name="date">941208</field>
+<text_pt>
 Free-lance para a Folha 
 Em meio à enxurrada de desfiles que aconteceram em São Paulo este ano, surge uma idéia original. Trata-se do lançamento da coleção de verão da marca underground Ad Libitum. A apresentação será neste domingo, a partir das 6h da manhã no Hell's Club.
 A hypada e esfumaçada noite after hours do clube Columbia (r. Estados Unidos, 1.570, Cerqueira César, tel. 282-8086) vai abrigar a banda trash Mickey Junkies e uma bailarina de dança árabe como complemento do segundo desfile do estilista Anderson Rubbo, 22.
@@ -1733,9 +1733,9 @@ Rubbo adianta que os hits são as camisetas sobre a morte do Papai Noel, o cachor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-108</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-108</field>
+<field name="date">941208</field>
+<text_pt>
 FERNANDA SCALZO 
 Da Reportagem Local 
 Lá vem de novo o núcleo de teledramaturgia do SBT com sua fórmula bem-sucedida do sucesso singelo. Como em "Éramos Seis", os valores religiosos, os alicerces da família, a mesquinhez inerente aos humanos, tudo está bem mastigado em "As Pupilas do Senhor Reitor", que estreou anteontem.
@@ -1755,9 +1755,9 @@ Onde: SBT
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-109</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-109</field>
+<field name="date">941208</field>
+<text_pt>
 Se você quer pôr fim a um relacionamento, Tio Dave oferece uma lista de presentes natalícios inesquecíveis 
 DAVID DREW ZINGG 
 Em Miami 
@@ -1787,9 +1787,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-110</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-110</field>
+<field name="date">941208</field>
+<text_pt>
 MARIO CESAR CARVALHO 
 Da Reportagem Local 
 De tempos em tempos as esculturas de Sérgio Camargo (1930- 1980) voltam a assombrar a história da arte brasileira. Foi assim nos anos 60, quando usava mármore de Carrara, heresia para uma década que consagrou materiais sem valor artístico, como o feltro.
@@ -1817,9 +1817,9 @@ Quando: de hoje a 11 de fevereiro, de terça a domingo, das 12h às 18h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-111</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-111</field>
+<field name="date">941208</field>
+<text_pt>
 Irmãos Taviani confrontam honra e cobiça 
 'Aconteceu na Primavera', novo filme dos cineastas italianos, narra saga de 200 anos da família Benedetti 
 BERNARDO AJZENBERG 
@@ -1840,9 +1840,9 @@ Lançamento: Europa Carat (tel. 579-6522)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-112</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-112</field>
+<field name="date">941208</field>
+<text_pt>
 JOSÉ GERALDO COUTO 
 Da Reportagem Local 
 Stanley Kubrick tem obsessão pela violência e pela guerra. Com raras exceções, sua filmografia fala da loucura que envenena os indivíduos e os transforma em feras.
@@ -1864,9 +1864,9 @@ Lançamento: Tocantins/Concorde (tel. 857-7553)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-113</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-113</field>
+<field name="date">941208</field>
+<text_pt>
 Paulo Coelho
 Colunista da Folha
 No extraordinário romance "Os Irmãos Karamazov", Fiodor Dostoiévski (1821-1881) nos fala de amor:
@@ -1875,9 +1875,9 @@ No extraordinário romance "Os Irmãos Karamazov", Fiodor Dostoiévski (1821-1881) 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-114</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-114</field>
+<field name="date">941208</field>
+<text_pt>
 O artista ganha no Paço das Artes sua primeira mostra institucional no Brasil, com 27 telas de grandes dimensões 
 KATIA CANTON 
 
@@ -1904,9 +1904,9 @@ São três quadrados monocromáticos &#150;um preto, um verde, um vermelho&#150; qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-115</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-115</field>
+<field name="date">941208</field>
+<text_pt>
 Narrativa de Stevenson incluía viagens, jovens e suspense, temas recorrentes de um fã do escritor, Steven Spielberg 
 HELOÍSA PRIETO 
 Especial para a Folha 
@@ -1917,9 +1917,9 @@ Confira o talento de "Tusitala", o contador de histórias, nas passagens abaixo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-116</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-116</field>
+<field name="date">941208</field>
+<text_pt>
 Capital da Escócia guarda memória de Robert Louis Stevenson no museu Lady Stair's e na catedral de St. Giles 
 Do enviado especial a Samoa, Havaí e Escócia 
 Stevenson conheceu o sucesso literário aos 30 anos. "Deacon Brodie and the Double Life" ("O Diácono Brodie e a Dupla Personalidade"), de 1880, lhe rendeu também a inimizade eterna de W.E. Henley, co-autor da obra.
@@ -1938,9 +1938,9 @@ O acervo expõe ainda as botas que calçava na última foto (veja na pág. 6-1), seu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-117</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-117</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial a Samoa, Havaí e Escócia 
 Stevenson foi batizado Robert "Lewis" Balfour Stevenson em homenagem a seu avô materno, reverendo Lewis Balfour.
 Filho único, passou a ser chamado de Robert "Louis" aos dez anos pelo pai, que tinha um desafeto de nome Lewis em Edimburgo, capital da Escócia.
@@ -1952,9 +1952,9 @@ E foi nessa viagem que Stevenson encontrou inspiração para "A Ilha do Tesouro", 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-118</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-118</field>
+<field name="date">941208</field>
+<text_pt>
 Especial para a Folha 
 Henry James, escritor contemporâneo de Stevenson e autor de "A Volta do Parafuso" e "Miss Daisy", entre outros clássicos da literatura de língua inglesa, era um grande sucesso de crítica, embora contasse com poucos leitores.
 Profundo admirador da obra de RLS, Henry James espantava-se com o enorme sucesso de público do amigo e com o desprezo que lhe dedicavam os críticos literários. James reconhecia em Stevenson a capacidade inigualável de criar um universo metafórico cuja potência definitivamente invadia e dominava a mente de seus leitores.
@@ -1983,9 +1983,9 @@ Tradução de Heloísa Prieto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-119</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-119</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial a Samoa, Havaí e Escócia 
 Escala obrigatória para quem vai de avião até Samoa Ocidental &#150;porção independente do arquipélago samoano, onde o escritor Robert Louis Stevenson morou e está sepultado&#150;, Pago-Pago é um desses lugares impagáveis.
 O aeroporto da capital do território da Samoa Americana é um barracão. Em sua precária esteira rolante, passageiros disputam a bagagem como quem aposta numa rinha de briga de galos.
@@ -2007,9 +2007,9 @@ Principal fonte de renda do território, o atum é enlatado em Pago-Pago ou export
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-120</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-120</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial a Samoa, Havaí e Escócia 
 Robert Louis Stevenson logo percebeu em suas viagens que as línguas da Polinésia guardavam enorme proximidade: o"aloha" (bem-vindo) dos havaianos corresponde ao "aroha" do Taiti e ao "talofa" do idioma samoano.
 Mas estrangeiros não são tão bem-vindos à Samoa Americana.
@@ -2035,9 +2035,9 @@ E surge na forma do sol que se põe no céu azul, num espetáculo que existe apenas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-121</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-121</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial 
 O café da manhã que começa antes das 6h no hotel Pago-Pago Rainmaker tem a atmosfera do pecado.
 Só os oficiais se hospedam no hotel e o restante dos marinheiros permanece nos barcos pesqueiros.
@@ -2063,9 +2063,9 @@ Foi com embarcações gigantes desse tipo que os nativos velejaram 3.700 quilômetr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-122</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-122</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 Para fazer o roteiro de Stevenson, o viajante vai encontrar muitas alternativas para visitar a Escócia e Havaí. As ofertas para Samoa ainda são poucas.
 Para quem quer conhecer parte da Escócia e não dispõe de muito tempo, a Queensberry tem um pacote de cinco dias por US$ 620.
@@ -2103,9 +2103,9 @@ RESERVAS: APAJ: (011) 605-3077; AS TRAVEL: (011) 572-4595; ASTOR: (011) 288-0908
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-123</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-123</field>
+<field name="date">941208</field>
+<text_pt>
 Veja os livros traduzidos do escritor 
 Da Redação 
 "Nos Mares do Sul"(261 págs., R$ 14,81), da Editora Iluminuras (1992), é um bom livro para quem quer ler Stevenson em português.
@@ -2114,9 +2114,9 @@ Abaixo outros títulos editados no país: "O Médico e o Monstro", Editora Ática (1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-124</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-124</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A Aoki Corporation foi fundada em 1947, em Tóquio. Além da hotelaria, a empresa atua no ramo da engenharia civil e navegação.
 Antes da venda de parte de seus hotéis Westin, a cadeia tinha 80 hotéis espalhados por 19 países e faturou no ano passado US$ 2,9 bilhões.
@@ -2134,9 +2134,9 @@ Ao longo de uma bem-sucedida carreira, que rendeu prestígio e um bom punhado de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-125</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-125</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 Até 1997, o mercado brasileiro ganha novos hotéis de cinco e quatro estrelas da marca Caesar Park e Caesar Towers. Este mês está prevista a inauguração de um Caesar Towers (quatro estrelas), em Piedade, Recife.
 Ainda em Pernambuco, deverá funcionar até 1997 o Caesar Park Recife, resort cinco estrelas, com marina, campo de golfe e condomínio em Cabo de Santo Agostinho, no litoral sul.
@@ -2144,9 +2144,9 @@ O Ceará também terá um hotel quatro estrelas da marca Caesar Towers no complexo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-126</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-126</field>
+<field name="date">941208</field>
+<text_pt>
 Da Redação 
 Os turistas que enfretarem problemas em São Paulo poderão registrar a ocorrência na polícia sem sair do hotel. É que a Delegacia Especializada de Atendimento ao Turista (Deatur) franqueou o seu fax &#150;(011) 607-8721&#150; para agilizar o atendimento.
 Basta procurar no hotel que estiver hospedado um formulário especial e preenchê-lo com todos os detalhes do caso. O gerente deve providenciar gratuitamente a expedição do fax, solicitando a lavratura do boletim de ocorrência.
@@ -2155,9 +2155,9 @@ O serviço de fax gratuito resulta de um convênio firmado entre a Federação de Ho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-127</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-127</field>
+<field name="date">941208</field>
+<text_pt>
 Cidade no litoral sul da Bahia oferece cachoeiras da serra da Mata Atlântica, rios e muitas praias desertas 
 MARIA DANIA JUNGES 
 Free-lance para a Folha 
@@ -2175,9 +2175,9 @@ Durante o verão, Itacaré espera receber mais de 20 mil visitantes em busca das p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-128</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-128</field>
+<field name="date">941208</field>
+<text_pt>
 Free-lance para a Folha 
 O lugar mais confortável para se hospedar em Itacaré é a pousada Camping Paraíso ((073-251-2113), que tem 12 apartamentos com frigobar, ventilador de teto, TV e varanda com rede. O restaurante é de primeira qualidade e seus pratos principais são o camarão, o peixe e a lagosta.
 Outro bom endereço para frutos do mar é o restaurante Fundo Verde, do paulista Ageu, no caminho da praia.
@@ -2198,9 +2198,9 @@ Outra alternativa é pegar um avião entre Salvador e Ilhéus. De Ilhéus são apenas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-129</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-129</field>
+<field name="date">941208</field>
+<text_pt>
 "Volvo Ski Guide 1995" traz dicas e roteiros das melhores pistas mas não informa os preços de hospedagem
 Da Reportagem Local
 CARLOS KAUFFMANN
@@ -2221,9 +2221,9 @@ VOLVO SKI GUIDE 95 - Skier's Holiday Guide Club. 21 cm x 29,5 cm. 286 págs. Pode
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-130</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-130</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 As companhias aéreas que fazem a ligação entre São Paulo e Johannesburgo estão comemorando o aumento no número de passageiros transportados nessa rota.
 Segundo a Varig e a South African Airways, esse aumento decorre do fim do apartheid e do cancelamento do pedido de visto para brasileiros. O acordo que resultou no cancelamento foi assinado em setembro passado. 
@@ -2245,9 +2245,9 @@ A China Airlines &#150;que não opera em território brasileiro&#150; faz a ligaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-131</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-131</field>
+<field name="date">941208</field>
+<text_pt>
 Do enviado especial a Angra (RJ) 
 Para chegar ao submarino, os argonautas são transportados num saveiro, que faz um passeio por recantos da Ilha Grande em frente ao hotel Portogalo, que fica no continente. O Argos opera num dos pontos de mergulho conhecido como lagoa Azul.
 O submarino transporta 16 passageiros e dois tripulantes &#150;o piloto e o co-piloto.
@@ -2266,9 +2266,9 @@ Todos percebem essa mudança do espectro, quando se começa a notar as alterações 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-132</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-132</field>
+<field name="date">941208</field>
+<text_pt>
 Essas duas ilhas do centro-sul da Bahia abrigam pequenos e tranquilos vilarejos, como o Morro de São Paulo 
 Free-lance para a Folha 
 As ilhas de Tinharé e Boipeba, no centro-sul da Bahia, são um dos poucos redutos com praias semidesertas do litoral brasileiro.
@@ -2281,9 +2281,9 @@ Na Quarta praia, quase sempre deserta, é possível fazer topless, mergulhar em pi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-133</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-133</field>
+<field name="date">941208</field>
+<text_pt>
 Free-lance para a Folha 
 Em Morro de São Paulo não transitam carros nem motos. Todos caminham muito, subindo e descendo ladeiras.
 Morro de São Paulo abriga 500 habitantes nativos e 1.200 estrangeiros. Vive da pesca e do turismo e, no verão, recebe cerca de 30 mil visitantes.
@@ -2300,9 +2300,9 @@ Velha Boipeba existe desde 1565, quando chegou a ter 2.500 habitantes. Supria Sa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-134</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-134</field>
+<field name="date">941208</field>
+<text_pt>
 Praia também é o programa de réveillon da Pousada Armação de Camburi, no litoral norte de São Paulo. A pousada ainda tem lugares para o final de ano. O pacote de 25/12 a 1/1 custa R$ 740 para casal com café da manhã. Reservas: (011) 884-7752.
 
 Fernando de Noronha é roteiro da Starshine 
@@ -2325,9 +2325,9 @@ Os hotéis Angra Inn e Porto Aquarius, em Angra dos Reis, têm pacotes para o Nata
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-135</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-135</field>
+<field name="date">941208</field>
+<text_pt>
 Hotéis do grupo têm safári e passeio de submarino 
 Da Reportagem Local 
 O grupo Portotel vem apostando no turismo há 18 anos. Além de quatro hotéis &#150;Pousada Paraty, em Parati; Portobello, em Mangaratiba; Portogalo, em Angra dos Reis e Porto da Bocaina, em São José do Barreiro&#150; o grupo procura inovar nas formas de lazer.
@@ -2338,9 +2338,9 @@ Além de hotéis, o grupo, em sociedade com a Monte Mar, é proprietário de dois tr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-136</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-136</field>
+<field name="date">941208</field>
+<text_pt>
 Instituição não espera grandes mudanças; relação de convocados para 2ª fase sai em 4 de janeiro 
  
 FUVEST  
@@ -2371,9 +2371,9 @@ O endereço é avenida Cândido Xavier de Almeida Souza, 200, Mogi das Cruzes (50 k
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-137</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-137</field>
+<field name="date">941208</field>
+<text_pt>
 "Sendo o caderno Fovest um excelente espaço, que tanto nos auxiliou no preparo para as provas, registrar meu protesto. Como o maior vestibular do país pode cometer erros tão grotescos? A Fuvest 95, que foi realizada no último dia 20, além de possuir questões absolutamente difíceis, também continha questões cuja matéria não consta no programa do manual. A quinta questão de biologia foi um tremendo absurdo! Nem livros de terceiro grau explicam direito a musculatura da tal lombriga. E nós, simples candidatos, estudamos o ano inteiro até a exaustão com o propósito de nos prepararmos para fazer uma boa prova e na hora H o que encontramos é o delírio de um examinador em sua mais aguda crise de alucinação. Essa questão, com sorte, talvez seja anulada, pois professores dos cursinhos estão brigando por nós. Mas, e os estudantes, o que fazem? A atitude dos candidatos diante de uma prova incorreta é xingar, reclamar, mas depois a indiferença toma conta de seus corpos e a Fuvest vira parte do passado. Falta a consciência que os candidatos têm o direito de fazer uma prova justa, sem erros. O mínimo que exijo é uma prova correta, de dificuldade média, com questões precisas. Só assim é possível fazer justiça aos incansáveis meses de estudo."
 Adriana dos Santos Saldivar (São Paulo, SP)
  
@@ -2383,9 +2383,9 @@ Daniella Almeida (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-138</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-138</field>
+<field name="date">941208</field>
+<text_pt>
 Vale lembrar que a prova de literatura só acontece na segunda fase da Unicamp, entre 15 e 18 de janeiro. Ainda há tempo de relembrar as principais características das obras obrigatórias do exame. Uma boa pedida é o livro "Literatura Unicamp 95" (foto), com resumos, comentários, textos e exercícios elaborados por Célia Passoni. A obra, editada pela Núcleo, custa R$ 15,00 e pode ser encontrada na loja da editora, que fica na rua Vergueiro, 1.951, tel. (011) 572-9131.
 
  "VESTIDO..." 
@@ -2393,9 +2393,9 @@ A Nova Fronteira editou a peça "Vestido de Noiva", de Nelson Rodrigues, obra obr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-139</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-139</field>
+<field name="date">941208</field>
+<text_pt>
 O romance português "Amor de Perdição" de Camilo Castelo Branco foi escrito em 1862. É considerado um romance passional pois apresenta personagens que se amam e buscam a felicidade, passando por variados obstáculos, mas geralmente acabam em desgraça.
 A obra relata o amor de Simão Botelho por Teresa de Albuquerque. As famílias são inimigas, então o casamento não é possível.
 O pai de Teresa quer ver a filha casada com o primo, Baltazar. Ela resolve enfrentar o pai e ele a manda para um convento.
@@ -2405,9 +2405,9 @@ Simão mata Baltazar e é expulso de Portugal. Teresa morre logo depois de se desp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-140</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-140</field>
+<field name="date">941208</field>
+<text_pt>
 "O Primo Basílio" de Eça de Queirós, publicado em 1878, é um romance do realismo português. O autor critica a pequena burguesia de Lisboa. O texto é construído em clima tenso, com uma lógica bem orientada e perfeita.
 Para isso uso um vocabulário rico com adjetivação abundante, inversões e transposições das ordens das frases, também grande utilização de figuras de estilo e descrições detalhadas que fornecem um espécie de fotografia dos cenários e as personagens.
 "O Primo Basílio" relata um adultério. Luísa é casada com Jorge. Na sua adolescência foi apaixonada pelo primo, Basílio, que saiu de Lisboa.
@@ -2416,9 +2416,9 @@ Basílio volta e retoma o romance com Luísa. O autor dá destaque para a personage
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-141</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-141</field>
+<field name="date">941208</field>
+<text_pt>
 PUC estréia neste vestibular curso de relações internacionais; aprovação sai em 10 de janeiro 
 Da Reportagem Local 
 Os cursos mais concorridos no vestibular da PUC-SP são medicina, com 21,68 candidatos por vaga, direito matutino, com 15,15, direito noturno, com 11,45 e jornalismo matutino, com, 10,62.
@@ -2432,9 +2432,9 @@ A lista dos aprovados sai no dia 10 de janeiro. As matrículas são nos dia 16 e 1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941208-142</text_pt>
-<text_pt name="date">941208</text_pt>
-<text_pt name="text">
+<field name="id">FSP941208-142</field>
+<field name="date">941208</field>
+<text_pt>
 Da Reportagem Local 
 A FEI (Faculdade de Engenharia Industrial), de São Bernardo do Campo (18 km a sudeste de São Paulo), é uma das mais renomadas do Estado.
 Entre os cursos mais famosos está o de mecânica com opção à área automobilística, segundo o vice-diretor de Desenvolvimento e Extensão da FEI, Dalton Rubens Maiuri, 55, que vê uma crise no ensino de engenharia.

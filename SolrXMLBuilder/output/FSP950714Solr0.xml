@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950714-001</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-001</field>
+<field name="date">950714</field>
+<text_pt>
 O que faz um cidadão comum ou uma empresa quando se descobre gastando mais do que ganha? A primeira e mais óbvia medida é reduzir as suas despesas, o que, para muitos, implica terríveis sacrifícios. Outra possibilidade, para aqueles que possuem algum patrimônio, é vender um bem qualquer para conseguir fechar as suas contas.
 Anos e anos de altíssima inflação certamente dificultavam, se é que não tornavam impossível, a realização de qualquer espécie de orçamento em moeda nacional. Desde julho de 1994, porém, a inflação está razoavelmente controlada.
 O caso da Câmara dos Deputados é, por exemplo, bastante grave. Sua dotação anual vai esgotar-se em julho, exatamente a metade do ano. Já foi enviado ao Ministério do Planejamento um pedido de suplementação de verba de R$ 223,18 milhões. O Senado também se vê em dificuldades financeiras. O curioso é que tanto senadores quanto deputados ainda não cogitaram de abrir mão de seu esdrúxulo 15º salário para tentar equilibrar as contas das Casas, como faria qualquer outro brasileiro comum.
@@ -12,9 +12,9 @@ O governo precisa esclarecer de forma convincente como pretende gastar mais do q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-002</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-002</field>
+<field name="date">950714</field>
+<text_pt>
 Em geral, na atividade pedagógica, os exemplos desempenham uma importante função didática. Já as atitudes de alguns pedagogos alçados às esferas públicas parecem ser justamente aquelas pelas quais o cidadão não se deve guiar.
 O ministro da Educação, Paulo Renato Souza, anunciou nesta semana que em 1995, como em ``todos os anos", e apesar de todos os esforços envidados em sentido contrário, não será possível cumprir a determinação constitucional que destina à educação fundamental de Estados e municípios 50% dos recursos à disposição do ministério. Atribuiu a infração ao custeio das ``obrigações com as universidades federais", que comprometerá R$ 4,8 bilhões, equivalentes a 55,6% de todo o orçamento para a área, incluídas as dotações suplementares.
 Por sua vez, a secretária de política educacional do ministério, Eunice Durham, encontrou nas ``contradições constitucionais" a justificativa para uma não-estrita obediência aos dispositivos legais.
@@ -25,9 +25,9 @@ A defesa das reformas constitucionais, decerto necessárias à eliminação dos atua
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-003</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-003</field>
+<field name="date">950714</field>
+<text_pt>
 A Constituição de 88, em seu art. 159, inciso I, determinava que, a partir de sua promulgação, 20% do produto da arrecadação do IR e do IPI deveriam ser destinados ao Fundo de Participação dos Municípios, e que essa porcentagem seria elevada à razão de 0,5% por exercício financeiro, até que atingisse, em 1993, o total definitivo de 22,5%.
 A finalidade dessa destinação, segundo o texto, era promover o equilíbrio socioeconômico entre as diversas regiões do país.
 Nesta semana, o IBGE divulgou que 483 municípios e 499 distritos foram criados e instalados no país entre 1990 e 1994; além disso, 231 municípios tiveram sua criação autorizada, mas ainda não foram instalados. Mais, tramitam nas Assembléias Legislativas estaduais mais de 600 pedidos de emancipação.
@@ -37,9 +37,9 @@ Entretanto, muito além dessa retórica só aparentemente sensata, o que se verific
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-004</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-004</field>
+<field name="date">950714</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO _ O avassalador coro de ``todo o poder ao mercado" que se ouve nos quatro cantos do mundo fez com que a agricultura brasileira passasse a ter vergonha de dizer o que de fato necessita.
 Sua necessidade chama-se subsídio. Sim, é essa palavrinha feia, fora de moda.
@@ -54,9 +54,9 @@ O que não se pode é confundir privilégios à bancada ruralista com a agricultura 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-005</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-005</field>
+<field name="date">950714</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA _ Uma das colunas mais interessantes que li recentemente foi escrita pelo economista João Sayad, publicada nesta Folha. Ele enumerou vícios de sua categoria, encaixou-os na conjuntura brasileira, propondo ao leitor: desconfie dos economistas.
 Vou tentar seguir seu exemplo e, aproveitando meus derradeiros dias neste espaço, deixo aqui uma dica ao leitor: desconfie também de nós, jornalistas. Temos vários vícios; comento hoje um deles.
@@ -70,9 +70,9 @@ Não sem motivos, muitas vezes a leitura é chata. Vamos, porém, acabar encontrand
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-006</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-006</field>
+<field name="date">950714</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ Sou devoto de Santo Antônio, herança maior que meu pai me deixou. Apesar de agnóstico, de não crer em Deus nem nos homens, acredito nos santos, pelo menos em dois deles: Santo Antônio e São José, embora por motivos e necessidades diferentes.
 Num velho livro de José Carlos Macedo Soares fiquei sabendo que Santo Antônio era militar e até recebia soldo. Na Bahia, o santo é tenente-coronel. Em Goiás, capitão. Em São Paulo, coronel. Para compensar, Santo Antônio é soldado raso na Paraíba e major em Santa Catarina. Aqui no Rio é também tenente-coronel e em Minas simples alferes, como Tiradentes. Durante a Guerra dos Palmares, dom João da Cunha Souto Mayor mandou Santo Antônio se alistar, e dom João 5 o promoveu a tenente em 1717.
@@ -85,9 +85,9 @@ Como não acreditar num santo desses, que, de quebra, ainda me ajuda a quebrar me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-007</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-007</field>
+<field name="date">950714</field>
+<text_pt>
 José Sarney
 O intelectual e o político têm uma convivência difícil. O intelectual é sempre o homem da justiça absoluta, enquanto o político é aquele que vive a servidão de lidar com fatos e não com abstrações. Esse o grande dilema do intelectual na política.
 A afirmação do presidente Fernando Henrique é, assim, uma manifestação do analista político, do professor, do sociólogo que é, que conviveu com e viveu a esquerda. O senão foi o emprego do verbo. O ser pelo estar. Ele não quis dizer ``ser" burra, mas ``estar" burra. Ser é o que subsiste por si mesmo. E não foi o caso.
@@ -103,9 +103,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-008</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-008</field>
+<field name="date">950714</field>
+<text_pt>
 Nem sempre os votos caros são menos limpos que os votos baratos de certos demagogos
 GERARDO MELLO MOURÃO
 Quem são estes senhores do Congresso, da Câmara e do Senado _umas seis ou sete centenas de políticos que, em tese, representam o povo e os Estados de nossa iludida ou desiludida república federativa? Até onde vai a legitimidade de sua representação, tantas vezes contestada?
@@ -128,9 +128,9 @@ GERARDO MELLO MOURÃO, 75, poeta e escritor, é membro da Academia Brasileira de F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-009</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-009</field>
+<field name="date">950714</field>
+<text_pt>
 ``Brasil: Nunca Mais" preserva a história e multiplica instrumentos de luta a favor da Justiça
 JAIME WRIGHT
 O livro ``Brasil: Nunca Mais" foi colocado nas livrarias de todo o país no dia 15/7/1985, sem nenhuma propaganda ou lançamento. Como parte da ``paranóia remanescente coletiva", tínhamos proibido a editora de fazer qualquer publicidade prévia sobre o livro, apesar de já estarmos alguns meses no período pós-ditadura.
@@ -157,9 +157,9 @@ JAIME WRIGHT, 68, é presidente da Fundação Samuel (SP) e do Instituto Pro Vida e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-010</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-010</field>
+<field name="date">950714</field>
+<text_pt>
 ``Sobre a reportagem `Philip Morris denuncia tentativa de extorsão', comentando meu depoimento judicial, e carta de Marcio Thomaz Bastos publicada em 12/7, quero dizer que, embora réu, por suposto delito de interceptação telefônica, ao ser chamado a depor, esclareci e demonstrei os limites da minha atuação profissional, junto ao Poder Judiciário. O dr. Marcio Thomaz Bastos, ao contrário, pretendendo, como sempre, discutir por meio da imprensa, em longa carta, nada disse sobre os fatos e sua atuação profissional. Apenas esperneou sobre seu passado. Estou absolutamente tranquilo. Pronunciar-me-ei somente perante o Poder Judiciário e provarei que minha atuação foi escorreita, em cumprimento de uma ordem judicial e, sobretudo, dentro dos limites da ética profissional."
 Cyro Kusano, advogado (São Paulo, SP)
  
@@ -190,9 +190,9 @@ Resposta do jornalista Lucio Vaz _ O fato de o capitão ser servidor de carreira 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-011</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-011</field>
+<field name="date">950714</field>
+<text_pt>
 Amigos de FHC estão preocupados: acham que ele se convenceu de que basta ir à TV fazer um pronunciamento para contornar problemas. Temem que ele confie demais em seus dotes televisivos.
 
 Lupa
@@ -218,9 +218,9 @@ _ Mexer com os recursos de Estados e municípios vai ser difícil: isto dá marcha 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-012</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-012</field>
+<field name="date">950714</field>
+<text_pt>
 Gaúchos temem que partido vá para oposição; eleições atrapalham mudança
 LUCIO VAZ
 Da Sucursal de Brasília
@@ -247,9 +247,9 @@ Colaborou GABRIELA WOLTHERS, da Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-013</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-013</field>
+<field name="date">950714</field>
+<text_pt>
 Da Reportagem Local
 O ex-presidente Fernando Collor de Mello (1990-92) planeja lançar um candidato à Prefeitura de Maceió (AL), nas eleições municipais do próximo ano.
 O publicitário José Helington, aliado de Collor, está coordenando, em Maceió, esse projeto político do ex-presidente.
@@ -262,9 +262,9 @@ Nada foi encontrado de irregular na bagagem dos dois, que passaram uma temporada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-014</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-014</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Fernando Henrique Cardoso deve visitar mais 12 países neste ano _quase o dobro de viagens internacionais que fez nos primeiros meses de mandato.
 Se cumprir o previsto, FHC fará em seu primeiro ano uma viagem internacional a mais que seu antecessor, Itamar Franco, em dois anos e dois meses de governo.
@@ -284,9 +284,9 @@ A comitiva oficial que acompanha FHC a Lisboa tem dois ministros confirmados: Lu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-015</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-015</field>
+<field name="date">950714</field>
+<text_pt>
 Um estudo sigiloso do Conselho Fiscal do Banco do Brasil, datado de 10 de julho, adverte o Conselho de Administração para a impropriedade das demissões em massa como solução para os problemas graves do banco, originados, como o documento demonstra, do uso político do BB nos governos dos últimos dez anos (ou seja, do governo Sarney para cá, cujas práticas, como é notório, prosseguem no atual).
 Convém notar, desde logo, que o Conselho Fiscal não é composto por funcionários do BB. Seu presidente, Claudiano Manoel de Albuquerque, signatário do estudo, é coordenador de Programação Financeira do Ministério da Fazenda. Outro dos membros, Paulo França, integra a assessoria da secretaria executiva, também do Ministério da Fazenda. O estudo é, portanto, de técnicos ocupantes de cargos de confiança no governo.
 No último decênio, lembra o estudo, o BB esteve sob ``uma sequência de administrações visceralmente opostas em suas propostas e realizações", todas efêmeras em razão da brevidade de cada gestão: ``A transição de cinco diferentes administrações em cinco anos impõe indeléveis danos ao planejamento."
@@ -301,9 +301,9 @@ Demissões, na conclusão do conselho, devem ``inserir-se em contexto mais amplo, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-016</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-016</field>
+<field name="date">950714</field>
+<text_pt>
 Bornhausen diz que José Serra tem muitas atribuições e que a desestatização precisa de dedicação exclusiva
 JOSIAS DE SOUZA
 Diretor-executivo da Sucursal de Brasília
@@ -323,9 +323,9 @@ O partido cobrará também pressa na implementação da Lei de Concessões de serviço
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-017</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-017</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro da Saúde, Adib Jatene, enfrentou com bom humor um ``corredor polonês" formado por funcionários contratados para prestar serviços na UnB (Universidade de Brasília). Eles _a maioria jardineiros e porteiros_ reclamavam do atraso no pagamento.
 Os funcionários aproveitaram o encontro do ministro com o reitor da UnB, João Claudio Todorov, para armar o protesto.
@@ -337,9 +337,9 @@ Depois do encontro com o reitor, Jatene fez uma palestra sobre o tema saúde e un
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-018</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-018</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro Reinhold Stephanes, da Previdência, apontou a si mesmo como um exemplo de aposentadoria privilegiada que a reforma constitucional proposta pelo governo pretende atacar.
 Durante palestra para representantes de federações de trabalhadores, Stephanes defendia mais uma vez a exigência de uma idade mínima (em torno de 60 anos) para a aposentadoria, quando decidiu inovar o roteiro de sua pregação em favor da reforma.
@@ -350,9 +350,9 @@ Stephanes, hoje com 54 anos, se aposentou aos 46 pela Prefeitura de Curitiba. El
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-019</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-019</field>
+<field name="date">950714</field>
+<text_pt>
 Presidente do BC afirma que governo pode aliviar compulsório de bancos para aumentar crédito ao setor
 CARLOS ALBERTO DE SOUZA
 Da Agência Folha, em Porto Alegre
@@ -369,9 +369,9 @@ Sem mencionar valores, Loyola afirmou que o governo não pode ir além de certos l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-020</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-020</field>
+<field name="date">950714</field>
+<text_pt>
 Da Agência Folha
 Cerca de 150 caminhões, segundo os organizadores do movimento ``Não posso plantar - Marcha sobre Brasília", e de acordo com a Polícia Rodoviária, deixaram o Rio Grande do Sul e entraram em Santa Catarina, por volta das 18h de ontem.
 Hoje, o comboio, que passaria a noite em Xanxerê (SC), percorrerá cidades do Paraná e deverá chegar amanhã a Assis (SP).
@@ -384,9 +384,9 @@ Na segunda-feira cedo eles partirão rumo a Brasília, onde se encontrarão na terç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-021</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-021</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília
 O relator da MP (medida provisória) que acabou com a correção automática dos salários, senador Coutinho Jorge (PMDB-PA), disse ontem que pode adotar o INPC (Índice Nacional de Preços ao Consumidor) para proteger as categorias que recebem até quatro mínimos (R$ 400).
 ``O INPC pode ser uma alternativa viável. O Congresso terá de encontrar um mecanismo para proteger os salários mais baixos", afirmou.
@@ -402,9 +402,9 @@ Os parlamentares querem explicações e esclarecimentos sobre as regras das desind
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-022</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-022</field>
+<field name="date">950714</field>
+<text_pt>
 Da Reportagem Local
 As negociações entre os sapateiros do Estado de São Paulo da base da CUT (cerca de 20 mil trabalhadores) e os empresários chegaram ao impasse.
 Os empresários oferecem a lei _35,30%_ e os sapateiros, com data-base em 1º de julho, querem mais 20% de aumento real e participação nos lucros.
@@ -414,9 +414,9 @@ A categoria tenta acordo com os empresários hoje pela manhã e à tarde se reúne c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-023</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-023</field>
+<field name="date">950714</field>
+<text_pt>
 O que é
 Reformulação do sistema de impostos do país para simplificar a arrecadação e diminuir os custos das empresas
 
@@ -444,9 +444,9 @@ Reformulação do regime tributário, alterando inclusive que instância do poder pú
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-024</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-024</field>
+<field name="date">950714</field>
+<text_pt>
 MYRIAN VIOLETA
 Da Agência Folha em Campo Grande
 A 17ª Vara Cível de Curitiba, Paraná, determinou a hipoteca de 33 imóveis do Banco Bamerindus S/A, que tem como acionista majoritário o ministro da Agricultura, José Eduardo Andrade Vieira, senador (licenciado) pelo PTB.
@@ -472,9 +472,9 @@ Colaborou MÔNICA SANTANNA, da Agência Folha em Curitiba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-025</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-025</field>
+<field name="date">950714</field>
+<text_pt>
 Da Agência Folha, em Curitiba
 A assessoria jurídica do banco Bamerindus contestou, no processo, o valor da indenização pedida pela família Coelho.
 ``O banco impugna a estimativa do valor da condenação", afirma um trecho do parecer assinado por dois consultores jurídicos. A assinatura não é legível.
@@ -486,9 +486,9 @@ O diretor jurídico do Bamerindus, João Vieira, foi procurado, mas sua assessoria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-026</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-026</field>
+<field name="date">950714</field>
+<text_pt>
 Do enviado especial
 A engenharia genética brasileira conseguiu desenvolver uma bactéria que produz plástico a partir de cana-de-açúcar.
 Os cientistas estão tão otimistas que acreditam que, em menos de cinco anos, será possível produzir em escala industrial o plástico de bactéria _semelhante ao obtido de derivados de petróleo.
@@ -507,9 +507,9 @@ A previsão era de cinco anos para se chegar a algum resultado, mas eles vieram m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-027</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-027</field>
+<field name="date">950714</field>
+<text_pt>
 Sete trabalhadores rurais de duas fazendas invadidas no Maranhão viajaram 450 km para participar _sem terem sido convidados_ da mesa-redonda ``Assentamentos Rurais: Impasses e Alternativas Desse Novo Espaço de Vida". Eles queriam ter a chance de apresentar a situação de penúria em que estão vivendo.
 
 ``Não temos água, a escola é um barracão e não há financiamento para que possamos plantar", contou João de Deus. ``Isso é muito parecido com o que está acontecendo com os assentamentos rurais de São Paulo", contou Sonia Maria Bergamasco, da Unicamp.
@@ -521,9 +521,9 @@ O músico cearense Falcão _que se autodenomina ``o maior bregastar do Brasil"_ re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-028</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-028</field>
+<field name="date">950714</field>
+<text_pt>
 Átomos expostos à temperatura mais baixa jamais obtida entram em colapso e adquirem propriedades inéditas
 Da Reportagem Local
 Cientistas do Nist (sigla em inglês para Instituto Nacional de Padrões e Tecnologias), associado à Universidade do Colorado (EUA), conseguiram criar um novo estado da matéria, previsto teoricamente por Albert Einstein e pelo físico indiano Satyendra Nath Bose, há 71 anos.
@@ -547,9 +547,9 @@ Eric Cornell, um dos líderes do grupo, afirma que o material em seu laboratório 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-029</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-029</field>
+<field name="date">950714</field>
+<text_pt>
 Covas quer Dante de Oliveira no PSDB
 Da Reportagem Local
 O governador de São Paulo, Mário Covas (PSDB), disse ontem não estar preocupado com o seu estado de saúde. ``Não tenho planos de morrer nos próximos quatro anos. Me elegeram, agora terão que me aguentar", brincou.
@@ -569,9 +569,9 @@ Ele conta com o apoio do governador tucano Tasso Jereissati, do Ceará. Auxiliare
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-030</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-030</field>
+<field name="date">950714</field>
+<text_pt>
 PAULO SILVA PINTO
 Da Sucursal de Brasília
 A TVT Produções está cobrando judicialmente R$ 1,25 milhão do governo de São Paulo por vídeos que, segundo a empresa, o ex-governador Luiz Antonio Fleury Filho encomendou e não pagou.
@@ -582,9 +582,9 @@ Santa Rita diz que o irmão de Fleury, Frederico Pinto Coelho, o Lilico, prometeu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-031</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-031</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília
 O porta-voz da Presidência, Sérgio Amaral, disse ontem que não haverá rombo no Orçamento da União. Segundo ele, o decreto noticiado ontem pela Folha para cobrir gastos extras de R$ 3 bilhões com o funcionalismo é uma compensação por cortes já feitos.
 ``Não existe nenhum estouro no orçamento, é uma notícia sem fundamento", disse o porta-voz. Segundo Amaral, o que ocorre é que em alguns casos é preciso liberar crédito suplementar para compensar cortes feitos através de vetos.
@@ -596,9 +596,9 @@ Segundo o ministério, o governo já se preparava para o aumento dos gastos com o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-032</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-032</field>
+<field name="date">950714</field>
+<text_pt>
 LILIANA LAVORATTI
 Da Sucursal de Brasília
 O governo decidiu usar ``um facão" no lugar de ``um raio laser" na reforma administrativa que pretende reduzir o número de funcionários do Banco do Brasil.
@@ -621,9 +621,9 @@ Pizzolato _ É preciso aumentar a capitalização para que o banco volte a disputar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-033</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-033</field>
+<field name="date">950714</field>
+<text_pt>
 Da Agência Folha, em Curitiba 
 A assessoria jurídica do banco Bamerindus contestou, no processo, o valor da indenização pedida pela família Coelho.
 ``O banco impugna a estimativa do valor da condenação", afirma um trecho do parecer assinado por dois consultores jurídicos. As assinaturas dos consultores no parecer não são legíveis.
@@ -635,9 +635,9 @@ O diretor jurídico do Bamerindus, João Vieira, foi procurado, mas sua assessoria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-034</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-034</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília 
 O novo sistema tributário planejado pelo governo deverá entrar em vigor gradualmente até o final do mandato do presidente Fernando Henrique Cardoso.
 O cronograma da reforma tributária foi discutido ontem, durante três horas, em encontro de FHC com ministros da área econômica.
@@ -655,9 +655,9 @@ A reivindicação será feita durante a reunião do Conamaz (Conselho Nacional da Am
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-035</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-035</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso deve visitar mais 12 países neste ano _quase o dobro de viagens internacionais que fez nos primeiros meses de mandato.
 Se cumprir o previsto, FHC fará em seu primeiro ano uma viagem internacional a mais que seu antecessor, Itamar Franco, em dois anos e dois meses de governo.
@@ -675,30 +675,30 @@ Membros da comitiva de FHC a Lisboa já confirmados: ministros Luiz Felipe Lampre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-036</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-036</field>
+<field name="date">950714</field>
+<text_pt>
 Cerca de 80 pessoas morreram desde a sexta-feira passada por causa da violência política e criminal na região de KwaZulu-Natal (sudeste da África do Sul), majoritariamente habitada pela etnia zulu. Mais de mil já morreram em violência política na região desde as eleições de abril de 1994. Os zulus se opõem ao presidente do país, Nelson Mandela.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-037</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-037</field>
+<field name="date">950714</field>
+<text_pt>
 A Coréia anunciou ontem que os desaparecidos na queda de uma loja em Seul (capital) no dia 29 de junho são 400, e não 200, como havia dito. O número de mortos pode chegar a 650. Parentes das vítimas disseram que a Coréia escondia os números. Outro administrador do distrito onde fica a loja foi preso, acusado de receber suborno para aprovar mudanças.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-038</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-038</field>
+<field name="date">950714</field>
+<text_pt>
 O ``número dois" da Organização para a Libertação da Palestina, Mahmoud Abbas, entrou ontem na faixa de Gaza, região autônoma palestina. Abbas foi um dos responsáveis pelo acordo que transferiu a autonomia de Israel aos palestinos, em 1993. Israel e OLP mantêm reuniões secretas no Oriente Médio para negociar a autonomia na Cisjordânia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-039</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-039</field>
+<field name="date">950714</field>
+<text_pt>
 Das agências internacionais 
 Julius e Ethel Rosenberg, executados por espionagem em 1953, tiveram sua culpa reafirmada pela CIA (serviço secreto dos EUA).
 Ambos foram condenados em 1951 por passar segredos da bomba atômica norte-americana para os soviéticos.
@@ -706,9 +706,9 @@ A nova prova apresentada é uma série de 49 telegramas cifrados de Moscou para a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-040</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-040</field>
+<field name="date">950714</field>
+<text_pt>
 Das agências internacionais 
 Cerca de 15 mil muçulmanos já foram expulsos do encrave de Srebrenica (leste da Bósnia) pelos sérvios bósnios, que ocuparam a área em ataque na terça-feira.
 Os sérvios, cristãos, promovem a maior campanha de "limpeza étnica" contra os muçulmanos, que governam a Bósnia, desde que começaram a lutar contra a independência do país da Federação Iugoslava, em 1992.
@@ -727,9 +727,9 @@ Tanques sérvios passaram o dia de ontem posicionados ao redor de Zepa, atirando 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-041</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-041</field>
+<field name="date">950714</field>
+<text_pt>
 VINICIUS TORRES FREIRE
 De Paris 
 O navio Rainbow Warrior 2º (Guerreiro do Arco-Íris 2º), do grupo ambientalista Greenpeace, é esperado hoje em Papeete (capital do Taiti) por manifestantes que se opõem aos testes nucleares que a França pretende realizar no atol de Mururoa (oceano Pacífico) a partir de setembro deste ano.
@@ -741,9 +741,9 @@ A Nova Zelândia pode enviar um navio para o atol para proteger os barcos que for
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-042</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-042</field>
+<field name="date">950714</field>
+<text_pt>
 O general panamenho Manuel Noriega, ex-presidente do país, foi inocentado em seu país do "massacre de Albrook", no qual nove militares que tentavam depô-lo foram assassinados, em 89. Noriega está preso nos EUA, condenado por narcotráfico.
 
 Refugiados enfrentam Marinha cubana 
@@ -751,9 +751,9 @@ Um grupo de exilados que tentava entrar em águas territoriais cubanas, para lanç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-043</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-043</field>
+<field name="date">950714</field>
+<text_pt>
 O prefeito de São Bernardo, Walter Demarchi (PTB), e o presidente do Sindicato dos Metalúrgicos do ABCD, Heiguiberto Guiba Navarro, se reúnem hoje com o presidente da Volks, Pierre-Alain de Smedt, para discutir sobre a nova fábrica de motores da empresa. A cidade está disputando com outras cinco no Brasil o direito de sediar a nova fábrica, que terá um investimento de R$ 250 milhões e deve gerar 2.000 novos empregos.
 
 Força ganha eleição em Volta Redonda
@@ -764,9 +764,9 @@ Cerca de 500 empresas na Bahia fecharam ou ingressaram na Justiça com pedido de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-044</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-044</field>
+<field name="date">950714</field>
+<text_pt>
 Rombo chega a US$ 75 mi em junho; atraso no pagamento cresce mais rápido que mercado 
 MÁRCIA DE CHIARA
 Da Reportagem Local 
@@ -790,9 +790,9 @@ Hoje no mercado com 680 mil cartões das duas bandeiras, Moro prevê alcançar a ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-045</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-045</field>
+<field name="date">950714</field>
+<text_pt>
 ARTHUR PEREIRA FILHO
 Da Reportagem Local 
 Os revendedores de veículos estão atrasando o pagamento dos carros que compram das fábricas.
@@ -808,9 +808,9 @@ Também pedem redução do preço dos veículos para o consumidor e aumento das linha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-046</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-046</field>
+<field name="date">950714</field>
+<text_pt>
 Da Reportagem Local 
 A Fenabrave recomenda às suas filiadas que promovam um ``enxugamento da estrutura" para enfrentar a crise do setor e ``garantir a saúde financeira da rede".
 Ou seja, as concessionários devem demitir parte dos seus 315 mil funcionários. ``É impossível prever o volume de demissões. Isso depende da situação de cada marca e de cada revenda", afirma Sérgio Reze.
@@ -823,31 +823,31 @@ APF)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-047</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-047</field>
+<field name="date">950714</field>
+<text_pt>
 O custo médio da cesta básica registrou alta de 0,08% ontem na cidade de São Paulo. A compra dos 31 produtos passou a custar R$ 102,49. No mês até ontem, a cesta acumula alta de 1,70%. Todos os grupos tiveram alta no período. Os produtos de higiene pessoal ficaram 2,75% mais caros.
 Os produtos de limpeza registram alta de 2,69%. Os alimentos, grupo que consome R$ 82,08 do custo final da cesta, aumentaram 1,45%. Desde o início do Plano Real em julho de 94 até ontem, o custo médio recuou 3,67%. A pesquisa é feita pelo Procon em convênio com o Dieese.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-048</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-048</field>
+<field name="date">950714</field>
+<text_pt>
 As ações de despejo por falta de pagamento de aluguel no Fórum da cidade de São Paulo diminuíram 7,35% em junho, comparadas com o mês anterior. Foram recebidos pelo Fórum 3.404 requerimentos solicitando a retomada do imóvel. Em relação a igual período de 94, quando entraram no Fórum 1.601 pedidos de despejo, as ações aumentaram 112,62%. Os dados são da Hubert Imóveis.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-049</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-049</field>
+<field name="date">950714</field>
+<text_pt>
 O total de energia elétrica consumido pelas indústrias na área de concessão da Eletropaulo, foi de 2.419 gw/h (gigawatts por hora) em junho. Na comparação com 2.301 gw/h de maio, o consumo subiu 5,13%. Sobre igual mês de 94, houve avanço de 5,36%. No semestre, as indústrias consumiram volume 6,26% superior ao total registrado no mesmo período do ano passado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-050</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-050</field>
+<field name="date">950714</field>
+<text_pt>
 MAILSON DA NÓBREGA 
 A expressão ``sabedoria convencional" foi cunhada pelo economista John Kenneth Galbraith há 37 anos. Representa a enunciação de uma idéia de grande aceitabilidade, que o público deseja ouvir ou falar. Costuma ter a aprovação geral porque satisfaz o ego. O indivíduo sente prazer em saber que pessoas famosas compartilham suas conclusões.
 O debate recente sobre a desindexação no Brasil é um bom exemplo. O governo tomou a frente. Era preciso desindexar. Em seguida, baixou uma tortuosa medida provisória que criou a livre negociação com liberdade limitada.
@@ -864,9 +864,9 @@ MAILSON DA NÓBREGA, 53, ex-ministro da Fazenda e sócio-diretor da MCM Consultore
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-051</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-051</field>
+<field name="date">950714</field>
+<text_pt>
 ANDRÉ FRANCO MONTORO FILHO 
 Recentemente aprovada pela Assembléia Legislativa de São Paulo, a Lei de Diretrizes Orçamentárias (LDO) foi alvo de críticas por parte de deputados da oposição, que sustentaram que a área social _saúde, educação, segurança pública e habitação_ não fora priorizada pelo projeto do governo.
 Essas críticas, que obtiveram repercussão na imprensa, além de infundadas, revelam no mínimo desinformação, se é que não uma profunda má vontade para compreender o verdadeiro espírito da LDO.
@@ -883,9 +883,9 @@ ANDRÉ FRANCO MONTORO FILHO, 51, doutor em economia pela universidade de Yale (EU
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-052</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-052</field>
+<field name="date">950714</field>
+<text_pt>
 DENISE CHRISPIM MARIN
 De Buenos Aires 
 O governo argentino decidiu liberar as empresas privadas que estejam em dia com o sistema previdenciário de pagar uma parcela dos encargos trabalhistas.
@@ -898,9 +898,9 @@ Agora, seis governadores aliados ao presidente argentino, Carlos Menem, reivindi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-053</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-053</field>
+<field name="date">950714</field>
+<text_pt>
 Há muitas complexidades na definição da nova política trabalhista. O ideal seria desenhar um modelo que permitisse acordos trabalhistas no âmbito de cada empresa. É o melhor caminho para produzir soluções criativas, amadurecer relações trabalhistas e permitir pactos de produtividade.
 Além disso, é sofisma julgar que o emprego está defendido pela legislação atual. Nos últimos dias, divulgaram-se vários casos de setores onde grassa o mais completo desemprego _como prova de que não se pode partir para a livre negociação.
 Como a livre negociação não entrou em vigor, presume-se que esse desemprego se deu à sombra da legislação em vigor.
@@ -926,9 +926,9 @@ Para o segundo tempo das reformas, o presidente precisa urgentemente incorporar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-054</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-054</field>
+<field name="date">950714</field>
+<text_pt>
 Reservas podem chegar US$ 34,6 bi este mês; em abril, Brasil tinha US$ 30 bi 
 Da Redação 
 Nos primeiros 12 dias deste mês, as entradas de dólares no Brasil superaram as saídas em US$ 1,586 bilhão (o equivalente 176 mil carros Fusca). Os dólares que já entraram no país engordaram as reservas internacionais brasileiras (dinheiro que o país dispõe para pagar suas contas).
@@ -942,9 +942,9 @@ Nos primeiros 12 dias deste mês, o fechamento de câmbio de exportação (vendas ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-055</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-055</field>
+<field name="date">950714</field>
+<text_pt>
 CARLOS ALBERTO DE SOUZA
 Da Agência Folha, em Porto Alegre
 O presidente do Banco Central, Gustavo Loyola, previu ontem que haverá superávit da balança comercial nos próximos 12 meses. Segundo ele, neste segundo semestre haverá uma reversão do déficit atual.
@@ -960,9 +960,9 @@ Loyola disse que o padrão de importações do Brasil é bastante ``sadio", pois se 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-056</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-056</field>
+<field name="date">950714</field>
+<text_pt>
 Índices das Bolsas se estabilizam; ações do Banespa chegam a registrar alta de 9%, mas fecham em queda 
 RODNEY VERGILI
 Da Redação 
@@ -1010,9 +1010,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-057</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-057</field>
+<field name="date">950714</field>
+<text_pt>
 Da Reportagem Local 
 Na próxima terça-feira, dia 19 deste mês, os donos de carros poderão ter que abastecer seus próprios veículos nos postos de combustíveis em todo o país entre 6h e 12h.
 Um protesto dos donos de postos contra o governo levará ao funcionamento em regime de atendimento self-service (o consumidor abastece). Isso poderá provocar fila nos postos, pois o brasileiro não está habituado a abastecer o carro.
@@ -1026,9 +1026,9 @@ Segundo o Sincopetro, as distribuidoras têm condições de repassar parte de seus 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-058</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-058</field>
+<field name="date">950714</field>
+<text_pt>
 Das agências internacionais 
 A Renault, emblema francês do capitalismo de Estado, vai se converter em empresa privada.
 Depois de uma abertura parcial ao capital privado durante o quarto trimestre do ano passado, o recém-empossado governo francês -que está acelerando as privatizações- resolveu vender a mais importante empresa automotriz do país.
@@ -1038,18 +1038,18 @@ Segundo o presidente da Renault, Louis Schweiter, hoje a empresa está pronta par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-059</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-059</field>
+<field name="date">950714</field>
+<text_pt>
 Da Sucursal do Rio 
 A Petrobrás anunciou ontem que as reservas de petróleo e gás do campo de Marlim, na Bacia de Campos (RJ), são 875 milhões de barris de petróleo e gás maiores que os números anteriormente divulgados. Com a reavaliação, as reservas do campo passam de 1,6 bilhão para cerca de 2,5 bilhões de petróleo e gás.
 O aumento das reservas em Marlim representa quase 25% das reservas comprovadas de que a Petrobrás tinha até então, que eram de aproximadamente 4 bilhões de barris de petróleo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-060</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-060</field>
+<field name="date">950714</field>
+<text_pt>
 Índices das Bolsas se estabilizam; ações do Banespa chegam a registrar alta de 9%, mas fecham em queda 
 RODNEY VERGILI
 Da Redação 
@@ -1098,9 +1098,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-061</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-061</field>
+<field name="date">950714</field>
+<text_pt>
 Presidente afirma que preços públicos não vão subir; matéria-prima petroquímica tem aumento de 16% 
 Da Sucursal de Brasília 
 Ontem, mesmo dia em que o presidente Fernando Henrique Cardoso negou, pela terceira vez, a possibilidade de aumento das tarifas públicas, foi autorizado, à noite, reajuste de 16% na nafta, matéria-prima da indústria petroquímica, que tem seu preço controlado pelo governo.
@@ -1116,9 +1116,9 @@ Por causa de um acordo entre a Petrobrás e a Associação Brasileira da Indústria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-062</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-062</field>
+<field name="date">950714</field>
+<text_pt>
 A partir de hoje, o Departamento de Trânsito inicia em Pernambuco uma campanha para orientar motoristas sobre o uso do cinto de segurança, sem cobrança de multa. O governador de Pernambuco, Miguel Arraes (foto), deve sancionar no início de agosto lei que obriga o uso do cinto nas estradas do Estado.
 
 Juiz decreta prisão de três por crime no CE
@@ -1132,9 +1132,9 @@ O Ministério Público Federal está recebendo inscrições para o 14º Concurso Públi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-063</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-063</field>
+<field name="date">950714</field>
+<text_pt>
 
 Da Reportagem Local 
 O governador Mário Covas afirmou ontem que poderá tirar das mãos da Polícia Civil o presídio especial onde ficam os policiais civis presos. O presídio passaria para o controle da Secretaria da Administração Penitenciária.
@@ -1152,9 +1152,9 @@ Ontem, a advogada do Sindicato dos Investigadores da Polícia Civil de São Paulo,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-064</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-064</field>
+<field name="date">950714</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha 
 Você se lembra, ó histriônico leitor, daquela cena do filme ``O Sentido da Vida", do Monty Python, em que uma equipe da saúde pública entra na casa de um cidadão e extirpa-lhe o fígado a sangue frio só porque na ficha do hospital consta que ele deveria doar o órgão naquele dia?
@@ -1169,9 +1169,9 @@ Claro, nos últimos anos a medicina avançou, e muito, na área dos transplantes. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-065</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-065</field>
+<field name="date">950714</field>
+<text_pt>
 Hugh Grant, o ator inglês pego em flagra no carro com uma tronga de lábios de Mick Jagger, foi quarta ao programa ``Larry King Live", da rede CNN de notícias. Poderia ter sido a entrevista mais apimentada da semana, mas Larry King preferiu transitar por amenidades. Por quê? Eu explico: o próximo filme de Hugh Grant será produzido pela Turner Corporation, que vem a ser a holding a qual pertence a CNN. Ê, mundinho...
 
 Voga 
@@ -1182,9 +1182,9 @@ Maldade
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-066</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-066</field>
+<field name="date">950714</field>
+<text_pt>
 VOLNEI GARRAFA 
 A legislação que dipõe sobre a retirada e transplante de partes do corpo humano com fins terapêuticos, tem pouco mais de dois anos. Foi elaborada pelo governo, Congresso e Conselho Federal de Medicina, avançando com relação àquela de 1968.
 A doação inter vivos estendeu-se a todos os graus de parentesco, primos até segundo grau inclusive, cunhados e entre cônjuges. As sociedades maduras avançam devagar, mas com firmeza; e foi isso que aconteceu no caso.
@@ -1201,9 +1201,9 @@ VOLNEI GARRAFA, 48, pós-doutorado em bioética pela Universidade de Roma, é profe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-067</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-067</field>
+<field name="date">950714</field>
+<text_pt>
 A CUT (Central Única dos Trabalhadores) aprovou ontem a realização da ``Jornada Zumbi pela Vida" _uma caminhada da cidade de São Paulo até a igreja da cidade de Aparecida (170 km a nordeste de SP), onde será celebrada uma missa. Segundo o presidente da CUT, Vicente Paulo da Silva, o Vicentinho (foto), a idéia é fazer um protesto contra o trabalho escravo, a discriminação racial e celebrar os 300 anos da morte de Zumbi.
 
 Ministério Público Federal faz concurso
@@ -1211,9 +1211,9 @@ O Ministério Público Federal está recebendo inscrições para o 14º Concurso Públi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-068</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-068</field>
+<field name="date">950714</field>
+<text_pt>
 Severina M. Medeiros reclama da demora do INSS na liberação de sua pensão.
 A leitora diz que seu marido morreu uma semana após ter dado entrada na aposentadoria, em agosto de 94. 
 Ela acrescenta que a aposentadoria do marido foi liberada em dezembro do mesmo ano. Severina diz ter dado entrada no pedido de pensão logo em seguida.
@@ -1227,9 +1227,9 @@ Cartas para ``A Cidade é Sua" devem ser enviadas para a Editoria de Cidades, Red
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-069</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-069</field>
+<field name="date">950714</field>
+<text_pt>
 Colocação de palmilhas nos trilhos elimina barulhos e vai permitir que o metrô funcione até a meia-noite 
 Da Reportagem Local 
 O horário de funcionamento do ramal Paulista do metrô pode ser estendido até meia-noite ainda este ano. A mudança depende apenas da colocação de palmilhas de fixação nos trilhos para acabar com os ruídos e vibrações que são sentidos nos imóveis da região.
@@ -1247,9 +1247,9 @@ Segundo a direção do metrô de São Paulo, esta solução foi escolhida por não exig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-070</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-070</field>
+<field name="date">950714</field>
+<text_pt>
 Da Folha ABCD 
 A estudante E.C.M., 17, registrou queixa ontem à tarde na Delegacia da Mulher de São Bernardo contra o médico cardiologista Tomas Walter Escobedo Ayala, 42.
 O médico é acusado de atentado violento ao pudor. A vítima acusa o médico de assédio sexual durante um exame de ecocardiograma feito anteontem no Centro de Saúde de São Bernardo.
@@ -1263,9 +1263,9 @@ Segundo a delegada Angela de Andrade Ferreira, 31, se for constatada a culpa do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-071</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-071</field>
+<field name="date">950714</field>
+<text_pt>
 Cidade Universitária vai continuar fechada para visitantes nos fins-de-semana por tempo indeterminado 
 Da Reportagem Local 
 O campus da Universidade de São Paulo, na zona oeste da cidade, completa nesta semana seis meses fechado para os visitantes nos fins-de-semana e feriados. A reabertura, prevista inicialmente para este mês, ainda não tem data definida.
@@ -1281,9 +1281,9 @@ Também devem acabar os eventos que possam chamar gente para o campus. Alguns sho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-072</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-072</field>
+<field name="date">950714</field>
+<text_pt>
 Jornais italianos divulgaram ontem que a transferência do lateral-esquerdo do Palmeiras já havia sido acertada com o Parma, que o emprestaria à Internazionale, de Milão. O gerente de futebol do Palmeiras, José Carlos Brunoro, negou que o negócio tenha sido fechado.
 
 Pedro Rocha define equipe no domingo
@@ -1300,9 +1300,9 @@ O ex-treinador George Graham, do Arsenal, foi acusado de receber US$ 600 mil do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-073</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-073</field>
+<field name="date">950714</field>
+<text_pt>
 O calor dos últimos três dias não combina com esta cidade típica de fronteira, onde brasileiros falam espanhol, e uruguaios, português. É um calor anacrônico.
 E, por isso mesmo, as pessoas seguem nas ruas vestindo agasalhos, como se, a qualquer momento, o vento gélido voltasse a soprar e o ar se livrasse do mormaço acalentado pelas nuvens escuras que cobrem os céus de Livramento e Rivera, duas cidades numa só.
 Mas o mais surpreendente, para um velho andarilho como eu, é a ausência de táxis. Não há táxis por aqui. Mas há congestionamento de trânsito, mesmo às duas horas da madrugada, na avenida principal, lá pelas bandas do Uruguai.
@@ -1323,9 +1323,9 @@ Vi pela TV a vitória do Santos sobre o Fla. E a expressão de Luxemburgo, em clos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-074</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-074</field>
+<field name="date">950714</field>
+<text_pt>
 O time fez uma boa campanha na Série A-2 e, como `prêmio', conquistou uma vaga para disputar o título 
 PEDRO ROCHA
 Especial para a Folha 
@@ -1346,9 +1346,9 @@ Pedro Rocha, 52, é técnico do Mogi Mirim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-075</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-075</field>
+<field name="date">950714</field>
+<text_pt>
 WILSON BALDINI JR. 
 A vitória de Maurício Amaral na última terça, em Campos do Jordão, fez ressurgir uma esperança aos ``amantes da nobre arte".
 Há muito tempo que um ringue nacional não recebia um adversário _o canadense Fitzgerald Bruney_ em condições tão boas.
@@ -1368,9 +1368,9 @@ Muhammad Ali é o exemplo. Admitiu que as derrotas para Joe Frazier (71) e Ken No
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-076</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-076</field>
+<field name="date">950714</field>
+<text_pt>
 Peter McNeeley vai receber US$ 2 milhões para ser o primeiro sparring de Mike Tyson, no dia 19 de agosto. Don King anunciou que precisa de mais sparrings para os treinamentos do ex-campeão. É US$ 1,5 mil por semana. Sem assistência médica. Dá pra encarar?
  
 O mexicano Julio César Chavez, que completou anteontem 33 anos, prepara sua despedida. O lutador quer fazer mais quatro lutas e atingir a marca dos cem combates. Ele deve lutar em setembro contra Frankie Randall.
@@ -1381,9 +1381,9 @@ Tracy Harris Patterson, filho adotivo do ex-campeão mundial dos pesados Floyd Pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-077</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-077</field>
+<field name="date">950714</field>
+<text_pt>
 Convencido de que o genro Ricardo Teixeira não tem a menor chance de sucedê-lo, João Havelange já está em campanha para tentar, em 1998, sua sexta reeleição à presidência da Fifa. Desiste, assim, de dois planos: o de transferir o posto, como se fosse hereditário, e o de se aposentar.
  
 O sueco Lennart Johansson, presidente da União Européia de Futebol, avisou que Ricardo Teixeira só presidiria a Fifa se passasse por cima do seu cadáver. E que não aceita o descumprimento da promessa feita por Havelange em não mais se candidatar. Ele acha que chegou a hora de um europeu voltar à Fifa, embora descarte o próprio nome.
@@ -1404,9 +1404,9 @@ Tomara que seja respondido depois de amanhã: por que Muller veio do Japão para j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-078</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-078</field>
+<field name="date">950714</field>
+<text_pt>
 Jornais italianos divulgaram ontem que a transferência do lateral-esquerdo do Palmeiras já havia sido acertada com o Parma, que o emprestaria à Inter de Milão. O gerente de futebol do Palmeiras, José Carlos Brunoro, negou que a negociação tenha acontecido, apenas reconheceu que o Parma, ligado à Parmalat, tem prioridade na negociação.
 
 Matthaeus precisa  de nova cirurgia
@@ -1426,9 +1426,9 @@ O francês que joga no Bayern de Munique afirmou que pretende continuar a jogar n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-079</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-079</field>
+<field name="date">950714</field>
+<text_pt>
 ZECA CAMARGO 
 Editor da Ilustrada 
 Quando a realidade é mais impressionante do que a ficção, fica difícil provocar espanto. Aliás, essa nunca foi a intenção de Jimmy McGovern, roteirista do filme ``O Padre" _em cartaz no Rio, com estréia prevista para São Paulo na próxima sexta-feira.
@@ -1450,9 +1450,9 @@ No fim, nos Estados Unidos, ``O Padre" teve sucesso de crítica e público razoáve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-080</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-080</field>
+<field name="date">950714</field>
+<text_pt>
 Da Redação 
 Então hoje estréia ``Angels in America", famosa peça, em São Paulo. O filme ``O Padre" daqui a pouco já está passando em circuito nacional. Há (finalmente) uma coletânea de contos gays brasileiros sendo lançada _e parece até que uma novela de TV vai mostrar um beijo entre dois homens.
 Alguém mais desavisado poderia até achar que a cultura brasileira está aberta para a discussão de temas homossexuais. No paraíso do liberalismo, este seria o momento crucial para se esperar que mudanças na discussão de temas (entre várias aspas) ``tão controversos" quanto a questão gay pudessem aparecer.
@@ -1471,9 +1471,9 @@ E esperar para ver no que dá.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-081</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-081</field>
+<field name="date">950714</field>
+<text_pt>
 Ferviam ontem especulações sobre a volta das negociações entre Boni e o SBT.
 *
 Enquanto Guilherme Stoliar e Luciano Calegari circulam pela Flórida, Silvio Santos, Íris e pimpolhas desfilam pela Côte D'Azur.
@@ -1536,9 +1536,9 @@ A parceria no roteiro de ``Cara e Coroa" não durou nem uma semana.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-082</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-082</field>
+<field name="date">950714</field>
+<text_pt>
 RONI LIMA
 Da Sucursal do Rio
 
@@ -1558,9 +1558,9 @@ Além de cantar antigas gravações como ``Yolanda", ``Alma", ``Sob Medida", ``Mari
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-083</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-083</field>
+<field name="date">950714</field>
+<text_pt>
 Edição com três CDs reúne 66 faixas dentre as 152 que o `cantor das multidões' gravou em seu auge vocal 
 LUÍS ANTÔNIO GIRON 
 Da Reportagem Local 
@@ -1588,9 +1588,9 @@ Mas basta um ouvido médio para constatar o misticismo da afirmação. Orlando, um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-084</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-084</field>
+<field name="date">950714</field>
+<text_pt>
 Da Reportagem Local 
 A restauração das gravações de Orlando Silva se deu por um processo inédito na música brasileira. Chama-se Cedar (Computer Enhanced Digital Audio Restoration) e foi desenvolvido em 1993 pela Universidade de Cambridge, Inglaterra.
 O engenheiro de gravação Ricardo Carvalheira, da Cia. de Áudio, de São Paulo, coordenou o trabalho. Ele explica que o Cedar retira ruídos e anomalias em tempo real. ``O disco de 78 rpm tocava ao mesmo tempo que os processadores de som iam eliminando os problemas", descreve.
@@ -1607,9 +1607,9 @@ Preço: R$ 75 (três CDs)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-085</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-085</field>
+<field name="date">950714</field>
+<text_pt>
 MARIA ERCILIA 
 Da Reportagem Local 
 ``Anos Luz" deve ser uma das raras instalações que de fato carregam o espectador através de uma experiência sensorial, em vez de simplesmente constrangê-lo com apelos grosseiros e literais.
@@ -1626,9 +1626,9 @@ Quando: Aberto ao público a partir de hoje das 14 as 22h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-086</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-086</field>
+<field name="date">950714</field>
+<text_pt>
 PAULO COELHO 
 Colunista da Folha 
 William Blake (1757-1827) foi um grande místico, poeta e pintor. Escreveu vários textos nos quais descreve suas visões espirituais. Aqui vai um destes textos:
@@ -1637,9 +1637,9 @@ Isaías disse: "Eu nunca vi Deus, nem escutei nada. Mas descobri que o infinito e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-087</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-087</field>
+<field name="date">950714</field>
+<text_pt>
 E tem babado novo na noite. E o povo ainda diz que não acontece nada. Esta semana é ponto obrigatório o bar Beijo de Judas, do Pedro e do fotógrafo Eli Sudbrack. Desta vez eles invadem o espaço da Mo'Better CDs, passagem igualmente obrigatória para quem é gente em São Paulo (ali na Nazareth Paulista, 438). É o Mercado Mix para quando não tem Mercado Mix. todo mundo vai. Hoje tem som do tal DJ Ambient e do mitológico DJ Zé Pedro. Será que ele vai?
 
 E sabe o que vai ter lá? Pescaria fashion. Aquende o caniço e ganhe uma prenda. Uma realização do multi-man (até demais) Jackson A.
@@ -1652,9 +1652,9 @@ E segunda-feira tem MO-DE-LO! Phytoervas Fashion verão na Phabrica. E precisa di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-088</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-088</field>
+<field name="date">950714</field>
+<text_pt>
 
 E o Eduardo Ferreira mandou um fax sobre a nota da semana passada dizendo que não é bem assim, que ele não está se sentindo, que ele estava só empolgado. Viu, Cristina; viu, Fernando de Barros. Claro, é normal. A gente só estava chochando um pouco _o que também é normal! Bem-vindo a São Paulo.
 
@@ -1662,9 +1662,9 @@ Finos! O Mr. Fish dos Jardins oferece coquetel de caviar e salmão pros amigos do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-089</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-089</field>
+<field name="date">950714</field>
+<text_pt>
 
 E o DJ-revelação Edu Gantous deixa o Cha Cha Cha (ah...) e vai para a nova casa gay dos Jardins, chamada Netuno. Que abre hoje, aliás. Fica na Pamplona e quer concorrer com a Rave. E a Rave faz na quarta lançamento dos discos de dance da Natasha Records. Confira o som do DJ Boris, que toca numa casa carioca chamada Balako. Nossa, o nome é uó.
 
@@ -1672,9 +1672,9 @@ E o povo do Hell's está fazendo até chill-out. Outro dia a Lu abriu a Circus dom
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-090</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-090</field>
+<field name="date">950714</field>
+<text_pt>
 Heróis infantis que viraram mania chegam ao cinema 
 INÁCIO ARAUJO
 Crítico de Cinema 
@@ -1693,9 +1693,9 @@ Nos "Cavaleiros, o saber vence a força (à la kung-fu). Mas, essencialmente, heró
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-091</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-091</field>
+<field name="date">950714</field>
+<text_pt>
 MercoMico Urgente! Argentina já pode vender seus carros no Brasil - só resta saber pra quem! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -1707,9 +1707,9 @@ E aí um senhor português disse "Evidentemente que um povo aquático". E bomba! De
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-092</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-092</field>
+<field name="date">950714</field>
+<text_pt>
 SOS Mata Atlântica pede ajuda aos `homeless' da floresta, forçando piedade por vítimas desinteressantes 
 MARCELO COELHO
 Da Equipe de Articulistas 
@@ -1747,9 +1747,9 @@ O porteiro do meu prédio, vendo a foto dos ratinhos, disse: "Acho que isso é um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-093</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-093</field>
+<field name="date">950714</field>
+<text_pt>
 BIA ABRAMO 
 Da Reportagem Local 
 
@@ -1769,9 +1769,9 @@ O lançamento do filme pretende aproveitar o interesse em torno de Grant causado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-094</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-094</field>
+<field name="date">950714</field>
+<text_pt>
 DANIELA FALCÃO
  De Nova York 
 A comédia ``Nine Months" (Nove Meses) estreou anteontem em Nova York e Los Angeles com várias sessões esgotadas.
@@ -1785,9 +1785,9 @@ A cena que tem mais semelhança com os episódios recentes da vida de Grant, entre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-095</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-095</field>
+<field name="date">950714</field>
+<text_pt>
 FERNANDA SCALZO
 Da Reportagem Local 
 
@@ -1809,9 +1809,9 @@ Funciona. Há cenas ótimas, como a do guarda-costas e do comissário dançando ``A 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-096</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-096</field>
+<field name="date">950714</field>
+<text_pt>
 MARCELO REZENDE 
 Da Reportagem Local 
 
@@ -1830,9 +1830,9 @@ Mas o discípulo Frankel, apesar do esforço, permanece distante da grandeza de Al
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-097</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-097</field>
+<field name="date">950714</field>
+<text_pt>
 Novo restaurante no Itaim prova que profissionalismo de proprietários e `staff' ainda é a chave do negócio 
 JOSIMAR MELO 
 Especial para a Folha 
@@ -1849,9 +1849,9 @@ No cômputo geral, o Bar des Arts mostra-se um acerto. Se mantiver os preços (com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-098</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-098</field>
+<field name="date">950714</field>
+<text_pt>
 
 MADE IN ITALY - Entre os pratos de inverno introduzidos neste mês nos cardápios da cidade está a "pasta e fagioli, servida pelo Marechiaro (al. Gabriel Monteiro da Silva, 1.878, tel. 852-6520). Nesta versão paulistana, o prato é feito com a combinação de três tipos de massa, feijão-branco e frutos do mar.
 
@@ -1859,9 +1859,9 @@ MADE IN ITALY - Entre os pratos de inverno introduzidos neste mês nos cardápios 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-099</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-099</field>
+<field name="date">950714</field>
+<text_pt>
 RENATA FRANCO
  Free-Lance para a Folha 
 Neste ano, em que o frio chegou antes do inverno e parece não estar querendo ir embora, a sopa ganha status de primeiro prato e conquista a cidade. As opções são tantas que dá até para tomar uma sopa diferente a cada dia do inverno (veja quadro ao lado).
@@ -1878,9 +1878,9 @@ Paladares afeitos a exotismos se deliciarão com o creme tailandês de banana com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-100</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-100</field>
+<field name="date">950714</field>
+<text_pt>
 JORGE CARRARA 
 Especial para a Folha 
 Estão chegando às lojas da cidade as primeiras garrafas dos vinhos da Santa Mônica, jovem vinícola chilena.
@@ -1895,9 +1895,9 @@ O Cabernet, encorpado e com boa textura, tem aroma curto, mas agradável (kirsh, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950714-101</text_pt>
-<text_pt name="date">950714</text_pt>
-<text_pt name="text">
+<field name="id">FSP950714-101</field>
+<field name="date">950714</field>
+<text_pt>
 HAMILTON MELLÃO JR.
 Especial para a Folha 
 Existe uma confusão impossível. Chama-se de manjericão a manjerona e vice-versa. O sufixo ``ão" qualifica aumentativo e portanto manjericão tem as folhas maiores, ao contrário da sua prima manjerona, que tem as folhas menores. Apesar de eles terem sabores ligeiramente parecidos, com o menor tendo um gosto mais anisado, possuem funções gastronômicas completamente distintas.

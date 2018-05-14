@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940329-001</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-001</field>
+<field name="date">940329</field>
+<text_pt>
 Aos poucos e sem o alarde de uma nova MP, vai o governo clarificando aspectos essenciais do plano de estabilização. A principal novidade, sublinhada pelo presidente do Banco Central, Pedro Malan, na última sexta-feira, é a decisão de anunciar com 35 dias de antecedência a criação do real.
 Embora o uso da URV seja obrigatório em contratos envolvendo prazos superiores a 30 dias, por enquanto comércio e indústria na maioria dos casos negociam com sucesso apenas parcial, preferindo muitas vezes manter-se em prazos menores dada a incerteza sobre os novos passos do governo. Teme-se que, demorando o real, preços em URV sejam atropelados por custos à frente desse indexador.
 Contra essa incerteza o governo pouco ou nada pode fazer. Afinal, a URV é uma média de índices de preços e haverá sempre preços acima e abaixo dessa média. A URV é apenas a aposta na possibilidade de os agentes convergirem na média.
@@ -13,9 +13,9 @@ De um lado, a simples eliminação do fator surpresa tira fôlego às manobras espec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-002</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-002</field>
+<field name="date">940329</field>
+<text_pt>
 Num país economicamente tão instável quanto o Brasil, mudanças em um posto-chave como o Ministério da Fazenda facilmente dão causa para especulações, insegurança e incerteza. Nesse sentido, a virtual desincompatibilização de Fernando Henrique Cardoso e a sua provável substituição pelo embaixador Rubens Ricupero, atual ministro da Amazônia Legal e do Meio Ambiente, chama a atenção ao acenar com uma transição sem turbulências ou surpresas.
 Ao contrário de outros nomes que chegaram a ser cogitados, o de Ricupero é visto como um que reúne simultaneamente dois atributos desejáveis: boas relações com o presidente Itamar Franco e disposição de dar prosseguimento ao plano de estabilização, sem modificações. Declarações do próprio diplomata, de fato, indicam que, se for confirmado no cargo, não pretende alterar a composição da equipe econômica. Como ninguém ignora que a elaboração técnica do programa econômico &#150;bem como o seu monitoramento e implementação&#150; são de responsabilidade exatamente dessa equipe, a sua permanência já seria uma bem-vinda garantia de continuidade. A repercussão publicada hoje por esta Folha ratifica a perspectiva de que a indicação seria vista com tranquilidade.
 Continua enorme, no entanto, o desafio para o titular da Fazenda, que é o de pilotar um plano complexo e semi-acabado através das turbulências da economia nacional &#150;turbulências às quais se devem somar as tensões advindas da aproximação das eleições. As últimas semanas revelaram muitos impasses e incertezas quanto ao plano que terão de ser resolvidos o quanto antes. A votação das medidas econômicas no Congresso pode ser ainda mais dificultada pelos interesses eleitorais. Há, por fim, a inquietante e persistente alta da inflação.
@@ -23,9 +23,9 @@ Ser recebido com tranquilidade sem dúvida tornaria menos árdua a tarefa de Ricup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-003</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-003</field>
+<field name="date">940329</field>
+<text_pt>
 Ao determinar em caráter provisório que o Executivo deposite em juízo a diferença salarial dos servidores do Legislativo e do Tribunal de Contas da União que vem causando parte da crise entre os Poderes, o Supremo Tribunal Federal (STF) marca a reafirmação de sua posição anterior.
 Ainda assim, evidenciou sua disposição de não atravessar a linha do confronto total, que seria aparentemente inevitável se tivesse decidido mandar que o Executivo pagasse de imediato tais servidores.
 Espera-se agora que Itamar Franco seja sensível ao espaço de negociação aberto pelo Supremo e não se furte à necessária negociação. O Executivo agiu bem, inicialmente, ao manter pulso firme na exigência de que os salários do funcionalismo civil e militar sejam convertidos pela média do dia 30 dos meses de novembro a fevereiro.
@@ -35,9 +35,9 @@ Enfim, os representantes dos três Poderes devem ter em mente que são independent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-004</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-004</field>
+<field name="date">940329</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Virtualmente definida a candidadura de Fernando Henrique Cardoso à Presidência, o PT, até agora líder em todas as pesquisas sobre a sucessão, admite que pode sofrer algum prejuízo. "A sua base social, as classes médias, em muitos casos coincide com a nossa", avalia Marco Aurélio Garcia, coordenador do programa de governo petista.
 Prejuízo que tende a ser maior pelos "trunfos" que Marco Aurélio, falando mais como sociólogo que é do que como coordenador, reconhece no novo candidato, a saber: "Apoio generalizado na mídia, apoio empresarial muito grande e o desempenho do programa econômico, sobre o qual, no entanto, pesam grandes interrogações".
@@ -48,9 +48,9 @@ A grande dúvida na cabeça do coordenador petista é esta: "Os demais concorrentes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-005</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-005</field>
+<field name="date">940329</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Vou tocar hoje num tema delicadíssimo &#150;e é um dos principais assuntos dos bastidores da sucessão presidencial, revelando o jogo sujo que se está armando. Aqui e ali, candidatos já fazem insinuações de que Fernando Henrique Cardoso teria um filho fora do casamento. E indicam que, se necessário, explorariam o tema na campanha. É correto?
 Numa entrevista à revista "Exame", Fernando Henrique Cardoso acaba de abordar abertamente essa questão. Reproduzo trecho: "Dizem que tenho uma mulher aqui, outra ali, um filho. Isso é uma besteirada. Essas coisas não se sustentam. Vão falar um milhão de coisas a meu respeito. Isso não tem nada a ver com a vida pública nem privada. Do Quércia dizem outra coisa, não vou entrar nisso".
@@ -62,9 +62,9 @@ PS &#150; O mais canalha do jogo sujo das campanhas é que sofrem mais as pessoas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-006</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-006</field>
+<field name="date">940329</field>
+<text_pt>
 José Serra
 No Brasil, no final do século 20, ainda existem cidadãos de primeira e segunda classes. É o que demonstram centenas de cartas que tenho recebido nos últimos meses. Cidadãos de segunda classe, por exemplo, são os que precisam matricular os filhos numa escola pública, operar-se num hospital do Estado ou simplesmente requerer ao INSS as aposentadorias a que têm direito.
 Considere-se, por exemplo, o atendimento do INSS. Um trabalhador morre prematuramente e a viúva precisa da pensão assegurada em lei. Surge a primeira dificuldades: é preciso requerer o benefício e as filas são enormes em qualquer posto do INSS. Precisando desesperadamente da pensão, a viúva amargurada chega ao posto de madrugada, ou paga para alguém guardar um lugar na fila. E, muitas vezes, depois de horas de espera, é informada de que não é mais possível atendê-la e precisa retornar.
@@ -78,9 +78,9 @@ José Serra escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-007</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-007</field>
+<field name="date">940329</field>
+<text_pt>
 Luiz Caversan
 RIO DE JANEIRO &#150; É extremamente importante que novos detalhes &#150;históricos, pitorescos, ridículos alguns&#150; sobre o movimento militar de 31 de março de 1964 venham à tona. Assim como é preciso lembrar o que foram os anos de regime militar. No mínimo para que não se perca na poeira do tempo a escuridão sob a qual fomos obrigados a viver.
 Saber que o presidente que seria deposto estava "doidão" &#150;tomara estimulantes com uísque&#150; quando fez o inflamado discurso para a plebe militar em 30 de março é hilariante, hoje. Assim como é compreensível descobrir que muitas mágoas se esvaíram, embora as feridas dos torturados permaneçam na forma de cicatrizes ou na lembrança dos amigos que os perderam.
@@ -93,9 +93,9 @@ A história os julgará melhor que eu. Mas eis, com o risco da arrogância, o meu v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-008</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-008</field>
+<field name="date">940329</field>
+<text_pt>
 "Congratulamo-nos com a Folha e o Sebrae pelo feliz lançamento dos fascículos Qualidade Total, que representam uma grande contribuição e incentivo às mudanças com vistas à qualidade e produtividade e, consequentemente, à maior competitividade."
 Jacob Daghlian, diretor-secretário e relações internacionais da Associação Nacional dos Cursos de Graduação em Administração (São Bernardo do Campo, SP)
 
@@ -168,9 +168,9 @@ Javier Mateo Arana (Santos, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-009</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-009</field>
+<field name="date">940329</field>
+<text_pt>
 MARCO MACIEL
 O primeiro século da nossa vida independente foi o século da escravidão. O segundo está se transformando no século da submissão. Fomos um dos últimos países do mundo a abolir a escravidão. Provavelmente seremos o últimos também, dentre os países de expressão mundial, a conseguir a integração social da maioria marginalizada do nosso povo. É isto que faz do Brasil a esquina do século 21: o país da submissão ao jugo da injustiça.
 A permanência recalcitrante de uma inflação que já dura pelo menos quatro décadas terminou por corroer a confiança da sociedade na economia nacional, transformando o país em uma das nações mais conflitivas e injustas sob o ponto de vista social.
@@ -195,9 +195,9 @@ MARCO MACIEL, 53, é senador pelo PFL de Pernambuco e líder do partido no Senado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-010</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-010</field>
+<field name="date">940329</field>
+<text_pt>
 MIGUEL ARRAES
 A longa conspiração havia começado na posse do presidente João Goulart, intensificando-se depois do plebiscito que lhe restituiu os poderes perdidos no acordo com os militares. Alguns setores indicavam uma saída pacífica para a crise que antecedeu o golpe. O lançamento prematuro e simultâneo das candidaturas de Juscelino Kubitschek, pelo PSD, e de Carlos Lacerda, pela UDN, parece conter esse aviso.
 Mas, naquela ocasião, o golpe já estava em andamento. Um desfecho, entretanto, dependia de pretexto interno, a ser fornecido pelo governo. E também de suporte internacional, que lhe foi dado, de acordo com documentação publicada muito depois e com fatos conhecidos na época, mas não divulgados, como a presença de navios estrangeiros nas costas brasileiras.
@@ -218,9 +218,9 @@ MIGUEL ARRAES, 77, é deputado federal do PSB de Pernambuco. Era governador de Pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-011</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-011</field>
+<field name="date">940329</field>
+<text_pt>
 Maluf era ontem menos candidato do que parecia ser na sexta. Caciques do PPR que apostavam tudo na desincompatibilização do prefeito estão agora na dúvida. Preocupados com FHC, os tucanos comemoram. Cedo demais.
 
 Compensação
@@ -252,9 +252,9 @@ De Aloizio Mercadante (PT-SP), sobre a virtual substituição de FHC na Fazenda:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-012</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-012</field>
+<field name="date">940329</field>
+<text_pt>
 Os problemas salariais entre Executivo, Legislativo e militares não são primazia do governo Itamar Franco. Durante a gestão do presidente Ernesto Geisel, o Congresso era presidido pelo senador Magalhães Pinto &#150;velha "raposa" da política mineira.
 Havia na época uma questão delicada a respeito dos vencimentos dos congressistas e Magalhães convidou o então deputados Célio Borja, que ocupava a presidência da Câmara, para acompanhá-lo em uma audiência com o general.
 Já adivinhando o motivo da visita dos parlmentares, Geisel recebeu-os de pé. Como se não bastasse, foi logo dando um tapa na mesa, antes que os visitantes pudessem falar qualquer coisa. Ao perceber o clima pesado, Magalhães usou toda a sua experiência:
@@ -263,9 +263,9 @@ Borja, que pegara uma carona na audiência do colega senador, obviamente nada tin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-013</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-013</field>
+<field name="date">940329</field>
+<text_pt>
 Ministro afirma que Lula 'mostra estar preocupado em perder a eleição'
 Da Reportagem Local
 O ministro da Fazenda, Fernando Henrique Cardoso (PSDB), afirmou ontem que vai anunciar na próxima quarta-feira, dia 30, se permanece ou não no cargo.
@@ -292,9 +292,9 @@ Sobre as eleições de outubro à pág. 1-10
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-014</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-014</field>
+<field name="date">940329</field>
+<text_pt>
 A escolha do ministro Rubens Ricupero para substituto de Fernando Henrique significa a retomada das rédeas do governo pelo presidente Itamar Franco, em conformidade com o que seus assessores políticos, os oficiais e sobretudo os oficiosos, lhe vinham propondo. Embora fosse uma probabilidade já muito presente no noticiário, a escolha surpreendeu a equipe econômica e, para Fernando Henrique, não deixou de ser uma tripla derrota política &#150;pela recusa à sua indicação, por negar o que informara à equipe e a correligionários políticos e, ainda, pelos esperáveis efeitos futuros.
 O presidente Itamar não fez qualquer restrição quando, a meio da semana, Fernando Henrique lhe propôs que Pedro Malan fosse o seu substituto e Pérsio Arida se deslocasse do BNDES par o atual lugar de Malan, a presidência do Banco Central. Mencionou Ricupero como pessoa também qualificada para a substituição. Fernando Henrique concordou, e nem teria por que discordar, mas reafirmou seus argumentos em defesa da sugestão apresentada. Como não houve objeções, saiu certo de que tivera êxito e comunicou este resultado à equipe e a alguns correligionários.
 Tão segura estava a equipe da escolha de Malan que, na sexta-feira, um restrito grupo de empresários reunidos com o ministro Beni Veras e com Pérsio Arida, em Recife, soube das substituições tidas como certas. Um dos empresários chegou a brincar com Arida, dizendo que ele falava pela última vez em uma condição, de presidente do BNDES, que em 72 horas já não teria. Ao que Arida respondeu: "Mas não diz isso, não, que pode dar azar".
@@ -305,9 +305,9 @@ A idéia central do plano ficará. Mas o que a circunda tende a mudar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-015</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-015</field>
+<field name="date">940329</field>
+<text_pt>
 Tucanos procuraram Ricupero para manter assessores de FHC na Fazenda
 Da Sucursal de Brasília
 O PSDB e a equipe econômica temem que, definida a candidatura do ministro Fernando Henrique Cardoso à Presidência, o presidente Itamar Franco interfira nos rumos do plano de estabilização econômica.
@@ -331,9 +331,9 @@ A queda da inflação traria dificuldades para o caixa do Tesouro Nacional. O gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-016</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-016</field>
+<field name="date">940329</field>
+<text_pt>
 O pré-candidato do PT, Luiz Inácio Lula da Silva, vai processar o prefeito Paulo Maluf (PPR). Em entrevista ao jornal "O Globo", Maluf afirmou que Lula "é um desqualificado remunerado pelo PC Farias". Lula entende que Maluf cometeu crimes de difamação, calúnia e injúria.
 
 Garcia afirma aceitar que PFL indique o vice
@@ -341,9 +341,9 @@ O governador de Minas, Hélio Garcia (PTB), disse que a escolha de alguém do PFL 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-017</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-017</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal do Rio
 O governador de São Paulo, Luiz Antonio Fleury Filho (PMDB), alertou empresários, reunidos ontem em almoço na Associação Comercial do Rio, que, de agora em diante, o que o ministro Fernando Henrique Cardoso falar "não será mais uma palavra de ministro, mas sim de candidato".
 Fleury afirmou que está torcendo para que a troca de ministro da Fazenda não enfraqueça o plano econômico. Na opinião do governador, FHC tem todo o direito de disputar a Presidência.
@@ -357,9 +357,9 @@ O governador de São Paulo disse ainda que cabe ao candidato que será escolhido p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-018</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-018</field>
+<field name="date">940329</field>
+<text_pt>
 O senador José Sarney defende as prévias; líder do partido na Câmara lança candidatura de Íris Rezende
 DENISE MADUEÑO
 RAQUEL ULHÔA
@@ -377,9 +377,9 @@ Segundo ele, o Conselho Nacional do PMDB aprovou, na semana passada, uma resoluç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-019</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-019</field>
+<field name="date">940329</field>
+<text_pt>
 CLÓVIS ROSSI
 Da Reportagem LocalO presidente nacional do PFL, Jorge Bornhausen, telefonou ontem para o senador Espiridião Amin (SC), presidente nacional do PPR, para formalizar o apoio do PFL à candidatura Amin ao governo catarinense. Na prática, o telefonema significa limitar apenas ao plano nacional uma eventual coligação PSDB-PFL.
 Essa conclusão é inevitável quando se conhece o quadro sucessório em Santa Catarina. O PSDB já tem um candidato virtualmente lançado, o ex-senador Jaison Barreto, com o apoio, aliás, do PT. O PFL só tem candidato a senador, o governador Vilson Kleinubing.
@@ -392,9 +392,9 @@ Ou, em outras palavras, o PFL serve tanto para Paulo Maluf, potencial candidato 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-020</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-020</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal de Brasília
 A Câmara dos Deputados deverá votar o pedido de cassação do deputado Ézio Ferreira (PFL-AM) na terça-feira da próxima semana. Hoje ele será julgado pela CCJ (Comissão de Constituição e Justiça) da Câmara.
 Ézio deverá ser o primeiro dos 17 deputados acusados pela CPI do Orçamento a ser cassado pela Câmara. O relator do processo na CCJ, deputado Neiva Moreira (PDT-RJ), concluiu pela cassação do deputado.
@@ -405,9 +405,9 @@ Apresentada a defesa, começam as discussões. Cada deputado membro da comissão te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-021</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-021</field>
+<field name="date">940329</field>
+<text_pt>
 Legislativo estuda alternativas para que a data de conversão salarial pelo dia 30 seja retroativa a março
 Da Sucursal de Brasília
 A decisão tomada ontem pelo STF (Supremo Tribunal Federal) vai permitir que o Congresso vote um novo texto para resolver a crise dos salários. "Agora temos tempo para negociar", disse o presidente da Câmara, Inocêncio Oliveira (PFL-PE).
@@ -429,9 +429,9 @@ Segundo ele, se não houver problemas jurídicos, o projeto poderá ser votado até 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-022</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-022</field>
+<field name="date">940329</field>
+<text_pt>
 O ministro Fernando Henrique Cardoso nasceu no Rio de Janeiro em 18 de junho de 1931, e não em São Paulo, como informa erradamente o quadro.ERRAMOS
 STF manda governo devolver os 10,9%
 Por enquanto, decisão só beneficia o Legislativo; dinheiro ficará depositado em juízo até a decisão final
@@ -454,9 +454,9 @@ Bastaria que o Executivo impetrasse no STF um mandado de segurança contra a deci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-023</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-023</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal do Rio
 O governador de São Paulo, Luiz Antonio Fleury Filho, afirmou ontem que "faltou bom senso e espírito público" na solução da crise entre os três Poderes.
 Segundo ele, "faltou uma visão mais abrangente do país" ao presidente Itamar Franco, o Judiciário "tomou uma decisão inadequada para o momento" e o Congresso acabou tendo tempo de voltar atrás.
@@ -468,9 +468,9 @@ Para Fleury, se o presidente mantiver o texto original da MP, "vai sujeitar o go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-024</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-024</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Um grupo de publicitários fez chegar ao ministro Fernando Henrique Cardoso no fim-de-semana os dados preliminares de uma pesquisa que visa testar sua viabilidade como candidato à Presidência.
 Os dados mostram que, para a maioria das 1.500 pessoas ouvidas em todo o país, o plano econômico tem mais chance de êxito se FHC for o sucessor de Itamar Franco.
@@ -481,9 +481,9 @@ Entre eles estão Roberto Duailibi, sócio da DPZ, Geraldo Walter e Nizan Guanaes,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-025</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-025</field>
+<field name="date">940329</field>
+<text_pt>
 ADELSON BARBOSA
 Da Agência Folha, em João Pessoa
 O virtual candidato do PT à Presidência, Luiz Inácio Lula da Silva, disse ontem em João Pessoa (PB) que o ministro Fernando Henrique Cardoso estaria reunindo os políticos conservadores do país contra a sua candidatura.
@@ -497,9 +497,9 @@ D. José disse que Lula, Fernando Henrique Cardoso e Leonel Brizola "são homens q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-026</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-026</field>
+<field name="date">940329</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Foi um desabafo e tinha que ser no Aqui Agora. A semana começou longe da crise dos três poderes, longe da implantação do plano FHC. É uma semana de políticos em revoada, ou debandada, duas expressões usadas pelo noticiário popularesco, procurando demonstrar a sua revolta diante dos governantes em geral. Em certos casos, só faltou dar o nome.
@@ -513,9 +513,9 @@ E soltou os cachorros: "Deve ser um equívoco, um equívoco sacana do PMDB, ou mai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-027</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-027</field>
+<field name="date">940329</field>
+<text_pt>
 Inocêncio e Lucena não assumirão
 Da Sucursal de Brasília
 A partir do dia 2 de abril próximo, o presidente Itamar Franco terá que ceder seu gabinete para seu atual desafeto, o presidente do STF, ministro Octávio Gallotti, sempre que viajar ao exterior.
@@ -531,9 +531,9 @@ A consulta feita ao TSE não especifica se é ou não necessário que Inocêncio e Lu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-028</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-028</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal de Brasília
 Além do ministro da Fazenda, Fernando Henrique Cardoso, Maurício Corrêa (Justiça), Walter Barelli (Trabalho) deixan o cargo esta semana para concorrer as eleições de outubro.
 O sucessor de Corrêa na Justiça será Alexandre de Paula Martins Dupeyrat, atual acessor jurídico especial do Palácio do Planalto. Amigo de Itamar, Dupeyrat tem hoje a tarefa de reformular a legislação de defesa da livre-concorrência.
@@ -542,9 +542,9 @@ Uma das principais tarefas de Dupeyrat à frente da Justiça será reformular o Cad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-029</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-029</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal de Brasília
 O relator do Congresso revisor, deputado Nelson Jobim (PMDB-RS), conclui hoje os pareceres com as propostas de alteração do Título VII da Constituição, sobre a Ordem Econômica e Financeira.
 Em seus pareceres, Jobim defende a "flexibilização" do monopólio do petróleo, ou seja, o controle continuaria nas mãos da União, mas empresas privadas poderiam explorar o produto através de contratos de concessão.
@@ -556,9 +556,9 @@ Os pareceres de Jobim sobre os dois assuntos serão baseados na proposta do grupo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-030</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-030</field>
+<field name="date">940329</field>
+<text_pt>
 IVANIR JOSÉ BORTOT
 Da Sucursal de Brasília
 A mudança de titular no Ministério da Fazenda não deve trazer mudanças na equipe econômica. Os assessores de FHC gostaram da escolha de Rubens Ricupero para substituir Fernando Henrique Cardoso e todos os titulares de secretarias da Fazenda devem permanecer nos cargos.
@@ -577,9 +577,9 @@ Colaborou a Reportagem Local
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-031</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-031</field>
+<field name="date">940329</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 A substituição do ministro da Fazenda, Fernando Henrique Cardoso, pelo embaixador Rubens Ricupero não deve alterar a expectativa do mercado financeiro dos Estados Unidos em relação ao Brasil.
@@ -589,9 +589,9 @@ Luiz Forbes, presidente da Aim Brazil, empresa de Nova York que trabalha em conj
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-032</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-032</field>
+<field name="date">940329</field>
+<text_pt>
 Roberto Setúbal, presidente do Banco Itaú: "A candidatura de Fernando Henrique pode ajudar na aprovação das reformas necessárias ao plano econômico no Congresso. Como candidato, considero-o uma pessoa que reúne todas as qualidades para ser o novo presidente do Brasil. Já o ministro Ricupero é preparado e tem reconhecida experiência. A principal vantagem é que Ricupero é um homem totalmente alinhado com o programa econômico."
 
 Alcides Lopes Tápias, presidente da Febraban (Federação Brasileira das Associações de Bancos): "Se você pensar apenas no plano a curto prazo é evidente que seria melhor permanecer o ministro Fernando Henrique. Temos, porém, de olhar mais para a frente. Sendo candidato, teria a condição de continuar o programa como presidente. A escolha de Rubens Ricupero é muito boa. Trata-se de pessoa com excelente trânsito internacional e profundo conhecedor dos problemas internos."
@@ -615,9 +615,9 @@ Eduardo Fischer, 37, presidente da Fischer, Justus: "Lamento a saída de Fernando
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-033</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-033</field>
+<field name="date">940329</field>
+<text_pt>
 Eugênio Staub, diretor-presidente da Gradiente: "Acho lamentável a saída o ministro Fernando Henrique. Ele tem compromisso com o plano de estabilização da economia. Se sair, estará renunciando ao cargo por uma ambição pessoal. Se continuar no Ministério já é difícil dar certo o plano, mas há chances. A derrota do plano será a derrota do ministro, por isso ainda tenho esperanças de que ele continue no cargo."
 Mario Bernardini, diretor do Departamento de Economia da Fiesp: "A candidatura FHC traz problemas políticos para o programa de estabilização. Sempre me opus à saída de FHC como candidato à Presidência, pois no momento em que a candidatura for oficializada, combater o plano passa a ser prioridade para os demais candidatos."
 
@@ -633,9 +633,9 @@ Lawrence Pih, presidente do Moinho Pacífico: "A saída do ministro Fernando Henri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-034</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-034</field>
+<field name="date">940329</field>
+<text_pt>
 Abram Szajman, presidente da Federação do Comércio do Estado de São Paulo:"Nem contra nem a favor a saída do ministro FHC. Respeito a individualidade dele. O importante é que o plano tem que ser completado através de reformas tributária e na Previdência. Sou a favor da entrada de Ricupero porque o nome dele tem credibilidade internacional."
 
 Paulo Salles, 39, presidente da Salles Inter-Americana de Publicidade: "Se for sair para fazer campanha presidencial agora sou contra. Acho que como senador deveria sair para lutar no Congresso pelas medidas econômicas darem certo. Se após lutar no Congresso, sair para tentar a Presidência sou a favor da candidatura."
@@ -648,9 +648,9 @@ Canindé Pegado, presidente da Central Geral dos Trabalhadores: "Tanto faz Fernan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-035</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-035</field>
+<field name="date">940329</field>
+<text_pt>
 DANIELA CHIARETTI
 Do Banco de Dados
 A habilidade de negociar do diplomata Rubens Ricupero ganhou fama internacional durante os acordos da Eco-92, a conferência ambiental que ocorreu no Rio de Janeiro há dois anos.
@@ -664,9 +664,9 @@ Internamente, procurou consolidar o Ministério e transformá-lo em um órgão peren
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-036</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-036</field>
+<field name="date">940329</field>
+<text_pt>
 Mesmo antes do anúncio oficial de seu nome, novo ministro deixa claro que não deve mudar equipe econômica
 Da Sucursal de Brasília
 Antes mesmo de ter seu nome confirmado oficialmente para o cargo, o novo ministro da Fazenda, Rubens Ricupero, deixou claro ontem que não pretende fazer mudanças na equipe econômica.
@@ -681,9 +681,9 @@ Ele disse ter conversado com o presidente Itamar Franco nas primeiras horas da m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-037</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-037</field>
+<field name="date">940329</field>
+<text_pt>
 JOSÉ ROBERTO CAMPOS
 Editor de Economia
 Para dirigir uma economia às vésperas de uma mudança radical e de um turbulento período eleitoral, o presidente Itamar Franco voltou-se para alguém com um temperamento apropriado &#150;o ex-embaixador Rubens Ricupero, que preparou-se durante anos, na adolescência, para ser monge beneditino. Paciente e obstinado, Ricupero aceitou provavelmente o maior desafio de sua bem sucedida carreira.
@@ -699,9 +699,9 @@ Ricupero, entretanto, dá apoio total ao plano de estabilização de FHC. Em artigo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-038</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-038</field>
+<field name="date">940329</field>
+<text_pt>
 Empresa será vendida amanhã na Bolsa do Rio
 Da Sucursal do Rio
 A comissão de privatização confirmou para amanhã o leilão de 79,7% do capital da Companhia de Navegação Lloyd Brasileiro, pelo preço mínimo de US$ 26,5 milhões. Dia 6 de maio será o leilão da Mineração Caraíba, adiado na semana passada por determinação do presidente Itamar Franco.
@@ -713,9 +713,9 @@ Na reunião de ontem, a comissão decidiu ainda autorizar a contratação de consult
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-039</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-039</field>
+<field name="date">940329</field>
+<text_pt>
 Empresário texano quer comprar parte das instalações que seriam usadas no superacelerador de partículas SSC
 FERNANDO CANZIAN
 De Nova York
@@ -731,9 +731,9 @@ A Europa tem um projeto semelhante ao SSC em Genebra, Suíça, batizado como LHC (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-040</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-040</field>
+<field name="date">940329</field>
+<text_pt>
 Mercado de ações sobe e desce na expectativa de que o ministro concorra à Presidência
 Da Reportagem Local
 A candidatura do ministro da Fazenda, Fernando Henrique Cardoso, à Presidência da República foi o fiel da balança no mercado financeiro ontem. As Bolsas de Valores subiram enquanto persistiu a expectativa de que FHC deixaria ainda ontem a Fazenda para se candidatar. Depois, com a informação de que o anúncio da candidatura fora adiado, as Bolsas começaram a recuar.
@@ -748,9 +748,9 @@ sobre o mercado financeiro na pág. 2-4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-041</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-041</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Além da indefinição da corrida presidencial e do Plano FHC, os analistas do mercado de ações buscam outras explicações para o comportamento errático das Bolsas de Valores nas últimas semanas. Os motivos estão no exterior.
 Depois que as Bolsas brasileiras ganharam mais capital externo (em 93 entraram US$ 5,4 bilhões; nos dois primeiros meses de 94 ingressaram US$ 1,5 bilhão), o comportamento dos juros internacionais e das principais Bolsas do exterior passaram a fazer parte dos parâmetros das Bolsas brasileiras.
@@ -759,9 +759,9 @@ Por outro lado, diante deste fato, da indefinição sobre o plano econômico e da c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-042</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-042</field>
+<field name="date">940329</field>
+<text_pt>
 EDUARDO BELO
 Da Reportagem Local
 O que parecia ser um problema da indústria foi transferido para o varejo. O assessor especial do Ministério da Fazenda, José Milton Dallari, disse ontem que deve chamar os supermercados para ouvir explicações sobre aumentos de preços em URV. Ele tomou essa decisão depois de ouvir representantes da Gessy Lever e Bombril.
@@ -774,9 +774,9 @@ O vice-presidente da Nestlé, Wilber Antunes, evitou transferir a culpa dos aumen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-043</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-043</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Os preços dos remédios para o consumidor devem ter queda de 17% em URV. A previsão é de Pedro Zidoi, presidente da Abcfarma (Associação Brasileira do Comércio Farmacêutico). A queda resulta da conversão dos preços para URV pela média dos quatro meses finais de 1994.
 A partir desta semana os preços em cruzeiros reais ficarão congelados nas farmárcias por sete dias. A cada segunda-feira serão corrigidos pela variação da URV.
@@ -784,9 +784,9 @@ Para viabilizar esse método, as indústrias concederam desconto de 4% para o vare
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-044</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-044</field>
+<field name="date">940329</field>
+<text_pt>
 SILVANO VALENTINO
 Nos últimos anos, por força da abertura da economia, muito tem se discutido sobre quais setores da nossa indústria terão capacidade de sobreviver num regime de integração global e maior competitividade. Em minha opinião, a indústria automobilística brasileira tem todas as condições para enfrentar com grande sucesso este desafio e, assim, continuar contribuindo com a geração de riquezas e empregos para este país. Esta convicção baseia-se em três fatos.
 Em primeiro lugar, o Brasil conta com todos os recursos necessários para isto, como a disponibilidade de matéria-prima e energia, um parque produtivo de porte considerável e completo (incluindo o setor de autopeças), capacidade técnica e gerencial comprovada, uma mão-de-obra dotada de grande capacidade de aprendizado e flexibilidade e um mercado consumidor com um dos maiores potenciais de crescimento do mundo.
@@ -804,9 +804,9 @@ SILVANO VALENTINO, 59, empresário, é presidente da Fiat do Brasil S/A.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-045</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-045</field>
+<field name="date">940329</field>
+<text_pt>
 MARCO AURÉLIO BEDÊ
 O acordo setorial automotivo proporcionou a obtenção de um a produção recorde de 1,4 milhões de autoveículos, em 1993, apesar de vários pontos agendados não terem sido resolvidos. Em função de seus acertos e desacertos, o acordo está entrando numa nova fase que, no entanto, não está muito bem definida. Isto porque, esgotados os pontos consensuais, os agentes envolvidos têm procurado recuperar concessões ou ampliar privilégios, em torno da carga tributária e das cotas de importações para veículos. Em decorrência disso, é possível vislumbrar quatro cenários para a indústria automobilística.
 Num primeiro cenário, a presença de cotas as importações e de impostos elevados se assemelharia muito à situação dos anos 80. Até então, a reserva de mercado e a carga tributária levaram as montadoras a trabalharem com baixas escalas de produção e elevadas margens de lucro. O resultado disso é amplamente conhecido: qualidade sofrível e preços exorbitantes.
@@ -821,39 +821,39 @@ MARCO AURÉLIO BEDÊ, 32, mestre em economia pela Faculdade de Economia e Administ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-046</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-046</field>
+<field name="date">940329</field>
+<text_pt>
 O nível de emprego no comércio varejista da Região Metropolitana de São Paulo teve alta de 2,12% em fevereiro deste ano, comparado ao mesmo período de 1993. Os dados são da Federação do Comércio do Estado de São Paulo e mostram que esta taxa significa a abertura de 8.500 postos de trabalho no setor. Na comparação com o mês imediatamente anterior, no entanto, houve redução de 2,79% no total de empregados (menos 11.200 vagas). Mesmo assim, o primeiro bimestre deste ano mostra alta de 2,62% no nível de emprego, em relação aos dois primeiros meses do ano passado.
 Na análise por grupos, a maioria teve recuo no nível de emprego no confronto entre os dois meses de fevereiro. O maior ficou com os não-duráveis, que fechou 8,43% das vagas. Neste grupo, a maior queda ficou com as lojas de utilidades domésticas, com 14,33%. Os semiduráveis diminuíram seus postos de trabalho em 7,38%. Já veículos e construção aumentou em 15,10% o seu nível de emprego, puxado pela alta de 40,43% nas concessionárias de veículos. Os não-duráveis ficaram com alta de 6,56%, influenciados pelos supermercados, com 8,82%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-047</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-047</field>
+<field name="date">940329</field>
+<text_pt>
 Os produtos que compõem a cesta básica no município de São Paulo tiveram aumento médio de 2,77% entre os dias 25 e 28 de março, segundo pesquisa do Procon em convênio com o Dieese em 70 supermercados. Dos produtos pesquisados, 61 subiram e sete baixaram de preço. O custo médio da cesta chegou ontem a CR$ 83,4 mil. O acumulado no mês ficou em 36,92%, abaixo dos 37,92% da URV no mesmo período. A maior variação no final de semana foi do grupo de limpeza, com 2,54%. As altas mais significativas foram do leite em pó, com 4,69%, e frango resfriado, que subiu 4,09%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-048</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-048</field>
+<field name="date">940329</field>
+<text_pt>
 Minas Gerais liderou no primeiro bimestre a produção de aço bruto e produtos planos e longos, segundo o IBS (Instituto Brasileiro de Siderurgia). Do total de 4,1 milhões de toneladas produzidos no país em janeiro e fevereiro, Minas ficou com a fatia de 39,7%, seguido por Rio de Janeiro (22,9%), São Paulo (18,3%), Espírito Santo (13,6%) e outros Estados (5,5%). Minas também foi o Estado que mais produziu aços planos e longos, 40,9% do total de 2,6 milhões de t. Em seguida, ficaram Rio de Janeiro (31,5% do total), São Paulo (18,7%), Espírito Santo (0,7%) e outros Estados (8,2%).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-049</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-049</field>
+<field name="date">940329</field>
+<text_pt>
 O IPR (Índice de Preços Recebidos pelos Produtores) subiu 43,43% em fevereiro, 2,65 pontos percentuais acima do IGP-M de 40,78% apurado no mesmo mês. O IPR mede a variação de preços dos produtos agrícolas e de origem animal e é pesquisado através de convênio entre a Conab (Companhia Nacional de Abastecimento) e a FGV (Fundação Getúlio Vargas). No acumulado de doze meses a alta foi de 3.560,10%, maior que os 3.131,99% do IGP-M de igual período.
 Nos agrícolas, a maior oscilação no mês passado foi a do feijão (89,61%), consequência da quebra quase total da safra de Irecê, na Bahia. O algodão teve variação de 56,42%, acompanhando o aquecimento do mercado externo, que está sob influência da redução na produção de países asiáticos como China e Paquistão. A soja subiu 40,23%, seguida por arroz (23,86%) e milho (18,34%). As correções destes dois últimos produtos tomaram ritmo mais lento em função do início da colheita. Nos produtos de origem animal, as variações ficaram inferiores à inflação. O frango teve a maior oscilação (33,08%), seguido pelo boi (31,20%) e pelo suíno (28,53%).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-050</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-050</field>
+<field name="date">940329</field>
+<text_pt>
 Nem Lula, nem FHC, nem Quércia, nem Maluf. A bem da verdade, nem esta história de jogar novamente no balaio das eleições presidenciais a esperança de saída para a crise.
 Não é por aí. No fundo, todos representam, de uma maneira ou outra, versões novas ou velhas de um mesmo modelo político, de apropriação do Estado por forças políticas, sem dar espaço para o exercício pleno da cidadania.
 Alguns deles representarão o aprofundamento agudo deste processo de espoliação. Outros, apenas uma renovação aparente que, dotando o modelo de alguma legitimidade, ajude a perpetuá-lo.
@@ -877,9 +877,9 @@ Será que nem os centros incumbidos de incutir valores éticos na formação da juve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-051</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-051</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A indústria paulista demitiu 1.661 empregados na terceira semana de março, de acordo com a Fiesp (Federação das Indústrias do Estado de São Paulo).
 Na semana anterior, a segunda de março, a indústria paulista tinha interrompido uma sequência de 12 semanas de demissões, com a contratação de 460 empregados.
@@ -891,9 +891,9 @@ A pesquisa semanal da Fiesp, feita junto a 46 sindicatos patronais da indústria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-052</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-052</field>
+<field name="date">940329</field>
+<text_pt>
 CVM prepara mercado eletrônico para empresas sem negociação nas Bolsas de Valores; caem as taxas dos CDBs
 Da Redação
 O mercado esperava ontem que o Banco Central elevasse a taxa do over, para realizar um alinhamento à expectativa de inflação mais alta e ao menor número de dias úteis em abril.
@@ -942,9 +942,9 @@ No mercado futuro de dólar, a expectativa de desvalorização cambial para março f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-053</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-053</field>
+<field name="date">940329</field>
+<text_pt>
 Previsão é das montadoras e da rede de revendedores
 Da Reportagem Local
 Os carros podem ficar até 11% mais caros se o Confaz (Conselho Nacional de Política Fazendária) decidir elevar o ICMS sobre veículos para 18%. A previsão é dos representantes das montadoras e da rede de distribuidores.
@@ -958,9 +958,9 @@ A Anfavea enviou aos secretários estaduais da Fazenda na semana passada um estud
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-054</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-054</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal de Brasília
 O Ministério da Fazenda voltou a controlar os preços das tarifas de energia elétrica, que estavam liberadas desde o ano passado, com a aprovação da nova lei para o setor.
 O teto máximo de 43,42% para o reajuste em 1º de abril foi fixado ontem em portaria publicada no "Diário Oficial" e corresponde à variação da URV (Unidade Real de Valor) entre 21 de fevereiro e 23 de março.
@@ -973,9 +973,9 @@ Os reajustes das tarifas postais e telefônicas vão acompanhar a variação da URV 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-055</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-055</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Os contribuintes que depositaram em juízo o valor da Cofins (Contribuição para o Financiamento da Seguridade Social) já podem reaver os valores depositados e obter o parcelamento em até 80 meses. Para isso, devem entrar com um mandado de segurança.
 Na semana passada, o advogado José Carlos Graça Wagner conseguiu liminares que favorecem seis empresas do setor de edição.
@@ -985,9 +985,9 @@ As liminares, diz ele, afirmam que o parcelamento é um direito de todos os contr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-056</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-056</field>
+<field name="date">940329</field>
+<text_pt>
 Novo presidente da instituição investe US$ 35 milhões para iniciar as operações de novo banco na Europa
 Da Reportagem Local
 O Conselho de Administração do Banco Itaú elegeu, ontem, Roberto Egydio Setúbal, 40 anos, um dos sete filhos do banqueiro Olavo Setúbal, como novo presidente da segunda maior instituição financeira privada do país. Ele substitui a Carlos da Câmara Pestana, que sai do comando por ter completado 62 anos, idade limite prevista pelos estatutos do Itaú para os que ocupam cargos de diretoria no banco.
@@ -1001,9 +1001,9 @@ Setúbal conta com essa estrutura para realizar o atendimento das necessidades de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-057</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-057</field>
+<field name="date">940329</field>
+<text_pt>
 Cachê de Linda Evangelista é estimado em US$ 160 mil
 ERIKA PALOMINO
 Colunista da Folha
@@ -1016,9 +1016,9 @@ Ao comentar o trabalho da nova geração inglesa (modelos e fotógrafos como Corinn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-058</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-058</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A indústria de televisores está investindo para trazer o clima do cinema para a sala do brasileiro. Aproveitando a Copa do Mundo, as empresas programam lançamentos de TVs com tela grande &#150;acima de 24 polegadas. Boa parte deles será mostrada na UD (Feira de Utilidades Domésticas), de 7 a 17 de abril em São Paulo.
 A previsão dos fabricantes é de que o consumo do produto, de 100 mil unidades em 1993, salte para 170 mil unidades em 94. Os televisores grandes vão participar com cerca de 4% da venda total de TVs no país. A previsão da Abinee (Associação Brasileira da Indústria Elétrica e Eletrônica) é de que este mercado chegue a 4,2 milhões de unidades neste ano.
@@ -1029,9 +1029,9 @@ A Sharp, que comercializa dois modelos de 28 e 33 polegadas, lança em abril mais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-059</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-059</field>
+<field name="date">940329</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre
 O lucro líquido do Grupo Gerdau caiu cerca de 50% no ano passado em relação ao exercício anterior. O lucro foi de US$ 23,8 milhões, contra US$ 44 milhões registrados em 92.
 O faturamento, de US$ 1,188 bilhão, foi um pouco menor que o de 92 (US$ 1,205 bilhão). O vice-presidente, Frederico Gerdau Johannpeter, disse que houve queda de até 30% nos preços dos produtos siderúrgicos.
@@ -1039,23 +1039,23 @@ O Grupo Gerdau detém 10,3% da produção nacional de aço. O patrimônio líquido con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-060</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-060</field>
+<field name="date">940329</field>
+<text_pt>
 A China afirmou ontem que não vai pressionar a Coréia do Norte, suspeita de estar construindo armas nucleares. O presidente chinês, Jiang Zemin, disse a seu companheiro sul-coreano, Kim Young-sam, que a crise só será resolvida pelo diálogo entre Washington, Pyongyang e a Agência Internacional de Energia Atômica.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-061</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-061</field>
+<field name="date">940329</field>
+<text_pt>
 Tropas isralenses mataram seis palestinos no campo de refugiados Jabaliya, faixa de Gaza. O Exército se recusou a dizer se eles eram procurados. Testemunhas disseram que ele pertenciam à Fatah, facção majoritária da Organização para a Libertação da Palestina (OLP), à qual pertence o líder Iasser Arafat. Foi o pior incidente isolado desde o massacre de Hebron, há um mês.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-062</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-062</field>
+<field name="date">940329</field>
+<text_pt>
 Magnata da TV italiana deve obter 23% da Câmara, mas sua aliança de direita já se divide
 HUMBERTO SACCOMANDI
 Enviado especial a Milão
@@ -1070,9 +1070,9 @@ Essa foi a primeira eleição parlamentar após o escândalo de corrupção "Tangentop
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-063</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-063</field>
+<field name="date">940329</field>
+<text_pt>
 Das agências internacionais
 Ao menos 18 pessoas morreram e 50 ficaram feridas ontem em Johannesburgo, quando cerca de 10 mil zulus fizeram manifestação contra es eleições programadas para abril na África do Sul.
 Os zulus ligados ao partido Inkatha são contra as primeiras eleições multirraciais do país porque defendem a criação de um Estado independente para sua etnia.
@@ -1088,9 +1088,9 @@ Entre os mortos do confronto estão dois policiais.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-064</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-064</field>
+<field name="date">940329</field>
+<text_pt>
 ANDRÉ LAHÓZ MENDONÇA DE BARROS
 De Paris
 Os estudantes franceses estão levando a melhor no braço-de-ferro que jogam atualmente com o governo. O primeiro-ministro francês, Edouard Balladur, suspendeu ontem por uma semana o Contrato de Inserção Profissional (CIP), projeto que permite às empresas pagar aos jovens apenas 80% do salário dito convencional.
@@ -1104,9 +1104,9 @@ Apesar dos problemas, Balladur continua sendo aprovado por boa parte dos frances
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-065</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-065</field>
+<field name="date">940329</field>
+<text_pt>
 Agora chega a sete o número de garotas identificadas mortas por Frederik West, acusado de pelo menos nove assassinatos. Joan Owen (foto) é mãe de uma das jovens, Alison Chambers. West enterrava as vítimas na sua própria casa. A polícia começou ontem as investigações em outro imóvel que pertenceu a West. Ele deve comparecer ao tribunal no dia 7 de abril.
 
 Americano degolou amante da mulher
@@ -1120,9 +1120,9 @@ Uma menina morreu esfaqueada e outras duas foram feridas por um homem mascarado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-066</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-066</field>
+<field name="date">940329</field>
+<text_pt>
 De Washington
 Os tornados do fim-de-semana na região sudeste dos EUA são a segunda série de desastres meteorológicos do ano. A primeira, sucessivas tempestades de neve entre os meses de janeiro e março, matou 130 pessoas.
 O país tem sido vítima de várias catástrofes naturais nos últimos três anos. Em 1992, o furacão Andrew provocou 16 mortes e prejuízos avaliados em pelo menos US$ 500 milhões.
@@ -1135,18 +1135,18 @@ Por que tantas variações extremadas? Os meteorologistas não têm respostas defini
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-067</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-067</field>
+<field name="date">940329</field>
+<text_pt>
 O fracasso da Opep (Organização dos Países Exportadores de Petróleo) em chegar a um acordo para baixar sua produção provocou ontem queda drástica no preço do petróleo. Em reunião no final de semana em Genebra, a Opep decidiu manter o limite atual de produção de 24,52 milhões de barris por dia até o final do ano.
 Em Londres, o petróleo Brent &#150;um dos mais negociados no mundo e cujo preço serve de referência internacional&#150; foi cotado em US$ 13,02 o barril para entrega em maio, o que significa uma queda de US$ 1,09, ou 7,73%, sobre o fechamento anterior. O preço voltou a ficar próximo do menor nível em cinco anos, atingido em fevereiro. Este ano, o barril do Brent recuou quase US$ 5.
 O encontro da Opep foi marcado pelo atrito entre o maior produtor, a Arábia Saudita, e o Irã, segundo maior produtor. Os sauditas se recusaram a baixar sua quota (8 milhões de barris diários), enquanto o Irã exigia redução nas quotas individuais para provocar um corte de um milhão de barris na produção diária da Opep.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-068</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-068</field>
+<field name="date">940329</field>
+<text_pt>
 Do enviado especial
 O empresário Silvio Berlusconi é o principal candidato a premiê da Itália após as eleições de domingo e ontem. "Seria uma traição aos eleitores se a aliança de direita não assumisse o governo", disse. Além disso, a fragmentação do Parlamento torna difícil a formação de um governo estável.
 Curiosamente, a principal ameaça à liderança de Berlusconi vem de sua própria aliança de direita. "Não quero Berlusconi como premiê", disse o senador Umberto Bossi, líder da Liga Norte, que também descartou uma coalizão com os neofascistas.
@@ -1154,9 +1154,9 @@ Curiosamente, a principal ameaça à liderança de Berlusconi vem de sua própria al
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-069</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-069</field>
+<field name="date">940329</field>
+<text_pt>
 Bombeiros acham corpo de menino de 11 anos nos escombros das casas em Mangaratiba
 JOÃO BATISTA DE ABREU
 Da Sucursal do Rio
@@ -1170,9 +1170,9 @@ A avalanche arrastou para o mar cinco carros, que estavam submersos até ontem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-070</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-070</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal do Rio
 O prefeito de Mangaratiba, José Miguel Simões (PMDB-RJ), afirmou ontem à tarde que determinará a interdição imediata de pelo menos oito casas do condomínio Sociedade Amigos do Guity, na Praia do Saco. Ele disse que se ficar provado em definitivo que as residências não oferecem segurança, toda a área será desapropriada.
 O prefeito informou que solicitará recursos ao DNER (Departamento Nacional de Estradas de Rodagem) para providenciar a desapropriação, alegando que a União construiu a estrada Rio-Santos depois da existência do loteamento, que é da década de 40. Ele também quer que os proprietários das casas não-ameaçadas no condomínio contribuam com a desapropriação.
@@ -1181,9 +1181,9 @@ José Miguel disse que enfrenta problemas com os proprietários do condomínio Guit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-071</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-071</field>
+<field name="date">940329</field>
+<text_pt>
 O ministro da Educação, Murílio Hingel (foto), disse ontem em Natal (RN) que está preocupado com o atraso na aprovação do Orçamento do seu ministério para 94. Hingel disse que o ministério está propondo algumas formas alternativas que lhe permitam manter a regularidade de repasse de recursos para Estados e municípios para a merenda escolar, livros didáticos e custeio para as instituições federais.
 
 Diretora da USP é nomeada vice-reitora
@@ -1207,9 +1207,9 @@ Cr$ 512.040.930,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-072</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-072</field>
+<field name="date">940329</field>
+<text_pt>
 Desde ontem, o tráfego na rodovia Fernão Dias sofre interrupções de 40 minutos no trecho entre as cidades de Igarapé e Itatiaiuçu. As interrupções temporárias serão feitas nos próximos 25 dias. Elas acontecem por causa das obras de duplicação da rodovia, que tiveram início este mês.
 
 Minas Gerais 2
@@ -1229,9 +1229,9 @@ Uma tentativa de rebelião envolveu cem presos ontem de manhã na cadeia pública N
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-073</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-073</field>
+<field name="date">940329</field>
+<text_pt>
 O CDM (Centro de Defesa do Menor) solicitou ontem ao juiz Orlando Arrifano a manutenção da pronúncia dos sete acusados de matar e castrar meninos em Altamira (300 km de Belém). O centro é contra a decisão do promotor Roberto Pinto, que considerou inocentes os acusados.
 
 Pará 2
@@ -1245,9 +1245,9 @@ O Sindicato das Empresas de Transportes de Passageiros do Amazonas informou que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-074</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-074</field>
+<field name="date">940329</field>
+<text_pt>
 O auditório Araújo Vianna, inaugurado em 64, deverá receber uma cobertura dentro de 90 dias, ao custo estimado de CR$ 8 milhões. O auditório, no Parque Farroupilha, centro de Porto Alegre, é um dos principais espaços para manifestações culturais na cidade.
 
 Rio Grande do Sul 2
@@ -1273,9 +1273,9 @@ A polícia investiga a morte do gerente de danceteria Carlos Martins, ocorrida sá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-075</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-075</field>
+<field name="date">940329</field>
+<text_pt>
 O 3º Congresso de Reprodução Humana do Nordeste começou ontem no Centro de Convenções de Natal. Os médicos Sebastião e Betânia Teixeira e Carla Maranhão, pioneiros em bebês de proveta no Nordeste, são convidados do congresso, que acaba amanhã.
 
 Rio Grande do Norte 2
@@ -1301,9 +1301,9 @@ Começou ontem em Teresina a Festa Anual das Árvores. A comemoração é fora da épo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-076</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-076</field>
+<field name="date">940329</field>
+<text_pt>
 Acontece hoje e amanhã, na Faculdade de Educação e na Assembléia Legislativa, em Goiânia, o "Seminário de Saúde Mental", coordenado pela deputada Denise de Carvalho e promovido pela Assembléia, prefeitura, Câmara e Universidade Federal de Goiás.
 
 Mato Grosso do Sul 1
@@ -1317,9 +1317,9 @@ A polícia de Campo Grande continua investigando o assassinato da estudante Elize
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-077</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-077</field>
+<field name="date">940329</field>
+<text_pt>
 Proposta de Maurício Corrêa inclui alterações no Código Penal e ainda precisa da aprovação do Congresso
 SILVANA DE FREITAS
 Da Sucursal de Brasília
@@ -1335,9 +1335,9 @@ Os 17 projetos de lei para reforma do Código de Processo Penal foram preparados 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-078</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-078</field>
+<field name="date">940329</field>
+<text_pt>
 Instituto Cândido Mendes está vazio
 Da Sucursal do Rio
 Os últimos 199 presos do Instituto Penal Cândido Mendes, na Ilha Grande (100 km ao sul do Rio), foram transferidos ontem para o presídio Vicente Piragibe, em Bangu (zona oeste do Rio).
@@ -1350,9 +1350,9 @@ O presídio da Ilha Grande foi construído em 1940 e abrigou muitos presos polític
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-079</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-079</field>
+<field name="date">940329</field>
+<text_pt>
 Da Folha Vale
 Uma briga de gangues no centro de Cruzeiro (210 km a nordeste de São Paulo) causou a morte do desempregado Paulo Sérgio de Souza, 21, na madrugada de domingo.
 Souza foi atingido na cabeça por um tiro de garrucha (pistola recarregável pelo cano). O crime aconteceu na saída de um baile.
@@ -1368,9 +1368,9 @@ Segundo o delegado, passaram a ser comuns os casos de brigas de rua entre as gan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-080</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-080</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A polícia prendeu o motorista Hildeberto Almeida Santos, 25, sob a acusação de ele ter planejado e liderado o sequestro do estudante Luis Fernando Navarro de Melo, 17, herdeiro da indústria de cosméticos Niazi.
 O estudante ficou em cativeiro de 23 de junho a 2 de agosto de 92 e a família pagou, na época, um resgate de CR$ 700 milhões e US$ 30 mil. Santos estava foragido desde que foi identificado pela polícia, uma semana depois do fim do sequestro.
@@ -1378,18 +1378,18 @@ Ele havia sido motorista da avó do estudante, a empresária Maria Salete Abdo, 59
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-081</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-081</field>
+<field name="date">940329</field>
+<text_pt>
 Da Agência Folha, em Londrina
 O delegado-chefe de Francisco Beltrão (PR), Volney Thibes, que preside o inquérito sobre o linchamento em Salto do Lontra (PR), ocorrido no último dia 21, vai ouvir os acusados já identificados em cidades diferentes por medida de segurança.
 Segundo Thibes, só a partir de amanhã irá fornecer "detalhes sobre os indiciamentos". Além da fita de vídeo para identificar os responsáveis, Thibes conta com a ajuda do agricultor Valdemar Comelatto, pai de Volmir Comelatto &#150;acusado de ser o líder do linchamento dos três acusados de assassinarem sua mulher, a enfermeira Eronildes Ribeiro Comelatto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-082</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-082</field>
+<field name="date">940329</field>
+<text_pt>
 VICENTE AMATO NETO
 JACYR PASTERNAK
 Grande parte da sociedade brasileira não compreende bem o fenômeno da morte. Muitos têm horror à morte morrida. Da morte matada até que nem tanto, especialmente quando os atingidos são de outras classe ou cor, que não as das nossas elites, e conhecemos vários e horrendos exemplos recentes. Mas quando alguém está doente e nossos recursos terapêuticos não são suficientes ou eficientes, tornam-se comuns neste país tentativas heróicas, desesperadas, caras, além de inúteis de tratamentos; o paciente é levado à Unidade de Terapia Intensiva e faz-se de tudo, com a convicção de que nada vai funcionar. Por quê? Para quê? Por que um indivíduo deve morrer cercado de aparelhos, inconsciente, sem poder passar seus últimos momentos com sua família e sem poder conversar com quem deseja? Por que, mesmo quando a pessoa solicita morrer com dignidade e autonomia nossos sistemas de assistência mostram tanta dificuldade em brecar os impulsos tratativos?
@@ -1401,9 +1401,9 @@ JACYR PASTERNAK, 53, médico infectologista, é chefe de gabinete da Superintendên
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-083</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-083</field>
+<field name="date">940329</field>
+<text_pt>
 Da Sucursal do Rio
 Um grupo de cerca de 15 homens levou CR$ 15,5 milhões de um carro-forte na avenida Brasil, perto de Guadalupe (zona norte do Rio), ontem pela manhã.
 Três dos quatro vigilantes que estavam no blindado foram feridos a tiros. O bando usou cinco carros, todos roubados, para fugir.
@@ -1411,9 +1411,9 @@ Parte dos assaltantes perseguiu o carro-forte por cerca de um quilômetro, dispar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-084</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-084</field>
+<field name="date">940329</field>
+<text_pt>
 DANIEL CASTRO 
 Da Reportagem Local
 Quase todo o lixo da coleta seletiva da Prefeitura de São Paulo, ao invés de ser reclicado, está sendo enterrado no aterro sanitário Bandeirantes, em Perus (zona norte), junto com o lixo comum.
@@ -1433,17 +1433,17 @@ Há um ano, o prefeito Paulo Maluf anunciou o fim da coleta seletiva, mas recuou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-085</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-085</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A Socicam &#150;empresa que administra os terminais rodoviários de São Paulo&#150; estima que mais de 827 mil passageiros passarão pelas rodoviárias durante o feriado, entrando ou saindo da cidade. As regiões mais procuradas são o litoral norte do Estado, o litoral sul fluminense, Sorocaba (SP) e Foz do Iguaçu (PR), localidades que já operam com ônibus extras. As empresas aéreas têm poucas reservas para as capitais do Sul e do Nordeste para quem viajar na quinta.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-086</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-086</field>
+<field name="date">940329</field>
+<text_pt>
 Da Folha ABCD
 O Dersa (Desenvolvimento Rodoviário S/A) interditou na manhã de ontem a pista sul (sentido São Paulo-litoral) da via Anchieta, no trecho que vai do km 40 ao km 54, para fazer trabalhos de limpeza e reforma nas defensas de concreto.
 A interdição, que deveria acontecer apenas no km 46, foi extendida em função de deslizamentos ocorridos na noite de sábado. Hoje às 12h a pista deve ser liberada.Em seguida, o Dersa vai bloquear a pista norte, que estava sendo usada no sentido inverso, para reformas. A pista deve ficar interditada até as 12h de amanhã.
@@ -1452,9 +1452,9 @@ A "Operação Páscoa" começa amanhã às 18h. O Dersa espera que 260 mil veículos de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-087</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-087</field>
+<field name="date">940329</field>
+<text_pt>
 O rabino Henry Sobel (foto), presidente do rabinato da Congregação Israelita Paulista, está internado desde sábado no Hospital Albert Einstein. Segundo seu médico, o neurologista Flávio Roberto Huck, Sobel internou-se para exames de rotina e deve deixar o hospital hoje. Ele teria se sentido mal antes da celebração do "pessach" &#150;Páscoa judaica que celebra a libertação dos hebreus do Egito.
 
 Camisinha não deve ter isenção do ICMS
@@ -1474,9 +1474,9 @@ Cr$ 512.040.930,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-088</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-088</field>
+<field name="date">940329</field>
+<text_pt>
 Policial encaminha motorista à aula
 Da FT
 Uma operação inédita, montada por policiais do 4º Batalhão de Policiamento de Trânsito, levou motoristas para a sala de aula ontem na avenida Emílio Carlos.
@@ -1488,9 +1488,9 @@ A escola estadual Luiz Gonzaga Righini cedeu uma de suas salas para a realização
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-089</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-089</field>
+<field name="date">940329</field>
+<text_pt>
 O leitor Adriano dos Santos de Melo, residente na rua Dr. Arthur Fajardo, na Freguesia do Ó, faz uma reclamação à Telesp. Melo diz ter adquirido em novembro de 91 uma linha telefônica da Telesp. "A empresa estabeleceu um prazo máximo de instalação que se encerrou em novembro de 93", conta. Melo diz ainda que, após várias tentativas e contatos para solucionar o problema, não obteve resultado. "O que eu não entendo é como pessoas que adquiriram linhas telefônicas da Telesp após a minha &#150;pessoas do mesmo bairro e ainda na mesma rua&#150; já conseguiram a instalação".
 
 Resposta
@@ -1500,9 +1500,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-090</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-090</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Entidades do patrimônio histórico municipal e estadual conseguiram ontem parar as demolições das casas da Vila Itororó, região central de São Paulo. Cinco das 40 habitações do conjunto, que está provisoriamente tombado, foram destruídas.
 As moradias começaram a ir ao chão na semana passada por ordem do proprietário, a Santa Casa de Indaiatuba. A vila, na rua Martiniano de Carvalho, não poderia ter sido demolida devido ao processo de tombamento. A Vila Itororó foi construída com materiais de demolição nos anos 20 pelo mestre-de-obras português Francisco Castro.
@@ -1513,9 +1513,9 @@ Os dois órgãos estudam a possibilidade de pedir à Santa Casa de Indaiatuba a rec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-091</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-091</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 O conselho do Museu de Arte de São Paulo (Masp) confirmou ontem o nome de Luiz Hossaka como conservador-chefe da instiuição. Ele substituiu ontem mesmo Fábio Magalhães, que se pediu demissão na última semana.
 Em reunião realizada ontem à noite, na sede do museu, o conselho tomou três decisões. Deu posse a Hossaka, aceitou a demissão de Fábio Magalhães e deu "voto de solidariedade" ao presidente da instituição, Hélio Dias de Moura. A reunião durou duas horas, entre as 18 e 20 horas.
@@ -1525,9 +1525,9 @@ O presidente do Masp não prevê mudanças na política cultural do museu. Acha que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-092</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-092</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Foi enterrado ontem em São Paulo, no cemitério da Consolação, o arquiteto Eduardo Kneese de Mello, 86. Kneese foi sócio-fundador do IAB-SP (Instituto dos Arquitetos do Brasil), em 1948. Seu registro na entidade tem o simbólico número 1.
 Seu projeto mais conhecido é o alojamento dos estudantes da USP, o Crusp. Para o arquiteto Roberto Loeb, "Kneese foi um dos que pensou à frente de seu tempo". "O Crusp foi desenvolvido com um conceito de construção pré-moldada, pouco usado até então", diz.
@@ -1538,9 +1538,9 @@ Até começar a manter contatos com arquitetos modernos, Kneese se definia como um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-093</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-093</field>
+<field name="date">940329</field>
+<text_pt>
 O delegado de Francisco Beltrão (PR), Volney Thibes, que preside o inquérito sobre o linchamento em Salto do Lontra (PR), ocorrido no último dia 21, vai ouvir os acusados já identificados em cidades diferentes por medida de segurança. Segundo Thibes, só amanhã irá fornecer "detalhes sobre os indiciamentos".
 
 Grupo leva CR$ 15,5 mi de carro-forte no Rio
@@ -1557,9 +1557,9 @@ O Escritório Regional de Saúde (Ersa) de Rio Preto confirmou ontem mais 32 casos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-094</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-094</field>
+<field name="date">940329</field>
+<text_pt>
 Serviços de intercâmbio para curso de nível superior exigem bom currículo e fluência em línguas
 Da Reportagem Local
 No mercado de estágios e cursos de nível superior no exterior, o que vale é a competição. As possibilidades de estudar fora, nesse nível, já estão determinadas pelas leis que valem no mercado de trabalho: concorrência e preparo.
@@ -1583,9 +1583,9 @@ Todos os meses, a CIC tem cerca de 20 novas ofertas de bolsas, cursos e estágios
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-095</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-095</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Além das agências de intercâmbio, há a alternativa de se conseguir estudar no exterior através das bolsas das financiadoras oficiais de pesquisa (Capes e CNPq, federais; e Fapesp, de São Paulo), cada vez mais difíceis para os níveis de graduação e mestrado. Para obtê-las é preciso estar vinculado a uma univeridade e ter seu projeto de pesquisa aprovado e indicado por um pesquisador de nível superior (doutorado, no mínimo).
 Diogo Meyer, 24, biólogo da Universidade de São Paulo, fez durante o ano de 1993 a pesquisa para seu mestrado em genética de populações humanas na Universidade Stanford (EUA), uma das reputadas do planeta, com uma bolsa de US$ 1.100 por mês, do CNPq.
@@ -1594,9 +1594,9 @@ Meyer foi para os EUA através do programa de Recursos Humanos em Áreas Estratégi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-096</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-096</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 É preciso marcar hora pelo telefone, as entrevistas são individuais e o processo de escolha de um curso pode demorar até um ano -é assim que funciona o Departamento de Consultas Educacionais da Associação Alumni, que orienta quem pretende estudar nos Estados Unidos.
 O candidato, no entanto, tem à disposição uma biblioteca sobre as possibilidades e meios de se estudar nos EUA, recebe explicações detalhadas sobre o sistema educacional americano e é orientado sobre o curso mais indicado para suas necessidades, explica Irene Felman, coordenadora do departamento. O serviço é gratuito.
@@ -1606,9 +1606,9 @@ A Alumni é um serviço oficial de orientação de estudo e treinamento nos EUA, lig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-097</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-097</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A partir de hoje, motoristas de peruas e ônibus escolares serão obrigados a apresentar atestado de bons antecedentes para poderem trabalhar. A medida foi solicitada à Secretaria Municipal de Transportes pelo próprio Sindicato dos Condutores Escolares do Estado.
 A presidente da entidade, que reúne cerca de 2.700 motoristas na capital, Maria de Lurdes Ferreira, 40, disse que a iniciativa teve origem em um incidente ocorrido em outubro do ano passado em Ribeirão Preto (319 km ao norte de São Paulo).
@@ -1619,9 +1619,9 @@ O atestado de bons antecedentes terá de ser apresentado pelos motoristas autônom
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-098</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-098</field>
+<field name="date">940329</field>
+<text_pt>
 Free-lance para a Folha
 A Faculdade de Direito da FMU (Faculdade Metropolitana Unida) está com inscrições abertas, até o dia 4 de abril, para o "2º Seminário de Estudos Avançados de Direito Penal e Processual Penal".
 No programa, estão confirmadas as presenças de juristas italianos ligados à "Operação Mãos Limpas" &#150;que provocou a queda de ministros, a renúncia de líderes partidários e a prisão de quase mil envolvidos, entre empresários e políticos, com o escândalo de corrupção&#150; e juristas brasileiros.
@@ -1630,9 +1630,9 @@ FMU - rua Taguá, 150. Tel. 229-8444. Inscrições: CR$ 60 mil (alunos de graduação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-099</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-099</field>
+<field name="date">940329</field>
+<text_pt>
 Da Redação
 O publicitário espanhol Toni Segarra, 31, ganhador de quatro Leões de Ouro no Festival Internacional de Publicidade de Cannes no ano passado, faz palestra hoje em São Paulo.
 Segarra é diretor de criação da agência espanhola Delvico Bates e já recebeu diversos prêmios &#150;os Leões de Cannes são o mais importante prêmio da publicidade. Ele falará sobre a propaganda na Espanha e apresentará comerciais feitos pela sua agência.
@@ -1642,9 +1642,9 @@ Centro de Convenções Rebouças - av. Rebouças, 600. Inscrição: CR$ 12 mil (sócios
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-100</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-100</field>
+<field name="date">940329</field>
+<text_pt>
 Vice-presidente de futebol estranha maus resultados, mas diz ter confiança na comissão técnica
 MÁRIO MOREIRA
 Da Reportagem Local
@@ -1665,9 +1665,9 @@ Para o volante César Sampaio, capitão do time, os jogadores não podem se preocup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-101</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-101</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Dependendo dos resultados das próximas partidas, o Palmeiras poderá priorizar uma das três competições que disputa atualmente (Campeonato Paulista, Taça Libertadores e Copa do Brasil).
 Segundo o vice-presidente de Futebol, Serafim Del Grande, caso essa decisão seja tomada, o mais provável é que o clube dê prioridade à Libertadores, torneio que o Palmeiras jamais conquistou.
@@ -1677,9 +1677,9 @@ Del Grande afirmou que a idéia de priorizar uma competição já foi conversada com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-102</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-102</field>
+<field name="date">940329</field>
+<text_pt>
 
 Derrota da Williams em Interlagos não tira seu favoritismo, mas mostra a importância da estratégia nos pit stops
 FLAVIO GOMES
@@ -1697,9 +1697,9 @@ Hoje excepcionalmente deixamos de publicar o texto de Matinas Suzuki Jr., que es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-103</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-103</field>
+<field name="date">940329</field>
+<text_pt>
 Da Redação
 O Corinthians enfrenta hoje o CRB, de Alagoas, na estréia das duas equipes na Copa do Brasil deste ano. A partida começa às 21h45 e será transmitida ao vivo pela TV Manchete. O time do técnico Carlos Alberto Silva empatou no último domingo com o Santo André (1 a 1), enquanto o CRB foi goleado por 4 a 1 pelo CSA, no clássico de Alagoas. Era a estréia do técnico Givanildo no CRB.
 Caso se classifique, o atual líder do Campeonato Paulista vai enfrentar na segunda fase o Grêmio, de Porto Alegre, que eliminou o Criciúma (SC). O jogo de hoje começa a decidir uma das duas últimas vagas para as oitavas-de-final.
@@ -1709,9 +1709,9 @@ Sobre CRB x Corinthians na pág.3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-104</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-104</field>
+<field name="date">940329</field>
+<text_pt>
 Piloto diz que lentidão da McLaren acarretou batidas
 EDGARD ALVES
 Da Reportagem Local
@@ -1726,9 +1726,9 @@ Ainda sobre a corrida, disse que a vitória da Benetton o surpreendeu. "O Senna g
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-105</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-105</field>
+<field name="date">940329</field>
+<text_pt>
 FÁBIO SORMANI
 Não foi do jeito que a gente queria, mas Magic Johnson está de volta.
 É bem verdade que ele estará nas quadras, mas, ao contrário de antes, não dirigirá o time dentro das quatro linhas, mas sentado no banco de reservas, do lado de fora.
@@ -1747,9 +1747,9 @@ Good luck, Earvin.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-106</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-106</field>
+<field name="date">940329</field>
+<text_pt>
 
 No cruzamento das semifinais, no sábado, jogarão Duke x Flórida e Arkansas x Arizona. Favoritos? Se a zebra não der o ar da graça, Duke e Arkansas devem fazer a final. Quem ganha? Arkansas tem mais time, mas Duke tem mais tradição no momento.
 
@@ -1759,9 +1759,9 @@ O técnico de Arkansas, Nolan Richardson, foi escolhido como o melhor desta tempo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-107</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-107</field>
+<field name="date">940329</field>
+<text_pt>
 Da Agência Folha
 O CRB (Clube de Regatas Brasil) enfrenta hoje, em Maceió (AL), o Corinthians pela Copa do Brasil, sem a preocupação de chegar à Taça Libertadores. Para o campeão alagoano de 93 basta não perder para tentar recuperar a confiança de sua própria torcida.
 O time faz uma campanha ruim no Campeonato Alagoano deste ano. Em seis jogos, levou duas goleadas. A última foi anteontem, para seu maior rival, o CSA. O CRB perdeu de 4 x 1, o que não acontecia há 13 anos.
@@ -1770,9 +1770,9 @@ Os jogadores do CRB apostam em um bom resultado contra o Corinthians para acerta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-108</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-108</field>
+<field name="date">940329</field>
+<text_pt>
 Brasileiro ameaça 'limpar' a Fifa
 SÍLVIO LANCELLOTTI
 Da Equipe de Articulistas
@@ -1787,9 +1787,9 @@ Havelange antecipou a Matarrese sua intenção de "limpar a Fifa". Conta um import
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-109</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-109</field>
+<field name="date">940329</field>
+<text_pt>
 Da Equipe de Articulistas
 No momento, 190 países estão habilitados a participar do congresso que elegerá o presidente da Fifa em 16 de junho.
 Não terão o direito de votar, porém, as federações com os pagamentos em atraso, aquelas suspensas por motivos disciplinares e aquelas que, nos últimos dois anos, não houverem disputado ao menos duas das competições da entidade.
@@ -1799,9 +1799,9 @@ Os estatutos da Fifa prevêem uma obrigatoriedade, dois terços dos votos num prim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-110</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-110</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 O São Paulo inaugurou ontem seu museu. O memorial exibe os principais troféus e fotos. A partir de hoje, ele funciona das 14h às 19h, com entrada pelo portão 17 do Morumbi. O ingresso custa CR$ 1.500,00. Visitas coletivas devem ser marcadas pelo telefone 842-3377, ramal 245.
 A atração do memorial são as duas estações de multimídia, em que a história do São Paulo é contada por relatos de 36 pessoas ligadas ao clube. É possível acessar imagens (fotos, VTs) e sons (gravações) da história do São Paulo.
@@ -1811,9 +1811,9 @@ O time do São Paulo está no Japão, onde disputa no domingo a Recopa Sul-American
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-111</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-111</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Em 1991, após ter corrido apenas três GPs, um pela Jordan e dois pela Benetton, para a qual obteve um sexto e um quinto lugares, Michael Schumacher era mais um daqueles jovens que prometia ter um futuro brilhante na categoria. Em entrevista à Folha, antes do GP da Espanha daquele ano, Schumacher afirmava que ainda faltava alguma coisa para ser uma estrela. Não sabia o que era. Ainda disse que tinha um ídolo. "Desde 80, quando eu tinha 11 anos e o vi pela primeira vez: Ayrton Senna."
 Não falta mais nada para Schumacher, a não ser deixar o tempo passar e confirmar uma carreira de títulos. Na verdade, Schumi, como é chamado na Alemanha, nunca teve dúvidas. Quem o vê pessoalmente, percebe que ele é daqueles tipos perfeccionistas.
@@ -1827,9 +1827,9 @@ E para quem pensa que Schumacher viveu o maior momento de sua vida anteontem, qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-112</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-112</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Com uma festa para 2.000 convidados, comandada por Jô Soares, Ayrton Senna procura esquecer hoje por alguns momentos sua derrota para Michael Schumacher anteontem em Interlagos. O piloto da Williams veste a roupa de empresário e lança oficialmente os carros Audi no Brasil. Ele é representante licenciado da marca alemã no país.
 A festa vai acontecer a partir das 20h30 no hangar da Varig no aeroporto de Congonhas (zona sul de São Paulo). Um modelo Audi será desembarcado de um avião enquanto uma cascata de fogos de artifício, trazidos dos Estados Unidos, ilumina o local. O organizador do evento é José Victor Oliva, marido da jogadora de basquete Hortência e empresário da noite paulistana.
@@ -1837,18 +1837,18 @@ A Senna Import, empresa criada para trazer os carros ao Brasil, vai comercializa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-113</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-113</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Ayrton Senna passou o dia descansando ontem em São Paulo segundo funcionários de seu escritório em Santana (zona norte de São Paulo).
 Na quarta-feira, o piloto vai ao autódromo de Interlagos para apresentar os carros Audi à imprensa especializada. Depois deve seguir para sua casa de praia em Angra dos Reis (RJ). A Williams ainda não definiu se vai fazer algum teste antes do GP do Pacífico, dia 17 de abril no Japão.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-114</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-114</field>
+<field name="date">940329</field>
+<text_pt>
 Piloto diz que lentidão da McLaren acarretou batidas
 EDGARD ALVES
 Da Reportagem Local
@@ -1862,18 +1862,18 @@ Barrichello fica no Brasil para gravar comerciais e dia 10 segue para a Inglater
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-115</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-115</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 Ayrton Senna passou o dia descansando ontem em São Paulo segundo funcionários de seu escritório em Santana (zona norte de São Paulo).
 Na quarta-feira, o piloto vai ao autódromo de Interlagos para apresentar os carros Audi à imprensa especializada. Depois deve seguir para sua casa de praia em Angra dos Reis (RJ). A Williams ainda não definiu se vai fazer algum teste antes do GP do Pacífico, dia 17 de abril no Japão.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-116</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-116</field>
+<field name="date">940329</field>
+<text_pt>
 O grupo alemão mostra as canções de seu último disco, "Face the Heat", e alguns de seus maiores sucessos
 Da Redação
 
@@ -1891,9 +1891,9 @@ O braço norte-americano da turnê começou em Salt Lake City, onde 15 mil pessoas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-117</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-117</field>
+<field name="date">940329</field>
+<text_pt>
 Ciclo "1964: 30 Anos" exibe o documentário "Que Bom Te Ver Viva", que revive a histórias de ex-presas políticas
 Da Redação
 
@@ -1914,9 +1914,9 @@ Se chega a cumprir esse objetivo é, em boa parte, por ter restringido seu assunt
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-118</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-118</field>
+<field name="date">940329</field>
+<text_pt>
 A artista chinesa Deng Lin, 52, vai trazer para o Brasil suas tapeçarias em seda da série "Ecos Distantes"
 DANIEL PIZA
 Da Reportagem Local
@@ -1935,9 +1935,9 @@ Lin procura lidar com a expressão caligráfica que é a marca registrada de boa pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-119</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-119</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 O estilo chinês dominante no pós-89 é, por enquanto, o batizado como "pop pós-Tian An Men" ou "realismo cínico". Revelado ao mundo capitalista em 1993, em Hong Kong, esse estilo surpreendeu por dois motivos.
 Primeiro, por ser originado de uma corrente artística tão americana quanto o rock e o jeans: a pop art. A pop art nasceu na Inglaterra em 1957 com Richard Hamilton, mas os americanos nos anos 60 a tomaram como a um credo.
@@ -1954,31 +1954,31 @@ Sua primeira individual aconteceu só em 1988, na galeria Hefner em Nova York. E 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-120</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-120</field>
+<field name="date">940329</field>
+<text_pt>
 Todos os 250 mil ingressos para os 18 concertos da turnê norte-americana de Barbra Streisand foram vendidos por telefone anteontem em cerca de uma hora. Cerca de 5 milhões de pessoas ligaram atrás dos ingressos, que variavam entre US$ 50 e US$ 350 cada.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-121</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-121</field>
+<field name="date">940329</field>
+<text_pt>
 Saiu a lista anual dos mais elegantes do mundo, organizada pela publicitária Eleanor Lambert. Na ala das mulheres tem Sharon Stone, Caroline de Mônaco, Lily Safra (mulher do banqueiro Edmund Safra) e Harumi Klossowski, atriz, filha de Balthus, entre outras.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-122</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-122</field>
+<field name="date">940329</field>
+<text_pt>
 A comunidade de Wilflingen, na Alemanha, ajuda hoje o escritor Ernst Juenger a soprar suas 99 velinhas. No final dos anos 20, Juenger era partidário da direita revolucionária, que favoreceu o surgimento do nazismo. Se arrependeu e hoje escreve seus diários.
 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-123</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-123</field>
+<field name="date">940329</field>
+<text_pt>
 Dramaturgo foi um dos criadores do teatro do absurdo
 Das agências internacionais
 O dramaturgo Eugène Ionesco morreu ontem à tarde em Paris, aos 81 anos. Sua única filha, Anne-Marie, deu a notícia, sem informar a causa da morte. Ionesco, cidadão francês de origem romena, tornou-se mundialmente conhecido nos anos 50, como um dos autores do chamado teatro do absurdo. Suas obras mais famosas são: "A Cantora Careca" (1950), "A Lição" (1951), "As Cadeiras" (1952), "Os Rinocerontes" (1959), e "Morre o Rei" (1962).
@@ -1989,9 +1989,9 @@ Além de peças, Ionesco escreveu ensaios, artigos jornalísticos, peças de balé, ó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-124</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-124</field>
+<field name="date">940329</field>
+<text_pt>
 BERNARDO CARVALHO
 Da Reportagem Local
 O chamado absurdo do teatro de Ionesco tinha limites &#150;e contradições&#150; quando se tratava da vida do próprio autor. Associado à vanguarda iconoclasta em suas primeiras peças &#150;que estouraram em Paris nos anos 50 para acabar se tornando atrações turísticas para americanos na cidade (continuam sendo montadas até hoje no mesmo teatro &#150;La Huchette)&#150;, o escritor entrou muito satisfeito para a Academia Francesa em 1970 e terminou sua carreira literária com a publicação de seus diários, discorrendo longamente sobre Deus.
@@ -2005,9 +2005,9 @@ Ionesco terminou seus dias recolhido em seu apartamento parisiense. Numa entrevi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-125</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-125</field>
+<field name="date">940329</field>
+<text_pt>
 
 Sábato Magaldi, crítico teatral: "Ele foi um dos maiores dramaturgos do século 20 e, portanto, da história do teatro. Um homem que consolidou a vanguarda e justificou a expressão 'teatro do absurdo'. No início escrevia no clima surrealista. Aos poucos enveredou por questões metafísicas."
 
@@ -2017,9 +2017,9 @@ Cacá Rosset, ator e diretor teatral: "Ele conseguia perceber o ilógico em coisas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-126</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-126</field>
+<field name="date">940329</field>
+<text_pt>
 "What's Eating Gilbert Grape" ainda nem tem nome em português. "Gilbert Grape" é daqueles filmes que mal precisam ter nome. Daqueles que falam de uma solidão petrificada, de uma ausência de perspectiva bem moderna, de um silêncio quase ensurdecedor de uma adolescência desperdiçada.
 Digamos que o personagem de Nastassja Kinski em "Paris Texas" tivesse mais alguns filhos e abandonasse a prostituição voyeurista e fosse cuidar da sua casinha no interior dos EUA. Ia dar mais ou menos em algo como "Gilbert Grape".
 Já muito gorda, imagine que a personagem de Kinski (que foi linda na juventude) só quer ver seu filho "prejudicado mentalmente" fazer 18 anos. De resto, a vida é muito chata. Sem saída, seu filho mais velho (Gilbert/Johnny Depp) sucumbe. Para ele, até se apaixonar é complicado &#150;melhor se concentrar em dar banho no irmão e alimentar sua mãe.
@@ -2028,9 +2028,9 @@ Mesmo sem sucesso lá fora, esse trabalho merece ser visto, nem que seja para voc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-127</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-127</field>
+<field name="date">940329</field>
+<text_pt>
 Se alguém tão prestigiado como Tom Wolfe teve seu elogiado romance "A Fogueira das Vaidades" destruído por Hollywood, já dá para calcular que as chances de um estreante como Peter Hedges se dar bem não eram grandes.
 Exemplos como os de Bret Easton Ellis (que teve seu "Abaixo de Zero" dilacerado nas telas) e alguns até mais infelizes como "Um Caso Meio Incomum" (Slaves of New York, de Tama Janovitz), são de fato desestimulantes para um jovem escritor aspirante a roteirista em Los Angeles. Mas as ofertas dos estúdios falam mais alto (e mais caro) e a sedução das telas é incontornável.
 No caso de "What's Eating Gilbert Grape", Peter Hedges pode até se considerar recompensado (artisticamente). Quem sabe não serve como um estímulo positivo a outros escritores estreantes tão facilmente seduzidos pelo cinema.
@@ -2038,23 +2038,23 @@ Dois dos exemplos mais recentes são Donna Tartt com "The Secret History" (best s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-128</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-128</field>
+<field name="date">940329</field>
+<text_pt>
 É primavera nos Estados Unidos e os que adoram uma alergia podem contar com o relativo incômodo de um ataque de pólen comum à estação por lá. Mas nem pense em cancelar sua viagem por isso. Já existe o telefone especial 800-Pollens (ou 800-705-5367), um serviço que dá a situação do pólen semanalmente em 50 cidades americanas, criado pelo Marion Marrell Down Pollen Forecast. Não é exatamente tudo que você estava esperando?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-129</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-129</field>
+<field name="date">940329</field>
+<text_pt>
 Dia 8 de abril, estréia no Channel Four inglês, a série de desenho animado bastante alternativa "Beavis &amp; Butthead". Capa da última "Roling Stone" (numa inspirada paródia a um álbum de Elvis Presley), a dupla finalmente ultrapassa o universo da MTV. Vai ser a primeira vez que a série celebrizada pelo canal a cabo americano vai ser exibida fora dele. Só num lembrete para os outros canais por aqui, a série não tem previsão de estréia no Brasil.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-130</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-130</field>
+<field name="date">940329</field>
+<text_pt>
 HÉLIO GUIMARÃES
 Enviado especial a Salvador
 Terminou em Carnaval de rua. A apresentação do Olodum, anteontem à noite no largo do Pelourinho, encerrou a primeira edição do Perc-Pan - World Percussion Panorama.
@@ -2072,9 +2072,9 @@ Para o festival do ano que vem, marcado para abril, a direção musical de Naná Va
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-131</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-131</field>
+<field name="date">940329</field>
+<text_pt>
 
 A democracia no país está sempre correndo o risco de escorregar em nossas saudades coloniais e ibéricas
 ARNALDO JABOR
@@ -2116,9 +2116,9 @@ Ficaremos entre dois populismos em luta. Zé Português contra Chico Vigilante e o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-132</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-132</field>
+<field name="date">940329</field>
+<text_pt>
 Coleção de Noêmia Mourão incluía 20 obras do marido
 FEDERICO MENGOZZI
 Free-lance para a Folha
@@ -2128,9 +2128,9 @@ O ponto alto, segundo o leiloeiro público Aguinaldo Gabriel. A. Camorim, foi o a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-133</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-133</field>
+<field name="date">940329</field>
+<text_pt>
 Duas notícias abalaram minha chegada: a Hebe quase entra em cana e a Dama de Ferro enferrujou! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -2142,9 +2142,9 @@ E a grande alegria: a vitória da Seleção em Recife. Muda a Copa pro Recife! E vo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-134</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-134</field>
+<field name="date">940329</field>
+<text_pt>
 Terceira safra acima de 17 milhões de t de grãos anima produtores, agroindústrias e aquece vendas de insumos 
 SÉRGIO PRADO
 SUZANA BARELLI
@@ -2165,9 +2165,9 @@ A euforia vinda da boa safra já se reflete na venda de máquinas e implementos ag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-135</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-135</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 A Folha traz na próxima quinta-feira, dia 31 de março, o Guia da Safra 94, com análises exclusivas e reportagens sobre a maior colheita da história brasileira.
 Previsões divulgadas recentemente pela Companhia Nacional de Abastecimento (Conab) e Instituto Brasileiro de Geografia e Estatística (IBGE) indicam que a safra deverá render entre 73,6 e 74,1 milhões de toneladas de grãos.
@@ -2176,9 +2176,9 @@ Analistas como Luís Nassif, Aloysio Biondi e técnicos da agência Safras, de Port
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-136</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-136</field>
+<field name="date">940329</field>
+<text_pt>
 LUIZ ANTONIO PINAZZA
 A Rodada Uruguai do Gatt terminou em 15 de dezembro último. Foi a oitava e mais longa negociação realizada -sete anos e três meses de duração. O acordo será assinado em Marrakech, no Marrocos, em 15 de abril.
 Tudo está selado por agora. Uma nova rodada virá em 2000, desta feita sob o âmbito da Organização Multilateral de Comércio (MTC), organismo que substituirá o Gatt.
@@ -2196,9 +2196,9 @@ LUIZ ANTONIO PINAZZA é engenheiro agrônomo e coordenador de planejamento da Agro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-137</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-137</field>
+<field name="date">940329</field>
+<text_pt>
 ORIVALDO BRUNINI
 Especial para a Folha
 As chuvas da semana passada continuaram recuperando as reservas hídricas nos locais em que se encontravam restritas e mantendo o nível elevado nas outras regiões.
@@ -2211,9 +2211,9 @@ A previsão não indica chuvas nos próximos dias. Por isso, recomenda-se a irrigaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-138</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-138</field>
+<field name="date">940329</field>
+<text_pt>
 Produtividade da Estância Pinhão, em Pindamonhanga (SP), é sete vezes superior à média brasileira
 CLÁUDIO LEYRIA
 Da Folha Vale
@@ -2231,9 +2231,9 @@ Dados do IEA (Instituto de Economia Agrícola) mostram a existência de 380 milhõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-139</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-139</field>
+<field name="date">940329</field>
+<text_pt>
 MARCELO LEITE
 Da Reportagem Local
 O único meio disponível para combater gafanhotos são pesticidas químicos -por enquanto. Dentro de poucos anos eles poderão ser substituídos por uma arma secreta da própria natureza, os fungos do gênero Metarhizium.
@@ -2246,9 +2246,9 @@ Só na África são gastos US$ 100 milhões anuais &#150;o equivalente à receita anu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-140</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-140</field>
+<field name="date">940329</field>
+<text_pt>
 SEBASTIÃO NASCIMENTO
 Da Reportagem Local
 A segunda mais importante mostra agropecuária de gado zebu do país começa dia 7 de abril próximo na cidade de Londrina (PR) e tem duração de 10 dias. É a 34ª Exposição Agropecuária e Industrial, que reúne mil cabeças de animais, realiza 35 leilões e apresenta para julgamento o gado brahma, que pisou pela primeira vez no Brasil 15 dias atrás.
@@ -2262,9 +2262,9 @@ O Mercosul também está na pauta. A chegada do brahma define um novo perfil nas r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940329-141</text_pt>
-<text_pt name="date">940329</text_pt>
-<text_pt name="text">
+<field name="id">FSP940329-141</field>
+<field name="date">940329</field>
+<text_pt>
 Da Reportagem Local
 O leilão Venda Total Jersey, promovido pelo criador Oscar Emílio Welker Júnior, dia 22 passado, na Churrascaria Bull's Grill (zona oeste de São Paulo), vendeu 45 fêmeas e um macho por CR$ 52,6 milhões.
 A média foi de CR$ 1,2 milhão por exemplar (o equivalente a 1.387 URVs ou 2.264 litros de leite B na padaria). O preço dos animais foi parcelado em 10 vezes, corrigido pela URV (Unidade Real de Valor).

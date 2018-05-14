@@ -22,14 +22,16 @@ import org.w3c.dom.NodeList;
 
 public class FileReader {
 	
-	public static void main(String argv[]) {
+	static Integer file_number  = 0;
 	
+	public static void main(String argv[]) {
+		
 		String file;
-		try (Stream<Path> paths = Files.walk(Paths.get("files"))) {
+		try (Stream<Path> paths = Files.walk(Paths.get("input"))) {
 		    paths
 		        .filter(Files::isRegularFile)
 		        .forEach(
-		        		(i) -> XMLStringBuilder(i)		
+		        		(i) -> XMLStringBuilder(i, file_number)		
 		       );
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -37,10 +39,11 @@ public class FileReader {
 		}
 	}
 
-	private static Object XMLStringBuilder(Path i) {
+	private static Object XMLStringBuilder(Path i, Integer file_number) {
 		// TODO Auto-generated method stub
 		
 		String file = i.toString();
+		System.out.println(file);
 		
 		try {
 
@@ -87,8 +90,13 @@ public class FileReader {
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
             transformer.setOutputProperty(OutputKeys.ENCODING, "ISO-8859-1");
             DOMSource source = new DOMSource(doc1);
+            
+            System.out.println(source);
+            
             //StreamResult console = new StreamResult(System.out);
-            StreamResult archive = new StreamResult(new File(file+"Solr"+file_number));
+            System.out.println(file);
+            String[] parts = file.split("[\\\\,.]");
+            StreamResult archive = new StreamResult(new File("output/"+parts[1]+parts[2]+"Solr"+file_number+".xml"));
             file_number++;
             //transformer.transform(source, console);
             transformer.transform(source, archive);
@@ -97,6 +105,7 @@ public class FileReader {
 			
 		} catch (Exception e) {
 		    e.printStackTrace();
+		    System.exit(0);
 		}
 		return null;
 	}

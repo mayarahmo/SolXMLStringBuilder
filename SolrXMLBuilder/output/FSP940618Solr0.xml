@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940618-001</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-001</field>
+<field name="date">940618</field>
+<text_pt>
 MATINAS SUZUKI JR.
 Enviado especial a Chicago
 A Alemanha, atual campeã mundial, começou com marcha triunfal a sua par
@@ -13,9 +13,9 @@ Copa 94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-002</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-002</field>
+<field name="date">940618</field>
+<text_pt>
 É raro, mas existe mesmo no mundo animal. A autofagia, o comportamento suicida e até mesmo o pânico às vezes levam comunidades inteiras à destruição. A corrida desatada de remarcação de preços perto da introdução do real engrossa a lista de patologias coletivas, de comportamentos irracionais movidos pelo medo do desconhecido.
 A irracionalidade torna-se ainda mais patente levando-se em conta que há apenas três meses os mercados foram tomados por inquietações análogas. Às vésperas da URV, reagiram da mesma maneira, remarcando preventivamente e fazendo estoques especulativos, apenas para acabar dando com os burros n'água. A remarcação exagerada bateu de frente com o poder aquisitivo estabilizado e os especuladores tiveram de voltar atrás.
 Mas agora tudo se passa como se o acontecido há poucas semanas tivesse ocorrido há anos, num lugar longínquo. Na indústria e no comércio há novamente quem aposte numa bolha de consumo com força suficiente para sancionar aumentos preventivos de preços.
@@ -25,9 +25,9 @@ Como já ocorreu em março e abril, o mais provável é que já no final de julho ess
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-003</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-003</field>
+<field name="date">940618</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A mania brasileira de transformar tudo em piada (às vezes também em pizza) está obscurecendo uma questão fundamental em relação aos saquinhos com moedas de reais que apareceram no lixo de Brasília.
 Uma questão principal até simples: será que os bancos depositários da nova moeda não fazem um controle estrito da quantidade que receberam?
@@ -41,9 +41,9 @@ Mais grave é sumir dinheiro do cofre forte de um banco oficial e só se descobrir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-004</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-004</field>
+<field name="date">940618</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Correndo o risco de perder sua licença médica e até ser preso, Aníbal Faundes, diretor do Centro de Assistência Integral à Saúde da Mulher, da Universidade Estadual de Campinas (Unicamp), provocou impacto ao fazer inusitada revelação à Folha.
 Lá são realizados abortos ilegais quando se detecta que o feto não terá condições de sobreviver. A Unicamp anunciou uma sindicância. Pode ser ilegal, mas o médico está certo.
@@ -55,9 +55,9 @@ PS &#150; Num livro que está prestes para lançar com informações de bastidores, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-005</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-005</field>
+<field name="date">940618</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Em criança, ouvia dizer que, na noite de São João, pode-se pisar descalço nas brasas da fogueira, desde que seja à meia-noite em ponto. Não me lembro de ter conhecido alguém que tivesse praticado a milagrosa experiência. Mas era um fato indubitável, garantido pelo relato oral de gerações. Citavam-se casos.
 Havia muitas fogueiras nos quintais da minha infância. Hoje, nas cidades, não existem mais fogueiras, mas pelo interior a tradição ainda persiste. Eis que, esta semana, conheci um sujeito que atende pelo nome de Zeca Amizade. Não é apelido: ele conseguiu registro civil com esse nome e mais: candidatou-se a deputado estadual e o Tribunal Regional aceitou o seu registro como Zeca Amizade.
@@ -68,9 +68,9 @@ Estamos necessitados de evidências desse tipo, de testes definitivos sobre a cap
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-006</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-006</field>
+<field name="date">940618</field>
+<text_pt>
 Esta foi uma semana particularmente triste para o Brasil em termos de violência. Desde o último domingo, o país vem assistindo a uma impressionante série de assassinatos que despertou a atenção da sociedade para os intoleráveis níveis de brutalidade com que se convive.
 No último domingo foi assassinado em São Carlos, no interior paulista, o casal de sindicalistas José Luís e Rosa Sundermann. Aparentemente, o crime teve motivações políticas. Também no domingo a cidade de São Paulo registrou duas chacinas que vitimaram 18 pessoas. Os motivos ainda não são claros, mas as hipóteses vão da ação de esquadrões da morte à vingança.
 Na segunda-feira, morreram a chumbo no Rio os militantes petistas Reinaldo Guedes Miranda e Hermógenes de Almeida da Silva Filho. Suspeita-se também neste caso de crime político. Como que troçando da idéia de civilização, na terça-feira, foram encontrados no Rio 13 corpos perfurados a bala de grosso calibre. Atribuíram-se as mortes à chamada guerra do tráfico. Na quarta, numa avenida do elegante bairro paulistano do Morumbi, foram encontrados os cadáveres de três jovens. De novo as suspeitas recaem sobre "justiceiros" ou sobre a rivalidade entre gangues.
@@ -79,9 +79,9 @@ Se todas as absurdas mortes anteriores encontravam um lugar na distorcida lógica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-007</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-007</field>
+<field name="date">940618</field>
+<text_pt>
 A nova moeda, o real, entrará em circulação no dia 1º de julho. Mas alguns poucos brasileiros, miseráveis e pequenos comerciantes das redondezas do Senado, já tiveram a oportunidade de utilizá-la normalmente, ou melhor, anormalmente.
 Os catadores de lixo que encontraram as moedas de real extraviadas serviram-se delas para pagar pequenas dívidas, comprar comida e cigarros. Em todos os locais a que se dirigiram, as moedas, que legalmente ainda não existem, foram aceitas facilmente e com as mais disparatadas conversões em relação ao atual cruzeiro real.
 O episódio denuncia uma grave falha no sistema de segurança que envolve a distribuição da nova moeda às agências bancárias do país. Deixa dúvidas quanto à possibilidade de que quantias maiores tenham sido desviadas e uma sensação de improvisação, pelo menos nas tarefas práticas da execução do novo plano econômico.
@@ -92,9 +92,9 @@ O contraste entre a sofisticação do plano e a pálida e simplista impressão que d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-008</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-008</field>
+<field name="date">940618</field>
+<text_pt>
 Luciano Mendes de Almeida
 Quem são as paulinas? Assim denominamos as irmãs que pertencem à congregação religiosa fundada por padre Tiago Alberione, na Itália, em 1915. Foi sua colaboradora para esta obra de Deus a irmã Tecla Merlo, cujo centenário de nascimento celebramos neste ano.
 Padre Alberione, que ofereceu à Igreja a criação de quatro outras congregações religiosas, inspirado no zelo de São Paulo, foi em sua época pioneiro do apostolado pelos meios de comunicação social.
@@ -112,9 +112,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-009</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-009</field>
+<field name="date">940618</field>
+<text_pt>
 WINSTON FRITSCH
 A lei antitruste aprovada é um instrumento adequado para o combate à inflação?
 SIM
@@ -139,9 +139,9 @@ WINSTON FRITSCH, 46, é secretário de Política Econômica do Ministério da Fazenda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-010</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-010</field>
+<field name="date">940618</field>
+<text_pt>
 IVES GANDRA DA SILVA MARTINS
 A lei antitruste aprovada é um instrumento adequado para o combate à inflação?
 NÃO
@@ -159,9 +159,9 @@ IVES GANDRA DA SILVA MARTINS, 58, é professor emérito da Universidade Mackenzie 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-011</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-011</field>
+<field name="date">940618</field>
+<text_pt>
 JOSÉ DEL CHIARO
 A lei antitruste aprovada é um instrumento adequado para o combate à inflação?
 EM TERMOS
@@ -181,9 +181,9 @@ JOSÉ DEL CHIARO, 38, é membro do Instituto dos Advogados de São Paulo e vice-pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-012</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-012</field>
+<field name="date">940618</field>
+<text_pt>
 
 "A dolorosa realidade das mulheres brasileiras transparece no corajoso depoimento do médico Aníbal Faundes (Folha, 16/06). Oxalá outros se somem a ele relatando suas próprias experiências. É por isso que pretendo continuar na política, agora na Câmara Federal, para ser uma voz que leve à vida pública problemas que podem e devem ser resolvidos. Certamente com um amplo programa de planejamento familiar, conforme apresentei e foi aprovado no Senado, evitaremos muitas gravidezes indesejadas. Com a descriminalização do aborto serão evitadas milhares de mortes de mulheres e adolescentes."
 Eva Blay, professora titular da Universidade de São Paulo (São Paulo, SP)
@@ -244,9 +244,9 @@ Luiz Carlos Guedes (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-013</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-013</field>
+<field name="date">940618</field>
+<text_pt>
 O QUE FIZERAM
 Lula - Visitou um assentamento legal em Teodoro Sampaio (SP) e prometeu fazer a reforma agrária. "Com uma canetada só, vou dar tanta terra que vocês nem vão acreditar", disse o candidato do PT. Lula encerrou sua caravana pelo interior de São Paulo após debate com empresários e pecuaristas da região de Presidente Prudente.pág. 1-8
 
@@ -260,9 +260,9 @@ Amin - Percorreu as cidades de Andradina, Mirandópolis, Valparaíso, Guararapes, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-014</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-014</field>
+<field name="date">940618</field>
+<text_pt>
 FIM-DE-SEMANA
 Lula - Dia livre hoje. Amanhã à noite embarca para viagem à África do Sul.
 
@@ -276,9 +276,9 @@ Obs.: As agendas são fornecidas pelas assessorias dos candidatos e estão sujeita
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-015</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-015</field>
+<field name="date">940618</field>
+<text_pt>
 No último fim-de-semana, Adroaldo Streck (PSDB-RS) atendeu ao convite do prefeito de Santa Maria do Erval (RS), Ademir Scheineder (PPR), para falar no salão paroquial da cidade sobre o Plano Real.
 Candidato à reeleição para a Câmara, Streck estava feliz por ter sido convidado por um prefeito do PPR. Chegou à cidade e, antes de entrar no salão paroquial, emocionou-se com os traços de colonização alemã do lugarejo. Ele também nasceu numa cidade assim: Cerro Branco.
 A palestra foi acompanhada por 300 colonos. Streck desfez dúvidas, procurou tranquilizar os apreensivos e pregou o otimismo. Já estava terminando quando o prefeito sussurrou ao seu ouvido:
@@ -293,9 +293,9 @@ Foi aplaudido de pé.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-016</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-016</field>
+<field name="date">940618</field>
+<text_pt>
 O fim da correção do Imposto de Renda a partir de 1º de julho, tanto para quem receberá restituição como para os que ainda devem, só na aparência é o tratamento de igualdade a que o governo se refere. Na realidade, representará prejuízo para os credores do imposto e benefício para os devedores.
 O próprio ministro Rubens Ricupero admitiu a persistência de alguma inflação em julho, ao prevenir, no início da semana, que a queda sensível do índice só deve ser esperada para agosto. Logo, quem receberá restituição perderá a correção de julho. E quem terá cotas a pagar, vai fazê-lo pelo valor antigo, sem corrigir o débito.
 Só em caso de inflação zero a falta de correção seria idêntica para credores e devedores do IR. Mas, além do que já disse Ricupero sobre julho, o governo não tem o direito de presumir a inflação zero se isto implica a probabilidade de injustiça &#150;e justamente contra os que já cumpriram, até em excesso, as suas obrigações de contribuintes.
@@ -310,9 +310,9 @@ Cometi uma troca de palavras no artigo de ontem. Na referência à ação do governo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-017</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-017</field>
+<field name="date">940618</field>
+<text_pt>
 ELVIS CESAR BONASSA e DANIELA PINHEIRO
 Da Sucursal de Brasília
 Nas eleições deste ano, apenas 75 dos atuais 503 deputados decidiram não tentar a reeleição. Sete estão indecisos. Isto pode diminuir o grau de renovação da Câmara, que há quatro anos atingiu 62%.
@@ -335,9 +335,9 @@ O ex-ministro Paulino Cícero e o deputado Jesus Tajra (PFL-PI) planejavam sair c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-018</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-018</field>
+<field name="date">940618</field>
+<text_pt>
 Para ele, medida prejudicaria apuração de votos dos deputados; consequências serão 'danosas', diz o presidente do TSE
 Da Sucursal de Brasília
 O presidente da Câmara dos Deputados, Inocêncio Oliveira (PFL-PE), disse ontem que a Câmara não vai aprovar a utilização de duas urnas nas eleições de 3 de outubro. Com a decisão, o resultado do primeiro turno das eleições presidenciais só será conhecido em 12 dias.
@@ -357,9 +357,9 @@ O presidente do TSE disse ser a favor do projeto que cria incentivo fiscal para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-019</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-019</field>
+<field name="date">940618</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Parece coisa armada, isso de começar a campanha do real no mesmo dia em que começa a Copa. Em plena sexta-feira, no final da semana. Dia em que a atenção, na televisão e no país, estava toda no jogo de abertura da Copa. O ministro Rubens Ricupero, que já não tem a mais empolgante das personalidades, apareceu em cadeia nacional de rádio e televisão para um discurso de causar bocejos.
@@ -373,18 +373,18 @@ No Globo Repórter, ontem, um elogio rasgado, emocionado aos policiais. Nada cont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-020</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-020</field>
+<field name="date">940618</field>
+<text_pt>
 Da Sucursal de Brasília
 O corregedor-geral eleitoral do TSE, Flaquer Scartezzini, determinou a retirada imediata de toda a propaganda eleitoral que tenha sido colocada em outdoors pelos candidatos à Presidência.
 A lei eleitoral só permite o uso de outdoors depois que a Justiça Eleitoral sortear entre os candidatos os espaços para propaganda em cada município. As empresas de publicidade têm até segunda para entregar a relação de outdoors. O sorteio deve ser feito até dia 25.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-021</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-021</field>
+<field name="date">940618</field>
+<text_pt>
 VALDO CRUZ
 Secretário de Redação da Sucursal de Brasília
 GABRIELA WOLTHERS
@@ -401,9 +401,9 @@ Os tucanos afirmam que as obras não acarretariam grandes custos à União. A idéia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-022</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-022</field>
+<field name="date">940618</field>
+<text_pt>
 EDMILSON ZANETTI
 Da Folha Norte
 EMANUEL NERI
@@ -423,9 +423,9 @@ Ele ouviu queixas dos trabalhadores sobre os preços e concordou com um eventual 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-023</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-023</field>
+<field name="date">940618</field>
+<text_pt>
 Do enviado especial a Ribeirão Preto e da Folha Nordeste
 Fernando Henrique Cardoso ainda não encontrou o sapato ideal para a campanha. Ele prefere usar "mocassins", mas ontem enfrentou sérias dificuldades.
 Logo na chegada, FHC tropeçou num batente e descolou a sola do sapato. Ele cumpriu o resto da programação andando com dificuldade: "É que o sapato está velhinho", explicou.
@@ -437,9 +437,9 @@ O candidato a presidente enfrentou ainda outro problema. Ainda no aeroporto de R
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-024</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-024</field>
+<field name="date">940618</field>
+<text_pt>
 MÁRIO SIMAS FILHO
 Enviado especial a São Simão (GO)
 O resultado da pesquisa Datafolha, que aponta a queda de Orestes Quércia de 8% para 6%, caiu como uma bomba no comando da campanha peemedebista e poderá mudar a estratégia de campanha.
@@ -462,9 +462,9 @@ Colaborou SAULO DE LA RUE, da Redação. O jornalista MARIO SIMAS FILHO viajou a S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-025</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-025</field>
+<field name="date">940618</field>
+<text_pt>
 Equipe quer regra rígida que impeça o governo de lançar reais na economia para cobrir contas a descoberto
 CARLOS ALBERTO SARDENBERG
 Da Reportagem Local
@@ -486,9 +486,9 @@ Esta é a disposição da equipe econômica. Depende obviamente de aprovação do pres
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-026</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-026</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 A equipe econômica vai pedir aos institutos de pesquisa que, ao divulgarem a inflação de julho, utilizem um destes dois critérios: ou separar a inflação do cruzeiro real daquela do real; ou divulgar junto um índice que capte apenas a inflação em real.
 Para a equipe, os métodos de cálculo dos índices vão mostrar uma ilusão estatística &#150;vão registrar inflação em julho mesmo que os preços permaneçam estáveis.
@@ -505,9 +505,9 @@ Por isso, a equipe vai solicitar que os institutos explicitem a diferença entre 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-027</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-027</field>
+<field name="date">940618</field>
+<text_pt>
 JOSUÉ MACHADO
 Na biografia de Vinicius, "O Poeta da Paixão", José Castello conta que Aurélio Buarque de Holanda Ferreira quase brigou com o amigo poeta; acusou-o de ter estragado seu dicionário com o uso livre e fortíssimo da conjunção posto que como causal, eternizando-a assim, torta, no terceto final de seu "Soneto de Fidelidade", de 1939:
 "Eu possa me dizer do amor (que tive):
@@ -526,9 +526,9 @@ JOSUÉ R.S. MACHADO é jornalista, formado em Línguas Neolatinas pela PUC-SP. Cola
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-028</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-028</field>
+<field name="date">940618</field>
+<text_pt>
 Leia a seguir a íntegra do pronunciamento do ministro da Fazenda Rubens Ricupero.
 Discurso do ministro da Fazenda, embaixador Rubens Ricupero, em cadeia nacional de rádio e televisão.
 Brasília, 17 de junho de 1994.
@@ -557,9 +557,9 @@ Muito obrigado e boa tarde.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-029</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-029</field>
+<field name="date">940618</field>
+<text_pt>
 Apesar de proibido pelo Código Penal brasileiro, nos últimos 2 anos pelo menos 7 casos foram permitidos
 Da Reportagem Local
 Pelo menos sete vezes nos últimos dois anos, a Justiça brasileira já autorizou abortos por malformação do feto. Este tipo de aborto não é permitido pelo Código Penal, que só autoriza em caso de estupro ou risco de vida para a mãe.
@@ -577,9 +577,9 @@ A sentença foi dada pelo juiz Geraldo Francisco Pinheiro Franco, em novembro de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-030</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-030</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local e das Regionais
 O médico Aníbal Faundes, diretor do Caism (Centro de Assitência à Saúde da Mulher), da Unicamp, disse ontem que se for preso por ter afirmado que faz abortos para casos de malformação de fetos que não tenham condições de sobrevivência será um preço muito pequeno que pagará pela mudança da lei do aborto.
 Segundo Faundes, sua prisão seria um escândalo tão grande que chamaria a atenção da sociedade e mudaria a lei.
@@ -603,9 +603,9 @@ Aníbal Fauntes  - Obviamente que vou obedecer as instruções da universidade, mas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-031</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-031</field>
+<field name="date">940618</field>
+<text_pt>
 Da FT
 Cerca de 1,4 milhão de pessoas vão ficar sem água hoje, por 14 horas, em São Paulo. A Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) interrompe o abastecimento em 21 bairros das zonas sul e oeste da cidade, das 4h às 18h.
 A interrupção é para obras de manutenção e para a realização de serviços de interligação da adutora Theodoro Ramos-Morumbi, do Sistema Guarapiranga, com o Sistema Adutor Metropolitano.
@@ -615,9 +615,9 @@ Em casos de emergência, caminhões-tanque podem ser chamados pelo telefone 195.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-032</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-032</field>
+<field name="date">940618</field>
+<text_pt>
 Da Sucursal de Brasília
 Um problema de padronização gráfica impediu que o "Diário Oficial" publicasse, na sua edição de ontem, os 20 processos administrativos que a SDE (Secretaria de Direito Econômico) abriu contra escolas particulares de São Paulo.
 A Folha apurou que os processos remetidos anteontem pela SDE foram recusados pelo DO. A alegação foi de que eles estavam "fora dos padrões para margem de publicação".
@@ -627,9 +627,9 @@ As escolas estão sendo acusadas de criar dificuldades à livre concorrência e pra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-033</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-033</field>
+<field name="date">940618</field>
+<text_pt>
 Quem reajustar acima da URV ficará fora das gôndolas; no RS, há ameaça de desabastecimento
 Da Reportagem Local
 Os supermercados vão boicotar a compra das indústrias que estiverem aumentando os preços em URV ou retirando os descontos.
@@ -648,9 +648,9 @@ Colaborou a Agência Folha, em Porto Alegre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-034</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-034</field>
+<field name="date">940618</field>
+<text_pt>
 Para Benvenuti, da Associação Paulista de Restaurantes, em oito meses preços em São Paulo serão iguais aos de Miami e Buenos Aires
 FÁTIMA FERNANDES
 Da Reportagem Local
@@ -680,9 +680,9 @@ Os seus pratos preferidos são os que incluem carne bovina. A esposa gosta de ref
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-035</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-035</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 Uma cesta de alimentos perecíveis, com um total de 11 itens, começa a ser comercializada em São Paulo com o compromisso, de seus fornecedores, de que os preços permanecerão estáveis por um período de sete dias.
 Da primeira relação, válida para o período compreendido entre 20 e 26 de junho, constam tomate comum, cenoura, pepino comum, laranja pera, mamão papaia, banana nanica, cebola nacional, batata comum lavada, repolho liso, pescada pequena e corvina.
@@ -693,9 +693,9 @@ No atacado da Ceagesp, os preços ficarão congelados por uma semana. Eles serão f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-036</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-036</field>
+<field name="date">940618</field>
+<text_pt>
 Uma campanha de valorização da propaganda será veiculada a partir de amanhã nos principais jornais e revistas do país. Em três anúncios de página dupla, a Abap (Associação Brasileira de Agências de Propaganda) relaciona casos em que a diferença entre o sucesso e o fracasso empresarial foi ditado pela competência das estratégias de marketing e comunicação. "A cada 10 novos produtos lançados, 7 deles fracassam porque, por uma razão ou outra, não conseguem sobressair junto ao consumidor", afirma um anúncio.
 
 Aumenta uso de cartões no turismo
@@ -706,9 +706,9 @@ O empresário e corretor de imóveis, Roberto Capuano, foi reeleito pela terceira 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-037</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-037</field>
+<field name="date">940618</field>
+<text_pt>
 JULIO CAPOBIANCO
 O dia 8 de junho de 1994 deverá passar para a história do país como a data em que o presidente da República, engenheiro Itamar Franco, reintroduziu, definitivamente, a livre concorrência no setor da construção civil e obras públicas.
 Sensível às necessidades da sociedade brasileira, o presidente sancionou a nova Lei de Licitações (Lei de Conversão 10) com 32 vetos, entre eles o de um artigo que impunha aos participantes dos processos licitatórios a exigência de apresentarem atestados técnicos de obras anteriores.
@@ -731,9 +731,9 @@ JULIO CAPOBIANCO, 72, empresário, é presidente do ITQC (Instituto Brasileiro de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-038</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-038</field>
+<field name="date">940618</field>
+<text_pt>
 JOSÉ VALDIR RIBEIRO DOS REIS
 A Previdência Social é um dos maiores problemas brasileiros, com certeza o único que atinge diretamente a todos &#150;independentemente de classe, categoria ou situação econômica. Afinal, uma das certezas que o futuro nos reserva é saber que, mais cedo ou mais tarde, todos nós seremos dependentes da Previdência, quer como aposentado, quer pensionista.
 No entanto, a crise da Previdência Social no Brasil, que por sinal tem se agravado com o passar dos anos, continua sendo mal discutida. Apesar de vivermos um ano de eleições &#150;eleições gerais como não se verificam desde 1950&#150; partidos e candidatos continuam não dando ao problema a importância que ele merece.
@@ -749,9 +749,9 @@ JOSÉ VALDIR RIBEIRO DOS REIS, 49, economista, é presidente da Previ (Fundo de Pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-039</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-039</field>
+<field name="date">940618</field>
+<text_pt>
 Na segunda semana de junho &#150;de 9 a 16&#150; o valor da cesta básica do paulistano, com 68 produtos, teve alta de 9,42% em cruzeiros reais, segundo pesquisa realizada pelo Procon em convênio com o Dieese. O aumento da cesta acumulado no mês de junho atinge 26,26%.
 Os produtos de higiene pessoal subiram 10,68% na semana. No acumulado do mês o aumento é de 23,98%. Os produtos de limpeza tiveram alta de 10,02%, atingindo elevação de 22,43% em junho. Os alimentícios acusaram alta semanal de 9,21%, acumulando aumento de 27,01% em junho.
 Em Unidade Real de Valor, a variação é de 0,09%, acumulando alta de 4,02% em junho. Os produtos de higiene pessoal foram os que mais pressionaram, com alta de 1,23% na semana, acumulando 2,14% no mês. Os de alimentação caíram 0,11%, mas acumulam a maior alta no mês: 4,64%.
@@ -759,25 +759,25 @@ Ontem, em relação ao dia anterior, a cesta teve alta de 0,87% em cruzeiros reais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-040</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-040</field>
+<field name="date">940618</field>
+<text_pt>
 O preço do vestuário variou 41,33% em maio. No mês anterior a varaição foi de 40,01%. No acumulado do ano o reajuste é de 394,93%. Nos últimos 12 meses o aumento chega a 3.084,54%, segundo pesquisa realizada pela Abravest (Associação Brasileira do Vestuário).
 O forro teve variação de 44,36% no mês, acusando o maior aumento entre os itens pesquisados. No acumulado do ano, o produto variou 462,40%. O custo da matéria-prima subiu 43,80%, acumulando no ano alta de 490,60%. Comparado com maio de 93, a alta é de 12,67 pontos percentuais.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-041</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-041</field>
+<field name="date">940618</field>
+<text_pt>
 A inflação anual do Canadá entre maio de 1993 e maio de 1994 caiu 0,2%, apesar da economia ter crescido aceleradamente no primeiro quadrimestre do ano. Essa é a primeira vez que há deflação no Canadá desde agosto de 1955. Os economistas haviam previsto para maio inflação de 0,3%.
 Em abril, a inflação anual havia sido de 0,2%. A queda no imposto sobre o tabaco, no preço das roupas e as recentes mudanças no sistema tributário foram os principais responsáveis pela deflação. A inflação mensal de maio também teve queda de 0,2%. Em abril, havia subido 0,1%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-042</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-042</field>
+<field name="date">940618</field>
+<text_pt>
 O indicador de preços utilizado no esquema de retenção das exportações de café continua subindo. Ontem, o indicador, calculado pela Associação dos Países Produtores de Café (APPC), alcançou 119,24 centavos de dólar por libra-peso (453 gramas), 30% superior ao valor de 30 dias atrás.
 Para apurar o valor do indicador, a OIC faz uma média dos preços dos últimos 20 dias. Assim, o indicador de ontem foi elaborado com as cotações de 19 de maio a 16 de junho. Pelo esquema acertado pelos países produtores, a retenção é suspensa quando o indicador alcança 80 centavos de dólar.
 Quando atinge 85 centavos de dólar o café retido pode ser exportado, o que ocorreu em abril. Analistas acreditam que os preços devam permanecer elevados pelo menos até o próximo ano em função da escassez no mercado internacional. A safra mundial 94/95 deve ter quebra de 4%.
@@ -785,9 +785,9 @@ Segundo a Febec (Federação Brasileira dos Exportadores de Café), as exportações 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-043</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-043</field>
+<field name="date">940618</field>
+<text_pt>
 Da Sucursal de Brasília
 A auditoria interna do Banco do Brasil que investigou o extravio das moedas de real constatou que houve falha humana no esquema de segurança da distribuição da nova moeda.
 Dois funcionários da agência do banco no Senado Federal não seguiram todas as normas de segurança ao manusear as embalagens com as moedas.
@@ -803,9 +803,9 @@ O diretor-geral da PF, coronel Wilson Romão, disse que recebeu "recomendações ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-044</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-044</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 Os depósitos superaram os saques nas cadernetas de poupança em CR$ 837,696 bilhões (US$ 395,3 milhões) até o último dia 10. Este valor corresponde ao patrimônio da Caixa Econômica Federal em 1992.
 A informação foi divulgada ontem pela Abecip (Associação Brasileira das Entidades de Crédito Imobiliário e Poupança).
@@ -818,9 +818,9 @@ Para o presidente da Abecip, a captação líquida deve fechar o mês de junho "entr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-045</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-045</field>
+<field name="date">940618</field>
+<text_pt>
 Da Redação
 Ao optar por um carro zero quilômetro, o comprador tem em mente que não terá problemas ou preocupações. Nem sempre. O engenheiro mecânico Carlos Alberto Falconiery de Lima, 36, comprou em fevereiro de 93 um Logus GL 1.8. "De nada me adiantou o carro ser novo. Ele já foi 34 vezes para a concessionária", reclama.
 Os problemas, relata ele, são marcha pulando, ré que arranha, porta-malas que não abre, tampa do porta-luvas com defeito, banco do passageiro solto. O carro acelera sozinho.
@@ -829,9 +829,9 @@ Segundo ele, a Autolatina alega que os problemas de painel e do porta-malas fora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-046</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-046</field>
+<field name="date">940618</field>
+<text_pt>
 
 1 CONVERSÃO HOJE
 A conversão de cruzeiros reais para reais é sempre feita levando em consideração o valor da URV. Neste plano não será feito simplesmente o corte de três zero da moeda. Hoje, por exemplo, uma URV vale CR$ 2.361,49.
@@ -855,9 +855,9 @@ Você comprar um produto de CR$ 100,000,00 hoje, com a URV em CR$ 2.361,49. Você 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-047</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-047</field>
+<field name="date">940618</field>
+<text_pt>
 MÁRCIA DE CHIARA
 Da Reportagem Local
 O cheque pré-datado em real, adotado gradativamente pelo comércio desde a metade do mês passado, ainda não emplacou.
@@ -878,9 +878,9 @@ Em junho, a queda persiste. Nos primeiros 12 dias do mês, a média diária de cons
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-048</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-048</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 A venda de carros importados em maio atingiu 11.135 unidades, 10,5% das vendas de automóveis e comerciais leves produzidos no Brasil no período (105.408).
 Nos primeiros cinco meses do ano o total de veículos importados vendidos foi de 42.564.
@@ -893,9 +893,9 @@ Entre as marcas filiadas à Abeiva, as com maior volume de vendas foram Mitsubish
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-049</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-049</field>
+<field name="date">940618</field>
+<text_pt>
 Bolsa de Mercadorias movimenta 86 toneladas no exercício de opções de ouro
 Da Redação
 As Bolsas de Valores já começam a refletir o otimismo com a Copa. O volume de negócios está crescendo e também o preço das ações.
@@ -947,9 +947,9 @@ O índice Bovespa futuro em URV fechou a 15,10 pontos, projetando rentabilidade d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-050</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-050</field>
+<field name="date">940618</field>
+<text_pt>
 Carne pressiona e reajuste é de 10,94% entre os dias 7 e 14 de junho; hipermercados têm aumento de 9,91%
 Da Reportagem Local
 Os reajustes de preços nos supermercados de São Paulo voltaram a apresentar aceleração depois de três semanas consecutivas de diminuição no ritmo de alta.
@@ -969,9 +969,9 @@ Querem que os preços sejam convertidos na nova moeda em patamar superior a US$ 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-051</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-051</field>
+<field name="date">940618</field>
+<text_pt>
 Fornecedor que reajustar acima da média ficará fora das gôndolas; governo libera preços só em URV
 Da Reportagem Local e Da Sucursal de Brasília
 Os supermercados vão boicotar a compra das indústrias que estiverem aumentando os preços em URV ou retirando os descontos.
@@ -991,9 +991,9 @@ Mais sobre supermercados à pág. 2-9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-052</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-052</field>
+<field name="date">940618</field>
+<text_pt>
 Movimento cai até 40% nos restaurantes de S. Paulo
 FÁTIMA FERNANDES
 Da Reportagem Local
@@ -1017,9 +1017,9 @@ Na análise de Ortega, os restaurantes que frequenta subiram 10% os preços, em dó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-053</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-053</field>
+<field name="date">940618</field>
+<text_pt>
 As empresas que investirem em atividades audiovisuais, como a produção de filmes, terão direito a um desconto de 1% sobre o Imposto de Renda devido. Para as pessoas físicas, o desconto é ainda maior: 3% sobre o valor do IR. De acordo com instrução normativa da Receita Federal divulgada ontem, os incentivos à atividade audiovisual poderão ser usufruídos a partir deste ano até o ano-calendário de 2002.
 
 Campanha quer valorizar propaganda
@@ -1030,9 +1030,9 @@ O empresário e corretor de imóveis, Roberto Capuano, foi reeleito pela terceira 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-054</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-054</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 A partir da próxima semana, os principais jornais de São Paulo devem publicar diariamente os preços de 31 produtos da cesta básica (alimentação, limpeza e higiene pessoal) pesquisados pelo Procon e Dieese em 70 supermercados.
 Com isso, o governo do Estado, pretende orientar o consumidor na fase de transição, até a estréia do real, em 1.º de julho.
@@ -1049,9 +1049,9 @@ Anteontem, foram notificadas as empresas de planos de saúde: Amil, Golden Cross,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-055</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-055</field>
+<field name="date">940618</field>
+<text_pt>
 Da Sucursal de Brasília
 A auditoria interna do Banco do Brasil que investigou o extravio das moedas do real constatou que houve falha humana no esquema de segurança da distribuição da nova moeda.
 Dois funcionários da agência do banco no Senado Federal não seguiram todas as normas de segurança ao manusear as embalagens com as moedas.
@@ -1066,9 +1066,9 @@ O diretor-geral da PF, coronel Wilson Romão, disse que recebeu "recomendações ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-056</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-056</field>
+<field name="date">940618</field>
+<text_pt>
 Investidores estrangeiros estão preocupados com eventual fracasso da seleção brasileira nos EUA; BM&amp;F negocia 86 toneladas de ouro
 Da Redação
 As Bolsas de Valores ganharam mais otimismo. O volume de negócios está crescendo e também o preço das ações.
@@ -1119,30 +1119,30 @@ O índice Bovespa futuro em URV fechou a 15,10 pontos, projetando rentabilidade d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-057</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-057</field>
+<field name="date">940618</field>
+<text_pt>
 O general Nasr Yusef, comandante da polícia palestina, e o coronel Jibril Rayub, responsável pela segurança de Iasser Arafat discutiram durante reunião com o líder da OLP. A disputa complica a instalação da autoridade palestina em Gaza e Jericó. Na Cisjordânia ocupada, o americano Mubarak Awad, lidera reabertura de casas seladas pelo governo de Israel.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-058</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-058</field>
+<field name="date">940618</field>
+<text_pt>
 Os líderes do sul do Iêmen disseram ontem que só enviarão representantes ao Cairo (Egito) para negociar com o norte se cessar o combate entre as duas partes. As negociações entre o norte e o sul, que se declarou independente, estão marcadas para amanhã. Tropas do norte têm atacado Aden. Iêmen do Norte e Iêmen do Sul foram unificados em 1990.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-059</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-059</field>
+<field name="date">940618</field>
+<text_pt>
 O comandante das tropas da ONU na Bósnia pediu ontem aos líderes das facções em luta que mantenham a trégua. O tenente-general Michael Rose disse que a continuação de escaramuças e troca de tiros de artilharia entre muçulmanos, sérvios e entre facções muçulmanas rivais põe em risco o cessar-fogo. Ontem, o pior combate foi na cidade de Pecigrad.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-060</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-060</field>
+<field name="date">940618</field>
+<text_pt>
 Das agências internacionais
 O governo da Coréia do Sul anunciou ontem que protestou formalmente junto ao escritório da rede norte-americana de TV CNN, afirmando que ela tem cometido exageros em suas reportagens sobre a situação na peíncula coreana.
 "O ministério da Informação fez um forte protesto à CNN por suas recentes reportagens a respeito dos exercícios nacionais de defesa civil, que deram a entender que os sul-coreanos estavam se preparando para uma guerra", diz um comunicado oficial.
@@ -1150,9 +1150,9 @@ Esses exercícios, em que a população das grandes cidades deve deixar as ruas e b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-061</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-061</field>
+<field name="date">940618</field>
+<text_pt>
 O conservador Andrés Pastrana Arango e o liberal Ernesto Samper Pizano estão empatados nas intenções de voto para o segundo turno das eleições presidenciais de amanhã na Colômbia, diz pesquisa Invamer-Gallup. Pastrana tem 49,7% de apoio e Samper, 49,3%.
 
 O NÚMERO
@@ -1180,9 +1180,9 @@ Cientistas do Instituto Weizmann, em Rehovot (Israel), conseguiram regenerar ner
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-062</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-062</field>
+<field name="date">940618</field>
+<text_pt>
 Das agências internacionais
 Soldados franceses foram acusados de terem matado o presidente de Ruanda Juvenal Habyarimana no dia 6 de abril. O atentado que derrubou o avião em que Habyarimana viajava desencadeou a guerra das duas etnias do país que matou mais de 500 mil pessoas.
 O jornal "Le Soir", de Bruxelas, disse ontem que dois militares franceses do Destacamento de Assistência Militar e Instrução (Dami) atiraram no avião.
@@ -1205,9 +1205,9 @@ Os governistas atacaram um hotel no centro de Kigali onde se refugiam cerca de 6
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-063</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-063</field>
+<field name="date">940618</field>
+<text_pt>
 Das agências internacionais
 Soldados franceses foram acusados de terem matado o presidente de Ruanda Juvenal Habyarimana no dia 6 de abril. O atentado que derrubou o avião em que Habyarimana viajava desencadeou a guerra das duas etnias do país que matou mais de 500 mil pessoas.
 O jornal "Le Soir", de Bruxelas, disse ontem que dois militares franceses do Destacamento de Assistência Militar e Instrução (Dami) atiraram no avião.
@@ -1230,9 +1230,9 @@ Os governistas atacaram um hotel no centro de Kigali onde se refugiam cerca de 6
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-064</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-064</field>
+<field name="date">940618</field>
+<text_pt>
 Ieltsin faz visita ao leste da Rússia
 O presidente russo, Boris Ieltsin, experimenta trajes típicos da região de Tuva (foto). Ieltsin voltou quinta-feira à noite de uma viagem de três dias a territórios do leste da Rússia.
 
@@ -1261,9 +1261,9 @@ Gangues cometem pelo menos 250 abusos sexuais contra crianças a cada ano no Rein
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-065</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-065</field>
+<field name="date">940618</field>
+<text_pt>
 O cantor Paul McCartney será homenageado hoje, dia do seu aniversário, pelo grupo Revolution no shopping Plaza Sul. A apresentação acontece às 10h30.
 
 Juízes são homenageados no 1º Tribunal de Alçada
@@ -1271,9 +1271,9 @@ Os juízes Afonso Celso de Andrade Marques e Frank Célio Soares Hungria, recentem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-066</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-066</field>
+<field name="date">940618</field>
+<text_pt>
 Apenas a rede municipal vai manter o horário normal durante os jogos do Brasil na primeira fase
 Da Reportagem Local
 Estudantes da rede municipal de São Paulo vão ficar olhando o quadro negro da sala de aula durante o jogo do Brasil contra a Rússia na segunda-feira em casa.
@@ -1291,9 +1291,9 @@ LEIA MAIS sobre o funcionamento do comércio no caderno Dinheiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-067</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-067</field>
+<field name="date">940618</field>
+<text_pt>
 Os 25 mil contribuintes em atraso com a Prefeitura de São Vicente têm até o dia 30 deste mês para quitar os seus débitos. Após esse prazo, as dívidas referentes aos anos de 92 e 93 serão cobradas judicialmente. Os interessados devem se dirigir à rua Frei Gaspar, 384, das 9h às 17h.
 
 SP Litoral 2
@@ -1313,9 +1313,9 @@ Cerca de 50 profissionais ligados à prevenção e tratamento de doentes de Aids no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-068</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-068</field>
+<field name="date">940618</field>
+<text_pt>
 Os professores, estudantes e funcionários da Universidade do Vale do Acaraú, em Sobral, elaboraram uma lista com seis nomes para disputar a indicação de reitor e vice-reitor da instituição. A escolha final cabe ao governador Ciro Gomes (PSDB).
 
 Rio Grande do Norte
@@ -1341,9 +1341,9 @@ O Ibama da Paraíba colocou um atrator (equipamento para atrair os cardumes e fac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-069</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-069</field>
+<field name="date">940618</field>
+<text_pt>
 A Secretaria Municipal de Saúde de Herval D'Oeste ainda não descobriu quais as causas da intoxicação de 94 pessoas durante a festa de Santo Antônio, padroeiro da cidade, no domingo. Há suspeitas de que a comida servida na festa ter provocado a intoxicação.
 
 Santa Catarina 2
@@ -1369,9 +1369,9 @@ Segundo o delegado Ézio Vicente da Silva, foram usados 2.300 kg de explosivos pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-070</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-070</field>
+<field name="date">940618</field>
+<text_pt>
 A Federação Mato-Grossense de Associações de Moradores entregou esta semana ao prefeito de Cuiabá, José Meireles, proposta de inclusão da disciplina organização comunitária no currículo da rede municipal. A proposta será analisada pela Secretaria de Educação.
 
 Mato Grosso do Sul 1
@@ -1385,9 +1385,9 @@ A abertura de novas empresas no Estado representou um crescimento de 16% em maio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-071</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-071</field>
+<field name="date">940618</field>
+<text_pt>
 A Secretaria Estadual de Segurança Pública vai adquirir um prédio, em Belém, para colocar em atividade plantões com técnicos de cinco órgãos estaduais para atender adolescentes infratores. A informação é da coordenadora do Pacto pela Infância, Meive Piacesi.
 
 Pará 2
@@ -1401,9 +1401,9 @@ A Sunab comprovou que os supermercados de Manaus aumentaram mais de 100% os preç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-072</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-072</field>
+<field name="date">940618</field>
+<text_pt>
 D. MAURO MORELLI
 Em tempos de eleição chove conversa fiada! Sem fecundar a terra da democracia, agita-se a superfície da mediocridade reinante na República.
 Com insistência, pretende-se vincular a Ação da Cidadania contra a Fome, a Miséria e pela Vida a uma candidatura ou direcioná-la para fortalecer ou viabilizar uma outra proposta.
@@ -1420,9 +1420,9 @@ D. MARIO MORELLI, 58, bispo da Diocese de Duque de Caxias (RJ), é presidente do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-073</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-073</field>
+<field name="date">940618</field>
+<text_pt>
 Da Agência Folha, em Fortaleza
 A epidemia de dengue em Fortaleza (CE) é mais grave na área nobre da cidade. Dos 5.532 casos registrados até ontem na capital, o bairro da Aldeota, com 642 casos, lidera as ocorrências da doença.
 A dengue já atingiu o governador Ciro Gomes (PSDB), o cônsul honorário da Holanda, Luciano Montenegro, e o empresário Ricardo Macedo, que morreu na última segunda-feira com suspeita de dengue hemorrágica.
@@ -1431,9 +1431,9 @@ Para Cléber Rodrigues, da Funasa (Fundação Nacional de Saúde), a alta incidência
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-074</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-074</field>
+<field name="date">940618</field>
+<text_pt>
 Horário do rush será adiantado para as 15h, duas horas antes do início dos jogos
 Da Reportagem Local
 Em dia de jogo do Brasil na Copa, a principal mudança na rotina será a antecipação do horário do rush para as 15h. Os três primeiros jogos do Brasil serão em dias úteis (20, 24 e 28 de junho).
@@ -1448,9 +1448,9 @@ LEIA MAIS sobre os novos horários à pág. 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-075</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-075</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 A ponte Nova Morumbi será totalmente interditada hoje, das 14h às 18h, para execução de obras nos pilares.
 O trânsito será desviado para a ponte Morumbi antiga. Quem usa a ponte Nova Morumbi para chegar ao Morumbishopping, por exemplo, terá que usar a pista local da marginal Pinheiros.
@@ -1462,9 +1462,9 @@ Durante a interdição, quem vai da rua da Mooca para o viaduto São Carlos deve se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-076</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-076</field>
+<field name="date">940618</field>
+<text_pt>
 Estão abertas desde 15 de junho as inscrições para a oficina "Os Caminhos da Composição", com o músico e professor de literatura José Miguel Wisnick, que vai acontecer de 1º a 5 de agosto, das 14h às 16h. A oficina é destinada a músicos, compositores e intérpretes. Inscrições no Teatro Hall (rua Rui Barbosa, 670, tel. 284-0290) ou na Companhia das Cordas (rua Caminha de Amorim, 446, tel. 262-1925). 
 
 PSICOPEDAGOGIA
@@ -1485,9 +1485,9 @@ Correspondência para esta seção deve ser enviada para a alameda Barão de Limeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-077</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-077</field>
+<field name="date">940618</field>
+<text_pt>
 O leitor Gilberto Pereira Batista, residente na rua João Moura, em Pinheiros, reclama das multas sofridas por motoqueiros que param suas motos em um vão livre da rua Líbero Badaró, na região central.
 "Diariamente ficam estacionadas ali no mínimo cem motos, que vêm ao Centro para pequenos serviços e que não possuem nenhum outro lugar para parar", diz.
 Segundo Gilberto, em 24 de janeiro deste ano todos os motoqueiros que estacionaram suas motos no local foram multados. "Só naquele dia a prefeitura ganhou US$ 1.100", afirma. Ele pede a liberação do local para o uso das motos.
@@ -1498,16 +1498,16 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-078</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-078</field>
+<field name="date">940618</field>
+<text_pt>
 A explosão de uma fábrica caseira de fogos de artifícios matou três pessoas em Mossoró (Rio Grande do Norte). O acidente ocorreu na noite de quarta-feira. Morreram Roberto Carlos da Silva, 22, e Nivaldo Ferreira do Nascimento, 23 e o proprietário da fábrica, Francisco Inácio do Nascimento, 43, pai de Nivaldo. A polícia de Mossoró abriu inquérito e o Corpo de Bombeiros isolou o local. As causas da explosão ainda são desconhecidas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-079</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-079</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 Professores da USP (Universidade de São Paulo) decidiram ontem continuar a greve que completou 33 dias. Parte dos funcionários também está sem trabalhar.
 A Unicamp (Universidade Estadual de Campinas) e a Unesp (Universidade Estadual Paulista) estão, como a USP, parcialmente paralisadas.
@@ -1522,16 +1522,16 @@ A adesão à greve é de 25% segundo a reitoria da USP. Funcionários afirmam que a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-080</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-080</field>
+<field name="date">940618</field>
+<text_pt>
 Terminou ontem a greve dos trabalhadores no transporte coletivo de Recife (PE), iniciada anteontem. O acordo sobre o reajuste salarial da categoria foi fechado após reunião no TRT (Tribunal Regional do Trabalho). Os motoristas, que reivindicavam piso salarial de 518 URVs (CR$ 1,2 milhão), aceitaram a proposta de 260 URVs (CR$ 602,8 mil) mensais. Ficou acertado ainda que as empresas não descontarão o dia parado dos 25 mil trabalhadores que aderiram ao movimento.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-081</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-081</field>
+<field name="date">940618</field>
+<text_pt>
 Da Redação
 Uma menina de 12 anos ganhou o Renault Twingo sorteado na segunda-feira no shopping Eldorado na promoção do Dia dos Namorados.
 Rosilene Barboza de Oliveira cursa a 6ª série do primeiro grau na Escola Municipal Luiz Gonzaga do Nascimento e mora em Heliópolis (zona sul) com os pais, Reginaldo Francisco de Oliveira, que é mecânico-eletricista, e Maria José Barboza, servente.
@@ -1543,9 +1543,9 @@ Shopping Eldorado - avenida Rebouças, 3.970, Pinheiros.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-082</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-082</field>
+<field name="date">940618</field>
+<text_pt>
 Da Redação
 Para comemorar o início da Copa do Mundo dos Estados Unidos, o shopping Paulista reuniu uma seleção de artistas escolhidos entre os expositores de sua Feira Cultural, que acontece todos os domingos desde 1991.
 Serão expostos os trabalhos de 21 artistas, incluindo esculturas, pinturas, jóias, fotografias, tecelagens e dobraduras chinesas de papel (origami).
@@ -1556,9 +1556,9 @@ Shopping Paulista - rua Treze de Maio, 1.947, Paraíso.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-083</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-083</field>
+<field name="date">940618</field>
+<text_pt>
 
 TELÊ SANTANA
 Especial para a Folha
@@ -1579,9 +1579,9 @@ Telê Santana, 62, é técnico do São Paulo. Sua coluna na Copa sai cinco vezes por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-084</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-084</field>
+<field name="date">940618</field>
+<text_pt>
 Da Redação
 O Grupo E da Copa do Mundo dos EUA é o mais forte, segundo o último ranking da Fifa, divulgado anteontem. Nesse ranking, a Alemanha aparece em primeiro lugar, a Holanda, em segundo, e o Brasil, em terceiro.
 A seleção melhor colocada do grupo E é a Itália (4º no ranking da Fifa). A que está em pior situação é o México (16º). Entre os dois, estão Noruega (6º lugar) e Irlanda (14º lugar).
@@ -1593,9 +1593,9 @@ Os anfitriões, os norte-americanos, iriam, mas por pouco. Estão em 23º lugar. Sã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-085</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-085</field>
+<field name="date">940618</field>
+<text_pt>
 Técnico Maturana diz que ataque de sua equipe é 'intreinável' e aposta na 'inspiração' do atacante Asprilla
 MARIO CESAR CARVALHO
 Enviado especial a Los Angeles
@@ -1618,9 +1618,9 @@ Há dois romenos que ele considera muito bons: o meia Hagi, conhecido como "Marad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-086</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-086</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 A equipe brasileira estreará na Copa usando uma bola diferente do usual. Ele foi fabricada no Paquistão e não é de couro, o material tradicional, mas sim de material sintético.
 As novidades na Questra, fabricada pela Adidas, entretanto, não se limitam a esse ponto.
@@ -1631,9 +1631,9 @@ A segunda camada mais externa, feita em espuma especial, tem duas funções: imped
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-087</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-087</field>
+<field name="date">940618</field>
+<text_pt>
 
 MARCELO FROMER e NANDO REIS
 Especial para a Folha
@@ -1651,9 +1651,9 @@ Marcelo Fromer e Nando Reis são integrantes da banda Titãs. Sua coluna na Copa s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-088</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-088</field>
+<field name="date">940618</field>
+<text_pt>
 ALBERTO HELENA JR.
 Em Los Gatos
 Lá estávamos naquele final de tarde &#150;que, por aqui, mais parece pleno meio-dia&#150; numa paisagem bucólica, para além dos campos de treinamento da seleção em Santa Clara, longe da organizada balbúrdia que é o garimpo de notícias nesta seleção brasileira.
@@ -1673,9 +1673,9 @@ Alberto Helena Jr., 52, é colunista da Folha. Sua coluna na Copa é diária.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-089</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-089</field>
+<field name="date">940618</field>
+<text_pt>
 
 JOSÉ SIMÃO
 Em Nova York
@@ -1692,9 +1692,9 @@ José Simão, 50, é colunista da Folha. Sua coluna na Copa é diária.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-090</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-090</field>
+<field name="date">940618</field>
+<text_pt>
 O zagueiro recém-convocado para a seleção diz que veio para disputar posição e vai tentar convencer o técnico
 FERNANDO RODRIGUES
 Enviado especial a San Jose
@@ -1719,9 +1719,9 @@ Ao chegar, o zagueiro vestia um terno azul-marinho, camisa azul clara e gravata 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-091</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-091</field>
+<field name="date">940618</field>
+<text_pt>
 Do enviado a Los Gatos
 O coordenador-técnico da seleção brasileira, Mário Lobo Zagalo, criticou o que chamou de "futebol festivo". "Sempre que jogamos festivamente, para dar show, não ganhamos nada para o Brasil."
 Para ele, o país vai mostrar um futebol pragmático no Mundial. "Nosso jogo será competitivo. Quem quer dar show acaba perdendo para equipes menos técnicas, mas mais aplicadas."
@@ -1737,9 +1737,9 @@ Ele acredita que um dos maiores trunfos brasileiros é o ambiente entre os jogado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-092</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-092</field>
+<field name="date">940618</field>
+<text_pt>
 Show aéreo e danças típicas não conseguiram abafar as vaias que também atingiram o presidente da Fifa
 UBIRATAN BRASIL
 Enviado especial a Chicago
@@ -1768,9 +1768,9 @@ Encerrada a festa, cerca de mil pessoas deixaram o estádio antes de começar o jo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-093</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-093</field>
+<field name="date">940618</field>
+<text_pt>
 Striker não agradou organizadores da festa de abertura
 Do enviado especial
 O símbolo da Copa do Mundo foi barrado na festa de abertura, ontem, em Chicago.
@@ -1787,9 +1787,9 @@ O presidente pertence ao Partido Democrata, Edgar ao Partido Republicano. O gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-094</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-094</field>
+<field name="date">940618</field>
+<text_pt>
 MÁRIO MOREIRA
 Da Reportagem Local
 Assim como Chicago, São Paulo também se preparou para a Copa. Várias ruas da cidade foram decoradas por seus moradores para animar a comemoração das esperadas vitórias do Brasil.
@@ -1804,9 +1804,9 @@ No Café Cancun (rua Padre João Manuel, 655), também haverá prato típico do adver
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-095</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-095</field>
+<field name="date">940618</field>
+<text_pt>
 DAVID DREW ZINGG
 Em Nova York
 Nova York normalmente já é uma casa de doidos, mas agora parece que enlouqueceu de vez. As razões disto são muitas &#150;a começar pelos Jogos Gays, além de outros estranhos esportes locais.
@@ -1824,9 +1824,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-096</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-096</field>
+<field name="date">940618</field>
+<text_pt>
 Técnico italiano arma ataque com Baggio, Massaro e Signori para enfrentar a retranca do time irlandês
 SÍLVIO LANCELLOTTI
 Enviado especial a Nova York
@@ -1857,9 +1857,9 @@ Mais grave, apenas nos vestiários Charlton saberá se o seu astro do meio-campo, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-097</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-097</field>
+<field name="date">940618</field>
+<text_pt>
 Do enviado a Nova York
 Invariavelmente cercado por um batalhão de jornalistas e curiosos, Antonio Matarrese, o presidente da federação italiana, vice da Fifa e o mais provável sucessor de João Havelange, costuma receber aplausos por onde passe na Europa. Nos corredores do Giants Stadium, todavia, só mesmo os periodistas do velho continente conseguem reconhecê-lo.
 Aqui, os famosos do futebol não passam de anônimos aos olhos dos inexperientes e despreocupados norte-americanos. Assim, não foi difícil conseguir dele uma pequena entrevista. A seguir os principais trechos:
@@ -1870,9 +1870,9 @@ Matarrese - Eu fico sempre assim, antes de uma estréia. No momento exato, porém,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-098</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-098</field>
+<field name="date">940618</field>
+<text_pt>
 Do enviado a Nova York
 O estilo da Irlanda não mudou nada desde a Copa de 70 -quando o time de Jackie Charlton jogou cinco partidas, empatou quatro e perdeu uma, para a Itália.
 A Irlanda atua na contenção e no chutão, um futebol sem muita imaginação, pedalando atrás da pelota o campo inteiro.
@@ -1881,9 +1881,9 @@ Afora a contusão de Keane, atrapalham o treinador o permanente mau-humor do vete
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-099</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-099</field>
+<field name="date">940618</field>
+<text_pt>
 A Ilha de Páscoa (pertencente ao Chile), no oceano Pacífico, será o único lugar do mundo livre das imagens da Copa. As autoridades chilenas estudaram desviar as imagens de um satélite para mandar um resumo dos jogos, mas ficaria muito caro. Desistiram.
 
 Alarme de hotel assusta a seleção sul-coreana
@@ -1899,26 +1899,26 @@ O time da Nigéria foi saudado por um grupo de afro-americanos na quinta-feira. T
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-100</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-100</field>
+<field name="date">940618</field>
+<text_pt>
 Cozido, pato assado, sopa de chuchu. Tais pratos, escritos exatamente assim, em português, constam do menu do Texasian Bistro, um dos mais frequentados pequenos restaurantes de Los Gatos. Nele, o dono (um texano de origem asiática) preocupa-se em criar para os clientes, durante a Copa, uma "atmosfera tipicamente brasileira".
 Esta é uma das características da cidade neste verão californiano. Bandeiras brasileiras, flâmulas e posters em português, camisetas verde-amarelas, tudo isso pode ser visto nas vitrines da rua principal. 
 João Máximo, de Los Gatos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-101</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-101</field>
+<field name="date">940618</field>
+<text_pt>
 Romário jura que nenhum dos amigos que o acompanham para todo lado no Brasil sejam seus seguranças. Irritado, classificando de "palhaçada" a insistência com que alguns jornais o associam a sisudos cidadãos com cara de policial, protestou ontem com um grupo de repórteres: "Vocês precisam parar com essa mania de dizer que todo mundo que aparece com Romário numa fotografia é segurança. Na maioria dos casos, não é nem amigo. Colega de futebol de praia é uma coisa, amigo ou segurança é outra". E completa: "Romário não precisa de proteção... Ele se garante!" 
 João Máximo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-102</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-102</field>
+<field name="date">940618</field>
+<text_pt>
 Erik Thorstvedt, arqueiro do Tottenham da Inglaterra e da seleção da Noruega, bem-humoradamente diz não temer qualquer dos seus adversários no Mundial. "Mais me assustam as estradinhas deste lugar", observa ele com ironia. Numa folga dos treinamentos, Thorstvedt alugou um carro e se perdeu na multidão de vias que rodeiam Princeton, onde a Noruega faz os seus treinamentos.
 Sílvio Lancellotti, de Nova York
 
@@ -1927,9 +1927,9 @@ Sílvio Lancellotti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-103</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-103</field>
+<field name="date">940618</field>
+<text_pt>
 O principal periódico dos EUA, "The New York Times", não manifesta o menor dos interesse pelo Mundial. Na sua edição nacional da véspera da abertura da Copa, o jornal não publicou uma só linha a respeito do torneio nas nove páginas da sua seção de esportes. Um único artigo sobre o "soccer" tratava da futura liga profissional, que por enquanto só tem sete equipes oficializadas.
 Sílvio Lancellotti
 
@@ -1939,9 +1939,9 @@ Sílvio Lancellotti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-104</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-104</field>
+<field name="date">940618</field>
+<text_pt>
 "Agora, se os EUA têm um time meio-respeitável, tudo o que ele necessita são meio-respeitáveis torcedores", afirmou a revista "Newsweek" desta semana.
 Matinas Suzuki Jr., de Chicago
 
@@ -1965,9 +1965,9 @@ Mário Magalhães
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-105</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-105</field>
+<field name="date">940618</field>
+<text_pt>
 O.J. Simpson, ex-jogador de futebol americano e ator, é acusado da morte da ex-mulher e de um amigo dela
 CARLOS EDUARDO LINS E SILVA
 De Washington
@@ -1995,9 +1995,9 @@ Um dos assuntos mais levantados nesses telefonemas é o fato de Simpson ser negro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-106</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-106</field>
+<field name="date">940618</field>
+<text_pt>
 Cabeleireiro oficial do time proíbe cabeludos, deixa Viola com cara de 'rapper' e faz Bebeto ficar 'mauricinho'
 MAURICIO STYCER
 Enviado especial a Los Gatos
@@ -2025,9 +2025,9 @@ Apesar de usar um corte de cabelo mauricinho, Carvalho garante que não é conserv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-107</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-107</field>
+<field name="date">940618</field>
+<text_pt>
 O compositor polonês assistem em Campos do Jordão à 'première' de sua 'Sinfonis n.º 3' pela Sinfônica da Rádio Polonesa
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
@@ -2053,9 +2053,9 @@ sobre Górecki e orquestra à pág. 5-5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-108</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-108</field>
+<field name="date">940618</field>
+<text_pt>
 Da Reportagem Local
 Gorécki constitui um caso único de autor que ouve suas obras quase que imediatamente gravadas.
 O selo russo Olympia acaba de lançar os dois quartetos de cordas do compositor pelo Quarteto de Cordas da Silésia.
@@ -2073,9 +2073,9 @@ Preço: 20 URVs (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-109</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-109</field>
+<field name="date">940618</field>
+<text_pt>
 
 Diferentemente do que publicou esta coluna na nota "Jiló", não foi a DPZ que propôs para a campanha de Esperidião Amim os slogans "A mim ou amém" e "Pra mim é Amim", mas sim o publicitário Murilo Felisberto, diretor de criação da agência.ERRAMOS
 Ovos
@@ -2110,30 +2110,30 @@ Com a declaração de Britto de que iria "liberar" &#150;como vencedor no primeiro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-110</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-110</field>
+<field name="date">940618</field>
+<text_pt>
 A Comissão Federal de Comércio dos EUA concluiu: o camelo Joe não incita as crianças a fumar. O personagem, garoto-propaganda dos cigarros Camel, foi acusado por grupos antitabagistas, mas a comissão decidiu que não tem nenhuma prova contra o camelo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-111</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-111</field>
+<field name="date">940618</field>
+<text_pt>
 "Ele é estranho. É uma boa pessoa, um ator estimulante. Mas um dia quero visitá-lo no planeta em que ele estiver vivendo. Ele não é da Terra. Ele não é pretensamente profundo, mas um tipo diferente de homem", disse Rosie Perez sobre Harvey Keitel na revista 'US'.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-112</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-112</field>
+<field name="date">940618</field>
+<text_pt>
 A comissão que classifica os filmes a serem exibidos nas Filipinas voltou atrás e autorizou a exibição do espanhol "Sedução", que havia recebido um X e estava automaticamente proibido. Com a nova classificação, R, poderá ser visto por maiores de 18 anos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-113</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-113</field>
+<field name="date">940618</field>
+<text_pt>
 WALTER SILVA
 Especial para a Folha
 Antes de falar de Chico Buarque de Hollanda, quero falar de um tal de "Carioca", que o meu assistente na época e grande amigo, Manoel Barenbein indicou: "... você precisa ouvir o `Carioca', que estuda na FAU e frequenta o `Sambafo', perto do Mackenzie (era um barzinho meio do sujinho). O cara é demais. Muito engraçado e tem umas músicas que todos cantam, ele é ótimo..."
@@ -2160,9 +2160,9 @@ WALTER SILVA, 61, é produtor e crítico musical.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-114</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-114</field>
+<field name="date">940618</field>
+<text_pt>
 RICARDO CALIL
 Editor-assistente da "Ilustrada"
 O compositor Tom Jobim, que Chico Buarque qualifica de "mestre soberano" na canção "Paratodos", rende reverência ao seu "discípulo".
@@ -2180,9 +2180,9 @@ Jobim conta que a relação entre os Buarque de Hollanda e os Paes Leme, de quem d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-115</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-115</field>
+<field name="date">940618</field>
+<text_pt>
 BIA ABRAMO
 Editora da "Ilustrada"
 Depois de quatro anos sem se apresentar em São Paulo, o Legião Urbana fez um show irregular para 6 mil pessoas, de acordo com a PM, e 9.600, segundo a DC&#150;Set Promoções, na noite de anteontem no Ginásio do Ibirapuera.
@@ -2197,9 +2197,9 @@ Em duas horas de apresentação, o Legião mostrou que ainda é o mesmo &#150;e que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-116</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-116</field>
+<field name="date">940618</field>
+<text_pt>
 O regente Antoni Wit, da Sinfônica da Rádio Nacional Polonesa, conta como é trabalhar com o compositor Górecki
 Da Reportagem Local
 O maestro polonês Antoni Wit, 48, mora a 400 metros da casa de Górecki e trabalha com o compositor quase toda semana. É o regente favorito de Górecki.
@@ -2238,9 +2238,9 @@ Wit - Penderecki e Górecki começaram como experimentais e hoje fazem música trad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-117</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-117</field>
+<field name="date">940618</field>
+<text_pt>
 Das agências internacionais
 Cerca de 10.000 fundamentalistas muçulmanos fizeram anteontem em Dacca, capital de Bangladesh, uma manifestação pedindo a morte da escritora feminista Taslima Nasreen. Os fundamentalistas a acusam de ter insultado o Islã.
 "Ela cometeu um crime imperdoável e deve pagar por isso a qualquer custo. E todos que tentarem protegê-la também pagarão", disse Moulana Matiur Rahman Nizami, deputado líder do partido Jamaat-e-Islami. Um grupo gritava: "Enforquem-na, enforquem-na".
@@ -2249,9 +2249,9 @@ Nasreen já se desculpou e negou suas declarações em carta pública. "Nem uma só p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-118</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-118</field>
+<field name="date">940618</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 O seminário internacional "Um Roteiro para o Cinema Brasileiro", que traria a São Paulo em agosto alguns dos maiores roteiristas de cinema da atualidade, foi cancelado por falta de verbas.
@@ -2263,9 +2263,9 @@ Todos eles já haviam confirmado sua presença no seminário e aguardavam o recebim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-119</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-119</field>
+<field name="date">940618</field>
+<text_pt>
 
 Antes que o ministro consolidasse seu plano amazônico, o governo colocou-o à cabeceira do mofino Plano Real
 ANTONIO CALLADO
@@ -2302,9 +2302,9 @@ Viúva de Euclides, a Amazônia para sempre viúva será.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-120</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-120</field>
+<field name="date">940618</field>
+<text_pt>
 A "Positif" reuniu depoimentos de 65 cineastas sobre cenas marcantes, mestres da direção e grandes atores
 SERGIO AUGUSTO
 Da Sucursal do Rio
@@ -2320,9 +2320,9 @@ Apesar de afeito a um gênero, o documentário, sem espaço para atores profissiona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-121</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-121</field>
+<field name="date">940618</field>
+<text_pt>
 "Beneficiado pelo fato de que pode mostrar tudo, o cinema abdicou de seus poderes no campo do imaginário. Compare as duas versões de `Cat People'. E, assim como o cinema, este século talvez esteja prestes a pagar caro por ter abandonado o imaginário &#150; ou, mais precisamente, prestes a render-se àqueles que possuem o seu, de baixo nível e em plena atividade."
 (Chris Marker)
 
@@ -2337,9 +2337,9 @@ Apesar de afeito a um gênero, o documentário, sem espaço para atores profissiona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-122</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-122</field>
+<field name="date">940618</field>
+<text_pt>
 O diretor Dominique Paini idealiza um museu que exiba trechos de filmes para serem comparados pelo visitante
 LÚCIA NAGIB
 Em Paris
@@ -2369,9 +2369,9 @@ O cinema não tem nada a ver com uma obra de espaço.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-123</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-123</field>
+<field name="date">940618</field>
+<text_pt>
 Das agências internacionais
 Kristen Pfaff, 24, baixista do grupo americano Hole, foi encontrada morta em sua banheira na cidade americana de Seattle, em Whashington.
 A banda é liderada por Courtney Love, viúva do vocalista Kurt Cobain, que cometeu suicídio na mesma cidade no último dia 5 de abril.
@@ -2380,9 +2380,9 @@ O último álbum da banda, "Live Through This", foi lançado menos de uma semana de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-124</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-124</field>
+<field name="date">940618</field>
+<text_pt>
 O produtor brasileiro inicia projeto para a TV portuguesa com programa sobre o Tratado de Tordesilhas
 JAIR RATTNER
 Especial para a Folha, de Lisboa
@@ -2403,9 +2403,9 @@ Avancini foi o diretor da novela "Gabriela". Em Portugal, produziu a série que f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-125</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-125</field>
+<field name="date">940618</field>
+<text_pt>
 Da Equipe de Articulistas
 O declínio das grandes produtoras não conseguiu (ainda) matar o cinema japonês. É o que prova a mostra "Cinema Japonês: Anos 90", organizada pela Fundação Japão e em exibição no Centro Cultural São Paulo desde terça-feira passada.
 Entre os 14 filmes selecionados, pelos menos dois testemunham ainda alguns sinais de vitalidade dos velhos estúdios. Trata-se de "Época de Garoto", da Daiei, e "Tora-San Tira Férias", da Shochiku, dirigidos respectivamente pelos veteranos Masahiro Shinoda e Yohji Yamada.
@@ -2428,9 +2428,9 @@ Entrada: franca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-126</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-126</field>
+<field name="date">940618</field>
+<text_pt>
 MARCEL PLASSE
 Free-lance para a Folha
 Vai ser difícil algum imprevisto tirar de Beck Hansen a condição de revelação do ano. O cantor, guitarrista e "freak" já é chamado de gênio pela imprensa americana. O álbum que causou tudo, "Mellow Gold", sai no Brasil na próxima semana.
@@ -2456,9 +2456,9 @@ Preço: 18 URVs (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-127</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-127</field>
+<field name="date">940618</field>
+<text_pt>
 CARLOS UCHÔA FAGUNDES JR.
 Especial para a Folha
 Claudio Cretti é o artista convidado que a Itaugaleria apresenta até 8 de julho. Da geração que surgiu no final dos anos 80, tempos de circuito fechado pela crise, Cretti permanece fiel a um trabalho que, através do desenho, decodifica o pensamento da pintura.
@@ -2474,9 +2474,9 @@ Quando: até 8 de julho, de segunda a sexta, das 10h às 18h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-128</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-128</field>
+<field name="date">940618</field>
+<text_pt>
 "Cowgirls" e bandoleiras são a nova onda sobre a imagem das mulheres
 MARIO MENDES
 Especial para a Folha
@@ -2501,9 +2501,9 @@ MARIO MENDES é redator-chefe da revista "Elle"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-129</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-129</field>
+<field name="date">940618</field>
+<text_pt>
 ERIKA PALOMINO
 Colunista da Folha
 Há dois anos, foram as lesbian-chics, o hype que a imprensa de comportamento e moda lançou em torno da ala chique e descolada da comunidade gay feminina. A onda seguinte é esta, sobre mulheres que recuperam, celebram ou se inspiram na estética, numa feminilidade ou num feminismo de bang-bang.
@@ -2514,9 +2514,9 @@ Ganhou mais foi quem viu Maria Moura/Gloria Pires grunhindo: "Eu gosto de comand
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-130</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-130</field>
+<field name="date">940618</field>
+<text_pt>
 Globo aproveita o programa para "esquentar o clima" e fazer marketing de sua cobertura na Copa nos EUA
 HÉLIO GUIMARÃES
 Free-lance para a Folha
@@ -2535,9 +2535,9 @@ Hoje, a coluna de JOSÉ SIMÃO está publicada à pág. 4-7, no caderno "Copa 94"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-131</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-131</field>
+<field name="date">940618</field>
+<text_pt>
 Último Dia
 BLUE TRIP - A banda toca interpretações de standarts do blues e também temas menos tradicionais, assim como misturas com jazz e funk.
 Blue Note Jazz Bar (av. São Gabriel, 558, tel. 884-9356, Itaim Bibi). Às 23h30. Couvert Artístico 5 URVs.
@@ -2558,9 +2558,9 @@ Bourbon Street Music Club (r. dos Chanés, 127, tel. 61-1643, Moema). Às 21h, Vir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-132</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-132</field>
+<field name="date">940618</field>
+<text_pt>
 Último dia
 FABIOLA MAGNO SAMARA - A artista expõe oito trabalhos em acrílico sobre tela e técnica mista. Samara propõe uma releitura da presença feminina no trabalho do pintor cubista espanhol Pablo Picasso.
 O Alcaçuzz (al. Lorena, 1.721, tel. 852-6761). Visitação regular de seg a sex das 10h às 19h, sáb das 10h às 14h.
@@ -2632,58 +2632,58 @@ Espaço Cásper Líbero (av. Paulista, 900, tel. 253-4322, ramal 254). De seg a sex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-133</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-133</field>
+<field name="date">940618</field>
+<text_pt>
 "Super Formation Soccer" tem movimentos realistas, 16 seleções, vários times de campeonatos, além de um amistoso. Human Cup é o melhor torneio, em que você joga com todas as seleções e, depois de vencê-las, encara o All Star &#150;combinado com os melhores. É super difícil. O jogo tem "manhas", como o goleiro só poder segurar a bola na área por quatro segundos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-134</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-134</field>
+<field name="date">940618</field>
+<text_pt>
 "Super Copa" tem muitas opções, de línguas, por exemplo, como o português. Para se montar um jogador, você escolhe o tipo de perna que ele pode ter. Você também monta jogadas, como uma triangulação. Depois, ensaia e usa na hora do jogo. Você vê o campo por todos os ângulos, de acordo com a direção da bola. Isso prejudica um pouco, pois a rotação do campo deixa você perdido.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-135</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-135</field>
+<field name="date">940618</field>
+<text_pt>
 No shopping Ibirapuera, até 15 de julho, dá para participar de um campeonato de bafo. No jogo, vence quem consegue virar mais figurinhas "no tapa". As duplas vencedoras levam para casa álbuns e figurinhas. Lá, você assiste à Copa em vários aparelhos de TV, que vão estar ligados ao mesmo tempo, formando um tipo de muro (tel. 536-0011).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-136</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-136</field>
+<field name="date">940618</field>
+<text_pt>
 No Caloi Bike Park dá para conhecer os 204 anos de história da bicicleta. Na exposição, tem uma cópia de madeira de modelo de 1790, feito pelo francês Civrac. O parque oferece bicicletário. Sábados e domingos, das 10h às 16h (av. Indianópolis, esquina com a av. Ibirapuera).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-137</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-137</field>
+<field name="date">940618</field>
+<text_pt>
 A fita brasileira "Sinfonia dos Bichos" mistura animais reais com bonecos para contar a história do Sol que não queria dormir. Da Baby Vídeo. O vídeo vai ser lançado hoje, a partir das 14h, na Livraria da Vila (r. Fradique Coutinho, 915, tel. 814-5811).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-138</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-138</field>
+<field name="date">940618</field>
+<text_pt>
 A novela "Éramos Seis" (canal 4, SBT) entra na segunda fase. As cenas agora acontecem na década de 30. As crianças cresceram e foram substituídas por atores adultos. Entre eles, Jandir Ferrari faz o papel de Carlos, Tarcísio Filho é Alfredo, Luciana Braga (foto) é Maria Isabel, Leonardo Brício é Julinho e Eliete Cigarini, Carmencita.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-139</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-139</field>
+<field name="date">940618</field>
+<text_pt>
 Agora, você pode receber em casa a visita de um gênio e de sua lâmpada maravilhosa. Chegar às locadoras um dos mais bonitos desenhos dos estúdios Disney, "Aladdin" (foto). Há vôos de tapete mágico, fugas impossíveis, cenas de amor e, é claro, magias e trapalhadas do Gênio. Da Abril Vídeo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940618-140</text_pt>
-<text_pt name="date">940618</text_pt>
-<text_pt name="text">
+<field name="id">FSP940618-140</field>
+<field name="date">940618</field>
+<text_pt>
 "Super Goal 2" tem bons gráficos e opções. Há 24 seleções do mundo, com diferentes potencialidades &#150;Brasil corre mais, Alemanha tem melhor chute, Argentina é a mais agressiva etc. Você disputa uma copa ou amistosos. O charme do jogo é você escolher entre até 15 esquemas táticos. Um exagero para um game de futebol, mas permite aprender sobre ataque e defesa do esporte.
 </text_pt>
 </doc>

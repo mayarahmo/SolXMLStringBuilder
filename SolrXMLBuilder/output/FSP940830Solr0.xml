@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940830-001</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-001</field>
+<field name="date">940830</field>
+<text_pt>
 
 O nome do ministro das Relações Exteriores é Celso Amorim, diferentemente do que informou a legenda de foto de alguns exemplares.ERRAMOS
 Reajuste é de 11,87% em setembro
@@ -15,9 +15,9 @@ Dinheiro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-002</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-002</field>
+<field name="date">940830</field>
+<text_pt>
 A divulgação do IPC-r de 5,46% para agosto coloca em evidência a primeira grande dificuldade do real. Se em julho a idéia de resíduo inflacionário fazia pleno sentido, agora o mesmo argumento, ainda que válido, torna-se menos persuasivo. A inflação hoje está na vizinhança de zero. Mas os índices são médias que incorporam a inflação passada.
 Se a compreensão do fenômeno da inflação residual já é por si difícil, mais ainda será explicar ao poupador que o rendimento de sua caderneta de poupança, em agosto de cerca de 3%, seja de fato um ganho real. Assim, como se já não bastasse a ilusão monetária dos que se acostumaram a taxas nominais elevadíssimas, sobrepõe-se agora uma segunda ilusão, a de que a remuneração seja não apenas "pequena", mas, pior, inferior à inflação &#150;quando de fato será inferior apenas à inflação medida pelo IPC-r.
 De todo modo, o risco da situação é evidente: tendem a aumentar os saques da poupança e o direcionamento dos recursos para o consumo. E o excesso de consumo, sabe-se também, coloca em xeque a estabilidade de preços. Em agosto calcula-se em cerca de 1% o resgate líquido de recursos das cadernetas. O governo, atento ao problema, acena com vantagens ao poupador. O rendimento real passaria, por exemplo, de 6% ao ano para 7%.
@@ -27,9 +27,9 @@ Outro aspecto a considerar é que além do IPC-r há outros índices, como o IPC da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-003</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-003</field>
+<field name="date">940830</field>
+<text_pt>
 Concluída em abril deste ano depois de sete anos de difíceis negociações, a Rodada Uruguai do Gatt (o maior pacto de liberalização comercial da história) passa agora, em relação ao Brasil, por uma nova e crucial etapa. O acordo tem de ser aprovado pelo Congresso.
 O Parlamento brasileiro nunca se destacou pela agilidade, problema que se agrava sobremaneira num momento pré-eleitoral, quando os congressistas levam seu absenteísmo ao apogeu. Exatamente por isso é que se faz necessário ressaltar a importância de que os acordos da Rodada Uruguai sejam examinados com urgência. São acertos que devem injetar mais de US$ 200 bilhões ao ano na economia mundial, graças à ampliação do comércio.
 Embora os ganhos para os países em desenvolvimento, e para o Brasil em especial, não tenham sido tão grandes quanto alguns esperavam, os avanços não devem ser subestimados. Dentro de cinco a dez anos, por exemplo, as alíquotas de importação nos países ricos baixarão em 36% para produtos agrícolas e em 38,5% para bens industrializados. Também os subsídios à exportação no mundo industrializado devem cair em 36% em seis anos, entre inúmeras outras medidas.
@@ -39,9 +39,9 @@ Essa de todo modo é a lógica da nova realidade internacional, implacável com a i
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-004</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-004</field>
+<field name="date">940830</field>
+<text_pt>
 A transparência no uso dos recursos públicos, nunca é demais frisar, é o mínimo que se espera de um Estado democrático nas suas intervenções na área econômica. Neste sentido, vêm a propósito os dados levantados pela presidente do Ipea (Instituto de Pesquisas Econômicas Aplicadas), Aspásia Camargo, a respeito da aplicação dos incentivos fiscais no país, conforme mostra reportagem ontem nesta Folha.
 Chega mesmo a chocar o fato de a Receita prever uma renúncia fiscal (arrecadação da qual o governo abre mão) de R$ 4,7 bilhões, o que equivale a 9,19% da previsão de receitas de impostos para este ano (R$ 51,4 bilhões), ou mais de 50% do total de recursos previsto pelo Orçamento para o investimento público (R$ 9 bilhões) para 94.
 O uso de subsídios, expediente em regra condenável, manifesta-se de forma particularmente daninha em um país com as características do Brasil. A malha burocrática e a interferência de critérios políticos típicos desse procedimento só contribuem para agravar o desperdício e o clientelismo. A irracionalidade na aplicação dos recursos, com o acúmulo progressivo de normas e regulamentos engessando privilégios, acaba como que saindo do controle dos governos. O dinheiro de todos, assim, transforma-se no dinheiro de ninguém.
@@ -50,9 +50,9 @@ O estudo da presidente do Ipea revela ainda mais uma distorção nos procedimentos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-005</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-005</field>
+<field name="date">940830</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; O baixo astral em que o PT havia afundado nas últimas semanas começa a ser superado. A avaliação do comando petista é a de que reduziu-se, nas ruas, o encantamento com o Plano Real, embora se reconheça que continua a ser um poderoso instrumento eleitoral.
 Difícil dizer se essa avaliação corresponde aos fatos ou é mera expressão de desejos do PT. Em todo caso, registre-se que os famosos mercados, sempre prenhes de boatos os mais diversos, trabalhavam ontem com o rumor de que uma nova pesquisa indicaria queda na diferença entre Fernando Henrique Cardoso e Luiz Inácio Lula da Silva.
@@ -65,9 +65,9 @@ Como é improvável que o distanciamento se mantenha por muito mais tempo (até por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-006</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-006</field>
+<field name="date">940830</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Estava prestes a escrever sobre a inflação e a disputa presidencial. Não resisti. Mudei de idéia depois de um detalhe descoberto ontem pela Folha que, mesmo numa ficção, pareceria exagerado.
 Prosseguindo na investigação sobre fraudes com aposentadorias, descobriu-se um fato numa cidade do interior do Piauí. O detalhe relevante, no caso, não é o fato, mas o nome do município: Regeneração.
@@ -81,9 +81,9 @@ O assunto teria até graça se o total das fraudes rurais não chegasse a R$ 700 mi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-007</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-007</field>
+<field name="date">940830</field>
+<text_pt>
 
 José Serra
 No fim-de-semana, de posse dos respectivos videocassetes, assisti na íntegra a três programas do horário eleitoral gratuito na TV. Ouvi também três programas do horário gratuito nas emissoras de rádio. Minha reação, ao final, foi a previsível: o conjunto de qualquer um dos programas é insuportável, em virtude da repetição de temas, do atropelo de palavras ou de idéias e do desempenho cretino de alguns candidatos, que contaminam infelizmente a visão dos demais.
@@ -99,9 +99,9 @@ José Serra escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-008</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-008</field>
+<field name="date">940830</field>
+<text_pt>
 JOSÉ MARTINS FILHO
 A reitoria da Unicamp (Universidade Estadual de Campinas) anunciou ainda há pouco medidas de contenção de despesas com o fim explícito de fazer frente a dificuldades orçamentárias sérias. Essas dificuldades são comuns ao conjunto das universidades estaduais paulistas &#150;USP (Universidade de São Paulo), Unicamp e Unesp (Universidade Estadual Paulista)&#150;, historicamente consideradas as mais produtivas do país e por enquanto as únicas a contar com a prerrogativa da autonomia de gestão financeira.
 Convencionou-se, portanto, chamá-las ricas, cristalizando uma crença que ganhou livre curso até mesmo no interior dessas próprias universidades, transformando-se em permanente libelo de campanhas de reivindicação salarial.
@@ -121,9 +121,9 @@ JOSÉ MARTINS FILHO, 50, médico, é reitor da Unicamp (Universidade Estadual de Ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-009</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-009</field>
+<field name="date">940830</field>
+<text_pt>
 PAULO RENATO SOUZA
 Em sua edição de ontem, esta Folha estampa matéria de primeira página, afirmando que a coordenação da campanha de Fernando Henrique estaria tentando "anular os efeitos da inflação". A manchete não corresponde ao texto da matéria, nem ao que eu penso e disse. Por isso, me apresso em escrever esta nota para esclarecimento dos leitores da Folha.
 Os índices de inflação medem as variações médias de preços num determinado período de tempo. Isto significa que os preços de um período devem ser comparados com os do período imediatamente anterior. Os hábitos mensais de pagamento nas sociedades modernas fazem com que estas comparações tenham o mês como referência. Assim, qualquer taxa mensal de inflação, ao comparar a evolução da inflação de um mês ao outro, mede, na verdade, a evolução dos preços ao longo dos últimos 60 dias.
@@ -146,9 +146,9 @@ PAULO RENATO SOUZA, 48, economista, é coordenador da elaboração do programa de g
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-010</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-010</field>
+<field name="date">940830</field>
+<text_pt>
 "Com relação ao artigo 'Indigência total', do professor Oswaldo Ramos, publicado na seção Tendências/Debates na edição de ontem, queremos cumprimentar o autor pela brilhante exposição dos gravíssimos problemas do nosso distorcido sistema de saúde. Oxalá o tenhamos entre a equipe de notáveis que porventura ocupe o Ministério da Saúde do próximo governo, seja ele qual for."
 Carlos J. M. Pena, seguem-se mais duas assinaturas (Maringá, PR)
 
@@ -189,9 +189,9 @@ Elmo Lobo (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-011</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-011</field>
+<field name="date">940830</field>
+<text_pt>
 Entre as estações construídas ao longo da Linha Leste-Oeste do metrô de São Paulo no período de 83 a 86 está a que recebeu o nome "Corinthians", sugerido pelo então secretário dos Negócios Metropolitanos, Almino Affonso.
 O nome tinha a sua lógica. Afinal, a estação ficaria próxima ao terreno onde deveria ser construído o novo estádio do Sport Club Corinthians Paulista. Mas ninguém no governo duvidava que também tivesse pesado o fato de Almino ser corintiano.
 Há poucos dias, durante caminhada pelo centro de São Paulo, Mário Covas, candidato ao governo, passou pela estação da Sé. Ao ver a placa que indicava o rumo da estação "Corinthians/Itaquera", Covas lembrou que o responsável por aquilo era o ex-secretário, que o acompanhava naquele momento. Falando alto, para que Almino o ouvisse, Covas cutucou:
@@ -201,9 +201,9 @@ Almino não entendeu que Covas estava apenas brincando. E sussurrou a um assessor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-012</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-012</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 O antropólogo Gilberto Velho qualificou de "autoritárias" as idéias expostas ontem por Hélio Jaguaribe a oficiais do Exército.
 "É uma barbaridade. É inacreditável que alguém tenha dito isso. Qualquer proposta de padronização social é autoritária", afirmou.
@@ -215,9 +215,9 @@ A antropologia é a disciplina que estuda as diferenças no modo de as sociedades 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-013</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-013</field>
+<field name="date">940830</field>
+<text_pt>
 De Washington
 O sociólogo Herbert de Souza, o Betinho, vai receber hoje em Washington a Bolsa Interamericana Dante Fascell, no valor de U$ 50 mil, para disseminar seu projeto de combate à fome no Brasil.
 A cerimônia ocorrerá em reunião conjunta da Inter-American Foundation, entidade que patrocina a Bolsa Dante Fascell, e do Inter-American Dialogue, o mais importante grupo de estudos sobre o continente em Washington.
@@ -231,9 +231,9 @@ Na quarta-feira, ele segue para Nova York, onde almoça com a diretoria da Fundaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-014</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-014</field>
+<field name="date">940830</field>
+<text_pt>
 Da Sucursal do Rio
 A ombusdman da Folha, Junia Nogueira de Sá, defendeu ontem, em palestra no primeiro Seminário Petrobrás de Jornalismo, no Rio, legislação que garanta direitos aos cidadãos contra os excessos cometidos pelos jornais.
 "A imprensa transita hoje num território bastante complexo. Como estamos num país em que a democracia ainda não se consolidou, encontrar jornalistas que acreditam que a imprensa representa o quarto poder é um risco sério", disse.
@@ -241,9 +241,9 @@ Na opinião da jornalista, o bom desempenho do ombudsman pode contribuir para aum
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-015</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-015</field>
+<field name="date">940830</field>
+<text_pt>
 O ministro Alexis Stepanenko resolveu desafiar o Tribunal Superior Eleitoral. Já convocado pela Justiça a explicar os bilhetes em que comprometeu decisões e verbas do governo com campanha eleitoral, ao assinar a liberação de recursos para a eletrificação do município de Sinop, no Mato Grosso, ergueu o braço e simbolizou, para a população beneficiada, a mão espalmada que Fernando Henrique Cardoso adotou como marca de sua candidatura.
 Ainda mais do que pelo gesto, o desafio ficou caracterizado por ser justamente a concessão da verba o motivo da interpelação do TSE ao ministro, que em um bilhete administrativo dizia ser a providência do interesse dele, do presidente Itamar e de Fernando Henrique. O candidato estivera em campanha no município e prometera a eletrificação.
 A atitude de Stepanenko em Sinop se deu 48 horas depois de publicada a nota em que o presidente Itamar diz que não permitirá o envolvimento em campanha, nem mesmo por palavras, de integrantes do governo. Nisso mesmo está, porém, o aspecto útil dos seus gestos.
@@ -255,16 +255,16 @@ Se, como cidadãos, é tolerável que integrantes do governo aliem-se a candidatos,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-016</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-016</field>
+<field name="date">940830</field>
+<text_pt>
 A colunista da Folha Joyce Pascowitch, que assina a página 2 da Ilustrada, faz hoje, às 9h30, uma palestra na PUC (Pontifícia Universidade Católica) de São Paulo. Joyce fala aos alunos de Jornalismo, nas áreas de Introdução ao Jornalismo e Estética e Cultura de Massa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-017</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-017</field>
+<field name="date">940830</field>
+<text_pt>
 O chefe do Estado Maior do Exército, general Benedito Onofre Bezerra Leonel, manifestou-se ontem favorável à criação do Ministério da Defesa e admitiu a possibilidade de um civil vir a ocupá-lo.
 
 Flores vê cooperação nuclear com Argentina
@@ -275,9 +275,9 @@ O presidente Itamar Franco escreveu ao presidente dos EUA, Bill Clinton, carta e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-018</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-018</field>
+<field name="date">940830</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo brasileiro entregou à Justiça dos EUA sua defesa no processo movido pela família norte-americana Dart, por supostas irregularidades no acordo da dívida externa em abril. A família Dart é o maior credor individual do Brasil, com US$ 1,4 bilhão, e se recusaram a participar do acordo.
 Na época, o governo se valeu de uma manobra para enfraquecer a posição dos Dart. O Banco do Brasil, também credor externo, não renegociou no acordo US$ 1,6 bilhão e se tornou o principal detentor dos antigos títulos da dívida.
@@ -286,9 +286,9 @@ A defesa do governo brasileiro argumenta que o BB é uma empresa de direito priva
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-019</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-019</field>
+<field name="date">940830</field>
+<text_pt>
 SUSI AISSA
 Da Sucursal de Brasília
 GILBERTO DIMENSTEIN
@@ -311,9 +311,9 @@ Levantamento preliminar feito pelos auditores junto ao TRE (Tribunal Regional El
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-020</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-020</field>
+<field name="date">940830</field>
+<text_pt>
 CLÁUDIO CSILLAG
 Editor-assistente de Ciência
 O design de óculos para vista cansada (presbiopia) e espelhos retrovisores de automóveis pode sofrer uma mudança significativa.
@@ -331,16 +331,16 @@ O espelho, diz Purves, exige que o motorista vire a cabeça para enxergá-lo com o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-021</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-021</field>
+<field name="date">940830</field>
+<text_pt>
 A Eastman Kodak Co. vendeu por US$ 2,9 bilhões a Sterling Winthrop para a companhia inglesa SmithKline Beecham. O negócio foi um dos maiores passos da Kodak para sair de operações não relacionadas a fotos e imagem. A Sterling fabrica nos EUA a aspirina da Bayer, o leite de magnésia Phillips e produtos Valda. Com a operação, a SmithKline tornou-se a maior fabricante mundial de produtos médicos vendidos sem receita.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-022</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-022</field>
+<field name="date">940830</field>
+<text_pt>
 IPC-r ainda tem resíduo da inflação em cruzeiros reais e acumula 11,87% em dois meses
 Da Sucursal do Rioe da Redação
 A inflação de agosto medida pelo IPC-r (Índice de Preços ao Consumidor em real) do IBGE foi de 5,46%. O IPC-r reajusta os salários nas datas-bases. Em julho e agosto acumula alta de 11,87%.
@@ -357,9 +357,9 @@ sobre o IPC-r à pág. 2-3.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-023</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-023</field>
+<field name="date">940830</field>
+<text_pt>
 BORIS TABACOF
 "A conquista do supérfluo produz uma excitação mais espiritual que a conquista do necessário. O homem é uma criação do desejo, não uma criação da necessidade".
 (Gaston Bachelard, "Psychanalyse du Feu")
@@ -381,9 +381,9 @@ BORIS TABACOF, 65, empresário, é diretor da Fiesp (Federação das Indústrias do E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-024</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-024</field>
+<field name="date">940830</field>
+<text_pt>
 OSVALDO MOREIRA DOUAT
 Ouvimos com frequência dos principais formuladores e analistas de cenários econômicos, políticos e sociais a alusão de que nos encontramos atualmente no meio do início de uma nova fase do paradigma tecnológico, em que ocorrem simultaneamente pelo menos quatro grandes revoluções: a teletromática, resultante da vertiginosa evolução das ferramentas disponibilizadas pelas telecomunicações, pela eletrônica e informática; a habilitação da natureza humana como elemento nuclear e decisivo para qualquer exercício de planejamento estratégico; a radical reforma nas técnicas de gestão empresarial; e a absoluta necessidade de considerar a nova ordem econômica mundial como fundamento para todo processo decisório, quer público, quer privado.
 Admitindo que essas premissas estejam corretas, podemos inferir que a abertura e internacionalização da economia brasileira, o seu fortalecimento através de uma inserção afirmativa no Mercosul e o aprofundamento dos entendimentos bilaterais com parceiros comerciais de larga tradição colocam-nos em condições de ambicionar um melhor posicionamento no concerto das nações e de apostar na efetiva melhoria da qualidade de vida dos brasileiros.
@@ -402,9 +402,9 @@ OSVALDO MOREIRA DOUAT, 55, é presidente do Conselho Temático de Integração Inter
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-025</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-025</field>
+<field name="date">940830</field>
+<text_pt>
 O preço médio da cesta básica do paulistano subiu 0,98% ontem em relação à última sexta-feira, segundo pesquisa diária realizada pelo Procon, órgão da Secretaria da Justiça, em convênio com o Dieese. No mês de agosto, a cesta básica acumula redução nos custos de 3,18%.
 O grupo alimentação foi o que registrou o maior aumento ontem: 1,09% e acumula a menor queda nos preços: 2,36% no mês. Os produtos de higiene pessoal tiveram alta de 0,58%. Em agosto, a variação é negativa em 5,72%. No mês, a maior queda de preços é dos produtos de limpeza: 7,64%. No dia, esse grupo subiu 0,44%.
 O preço médio da cesta básica ontem era R$ 98,69, ante os R$ 97,73 da última sexta-feira. No último dia de julho, o paulistano pagava R$ 101,93 para adquirir a cesta básica com 68 itens.
@@ -412,25 +412,25 @@ Dos produtos pesquisados, 35 tiveram alta de preços e 9 registraram retração. Os
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-026</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-026</field>
+<field name="date">940830</field>
+<text_pt>
 O setor de móveis e mobiliário deve exportar no mês de julho, cerca de US$ 21 milhões, o que representa uma redução de 13,77% em relação ao mês anterior, segundo dados preliminares da Abimóvel (Associação Brasileira das Indústrias do Mobiliário).
 Na avaliação de Giorgio Nicoli, presidente da Abimóvel, a queda das exportações deve-se a atual política cambial. "É necessário pelo menos que a paridade seja de um para um." Mas no acumulado de janeiro a julho há aumento. As vendas externas devem somar US$ 163 milhões. No mesmo período de 93, somaram US$ 116 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-027</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-027</field>
+<field name="date">940830</field>
+<text_pt>
 O total de carga industrial transportada em julho foi de 11.362 toneladas, em média, por empresa. O resultado é 3,68% menor que o registrado em junho, quando foram transportadas 11.795 toneladas. A informação é da Associação Nacional das Empresas de Transportes Rodoviários de Cargas.
 De janeiro a julho a média total movimentada foi de 77.974 toneladas por empresa. Comparado com o mesmo período do ano passado, o total de carga tem evolução de 16,68%. No mês anterior o setor teve aumento de 21,14%. Nos últimos 12 meses o total de carga transportado caiu 1,33%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-028</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-028</field>
+<field name="date">940830</field>
+<text_pt>
 A receita do Brasil com as exportações de café alcançou US$ 1,47 bilhão na safra 93/94, encerrada em junho, 61% acima da cifra obtida na 92/93. Segundo a Febec (Federação Brasileira dos Exportadores de Café), que divulgou os dados ontem, as vendas brasileiras somaram 18,4 milhões de sacas.
 O país elevou em 11% o volume embarcado em relação à safra 92/93, embora as exportações mundiais tenham registrado queda de 5,7 milhões de sacas. Os números da Febec mostram aumento na participação brasieira no mercado internacional (de 21% para 25% do total exportado no mundo).
 Além de se manter como maior produtor e exportador mundial, o Brasil afastou-se de seu principal concorrente, a Colômbia, que diminuiu sua fatia no mercado de 20% para 17%. Aumentou, também, de 24,8% para 28,4% a participação brasileira nas vendas de café arábica no mercado externo.
@@ -438,9 +438,9 @@ As exportações de café robusta aproximaram o Brasil do primeiro produtor mundial
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-029</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-029</field>
+<field name="date">940830</field>
+<text_pt>
 Não adianta tentar conferir sobrevida a este modelo político-institucional. A cada nova crise inventa-se uma nova utopia para se postergar o ajuste final.
 A cada rodada de crise mais amplia-se o círculo escuro das desconfianças, tingindo agora a reputação de figuras insuspeitas da vida política &#150;como ocorreu na semana passada com dois varões de Plutarco, envolvidos em problemas de financiamento de campanha.
 Simplesmente porque ninguém consegue sobreviver incólume a este modelo, que transforma cada ator em agente exclusivo de seu próprio interesse, submete a intermediação política todos os atos do Estado e joga nas costas da nação um peso impossível de ser carregado.
@@ -461,9 +461,9 @@ Todos os demais índices de preços também estão apontando para baixo. Segundo pro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-030</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-030</field>
+<field name="date">940830</field>
+<text_pt>
 Da Redação
 A Confederação Nacional da Indústria (CNI) prevê em seu "Informe Conjuntural nº 100" divulgado ontem que a atividade industrial deve crescer 5% este ano. É uma revisão para cima da previsão anterior, feita em junho, que apontava crescimento de 4%.
 A expectativa de aumento de atividade é atribuída pela CNI ao aumento de renda da população mais pobre, com a queda da inflação e consequente aumento de demandas de bens não duráveis e de bens de consumo duráveis de menor valor
@@ -473,9 +473,9 @@ O valor total de vendas na indústria caiu 1,74% em junho em relação a maio. A va
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-031</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-031</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 A indústria paulista dispensou 628 trabalhadores na terceira semana de agosto, informou ontem a Fiesp (Federação das Indústrias do Estado de São Paulo).
 Isso significa que o nível de emprego industrial no Estado de São Paulo caiu 0,03% na terceira semana deste mês em comparação com a semana anterior.
@@ -488,9 +488,9 @@ Os resultados negativos foram mais acentuados nos setores de móveis de junco e v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-032</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-032</field>
+<field name="date">940830</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI 
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -512,16 +512,16 @@ Colaborou a Agência Folha, em Belo Horizonte e a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-033</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-033</field>
+<field name="date">940830</field>
+<text_pt>
 CONSÓRCIO &#150; A Coordenadoria Estadual do Procon entrou ontem na Justiça Federal com 43 ações coletivas de indenização contra 43 administradoras de consórcios. As ações representam 817 pessoas que desistiram do consórcio e querem a devolução do dinheiro pago.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-034</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-034</field>
+<field name="date">940830</field>
+<text_pt>
 Dólar comercial e taxas de juros recuam no final do dia; mercado aguarda medidas para controlar consumo
 Da Reportagem Local
 Oscilação. Essa foi a tônica de ontem do mercado financeiro. Quem errou a mão, perdeu.
@@ -566,16 +566,16 @@ O índice Bovespa no mercado futuro para outubro fechou a 56.800 pontos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-035</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-035</field>
+<field name="date">940830</field>
+<text_pt>
 Os saques de dinheiro aplicado em cadernetas de poupança continuam crescendo. Até o último dia 22, os saques superaram os depósitos em R$ 508 milhões, segundo o Banco Central. Depois de terem captado R$ 2,1 bilhões em novos depósitos em julho, as cadernetas poderão fechar agosto com perdas de R$ 800 milhões, se for mantida a tendência atual. Segundo o BC, o dinheiro tem sido direcionado a outras aplicações.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-036</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-036</field>
+<field name="date">940830</field>
+<text_pt>
 Reajuste pelo IPC-r de julho e agosto vale só para categorias com data-base no mês que vem
 Da Sucursal do Rio
 e da Redação
@@ -594,9 +594,9 @@ sobre o IPC-r à pág. 2-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-037</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-037</field>
+<field name="date">940830</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -619,30 +619,30 @@ Colaboraram a Agência Folha, em Belo Horizonte e a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-038</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-038</field>
+<field name="date">940830</field>
+<text_pt>
 O governo francês afirmou ontem que o plebiscito do fim-de-semana, em que sérvios rejeitaram por 90% o plano de paz para a Bósnia, não tem credibilidade. Segundo um porta-voz, a "votação foi conduzida de modo não democrático e o resultado era conhecido com antecedência". O governo alemão disse que o resultado não abala os esforços de paz na Bósnia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-039</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-039</field>
+<field name="date">940830</field>
+<text_pt>
 A ONU prevê que o número de ruandeses que não têm como obter comida e dependem de doações deve passar de 1,5 milhão para 2,5 milhões em cinco meses. O aumento deve ocorrer com a volta de refugiados ao país. A guerra diminuiu em 60% a colheita de cereais deste ano. No fim-de-semana, cinco pessoas morreram em incidentes violentos em Goma, Zaire.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-040</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-040</field>
+<field name="date">940830</field>
+<text_pt>
 O secretário de Comércio dos EUA, Ron Brown, assinou ontem na China acordos que ampliam a cooperação entre os países em setores industriais e de serviço. Ele não fez menção oficial à questão dos direitos humanos no país. Em 26 de maio, os EUA desvincularam o respeito aos direitos humanos da preservação do status comercial privilegiado da China.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-041</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-041</field>
+<field name="date">940830</field>
+<text_pt>
 Ministro chega hoje ao Brasil para visita em que pretende estreitar relações com América Latina
 Da Redação
 O ministro das Relações Exteriores do Japão, Yohei Kono, defende maior participação de seu país no cenário internacional.
@@ -664,9 +664,9 @@ Espera-se que o novo Presidente se empenhe em criar esse ambiente favorável aos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-042</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-042</field>
+<field name="date">940830</field>
+<text_pt>
 O presidente do México, Carlos Salinas, propôs diálogo com o oposicionista Cuauhtémoc Cárdenas (foto). O governista PRI elegeu 300 deputados contra 119 do conservador PAN e 71 do esquerdista PRD. No Senado, o PRI ficou com 95 cadeiras, contra 25 do PAN e 8 do PRD.
 
 Sinn Fein recomenda um cessar-fogo
@@ -695,9 +695,9 @@ O cientista dos EUA que pegou o vírus Sabiá em um acidente na Universidade Yale 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-043</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-043</field>
+<field name="date">940830</field>
+<text_pt>
 Das agências internacionais
 O filho da cirurgiã-geral dos EUA, Joycelyn Elders, foi sentenciado ontem a dez anos de prisão por vender cocaína.
 Kevin Elders, 28, foi condenado em julho por ter tentado vender sete gramas de cocaína a um policial disfarçado em Little Rock (Arkansas), em dezembro de 1993.
@@ -709,9 +709,9 @@ Horas depois da declaração de Elders, a Casa Branca divulgou uma nota reafirmand
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-044</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-044</field>
+<field name="date">940830</field>
+<text_pt>
 O presidente do México, Carlos Salinas, propôs diálogo com o oposicionista Cuauhtémoc Cárdenas (foto). O governista PRI elegeu 300 deputados contra 119 do conservador PAN e 71 do esquerdista PRD. No Senado, o PRI ficou com 95 cadeiras, contra 25 do PAN e 8 do PRD.
 
 Sinn Fein recomenda um cessar-fogo
@@ -741,9 +741,9 @@ O cientista dos EUA que pegou o vírus Sabiá em um acidente na Universidade Yale 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-045</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-045</field>
+<field name="date">940830</field>
+<text_pt>
 O cantor Moacir Franco (foto) sofreu um acidente anteontem em Tupi Paulista (SP), quando o carro que dirigia bateu em uma placa na rodovia comandante João Ribeiro de Barros e tombou. Não houve feridos.
 
 O NÚMERO
@@ -774,9 +774,9 @@ R$ 821.189,32
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-046</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-046</field>
+<field name="date">940830</field>
+<text_pt>
 
 1. Comprovante expedido pelo país do adotante, de que ele está habilitado para a adoção; valem as leis do país do adotante, que poderão ser anexadas ao processo
 2. Apresentação de estudo psicossocial, elaborado por agência especializada e credenciada naquele país
@@ -786,9 +786,9 @@ R$ 821.189,32
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-047</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-047</field>
+<field name="date">940830</field>
+<text_pt>
 De 4 a 7 de setembro vai ser realizada a 11ª Reunião Anual da SBPqD (Sociedade Brasileira de Pesquisa Odontológica), em Águas de São Pedro. As inscrições para o encontro estão sendo feitas em Bauru, pelo telefone (0142) 23-4133, ramais 325 e 265.
 
 SP Interior 2
@@ -808,9 +808,9 @@ A Coordenadoria de Direitos Humanos e Cidadania da Prefeitura e da Câmara de Bel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-048</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-048</field>
+<field name="date">940830</field>
+<text_pt>
 Um incêndio destruiu cerca de 30 mil m2 de mata atlântica na praia da Barra da Lagoa, em Florianópolis. Segundo os bombeiros, o fogo começou na sexta-feira à noite e só foi controlado na madrugada de anteontem. A causa ainda não foi apurada.
 
 Santa Catarina 2
@@ -824,9 +824,9 @@ Também faz parte da campanha, representações teatrais dentro dos ônibus. A esque
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-049</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-049</field>
+<field name="date">940830</field>
+<text_pt>
 A Sociedade Anônima de Eletrificação da Paraíba informou que tem um prejuízo de R$ 12 milhões por ano com os "gatos" (ligações clandestinas de energia), em todo o Estado. A fraude equivale a 10% do faturamento empresa, que está na mira de cem mil consumidores.
 
 Paraíba 2
@@ -853,9 +853,9 @@ A Universidade Federal da Paraíba vai promover, de 8 a 10 de setembro, um seminá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-050</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-050</field>
+<field name="date">940830</field>
+<text_pt>
 A Polícia Florestal apreendeu cerca de cem quilos de pescado durante fiscalização nas rodovias, no último fim-de-semana. Os peixes tinham sido capturados irregularmente com o uso de apetrechos proibidos, como redes e malhas. A apreensão foi feita no Pantanal.
 
 Mato Grosso do Sul 2
@@ -869,9 +869,9 @@ Os donos de imóveis localizados no primeiro trecho duplicado da av. Perimetral N
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-051</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-051</field>
+<field name="date">940830</field>
+<text_pt>
 Foi encerrado na última sexta, em Manaus, o 4º Congresso Nacional de Delegados de Polícia. As reivindicações dos delegados constaram da "Carta de Manaus" que será encaminhada ao presidente Itamar Franco. A principal reivindicação é a isonomia salarial.
 
 Amazonas 2
@@ -897,9 +897,9 @@ Segundo testemunhas, o avião explodiu logo após a decolagem. Cavalcante estava e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-052</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-052</field>
+<field name="date">940830</field>
+<text_pt>
 MARCOS SANTOS FERREIRA
 A existência de uma relação entre exercício físico e saúde está presente no saber popular, em expressões como "fazer exercícios faz bem à saúde" e "quem faz exercícios tem uma vida saudável".
 De fato, as pessoas parecem aceitar que à melhoria da condição física com o exercício segue-se compulsoriamente a aquisição de saúde. Mas será real este pressuposto? Será direta a relação entre prática de exercícios e aquisição de saúde? Alguns argumentos demonstram a impropriedade de se admitir causalidade nesta relação.
@@ -914,9 +914,9 @@ MARCOS SANTOS FERREIRA, 27, é professor da UFRRJ (Universidade Federal Rural do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-053</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-053</field>
+<field name="date">940830</field>
+<text_pt>
 Três assaltantes levam dono da editora Maltese, um empresário e sua filha na BMW de Maltese e o matam
 LUIZ CARLOS DUARTE
 Da Reportagem Local
@@ -939,9 +939,9 @@ Enquanto o assalto se desenrolava, Wilma pegou o Monza largado pelos ladrões e f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-054</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-054</field>
+<field name="date">940830</field>
+<text_pt>
 CLAUDIO JULIO TOGNOLLI
 Da Reportagem Local
 A Americas Watch, organização internacional de defesa de direitos humanos, divulga hoje um rol de ameaças sofridas por promotores da Justiça Militar de São Paulo.
@@ -954,9 +954,9 @@ Na semana passada, Lima foi afastado de suas funções, sob acusação de ter "deneg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-055</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-055</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 A seguir, a íntegra de sete ameaças telefônicas gravadas feitas contra a promotora da Justiça Militar Stella Kuhlman a partir de maio do ano passado:
 1- Stella- Alô.
@@ -998,9 +998,9 @@ Ameaçador - Alô, eu vou matar você. Você vai morrer devagar. Quando eu estou com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-056</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-056</field>
+<field name="date">940830</field>
+<text_pt>
 FERNANDA DA ESCÓSSIA
 Da Sucursal do Rio
 Mães de oito meninas desaparecidas no Rio de Janeiro fizeram ontem uma manifestação na Cinelândia (centro). Elas cobraram das autoridades policiais esclarecimentos sobre os casos.
@@ -1018,9 +1018,9 @@ A boneca original pertencia à garota Vanessa Porfírio, 10. Ela desapareceu em ju
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-057</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-057</field>
+<field name="date">940830</field>
+<text_pt>
 Da Sucursal do Rio
 O diretor do DGPB (Departamento Geral de Polícia da Baixada), Paulo Souto, disse, após depoimento tomado ontem, investigar o acidente com o deputado José Vicente Brizola (PDT-RJ) a partir das hipóteses de tentativa de sequestro ou assassinato.
 Segundo Souto, o motorista de José Vicente, Mauro Freire Costa, afirmou ter pressentido que iriam atirar no filho de Leonel Brizola, candidato do PDT à Presidência. Por isso, não deixou que o carro que o perseguia emparelhasse com o Monza em que estavam.
@@ -1031,9 +1031,9 @@ José Vicente foi operado à tarde no mesmo hospital para corrigir as fraturas do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-058</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-058</field>
+<field name="date">940830</field>
+<text_pt>
 ARI CIPOLA
 Da Agência Folha, em Maceió
 A situação de caos na saúde pública em Alagoas é uma consequência da crise que envolve os servidores do setor e o governador Geraldo Bulhões (PSC).
@@ -1048,9 +1048,9 @@ O secretário de Saúde, Rosivaldo Queiroz, também não foi localizado em seu gabin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-059</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-059</field>
+<field name="date">940830</field>
+<text_pt>
 ANDRÉ LOZANO
 Da Agência Folha, em Manaus
 Os velejadores paulistas Marcus Sulzbacher, 30, e Alberto Pandiani, 36, chegaram no domingo a Manaus (AM) a bordo de seus Hobbie Cats 21.
@@ -1072,9 +1072,9 @@ O projeto foi patrocinado pela Semp Toshiba e pelo cartão de crédito Sollo. Segu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-060</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-060</field>
+<field name="date">940830</field>
+<text_pt>
 Do enviado especial a Brasília
 Começou ontem em Brasília a Conferência Nacional de Educação para Todos, patrocinada pelo Ministério da Educação e entidades da ONU (Organização das Nações Unidas). O evento, que vai até a próxima sexta-feira no hotel Academia de Tênis, reúne cerca de 1.300 representantes de Estados e municípios do país e de entidades não-governamentais.
 O objetivo é discutir o plano decenal de educação, lançado oficialmente pelo governo no ano passado. Trata-se de um conjunto de intenções para tirar o Brasil da lista dos nove países com os piores índices de qualidade educacional.
@@ -1084,9 +1084,9 @@ O repórter PAULO SILVA PINTO viaja a convite da organização do evento.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-061</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-061</field>
+<field name="date">940830</field>
+<text_pt>
 Claudio Maltese se despedia de amigos na porta de casa, no Morumbi, quando foi feito refém
 LUIZ CARLOS DUARTE
 Da Reportagem Local
@@ -1103,9 +1103,9 @@ O editor foi socorrido por PMs. Estava consciente e pediu para ir ao Hospital Al
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-062</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-062</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 Um rapaz aparentando 20 anos, conhecido como "Alemão", cabelos encaracolados, é o principal suspeito de liderar o grupo que matou Maltese.
 A polícia espera o depoimento de Carolina para fazer hoje o retrato-falado dos três assaltantes.
@@ -1119,9 +1119,9 @@ A editora Maltese era dirigida pelos irmãos Cláudio e Henrique Maltese. Com 30 a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-063</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-063</field>
+<field name="date">940830</field>
+<text_pt>
 A atriz Monique Alves (foto), 32, morreu ontem às 14h no Instituto do Câncer da Cruz Vermelha. Sofria de leucemia e tinha feito dois transplantes de medula. Não resistiu a infecções decorrentes do transplante realizado há seis meses. Ela atuou em novelas como "Meu Bem, Meu Mal".
 
 Fugitiva se entrega para viver com presa
@@ -1141,9 +1141,9 @@ R$ 821.189,32
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-064</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-064</field>
+<field name="date">940830</field>
+<text_pt>
 ERIKA PALOMINO
 Colunista da Folha
 A Fórum apresentou ontem à noite no salão da estação Júlio Prestes sua coleção de primavera-verão. Desta vez a marca de Tufi Duek assume caráter francamente brasileiro, deixando em segundo plano as influências européias.
@@ -1154,9 +1154,9 @@ Inspirações da cultura popular brasileira, como cangaceiros, Iemanjás, futebol, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-065</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-065</field>
+<field name="date">940830</field>
+<text_pt>
 O leitor Wagner Morata Novaes, proprietário da Pontemac, empresa que fornece equipamentos de suspensão e locomoção de materiais, diz ter ganho uma concorrência na Cesp (Companhia Energética de São Paulo) em abril deste ano, mas reclama de ter recebido o pagamento da companhia com 25 dias de atraso.
 De acordo com o leitor, "o material foi entregue no prazo marcado e com a qualidade de material e mão-de-obra exigida pela empresa, mas um atraso de 25 dias &#150;em um mês de mais ou menos 45% de inflação&#150; defasou o capital. Tentei por mais de um mês receber a diferença, mas não obtive êxito".
 Wagner informa ainda que, devido ao atraso no acerto de contas com a Cesp, foi obrigado a pagar "do próprio bolso" os encargos do material que já fora entregue.
@@ -1166,9 +1166,9 @@ Luiz Roberto informa ainda que "o crédito foi efetivado através de depósito em c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-066</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-066</field>
+<field name="date">940830</field>
+<text_pt>
 A leitora Silvana Souza Cruz Belluco deseja obter informações sobre sua conta inativa do FGTS junto à Caixa Econômica Federal.
 Resposta
 A chefe do Setor de Atendimento da CEF (Caixa Econômica Federal), Maria do Carmo Oliveira Sacco, pede que a reclamante compareça ao setor (rua João Guimarães Rosa, 215, 10º andar), de segunda à sexta, das 9h às 16h, para que seja efetuada a localização da conta.
@@ -1177,9 +1177,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Editoria de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-067</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-067</field>
+<field name="date">940830</field>
+<text_pt>
 
 COBRAS - Pesquisa feita pela Unicamp e Instituto Butantã mostra que vivem na cidade de São Paulo 33 espécies de cobras. Elas representam 30% das espécies naturais da região Sudeste. Do total pesquisado, três são venenosas (jararaca, cascavel e coral). "O estudo mostra que elas sobrevivem em áreas urbanas", disse ontem o professor Ivan Sazima, 52, do Instituto de Biologia da Unicamp.
 
@@ -1193,9 +1193,9 @@ DESAPROPRIAÇÃO - A Prefeitura do Rio pretende remover hoje os moradores da Via P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-068</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-068</field>
+<field name="date">940830</field>
+<text_pt>
 A organização de direitos humanos denuncia telefonemas intimidadores feitos a promotora da Justiça Militar
 CLAUDIO JULIO TOGNOLLI
 Da Reportagem Local
@@ -1209,9 +1209,9 @@ Na semana passada, Lima foi afastado de suas funções, sob acusação de ter "deneg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-069</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-069</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 Quem gosta de fotografar mas vive insatisfeito com as fotos que tira tem várias opções para melhorar sua performance.
 Existem pelo menos sete escolas na cidade que oferecem cursos regulares de fotografia &#150;para iniciantes e para quem também já é do ramo.
@@ -1222,17 +1222,17 @@ Para os mais experientes, mas que quiserem se especializar em alguma área especí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-070</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-070</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem LocalO presidente da Sociedade Brasileira de Hipnodontia, Jaci Montenegro, profere hoje, a partir de 19h30, a palestra "Hipnose: um alívio para o tratamento dentário". Segundo Montenegro, ela é indicada para pacientes que têm medo de dentista.
 O evento, promovido pela Folha, acontece no auditório do jornal (alameda Barão de Limeira, 425, 9º andar, Campos Elíseos). A entrada é livre.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-071</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-071</field>
+<field name="date">940830</field>
+<text_pt>
 Time do São Paulo se reúne com técnico e dirigentes para discutir erros e prêmio pela conquista
 UBIRATAN BRASIL
 Da Reportagem Local
@@ -1260,9 +1260,9 @@ Se conquistar o título da Libertadores, o clube pretende negociar a disputa do M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-072</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-072</field>
+<field name="date">940830</field>
+<text_pt>
 
 SÃO PAULO
 Zetti
@@ -1439,9 +1439,9 @@ Fonte: Datafolha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-073</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-073</field>
+<field name="date">940830</field>
+<text_pt>
 FÁBIO SORMANI
 Aos 39 anos, o pivô Moses Malone pode estar disputando uma de suas últimas temporadas na NBA. Os mais jovens, que há pouco descobriram o basquete norte-americano, e que gastam seu vocabulário citando nomes como Shaquille O'Neal, Charles Barkley, Pat Ewing, Hakeem Olajuwon, Shawn Kemp, David Robinson, entre outros, podem perguntar: e daí?
 E daí que é aquela velha história: é agora ou nunca; ou vemos Big Moe em quadra agora, ou bye-bye. Mas por que é tão importante ver o velho Malone em quadra? Simples: Malone &#150;que nada tem a ver com o Karl, do Utah Jazz, e Feff, do Philadelphia 76ers&#150; é uma das maiores legendas da NBA.
@@ -1453,9 +1453,9 @@ Se Big Moe obtiver êxito em sua empreitada, pendura o tênis daqui a dois anos e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-074</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-074</field>
+<field name="date">940830</field>
+<text_pt>
 A TVA Esportes, que retransmite no Brasil a programação da ESPN International, tem em sua grade os seguintes jogos do San Antonio nesta temporada: contra o Denver, dia 15 de novembro; Utah, 5 de janeiro; Chicago, 24 de janeiro; Houston, 5 de março; e Denver, 18 de abril. Chance para vermos Moses Malone.
 
 Por falar em pivô, Pat Ewing, Dikembe Mutombo e Alonzo Mourning estiveram na África do Sul na semana passada. Visitaram escolas, deram clínicas de basquete e visitaram a prisão onde Nelson Mandela, o atual presidente sul-africano, esteve preso durante 27 anos. Um dos trabalhos mais importantes da NBA é conscientizar o jovem a não abandonar os estudos.
@@ -1466,9 +1466,9 @@ Semana passada noticiei as vindas de Sam Perkins e Brian Shaw para clínicas em S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-075</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-075</field>
+<field name="date">940830</field>
+<text_pt>
 ABNOR GONDIM
 Da Agência Folha, em Belém
 O time improvisado do Paysandu tornou-se a surpresa do Campeonato Brasileiro, ao assumir, no último domingo, a liderança isolada do Grupo B, com a vitória de 2 a 0 sobre o Botafogo.
@@ -1480,9 +1480,9 @@ O maior salário é de R$ 1.700,00, pago ao zagueiro Carlão, que ainda nem estreou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-076</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-076</field>
+<field name="date">940830</field>
+<text_pt>
 Obras dos modernistas Diego Rivera e Rufino Tamayo recebem sala especial na Bienal, que abre em outubro
 DANIEL PIZA
 Da Reportagem Local
@@ -1504,9 +1504,9 @@ Na 14ª Bienal de São Paulo, em 1977, Tamayo teve outra sorte. Recebeu uma sala c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-077</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-077</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 Se entre as obras de Rufino Tamayo que vêm à 22ª Bienal não há nenhuma das mais famosas, entre as de Diego Rivera estão várias das mais marcantes.
 São 17 desenhos e 14 telas de todas as décadas da carreira de Rivera. Entre as telas, estão obras caras como "Retrato de Ruth Rivera" (1949), avaliado em US$ 2 milhões, e "Desfile do 1º de Maio em Moscou" (1956), avaliado em US$ 1,6 milhão.
@@ -1519,23 +1519,23 @@ A vinda das mais diversas fases de Rivera pode mudar o preconceito e mostrar que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-078</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-078</field>
+<field name="date">940830</field>
+<text_pt>
 "Eu penso que, no meu caso, não é exato falar em influências cinematográficas. Minhas influências mais fortes são literárias. Meu panteão é formado por escritores como Austen, Tolstoi, Fitzgerald e Salinger", disse Whit Stillman, diretor de "Barcelona".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-079</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-079</field>
+<field name="date">940830</field>
+<text_pt>
 O novo disco do R.E.M., ainda sem título, sai no dia 27 próximo, mas a curiosidade é grande, ainda mais depois que o vocalista Michael Stipe disse que o disco teria muito sexo, obsessão e um lado punk-rock. "Star 69" e "Tongue" são duas faixas do novo trabalho.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-080</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-080</field>
+<field name="date">940830</field>
+<text_pt>
 A diva do soul norte-americano apresenta seus maiores sucessos até amanhã no Olympia, em São Paulo
 MARCEL PLASSE
 Free-lance para a Folha
@@ -1560,9 +1560,9 @@ Sua ambição pessoal é rodar um filme sobre a vida de Josephine Baker, projeto qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-081</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-081</field>
+<field name="date">940830</field>
+<text_pt>
 LUÍS ANTÔNIO GIRON
 Enviado especial a Bayreuth
 "O Crepúsculo dos Deuses", quarta e última parte do "Anel dos Nibelungos", do compositor Richard Wagner, é uma ópera tão longa que nem mesmo o público em Bayreuth teve forças para aplaudir no último sábado.
@@ -1589,9 +1589,9 @@ O jornalista LUÍS ANTÔNIO GIRON viaja à Alemanha a convite da gravadora Polygram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-082</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-082</field>
+<field name="date">940830</field>
+<text_pt>
 Da Redação
 O poeta e tradutor Haroldo de Campos autografa hoje, às 19h, no MIS (Museu da Imagem e do Som - av. Europa, 158, tel. 011/881-4351, Jardins, zona oeste), seu livro "Ideograma - Lógica, Poesia e Linguagem".
 O livro, organizado pelo poeta, está sendo reeditado pela Edusp e reúne ensaios sobre a linguagem oriental, escritos pelo próprio Haroldo de Campos (que faz um ensaio introdutório sobre os vários textos que compõem o livro), pelo cineasta russo Sergei Eisenstein e pelo estudioso Ernest Fenollosa.
@@ -1600,9 +1600,9 @@ Outro destaque é o ensaio de S.I. Hayakawa sobre "O Que Significa a Estrutura Ar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-083</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-083</field>
+<field name="date">940830</field>
+<text_pt>
 Americano nunca tem muito assunto. Ou melhor, americano sempre tem aquela obsessão básica em achar um assunto para falar. Woody Allen já mostrou isso com bastante sutileza. E agora um outro diretor de cinema, Whit Stillman, toca na mesma questão de maneira talvez menos sutil, mas também muito eficiente.
 "Barcelona" é o nome de seu segundo filme recém-lançado nos Estados Unidos, que já estreou com uma excelente recepção da crítica. Aguardadíssimo depois do sucesso (mais de crítica do que de público) de sua estréia como diretor em "Metropolitan", "Barcelona" foi considerado uma exceção no cinema independente americano.
 Passando longe do venerado circuito "Cães de Aluguel/ Donos da Rua/ Mariachi", esse segundo trabalho de Stillman é provavelmente mais conservador do que "Metropolitan". Na atual configuração cinematográfica, isso poderia ser uma desvantagem, se "Barcelona" não fosse tão engraçado.
@@ -1612,39 +1612,39 @@ Por exemplo, logo depois de levar para a cama sua primeira conquista local, ele 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-084</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-084</field>
+<field name="date">940830</field>
+<text_pt>
 Essa falta de assunto dos filmes de Whil Stillman não significam que seus personagens ficam calados. Pelo contrário, eles falam muito. Só que não é sobre nada interessante. Ou até é sobre algo interessante, mas o que eles acham não interessa a ninguém. Surpreendentemente, essa abordagem torna seus filmes bastante interessantes...
 Nessa intenção de falar sem dizer nada, "Metropolitan" é bem melhor do que "Barcelona". Na sua estréia, em 1990, Stillman não tinha sequer a preocupação de explorar um cenário deslumbrante como a cidade de Barcelona. "Metropolitan" foi filmado quase todo num apartamento na Park Avenue (Manhattan, NY) onde uma moçada de alta classe discutia questões como a futilidade da obra de Jane Austen, as possibilidades do socialismo e a decadência perene da burguesia.
 "Nossa geração é bem pior que a dos nossos pais", solta um desses garotos ricos e bestas a certa altura de "Metropolitan". Sua frase tem um tom profundo e ao mesmo tempo inconsequente. É como se ele soubesse que toda sua vida é uma besteira, mas besteira maior é ter que parar para pensar sobre ela. Bingo!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-085</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-085</field>
+<field name="date">940830</field>
+<text_pt>
 Você, é claro, já ouviu o último álbum de Marisa Monte. É claro, que você achou muito bom. Mas só isso não basta. As pessoas andam com aquela necessidade de falar mais sobre esse marco tão importante da música brasileira. Elas sentem que é necessário fazer algum tipo de crítica negativa. Só que elas não conseguem falar mal, já que o álbum é tão bom. Então elas metem o pau na capa do CD. Fácil assim, né?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-086</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-086</field>
+<field name="date">940830</field>
+<text_pt>
 Atenção para os animados com "prêmios estímulo" e derivados. Nos EUA, o diretor estreante de "Spanking the Monkey", David O. Russel, pegou dinheiro da careta instituição cultural NEA (aquela que não financiou exposições do fotógrafo Robert Mapplethorpe por considerá-lo pornográfico) para fazer um documentário e saiu com essa comédia sobre incesto. "Spanking" já é sucesso, mas Russel vai ter problemas...
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-087</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-087</field>
+<field name="date">940830</field>
+<text_pt>
 Até a linguagem de sinais usada por surdos-mudos está entrando na era politicamente correta. Uma nova conduta exige que sinais misóginos e "preconceituosos" sejam trocados. Puxar o olho não serve mais para indicar "japonês" &#150;é necessário desenhar o mapa do Japão com as mãos. E "gay", que era sinalizado por uma desmunhecada, agora deve ser soletrado, com as letras do alfabeto surdo-mudo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-088</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-088</field>
+<field name="date">940830</field>
+<text_pt>
 EVA JOORY
 Enviada especial ao Rio
 O Rio de Janeiro entra na moda. Uma das novidades é a participação da Prefeitura da cidade, através da cessão do Palácio da Cidade (residência oficial do prefeito César Maia) para desfiles e eventos relacionados ao setor. Em julho e agosto, recebeu uma série de desfiles; em setembro, a partir do dia 15, o palácio sedia a exposição "Tributo à Elegância de Jacqueline Kennedy Onassis".
@@ -1660,9 +1660,9 @@ Mas Daniela Maia não pretende transformar o Rio num "pool" de desfiles para cada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-089</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-089</field>
+<field name="date">940830</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Para o guerreiro, não existe amor impossível. Ele não se deixa intimidar pelo silêncio, pela indiferença ou pela rejeição. Sabe que &#150;atrás da máscara de gelo que algumas pessoas usam&#150; existe uma criança que pede e precisa de amor.
@@ -1671,9 +1671,9 @@ Um guerreiro não se deixa assustar quando busca o que precisa. O que lhe traz al
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-090</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-090</field>
+<field name="date">940830</field>
+<text_pt>
 Nos filmes americanos de hoje, como 'Speed', as coisas e os efeitos são mais importantes que as personagens
 ARNALDO JABOR
 Da Equipe de Articulistas
@@ -1701,9 +1701,9 @@ Toda herança de liberdade virou o Woodstock de plástico falso que vimos há pouco
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-091</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-091</field>
+<field name="date">940830</field>
+<text_pt>
 SÉRGIO MALBERGIER
 De Londres
 O rock britânico e o americano duelaram este fim-de-semana no Festival de Reading (50km a oeste de Londres). A vitória foi dos EUA, fácil.
@@ -1726,9 +1726,9 @@ Até os bem-comportados ingleses não resistiram e obrigaram a banda a voltar ao p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-092</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-092</field>
+<field name="date">940830</field>
+<text_pt>
 Os artistas Adriana Rocha, Claudio Cretti e Marcia Pastore exibem suas obras no Espaço Cultural Citibank
 KATIA CANTON
 Especial para a Folha
@@ -1746,9 +1746,9 @@ Claudio Cretti brinca com os avessos da bi e tridimensionalidade. Seus desenhos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-093</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-093</field>
+<field name="date">940830</field>
+<text_pt>
 O diretor italiano adaptou o romance de Dino Buzzati em um filme sem diálogos ou ação e com muita paisagem
 LÚCIA NAGIB
 Da Equipe de Articulistas
@@ -1778,9 +1778,9 @@ Brenta - Tento me expressar no cinema com liberdade, e portanto o público deve s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-094</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-094</field>
+<field name="date">940830</field>
+<text_pt>
 Exportadores e corretores estão preocupados com o alastramento da "vassoura-de-bruxa" na lavoura cacaueira da Bahia.
 
 Perdas
@@ -1829,9 +1829,9 @@ O cavalo brasileiro Enchanter Magip FHP, puro-sangue árabe do haras paulista Cat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-095</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-095</field>
+<field name="date">940830</field>
+<text_pt>
 NELSON BATISTA MARTIN
 Os agricultores do Centro-Sul do Brasil se preparam para plantar a safra de grãos de 1994/95.
 Mas ao contrário de 1993, quando no segundo semestre os mercados sinalizavam uma perspectiva de bons preços para os grãos &#150;especialmente soja, algodão, milho e arroz&#150;, atualmente, pelo menos para milho e soja, os preços futuros não são animadores, diante da recuperação da produção norte-americana.
@@ -1853,9 +1853,9 @@ NELSON BATISTA MARTIN é pesquisador do Instituto de Economia Agrícola da Secreta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-096</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-096</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 A 13ª Exposição Internacional de Esteio (Expointer), que começou no último sábado, espera arrecadar até o próximo domingo US$ 2 milhões com as vendas de animais e mais US$ 30 milhões com a comercialização de máquinas, implementos e outros insumos agrícolas.
 "A feira é uma grande vitrine para o mercado interno e serve também como porta de entrada para o Mercosul", diz Milton Rego, gerente de comunicação da New Holland Latino Americana, empresa do grupo Fiat.
@@ -1871,9 +1871,9 @@ Os criadores do cavalo andaluz também reforçaram seu marketing nesta Expointer. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-097</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-097</field>
+<field name="date">940830</field>
+<text_pt>
 
 ONDE FICA
 localizar no mapa as cidades Esteio e Porto Alegre
@@ -1888,9 +1888,9 @@ ONDE FICAR
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-098</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-098</field>
+<field name="date">940830</field>
+<text_pt>
 Criadores vendem 45 animais por R$ 553,5 mil no leilão 3-B; vaca mais cara é arrematada por R$ 40 mil
 Da Reportagem Local
 A 12ª versão do remate 3-B de nelore mocho, realizada dia 22 último no Palace (zona sul de São Paulo), obteve um resultado médio em dólar, próximo ao alcançado no ano passado.
@@ -1908,9 +1908,9 @@ PRÓXIMO LEILÃO: 4º Estância JM de Nelore, dia 3 de setembro, na Estância JM, em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-099</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-099</field>
+<field name="date">940830</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O PT tenta se animar para a reta final da campanha eleitoral com os primeiros problemas que aparecem no caminho do Plano Real.
@@ -1925,9 +1925,9 @@ O PT vai pedir direito de resposta no TRE contra a revista "Veja", que em sua úl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-100</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-100</field>
+<field name="date">940830</field>
+<text_pt>
 INÁCIO ARAUJO
 Crítico de Cinema
 O PT está trazendo como reforço de campanha o cineasta Sílvio Tendler, 44, um dos principais documentaristas brasileiros, autor de "Os Anos J.K." (1980) e "Jango" (1984).
@@ -1946,9 +1946,9 @@ Tendler - O tom intimista da narração leva isso em conta. Mas o essencial é busc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-101</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-101</field>
+<field name="date">940830</field>
+<text_pt>
 
 
 Diferentemente do que dizia o quadro "As regras do jogo  eleitoral", é possível anular apenas um voto (deputado, governador, senador, etc.) sem anular a cédula inteira. A cédula só será anulada se contiver expressões, frases ou sinais que possam identificar o voto.ERRAMOS
@@ -1970,9 +1970,9 @@ Fonte: Assessoria de Imprensa do TSE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-102</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-102</field>
+<field name="date">940830</field>
+<text_pt>
 ANDREW GREENLEES
 Do Painel
 As mulheres continuam mais indecisas do que os homens sobre a eleição presidencial. A comparação das últimas pesquisas Datafolha mostra que não variou o número de homens e mulheres que, ao responderem sobre quem gostariam de eleger, dizem não saber.
@@ -1986,9 +1986,9 @@ Assim, o eleitorado feminino deverá ser uma das prioridades das campanhas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-103</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-103</field>
+<field name="date">940830</field>
+<text_pt>
 LUÍS FRANCISCO CARVALHO Fº
 Da equipe de articulistas
 É preciso distinguir o uso criminoso do uso comum da máquina pública no processo eleitoral. Qualquer governo, em qualquer lugar, qualquer que seja sua orientação ideológica, faz do cronograma político a pauta das atividades administrativas. Isso é compreensível e chega a fazer parte das regras do jogo.
@@ -2003,9 +2003,9 @@ A coluna NINGUÉM É CIDADÃO é publicada às terças-feiras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-104</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-104</field>
+<field name="date">940830</field>
+<text_pt>
 LUIZ FRANCISCO
 Da Agência Folha, em Salvador
 O candidato do PSDB ao governo da Bahia, Jutahy Magalhães Jr., apresentou em seu programa de TV, no último domingo, a mesma proposta de cursos profissionalizantes que o candidato do PMDB ao governo de São Paulo, Barros Munhoz, defendera no dia 17.
@@ -2019,9 +2019,9 @@ O candidato baiano disse ontem que a falta de recursos o levou a gravar alguns p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-105</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-105</field>
+<field name="date">940830</field>
+<text_pt>
 Programas do PSDB e PT apresentam propostas semelhantes nas áreas de saúde, educação e agricultura
 VINICIUS TORRES FREIRE
 Da Reportagem Local
@@ -2040,9 +2040,9 @@ Lula aposta na mudança da estrutura da economia para fazer o país crescer. FHC p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-106</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-106</field>
+<field name="date">940830</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Apertem os cintos que o Ricupero não sumiu!
@@ -2055,9 +2055,9 @@ Aliás, a penúltima militante do PT me ligou pra dizer que ela tá fazendo militân
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-107</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-107</field>
+<field name="date">940830</field>
+<text_pt>
 MARCELO MENDONÇA
 Especial para a Folha
 Aos 38 anos, João Mellão Neto (PL-SP) tenta a reeleição para a Câmara dos Deputados com a idéia de ressuscitar o "bloco da economia moderna", um grupo de parlamentares defensores do liberalismo econômico.
@@ -2079,9 +2079,9 @@ Mellão - O relacionamento de um parlamentar com o Executivo, seja a favor ou con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940830-108</text_pt>
-<text_pt name="date">940830</text_pt>
-<text_pt name="text">
+<field name="id">FSP940830-108</field>
+<field name="date">940830</field>
+<text_pt>
 Da Reportagem Local
 e do enviado especial ao Rio
 O PT tenta se animar para a reta final da campanha eleitoral com os primeiros problemas que aparecem no caminho do Plano Real.

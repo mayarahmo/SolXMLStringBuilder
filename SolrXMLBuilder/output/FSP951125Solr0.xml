@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP951125-001</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-001</field>
+<field name="date">951125</field>
+<text_pt>
 Presidente diz que dirigente do Incra, suspeito de ser responsável por escuta telefônica, é de sua confiança
 Fernando Henrique Cardoso disse que Francisco Graziano é de sua "total confiança". O presidente do Incra é suspeito de ter sido responsável por escuta em telefone de assessor presidencial. FHC descartou demissão sem investigações.
 "Democracia não é fazer chacina pública", disse o presidente. Graziano deveria ter integrado ontem comitiva de FHC, mas foi excluído.
@@ -12,9 +12,9 @@ A cúpula do PSDB, partido de FHC, deflagrou campanha por Graziano. Para o govern
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-002</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-002</field>
+<field name="date">951125</field>
+<text_pt>
 Recessão ou não, eis a questão. O desemprego cresce, mas cresce cada vez menos. As vendas, em vários setores, já não exibem o vigor do ano passado, mas há importantes sinais de vida no varejo.
 Os indicadores de atividade econômica continuam dando munição tanto para os que temem pelo pior quanto para os que insistem em acreditar que o pior já passou.
 As vendas nos supermercados caíram 5,57% em outubro, último mês para o qual há dados disponíveis. A queda, entretanto, é medida com relação a setembro. Comparando-se com outubro do ano passado, as vendas cresceram 1,41%. As vendas acumuladas pelo setor em 1995 superam em 21% as do mesmo período do ano anterior.
@@ -27,9 +27,9 @@ Entretanto, enquanto os dados forem assim desencontrados, o espírito mais geral 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-003</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-003</field>
+<field name="date">951125</field>
+<text_pt>
 Até agora, são muitas as dúvidas que pairam sobre o episódio que derrubou Júlio César Gomes dos Santos, assessor do presidente da República. Seria oportuno questionar nesse momento o papel desempenhado pela Justiça no caso.
 Ainda que a escuta telefônica tenha permitido registrar indícios de que um alto funcionário teria praticado tráfico de influência em torno do projeto Sivam, o Judiciário parece ter autorizado com excessiva permissividade o monitoramento solicitado pela Polícia Federal.
 Um procedimento tão sério de investigação deveria, normalmente, vir precedido de cuidadosa averiguação dos dados pessoais do cidadão suspeito, bem como de uma criteriosa análise das circunstâncias que em que ele estaria envolvido.
@@ -39,9 +39,9 @@ Fica assim a impressão de que, além de uma regulamentação rigorosa, o recurso à 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-004</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-004</field>
+<field name="date">951125</field>
+<text_pt>
 Seja como for avaliado o mérito das primeiras propostas de reforma no ensino estadual defendidas pelo governo, pelo menos já é possível destacar que, nesse como em qualquer outro projeto que atinge o interesse de uma ampla comunidade, não é recomendável que se o imponha por meio de decreto.
 A forte reação negativa de boa parte do público-alvo contra as medidas já anunciadas pela Secretaria da Educação parece indicar que não bastam boas intenções.
 Muitos pais estão denunciando os transtornos causados pela mudança de escola de seus filhos, devido à limitação do número de séries oferecidas nos prédios em que eles estavam matriculados. Educadores, por sua vez, lamentam, não sem razão, que o ensino de artes e educação física para alunos de 1ª a 4ª séries não seja mais ministrado por especialistas, mas por professores polivalentes.
@@ -49,9 +49,9 @@ Mesmo considerando que as inovações apresentam, em tese, aspectos positivos, tud
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-005</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-005</field>
+<field name="date">951125</field>
+<text_pt>
 Cada vez mais os brasileiros convivem com um novo tipo de poluição: a poluição postal. Nos grandes centros urbanos, proliferam empresas especializadas em fornecer o endereço de pessoas _em geral com poder aquisitivo_ para que promoters e publicitários lhes enviem toneladas de papel.
 Para além de infernizar a vida do cidadão, que tem de fazer uma pré-seleção da sua correspondência _o útil e o inútil_, essa papelada é uma modalidade de invasão de intimidade ainda pouco estudada.
 É bem verdade que ninguém é obrigado a ler o que recebe diariamente à porta de sua casa, assim como não é obrigado a ler o material publicitário das publicações que adquire ou assistir aos intervalos comerciais na TV, mas o nível de intromissão da mala-direta na vida das pessoas é mais concreto que o de outras formas de publicidade. É sempre bom dar uma olhada no material, pois, às vezes, o que parece apenas mais uma propaganda pode ser uma correspondência importante ou uma conta a pagar.
@@ -59,9 +59,9 @@ Trata-se sem dúvida de uma intromissão irritante. Mas, infelizmente, é o preço a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-006</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-006</field>
+<field name="date">951125</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO _ O noticiário de ontem desta Folha reclama, com razão, da demora do presidente da República em agir no caso do "grampo" no telefone de seu então chefe do Cerimonial, embaixador Júlio César Gomes dos Santos.
 Sempre disposto a acreditar em tudo o que diz o governo, fui atrás de uma explicação. Ei-la: o presidente só poderia agir "institucionalmente", ou seja, após a tramitação de papéis que tornassem oficial o que era extra-oficial (ou seja, o relatório sobre as conversas de Júlio César, apresentadas a FHC por Francisco Graziano no dia 9).
@@ -76,9 +76,9 @@ Ainda vai acabar dando curto-circuito.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-007</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-007</field>
+<field name="date">951125</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA _ Até a semana passada, Brasília abrigava três poderes: o Executivo, o Legislativo e o Judiciário. Agora, dá guarida a um novo e sinistro poder: a Polícia Federal.
 Na capital dos últimos dias vive-se sob o império da polícia. Ontem mesmo tive a prova. Como de hábito, comecei o dia pendurado ao telefone. Toquei para um ministro. Bom sujeito. Um garganta solta.
@@ -93,9 +93,9 @@ Em parte, é culpa do Congresso. Deputados e senadores precisam regulamentar a es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-008</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-008</field>
+<field name="date">951125</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ O homem é a sua linguagem. A frase parece profunda, e vai ver que é. Não é minha. É até um lugar-comum. Não sou o primeiro nem o único, mas acho que fui um dos mais insistentes em acusar o presidente da República de acacianismo. Não sei como, aí em São Paulo, ao tempo em que ele era um fenômeno local, não se detectou a tendência de FHC ao banal, à frase feita, ao pensamento óbvio. Numa palavra: ao Acácio puro.
 Agora mesmo, atolado pelos petardos que começam a estourar em suas proximidades (o núcleo da possível corrupção estaria no mesmo andar do palácio presidencial), FHC deu aquela de citar o corvo, lugar-comum das academias regionais de letras. E usou a palavra "malsã", que ainda faz muito sucesso em ordens do dia dos chefes militares ("repeliremos com denodo e entranhado amor à pátria as tentativas malsãs que tentam solapar a nacionalidade") e as citadas academias estaduais de letras.
@@ -105,9 +105,9 @@ Uma coisa parece clara: pouco a pouco, o governo de FHC está ficando muito parec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-009</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-009</field>
+<field name="date">951125</field>
+<text_pt>
 Luciano Mendes de Almeida
 Dentro de poucos dias as duas dioceses de São Paulo e Mariana completam 250 anos de sua criação pela bula pontifícia de Bento XIV "Candor Lucis Aeternae", de 6/12/1745. Até então, no Brasil havia apenas cinco dioceses: Bahia (1555), Rio de Janeiro (1676), Olinda (1676), Maranhão (1677) e Pará (1719).
 Louvamos a Deus pelos dois séculos e meio de graças recebidas e pelo trabalho pastoral realizado nas duas dioceses irmãs. A igreja de São Paulo conta ao longo de sua história 12 bispos e 5 arcebispos. Lembremos do cardeal d. Agnelo Rossi, falecido no ano passado, que esteve à frente da Arquidiocese por seis anos e foi chamado por Paulo 6º a Roma, para presidir a Congregação para a Evangelização dos Povos.
@@ -124,9 +124,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-010</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-010</field>
+<field name="date">951125</field>
+<text_pt>
 Temos conhecimento de opções que podem mais diretamente melhorar a vida na Amazônia
 EDUARDO MATARAZZO SUPLICY
 Na sessão extraordinária realizada na noite de 21 de dezembro de 1994 alertei, junto com o senador José Paulo Bisol, que o Senado não poderia votar em regime de urgência os projetos que autorizavam o governo brasileiro a contratar financiamento externo no valor de US$ 1,7 bilhão para a implantação do Projeto Sivam. Por não haver nenhuma ameaça à Segurança Nacional era dever do Senado Federal analisar em profundidade o projeto do Executivo.
@@ -142,9 +142,9 @@ EDUARDO MATARAZZO SUPLICY, 54, é senador pelo PT de São Paulo e líder do partido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-011</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-011</field>
+<field name="date">951125</field>
+<text_pt>
 O Sivam é prioritário para a integridade, a soberania nacional e para proteção à vida na região
 MARIO CESAR FLORES
 A Amazônia é um dos grandes desafios brasileiros da virada do século. Acostumamo-nos a definir como prioritário apenas o que dá retorno social imediatamente sensível, admitidos como social a educação, a saúde, a habitação e uns poucos assuntos mais _como se transporte, energia, segurança etc. nada tivessem a ver com o povo.
@@ -160,9 +160,9 @@ MARIO CESAR FLORES, 62, é almirante-de-esquadra da reserva. Foi secretário de As
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-012</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-012</field>
+<field name="date">951125</field>
+<text_pt>
 Não se discute a prioridade e a relevância do projeto Sivam para a Amazônia e para o país
 JOÃO THOMÉ MESTRINHO
 O projeto Sivam é de extrema importância para a Amazônia e pode vir a ser um marco no desenvolvimento da região. Isso é fato incontestável.
@@ -177,9 +177,9 @@ JOÃO THOMÉ MESTRINHO, 44, empresário, é deputado federal pelo PMDB do Amazonas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-013</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-013</field>
+<field name="date">951125</field>
+<text_pt>
 "Perfeito, sem retoques, o artigo 'Emenda pior que a emenda', de Clóvis Rossi (10/11). O bom senso voltou à mesa de entendimentos entre o governo e o Congresso. Isso será bom para o país. Concordo que nossa proposta de reforma está longe de ser ideal. A do deputado Eduardo Jorge, do PT, era um pouco mais radical. Mas trabalha-se o possível, observando a realidade brasileira. A reforma inspira-se no modelo universal de previdência e segue o modelo da conciliação nacional."
 Reinhold Stephanes, ministro da Previdência e Assistência Social (Brasília, DF)
 
@@ -208,9 +208,9 @@ Marcelo Masagão, coordenador do Festival do Minuto (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-014</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-014</field>
+<field name="date">951125</field>
+<text_pt>
 Enquanto os tucanos do governo queimam a cabeça para tentar minimizar os problemas decorrentes do caso Sivam, inclusive a queda do ministro da Aeronáutica, Maciel, o vice, navega águas tranquilas. Ontem, assistiu seminário da Marinha sobre recursos do mar.
 
 Dois lados da trincheira
@@ -237,9 +237,9 @@ _ Em governos anteriores, tráfico de influência era crime. Nesse, virou "imprudê
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-015</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-015</field>
+<field name="date">951125</field>
+<text_pt>
 Na eleição de 86, dois candidatos a deputado estadual disputavam os votos em Guaraniaçu, no Paraná: Mário Pereira, que depois seria governador do Estado, e Luiz Henrique Bonaturra. Os eleitores da cidade reuniram-se no salão paroquial para ouvi-los.
 Primeiro, falou Pereira. Terminado seu discurso, era a vez de Bonaturra falar. Sua claque caprichou: do lado de fora, ouviu-se um grande foguetório para anunciar o discurso. A barulheira durou alguns minutos.
 Feito silêncio, Bonaturra assumiu o microfone, mas, antes que abrisse a boca, um homem entrou na sala berrando:
@@ -251,9 +251,9 @@ Alguns dos presentes não resistiram à brincadeira: o cavalo e seu proprietário s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-016</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-016</field>
+<field name="date">951125</field>
+<text_pt>
 Tucano é indicado para se contrapor ao relator do empréstimo do Sivam
 RAQUEL ULHÔA
 Da Sucursal de Brasília
@@ -275,9 +275,9 @@ A comissão especial _resultado da fusão informal da CAE com as comissões de Rela
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-017</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-017</field>
+<field name="date">951125</field>
+<text_pt>
 SILVIA QUEVEDO
 Da Agência Folha, em Florianópolis
 O ministro do Meio Ambiente, Gustavo Krause (PFL), disse ontem em Florianópolis (SC) que "não há a menor possibilidade" de que a polêmica em torno do Sivam prejudique o andamento das reformas propostas pelo governo no Congresso.
@@ -297,9 +297,9 @@ Segundo ele, até agora não houve prova de tráfico de influência por parte do emb
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-018</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-018</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília e da Reportagem Local
 A proposta alternativa do deputado Euler Ribeiro (PMDB-AM) ao projeto de reforma previdenciária do governo prevê que a contribuição das estatais aos seus fundos de pensão poderá ser de até o dobro da paga pelo trabalhador.
 Isso significa que para cada R$ 1 investido pelo trabalhador as empresas aplicariam R$ 2. A proposta de emenda constitucional do governo limita a contribuição da estatal à paga pelo empregado _R$ 1 de cada uma das partes.
@@ -318,9 +318,9 @@ Ontem em São Paulo, onde debateu com associações de aposentados, Stephanes afirm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-019</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-019</field>
+<field name="date">951125</field>
+<text_pt>
 Agência que presta serviço a ministério atuou na campanha de FHC; lei veta elo comercial entre servidor e órgão público
 ALEXANDRE SECCO
 Da Sucursal de Brasília
@@ -345,9 +345,9 @@ O ministro da Justiça, Nelson Jobim, que contrata os serviços da Free Press. Gra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-020</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-020</field>
+<field name="date">951125</field>
+<text_pt>
 GABRIELA WOLTHERS
 Da Sucursal de Brasília
 Os jornalistas Augusto Fonseca e Mino Pedrosa receberam duas missões quando foram contratados para trabalhar na campanha eleitoral do então candidato Fernando Henrique Cardoso _a primeira, oficial, era auxiliar nos serviços de assessoria de imprensa.
@@ -365,9 +365,9 @@ A informação foi checada com dois assessores e um membro da cúpula da campanha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-021</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-021</field>
+<field name="date">951125</field>
+<text_pt>
 Chefe do Incra confirma ter levado escuta a presidente no dia 9; até 5ª, seu assessor dizia ter sido no dia 14
 Da Sucursal de Brasília
 O presidente do Incra, Francisco Graziano, divulgou ontem nota oficial que contradiz a versão que a sua assessoria de imprensa vinha apresentando até a última quinta-feira sobre o escândalo do "grampo" na casa do embaixador e ex-chefe do cerimonial da Presidência da República, Júlio César Gomes dos Santos.
@@ -387,9 +387,9 @@ Chelotti é irmão do diretor da PF, Vicente Chelotti. Tão logo a nota foi divulga
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-022</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-022</field>
+<field name="date">951125</field>
+<text_pt>
 1. O jornalista Augusto Fonseca, assessor de imprensa do presidente do Incra, Francisco Graziano, disse no dia 22 que soube das gravações e que o assunto tinha vazado para a "IstoÉ" no dia 14 (terça-feira) à tarde. Ele disse que foi informado do assunto pelo autor do vazamento, o repórter fotográfico Mino Pedrosa, seu sócio na Agência de Comunicação Free Press
 
 2. Segundo Fonseca, tão logo ele tomou conhecimento, levou o assunto para Francisco
@@ -405,9 +405,9 @@ Graziano, aconselhando-o a "leva-lo adiante"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-023</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-023</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro Nelson Jobim (Justiça) decidiu que não vai mais interpelar o presidente do Incra, Francisco Graziano, sobre a seu envolvimento no caso. Para o ministro, a nota divulgada ontem por Graziano já dá as explicações necessárias. Até anteontem Jobim suspeitava que Graziano teria sido o pivô da investigação.
 Jobim também concedeu mais dois dias ao diretor da PF (Polícia Federal), Vicente Chelotti, para responder às 22 perguntas que ele encaminhou anteontem pedindo explicações sobre a escuta telefônica na casa do embaixador Júlio César Gomes dos Santos, ex-chefe do cerimonial do Planalto.
@@ -423,9 +423,9 @@ As respostas para esse questionário serão entregues para Jobim na segunda-feira,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-024</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-024</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 As entidades de agentes e delegados da Polícia Federal rejeitam a nomeação de um militar ou outro profissional fora do quadro do órgão para substituir Vicente Chelotti, 44.
 Ameaçado de exoneração por causa da escuta no telefone do embaixador Júlio César Gomes dos Santos, ex-chefe do cerimonial da Presidência da República, Vicente Chelotti é o segundo delegado da própria Polícia Federal que ocupou a diretoria geral desde a criação do órgão há 28 anos. O outro foi Amaury Galdino, em 92 e 93.
@@ -439,9 +439,9 @@ As críticas são contra o senador Romeu Tuma, delegado da Polícia Civil de São Pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-025</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-025</field>
+<field name="date">951125</field>
+<text_pt>
 Leia a íntegra da nota divulgada ontem pelo presidente do Incra, Francisco Graziano:
 
 "Conforme já informou o ministro da Justiça, em 9 de novembro último, levei ao conhecimento do sr. presidente da República relatório da Polícia Federal que resumia a escuta telefônica realizada na residência do embaixador Júlio César Gomes dos Santos. Tal documento foi-me entregue, nesse mesmo dia, por meu assessor no Incra, Paulo Chelotti, que o obteve da Polícia Federal, de onde é funcionário.
@@ -455,9 +455,9 @@ Presidente do Incra"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-026</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-026</field>
+<field name="date">951125</field>
+<text_pt>
 Leia abaixo a nota divulgada ontem pelo assessor do Incra Paulo Chelotti, em que confirma a data da entrega da escuta divulgada ontem por seu chefe, Francisco Graziano, também por nota transcrita ao lado.
 Ambos os textos contradizem a primeira versão apresentada por Augusto Fonseca, assessor do próprio presidente do Incra.
 
@@ -470,9 +470,9 @@ Assessor da presidência do Incra"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-027</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-027</field>
+<field name="date">951125</field>
+<text_pt>
 DENISE MADUEÑO
 Da Sucursal de Brasília
 Dirigentes do movimento de trabalhadores pela reforma agrária rejeitaram um convite do ministro José Eduardo de Andrade Vieira (Agricultura) para uma reunião, ontem pela manhã. Vieira é identificado pelo movimento como um empecilho à reforma agrária.
@@ -486,9 +486,9 @@ Vicentinho, que pela manhã não sabia se Graziano continuava ou não no cargo, dis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-028</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-028</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 O assessor de imprensa do Incra, Augusto Fonseca, disse que não vê contradição alguma entre a sua versão e a nota divulgada ontem pelo seu chefe, Francisco Graziano.
 "Só soube ontem (quinta-feira) à noite que o Graziano já sabia desde o dia 9 do relatório da PF. Ele não é obrigado a me dizer que já tinha conhecimento do assunto. Ele não tem que me falar isso. Eu soube na terça (14) que o caso havia vazado para a "Isto É". Fiz um relato para o Chico, e ele me disse para ficar tranquilo", disse Fonseca.
@@ -499,9 +499,9 @@ A reportagem da Folha ligou várias vezes durante toda a tarde para o seu escritó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-029</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-029</field>
+<field name="date">951125</field>
+<text_pt>
 Na edição de 25/11 a Folha reproduziu de forma equivocada parte de uma entrevista coletiva concedida pelo presidente Fernando Henrique Cardoso em Teresina (PI). O comentário "é um homem de minha total confiança", publicado à pág. 1-7 (Brasil), referia-se ao ministro da Justiça, Nelson Jobim, e não a Francisco Graziano, então presidente do Incra, como foi erroneamente informado. Leia texto sobre o assunto à pág. 1-5 (Brasil) de hoje.ERRAMOS
 FHC diz que Graziano fica e é de confiança
 Presidente afirma nada haver contra chefe do Incra um dia após Ministério da Justiça apontar fatos contra assessor
@@ -537,9 +537,9 @@ FHC - (sem resposta)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-030</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-030</field>
+<field name="date">951125</field>
+<text_pt>
 Do enviado especial a Teresina
 Apesar da tensão dos últimos dias, o presidente Fernando Henrique Cardoso teve momentos de descontração na sua viagem ao Piauí.
 Ao decidir enfrentar um trecho de terra molhada, FHC disse: "Presidente da República também põe o pé na lama".
@@ -555,9 +555,9 @@ FHC _que não falou sobre política nacional_ ignorou uma manifestação programada 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-031</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-031</field>
+<field name="date">951125</field>
+<text_pt>
 Do enviado especial a Teresina e da Sucursal de Brasília
 O presidente do Incra (Instituto Nacional de Colonização e Reforma Agrária), Francisco Graziano, deveria viajar ao Piauí com o presidente Fernando Henrique Cardoso ontem, mas acabou ficando em Brasília.
 Graziano entregaria títulos a 16 famílias do município de Água Branca e assinaria um convênio com entidades do Estado para assentar 550 famílias em três outras localidades e um protocolo para incentivar a agricultura familiar. Tudo foi suspenso.
@@ -572,9 +572,9 @@ O porta-voz da Presidência, Sergio Amaral, disse ontem que Francisco Graziano "n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-032</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-032</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 O Tribunal Regional Federal cassou ao final da tarde de ontem a liminar que havia suspendido a nomeação de Luciana Cardoso, filha do presidente Fernando Henrique Cardoso, para assessoria do Palácio do Planalto. Ela reassumirá o emprego na segunda-feira.
 Luciana foi contratada em 26 de outubro, com salário de R$ 3.800, pelo secretário-geral da Presidência, Eduardo Jorge Caldas. Ela recebe e responde correspondências pessoais enviadas ao pai e cuida do arquivo do gabinete de FHC.
@@ -584,9 +584,9 @@ A Uaic é uma empresa criada pelo Instituto de Resseguros do Brasil em Nova York.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-033</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-033</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação
 A Folha e a editora Revan promovem na segunda, dia 27, o lançamento do livro "Controle do Judiciário", de Marcello Cerqueira.
 Na ocasião, haverá um debate sobre o tema com o presidente do Tribunal Superior Eleitoral, Carlos Velloso, o advogado e ex-ministro da Justiça Saulo Ramos, o deputado José Genoino (PT-SP), o juiz de Direito do Tribunal de Justiça de São Paulo Antonio Carlos Villen e o autor do livro. A coordenação será coordenado pelo advogado e articulista da Folha Walter Ceneviva.
@@ -595,9 +595,9 @@ O evento acontece às 19h30, no auditório do jornal (al. Barão de Limeira, 425, 9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-034</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-034</field>
+<field name="date">951125</field>
+<text_pt>
 Segundo revista de fundação, ação do Incra e dos movimentos de sem-terra não provocam aumento de produção
 Da Sucursal do Rio
 O governo tem agido "de forma desconcertante" com as invasões, e a reforma agrária não pode ser só baseada na distribuição de terras. Essa é a principal crítica feita, em editorial, pela revista "Conjuntura Econômica", editada pela Fundação Getúlio Vargas. A edição de dezembro chega às bancas na próxima semana.
@@ -617,9 +617,9 @@ Desapropriação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-035</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-035</field>
+<field name="date">951125</field>
+<text_pt>
 Sem-terra andaram cem km em 5 dias
 JOSÉ MASCHIO
 Da Agência Folha, em Presidente Prudente
@@ -636,9 +636,9 @@ Enquanto Rainha e os políticos se juntavam à caminhada, o advogado seguiu para P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-036</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-036</field>
+<field name="date">951125</field>
+<text_pt>
 Senado ameaça reduzir na próxima semana limite de comprometimento da receita para pagar a dívida, de 11% para 7%
 Da Sucursal de Brasília
 O presidente do Senado e do Congresso, senador José Sarney (PMDB-AP), disse ontem que o Senado vai alterar na próxima semana a resolução nº 11, que estabeleceu o limite de endividamento dos Estados em 11% da receita.
@@ -658,9 +658,9 @@ Na avaliação de Bezerra, o uso dos recursos do FAT trará problemas políticos par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-037</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-037</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 Os trabalhadores da Scania, em São Bernardo do Campo, podem entrar em greve caso a empresa mantenha sua proposta de demitir 400 trabalhadores, segundo afirmou Carlos Alberto Grana, secretário-geral do Sindicato dos Metalúrgicos do ABCD (CUT).
 A empresa disse ao sindicato que está com excedente de 400 funcionários visto que vai cortar a produção de 40 para 48 veículos por dia. A Scania, com 3.300 trabalhadores, também não pretende pagar os 6,19% em duas parcelas que a Anfavea (representa as montadoras) propôs aos metalúrgicos.
@@ -671,9 +671,9 @@ Os químicos de Osasco, também com data-base em novembro, pararam ontem a Fertibr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-038</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-038</field>
+<field name="date">951125</field>
+<text_pt>
 Monomotor tenta fazer pouso forçado em avenida da zona norte, bate em poste, atinge 2 automóveis e explode
 Da Reportagem Local
 Um avião monomotor Cessna caiu e explodiu ontem na avenida Santos Dumont, em Santana (zona norte de SP), matando o piloto e os cinco passageiros da aeronave. Na queda, o avião atingiu dois carros que passavam pelo local e feriu três dos ocupantes dos veículos.
@@ -693,9 +693,9 @@ O total do congestionamento na cidade, às 10h, atingiu 96,3 km, segundo a CET (C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-039</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-039</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 Júlio César de Freitas, 42, um dos mortos no acidente, era gerente de material e serviços do Senac e viajava duas a três vezes por semana. Era o responsável por todas as obras e reformas nas 42 unidades espalhadas pelo Estado de São Paulo.
 Até o ano passado, as viagens eram feitas de carro, muitas delas demoradas e cansativas. Os colegas de trabalho lembram que o próprio Freitas sugeriu que se fretasse um avião nas viagens mais longas. "Ele queria ficar mais com a família", conta o colega Gilson Antonio de Almeida.
@@ -709,9 +709,9 @@ A direção do Senac encerrou o expediente ontem ao meio dia em sinal de luto. "No
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-040</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-040</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 As investigações sobre a causa do acidente com o Cessna Centurion 2 serão feitas pelo Serac-4 (Serviço Regional de Aviação Civil) do Ministério da Aeronáutica e deverá demorar cerca de 30 dias.
 Ontem a Aeronáutica informou que não seria possível apontar os responsáveis pelo acidente. O avião, segundo informações de funcionários do hangar onde ele era guardado, constava como sendo de propriedade de Antonio Alves dos Santos.
@@ -719,9 +719,9 @@ Segundo pilotos, é comum aviões serem vendidos e continuar constando dos seus do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-041</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-041</field>
+<field name="date">951125</field>
+<text_pt>
 Taxista sai ileso de acidente; 2 entram em estado de choque 
 Da Reportagem Local
 Os motoristas e os passageiros dos dois carros que foram atingidos pela queda do avião sofreram apenas algumas queimaduras e ferimentos leves.
@@ -740,9 +740,9 @@ Amâncio afirmou que, assim que conseguiu deixar o carro, passou a pedir socorro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-042</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-042</field>
+<field name="date">951125</field>
+<text_pt>
 Manifestação aconteceu ontem no centro de São Paulo
 FERNANDO ROSSETTI
 Da Reportagem Local
@@ -757,9 +757,9 @@ Também há temor de que a criação de escolas de 1ª a 4ª série leve os alunos a nã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-043</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-043</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 A Secretaria Municipal da Educação se reunirá com a Secretaria Estadual na semana que vem para discutir a possibilidade de a rede municipal incorporar alunos da rede estadual em regiões onde a reorganização das escolas criar falta de vagas em algumas séries.
 Segundo o secretário municipal da Educação, Sólon Borges dos Reis, 78, "vamos ajudar, na medida em que isso não afete nosso ensino, mas não estamos necessariamente apoiando a reforma".
@@ -769,9 +769,9 @@ Sólon considera uma vantagem as escolas reunirem faixas etárias mais próximas, m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-044</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-044</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Fernando Henrique Cardoso instituiu ontem o exame de formandos das universidades defendendo o fim de "arapucas educacionais" e da reprodução da "ignorância e incompetência" de algumas escolas. Ele disse haver por parte das universidades "uma farsa para ganhar dinheiro".
 A lei sancionada por FHC estabelece exame dos alunos que estejam nos dois últimos semestres do curso de graduação para avaliar o desempenho das universidades.
@@ -783,9 +783,9 @@ Os testes serão aplicados sempre em junho. Só o aluno saberá sua avaliação indiv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-045</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-045</field>
+<field name="date">951125</field>
+<text_pt>
 Dirigente da casa assistencial no Rio onde a polícia achou maconha e cocaína troca acusações com governador
 Da Sucursal do Rio
 O pastor Caio Fábio d'Araújo Filho, 41, disse ontem suspeitar do modo como a polícia informou ter achado cocaína e maconha na Fábrica de Esperança, em Acari, favela na zona norte do Rio.
@@ -802,9 +802,9 @@ Betinho enviou ao pastor flores e um bilhete, em que diz que o trabalho na Fábri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-046</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-046</field>
+<field name="date">951125</field>
+<text_pt>
 CLÁUDIA MATTOS
 Da Sucursal do Rio
 O engenheiro, analista de sistemas e assaltante Sebastião Bispo da Silva Filho, 38, foi preso ontem, em Santa Teresa (região central do Rio), em uma casa que teria alugado para servir de cativeiro para seis sequestros que estaria programando.
@@ -819,9 +819,9 @@ A polícia não permitiu que Silva Filho desse entrevistas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-047</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-047</field>
+<field name="date">951125</field>
+<text_pt>
 SERGIO TORRES
 Enviado especial a Nova Friburgo (RJ)
 As polícias Civil e Militar deflagra na segunda uma superoperação nas florestas da região serrana do Rio em busca dos irmãos Ibrahin e Henrique de Oliveira, acusados de cometer assassinatos na área.
@@ -833,17 +833,17 @@ Os irmãos, criados na serra, são acostumados a andar pelas matas. esta semana a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-048</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-048</field>
+<field name="date">951125</field>
+<text_pt>
  
 JAPÃO - O ministro da Agricultura, José Eduardo de Andrade Vieira, viajará para o Japão. De 3 a 8 de dezembro, ele vai negociar com dirigentes do Jica (Japan International Cooperation Agency) a ampliação do capital japonês nos programas de desenvolvimento agrícola dos cerrados brasileiros.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-049</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-049</field>
+<field name="date">951125</field>
+<text_pt>
 Chefe do Incra afirma ter levado escuta a presidente no dia 9; até 5ª, seu assessor dizia ter sido no dia 14
 Da Sucursal de Brasília
 O presidente do Incra, Francisco Graziano, divulgou ontem nota oficial que contradiz a versão que a sua assessoria de imprensa vinha apresentando até a última quinta-feira sobre o escândalo do "grampo" na casa do embaixador e ex-chefe do cerimonial da Presidência da República, Júlio César Gomes dos Santos.
@@ -864,9 +864,9 @@ Colaborou Agência Folha, em Oriximiná
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-050</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-050</field>
+<field name="date">951125</field>
+<text_pt>
 Da Sucursal de Brasília
 O procurador-geral da República, Geraldo Brindeiro, começou ontem a analisar o pedido do ministro Nelson Jobim (Justiça) de abertura de investigação do embaixador Júlio César Gomes dos Santos, ex-chefe do cerimonial do Planalto e suspeito de tráfico de influência no projeto Sivam.
 O processo, no entanto, dificilmente será aberto. Ontem à noite, em nota oficial, o procurador afirmou que é inconstitucional a prática da escuta telefônica.
@@ -881,9 +881,9 @@ A ilegalidade das escutas levou Jobim a editar portaria na quinta-feira proibind
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-051</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-051</field>
+<field name="date">951125</field>
+<text_pt>
 CARI RODRIGUES
 Da Sucursal de Brasília
 A renegociação da dívida do Estado de São Paulo com o Banespa _aproximadamente R$ 13 bilhões_ poderá estar concluída em breve. "As discussões nunca estiveram tão perto de uma solução", disse ontem à Folha o governador de São Paulo, Mário Covas (PSDB).
@@ -898,9 +898,9 @@ Covas esteve também com o secretário de Política Econômica da Fazenda, José Robe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-052</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-052</field>
+<field name="date">951125</field>
+<text_pt>
 Monomotor tenta fazer pouso forçado em avenida da zona norte, bate em poste, atinge 2 automóveis e explode
 Da Reportagem Local
 Um avião monomotor Cessna caiu e explodiu ontem na avenida Santos Dumont, em Santana (zona norte de SP), matando o piloto e os cinco passageiros da aeronave. Na queda, o avião atingiu dois carros que passavam pelo local e feriu três ocupantes dos veículos.
@@ -920,9 +920,9 @@ O acidente com o avião congestionou as principais vias da zona norte ontem pela 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-053</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-053</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 Júlio César de Freitas, 42, um dos mortos no acidente, era gerente de material e serviços do Senac e viajava com frequência. Era o responsável pelas obras e reformas nas 46 unidades do Estado.
 Até o ano passado, as viagens eram feitas de carro, muitas delas demoradas e cansativas. Os colegas de trabalho lembram que o próprio Freitas sugeriu que se fretasse um avião nas viagens mais longas. "Ele queria ficar mais com a família", conta o colega Gilson Antonio de Almeida.
@@ -938,9 +938,9 @@ A direção do Senac encerrou o expediente ontem ao meio dia em sinal de luto. "No
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-054</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-054</field>
+<field name="date">951125</field>
+<text_pt>
 Manifestação aconteceu ontem no centro de São Paulo
 FERNANDO ROSSETTI
 Da Reportagem Local
@@ -956,9 +956,9 @@ Ontem, o prefeito Paulo Maluf assinou decreto que torna obrigatório o hasteament
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-055</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-055</field>
+<field name="date">951125</field>
+<text_pt>
 Família é presa por mandar matar garoto que eles acreditavam ter participado do assassinato de seu filho
 Da Reportagem Local
 Os pais de um garoto de 14 anos assassinado foram presos, acusados de matar, por vingança, um jovem de 16 anos em São Paulo. Segundo a polícia, eles acreditavam que o jovem teria alguma participação na morte de seu filho. Outras três pessoas foram presas.
@@ -973,9 +973,9 @@ Os três presos teriam confessado o crime ao depor no 51º DP e acusado os pais de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-056</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-056</field>
+<field name="date">951125</field>
+<text_pt>
 
 REAGE RIO - Hoje, às 14h, será feito o ensaio geral do desfile das alas que comporão a caminhada, que acontece na próxima terça-feira. O ensaio seria ontem, mas foi transferido para que não houvesse problemas para o trânsito. Uma grande queima de fogos e a transmissão de músicas de sucesso, como "Bandeira Branca" e "Cidade Maravilhosa", marcarão o final da caminhada Reage Rio.
 
@@ -985,30 +985,30 @@ NOVA RODOVIA - O secretário de Estado dos Transportes, Plínio Assmann, anunciou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-057</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-057</field>
+<field name="date">951125</field>
+<text_pt>
 O general Augusto Pinochet, líder do Exército do Chile, completa hoje 80 anos. Mais de 1.800 pessoas pagaram US$ 150 para comemorar o aniversário do chefe militar. A festa foi organizada por partidários de Pinochet. O dinheiro será destinado à Fundação Augusto Pinochet. Grupos de esquerda do Chile prometem fazer protestos contra o ex-ditador.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-058</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-058</field>
+<field name="date">951125</field>
+<text_pt>
 O presidente da Rússia, Boris Ieltsin, terá alta do hospital Clínica Central de Moscou na próxima sexta-feira, dia 1º de dezembro, segundo o governador de Sverdlovsk, Eduard Rossel, que visitou o presidente ontem. Ieltsin foi internado no dia 26 de outubro com problemas cardíacos. O presidente russo afirmou ontem que "não há clima de trabalho no hospital".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-059</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-059</field>
+<field name="date">951125</field>
+<text_pt>
 Abdur Rahmas Biswas, presidente de Bangladesh, dissolveu ontem o Parlamento, atendendo a um pedido da primeira-ministra Khaleda Zia. Partidos de oposição exigiam um governo equilibrado para não boicotar as eleições gerais do país. A comissão eleitoral tem agora três meses para realizar o pleito. Neste período o país será governado por um gabinete neutro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-060</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-060</field>
+<field name="date">951125</field>
+<text_pt>
 O Conselho Deliberativo (Legislativo) de Buenos Aires, capital argentina, declarou quatro ex-comandantes do regime militar (1976-83) como "persona non grata" por violação dos direitos humanos. Jorge Rafael Videla (Exército), Emilio Massera (Marinha) e Orlando Agosti (Força Aérea) foram os primeiros a receber tal tratamento. O presidente Carlos Menem rechaçou a declaração.
 
 Explosão mata 500 no Sri Lanka, diz agência
@@ -1029,9 +1029,9 @@ A fabrica de armas de Rio Terceiro, na região central da Argentina, teve novas e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-061</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-061</field>
+<field name="date">951125</field>
+<text_pt>
 Diretor de "Adeus Meninos" e "Lacombe Lucien" foi vítima de um câncer, aos 63 anos
 Das agências internacionais
 O cineasta francês Louis Malle, diretor de "Adeus Meninos", morreu na noite de anteontem em sua residência em Beverlly Hills (Califórnia), vítima de um linfoma (câncer nos gânglios linfáticos). Estava hospitalizado desde julho.
@@ -1045,9 +1045,9 @@ Seu último filme, "Tio Vânia em Nova York", do ano passado, é uma homenagem aos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-062</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-062</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação
 Para Louis Malle, nenhuma verdade era completa se não passasse pelo afeto.
 Foi isso que lhe permitiu olhar os colaboracionistas franceses da Segunda Guerra sem piedade, mas com generosidade, em "Lacombe Lucien", talvez seu melhor filme.
@@ -1060,9 +1060,9 @@ Foi um dos cineastas marcantes de seu tempo. Foi também um dos mais dotados de h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-063</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-063</field>
+<field name="date">951125</field>
+<text_pt>
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
 Quando aqui esteve pela última vez, Louis Malle revelou que seu próximo filme seria uma comédia sobre as atribulações existenciais dos anos 40. Ainda bem que mudou de idéia.
@@ -1073,9 +1073,9 @@ Teria sido mais trágico se ele tivesse morrido dez anos atrás. Encerrar uma carr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-064</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-064</field>
+<field name="date">951125</field>
+<text_pt>
 Das agências internacionais
 O líder dos sérvios da Bósnia, Radovan Karadzic, reuniu líderes militares e civis de Sarajevo para convencê-los a aceitar o acordo de paz com croatas e muçulmanos.
 Karadzic, pressionado pelo presidente da Sérvia, Slobodan Milosevic, aceitou anteontem o acordo feito nos Estados Unidos.
@@ -1087,9 +1087,9 @@ Com a exceção do comandante militar, Ratko Mladic, todos os líderes sérvios esta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-065</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-065</field>
+<field name="date">951125</field>
+<text_pt>
 VINICIUS TORRES FREIRE
 De Paris
 A greve geral do funcionalismo parou ontem cerca de 90% do transporte público, além de cerca de 40% da administração pública direta da França. Manifestações de rua reuniram 250 mil pessoas nas maiores cidades do país.
@@ -1108,9 +1108,9 @@ Segundo os institutos, a flutuação das moedas européias e do dólar, causada por 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-066</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-066</field>
+<field name="date">951125</field>
+<text_pt>
 Suspeita de envolvimento com tráfico, mulher do irmão do ex-presidente mexicano tentava sacar US$ 84 milhões
 FLAVIO CASTELLOTTI
 Da Cidade do México
@@ -1130,9 +1130,9 @@ As investigações aproximavam-se cada vez mais do ex-presidente Carlos Salinas, q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-067</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-067</field>
+<field name="date">951125</field>
+<text_pt>
 Das agências internacionais
 O ex-presidente mexicano Carlos Salinas de Gortari teria visitado Cuba no final do mês de agosto com nome falso, noticiou ontem o jornal "La Reforma".
 Alvaro Navarro se hospedou em um hotel exclusivo do balneário de Cayo Coco, 780 km a noroeste de Havana, entre os dias 24 e 25 de agosto. O governo cubano nega que Salinas esteja vivendo no país.
@@ -1144,9 +1144,9 @@ O semanário esquerdista "Proceso" publicou o que seriam trechos de conversas tel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-068</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-068</field>
+<field name="date">951125</field>
+<text_pt>
 Das agências internacionais
 O Exército israelense fechou ontem os escritórios do chefe de segurança palestino em Salfit (Cisjordânia). A existência do imóvel violaria o acordo de paz entre Israel e a Organização para a Libertação da Palestina.
 "Os gabinetes de Jibril Rajoub em Salfit foram fechados porque a decisão de abri-los na região vai contra o acordo", disse um porta-voz do Exército de Israel.
@@ -1157,9 +1157,9 @@ A polícia israelense anunciou ontem a prisão de três menores suspeitos de serem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-069</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-069</field>
+<field name="date">951125</field>
+<text_pt>
 Do "The Independent"
 O líder rebelde tchetcheno Chamil Basaiev deve estar dando pulos de alegria depois de revelar que havia enterrado um recipiente radiativo no centro de Moscou.
 Anteontem, funcionários do governo foram obrigados a usar sensores espalhados pela cidade em busca de altos níveis radiativos, depois de Basaiev revelar a localização à emissora estatal de TV NTV, que o detectou sob uma camada de neve em um parque.
@@ -1170,9 +1170,9 @@ O governo quer promover eleições na Tchetchênia em dezembro. Os rebeldes ameaçam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-070</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-070</field>
+<field name="date">951125</field>
+<text_pt>
 OTÁVIO DIAS
 De Londres
 Pela segunda vez em menos de dez anos, os irlandeses foram às urnas ontem para decidir se o divórcio deve ser permitido no país.
@@ -1194,9 +1194,9 @@ Segundo estimativas, entre 75 mil e 80 mil casais vivem separados hoje na Irland
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-071</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-071</field>
+<field name="date">951125</field>
+<text_pt>
 Mãe de militar morto na Guerra das Malvinas insulta princesa britânica
 Das agências internacionais
 Os sorrisos e a simpatia da princesa Diana não foram suficientes para que sua visita à Argentina ficasse imune ao fantasma da Guerra das Malvinas.
@@ -1217,9 +1217,9 @@ Ela admitiu ter traído o príncipe Charles, de quem está separada, com o major da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-072</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-072</field>
+<field name="date">951125</field>
+<text_pt>
 De Paris
 "Esta noite, muitas atrizes estão de luto", disse ontem o presidente da França, Jacques Chirac, a respeito da morte do cineasta francês Louis Malle.
 Em uma nota distribuída por sua assessoria, Chirac disse que o diretor "soube dar às mulheres papéis inesquecíveis. De Jeanne Moreau a Juliette Binoche, ele soube ser um diretor da paixão".
@@ -1234,18 +1234,18 @@ O primeiro-ministro Alain Juppé, que enfrentou hoje um dia de protestos e greves
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-073</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-073</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 A morte de Louis Malle foi lamentada por cineastas brasileiros como uma grande perda do cinema. "Ele mantinha vivo o amor ao cinema. Com sua morte, o verdadeiro cinema fica mais distante. Só restam os videoclipes", diz o cineasta e colunista da Folha Arnaldo Jabor.
 O cineasta Walter Hygo Khouri disse que os filmes de Malle qie mais gostava_ "Trinta Anos Esta Noite" e "Lacombe Lucien"_ eram representativos do "lado mais denso" da Nouvelle Vague. "Seus filmes tinham menos caráter de espetáculo que o de outros diretores"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-074</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-074</field>
+<field name="date">951125</field>
+<text_pt>
 Das agências internacionais
 O líder dos sérvios da Bósnia, Radovan Karadzic, manifestou ontem seu apoio ao acordo de paz rubricado nos EUA na terça-feira.
 "Posso dizer que atingimos nosso objetivo. Temos metade da Bósnia, mais de 40 cidades e também boas terras", disse Karadzic.
@@ -1257,9 +1257,9 @@ Momcilo Krajisnik, representante dos sérvios da Bósnia em Dayton, acusou o presi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-075</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-075</field>
+<field name="date">951125</field>
+<text_pt>
 Empresas do setor calçadista da região de São José do Rio Preto (451 km a noroeste de São Paulo) marcaram férias coletivas para pelo menos mil trabalhadores e estão demitindo funcionários a partir deste mês por causa da queda nas vendas e encomendas para o Natal. Os pedidos de mercadorias caíram 60% em relação ao último trimestre de 94.
 
 Empresas estrangeiras farão gasoduto no país
@@ -1267,9 +1267,9 @@ As empresas inglesas BHP e British Gas e a norte-americana Tenneco vão ser respo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-076</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-076</field>
+<field name="date">951125</field>
+<text_pt>
 Citibank e New York Life querem comprar participação do ex-Nacional, diz Muggiati
 MILTON GAMEZ
 Da Reportagem Local
@@ -1289,9 +1289,9 @@ sobre bancos nas páginas 3 e 7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-077</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-077</field>
+<field name="date">951125</field>
+<text_pt>
 RUBENS RICUPERO
 Vive-se hoje, em matéria de economia e comércio, um aparente paradoxo. O êxito final da Rodada Uruguai do antigo Gatt e a fundação da OMC (Organização Mundial de Comércio) deveriam, em princípio, ter desencorajado as tentativas de criação de zonas de comércio regional.
 Ao contrário, assiste-se não só à progressiva consolidação de acordos anteriores, como a União Européia, o Nafta e o Mercosul, mas ao lançamento ou revitalização de iniciativas ainda mais ambiciosas.
@@ -1322,9 +1322,9 @@ RUBENS RICUPERO, 58, embaixador do Brasil em Roma (Itália) e ex-ministro da Faze
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-078</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-078</field>
+<field name="date">951125</field>
+<text_pt>
 JOSÉ GOMES DA SILVA
 Uma das idéias dominantes nos anos 60, hoje superada, era a de que a Reforma Agrária (o Estatuto da Terra escreve a expressão com iniciais maiúsculas) deveria ser feita no Nordeste, sobretudo na Zona da Mata, onde o latifúndio canavieiro era tido, na época, como o exemplo da grande propriedade improdutiva.
 Ainda naquela década, o eixo da discussão da questão da terra deslocou-se, inesperadamente, para o Estado de São Paulo, onde o governador Carvalho Pinto, um homem reconhecidamente de centro, encampara a tese de seus auxiliares e propunha uma lei de revisão agrária baseada nos dois instrumentos clássicos de ação fundiária: a desapropriação por interesse social e a tributação fortemente progressiva.
@@ -1349,38 +1349,38 @@ JOSÉ GOMES DA SILVA, 71, é fazendeiro e engenheiro agrônomo. Foi secretário da A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-079</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-079</field>
+<field name="date">951125</field>
+<text_pt>
 O custo médio da cesta básica subiu 0,21% ontem em São Paulo. Segundo pesquisa do Procon, em convênio com o Dieese, o preço da cesta passou de R$ 106,53 para R$ 106,75. Os alimentos e os produtos de limpeza subiram 0,18%. O preço dos produtos de higiene pessoal aumentou 0,47%.
 Dos 68 produtos pesquisados, 22 tiveram alta nos preços, 28 baixaram e 18 permaneceram estáveis. Os preços do café Pilão e do arroz tipo 2 foram os que mais subiram: 1,90% e 1,77%, respectivamente. Entre os que mais desceram, liderou a carne de segunda (2,18%).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-080</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-080</field>
+<field name="date">951125</field>
+<text_pt>
 A produção nacional de óleo (incluindo a produção de líquido de gás natural e condensado) alcançou em outubro a média de 781,3 mil barris diários. Em relação a setembro, foram produzidos diariamente, em média, 25.892 barris (3,43%) a mais. Do total, 75,96% foram extraídos do mar. No dia 31 de outubro, foi estabelecido um novo recorde na produção: 807,9 mil barris no dia. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-081</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-081</field>
+<field name="date">951125</field>
+<text_pt>
 A safra nacional de grãos deverá atingir 79,9 milhões de toneladas neste ano. Segundo estimativa de outubro do IBGE, esse volume é 6,3% superior aos 74,2 milhões de toneladas da produção de 94. A região Sul deverá produzir 39,7 milhões de toneladas. O levantamento de intenção de plantio para a safra 95/96 mostra redução de 7,7% na área plantada ou a plantar em relação à safra anterior.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-082</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-082</field>
+<field name="date">951125</field>
+<text_pt>
 A diferença de preços dos eletroportáteis pode chegar a 56,1% de uma loja para outra. Isso é o que mostra pesquisa do Procon em 18 estabelecimentos da capital. O espremedor de frutas Black &amp; Decker era vendido por R$ 26,90 numa loja e por R$ 42 em outra.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-083</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-083</field>
+<field name="date">951125</field>
+<text_pt>
 Investidores estrangeiros se preocupam ainda com lentidão do ajuste fiscal e das reformas constitucionais
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -1403,9 +1403,9 @@ Ebehard Schulz, economista do Deutsche Bank, de Frankfurt, concorda. Segundo ele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-084</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-084</field>
+<field name="date">951125</field>
+<text_pt>
 ELVIRA LOBATO
 Da Reportagem Local
 O ministro da Fazenda, Pedro Malan, respondeu ontem às críticas de que o Banco Central não foi capaz de identificar com antecedência a crise do sistema financeiro e que aprovou balanços de instituições às vésperas de sofrerem intervenção.
@@ -1423,18 +1423,18 @@ O ministro afirmou que não é possível quantificar nem mesmo o financiamento a se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-085</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-085</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 O Sindicato dos Bancários de São Paulo fez ontem um protesto em frente à sede do Banco Central, na av. Paulista, contra o Proer, crédito à fusão de bancos.
 Por volta das 12h30, em uma paródia às igrejas evangélicas, um personagem chamado "Gastor Sepedir Heucedo" deu início ao culto do "Templo Comercial do Reino do Banco Central". "Um dos milagres realizados foi a salvação de banqueiros com R$ 4 bilhões dos contribuintes", disse Manuel Castaño Blanco, diretor do sindicato. No final do protesto, "Gastor" chutou os cofres públicos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-086</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-086</field>
+<field name="date">951125</field>
+<text_pt>
 Instituições cariocas continuam vendendo dólar; balanços das empresas surpreendem negativamente analistas
 Da Reportagem Local 
 Com um volume razoável para os dias de hoje, a Bolsa paulista fechou em baixa de 2,61%.
@@ -1455,37 +1455,37 @@ Voltou a existir ágio entre o flutuante e o comercial.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-087</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-087</field>
+<field name="date">951125</field>
+<text_pt>
 A taxa média ficou em 4,17%, projetando 2,87%. No CDI, a taxa efetiva é de 2,83%. Poupança que vence hoje rendem 2,1744%. O CDB pré pagou 2,73% e o pós, 16,8% ao ano mais TR. Para quem aplicar segunda, em 30 dias, o FIF de curto prazo deve render 1,44% e o de 30 dias, 2,34%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-088</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-088</field>
+<field name="date">951125</field>
+<text_pt>
 O BC não atuou ontem no mercado. O dólar comercial (exportações e importações) fechou a R$ 0,9647 para compra e a R$ 0,9650 para venda. O dólar-flutuante foi negociado a R$ 0,965 para compra e a R$ 0,9655 para venda. O paralelo foi negociado a R$ 0,969 para compra e a R$ 0,972 para venda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-089</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-089</field>
+<field name="date">951125</field>
+<text_pt>
 A Bolsa de São Paulo fechou em baixa de 2,61%, com 40.816 pontos. O volume negociado foi de R$ 191,541 milhões. A do Rio caiu 1,6%, negociando R$ 15,841 milhões. Os títulos da dívida externa fecharam em baixa. O IDU fechou cotado a US$ 0,8463 e o C-Bond, a US$ 0,5088.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-090</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-090</field>
+<field name="date">951125</field>
+<text_pt>
 O índice Merval, da Bolsa argentina, subiu 0,17%. Em Londres, a Bolsa subiu 0,59%. Em Tóquio, caiu 0,13%. Na véspera, a libor ficou em 5,625% e a prime em 8,75%. Em Londres, a libra ficou em US$ 1,5605. O dólar foi cotado a 1,4163 marco, em Frankfurt, e, em Tóquio, a 101,09 ienes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-091</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-091</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 O ICMS (Imposto sobre Circulação de Mercadorias e Serviços) pago pelos consumidores paulistas representa um terço do total da conta de luz.
 É que, embora a alíquota seja de 25%, a forma de cálculo faz com que o imposto fique em 33,33%.
@@ -1501,9 +1501,9 @@ Além desta cidade, as prefeituras de Santos, Taubaté e São José dos Campos já ob
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-092</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-092</field>
+<field name="date">951125</field>
+<text_pt>
 FÁBIO ZANINI
 Da Agência Folha
 O bloqueio da ponte da Amizade, que liga Foz do Iguaçu (Brasil) e Ciudad del Este (Paraguai), deve continuar hoje, prejudicando o dia de maior movimento de sacoleiros na região.
@@ -1525,9 +1525,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-093</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-093</field>
+<field name="date">951125</field>
+<text_pt>
 Alta do nível de atividade chega a 62% sobre resultado de 94; para empresas, resultado reflete confiança no Real
 FÁTIMA FERNANDES
 Da Reportagem Local
@@ -1553,9 +1553,9 @@ Para ela, as vendas de chocolates e balas cresceram porque a estabilização da mo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-094</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-094</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 A produção da indústria de alimentos cresceu 5,5% de janeiro a outubro deste ano na comparação com igual período do ano passado, segundo pesquisa que acaba de ser concluída pela Abia, associação que reúne o setor, com uma amostra de 500 empresas.
 É o maior crescimento no nível de atividade das fábricas de alimentos desde 1998, quando começou a ser feita coleta de dados pela associação. Até então, o maior aumento de produção fora verificado em 1991 _de 3,6% sobre 1990.
@@ -1570,9 +1570,9 @@ Na análise de Ribeiro, a indústria de alimentos _são cerca de 40 mil no país_ de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-095</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-095</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação
 A chegada da Wal-Mart pode forçar os supermercados de São Paulo a abrir também aos domingos.
 A nova rede, localizada em Osasco, pode ficar aberta todos os dias. O único acerto que a Wal-Mart deve fazer é com o sindicato dos trabalhadores. Já os supermercados de São Paulo têm de fazer acordo com sindicatos e fazer a prefeitura revogar a lei que proíbe a abertura de lojas aos domingos.
@@ -1580,9 +1580,9 @@ A nova rede, localizada em Osasco, pode ficar aberta todos os dias. O único acer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-096</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-096</field>
+<field name="date">951125</field>
+<text_pt>
 MÁRCIA DE CHIARA
 Da Reportagem Local
 A Kaiser está dobrando os investimentos no Nordeste. A companhia decidiu aplicar US$ 180 milhões na construção de duas fábricas na região.
@@ -1599,16 +1599,16 @@ Hoje, a empresa tem sete unidades de produção espalhadas pelo país. A nova fábri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-097</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-097</field>
+<field name="date">951125</field>
+<text_pt>
 O Banco Mundial aprovou ontem um empréstimo de US$ 168 milhões à Argentina. Em comunicado divulgado em Washington, o Banco Mundial lembrou que a Argentina está atravessando a primeira crise econômica desde que colocou em prática o Plano Cavallo, e que o crescimento econômico está sofrendo uma desaceleração considerável.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-098</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-098</field>
+<field name="date">951125</field>
+<text_pt>
 FÁBIO ZANINI
 Da Agência Folha
 O bloqueio da ponte da Amizade, que liga os municípios de Foz do Iguaçu (a 637 km de Curitiba-PR) e Ciudad del Este (Paraguai), deve continuar hoje, prejudicando o dia de maior movimento de sacoleiros na região.
@@ -1629,9 +1629,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-099</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-099</field>
+<field name="date">951125</field>
+<text_pt>
 CLÁUDIA LACERDA
 Da Folha Norte
 Empresas do setor calçadista da região de São José do Rio Preto (451 km a noroeste de São Paulo) marcaram férias coletivas para pelo menos mil trabalhadores e estão demitindo funcionários a partir deste mês, por causa da queda nas vendas e encomendas para o Natal.
@@ -1647,9 +1647,9 @@ Por causa desses pedidos, outubro foi o único mês do ano em que o setor teve des
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-100</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-100</field>
+<field name="date">951125</field>
+<text_pt>
 O vereador Roberto Tripoli (foto) trocou o PV pelo PSDB. Agora, o Partido Verde não tem representantes na Câmara Municipal de São Paulo. A bancada dos tucanos, que fazem oposição ao prefeito Paulo Maluf (PPB), passam a contar com seis integrantes.
 
 Maluf autoriza convênio para Colégio Militar 
@@ -1657,9 +1657,9 @@ O prefeito de São Paulo, Paulo Maluf (PPB), sancionou anteontem a lei que autori
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-101</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-101</field>
+<field name="date">951125</field>
+<text_pt>
 Mais de 80 policiais ficaram sem julgamento porque até casos de homicídios foram para arquivo 
 MARCELO GODOY 
 Da Reportagem Local 
@@ -1677,9 +1677,9 @@ Os autos passaram para as mãos do juiz Antônio Prazak, que despachou dando conti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-102</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-102</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 O presidente do TJM (Tribunal de Justiça Militar), juiz Antônio Augusto Neves, pediu para que sua assessoria militar informasse que ele não se manifestará sobre o dossiê que o Conselho Superior do Ministério Público mandará à Corregedoria do Tribunal de Justiça de São Paulo.
 Neves afirmou que desconhece as informações contidas no dossiê e que, portanto, não poderia dar entrevista sobre o caso.
@@ -1689,9 +1689,9 @@ A Folha também procurou, por telefone o corregedor-geral do TJM, juiz Octávio Le
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-103</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-103</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 A interrupção dos processos da 1ª Auditoria do TJM já deixou impune pelo menos um caso de agressão: o que envolve os soldados Arlindo Wilceski e José Benedito Trindade.
 Em 12 de janeiro de 1986, em Getulina (473 a noroeste de SP), eles teriam prendido ilegalmente e espancado a adolescente L.L.S. e o adolescente A.R. para descobrir traficantes de drogas da cidade.
@@ -1703,9 +1703,9 @@ O processo aguarda apenas a manifestação do Ministério Público Estadual para ser
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-104</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-104</field>
+<field name="date">951125</field>
+<text_pt>
 TJ tem acolhido pedidos embora casos sejam raros por causa da desinformação 
 EUNICE NUNES 
 Especial para a Folha 
@@ -1728,9 +1728,9 @@ Em dificuldades, a mãe resolveu procurar o pai biológico da criança. Ele admitiu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-105</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-105</field>
+<field name="date">951125</field>
+<text_pt>
 Especial para a Folha 
 Divórcio geralmente acarreta longas discussões, especialmente quando há bens e filhos.
 E quando se discute guarda e visita aos filhos, o discurso costuma ser permeado pela variável patrimonial: alimentos, manter o nível de vida das crianças etc. O bem estar das crianças acaba ficando em segundo plano.
@@ -1746,9 +1746,9 @@ Quanto aos pais que deixam de pagar pensão alimentícia aos seus filhos, há quem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-106</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-106</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação 
 Emerson Gonçalves Mota pede o recapeamento das ruas Major Dantas Cortez e Reverendo Israel Vieira Ferreira, em Vila Gustavo/Vila Medeiros, respectivamente, tendo em vista seu estado intrafegável, com buracos e calombos.
 O primeiro pedido foi feito no início de 1994, por meio de um abaixo-assinado dos moradores entregue à Administração Regional de Vila Maria-Vila Guilherme.
@@ -1761,9 +1761,9 @@ Cartas para "A Cidade É Sua" devem ser enviadas para a Editoria de Cidades, Reda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-107</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-107</field>
+<field name="date">951125</field>
+<text_pt>
 SÉRGIO ANTONIO MURAD 
 O governo federal, de modo constante, ameaça sadicamente os futuros aposentados com reduções ainda mais drásticas nos tetos das aposentadorias e propôs reforma constitucional nesse sentido.
 Paralelamente, aprovou no Congresso Nacional lei que aumentou as alíquotas de contribuições dos trabalhadores e, pasmem, passou a descontá-las também dos minguados salários dos aposentados que continuaram trabalhando. E se diz surpreso com a reação popular às medidas propostas, esquecendo-se de que está acabando com o sonho dourado da classe média do "ócio com dignidade" após longos 35 anos de duros serviços.
@@ -1785,9 +1785,9 @@ SÉRGIO ANTONIO MURAD, 50, é juiz presidente da Junta de Conciliação e Julgamento
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-108</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-108</field>
+<field name="date">951125</field>
+<text_pt>
 WALTER CENEVIVA 
 Estou definitivamente resolvido: jamais aceitarei qualquer cargo na administração pública. A hipótese de ser convidado é improvável, mas, de qualquer modo, o projeto de exercer uma função pública remunerada está tão fora de meus planos, quanto ir a Júpiter.
 Suponho que essa é a atitude de qualquer pessoa que tenha família, filhos, irmãos, netos e que pretenda mantê-los fora do turbilhão dos escândalos públicos, justa ou injustamente provocados pelos conflitos de interesses econômicos relacionados com obras governamentais.
@@ -1804,9 +1804,9 @@ O aspecto que os "denunciocratas" ingênuos não percebem quando acolhem, sem maio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-109</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-109</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 A associação Laramara, de assistência a deficientes visuais, é uma das quatro ganhadoras do Prêmio Criança deste ano.
 O prêmio foi instituído em 90 pela Fundação Abrinq pelos Direitos da Criança para homenagear pessoas ou entidades que se destacam no decorrer do ano com trabalhos em benefício das crianças e adolescentes nas áreas de saúde, educação, política, cultura, ação social e comunicação.
@@ -1824,9 +1824,9 @@ Os proprietários da casa cederam gratuitamente o espaço para a solenidade, que c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-110</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-110</field>
+<field name="date">951125</field>
+<text_pt>
 Projeto carioca desocupa e ilumina calçadas e põe rampas na cidade 
 MARCELO RUBENS PAIVA 
 Enviado Especial ao Rio 
@@ -1853,9 +1853,9 @@ A exposição fica no saguão do hotel até o fim dos eventos, domingo, dia 26.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-111</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-111</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 A Fundação Abrinq pelos Direitos da Criança e o curso de idiomas Yázigi iniciaram, na semana passada, a campanha "Sem amor eu nada seria".
 Seu objetivo é arrecadar brinquedos que serão distribuídos a crianças carentes no Natal.
@@ -1865,9 +1865,9 @@ A campanha de arrecadação vai até 15 de dezembro. Os brinquedos serão distribuíd
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-112</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-112</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 O município de Campos Altos (MG) conseguiu reduzir 76% da evasão escolar de crianças no período da colheita de café na cidade com um programa de mobilização social. A evasão caiu de 30,98% em 92 para 7,4% em 94.
 Em 94, pais, prefeitura, produtores e trabalhadores rurais, professores, religiosos e profissionais liberais se reuniram para solucionar o problema.
@@ -1879,9 +1879,9 @@ Esta coluna é elaborada em parceria com a Fundação Abrinq pelos Direitos da Cria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-113</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-113</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 Os políticos brasileiros podem aprender mais sobre ternos. A opinião é de Lorenzo Pettinaroli, 23, que passou a semana em São Paulo representando a grife italiana Ermenegildo Zegna.
 A grife tem um século de tradição na Itália, e Lorenzo veio ao Brasil lançar um sistema de ternos industriais feitos sob medida.
@@ -1891,9 +1891,9 @@ O terno do prefeito Paulo Maluf tem "o melhor ombro", o do governador Mário Cova
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-114</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-114</field>
+<field name="date">951125</field>
+<text_pt>
 FERNANDO ROSSETTI 
 Da Reportagem Local 
 Um grupo de trabalho montado para avaliar o desempenho das escolas e faculdades técnicas ligadas ao Centro Estadual de Educação Tecnológica Paula Souza (Ceeteps) constatou uma quantidade tão grande de problemas que o governo está atualmente estudando uma reformulação completa dessa rede de ensino (leia abaixo).
@@ -1911,9 +1911,9 @@ Em agosto, o convênio foi reformulado e o Ceeteps acabou arcando com a reforma d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-115</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-115</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 As modificações em estudo para a rede de ensino tecnológico visam "implantar uma escola técnica de altíssimo nível, voltada para a demanda de mão-de-obra do setor produtivo", afirma o secretário estadual de Ciência e Tecnologia, Emerson Kapaz, 40.
 O antigo superintendente do Centro Paula Souza, Elias Horani, chefia, desde o início do mês, uma comissão na secretaria para propor reformas. Toda a diretoria do Ceeteps está sendo substituída.
@@ -1928,9 +1928,9 @@ O problema é que o Ceeteps é vinculado à Unesp (Universidade Estadual Paulista),
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-116</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-116</field>
+<field name="date">951125</field>
+<text_pt>
 ANA MARIA MANDIM 
 Da Reportagem Local 
 A Infraero (Empresa Brasileira de Infra-Estrutura Aeroportuária) de São Paulo proibiu a colocação, no aeroporto de Cumbica, de um anúncio luminoso que reproduzia a imagem de "La Maja Desnuda", uma das pinturas mais conhecidas do pintor espanhol Francesco de Goya.
@@ -1949,9 +1949,9 @@ Ela também pode ser vista em tamanho gigante em outdoors colocados em várias cid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-117</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-117</field>
+<field name="date">951125</field>
+<text_pt>
 Duas tentativas de assassinato em assaltos fazem moradores de bairro da zona oeste comprar carro para a polícia 
 KENNEDY ALENCAR 
 Da Reportagem Local 
@@ -1969,9 +1969,9 @@ A maioria dos estabelecimentos comerciais também tem seguranças próprios. Cecíli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-118</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-118</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 A modelo e apresentadora de TV Adriane Galisteu, 22, anda com dois seguranças e tira o relógio do pulso quando está passeando pelas ruas dos Jardins.
 Adriane, que comprou um apartamento na Haddock Lobo há três meses, disse que ficou "chocada" com a notícia do assalto ao jornalista Glauco Antônio Rodrigues.
@@ -1983,9 +1983,9 @@ Gerente da loja Mont Blanc, que vende canetas e artigos de couro de alto padrão,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-119</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-119</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 Estatiscamente, não há tendência de crescimento de furtos e roubos nos Jardins.
 Em outubro, a média diária de furtos foi de 6,48 (201 no total). Em novembro, foram registrados 113 furtos em 22 dias _queda para 5,13 casos por dia.
@@ -1995,9 +1995,9 @@ O 78º ficou em 13º lugar entre os DPs com mais roubos em outubro. O campeão foi 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-120</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-120</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local 
 Cada US$ 1 investido hoje na prevenção à Aids renderá, num futuro próximo, US$ 36 em economia de tratamentos. Trata-se da mais rentável de todas as aplicações disponíveis no mercado.
 No entanto, o "negócio" da prevenção da Aids no Brasil ainda seduz poucos "investidores". Para atraí-los, o Ministério da Saúde promoveu na quinta-feira em São Paulo um fórum nacional tratando da "prevenção e controle da Aids no local de trabalho".
@@ -2017,9 +2017,9 @@ A Xerox, como as outras empresas que falaram de seus programas, disse garantir t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-121</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-121</field>
+<field name="date">951125</field>
+<text_pt>
 SUZANA CAMARÁ
 Da Reportagem Local
 Você já viu algum papai noel de última geração por aí? Vindos dos quatro cantos do planeta, graças à importação, tais bonecos são as novas vedetes das vitrines natalinas da cidade.
@@ -2034,9 +2034,9 @@ Crazy Studio - São Paulo Market Place, loja 130, tel. 241-2304. Emporim - av. Pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-122</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-122</field>
+<field name="date">951125</field>
+<text_pt>
 Times em fase de transição, venda de jogadores, violência, estádios vazios, calendário e o torneio regional 
 MATINAS SUZUKI JR. 
 Editor-executivo 
@@ -2058,9 +2058,9 @@ Matinas Suzuki Jr. escreve às terças, quintas e sábados
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-123</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-123</field>
+<field name="date">951125</field>
+<text_pt>
 A Ellen, que entende tanto de Williams, é uma leitora que pede melhor tratamento a seu favorito, Damon Hill. Não posso fazer nada. Só Hill pode fazer alguma coisa por ele mesmo.
 
 Os 25 anos de automobilismo de Emerson Fittipaldi foram lembrados por duas das mais importantes publicações européias. A inglesa "Autosport" entrega prêmio ao brasileiro no dia 2. Uma semana mais tarde, a italiana "AutoSprint" dá mais um Casco D'Oro a Emmo. No Brasil... no Brasil, infelizmente, nada acontece.
@@ -2073,9 +2073,9 @@ O piloto levou a pior na última etapa do Mundial, no Reino Unido, e viu seu cole
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-124</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-124</field>
+<field name="date">951125</field>
+<text_pt>
 O time com a terceira melhor campanha do Campeonato Brasileiro, o Santos, enfrenta hoje em sua casa a equipe com o segundo pior desempenho da competição, o Paysandu.
 Mais: o Santos que não toma gol há quatro jogos e que derrotou por 3 a 0 os dois clubes mais populares do país, além de ter vencido o melhor plantel do Brasil, o do Palmeiras, está maduro para disputar as finais e só tem mesmo um grande problema pela frente, o Botafogo.
 Tanto para se classificar como para ser o campeão, o time carioca é o único obstáculo verdadeiro diante do paulista.
@@ -2093,9 +2093,9 @@ Marquinho Chedid cobra, Eurico cobra, Zulaiê Cobra. Êta CPI família...
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-125</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-125</field>
+<field name="date">951125</field>
+<text_pt>
 MARCELO DAMATO
 Da Reportagem Local
 O meia Paulo César, provável camisa 10 do Botafogo no Campeonato Paulista de 1996, foi qualificado de "inapto para a prática desportiva" por dois ex-dirigentes do clube numa ação movida por eles e pelo presidente do Botafogo, Laerte Alves.
@@ -2118,9 +2118,9 @@ Acrescentou que o meia (ex-São Paulo), deve ser inscrito no Paulista com a camis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-126</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-126</field>
+<field name="date">951125</field>
+<text_pt>
 MARCELO DIEGO 
 Da Reportagem Local 
 Um amistoso hoje entre o Leite Moça e a seleção da Superliga marca a abertura do campeonato brasileiro feminino de vôlei. O jogo será às 20h30, no ginásio municipal de Sorocaba (87 km a oeste de São Paulo).
@@ -2135,9 +2135,9 @@ O jogo de hoje terá entrada gratuita. A Superliga começa oficialmente no dia 2 d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-127</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-127</field>
+<field name="date">951125</field>
+<text_pt>
 Comprador do 'Abaporu' dá preferência aos latinos
 DANIELA FALCÃO
 De Nova York
@@ -2179,9 +2179,9 @@ Costantini - É muito variável e instável. Depende da situação econômica de cada 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-128</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-128</field>
+<field name="date">951125</field>
+<text_pt>
 DENISE CHRISPIM MARIN
 De Buenos Aires
 Só em 95, o argentino Eduardo Costantini, 48, investiu pelo menos US$ 5,7 milhões no incremento de sua coleção de obras de grandes artistas latino-americanos.
@@ -2205,9 +2205,9 @@ Nos meios financeiros, ele atrai a atenção pela ausência da formalidade ao se ve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-129</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-129</field>
+<field name="date">951125</field>
+<text_pt>
 Da Reportagem Local
 A venda de "Abaporu", de Tarsila do Amaral, deve ter efeito "psicológico" na cotação da arte brasileira. Essa é a opinião de marchands de algumas das principais galerias de São Paulo. Na prática, as obras mantêm o mesmo preço.
 "O que cresce é o interesse pela arte brasileira, tanto por investidores nacionais quanto internacionais", diz Marcantônio Villaça, da Galeria Camargo Villaça. "Esse interesse pode gerar aumento nas compras, mas isto não quer dizer que os preços subam já."
@@ -2222,9 +2222,9 @@ Em São Paulo, a expectativa dos marchands é em relação a dois leilões que ocorre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-130</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-130</field>
+<field name="date">951125</field>
+<text_pt>
 A Funarte divulgou os vencedores de seu 1º Prêmio Nacional de Fotografia. Marlene Bérgamo, fotógrafa da Folha, venceu na categoria Jovem (até 30 anos). Foram premiados ainda Cássio Vasconcelos, Miguel Rio Branco e Bob Wolfenson. O professor Arlindo Machado venceu um prêmio por seu texto "Máquina e Imaginário". O livro da Coleção Masp/Pirelli foi a melhor publicação. Zeka Araújo foi premiado por contribuição à foto brasileira. Cada premiado recebe R$ 3 mil.
 
 Tina Turner anuncia nova turnê européia
@@ -2238,9 +2238,9 @@ O paraguaio Augusto Roa Bastos ( "Hijo de Hombre", "Yo el Supremo"), 78, recebeu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-131</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-131</field>
+<field name="date">951125</field>
+<text_pt>
 Curador do projeto Arte/Cidade traça paralelo entre grande cidade contemporânea e imagem da Torre de Babel
 Especial para a Folha
 Não poderia ter sido mais francesa a palestra que Nelson Brissac Peixoto, curador do projeto Arte/Cidade e professor da PUC-SP, fez anteontem à noite, no Centro Universitário Maria Antonia, dentro do ciclo "A Crise da Razão" que a Funarte promove no Rio e em São Paulo.
@@ -2257,9 +2257,9 @@ Mais do que uma reflexão sobre a face arquitetônica da crise da razão contemporâ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-132</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-132</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação
 Os produtores franceses Jean Blaise e Philippe Bouler estão no país para o desenvolvimento de projetos de intercâmbio cultural entre Brasil e França.
 Blaise aproveita sua passagem pelo país para pesquisar possíveis cidades participantes do festival Fin-de-Siècle, evento previsto para os anos 1997, 1998 e 1999 e que discutirá o que se cria nas grandes metrópoles e como elas se projetam para o próximo milênio.
@@ -2273,9 +2273,9 @@ Com dois escritórios instalados, um em Nantes e outro na capital argentina, Boul
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-133</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-133</field>
+<field name="date">951125</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Quando olhamos esculturas em catedrais antigas, imagens que nos parecem absurdas, gravuras em velhos livros de mitologia, notamos que alguma coisa nos parece familiar. E compreendemos, mesmo sem entender.
@@ -2285,9 +2285,9 @@ Se você se deixar envenenar pela opinião alheia, está perdido.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-134</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-134</field>
+<field name="date">951125</field>
+<text_pt>
 Lojas da cidade cobram de R$ 40 a R$ 55 por álbum
 Da Reportagem Local
 A venda do novo CD duplo dos Beatles, "The Beatles Anthology", em São Paulo, não anda frenética como em Londres mas mesmo assim tem surpreendido os lojistas. Em apenas um dia de comércio, cerca de 120 discos foram vendidos nos quatro principais pontos de venda de São Paulo.
@@ -2300,9 +2300,9 @@ Na Planet Music _que cobra o maior preço pelo CD_ o estoque é reposto com mais f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-135</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-135</field>
+<field name="date">951125</field>
+<text_pt>
 Malcolm McLaren mostra o seu lado mais sofisticado e menos ousado
 LUCY NEEDHAM
 Especial para a Folha
@@ -2330,9 +2330,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-136</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-136</field>
+<field name="date">951125</field>
+<text_pt>
 MARCELO REZENDE
 Da Reportagem Local
 A primeira vez que o músico americano Briam Wilson enlouqueceu, o mundo estava como nestes dias, rendendo homenagens aos Beatles.
@@ -2356,9 +2356,9 @@ Onde encomendar: Zeitgeist Music (r. 24 de maio, 62, região central, tel. 011/22
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-137</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-137</field>
+<field name="date">951125</field>
+<text_pt>
 Anthony Hopkins interpreta o ex-presidente americano, que também é tema de produção de TV e peça
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -2380,9 +2380,9 @@ Depois de ter servido de tema para outros filmes (de "Todos os Homens do Preside
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-138</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-138</field>
+<field name="date">951125</field>
+<text_pt>
 Programa faz panorama musical dos anos 50, 60 e 70 e traz vídeos, entrevistas, cenas e o script do filme
 RODOLFO LUCENA
 Editor de Informática
@@ -2404,18 +2404,18 @@ Poderia haver uma opção para quem preferisse evitar o ritual de cenas e marcas r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-139</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-139</field>
+<field name="date">951125</field>
+<text_pt>
 Das agências internacionais
 Michael Jackson foi considerado anteontem o melhor cantor, na entrega dos prêmios da MTV Europa. A cerimônia aconteceu no teatro Zenith, em Paris.
 Foram premiados ainda a islandesa Bjõrk (cantora); o norte-americano Dog Eat Dog (estreante), o grupo inglês Take That (apresentação ao vivo), o irlandês U2 (grupo), a canção "Zombie" (do grupo irlandês The Cranberries), o grupo inglês East 17 (coreografia) e Michel Gondry, pela direção de vídeo para "Protection", do grupo Massive Attack.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-140</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-140</field>
+<field name="date">951125</field>
+<text_pt>
 IRINEU FRANCO PERPETUO
 Especial para a Folha
 Não há um modo feminino específico de compor. Dentro do estilo de cada época, cada compositora buscou a forma de expressar sua feminilidade.
@@ -2437,9 +2437,9 @@ Mesmo em "Carmen, obra na qual a tensão musical se resolve na morte da protagoni
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-141</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-141</field>
+<field name="date">951125</field>
+<text_pt>
 VANDECK SANTIAGO
 Da Agência Folha, em Recife
 Uma exposição de fotos sobre negros norte-americanos faz sua estréia no Brasil na próxima quinta-feira, em Recife (PE), encerrando uma turnê internacional iniciada em 94 em Porto Rico e que nesse período já esteve em 52 países.
@@ -2458,9 +2458,9 @@ Depois vai para Fortaleza (janeiro), Rio (março), Salvador (abril), Curitiba (ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-142</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-142</field>
+<field name="date">951125</field>
+<text_pt>
 JOSÉ SIMÃO
 Da Equipe de Articulistas
 Bomba! Bomba! Bom dia flor do dia! Aqui é o grampo! Hoje faço oito anos de colunismo diário. Uúú! Animal! O duro de coluna diária é que é todo dia. Não dava pra ser ao contrário? Uma coluna mensal e o salário diário? Rarará!
@@ -2475,9 +2475,9 @@ E sabe quem preside a investigação do Sivam? O ACM. Já sei, fecharam o Econômico
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-143</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-143</field>
+<field name="date">951125</field>
+<text_pt>
 Aguinaldo Silva conseguiu uma coisa rara. Será visto em duas emissoras no ano que vem. Contratado pela TV Plus para escrever a novela que irá substituir "A Idade da Loba", exibida na Band, o autor já escolheu o tema da história: o universo do jogador de futebol.
 "O Mais Querido" estréia em janeiro e ainda não tem diretor nem elenco escolhidos.
 Para a Globo o escritor adaptou "Mar Morto", minissérie baseada no romance de Jorge Amado, prevista para ir ao ar em 96. O trabalho de Aguinaldo para a TV Plus não interfere em seu contrato com a Globo, válido até 97.
@@ -2485,9 +2485,9 @@ Sem conversa; Chico decide; Aperto de cinto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-144</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-144</field>
+<field name="date">951125</field>
+<text_pt>
 Da Redação
 "O Menino dos Cabelos Verdes" (TNT, 4h) poderia ser o filme de cabeceira dos punks, se o jeito (ou um dos jeitos) de se demarcar das convenções, pintando os cabelos com cores improváveis (em termos de cabelo), não tivesse se acomodado à moda.
 No fim dos anos 40, quando foi feito, aliás, "O Menino" era isso mesmo que os punks retomaram, com menos poesia e mais violência: a idéia da diferença em relação ao estabelecido socialmente e sua admissibilidade.
@@ -2497,9 +2497,9 @@ Mas, política à parte, o que persiste nele é a solidão desse garoto que se sente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-145</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-145</field>
+<field name="date">951125</field>
+<text_pt>
 Roupas de baixo e lingerie voltam como tendência
 ERIKA PALOMINO
 Colunista da Folha
@@ -2514,9 +2514,9 @@ UNDER WORLD - de Kelly Klein (editora Knopf). Encomendas: livraria Freebook - 01
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-146</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-146</field>
+<field name="date">951125</field>
+<text_pt>
 'Ligações Perigosas' está firme desde 1782 enquanto o best-seller de Nabokov perde o fôlego antes do ano 2000
 ANTONIO CALLADO
 Colunista da Folha
@@ -2542,9 +2542,9 @@ Seja como for, parabéns de aniversário a Lolita. Ainda há muita mulher quarenton
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-147</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-147</field>
+<field name="date">951125</field>
+<text_pt>
 Ator não tem a espontaneidade e a agressividade exigidas na comédia 'stand-up', base da peça 'O Natal de Harry'
 NELSON DE SÁ
 Da Reportagem Local
@@ -2568,9 +2568,9 @@ E Steven Berkoff, capaz de enriquecer em contradições e subtexto as cenas mais c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP951125-148</text_pt>
-<text_pt name="date">951125</text_pt>
-<text_pt name="text">
+<field name="id">FSP951125-148</field>
+<field name="date">951125</field>
+<text_pt>
 Jovens atores dão voz e sensualidade ao amor trágico em "Píramo e Tisbe", peça de Vladimir Capella
 MÔNICA RODRIGUES COSTA
 Editora da Folhinha

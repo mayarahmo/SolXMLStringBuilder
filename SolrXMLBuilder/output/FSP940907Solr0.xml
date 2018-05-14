@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940907-001</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-001</field>
+<field name="date">940907</field>
+<text_pt>
 Novo ministro da Fazenda censura colega por bilhetes sobre obras que favoreceriam candidato do PSDB
 O novo ministro da Fazenda, Ciro Gomes, atacou Alexis Stepanenko (Minas e Energia) pelos bilhetes pedindo por obras que supostamente favoreceriam Fernando Henrique Cardoso (PSDB). Os bilhetes "não são éticos", disse. "Foram imprudências isoladas, que o presidente prontamente rechaçou."
 O PT entrou ontem com nova representação na Justiça Eleitoral contra Stepanenko. O motivo foi um ofício do ministro em que pede a presença de Itamar Franco em inauguração de obra "para reforçar a candidatura" de FHC. Em nota, o presidente afirmou que houve uma sugestão que não foi aceita. "Delitos de opinião só existem nas ditaduras", disse.
@@ -12,9 +12,9 @@ PÁGs. Esp. 1 e 1-4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-002</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-002</field>
+<field name="date">940907</field>
+<text_pt>
 A pesquisa sobre a sucessão presidencial publicada ontem por esta Folha funciona como sinal amarelo em todas as avaliações que apostam na vitória de Fernando Henrique Cardoso já no primeiro turno.
 É verdade que o resultado geral é favorável a FHC, pelo simples fato de não ter havido alteração estatisticamente relevante nas intenções de voto. Depois do "affair" Ricupero, podia-se esperar o contrário.
 Mas, no detalhe, a pesquisa leva a algumas indagações fundamentais. Nas regiões metropolitanas, a diferença entre FHC e Lula diminuiu seis pontos percentuais (o tucano perdeu quatro pontos e o petista ganhou dois).
@@ -27,9 +27,9 @@ Esse último dado, descontada a demagogia evidente, é de qualquer forma positivo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-003</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-003</field>
+<field name="date">940907</field>
+<text_pt>
 O maciço êxodo de cubanos em direção a Miami expõe uma crise que há tempos estava latente. Trata-se de uma situação insustentável e que põe em xeque as posições históricas de Cuba e dos EUA.
 A falência da economia cubana só acentuou o desmoronamento do regime político de Fidel Castro, intolerável como toda ditadura. Esse desmoronamento leva o ditador a procurar o diálogo com os EUA.
 Mas a conversação esbarra no fato de que os dois interlocutores parecem prisioneiros de uma controvérsia histórica alimentada durante a Guerra Fria. Os vitoriosos nessa questão, é mais do que evidente, foram os EUA, a democracia e a economia de mercado. O desafio que a crise atual traz é o de como fazer a transição na ilha: se humilhando até o fim o inimigo vencido ou permitindo uma saída honrosa.
@@ -40,9 +40,9 @@ Um mínimo de racionalidade pede que sejam enfrentadas sem tabus as questões fund
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-004</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-004</field>
+<field name="date">940907</field>
+<text_pt>
 A correção automática dos salários pelo índice oficial de inflação, o IPC-r, foi apontada como um dos pontos fracos do Plano Real. A regra salarial foi vista como uma perigosa exceção no esforço de extinguir as várias formas de indexação que tornaram a economia brasileira uma das mais inflacionárias do mundo nos últimos anos.
 Esclareceu-se, porém, que a lei que regulamentou a passagem da URV para o real não prevê a indexação anual dos salários, mas apenas uma única reposição na primeira data-base de cada categoria. E, de fato, essa regra é mais coerente com o desenho do plano.
 Depois de repor as perdas que os assalariados venham a sofrer em virtude do processo inicial de estabilização, as regras prevêem que o mercado de trabalho, como os demais, funcione livremente. Isso daria maior flexibilidade aos preços e contratos da economia, evitando que aumentos localizados se transformem em inflação.
@@ -53,9 +53,9 @@ O amadurecimento do movimento sindical, ainda que tímido, permite que as negocia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-005</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-005</field>
+<field name="date">940907</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Se captasse em seu exílio francês a Rede Globo, Baby Doc morreria de inveja. Tivesse ele uma rede de televisão capaz de tantas manipulações, talvez estivesse no poder até hoje. Talvez para sempre.
 A última da Globo é fantástica, conforme relatou Nelson de Sá em sua coluna de ontem. Uma das "versões" para o episódio Ricupero, divulgada mesmo sendo considerada "suposição absurda" pelo principal telejornal da Rede, é a seguinte:
@@ -68,9 +68,9 @@ Só não fazem bom jornalismo quando o viés político é insuportável, para usar a p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-006</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-006</field>
+<field name="date">940907</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; A pesquisa Datafolha divulgada ontem revela importante tendência, registrada depois da inconfidência parabólica: a queda de Fernando Henrique Cardoso em regiões metropolitanas e, principalmente, nas camadas de maior escolaridade. Esse núcleo tem o dom de disseminar opinião pelo resto do país.
 Ainda é cedo para se avaliar o impacto da saída de Rubens Ricupero &#150;painel mais seguro só no final da semana. Até porque foram produzidos fatos novos que se mesclam à revelação do uso da máquina do governo: a demissão do ministro com seu discurso emocionado e, mais importante, sua substituição por Ciro Gomes.
@@ -82,9 +82,9 @@ PS- Estou recebendo cartas indignadas pelas colunas elogiando a grandeza de Ricu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-007</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-007</field>
+<field name="date">940907</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; O candidato do governo está coberto de razão quando diz que não precisa de obras (bicas d'água, pavimentação de estradas, creches) nem de suas inaugurações. Esses atrativos eleitorais podem funcionar como iscas para pescar em águas paroquiais. Um candidato à Presidência da República tem de pensar mais alto.
 Foi assim que Fernando Collor pensou e chegou lá. Garantiu que acabaria com a inflação e acreditaram nele. Ressabiado com o fracasso de Collor, o candidato FHC colocou em campo, cronometrado com a data das eleições, o Plano Real &#150;que é bem mais responsável e sofisticado do que o tiro grosseiro prometido por Collor.
@@ -95,9 +95,9 @@ Lamenta-se que um homem como ele, por todos os títulos merecedor de ocupar a Pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-008</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-008</field>
+<field name="date">940907</field>
+<text_pt>
 Antonio Delfim Netto
 Numa palestra que fizemos na semana passada, um assistente arguto e inteligente estranhou a importância que demos ao comércio exterior em contradição (na sua opinião), com a pequena ênfase que atribuíamos à competição com os outros países. A sua idéia é a de que o "mundo é finito" e o comércio exterior é uma disputa para "conquistar espaço nesse mundo finito". Desse ponto de vista, quando um país é bem-sucedido no comércio exterior ampliando as suas exportações, ele "expulsa" outros países.
 O ponto interessante é que essa colocação do comércio exterior como uma espécie de guerra santa, em que cada país tenta conquistar o seu espaço no mundo finito graças à sua competitividade, produziu uma verdadeira excitação na platéia. O grande número de questionamentos, todos eles condicionados pela firme convicção de que o comércio internacional é um jogo de soma nula (o que um país ganha, o outro perde) revela como estamos longe de um entendimento, mesmo elementar, do problema. Aliás, essa incompreensão, acompanhada de uma boa dose de preconceito, é a marca de alguns candidatos à Presidência da República.
@@ -110,9 +110,9 @@ Antonio Delfim Netto escreve às quartas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-009</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-009</field>
+<field name="date">940907</field>
+<text_pt>
 O desemprego que angustia os brasileiros não é doença simples, que tenha causa única
 Sem a estabilização da economia é inviável qualquer combate eficiente ao desemprego
 JOSÉ SERRA
@@ -144,9 +144,9 @@ JOSÉ SERRA, 52, economista, é deputado federal pelo PSDB de São Paulo. Foi líder
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-010</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-010</field>
+<field name="date">940907</field>
+<text_pt>
 "Parabéns à Folha pelo lindo título de primeira página 'Mantida diferença FHC-Lula' (6/09), respaldado na oportuna pesquisa do Datafolha, logo após o 'affair' Ricupero. Ele demonstra que as manobras em véspera de eleição não 'pegam' mais. Se Lula e outros quiserem 'faturar' junto ao eleitorado, deverão apresentar um plano melhor que o Real e não um lero-lero fiado."
 Gilberto Motta da Silva (Curitiba, PR)
 
@@ -185,9 +185,9 @@ Resposta do jornalista Daniel Piza - Foi o secretário estadual de Cultura, Ricar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-011</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-011</field>
+<field name="date">940907</field>
+<text_pt>
 Há poucos dias, o governador Luiz Antonio Fleury chegou a Barretos, no interior paulista, para visitar a tradicional Festa do Peão de Boiadeiro. Logo na entrada, acompanhado por políticos locais, começou a cumprimentar as pessoas.
 Depois de muitos apertos de mão e tapinhas nas costas, Fleury se viu diante de um garoto de 12 ou 13 anos. Cheio de desenvoltura, o menino foi abraçando o governador:
 &#150; Oi, Fernando Henrique!
@@ -202,9 +202,9 @@ O garoto não teve dúvidas:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-012</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-012</field>
+<field name="date">940907</field>
+<text_pt>
 Novo ministro diz que quem sonega e aumenta preço não merece respeito
 PAULO MOTA
 Da Agência Folha, em Fortaleza
@@ -220,9 +220,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-013</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-013</field>
+<field name="date">940907</field>
+<text_pt>
 LUCAS FIGUEIREDO
 FERNANDO GODINHO
 Sucursal de Brasília
@@ -252,9 +252,9 @@ Ciro&#150; Não. O compulsório dos bancos foi elevado, o que aperta um pouco o cr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-014</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-014</field>
+<field name="date">940907</field>
+<text_pt>
 Com o novo documento que prova o propósito de utilizar o Ministério das Minas e Energia como cabo eleitoral, só um grande malabarismo poderia levar o Tribunal Superior Eleitoral a recusar a representação contra o ministro Alexis Stepanenko, por envolver o governo com a campanha de Fernando Henrique Cardoso.
 Obtido pela repórter Angela Romito para o "Correio Braziliense", diz um ofício de Stepanenko ao presidente Itamar Franco: "A inauguração do terminal (do porto de Barra dos Coqueiros) será um evento diretamente significativo para Sergipe. A presença do presidente da República é da maior importância para o povo por ser obra deste governo. Além disso, pode ser um evento para reforçar a candidatura de Fernando Henrique Cardoso no Estado e na região."
 Este trecho já seria suficiente para comprovar o propósito do ministro, mas, com a sem-cerimônia dos que se sabem bem acobertados, ele faz questão da mais completa explicitude: "Estamos sugerindo a data de 25 de agosto de 1994 (para a inauguração). Contudo, consultamos Vossa Excelência e o ex-ministro Fernando Henrique Cardoso, nosso candidato, da viabilidade e oportunidade de contarmos com a presença de ambos" (na data sugerida).
@@ -270,9 +270,9 @@ O horror do político brasileiro à sinceridade só tem paralelo no horror que sua 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-015</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-015</field>
+<field name="date">940907</field>
+<text_pt>
 JOSÉ ROBERTO CAMPOS
 Enviado especial a Düsseldorf
 O Brasil deixou de ter acesso, desde o início de julho, a créditos do governo alemão de US$ 200 milhões. O atraso na votação do orçamento de 93 pelo Congresso &#150;ainda não aprovado&#150; levou as estatais, especialmente as do grupo Eletrobrás, a não quitarem parcelas correspondentes a cerca de US$ 233 milhões desde maio.
@@ -285,9 +285,9 @@ O jornalista JOSÉ ROBERTO CAMPOS viajou à Alemanha a convite da Câmara de Comérc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-016</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-016</field>
+<field name="date">940907</field>
+<text_pt>
 Intenção do governo é antecipar medidas para esfriar repercussão do caso Ricupero
 VIVALDO DE SOUSA
 LILIANA LAVORATTI
@@ -309,9 +309,9 @@ Na previsão inicial do governo, a implantação dessas medidas iria demorar 90 dia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-017</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-017</field>
+<field name="date">940907</field>
+<text_pt>
 Da Sucursal do Rio
 Os 14 coordenadores nacionais do Grupo do Rio começaram a discutir ontem o texto final do documento a ser assinado na sexta-feira pelos presidentes de 14 países latino-americanos. A 8º Cúpula do Grupo do Rio, iniciada ontem, está sendo realizada no Hotel Glória.
 O conselheiro Eduardo Farias, do Ministério das Relações Exteriores, disse que o documento não abordará assuntos como a crise de Cuba e a intervenção no Haiti.
@@ -324,9 +324,9 @@ O caso só terminou quando um irmão levou o porte de Ribeiro ao hotel, que mudou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-018</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-018</field>
+<field name="date">940907</field>
+<text_pt>
 AMB entra com ação no Supremo Tribunal Federal questionando 12 pontos do Estatuto dos Advogados
 Da Sucursal de Brasília
 A polêmica criada pelo Estatuto dos Advogados continua a ser alimentada no STF (Supremo Tribunal Federal). A AMB (Associação dos Magistrados Brasileiros) entrou com ação ontem questionando 12 pontos da lei.
@@ -344,9 +344,9 @@ Outro ponto questionado é o que assegura à OAB o controle das salas de advogados
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-019</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-019</field>
+<field name="date">940907</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Enviada especial a Foz do Iguaçu
 Representantes da Comissão de Direitos Humanos da OAB (Ordem dos Advogados do Brasil) estiveram ontem no Paraguai para verificar a situação de aproximadamente 150 brasileiros presos naquele país, grande parte em situação irregular.
@@ -360,17 +360,17 @@ A conselheira Maria Stela Frota, da secretaria de imprensa do Ministério das Rel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-020</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-020</field>
+<field name="date">940907</field>
+<text_pt>
 O 17.º Congresso Brasileiro de Pesquisadores da Comunicação terminou ontem em Piracicaba (180 km de São Paulo). O congresso foi promovido pela Intercom (Sociedade Brasileira de Estudos Interdisciplinares da Comunicação) na Universidade Metodista de Piracicaba.
 PAULO COELHO VISITA A FOLHA
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-021</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-021</field>
+<field name="date">940907</field>
+<text_pt>
 Intenção do governo é antecipar medidas para esfriar repercussão do caso Ricupero
 VIVALDO DE SOUSA
 LILIANA LAVORATTI
@@ -389,9 +389,9 @@ Ricupero recebeu ainda uma carta de solidariedade de todos os integrantes da equ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-022</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-022</field>
+<field name="date">940907</field>
+<text_pt>
 Os servidores do Poder Judiciário e do Ministério Público querem que seja incorporado a seus salários o percentual de 15,78%, média do aumento dado aos servidores do Poder Executivo. O sindicato da categoria entrou com mandado de segurança coletivo no STF com pedido de liminar.
 
 Químicos querem reajuste de 130,21% 
@@ -399,9 +399,9 @@ Reajuste salarial de 130,21% mais 10% de aumento real a título de produtividade 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-023</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-023</field>
+<field name="date">940907</field>
+<text_pt>
 Escassez pode elevar preços de eletrodomésticos e eletrônicos; loja já vende para entrega futura
 MÁRCIA DE CHIARA
 Da Reportagem Local
@@ -418,9 +418,9 @@ sobre vendas à pág. 2-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-024</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-024</field>
+<field name="date">940907</field>
+<text_pt>
 Moreira Ferreira enviou carta de advertência ao diretor do Departamento de Coordenação dos Serviços Regionais, Ângelo Albiero Filho, desaprovando o uso de formulários do Ciesp para colher manifestações de apoio à sua reeleição à presidência da Fiesp.
 
 Oposição atenta 
@@ -450,9 +450,9 @@ O Tribunal de Contas do Estado considerou irregular contrato entre a Comgás e a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-025</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-025</field>
+<field name="date">940907</field>
+<text_pt>
 STEPHEN KANITZ
 A política de substituição de importações acabou dando uma direção à economia brasileira não compatível com a realidade. Uma indústria voltada para produzir bens para os 10% mais ricos da população. Produtos importados e sofisticados importados pelos ricos passaram a ser produzidos aqui e assim crescemos. A má distribuição da renda não foi uma consequência, mas uma necessidade para se escoar a produção.
 Este modelo parece que se esgotou por várias razões: existem cada vez menos ricos no Brasil, e no mundo, e os que temos irão de novo importar os seus carros, "hometheaters" etc., com a abertura das importações.
@@ -475,9 +475,9 @@ STEPHEN KANITZ, 48, master em Business Administration pela Universidade de Harva
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-026</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-026</field>
+<field name="date">940907</field>
+<text_pt>
 SALOMÃO QUADROS
 Milagres econômicos são fenômenos raros e recentes. Concentrados na segunda metade deste século, parecem ter ocorrido, com graus decrescentes de consenso, apenas no Japão, nos Tigres Asiáticos, na Alemanha e no Brasil. A China, embora possua credenciais, ainda se encontra na condição de candidato.
 Em todos esses países, o sentido atribuído ao termo milagre tem sido a manutenção de elevadas taxas de crescimento do produto "per capita" ou da produtividade por períodos de uma a três décadas.
@@ -497,9 +497,9 @@ SALOMÃO QUADROS, 38, professor e chefe do banco de dados da Fundação Getúlio Var
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-027</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-027</field>
+<field name="date">940907</field>
+<text_pt>
 Procon apura queda de 0,47% na cesta básica em um dia
 O custo médio da cesta básica registrou redução de 0,47% ontem em relação ao dia imediatamente anterior. O preço médio que era de R$ 97,26 passou para R$ 96,80 ontem, conforme pesquisa diária realizada pelo Procon, órgão da Secretaria da Justiça, em convênio com o Dieese.
 No mês, a cesta básica apresenta redução nos preços de 0,92%. Desde a introdução do real, quando a cesta custava R$ 106,95, até ontem, o custo médio da cesta básica do paulistano recuou 9,49%, de acordo com dados do Procon/Dieese.
@@ -508,9 +508,9 @@ Dos produtos pesquisados 30 tiveram baixa de preço e 19 tiveram aumento. As prin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-028</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-028</field>
+<field name="date">940907</field>
+<text_pt>
 O ICVM (Índice do Custo de Vida da Classe média) de São Paulo teve alta de 1,84% em agosto, inferior à apresentada em julho quando a taxa foi de 6,97%. A pesquisa realizada pela Ordem dos Economistas de São Paulo mede o custo das famílias com renda de dez a 40 salários mínimos.
 Desde o mês passado foi adotada uma nova estrutura de ponderação, baseada na pesquisa de orçamentos familiares de 91/92, alterando a faixa de renda, que era antes de seis a 33 mínimos. A variação do ICVM no período de 12 meses atinge 3.122,85%.
 O aumento no mês passado foi pressionado pelos gastos com habitação, que registraram alta média de 3,22%, destacando-se os aumentos ocorridos com o imposto predial (4,51%), despesas de condomínio (3,34%) e serviços domésticos (9,87%). Em julho, o item habitação teve alta de 5,21%.
@@ -518,9 +518,9 @@ O grupo alimentação teve a segunda maior alta do mês: 2,99%, puxada pelos produt
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-029</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-029</field>
+<field name="date">940907</field>
+<text_pt>
 A cidade de São Paulo teve em agosto a maior alta (14,87%) no custo da ração essencial mínima entre as 14 capitais pesquisadas pelo Dieese. Na capital paulista verificou-se, também, o custo mais alto (R$ 77,42). O aumento nos produtos "in natura" foi o responsável pela alta em São Paulo.
 Em 9 das 14 capitais pesquisadas &#150;Belém, São Paulo, Belo Horizonte, Vitória, Curitiba, Florianópolis e Porto Alegre&#150; o salário mínimo foi insuficiente para comprar a ração essencial em agosto. O custo da ração só foi superado pelo valor do salário mínimo nas cinco capitais nordestinas pesquisadas.
 O trabalhador precisou em agosto cumprir jornada de 228 horas e comprometer 12,27% a mais que seu rendimento líquido para adquirir os gêneros de primeira necessidade. A situação se agravou em relação a julho, quando a jornada ficou em 216 horas e o acréscimo sobre o rendimento atingiu 6,17%.
@@ -528,9 +528,9 @@ Segundo o Dieese, o salário mínimo em agosto deveria valer R$ 645,53, quase dez 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-030</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-030</field>
+<field name="date">940907</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 As cotações dos títulos da dívida externa brasileira subiram ontem em Nova York após cairem abruptamente na segunda-feira em Londres como resposta à troca do ministro da Fazenda no Brasil.
@@ -543,9 +543,9 @@ Ontem, os jornais "The New York Times" e "The Wall Street Journal" voltaram a co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-031</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-031</field>
+<field name="date">940907</field>
+<text_pt>
 Bancos compram títulos públicos por taxa-over de 5,31%; dólar comercial recua 1,66% e fecha cotado a R$ 0,886
 Da Reportagem Local
 As Bolsas fecharam em alta: 3,8% em São Paulo e 1,7% no Rio. Foi um dia de acomodação ao "efeito Ricupero", depois das quedas espetaculares da véspera.
@@ -590,9 +590,9 @@ O índice Bovespa no mercado futuro para outubro fechou a 52.600 pontos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-032</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-032</field>
+<field name="date">940907</field>
+<text_pt>
 Técnica do IBGE defende método; INPC de agosto fica em 1,85% e locações repondem por quase metade da taxa
 FRANCISCO SANTOS
 Da Sucursal do Rio
@@ -617,9 +617,9 @@ A Fundação Getúlio Vargas divulgou ontem o IPC-RJ (Índice de Preços ao Consumido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-033</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-033</field>
+<field name="date">940907</field>
+<text_pt>
 O ministro do Trabalho, Marcelo Pimentel, se reuniu ontem com o presidente do conselho da Vasp, Wagner Canhedo, para discutir as dívidas da empresa. Canhedo quer que sejam parceladas as dívidas com a Previdência e a Infraero. Pimentel disse que vai levar o caso para análise na câmara setorial da aviação.
 
 Contribuição de autônomo vai a R$ 7
@@ -630,9 +630,9 @@ Carlos Alberto Sardenberg, jornalista da Folha, faz palestra hoje em Montevidéu 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-034</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-034</field>
+<field name="date">940907</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo tem praticamente pronto um projeto de parceria com empresas de telefonia dos Estados Unidos e de outros países para criar um sistema similar ao do telefone celular, com a vantagem do uso em toda a faixa tropical do planeta.
 O projeto chamado Eco-8 exigirá investimentos de US$ 270 milhões para a construção e o lançamento de oito satélites que vão girar na órbita do Equador e retransmitir sinais dos aparelhos de telefonia.
@@ -642,9 +642,9 @@ A partir de 1º de outubro, os usuários da telefonia celular só pagarão as ligaçõ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-035</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-035</field>
+<field name="date">940907</field>
+<text_pt>
 Da Folha Sudeste
 A Unicamp apresentou ontem a proposta da cesta básica encomendada pelo governo federal com o objetivo de reduzir o preço e aumentar o valor nutricional mínimo a ser consumido por uma família de quatro pessoas em um mês.
 As principais propostas de mudança em relação à cesta básica atual são o incentivo à produção de carne suína, de aves, ovos e pães através de redução de impostos.
@@ -655,30 +655,30 @@ A partir dos estudos, o governo deve preparar alternativas para reduzir a carga 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-036</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-036</field>
+<field name="date">940907</field>
+<text_pt>
 Shiu Chi Ho, 18, de Hong Kong, foi libertado ontem da prisão de Qweenstown Remand, em Cingapura, onde cumpriu pena de seis meses de prisão &#150;além de seis chibatadas&#150; por vandalismo. Ele foi preso em dezembro do ano passado junto com o norte-americano Michael Fay, 19, cuja pena foi menor: três meses na prisão e quatro golpes de chibata.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-037</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-037</field>
+<field name="date">940907</field>
+<text_pt>
 O presidente da república autônoma russa de Tchetcheno-Inguchétia, Djokar Dudaiev, reafirmou ontem a declaração de independência do país frente a Moscou, não reconhecida pelo Kremlin. Dois dias após uma importante vitória de suas tropas contra rebeldes apoiados pela Rússia, Dudaiev presidiu uma parada pelo "dia da independência" em Grozni.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-038</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-038</field>
+<field name="date">940907</field>
+<text_pt>
 Tropas norte-americanas serão enviadas ao Haiti "logo", disse o porta-voz da representação dos EUA em Porto Príncipe, Stanley Schrager. Em Martha's Vineyard (Massachusetts), a porta-voz da Casa Branca, Dee Dee Meyers, afirmou que a ação de tropas internacionais para afastar os líderes da ditadura militar haitiana pode ocorrer "a qualquer momento".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-039</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-039</field>
+<field name="date">940907</field>
+<text_pt>
 O governo mexicano decretou ontem intervenção no grupo financeiro Cremi-Unión, um dos maiores do país. Também determinou a prisão do banqueiro Carlos Cabal Peniche, acusado de tomar milhões de dólares emprestados de seu próprio banco para comprar ações de várias companhias. 
 
 Polícia palestina detém extremistas 
@@ -692,9 +692,9 @@ O governo do Zaire ordenou a prisão dos ex-soldados ruandeses da etnia hutu que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-040</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-040</field>
+<field name="date">940907</field>
+<text_pt>
 Encontro com o premiê encerra isolamento político do partido norte-irlandês ligado ao IRA
 SÉRGIO MALBERGIER
 De Londres
@@ -717,9 +717,9 @@ Eles também abrem caminho para negociações que podem encerrar um conflito que ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-041</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-041</field>
+<field name="date">940907</field>
+<text_pt>
 Nova versão de texto da Conferência do Cairo é aprovado por muçulmanos e deve ter apoio do Vaticano
 HÉLIO SCHWARTSMAN
 Enviado especial ao Cairo
@@ -737,9 +737,9 @@ O jornalista HÉLIO SCHWARTSMAN viaja a convite do Fundo de População da ONU.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-042</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-042</field>
+<field name="date">940907</field>
+<text_pt>
 Do enviado especial
 A ministra da Ação Social e chefe da delegação brasileira ao Cairo, Leonor Franco, fez ontem discurso em português ao plenário da conferência.
 Ela afirmou o apoio do Brasil às linhas gerais do documento que está sendo debatido neste encontro.
@@ -755,9 +755,9 @@ Com agências internacionais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-043</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-043</field>
+<field name="date">940907</field>
+<text_pt>
 Das agências internacionais
 Os recursos do planeta estão acabando mais por gasto excessivo nos países ricos do que pelo tamanho da população, disse ontem na conferência do Cairo a diretora-executiva do Programa das Nações Unidas para o Desenvolvimento.
 Segundo Elizabeth Dowdeswell, mesmo cumprindo-se "as mais otimistas previsões sobre crescimento de população, os modos de vida dos países do Norte seriam incompatíveis com o que a terra pode aguentar".
@@ -765,9 +765,9 @@ Cerca de 20% da população mundial &#150;concentrada nos países ricos&#150; conso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-044</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-044</field>
+<field name="date">940907</field>
+<text_pt>
 "Ninguém deve ter a ilusão de que haverá algum fato que leve o Vaticano a assinar este documento", afirmou o vice-presidente dos EUA, Al Gore, depois de reunir-se com representantes da Igreja Católica no Cairo. 
 
 Torre de Babel
@@ -784,18 +784,18 @@ A atriz norte-americana Jane Fonda visitou um centro de planejamento familiar no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-045</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-045</field>
+<field name="date">940907</field>
+<text_pt>
 Das agências internacionais
 Arqueólogos encontraram restos de um rei maia no Estado mexicano de Quintana Roo, informou anteontem o Instituto Nacional de Antropologia e História.
 Os especialistas estimam que o rei, que viveu no período clássico da civilização pré-colombiana, tinha 40 anos. Ele estava adornado com uma máscara e jóias. O rei, de 1,70 m, foi encontrado em uma tumba no interior de um templo no sítio arqueológico de Dzibanché.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-046</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-046</field>
+<field name="date">940907</field>
+<text_pt>
 Sérvios se recusam a dar garantias de segurança ao papa e voltam a atacar capital bósnia com artilharia
 Das agências internacionais
 O papa João Paulo 2º cancelou sua viagem a Sarajevo por motivos de segurança. A visita de cerca de 12 horas à capital da Bósnia estava programada para amanhã.
@@ -812,9 +812,9 @@ Os sérvios são majoritariamente seguidores da Igreja Ortodoxa russa. Os únicos c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-047</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-047</field>
+<field name="date">940907</field>
+<text_pt>
 Túmulo do imperador no Monumento do Ipiranga é ocupado por grupo de sem-teto
 VICTOR AGOSTINHO
 Da Reportagem Local
@@ -840,9 +840,9 @@ O Museu Paulista também não tem banheiros públicos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-048</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-048</field>
+<field name="date">940907</field>
+<text_pt>
 
 Os restos mortais de d. Pedro 2º, da princesa Isabel e do Conde D'Eu estão enterrados  na Catedral de São Pedro de Alcântara, em Petrópolis (RJ), e não no Museu Imperial daquela cidade como informou esta reportagem.ERRAMOSDom Pedro 1º (foto) morreu em 1834 no Palácio Queluz, em Portugal. O homem que proclamou a independêncida do Brasil em 7 de setembro de 1822 abdicou ao trono e se tornou rei de Portugal. Está sepultado junto com suas duas mulheres, a imperatriz Leopoldina e dona Amélia, em São Paulo.
 
@@ -854,9 +854,9 @@ A marquesa de Santos, dona Domitila de Castro Canto e Melo (foto), morreu em 3 d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-049</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-049</field>
+<field name="date">940907</field>
+<text_pt>
 O plebiscito sobre sistema de governo realizado em 93 dividiu os descendentes da família real no Brasil. D. João Henrique de Orleans e Bragança, o mais jovem na linha de sucessão, e d. Luiz de Orleans e Bragança pretendiam o trono brasileiro. A república foi mantida com 66,1% dos votos.
 
 Feiras livres funcionam no feriado em Recife 
@@ -873,9 +873,9 @@ Dois acidentes envolvendo 15 veículos aconteceram ontem no mesmo ponto da rodovi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-050</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-050</field>
+<field name="date">940907</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha
 Depois da cassação de Ibsen Pinheiro, o Brasil deveria ter aprendido a lição. Não é prudente confiar em carolas dados ao exibicionismo.
@@ -891,9 +891,9 @@ Afinal, quem de nós, ó honestíssimo leitor, não tem aspirações de se sentir, nem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-051</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-051</field>
+<field name="date">940907</field>
+<text_pt>
 Atenção, você aí que pensa que os ratos de computador são gênios em estado embrionário. Segundo investigação recente, o candidato a presidente que lidera as pesquisas da Mandic BBS, a rede de fofocas via terminal de computador, é ninguém menos do que o preparadíssimo Enéas.
 
 Soul II Soul 
@@ -904,9 +904,9 @@ Uma dica para as aspirantes a perua: a fragrância da moda para o próximo verão p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-052</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-052</field>
+<field name="date">940907</field>
+<text_pt>
 Dez pessoas ficaram feridas durante um tiroteio em uma boate, na periferia de Manaus. Sérgio de Britos Cardeal, 18, foi preso em flagrante acusado de ter feito os disparos. Segundo a polícia, a confusão começou depois que Cardeal foi impedido de entrar na boate.
 
 Amazonas 2
@@ -920,9 +920,9 @@ Os professores da rede estadual de ensino do Tocantins vão receber um reajuste s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-053</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-053</field>
+<field name="date">940907</field>
+<text_pt>
 A Telesp (Telecomunicações de São Paulo) já instalou 400 linhas de telefonia celular em propriedades rurais este ano. Segundo a empresa, o Programa de Telefonia Celular Rural deverá substituir o antigo sistema, que usava cabos convencionais. Cada canal celular rural custa cerca de R$ 2.000.
 
 SP Interior 2
@@ -936,9 +936,9 @@ Os documentos são antigos arquivos que pertenciam ao extinto SPI (Serviço de Pro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-054</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-054</field>
+<field name="date">940907</field>
+<text_pt>
 O Departamento do Sistema Penitenciário do Estado e a Empresa Brasileira de Correios e Telégrafos assinaram convênio que prevê a qualificação profissional dos detentos do presídio semi-aberto de Campo Grande. Em um ano, o convênio beneficiará oito presos.
 
 Mato Grosso do Sul 2
@@ -953,9 +953,9 @@ A Prefeitura de Goiânia e a Fundação Nacional da Saúde iniciaram esta semana um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-055</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-055</field>
+<field name="date">940907</field>
+<text_pt>
 
 Bahia 1
 A Fundação da Criança e do Adolescente vai colocar em funcionamento mais seis oficinas de iniciação profissional, em Salvador. Os alunos vão aprender técnica s de costura, borracharia, mecânica , marcenaria e padaria.
@@ -970,9 +970,9 @@ O governo do Estado e a Petrobrás inauguraram até o final deste mês o porto de S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-056</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-056</field>
+<field name="date">940907</field>
+<text_pt>
 O tamanduá foi escolhido como símbolo da campanha contra incêndios florestais no Brasil. A sugestão foi aprovada pelos participantes do curso de atualização em controle de incêndios florestais, da UFPR (Universidade Federal do Paraná).
 
 Paraná 2
@@ -986,9 +986,9 @@ A Secretaria Municipal dos Transportes está colocando placas de sinalização e de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-057</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-057</field>
+<field name="date">940907</field>
+<text_pt>
 JOSÉ MARIA R. RAMOS
 Um dos temas em pauta na Conferência do Cairo, sob a coordenação da ONU, é "População e Desenvolvimento". No Programa de Ação proposto na última reunião do Comitê Preparatório distinguem-se claramente três planos: o plano dos princípios, o das recomendações e, em último lugar, o dos recursos.
 Entre os princípios, o programa afirma expressamente que os governos são soberanos em tudo o que se refere à política populacional. Na esfera das recomendações, propõe que sejam feitos "esforços para tornar o crescimento populacional mais lento". Para alcançar esse objetivo, sugere que sejam aplicados, no campo dos recursos, US$ 48,1 bilhões em planejamento familiar, nos próximos 20 anos.
@@ -1006,9 +1006,9 @@ JOSÉ MARIA R. RAMOS, 36, doutor em Economia pela USP (Universidade de São Paulo)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-058</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-058</field>
+<field name="date">940907</field>
+<text_pt>
 DANIELA PINHEIRO
 Da Sucursal de Brasília
 Um erro nos computadores da UnB (Universidade de Brasília), descoberto no dia em que o plano econômico completava dois meses (1º de setembro), fez com que 74 calouros caíssem na real: haviam sido matriculados por engano nos cursos para os quais prestaram vestibular.
@@ -1023,9 +1023,9 @@ Assim, poderiam fazer novo vestibular. Se aprovados, receberiam os créditos das 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-059</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-059</field>
+<field name="date">940907</field>
+<text_pt>
 Entidade protesta contra a suspensão da conversão de mensalidades escolares
 PAULO SILVA PINTO
 Da Reportagem Local
@@ -1044,9 +1044,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-060</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-060</field>
+<field name="date">940907</field>
+<text_pt>
 A leitora Magali Borges Gonçalves reclama de suposta irregularidade praticada pela C&amp;A Modas Ltda., ao converter, de cruzeiros reais para URV, as prestações de seu cartão de crédito.
 De acordo com Magali, a empresa cobrou R$ 7,93 além do que ela devia. "Desde abril estou tentando reaver meu dinheiro, mas até agora nenhum funcionário do Serviço de Atendimento ao Cliente da C&amp;A soube me atender ou resolver o problema", diz a leitora.
 A reclamante afirma que em julho deste ano tentou, pela a última vez, um contato com a C&amp;A para resolver seu problema, mas não conseguiu resultados.
@@ -1057,31 +1057,31 @@ Ana Lucia informa ainda que, por um equívoco no processamento, o sistema convert
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-061</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-061</field>
+<field name="date">940907</field>
+<text_pt>
 FALSO MÉDICO - O empresário Ailton Miere, 40, foi preso em flagrante anteontem na zona leste de São Paulo. Ele é acusado de exercício ilegal da medicina e de falsificar documentos. Miere se dizia clínico geral e se passava também por ginecologista. Ele afirmou que não cobrava consultas e que praticava a medicina por "hobby".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-062</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-062</field>
+<field name="date">940907</field>
+<text_pt>
 TRÁFICO - As polícias Federal e Militar prenderam o dono da fazenda Beira-Rio, Valter Viana, 48, e Maurício César Marques Rodrigues, 38, com 133,3 quilos de cocaína. Eles foram presos em Inocência (326 km a leste de Campo Grande), no Mato Grosso do Sul. Segundo a polícia, a fazenda estava sendo usada como entreposto pelos traficantes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-063</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-063</field>
+<field name="date">940907</field>
+<text_pt>
 INVASÃO - O grupo de 200 sem-teto que ocupou a Prefeitura de Belo Horizonte por mais de 30 horas deixou o local ontem por volta das 18h. Desde as 10h de segunda-feira, eles transformaram o prédio num acampamento. A prefeitura é administrada pelo PT. O prefeito Patrus Ananias declarou que a invasão da prefeitura foi "eleitoreira".
 Banco de Investimentos Garantia S.A.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-064</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-064</field>
+<field name="date">940907</field>
+<text_pt>
 Um desses jogadores que, de tempos em tempos, surgem em nossos campos, desafiando sistemas e normas
 ALBERTO HELENA JR.
 Da Equipe de Articulistas
@@ -1103,9 +1103,9 @@ Pelé queria o impossível: paciência para revelar seus craques. Pois, sim.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-065</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-065</field>
+<field name="date">940907</field>
+<text_pt>
 THALES DE MENEZES
 Andre Agassi derrotou Michael Chang no US Open. Foi uma batalha de cinco sets, pelas oitavas-de-final do torneio. Foi a primeira vez este ano que a quadra Central de Flushing Meadows lotou. É justificado, pois trata-se do confronto caseiro mais atraente do tênis americano. Agassi e Chang são ídolos mais "calientes" do que os "icebergs" Pete Sampras e Jim Courier.
 No fim, a maior parte da torcida gostou do triunfo de Agassi, principalmente sua namorada, Brooke Shields, a atriz. Ou será ex-atriz? Afinal, alguém lembra do último filme da moça?
@@ -1122,9 +1122,9 @@ Favorito da garotada, o pequeno Chang é mesmo simpático. E joga muito. Os baixin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-066</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-066</field>
+<field name="date">940907</field>
+<text_pt>
 
 Flushing Meadows foi palco ontem do duelo das musas do tênis. Gabriela Sabatini (Argentina) e Gigi Fernandez (EUA), as duas tenistas mais assediadas do circuito, jogaram diante de 16 mil pessoas em Nova York. Deu Sabatini, 6/2 e 7/5. Gigi, melhor jogadora de duplas do mundo, não teve saque para equilibrar a partida.
 
@@ -1138,9 +1138,9 @@ As mulheres também aderiram. Mary Pierce comprou uma Harley e Martina Navratilov
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-067</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-067</field>
+<field name="date">940907</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 Da Equipe de Articulistas
 Com 18 partidas, recorde mundial num dia só, começa hoje, oficialmente, o 10º Campeonato Europeu de Seleções. Nada menos do que 48 nações estão inscritas.
@@ -1153,9 +1153,9 @@ Benetton contrata advogado caro para defendê-la hoje
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-068</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-068</field>
+<field name="date">940907</field>
+<text_pt>
 Para o maestro William Christie, do grupo Les Arts Florissants, o público se educou para som histórico nos últimos 10 anos
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
@@ -1194,9 +1194,9 @@ Christie - Muito. Teremos liberdade de ação. Vamos lançar em novembro os grandes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-069</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-069</field>
+<field name="date">940907</field>
+<text_pt>
 Da Reportagem Local
 Os seguidores da música histórica interpretam peças antigas (sobretudo anteriores ao século 19) levando em conta fontes primárias (partituras e outros registros) em detrimento dos costumes românticos de execução adquiridos nos últimos 150 anos.
 De acordo com a música histórica, a partitura de um compositor do século 17 deve ser tocada com técnicas e instrumentos da época em que a obra foi composta e não com acréscimos posteriores.
@@ -1213,9 +1213,9 @@ A música histórica surgiu como movimento alternativo. Harnoncourt prevê para cin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-070</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-070</field>
+<field name="date">940907</field>
+<text_pt>
 Da Reportagem Local
 Os dois concertos do grupo Les Arts Florissants serão dedicados a obras pouco tocadas do francês Marc-Antoine Charpentier.
 O compositor se devotou à música sacra, embora tenha composto óperas e peças instrumentais.
@@ -1230,23 +1230,23 @@ A principal obra profana de Charpentier redescoberta por William Christie foi a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-071</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-071</field>
+<field name="date">940907</field>
+<text_pt>
 Hillary disse à revista norte-americana "Artnews" que o amor comum à pintura abstrata foi responsável por sua união a Bill Clinton. Segundo ela, no primeiro encontro que tiveram foram ver uma mostra de pinturas de Mark Rothko e esculturas de Henry Moore. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-072</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-072</field>
+<field name="date">940907</field>
+<text_pt>
 Lá chegando, o casal Clinton foi barrado, pois o museu estava fechado devido a uma greve no serviço de limpeza. Os dois então se ofereceram para remover o lixo, desde que pudessem ver a mostra. Viram, mas hoje &#150;na Casa Branca&#150; ela prefere impressionistas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-073</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-073</field>
+<field name="date">940907</field>
+<text_pt>
 Mastroianni, aqui cavalgando em "A Doce Vida", disse que o
 papel principal em "Sostiene Pereira" será seu canto do cisne
 
@@ -1254,23 +1254,23 @@ Mastroianni percebeu que não está rendendo mais nada. Disse que seu papel em "So
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-074</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-074</field>
+<field name="date">940907</field>
+<text_pt>
 A última "Vanity Fair" publicou fragmentos de "Grace", nova biografia de Grace Kelly. Nela, o autor Robert Lacey conta que Grace tinha amantes mais jovens e que queria o divórcio, mas tinha medo de perder a custódia dos três filhos para o príncipe Rainier.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-075</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-075</field>
+<field name="date">940907</field>
+<text_pt>
 A escultura "Mulher com Espelho" foi a preferida dos madrilenhos na mostra que Fernando Botero realizou em Madri e vai ficar na cidade, como doação do artista. Outras três obras foram compradas para os aeroportos de Madri, Barcelona e Palma de Mallorca.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-076</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-076</field>
+<field name="date">940907</field>
+<text_pt>
 
 Está errada a legenda desta reportagem, que identifica Rubens Ricupero como "ministro demissionário da Economia". Ricupero deixa o ministério da Fazenda.ERRAMOS
 Ricupero caiu por excesso de pureza
@@ -1309,9 +1309,9 @@ Mas em matéria de "realismo" foi o ex-ministro quem deu a última palavra. Foi "r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-077</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-077</field>
+<field name="date">940907</field>
+<text_pt>
 Segunda edição do festival alternativo acontece dias 16, 17 e 18, no Observatório do campus da Unicamp
 ANTONINA LEMOS
 Da Reportagem Local
@@ -1331,9 +1331,9 @@ O número de bandas interessadas em participar do festival surpreendeu os organiz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-078</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-078</field>
+<field name="date">940907</field>
+<text_pt>
 Feira vai de segunda, 12, a sexta, 16, com ingresso a R$ 20; venda direta tem menos força que na Fenasoft
 Da Redação
 Com mais cara de feira de negócios que a Fenasoft, começa na próxima segunda, dia 12, a Comdex/Sucesu-SP'94. Ela traz menos ofertas &#150;e estandes transformados em lojas&#150; que sua rival.
@@ -1348,16 +1348,16 @@ Completam a lista de atrações da Comdex o evento paralelo Windows World, com exp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-079</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-079</field>
+<field name="date">940907</field>
+<text_pt>
 O programa "Mathematica" ganhou versão em CD-ROM, que chega ao mercado norte-americano com o nome "MathSource CD-ROM". Desenvolvido pela Wolfram Research, o produto é voltado para quem precisa fazer cálculos de todos os gêneros. O disco inclui o programa e manuais eletrônicos para uso técnico. Inclui também tutorial para iniciantes nesse tipo de programa. Será vendido nos EUA por US$ 45. O telefone da empresa nos EUA é (001-217) 398-0700.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-080</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-080</field>
+<field name="date">940907</field>
+<text_pt>
 cedo com o computador nos EUA
 MARINA MORAES
 Especial para a Folha, de Nova York
@@ -1383,9 +1383,9 @@ Os computadores também ajudam na comunicação entre pais e professores. De posse 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-081</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-081</field>
+<field name="date">940907</field>
+<text_pt>
 Pergunta: "Tenho algumas dúvidas sobre placas de som e gostaria de saber quais as principais diferenças entre a Sound Blaster e a Pro Audio 16 (ambas de 16 bits). Quais as outras placas de som no mercado? Quais as principais diferenças entre os kits multimídia Edutainment CD16 e Double Fusion 16 Media Vison? Todos esses periféricos atendem às especificações MPC2? Já existe a especificação MPC3?"
 (Erivaldo de Sá Filho, Cubatão - SP).
 Resposta: As aplicações para multimídia têm crescido muito rapidamente nos últimos anos. As placas de som normalmente são o primeiro passo da maioria dos usuários que querem se iniciar no mundo da multimídia. Porém, muitos deles acabam optando pelos kits que, além da placa de som, já vêm com acionador de CD-ROM, caixas acústicas e alguns programas.
@@ -1401,9 +1401,9 @@ Cartas para a seção Canal Aberto devem ser enviadas datilografadas para Folha de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-082</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-082</field>
+<field name="date">940907</field>
+<text_pt>
 Da Reportagem Local
 A MultiSoluções anunciou na semana passada a distribuição no Brasil de scanners Umax, monitores de vídeo SuperMac e impressoras a laser NewGen de alta resolução, para micros PC e Macintosh.
 Criou também uma nova empresa que passará a cuidar da distribuição desses produtos no Brasil, a Masterdix.
@@ -1418,9 +1418,9 @@ MULTISOLUÇÕES: tel. (011) 816-6355
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-083</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-083</field>
+<field name="date">940907</field>
+<text_pt>
 A empresa está lançado o Faxme, um cartucho que transforma a impressora a laser em aparelho de fax. Seu preço é R$ 196. Outra novidade é o servidor de impressão Axis Communication. O aparelho permite que uma mesma impressora seja compartilhada por vários micros interligados em rede. O preço do equipamentos varia de R$ 660 a R$ 990.
 
 Unimicro 
@@ -1434,9 +1434,9 @@ A Engecom estará lançando placas e hubs da empresa norte-americana CNET. Entre o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-084</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-084</field>
+<field name="date">940907</field>
+<text_pt>
 A empresa apresenta dois novos no breaks para pequenos usuários, o SB-300BI (de 0,3 KVA) e SB-500BI (0,5 KVA). Os no breaks atendem até três equipamentos (micro, monitor e impressora). Os no breaks custam R$ 160 e R$ 198 respectivamente.
 
 Mitsucom 
@@ -1444,9 +1444,9 @@ Funcionando sob o sistema operacional DOS com "Windows" e em redes, o Teleform, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-085</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-085</field>
+<field name="date">940907</field>
+<text_pt>
 Simultaneamente com os EUA, a Akad lança o plotter a jato de tinta Novajet 3 (foto abaixo), da empresa norte-americana Encad. O plotter tem uma resolução de 600 x 300 pontos por polegada e imprime em cores. Também pode ser usado com quatro cartuchos monocromáticos.
 Perrotti
 "TCS &#150; Tempus Conectivity Solution" é um dos lançamentos da Perrotti Informática. O programa permite conectividade global, gerenciando dados recebidos de diversos sistemas operacionais. A empresa lança também o "Tempus Eddy", um programa para distribuição de dados.
@@ -1454,9 +1454,9 @@ Perrotti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-086</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-086</field>
+<field name="date">940907</field>
+<text_pt>
 Feira é boa oportunidade para comparar qualidade de impressão dos modelos de baixo preço; veja também os novos monitores
 Da Reportagem Local
 Na disputa pelo mercado de impressoras quem sai ganhando é o consumidor. Vale a pena conferir os produtos e comparar a qualidade de impressão dos modelos jato de tinta.
@@ -1478,9 +1478,9 @@ A TDA mostra dois novos monitores coloridos Samuarai, de 9 e 20 polegadas, com d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-087</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-087</field>
+<field name="date">940907</field>
+<text_pt>
 Preço baixo é o tema que muitas das empresas levam para a feira. No estande da CompExpress, o mouse Logitech sai por R$ 26; 1 Mbyte de memória da Sid vai custar R$ 47. O monitor de vídeo VGArt vai ser vendido por R$ 326 e a placa de fax IFax 3.000S, da Itautec, por R$ 559.
 
 Microtec 
@@ -1503,9 +1503,9 @@ No pavilhão Windows World, que acontece simultaneamente à Comdex, a Computerland
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-088</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-088</field>
+<field name="date">940907</field>
+<text_pt>
 A Sisgraph estará vendendo na Comdex um pacote promocional do programa "Microstation V4" (foto ao lado). Destinado a profissionais de arquitetura, decoração e engenharia, o pacote sai por R$ 2.500. O comprador ganha o direito de atualizar o programa para a versão 5 do "Microstaion" por R$ 1.000 &#150;mas só a partir de janeiro de 95. Apesar do prazo, o consumidor ganha 28,6% de desconto em relação ao preço da versão 5, vendida por R$ 4.500.
 
 Prolan 
@@ -1528,9 +1528,9 @@ A Microbase mostra uma nova versão do sistema operacional "VirtuOS", que ganhou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-089</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-089</field>
+<field name="date">940907</field>
+<text_pt>
 A Artech Systems &amp; Netwaorking vai mostrar produtos para pequenas redes e grupos de trabalho. Entre as novidades estão fax integrado, formulários e produtos para integrar imagens. O "Formulário Eletrônico" evita o uso excessivo de papel.
 
 Controle 
@@ -1541,16 +1541,16 @@ A Sysnet, que vai estar na feira junto com a Engecom, leva para o evento um sist
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-090</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-090</field>
+<field name="date">940907</field>
+<text_pt>
 A empresa lança quatro programas emuladores de terminais de computadores de grande porte da WRQ. Trata-se do "Reflection X", "Reflection 3270 for Windows", "Reflection AS/400" e "Reflection 4 for Windows". Outras duas novidades são o "NS/3270" e o "Elite/400", da empresa norte-americana Nestsof, também para emulação de terminal de computadores de grande porte.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-091</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-091</field>
+<field name="date">940907</field>
+<text_pt>
 Free-lance para a Folha
 Que tal aproveitar o feriado de hoje para conhecer as novidades em games para computador? Por R$ 4,50, você tem direito a jogar todos os games que encontrar pela frente nos estandes. Pode ainda participar do campeonato de videogame.
 O Sukita Adventure Festival Game Multimídia &amp; Computer Games vai até domingo.
@@ -1561,9 +1561,9 @@ ADVENTURE FESTIVAL GAME MULTIMÍDIA &amp; ADVANCED COMPUTER GAMES: Esporte Clube 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-092</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-092</field>
+<field name="date">940907</field>
+<text_pt>
 Lançamentos incluem câmera eletrônica com design retrô e modelo com dispositivo atenuador de vibrações
 Free-lance para a Folha
 A fábrica japonesa Nikon está apresentando três novos modelos de câmeras fotográficas.
@@ -1588,9 +1588,9 @@ T.TANAKA: tel. (011) 825-2255
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-093</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-093</field>
+<field name="date">940907</field>
+<text_pt>
 ANTONIO GAUDÉRIO
 Repórter fotográfico
 A Fuji está lançando os filmes Fujichrome Provia e Fujichrome Sensia para slides.
@@ -1609,9 +1609,9 @@ Colaborou Ana Maria Guariglia, free-lance para a Folha sobre fotografia na pág. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-094</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-094</field>
+<field name="date">940907</field>
+<text_pt>
 Tucano não fala de documento e ataca imprensa
 Da Reportagem Local
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, acusou a imprensa de "falta de seriedade" e sugeriu que os jornalistas estão "ajudando a deseducar o povo para a democracia".
@@ -1626,9 +1626,9 @@ No fim da entrevista, dirigindo-se à repórter da TV Record, FHC perguntou: "Quer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-095</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-095</field>
+<field name="date">940907</field>
+<text_pt>
 Da Sucursal de Brasília
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, lança hoje oficialmente seu programa de governo.
 Ele promete destinar R$ 75 bilhões para investimentos nos quatro anos de governo.
@@ -1643,9 +1643,9 @@ Na área de habitação, o objetivo é investir R$ 3 bilhões somente no primeiro ano
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-096</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-096</field>
+<field name="date">940907</field>
+<text_pt>
 LUCAS FIGUEIREDO
 Da Sucursal de Brasília
 A vice-governadora do Distrito Federal e candidata ao Senado, Márcia Kubitschek (PP), está usando a máquina do governo.
@@ -1656,16 +1656,16 @@ A assessoria de Márcia Kubitschek enviou nota à Folha na qual afirma que o atend
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-097</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-097</field>
+<field name="date">940907</field>
+<text_pt>
 Lula quer apoio dos candidatos à Presidência para pedir medidas à Presidência da República e ao TSE contra o uso da máquina. FHC se irritou ontem com jornalistas ao ser questionado sobre um convite do governo federal para inauguração de obra. Brizola voltou a atacar o petista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-098</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-098</field>
+<field name="date">940907</field>
+<text_pt>
 
 FHC  (DF)
 Em Brasília, às 11h, faz lançamento oficial do plano de governo no Naoum Plaza Hotel. Não há agenda prevista para a tarde
@@ -1678,9 +1678,9 @@ A assessoria não divulgou agenda para hoje até o fechamento da edição
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-099</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-099</field>
+<field name="date">940907</field>
+<text_pt>
 MAURICIO PULS
 Da Redação
 Quem acompanha a campanha presidencial sabe que os dois principais candidatos fecharam alianças com outros partidos, não só para obter mais tempo no horário eleitoral, mas também para obter maioria no Congresso após o pleito.
@@ -1698,9 +1698,9 @@ A coluna ERA UMA VEZ é publicada às quartas-feiras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-100</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-100</field>
+<field name="date">940907</field>
+<text_pt>
 
 Presidente
 Eurico Dutra (1946-1951)
@@ -1730,9 +1730,9 @@ Siglas citadas: PSD (Partido Social Democrático); PTB (Partido Trabalhista Brasi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-101</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-101</field>
+<field name="date">940907</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Francisco Pinheiro, o âncora do Jornal Bandeirantes, ao falar do mais novo caso de uso da máquina federal em favor de Fernando Henrique, lembrou:
@@ -1748,9 +1748,9 @@ Como tudo ficou muito evidente, o Jornal Nacional nem se preocupa mais com as ap
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-102</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-102</field>
+<field name="date">940907</field>
+<text_pt>
 Tucano afirma ainda ter "pena" do adversário petista, que segundo ele, está "na contramão da história"
 FERNANDO DE BARROS E SILVA
 Da Reportagem Local
@@ -1771,9 +1771,9 @@ Mais tarde, ao voltar ao assunto, disse que a união de Lula e Brizola contra sua
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-103</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-103</field>
+<field name="date">940907</field>
+<text_pt>
 AMÉRICO MARTINS
 Da Reportagem Local
 O candidato do PT, Luiz Inácio Lula da Silva, propôs ontem uma ação conjunta dos presidenciáveis contra a candidatura de Fernando Henrique Cardoso (PSDB).
@@ -1787,9 +1787,9 @@ Segundo o petista, a pesquisa Datafolha publicada ontem foi "precipitada". Para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-104</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-104</field>
+<field name="date">940907</field>
+<text_pt>
 CLÓVIS ROSSI
 Da Reportagem Local
 A advogada criminal Zulaiê Cobra Ribeiro, 50, faz este ano a sua segunda tentativa de chegar à Câmara dos Deputados, com um objetivo prioritário: ajudar na elaboração dos Códigos (Civil, Penal e a legislação trabalhista), exatamente a área de sua especialidade.
@@ -1809,9 +1809,9 @@ Zulaiê - Acho que estar ao lado do Afanásio e outros membros do PFL e do PTB não
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940907-105</text_pt>
-<text_pt name="date">940907</text_pt>
-<text_pt name="text">
+<field name="id">FSP940907-105</field>
+<field name="date">940907</field>
+<text_pt>
 Da Sucursal de Brasília
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, lança hoje oficialmente seu programa de governo.
 Ele promete destinar R$ 75 bilhões para investimentos nos quatro anos de governo.

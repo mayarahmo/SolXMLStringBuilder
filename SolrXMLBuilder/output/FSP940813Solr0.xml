@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940813-001</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-001</field>
+<field name="date">940813</field>
+<text_pt>
 A pesquisa Datafolha publicada ontem acerca da avaliação do Plano Real suscita uma constatação bastante interessante acerca do comportamento e do estado de espírito dos brasileiros face à inflação.
 Segundo a sondagem, apenas 28% da população considera que seu poder de compra aumentou com o plano. A maioria (68%) julga que não houve alteração nesse aspecto (45%) ou que houve mudança para pior (23%). Apesar dessa avaliação sóbria acerca do seu poder de compra, a maioria absoluta (53%) se disse mais beneficiada no plano pessoal com o real, sendo que apenas 15% se afirmaram mais prejudicados e 28%, indiferentes. E, no que se refere ao balanço geral sobre o plano, a aprovação é esmagadora: 75% o consideram bom, contra 13% que o acham ruim.
 Fica claro portanto que o brasileiro leva em conta, no seu julgamento do plano e mesmo dos impactos do real sobre sua vida pessoal, mais do que apenas o seu poder de compra. Uma explicação parece ser a de que a queda da inflação é vista como positiva mesmo sem o benefício imediato de um salário real maior. Depois de tantos anos de uma espiral estonteante de preços, de fato não surpreende que a estabilidade da moeda seja considerada, em si, como um avanço.
@@ -13,9 +13,9 @@ Alguns analistas chegaram a avaliar que o efeito positivo da queda da inflação s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-002</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-002</field>
+<field name="date">940813</field>
+<text_pt>
 Dados apurados pelo Datafolha acerca das intenções de voto para o governo de São Paulo indicam que o senador Mário Covas mantém uma folgada liderança que, caso a eleição fosse hoje, o dispensaria até mesmo de passar pelo segundo turno. Com mais de 50% da preferência do eleitorado paulista, Covas vai, a cada dia, chegando mais perto do Bandeirantes.
 De fato, dizia-se que o senador não conseguiria manter-se por muito tempo em índices superiores a 45%; que quando começasse a campanha pelo rádio e televisão os demais candidatos, ainda pouco conhecidos do público, cresceriam. Até o momento, com pouco mais de uma semana de horário eleitoral gratuito, nada disso aconteceu. A variação das intenções de voto está dentro da margem de erro para todos os candidatos.
 E os resultados, em certo sentido, surpreendem. Por menos conhecidos que sejam Barros Munhoz, José Dirceu e Luiz Antônio de Medeiros, causa surpresa que a máquina do PMDB paulista, a força da militância petista e o peso eleitoral de Paulo Maluf &#150;os trunfos por trás de cada uma dessas candidaturas&#150; não tenham sido capazes, até o momento, de conquistar mais do que 10% do eleitorado paulista.
@@ -23,9 +23,9 @@ Também é digno de nota o fato de o candidato peessedebista pouco ou nada ter-se 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-003</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-003</field>
+<field name="date">940813</field>
+<text_pt>
 A maior surpresa do real foi e continua sendo a política cambial. Afinal, esperava-se não apenas paridade entre real e dólar, mas estabilidade por um bom tempo. Não ocorreu a paridade e, com frequência também surpreendente, o câmbio oscila e tende à valorização do real. Em poucas palavras: a oferta de dólares supera a procura. A superoferta contínua faz com que a moeda estrangeira se desvalorize.
 É uma política oportuna e bem conduzida até agora. Isso entretanto não significa que se trate de estratégia isenta de riscos. Aliás, não existe tal coisa em economia e é bom que se tenha clareza quanto aos problemas associados a um real valorizado demais.
 Há duas dificuldades principais. De um lado, não é segredo que por trás da superoferta de dólares está, ainda, a opção do Banco Central por uma política de juros reais muito altos. A fonte de tantos dólares tem sido, por exemplo, as operações conhecidas como "Antecipações de Contratos de Câmbio", realizadas pelos exportadores. Como as taxas aqui estão elevadas, vale a pena receber o quanto antes os dólares relativos a vendas futuras e trocá-los rapidamente por reais que ficam rendendo juros.
@@ -35,9 +35,9 @@ O câmbio estável é certamente um reforço à estabilização. O risco do exagero, en
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-004</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-004</field>
+<field name="date">940813</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; É com você, que cansou de desancar os políticos e agora, com o horário eleitoral, deve estar morrendo de tédio e preparando o espírito para votar em branco ou rabiscar um palavrão na cédula. Já parou para pensar que a culpa é muito sua?
 Não há nada mais fácil e cômodo do que criticar os eleitos e esquecer que, se o foram, é porque alguém, como você, votou neles.
@@ -52,9 +52,9 @@ Nada mais inútil do que chorar o leite derramado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-005</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-005</field>
+<field name="date">940813</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Qualquer partido que chegue ao Palácio do Planalto, seja PT ou PSDB, terá de mexer no buraco sem fundo do funcionalismo público. Documento oficial obtido ontem pela Folha mostra até onde vai a baderna.
 Técnicos do Ministério da Previdência Social calcularam as aposentadorias do setor público. No Judiciário, a média é de 36,6 salários mínimos por mês. No Legislativo, 36,2. Executivo: 5,4 mínimos.
@@ -68,9 +68,9 @@ PS &#150; Reconhecimento. Nesta semana fiz uma série de reportagens sobre desvio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-006</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-006</field>
+<field name="date">940813</field>
+<text_pt>
 Luiz Caversan
 RIO DE JANEIRO &#150; Os números do IBGE relativos à situação das crianças brasileiras, divulgados ontem no Rio, proporcionam uma perversa constatação: não poderiam ser outros.
 O IBGE afirma em relatório conjunto com o Unicef que aumentou em 2 milhões o número de crianças que vivem sem meios para tal. Eram 30 milhões em 80, passaram para 32 milhões em 91.
@@ -85,9 +85,9 @@ Apesar de suas grandezas, eles apenas revelam uma porção imensa e obscura do paí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-007</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-007</field>
+<field name="date">940813</field>
+<text_pt>
 Luciano Mendes de Almeida
 Em clima de eleições pode parecer fora de propósito tratar de idosos e doentes. O assunto, no entanto, é muito oportuno, porque alimenta a esperança de que seja assumido nos programas dos partidos.
 Há muitos idosos desamparados. Alguns vão ficando sem família, à medida que falecem os parentes mais chegados. Outros, infelizmente, vêem-se abandonados pelo egoísmo e descaso dos parentes. Acrescentemos a isso a dificuldade de serem devidamente atendidos, quando os familiares se ausentam para o trabalho fora de casa.
@@ -103,9 +103,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-008</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-008</field>
+<field name="date">940813</field>
+<text_pt>
 O diploma legal, mais do que lei da advocacia, é instrumento eficaz de afirmação da cidadania
 Instrumento da cidadania
 JOSÉ ROBERTO BATOCHIO
@@ -126,9 +126,9 @@ JOSÉ ROBERTO BATOCHIO, 50, é presidente nacional da Ordem dos Advogados do Brasi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-009</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-009</field>
+<field name="date">940813</field>
+<text_pt>
 A lógica corporativatransformou o acessodo cidadão à Justiça emmonopólio dos advogados
 Um passo em falso
 JOAQUIM FALCÃO
@@ -151,9 +151,9 @@ JOAQUIM FALCÃO, 49, é professor de direito constitucional da UFRJ (Universidade 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-010</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-010</field>
+<field name="date">940813</field>
+<text_pt>
 Num país de desigualdadee miséria, privilégiostrabalhistas são umacinte à cidadania
 Entre acertos e erros
 TERCIO SAMPAIO FERRAZ JUNIOR
@@ -173,9 +173,9 @@ TERCIO SAMPAIO FERRAZ JUNIOR, 53, é professor titular do Departamento de Filosof
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-011</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-011</field>
+<field name="date">940813</field>
+<text_pt>
 "Desesperada a propaganda do 'Jornal da Tarde', oferecendo um atlas um dia antes do lançamento do da Folha. O tiro sairá pela culatra, pois a atitude comprova a falta de criatividade dos editores daquele jornal, que copiaram a idéia inovadora da Folha. Se são capazes de copiar um atlas, imaginem as matérias jornalísticas. Estas iniciativas da Folha são ótimas para que os leitores aprendam a separar o joio do trigo da nossa imprensa."
 Alex O. R. de Lima (São Paulo, SP)²
 
@@ -215,9 +215,9 @@ Gijo Kikuti (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-012</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-012</field>
+<field name="date">940813</field>
+<text_pt>
 Ministros do TSE e juízes eleitorais reunidos ontem em Blumenau participaram de uma simulação das eleições, para avaliar o tempo gasto no preenchimento das cédulas. Os especialistas gastaram em média um minuto e meio cada.
 
 Torre de controle
@@ -241,9 +241,9 @@ Do deputado Joni Varisco (PMDB-PR), sobre a participação do atacante Romário na 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-013</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-013</field>
+<field name="date">940813</field>
+<text_pt>
 Na sua primeira experiência eleitoral, em 86, José Serra, então no PMDB, buscava votos em todos os escaninhos possíveis. Afinal, acabava de deixar um cargo essencialmente técnico, o de secretário estadual de Planejamento, e não podia saber qual o seu real potencial de votos.
 Em busca de eleitores, Serra acertou com sua assessoria uma visita à chamada "feira nordestina", no bairro paulistano da Vila Mariana, muito frequentada por migrantes nordestinos, contingente eleitoral nada desprezível.
 Como sempre ocorre nesses casos, a assessoria do candidato deveria chegar antes ao local para preparar o terreno. Por isso, quando Serra chegou e não viu os assessores começou a se irritar. Procurou por ali e nada. Até que encontrou seus auxiliares tomando cerveja num bar próximo.
@@ -254,9 +254,9 @@ Um dos assessores devolveu:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-014</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-014</field>
+<field name="date">940813</field>
+<text_pt>
 A visão que o presidente Itamar Franco tem de sua posição no governo é realista, mas patética. Talvez sem se dar conta, o presidente se define como refém da equipe que controla a Fazenda. Sua justificativa aos militares, para a correção insuficiente dos vencimentos do funcionalismo, é de clareza constrangedora: o presidente vê-se "premido por rígidos parâmetros advindos do Ministério da Fazenda".
 Há, no entanto, uma contradição escondida neste realismo. O plano antiinflação, com todas as suas restrições a medidas em favor das "vítimas da injustiça", foi aprovado pelo presidente tal como se mostra na prática. Nem mesmo o corte do poder presidencial de decisão deixou de estar evidente, embora não referido com explicitude, na concepção e nas formalizações do plano.
 O presidente Itamar Franco não aprovou um plano que apenas o deixou "premido por rígidos parâmetros do Ministério da Fazenda", mas um plano que, além disso, configura o extremo oposto dos propósitos que apresentou ao país ao assumir. Um plano oposto às suas próprias idéias. Lembremos alguns dos propósitos de então, a título de exemplo. A começar da atenção especial a ser dedicada aos problemas nacionais de saúde, cuja única demonstração prática foi a derrotada intenção de reduzir a extorsão incluída nos preços dos remédios.
@@ -266,9 +266,9 @@ Se a entrega foi sensata ou não, já seria novo assunto. Mas, de um jeito ou de o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-015</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-015</field>
+<field name="date">940813</field>
+<text_pt>
 JOSUÉ MACHADO
 Um comentarista político escreveu um dia destes sobre a trajetória retilínea do símbolo do pefelê, o senador Marco Maciel. Analisou-a desde os tempos de Costa e Silva, que apoiou todos os outros governos seguintes, até o de F. Collor, de que foi líder no Senado. Ao chegar aos tempos do processo de impeachment, o senador afastou-se da liderança não se sabe por quê. Sobre essa fase, escreveu o comentarista que "em certas sessões o senador entrava e saía do Congresso como sombra".
 Houve um engano. Não do senador, que jamais se enganou, segundo disse, mas do comentarista, e apenas no texto. Quem sabe nem tenha havido engano e sim a certeza de que é preferível ser conciso e que se dane a gramática. Mas o comentarista teria escrito melhor algo como "o senador entrava no Congresso como sombra e saía da mesma forma".
@@ -283,9 +283,9 @@ JOSUÉ R.S. MACHADO é jornalista, formado em Línguas Neolatinas pela PUC-SP. Cola
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-016</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-016</field>
+<field name="date">940813</field>
+<text_pt>
 Tiragem do jornal é de 1,1 milhão de exemplares, um recorde histórico
 Da Reportagem Local
 A Folha começa a distribuir amanhã para seus leitores o mais completo atlas já publicado no Brasil. A edição de amanhã circula com a capa dura e o primeiro fascículo encartados dentro do jornal. A tiragem da Folha neste domingo já é um recorde na história da imprensa brasileira: serão 1,1 milhão exemplares.
@@ -299,9 +299,9 @@ Mapas temáticos mostram a ocorrência de vulcões e terremotos, minerais, a variaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-017</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-017</field>
+<field name="date">940813</field>
+<text_pt>
 R$ 9,18 bilhões devem sair do fundo de emergência para pagar pessoal
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -326,31 +326,31 @@ No que se refere ao custeio, só as despesas com pessoal são estimadas em R$ 24,1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-018</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-018</field>
+<field name="date">940813</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro Rubens Ricupero (Fazenda) voltou a dizer que o Plano Real não pretende distribuir renda. "Se enganam os que criticam o plano por isso. Nunca nos propusemos a distribuir renda através dele". Para ele, o plano visa a estabilidade econômica. Isso, segundo ele, seria requisito para um projeto de crescimento. Pelas explicações dele, a estabilização da moeda é um ponto imprescindível para que se pensar num programa amplo de redistribuição de renda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-019</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-019</field>
+<field name="date">940813</field>
+<text_pt>
 O INSS (Instituto Nacional de Seguridade Social) está investigando a possibilidade de fraude nas aposentadorias de servidores públicos através de certidões falsas de trabalho rural. A Previdência está apurando 18 pedidos de benefício feitos por servidores de sete órgãos federais, quatro do governo do Distrito Federal e um da Unicamp (Universidade de Campinas). Há suspeita até mesmo dentro do Ministério da Fazenda. Outros órgãos investigados são a Câmara dos Deputados, Incra, Embrapa, Ministério da Agricultura, DNER e Estado-Maior do Exército.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-020</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-020</field>
+<field name="date">940813</field>
+<text_pt>
 A Revap (Refinaria do Vale do Paraíba), de São José dos Campos, voltou a funcionar normalmente ontem, um dia depois da explosão no sistema de distribuição de energia elétrica que paralisou parte da refinaria. O acidente aconteceu quinta-feira e feriu um funcionário. A explosão foi ocasionada por um curto-circuito. A Revap ainda não concluiu o laudo técnico sobre as causas do acidente. A assessoria de imprensa da refinaria informou que não há previsão para conclusão do laudo. Também não foi calculado o prejuízo com a interrupção da produção da refinaria.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-021</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-021</field>
+<field name="date">940813</field>
+<text_pt>
 Valor médio de R$ 2.500 por aposentado chega a R$ 5.000 em alguns casos
 GILBERTO DIMENSTEIN
 Diretor da Sucursal de Brasília
@@ -369,17 +369,17 @@ Só com a queda da inflação, os cofres da Previdência deixaram de arrecadar mensa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-022</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-022</field>
+<field name="date">940813</field>
+<text_pt>
 Cerca de 2.150 trabalhadores rurais estão em greve na região de Ribeirão Preto (SP), reivindicando o aumento do preço pago pela tonelada de cana-de-açúcar colhida. Segundo o Sindicato dos Trabalhadores Rurais de Guariba, 90% funcionários da Destilaria Moreno aderiram a greve. Até as 17h de ontem as negociações não tinham terminado.
 Pressão menor de serviços pessoais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-023</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-023</field>
+<field name="date">940813</field>
+<text_pt>
 Fortes rumores ontem à noite sugeriam que a Petrobrás escolheria o consórcio liderado pelo grupo britânico BTB para fazer o projeto do gasoduto Brasil-Bolívia.
 
 Vendas modestas
@@ -413,9 +413,9 @@ Os empresários brasileiros acreditam que os setores mais propícios a investiment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-024</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-024</field>
+<field name="date">940813</field>
+<text_pt>
 LINCOLN DA CUNHA PEREIRA
 As primeiras semanas do Plano Real são mais alvissareiras do que se supõe. Certamente por causa da Copa do Mundo e da ampla campanha eleitoral em curso, passou quase despercebido, por exemplo, o fato extraordinário de termos trocado quase toda a moeda circulante de um momento para outro sem nenhum atropelo.
 Faltou troco, ainda falta ocasionalmente. Houve pequenas confusões, esse ou aquele caso de abuso. Mas a verdade e que nosso país de proporções continentais e população superior a 150 milhões de habitantes passou do cruzeiro real para o real em pouquíssimos dias.
@@ -437,9 +437,9 @@ LINCOLN DA CUNHA PEREIRA, 65, advogado e empresário, é presidente da Associação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-025</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-025</field>
+<field name="date">940813</field>
+<text_pt>
 ARNOLDO WALD
 Aguardam decisões da Justiça os pleitos referentes à eventual responsabilidade dos bancos pela diferença da correção monetária correspondente aos depósitos existentes em cadernetas de poupança, com vencimento na segunda quinzena de abril de 1990 e que foram parcialmente apreendidos e tiveram a sua disponibilidade transferida para o Banco Central do Brasil.
 Os tribunais pátrios vêm examinando essa tormentosa questão, sendo certo que o Superior Tribunal de Justiça, por diversas vezes, já se manifestou a respeito, fazendo a distinção adequada e necessária entre as situações que ocorreram no Plano Collor e nos planos econômicos anteriores e reconhecendo que a disponibilidade dos ativos financeiros bloqueados, em razão da lei nº 8.024, foi efetivamente transferida ao Banco Central, extinguindo-se, assim, o contrato de depósito inicialmente firmado com a instituição particular.
@@ -458,17 +458,17 @@ ARNOLDO WALD, 62, advogado, é professor catedrático de Direito Civil da Faculdad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-026</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-026</field>
+<field name="date">940813</field>
+<text_pt>
 O USDA (Departamento de Agricultura dos EUA) reduziu suas estimativas de produção e exportação para a safra brasileira de soja 94/95. A colheita da safra que começa a ser plantada nas próximas semanas é projetada em 24 milhões de t, 1,2% abaixo da previsão de julho (24,3 milhões de t).
 O novo número do USDA representa queda de 2% sobre a safra colhida no semestre passado. Consequentemente, as exportações foram revistas de 5,2 milhões de t para 5,1 milhões. A produção de soja argentina continua em 12,5 milhões de t, maior que os 12 milhões da safra colhida este ano.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-027</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-027</field>
+<field name="date">940813</field>
+<text_pt>
 Avalanche 'made in China' inclui calçados, cadeados e alho, com preço até quatro vezes menor que os internacionais
 Da Sucursal de Brasília
 O ministro da Indústria, Comércio e Turismo, Élcio Álvares, vai discutir na próxima semana com o ministro da Fazenda, Rubens Ricupero, formas de deter a entrada de produtos chineses no país.
@@ -485,9 +485,9 @@ Uma representação formal contra a China poderia atrapalhar as exportações de caf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-028</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-028</field>
+<field name="date">940813</field>
+<text_pt>
 Acusado chegou a ameaçar repórteres
 Da FT
 A polícia civil prendeu ontem Gilmar José Gonçalves Coelho, 38, que estava na lista dos 438 empresários acusados de sonegar ICMS. Coelho, que é pastor da Igreja Universal do Reino de Deus, devia ao Tesouro estadual R$ 1.996,48. Ontem mesmo, ele quitou a dívida e foi liberado.
@@ -498,9 +498,9 @@ O Juiz disse que vários empresários que não repassaram o ICMS para o governo se 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-029</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-029</field>
+<field name="date">940813</field>
+<text_pt>
 Grandes bancos pressionam taxas no mercado de um dia de títulos privados, que ficam acima do overnight
 Da Redação
 Juros, Bolsas e dólar fecharam a semana em alta. Não é um cenário consistente. Juros mais altos deveriam ajudar a depreciar o câmbio. Mas era sexta-feira.
@@ -547,9 +547,9 @@ O índice Bovespa no mercado futuro para outubro fechou a 49.150 pontos com valor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-030</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-030</field>
+<field name="date">940813</field>
+<text_pt>
 CLÓVIS ROSSI
 Da Reportagem Local
 O deputado José Dirceu (PT-SP), candidato do partido ao governo paulista, está encaminhando representação à Justiça pedindo a adoção "das medidas judiciais cabíveis" a respeito do que considera "aumento desproporcinado" das tarifas bancárias no Estado.
@@ -564,9 +564,9 @@ Em seu artigo 6º, inciso 4, o Código de Defesa do Consumidor menciona como direi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-031</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-031</field>
+<field name="date">940813</field>
+<text_pt>
 Da Redação
 A captação líquida das cadernetas de poupança na primeira semana de agosto foi positiva em 0,25%, segundo a Abecip (Associação Brasileira das Entidades de Crédito Imobiliário e Poupança).
 De 1º a 5 de agosto, os depósitos superaram os saques em R$ 84,9 milhões. O saldo no dia 5 de agosto era de R$ 34,16 bilhões, sem incluir a caderneta-verde do Banco do Brasil. A captação líquida havia sido positiva em 7,89%.
@@ -577,9 +577,9 @@ A TR prefixada para o dia 11 de setembro foi fixada em 2,0114%, com o que a poup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-032</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-032</field>
+<field name="date">940813</field>
+<text_pt>
 MARCOS CÉZARI
 Da Reportagem Local
 A Previdência Social vai recorrer contra a liminar dada pelo Supremo Tribunal Federal à Confederação Nacional da Indústria suspendendo o recolhimento da contribuição de 20% incidente sobre os pagamentos feitos pelas empresas a administradores (prolabore) e trabalhadores autônomos.
@@ -598,9 +598,9 @@ Entretanto, a instrução normativa nº 67/92 só permite a correção a partir de jan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-033</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-033</field>
+<field name="date">940813</field>
+<text_pt>
 Da Sucursal do Rio
 A Shell Brasil anunciou ontem que a Shell International Chemical Company, da Grã-Bretanha, e a Shell Chemical Company, de Houston, Estados Unidos, estão negociando a compra dos negócios da Texaco Inc. na área de aditivos para lubrificantes em todo o mundo.
 O valor da negociação não foi revelado.
@@ -613,30 +613,30 @@ A Shell Brasil anunciou também ontem o lançamento no mercado brasileiro da sua v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-034</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-034</field>
+<field name="date">940813</field>
+<text_pt>
 O presidente dos EUA, Bill Clinton, disse ontem que lutará até que o projeto de lei anticrime do governo seja aprovado. A proposta foi rejeitada anteontem em votação preliminar na Câmara. Ele responsabilizou líderes do Partido Republicano e o lobby de fabricantes de armas pela rejeição. Uma das medidas da lei é a proibição da venda de 19 tipos de armas leves.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-035</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-035</field>
+<field name="date">940813</field>
+<text_pt>
 A primeira-dama do Peru, Susana Higuchi de Fujimori, dormiu de anteontem para ontem no Palácio de Governo. Já seu marido, o presidente Alberto Fujimori, passou a noite no Comando Geral do Exército. Susana deixou o palácio há nove dias, reclamando contra a proibição de parentes do presidente se candidatar e da política social do governo de seu marido.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-036</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-036</field>
+<field name="date">940813</field>
+<text_pt>
 EUA e Coréia do Norte reiniciaram em Genebra negociações sobre a questão nuclear. A delegação americana esperava assinar ontem uma declaração sobre a modificação nas usinas do país, mas Pyongyang ainda não se definiu. A mudança reduziria a chance da Coréia produzir armas atômicas. Os EUA suspeitam que o país tenha programa nuclear secreto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-037</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-037</field>
+<field name="date">940813</field>
+<text_pt>
 Das agências internacionais
 O ministro Clemente Mastella (Trabalho) disse anteontem que as dificuldades econômicas da Itália se devem à desconfiança de financistas judeus sobre a presença de neofascistas no governo.
 "A presença da Aliança Nacional no Executivo preocupa o lobby judeu de Nova York, que ainda não compreendeu a diferença entre o velho Movimento Social Italiano e a Aliança Nacional", disse.
@@ -647,9 +647,9 @@ Professoras japonesas sofrem preconceito
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-038</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-038</field>
+<field name="date">940813</field>
+<text_pt>
 Público que chegou na sexta-feira para a versão 94 do mais famoso show de rock da história supera expectativa
 FERNANDO CANZIAN
 Enviado especial a Saugerties
@@ -667,9 +667,9 @@ Ontem, a polícia estadual de NY realizou uma prisão por porte e consumo de droga
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-039</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-039</field>
+<field name="date">940813</field>
+<text_pt>
 Grupos neonazistas anunciaram para hoje mais de 30 manifestações em todo a Alemanha para comemorar o sétimo aniversário da morte de Rudolf Hess, considerado o segundo homem na hierarquia nazista. A polícia faz hoje uma operação especial para impedir as manifestações.
 
 Pesquisa eleitoral dá vitória a Cárdenas
@@ -689,9 +689,9 @@ A descoberta de duas proteínas que atuam no desenvolvimento do sistema nervoso d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-040</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-040</field>
+<field name="date">940813</field>
+<text_pt>
 Das agências internacionais
 O presidente cubano, Fidel Castro, acusou os EUA de incentivar fuga de cubanos para fazer propaganda contra a ilha.
 "Enquanto o escritório dos EUA em Havana continua negando vistos para os cubanos que pedem, os EUA continuam usando para fins de propaganda a chegada de jangadeiros e dá acolhida calorosa a criminosos", disse.
@@ -702,17 +702,17 @@ Amanhã haverá manifestação em Havana em comemoração ao 68º aniversário de Fidel.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-041</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-041</field>
+<field name="date">940813</field>
+<text_pt>
 Deputados republicanos dos EUA criticaram ontem a lei de direitos autorais norte-americana e as emendas à lei de patentes contidas numa legislação destinada a implementar um recente acordo no âmbito do Gatt (Acordo Geral de Tarifas e Comércio), que começou a ser debatido pelo Congresso.
 O acordo abre caminho para a Organização Mundial do Comércio, que começará a funcionar em 1º de janeiro, em substituição ao Gatt.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-042</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-042</field>
+<field name="date">940813</field>
+<text_pt>
 O médico Ricardo Ribas dirige hospital em Kigali
 SÉRGIO TEIXEIRA JR.
 Da Redação
@@ -745,9 +745,9 @@ Ribas -  Sim. Mas teria que ser montado um esquema para que eles voltassem aos p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-043</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-043</field>
+<field name="date">940813</field>
+<text_pt>
 Das agências internacionais
 A Coréia do Norte está disposta a respeitar o Tratado de Não-Proliferação Nuclear.
 Pyongyang também comprometeu-se a não reprocessar o plutônio de 8.000 barras de combustível utilizado. O reprocessamento permite fabricação de armas atômicas.
@@ -759,9 +759,9 @@ O governo de Pyongyang também se declarou disposto a congelar a construção de re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-044</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-044</field>
+<field name="date">940813</field>
+<text_pt>
 O embaixador dos EUA no Brasil, Melvyn Lezitsky (foto), afirmou que tem como meta voltar a emitir vistos gratuitos, com validade de quatro anos, para turistas brasileiros que vão a seu país, desde que haja reciprocidade. Neste ano, as representações dos EUA no Brasil reduziram os prazos e passaram a cobrar vistos como resposta ao tratamento a americanos que vêm ao Brasil.
 
 31%...é a redução determinada pela Justiça para o preço das passagens de ônibus urbanos em Sorocaba (87 km a oeste de SP). A medida, que passou a vigorar ontem, atende a ação da Promotoria de Defesa do Consumidor, que considerou "ilegais" os valores da tarifa. A passagem caiu de R$ 0,33 para R$ 0,26.
@@ -775,9 +775,9 @@ Camelô é morto porcantar música sertanejaO camelô Ronivaldo Gomes da Silva, 20, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-045</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-045</field>
+<field name="date">940813</field>
+<text_pt>
 Da Sucursal do Rio
 Se no indicador geral de pobreza a situação do país piorou em relação a 1980, na alfabetização das crianças e adolescentes a situação no país está melhor.
 Segundo Ana Lucia Saboia, do Departamento de Indicadores Sociais do IBGE, 20% das crianças entre 11 e 14 anos não sabiam ler nem escrever em 1980. Este número caiu para 16% em 1991.
@@ -793,9 +793,9 @@ Nos municípios com mais de um milhão de habitantes, a pior situação em termos de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-046</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-046</field>
+<field name="date">940813</field>
+<text_pt>
 Os grupos folclóricos da Argentina, Itália, França, Suíça, Polônia, Rússia, Venezuela, Croácia e Paraguai vão se apresentar no 8º Festival Internacional do Folclore do Brasil, em Praia Grande. O festival começa hoje e continua até o dia 27 deste mês.
 
 SP Interior 1
@@ -815,9 +815,9 @@ A polícia de Birigui investiga a suspeita de prostituição de quatro meninas de 1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-047</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-047</field>
+<field name="date">940813</field>
+<text_pt>
 O Cineclube Coxiponés, da Universidade Federal de Mato Grosso, está recebendo até o próximo dia 2 de setembro inscrições para a 2ª Mostra de Cinema e Vídeo de Cuiabá. O evento acontece de 18 a 23 de outubro.
 
 Mato Grosso do Sul 1
@@ -831,9 +831,9 @@ A Associação Comercial de Campo Grande realiza hoje o sorteio dos 17 presentes-s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-048</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-048</field>
+<field name="date">940813</field>
+<text_pt>
 Os vereadores de Florianópolis começaram a analisar o novo Plano Diretor. O projeto foi elaborado pelo Instituto de Planejamento Urbano com a ajuda da comunidade. Uma das propostas é a mudança no limite para a altura dos edifícios, que passaria de 12 para 18 andares.
 
 Santa Catarina 2
@@ -859,9 +859,9 @@ A empresa General Eletric do Brasil doou lâmpadas à Prefeitura de Curitiba. São 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-049</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-049</field>
+<field name="date">940813</field>
+<text_pt>
 MÔNICA SANTANNA
 Da Agência Folha, em Curitiba
 Desde o início do ano, cerca de 30 detentos fugiram pela tubulação de esgoto da Delegacia de Furtos de Curitiba.
@@ -870,9 +870,9 @@ Noronha obrigou os presos a construírem, com material doado, uma laje de concret
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-050</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-050</field>
+<field name="date">940813</field>
+<text_pt>
 O nome do promotor do Tribunal do Júri de Manaus, João Bosco Sá Valente, foi sugerido para compor a comissão interventora que vai dirigir o TCM (Tribunal de Contas do Município). Conselheiros do tribunal estão sendo acusados de nepotismo.
 
 Amazonas 2
@@ -886,9 +886,9 @@ O Inpa (Instituto Nacional de Pesquisas da Amazônia) vai realizar, do dia 30 ao 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-051</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-051</field>
+<field name="date">940813</field>
+<text_pt>
 A Secretaria Estadual da Saúde espera vacinar 1,6 milhão de crianças menores de 5 anos durante a Campanha de Multivacinação, que acontece hoje em todo o país. As crianças serão vacinadas contra tuberculose, poliomielite, sarampo, tétano, coqueluche e difteria.
 
 Bahia 2
@@ -914,9 +914,9 @@ A CEF está prestando serviço médico gratuito aos seus clientes na agência da pra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-052</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-052</field>
+<field name="date">940813</field>
+<text_pt>
 ÍTALO CARDOSO
 O prefeito Paulo Maluf acaba de vetar um projeto de lei que propõe regras para o armazenamento de botijões de gás liquefeito de petróleo (GLP), impedindo assim que São Paulo tenha um dispositivo de segurança para a população em geral e os trabalhadores em particular.
 Essa atitude do prefeito contraria não apenas a necessidade de legislações como a que foi proposta, mas também pareceres de órgãos como o Corpo de Bombeiros, o Ipen (Instituto de Pesquisa Energética e Nuclear), o Fundacentro, o Procon (Coordenadoria de Proteção e Defesa do Consumidor) e o Sindicato dos Minérios, que emitiram opiniões favoráveis em vários debates sobre o projeto.
@@ -931,9 +931,9 @@ Por isso, consideramos que o veto teve caráter político, por ser o projeto de um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-053</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-053</field>
+<field name="date">940813</field>
+<text_pt>
 ANDRÉ MUGGIATI *
 Da Reportagem Local
 Mais dois corpos foram encontrados ontem pelos bombeiros no prédio que desabou por volta das 10h de anteontem na Vila Maria (zona sul de São Paulo).
@@ -956,9 +956,9 @@ A perícia técnica deve apresentar resultados dentro de um mês. Só depois disso o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-054</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-054</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local e da Folha Nordeste
 O estudante M.C., 14, é acusado de matar com um tiro acidental sua irmã A.P.C., 12, quando brincava com a arma de seu padrasto, o mecânico Antônio Bento Paiva.
 O crime ocorreu anteontem à tarde, nos Campos Elíseos, na zona norte de Ribeirão Preto (319 km de São Paulo). Segundo o investigador Wilson Sasaki, 55, do 2º DP, M.C. pegou o revólver de uma bolsa que estava sobre o armário. Paiva tinha registro da arma.
@@ -968,9 +968,9 @@ De acordo com o delegado Alfredo Pinto de Souza, do 25º DP (Parelheiros), um hom
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-055</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-055</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local
 A segunda fase da Campanha Nacional de Multivacinação deve atingir hoje 18 milhões de crianças de até 5 anos em todo o país, distribuindo 30 milhões de doses da vacina Sabin, contra a pólio.
 A vacinação será realizada das 8h às 17h. Em alguns locais de difícil acesso, como a região amazônica, a campanha deve se estender por mais alguns dias, para que as equipes possam atingi-los.
@@ -992,9 +992,9 @@ Mais de 10 mil postos e 25 mil pessoas participam da campanha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-056</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-056</field>
+<field name="date">940813</field>
+<text_pt>
 O embaixador dos EUA no Brasil, Melvyn Lezitsky, afirmou que tem como meta voltar a emitir vistos gratuitos, com validade de quatro anos, para turistas brasileiros que vão a seu país, desde que haja reciprocidade do Brasil.
 
 Estado lista 28 imóveis para tombamento
@@ -1002,9 +1002,9 @@ O "Diário Oficial do Estado" da última quarta-feira publicou relação de 28 imóve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-057</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-057</field>
+<field name="date">940813</field>
+<text_pt>
 Promotoria quer ver análises da água do rio; despoluição deve ser discutida na Assembléia
 LUIZ CARLOS DUARTE
 Da Reportagem Local
@@ -1019,9 +1019,9 @@ Boucinhas, em nota distribuída à imprensa, disse que a convocação será uma "ótim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-058</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-058</field>
+<field name="date">940813</field>
+<text_pt>
 Foram considerados em desacordo com a legislação 97 dos 290 itens analisados; empresas serão notificadas
 Da Reportagem Local
 A Secretaria Municipal de Abastecimento (Semab) divulgou ontem uma lista com 97 produtos considerados em desacordo com a legislação.
@@ -1041,9 +1041,9 @@ Até o dia 4 de agosto, eram permitidos apenas 30 fragmentos de insetos por 100 g
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-059</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-059</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local
 Entre as empresas citadas pela Semab na lista de produtos contaminados estão Perdigão (salsicha), Arisco (marmelada e coco ralado), Sadia (carne de aves), Tostines (biscoito) e Etti (cenoura e ervilha).
 O diretor de Relações Públicas da Etti, João Alberto Ianhez, disse que a empresa pode tomar uma medida judicial contra a prefeitura.
@@ -1058,9 +1058,9 @@ Os fabricantes dos amendoins Chiang, Garibaldi, Kodilar e Somel, da linguiça Flo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-060</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-060</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local
 Até amanhã, uma exposição de ikebanas (arranjos florais japoneses) estará aberta à visitação pública no Centro Cultural Banco Real. Participam mais de cem artistas nikkeys (brasileiros descendentes de japoneses) e brasileiros de 14 escolas de ikebana de São Paulo.
 Durante a mostra, mestres no assunto estarão ensinando as técnicas de montagem dos arranjos aos interessados. Hoje, paralela à exposição, haverá uma demonstração da cerimônia japonesa do chá.
@@ -1072,9 +1072,9 @@ Em todos os arranjos, os cabos das flores são fixados em um suporte com várias "
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-061</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-061</field>
+<field name="date">940813</field>
+<text_pt>
 O leitor Atsuro Watanabe, residente no Jardim Marajoara, reclama do "pouco caso e do desrespeito" da Sabesp em relação aos problemas ocorridos em um terreno que adquiriu em fevereiro de 93.
 "Quando entrei no terreno, notei que o hidrômetro havia desaparecido. Não havia nenhum sinal de quebra e parecia que a própria Sabesp havia retirado o aparelho. Na Sabesp, fui informado de que teria que pagar 12 contas atrasadas."
 Watanabe afirma ter explicado o problema à Sabesp, sem sucesso. "A única resposta que recebo é que o caso está sendo estudado. A água não foi religada e as contas continuam a ser emitidas", diz ele.
@@ -1084,9 +1084,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-062</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-062</field>
+<field name="date">940813</field>
+<text_pt>
 
 
 A 2ª etapa do Circuito Lightning Bolt de Surfe Amador acontece neste final de semana na praia do Quebra-Mar (caso o mar não ofereça condições para a pratica da modalidade, a competição será transferida para a praia do Tombo, no Guarujá).
@@ -1112,9 +1112,9 @@ A primeira etapa do Campeonato Paulista de Motocross acontece hoje e amanhã, na 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-063</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-063</field>
+<field name="date">940813</field>
+<text_pt>
 Equipes disputam jogo amistoso às 21h30 em São Paulo; volta de Zorzi é o destaque do time adversário
 SÉRGIO KRASELIS
 Da Reportagem Local
@@ -1136,9 +1136,9 @@ Bandeirantes, ao vivo, às 21h30
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-064</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-064</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local
 Eleito o melhor jogador de vôlei em 91, o atacante Andrea Zorzi, 28, disse ao desembarcar em São Paulo que voltou a ficar motivado para jogar na seleção italiana.
 "Não é verdade que saí da seleção por não aceitar a reserva", afirma o jogador. "Simplesmente estava abalado psicologicamente".
@@ -1148,9 +1148,9 @@ Velasco, que após o encerramento da Liga só treinou o time três dias, acredita q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-065</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-065</field>
+<field name="date">940813</field>
+<text_pt>
 Livro, que será lançado dia 21, nos cinco anos da morte do "maluco beleza", tem imagens e textos inéditos
 LUIZ CAVERSAN
 Diretor da Sucusal do Rio
@@ -1179,44 +1179,44 @@ O vídeo terá imagens de Seixas atuando em pequenas cenas. "Na verdade, diz Kika 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-066</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-066</field>
+<field name="date">940813</field>
+<text_pt>
 Nicholas Cage se divertiu tanto em "Lua de Mel a Três" (Honeymoon in Vegas) que resolveu voltar à cidade, mas em outra situação. Em "Leaving Las Vegas", é um roteirista alcoólatra que vai a cidade se suicidar, mas encontra uma prostituta e muda de idéia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-067</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-067</field>
+<field name="date">940813</field>
+<text_pt>
 A Fox escolheu Bobby Hosea para o papel de O. J. Simpson no filme que mandará ao ar dia 13 de setembro, seis dias antes de seu julgamento. Hosea é um ex-jogador de futebol americano da universidade de Califórnia. Jessica Tuck será Nicole Brown Simpson.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-068</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-068</field>
+<field name="date">940813</field>
+<text_pt>
 Bridget Fonda está sobrecarregada. Apesar seu quase inexpressivo papel em "O Pequeno Buda", a atriz tem recebido muitos convites. Seu pai, Peter Fonda, vai dirigí-la no remake de "The Petrified Forest" e Dario Argento a quer em "The Stendhal Syndrome".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-069</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-069</field>
+<field name="date">940813</field>
+<text_pt>
 Joan Bryant ficou famosa ao ser fotografada dançando em Woodstock. Hoje, aos 47 anos, 25 anos depois, a hippie ainda pensa na paz e no amor, mas se preocupa mais é com as roupinhas que vende em Malibú, na Califórnia. Shirley MacLaine é uma das clientes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-070</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-070</field>
+<field name="date">940813</field>
+<text_pt>
 Está quase certo. Sharon Stone &#150;que não é boba nem nada&#150; deve aceitar o convite de Martin Scorsese e ser a mulher de Robert De Niro em "Casino", sobre um administrador de salas de jogo em Las Vegas nos anos 70 e sua mulher. Joe Pesci já está no elenco.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-071</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-071</field>
+<field name="date">940813</field>
+<text_pt>
 O filme cubano "Morango e Chocolate" é o favorito da crítica; festival recupera prestígio de idos tempos
 AMIR LABAKI
 Enviado especial a Gramado
@@ -1230,9 +1230,9 @@ O crítico AMIR LABAKI viaja a Gramado a convite da organização do festival.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-072</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-072</field>
+<field name="date">940813</field>
+<text_pt>
 Do enviado especial
 Antonioni dá em Gramado-94 uma lição de profissionalismo. Conhece a região serrana do Rio Grande do Sul de dia, prestigia o Palácio dos Festivais todas as noites.
 Anteontem, o cineasta italiano fez um giro de helicóptero pelas cercanias de Gramado. Aproveitou ontem o dia para visitar de carro cidades próximas, como Caxias e Canela.
@@ -1243,9 +1243,9 @@ O ponto de partida são contos reunidos no livro "Boliche Sobre O Tigre", publica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-073</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-073</field>
+<field name="date">940813</field>
+<text_pt>
 
 ANTONIONI - O videomaker Sérgio Martinelli, do MIS e da Digital Group, está acompanhando Antonioni com sua câmera desde São Paulo. Dos registros deve nascer um documentário sobre a excursão brasileira do diretor de "Profissão: Repórter".
 
@@ -1259,9 +1259,9 @@ FAVORITO - "Morango e Chocolate", de Tomas Gutierrez Alea e Juan Carlos Tabío, n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-074</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-074</field>
+<field name="date">940813</field>
+<text_pt>
 De Londres
 O governo britânico vetou esta semana a exportação para os EUA da escultura "As Três Graças", do italiano Antonio Canova. Os donos da obra, uma empresa de investimento em arte com sede no Caribe, têm desde 1989 uma oferta de US$ 11,4 milhões do J. Paul Getty Museum, de Malibu (Califórnia).
 O governo britânico, pressionado por instituições de arte, vem impedindo a venda para dar tempo a organizações locais de levantar o dinheiro para cobrir a oferta.
@@ -1270,9 +1270,9 @@ Alguns especialistas em arte acham que a obra está supervalorizada e que seu pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-075</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-075</field>
+<field name="date">940813</field>
+<text_pt>
 Sem ditar os destinos da humanidade, os "neogurus" influenciam pequenos grupos e valorizam a individualidade
 EVA JOORY
 Da Reportagem Local
@@ -1303,9 +1303,9 @@ Com 12 anos de profissão, Mauro responde pelo atual visual das modelos Claudia L
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-076</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-076</field>
+<field name="date">940813</field>
+<text_pt>
 Cabelereiro favorito das modelos de SP, é procurado para mudanças radicais de visual que podem incluir tinturas, descolorações e máquina zero para cortar careca. Entre as tops que já passaram por suas mãos, Alessandra Berriel (ao lado, no alto), Claudia Liz (ao lado) e Carolina Fagundes
 Em seu projeto Jazzmatazz, foi um dos primeiros a usar elementos do jazz fundidos à linguagem do rap, gênero depois batizado de jazz-rap. O som é hoje forte influência em todo o mundo
 Sacerdotisa do chic, a poderosa editora de moda americana morta em 89 marcou época nos anos 70 por suas opiniões polêmicas e radicais
@@ -1314,9 +1314,9 @@ Artista e filósofo do pop morto em 87, fez de seu ateliê em Nova York, a Factory
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-077</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-077</field>
+<field name="date">940813</field>
+<text_pt>
 Da Redação
 
 Filme: O Eclipse
@@ -1335,18 +1335,18 @@ Febril ou lento, é o tempo que organiza as coisas. É o coração da narrativa de A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-078</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-078</field>
+<field name="date">940813</field>
+<text_pt>
 Da Redação
 A rede Bandeirantes estará exibindo, hoje e amanhã, os concertos de Woodstock 94. O evento, na cidade de Saugerties (15 km ao norte de Nova York), comemora os 25 anos do Woodstock Festival, que aconteceu entre os dias 15 e 17 de agosto de 1969, em Bethel.
 Devido à transmissão, a Bandeirantes cancela hoje a apresentação do programa "Sem Fronteiras" (23h) e do filme "Um Dia, um Gato" (24h), e amanhã, de um especial com Liza Minelli (24h).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-079</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-079</field>
+<field name="date">940813</field>
+<text_pt>
 ARMANDO ANTENORE
 Da Reportagem Local
 Silvio de Abreu não resistiu à tentação de atirar a última pá de cal sobre a Era Collor.
@@ -1365,9 +1365,9 @@ Hoje, é mais tolerante. "Sei que 'Capital Estrangeiro' não chega aos pés de Moli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-080</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-080</field>
+<field name="date">940813</field>
+<text_pt>
 Das agências internacionais
 O Irã trocou um nu do pintor contemporâneo norte-americano Willem De Kooning por um manuscrito do "Livro dos Reis", de Firdusi, poeta épico persa medieval. As obras foram trocadas no aeroporto de Viena.
 A troca foi anunciada em Teerã pelo primeiro vice-presidente do Irã, Hassan Habibi. A tela de De Kooning chama-se "Mulher Número 3". De acordo com Habibi, foi o caráter "não apresentável" do quadro que levou o governo do Irã a querer trocá-lo.
@@ -1376,9 +1376,9 @@ Avaliado em US$ 20 milhões, o exemplar do "Livro dos Reis" é constituído de 118 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-081</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-081</field>
+<field name="date">940813</field>
+<text_pt>
 A Orquestra Nacional de Lille (França) se apresentará no Teatro Municipal no dia 1º de setembro, às 21h, sob a regência do maestro Jean-Claude Casadesus. A solista será a mezzo-soprano Béatrice Uria-Monzon. Os ingressos custam de R$ 5 a R$ 50 e já estão à venda no teatro de segunda a sexta, das 10h30 às 18h, e nos sábados, das 12h às 17h.
 
 Livraria traz importados a preços populares
@@ -1395,9 +1395,9 @@ A revista "Face", do curso de pós-graduação em Comunicação e Semiótica da PUC-SP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-082</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-082</field>
+<field name="date">940813</field>
+<text_pt>
 A ponte entre o Rio e Niterói, que completou 20 anos e atravessa uma das baías mais belas do mundo, pede socorro
 ANTONIO CALLADO
 Colunista da Folha
@@ -1426,9 +1426,9 @@ A ponte vai fechar qualquer dia destes. Para vagos reparos. Falta de verba. "Sin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-083</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-083</field>
+<field name="date">940813</field>
+<text_pt>
 Texto sobre o fim das utopias envelheceu, mas a diretora Carmen Paternostro salva o espetáculo pelo riso
 NELSON DE SÁ
 Da Reportagem Local
@@ -1453,9 +1453,9 @@ Quanto: R$ 9,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-084</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-084</field>
+<field name="date">940813</field>
+<text_pt>
 Regras evitam que grandes clubes sejam eliminados nas primeiras fases do campeonato
 Da Reportagem Local
 Ninguém será eliminado na primeira fase do Campeonato Brasileiro deste ano. O regulamento de 94 volta a adotar uma fórmula fracassada dos campeonatos gigantes da segunda metade dos anos 70.
@@ -1478,9 +1478,9 @@ No caso de os finalistas empatarem em todos os critérios, serão levadas em consi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-085</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-085</field>
+<field name="date">940813</field>
+<text_pt>
 74 Chegaram ao quadrangular final Vasco, Cruzeiro, Santos e Internacional.
 Os dois primeiros terminaram empatados e decidiram o título em um jogo extra. Os vascaínos conseguiram inverter o mando de campo, alegando que dirigentes do Cruzeiro e o técnico Hílton Chaves atacaram o juiz Sebastião Rufino e seu auxiliar no jogo anterior entre os dois, no Mineirão. O time carioca jogou em casa, com mais raça, e venceu por 2 a 1.
 Campeão - Vasco
@@ -1499,9 +1499,9 @@ Time campeão - Manga; Cláudio, Figueroa, Marinho Peres e Vacaria; Caçapava, Falc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-086</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-086</field>
+<field name="date">940813</field>
+<text_pt>
 77 O São Paulo derrotou, nos pênaltis, um Atlético/MG favorito, mas nervoso. Durante o jogo, o meia Ângelo sofreu falta de Neca e depois foi pisado pelo volante Chicão. Uma fratura não lhe permitiu jogar bem nunca mais. Esse foi o tricampeonato do treinador Rubens Mineli. Curiosamente, o Botafogo, invicto, foi eliminado no desempate pelo Atllético, nas semifinais.
 Campeão - São Paulo
 Final - Atlético/MG 0 x 0 São Paulo (Mineirão). Nos pênaltis, São Paulo 3 x 2.
@@ -1519,9 +1519,9 @@ Time da Final - Benítez; João Carlos, Mauro Pastor (Beliato), Mauro Galvão e Clá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-087</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-087</field>
+<field name="date">940813</field>
+<text_pt>
 80 Pela primeira vez na história do Brasileiro, diminuiu o número de participantes, que caiu de 96 para 44. Comandado por Zico, o Flamengo conquistou seu primeiro título nacional, em uma final emocionante contra o Atlético Mineiro. O time carioca vencia por 2 a 1 quando o centroavante atleticano Reinaldo, mesmo contundido, empatou a partida. Nunes marcou o gol decisivo a oito minutos do fim. No ano seguinte, o Flamengo seria campeão sul-americano e mundial.
 Campeão - Flamengo
 Final - Flamengo 3 x 2 Atlético/MG (Maracanã)
@@ -1539,9 +1539,9 @@ Time da final - Raul; Leandro (Antunes), Figueiredo, Marinho e Júnior; Andrade, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-088</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-088</field>
+<field name="date">940813</field>
+<text_pt>
 83 Pela primeira vez, o regulamento repetiu o do ano anterior, com 44 times, sendo quatro saídos da Taça de Prata. O Santos só disputou o torneio por convite da CBF e chegou à final com a melhor campanha. Mas a torcida do Flamendo lotou o Maracanã e os santistas não resistiram. No fim da partida, descontrolados, os jogadores do antos brigaram om fotógrafos que haviam invadido o campo.
 Campeão - Flamengo
 Final - Flamengo 3 x 2 Santos (Maracanã)
@@ -1559,9 +1559,9 @@ Time campeão - Rafael; André, Gomes, Heraldo e Dida; Almir (Vavá), Marildo (Marc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-089</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-089</field>
+<field name="date">940813</field>
+<text_pt>
 86 O doping de Carlos Alberto, do Sergipe, contra o Joinville, mudou tudo. O Joinville pediu os pontos, o que eliminaria o Vasco. A CBF tirou a Portuguesa, sob pretexto de ter ido à Justiça comum. No fim, o regulamento foi alterado e todos se classificaram. Essa foi uma das finais mais emocionantes da história do Brasileiro. O Guarani marcou primeiro aos 2min, com gol contra de Nelsinho, e Bernardo empatou aos 9min do primeiro tempo. Pita virou o jogo a 1 min e Marco Antonio Boiadeiro empatou aos 7min do primeiro tempo da prorrogação e no segundo, João Paulo fez aos 2min e Careca aos 13min.
 Campeão - São Paulo
 Final - Guarani 3 x 3 São Paulo (Brinco de Ouro); nos pênaltis, São Paulo 4 x 3
@@ -1579,16 +1579,16 @@ Time campeão - Ronaldo; Tarantini, João Marcelo, Claudir (Newmar) e Paulo Róbson
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-090</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-090</field>
+<field name="date">940813</field>
+<text_pt>
 Os baixos índices (6% para ambos) na última pesquisa Datafolha tiveram má repercussão junto aos candidatos do PDT e PMDB. Brizola disse que seria "atrevimento" acreditar em virada como a que conseguiu na eleição para governador em 82. Quercistas temem debandada de prefeitos do PMDB para a candidatura FHC.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-091</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-091</field>
+<field name="date">940813</field>
+<text_pt>
 Da Sucursal de Brasília
 Qual é a função do Senado?
 A função do Senado é representar a federação, ou seja, os Estados e o Distrito Federal no Congresso Nacional. A Câmara dos Deputados representa a população.
@@ -1615,9 +1615,9 @@ A coluna PERGUNTAS E RESPOSTAS é publicada aos sábados
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-092</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-092</field>
+<field name="date">940813</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Gente, o Cid Moreira tá a cara do fiscal do Sarney!
@@ -1629,9 +1629,9 @@ E se eu fosse a Regina Duarte aproveitava esses almoços tucanos pra falar: eu es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-093</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-093</field>
+<field name="date">940813</field>
+<text_pt>
 EDNA DANTAS
 Da Sucursal do Rio
 O candidato da coligação PSDB-PFL-PTB à Presidência da República, senador Fernando Henrique Cardoso, deixou de lado o discurso político para falar, ontem, em "bom sociologuês" sobre suas propostas para o esporte.
@@ -1642,9 +1642,9 @@ Esta vinculação com o esporte, na avaliação do candidato, permitiu que os negros
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-094</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-094</field>
+<field name="date">940813</field>
+<text_pt>
 A TV Ponta Negra, afiliada do SBT em Natal (RN), foi retirada ontem do ar pelo TRE, durante o programa "Aqui Agora" (de 12h15 às 13h).
 Segundo o juiz coordenador da propaganda eleitoral, Amauri de Sousa, o dono da televisão, o ex-senador Carlos Alberto de Sousa, candidato do PFL a deputado federal, fez propaganda política fora do horário eleitoral.
 O programa que provocou a punição foi levado ao ar no dia 1º de junho. Uma reportagem mostrou a visita do ex-senador à Câmara Municipal de Natal, onde ele iniciou a carreira política.
@@ -1652,17 +1652,17 @@ Sousa disse ontem que "decisão judicial não se discute, apenas cumpre-se". Na re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-095</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-095</field>
+<field name="date">940813</field>
+<text_pt>
 O PSB tem encontrado dificuldades com a voz do seu candidato ao governo de Pernambuco, Miguel Arraes.
 Nos programas eleitorais, a fala de Arraes é quase inaudível. Um apresentador repete os principais trechos do que ele diz e suas palavras são legendadas na TV. O coordenador da campanha, Izael Nóbrega, alega incompatibilidade entre os equipamentos de gravação e de geração do som.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-096</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-096</field>
+<field name="date">940813</field>
+<text_pt>
 O vigilante Paulo Roberto Espírito Santo, 27, foi preso quarta à noite colando cartazes eleitorais nos postes elétricos de Alfredo Marcondes (SP).
 O delegado Glauco Moreira considerou o ato crime inafiançável porque Paulo Roberto cumpria, em liberdade, a pena de sete anos por furto. A lei eleitoral considera irregular propaganda em locais públicos. Segundo Moreira, o vigilante só poderá ser liberado pela Justiça Eleitoral.
 
@@ -1672,9 +1672,9 @@ O candidato a governador do Maranhão pelo PSD, Ricardo Murad, está acampado em f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-097</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-097</field>
+<field name="date">940813</field>
+<text_pt>
 Candidato faz seu maior comício em cidade-sede de evento católico; bispo de Capecó (SC) subiu no palanque
 EUMANO SILVA
 Enviado especial a Chapecó (SC)
@@ -1696,9 +1696,9 @@ De Chapecó, Lula seguiu para Ribeirão Preto (SP), onde faria comício. Também est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-098</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-098</field>
+<field name="date">940813</field>
+<text_pt>
 Da enviada especial a Blumenau (SC)
 O presidente do TSE (Tribunal Superior Eleitoral), ministro Sepúlveda Pertence, disse ontem que o "bônus (eleitoral) se tornou o recibo mais caro do mundo".
 A produção e impressão custou aos cofres públicos R$ 6 milhões. "Nunca compreendi muito o bônus sem o incentivo fiscal", disse.
@@ -1707,9 +1707,9 @@ Pertence afirmou que a eleição presidencial vem seduzindo a mídia, deixando a es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-099</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-099</field>
+<field name="date">940813</field>
+<text_pt>
 Da Sucursal de Brasília
 Walter Queiroz, do PRN, anunciou ontem que está fora da disputa pela Presidência. Queiroz afirmou ter renunciado por não aceitar ser "garoto-propaganda" do ex-presidente Fernando Collor.
 O PRN está praticamente fechado para lançar novo candidato. O mais cotado para a vaga é Ciro Moura, 47, presidente do partido em São Paulo. A decisão ficou para a próxima semana.
@@ -1718,9 +1718,9 @@ O PRN já havia decidido sobre a expulsão do ex-candidato. A justificativa oficia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-100</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-100</field>
+<field name="date">940813</field>
+<text_pt>
 Da Reportagem Local
 A TV Record recomendou aos participantes dos seus programas jornalísticos que sejam cautelosos nos comentários sobre os candidatos às eleições e que sigam estritamente a legislação eleitoral.
 O motivo da orientação foi a suspensão do programa "Record em Notícias", determinada na quarta-feira pelo juiz Celso Pimentel, do Tribunal Regional Eleitoral (TRE) de São Paulo.
@@ -1733,9 +1733,9 @@ Apesar de discordar da lei eleitoral, a Record diz que vai se submeter a ela até
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-101</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-101</field>
+<field name="date">940813</field>
+<text_pt>
 PLÍNIO FRAGA
 Da Sucursal do Rio
 Líder em todas as faixas de renda e escolaridade, o candidato ao governo do Estado do Rio pelo PSDB, Marcello Alencar, mantém 13 pontos percentuais de frente em relação ao segundo colocado, Anthony Garotinho (PDT), conforme pesquisa Datafolha realizada nos dias 8 e 9 de agosto.
@@ -1755,9 +1755,9 @@ Alencar obtém taxas altas ainda entre os eleitores de Brizola (28% deles afirmam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-102</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-102</field>
+<field name="date">940813</field>
+<text_pt>
 Da enviada especial a Blumenau (SC)
 A apuração dos votos só vai começar no dia seguinte ao da eleição. O TSE (Tribunal Superior Eleitoral) vai baixar resolução determinando que as urnas só sejam abertas no dia 4 de outubro, às 8h.
 O presidente do TSE, ministro Sepúlveda Pertence, afirmou que a medida será necessária porque a votação deve atrasar em várias seções eleitorais.
@@ -1771,9 +1771,9 @@ A repórter FLÁVIA DE LEON viaja a convite da Prefeitura de Blumenau.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-103</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-103</field>
+<field name="date">940813</field>
+<text_pt>
 JOSÉ ROBERTO DE TOLEDO
 Editor do Painel
 Em duas semanas, Fernando Henrique superou Lula no Distrito Federal e em três Estados onde perdia ou empatava com o petista na intenção de voto para o 2º turno: Rio, Bahia, Ceará.
@@ -1785,9 +1785,9 @@ Explica-se: no Nordeste e nas pequenas cidades o real demorou mais para fazer se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940813-104</text_pt>
-<text_pt name="date">940813</text_pt>
-<text_pt name="text">
+<field name="id">FSP940813-104</field>
+<field name="date">940813</field>
+<text_pt>
 Segunda fase da Campanha Nacional de Multivacinação acontece hoje das 8h às 17h em 150 mil postos em todo o país
 Da Reportagem Local
 A segunda fase da Campanha Nacional de Multivacinação deve atingir hoje 18 milhões de crianças de até 5 anos em todo o país, distribuindo 30 milhões de doses da vacina Sabin, contra a pólio.

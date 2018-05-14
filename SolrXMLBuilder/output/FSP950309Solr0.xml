@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950309-001</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-001</field>
+<field name="date">950309</field>
+<text_pt>
 A instabilidade atual nos mercados financeiros exige nervos de aço. Os movimentos especulativos ainda predominam depois de anunciado o novo regime cambial, numa autêntica queda de braço entre o Banco Central e os mercados.
 Há algumas semanas dizia-se que Argentina e Brasil eram bem diferentes do México. Agora já não é tão fácil distinguir a Argentina, em meio aos apelos do presidente e do outrora confiante Cavallo para que a população não compre dólares para colocar debaixo do colchão.
 No Brasil, sempre se apontou o estoque de reservas internacionais como a garantia maior de estabilidade cambial. Entretanto, justamente após a redefinição do regime cambial o Banco Central deu a entender que estaria pouco propenso a perder reservas. Entre os indícios dessa disposição implícita está, em primeiro lugar, a enorme discrepância entre as estimativas de dólares que o BC anuncia ter vendido na terça-feira à vista e as que circulam pelo mercado &#151;de US$ 300 milhões, diz o BC, a mais de US$ 1 bilhão, noutras versões.
@@ -14,9 +14,9 @@ Se o Brasil é diferente, no tiroteio o xerife não pode piscar.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-002</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-002</field>
+<field name="date">950309</field>
+<text_pt>
 O resultado da reunião da bancada peemedebista anteontem suscita reflexões sobre a distância entre manifestações oportunas e oportunistas dos parlamentares.
 O maior partido do Congresso quer que o governo apresente provas de que a abertura econômica não vai colocar o Brasil no caminho do México. É certo que o Legislativo não existe para chancelar medidas do Planalto. Ademais, a reforma é complexa o suficiente para admitir um extenso debate político.
 Essas ressalvas se limitam, porém, à ordem da razão &#151;isto é, soam ingênuas para os acostumados a lidar com a "realpolitik" brasileira. Ontem, parlamentares que supostamente apóiam Fernando Henrique Cardoso anunciavam que não há base governista no Congresso e que a aprovação das reformas terá de ser obtida "voto a voto".
@@ -26,9 +26,9 @@ Apesar do desalento de ver o Legislativo começar suas atividades com algumas ati
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-003</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-003</field>
+<field name="date">950309</field>
+<text_pt>
 A Prefeitura de São Paulo ofereceu ontem um exemplo surpreendente e acabado de falta de senso de oportunidade. Mais, de falta de senso de responsabilidade.
 O secretário municipal de Transportes, Walter Coronado Antunes, afirmou que a tarifa de ônibus na cidade deve ser aumentada de R$ 0,50 para R$ 0,65 em 1º de maio &#151;majoração de nada menos do que 30%. Segundo ele, essa será aproximadamente a inflação acumulada desde o último aumento das passagens no município.
 Chama desde logo a atenção o despropósito de avisar agora sobre um aumento que se considera fazer daqui a quase dois meses. Agora, quando o país atravessa um período de especial turbulência, no qual todo empenho em prol da estabilização é mais do que necessário.
@@ -39,9 +39,9 @@ O intempestivo anúncio não causou dano apenas à imagem da prefeitura. Prejudicou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-004</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-004</field>
+<field name="date">950309</field>
+<text_pt>
 Clóvis Rossi 
 COPENHAGUE &#151; Era uma vez um presidente que disse, em seu discurso de posse, que a questão social seria a sua prioridade número um. Aí, o mundo organiza uma conferência de cúpula sobre a questão social. O presidente comparece, certo?
 Era uma vez um presidente (o mesmo) cujo chanceler anunciou que o novo governo praticaria a "diplomacia presidencial". Em outras palavras, o próprio presidente se incumbiria dos grandes contatos internacionais, do diálogo direto com os chefes de Estado/governo.
@@ -55,9 +55,9 @@ Se esse alguém, ainda por cima, é capaz de se expressar em inglês, francês e esp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-005</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-005</field>
+<field name="date">950309</field>
+<text_pt>
 Gilberto Dimenstein 
 BRASÍLIA &#151; Cautelosamente, o governo preparou ontem terreno para uma má notícia: a inflação deste mês vai talvez superar os 2%. Até pouquíssimo tempo, seria uma ótima novidade. Antes da implantação do real, os preços estavam nas alturas. O fato: o governo Fernando Henrique Cardoso sofre o ônus do sucesso. Explico melhor.
 O ministro Pedro Malan esteve ontem na Câmara, onde disse esperar subida do índice de preços, prevista em 2% pela Fipe. Mais um fator a nutrir a crônica desconfiança nacional.
@@ -71,9 +71,9 @@ PS &#151; Não é nada fácil negociar com o Congresso, onde se produzem cenas expl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-006</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-006</field>
+<field name="date">950309</field>
+<text_pt>
 Carlos Heitor Cony 
 RIO DE JANEIRO &#151; A primeira vontade foi escrever "megaguarda-livros". Merecer eles merecem, mas o leitor deve ser poupado do cacófato. Desde a implantação do Plano Cruzado, desfilam pela mídia variados representantes da nobilíssima classe que antigamente andava nos grotões dos escritórios e repartições, a pala de celulóide verde protegendo as vistas fatigadas pelas colunas de números.
 Políticos, empresários e técnicos foram enxotados para os bastidores, deixando o palco para a turma que aprendeu a prever o déficit ou o superávit na base do "alguma coisa entre" dez ou nove. A diferença é que falam em trilhões, em nuvem globalizada que vai de um a outro mercado. O ser humano, pobre ou rico, fica esmagado diante de fatores que ninguém domina: somente os guarda-livros, meteorologistas de catástrofes, depois do vendaval explicam que houve vendaval.
@@ -84,9 +84,9 @@ No Rio, nunca foi tão curto o caminho entre o Primeiro Mundo dos camarotes, da p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-007</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-007</field>
+<field name="date">950309</field>
+<text_pt>
 Eleonora de Lucena 
 Depois de tentar escamotear o problema durante meses, o governo acabou reconhecendo o fato na segunda-feira: a crise desencadeada pela falência mexicana é um desastre para o real.
 A confissão veio na forma de desvalorização da moeda, anunciada no embrulho do sistema de "bandas de flutuação". Com reservas cambiais em queda, gastos com importação em alta e fuga de capital, a saída foi o Real 2.
@@ -105,9 +105,9 @@ Eleonora de Lucena é secretária de Redação da Folha. Hoje, excepcionalmente, dei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-008</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-008</field>
+<field name="date">950309</field>
+<text_pt>
 Empresas têm aumentado a sua produção com quedas reais nos preços de seus produtos 
 CARLOS EDUARDO MOREIRA FERREIRA 
 A atividade industrial em São Paulo vem demonstrando maior vigor nos últimos dois anos, tendo crescido mais de 20% em relação a 1992, segundo os levantamentos da Fiesp (Federação das Indústrias do Estado de São Paulo). Em termos nacionais, acrescenta o IBGE que a produção da indústria bateu um recorde histórico ao crescer em dezembro último, em relação ao mesmo mês do ano anterior, nada menos de 17,2%.
@@ -129,9 +129,9 @@ CARLOS EDUARDO MOREIRA FERREIRA, 56, empresário, é presidente da Fiesp/Ciesp (Fe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-009</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-009</field>
+<field name="date">950309</field>
+<text_pt>
 A escolha que se impõe é: monopólio estatal do petróleo ou o oligopólio formado pelas Seis Irmãs 
 RAYMUNDO DE OLIVEIRA 
 Não se pode olhar o mundo de hoje com os olhos de ontem. Muita coisa mudou e mudou profundamente!
@@ -157,9 +157,9 @@ RAYMUNDO DE OLIVEIRA, 54, engenheiro eletricista, é presidente do Clube de Engen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-010</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-010</field>
+<field name="date">950309</field>
+<text_pt>
 "O caderno especial Real 2 foi competente, oportuno e objetivo. Um serviço de primeira classe aos leitores."
 Mauro Salles, publicitário (São Paulo, SP)
 
@@ -204,9 +204,9 @@ José Pinto da Silva (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-011</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-011</field>
+<field name="date">950309</field>
+<text_pt>
 Aliados do presidente não crêem em voto partidário nas reformas 
 Da Sucursal de Brasília 
 Líderes governistas não se arriscam a contar o número de aliados que o presidente Fernando Henrique Cardoso reúne no Congresso Nacional dois meses após a posse e em pleno processo de debate da reforma da Constituição.
@@ -225,9 +225,9 @@ Rigotto insiste, porém, que eventuais resistências poderão ser compensadas com v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-012</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-012</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo obteve ontem a primeira vitória na tramitação das emendas que modificam o capítulo da Ordem Econômica da Constituição. Apesar da larga margem de votos favoráveis a três das cinco emendas, foram necessárias oito horas de debates para a aprovação dos pareceres.
 O líder do governo na Câmara, Luiz Carlos Santos (PMDB&#151;SP), afirmou que a oposição votou "coesa, com coerência e agiu com correção, pois apesar de votarem contra, não impediram a sessão".
@@ -240,9 +240,9 @@ Da base governista, só os deputados do PMDB, Udson Bandeira (TO) e Gilvan Freire
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-013</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-013</field>
+<field name="date">950309</field>
+<text_pt>
 Recado foi dado a deputado na Câmara 
 Da Sucursal de Brasília 
 A primeira-dama Ruth Cardoso demonstrou sinais de descontentamento ontem na sessão em homenagem ao Dia da Mulher realizada pela Câmara.
@@ -257,9 +257,9 @@ Depois da sessão, grupos de mulheres que participaram da homenagem soltaram cerc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-014</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-014</field>
+<field name="date">950309</field>
+<text_pt>
 Não são necessárias grandes análises técnicas para perceber que há um quadro completamente novo. E não por decorrência propriamente econômico-financeira da pequena desvalorização do real, mas pela exploração dela como pretexto para aumentos descriteriosos de preços e, com eles, da inflação.
 O avanço dos preços entre o lançamento da URV e a introdução do real deu-lhes larga margem para absorver, mesmo no caso de produtos diretamente condicionados pelo valor do dólar, os modestos 2,8% acrescidos a este valor na segunda-feira. Àquele avanço dos preços, acrescente-se o aumento da produtividade, que tem permitido à indústria produzir mais com o mesmo custo. Os balanços do segundo semestre de 93 e os indicadores deste começo de ano documentam a largueza da margem de lucros para absorver, sem problemas, algum aumento de custo e assim manter a inflação em nível baixo.
 Desde a desvalorização do real, porém, o que mais se ouve de empresários, quando entrevistados sobre a medida, é o seu alegado efeito sobre os preços. E o governo não se mostra preparado para enfrentar, de verdade, este anunciado retorno ao hábito empresarial de utilizar qualquer pretexto, por mais insustentável que seja, para fazer aumentos. É da natureza do Plano Real a liberdade de preços. É da natureza dos mentores do plano não incomodar o grande empresariado, ou seja, os tradicionais puxadores dos preços. É sugestivo e chega a ser engraçado, neste sentido, o nome dado à secretaria da Fazenda incumbida dos preços: Secretaria de Acompanhamento de Preços. É tudo, mesmo, que o secretário José Milton Dallari faz: acompanha os aumentos.
@@ -269,9 +269,9 @@ Já era esperado para março algum crescimento da inflação &#151;o qual, aliás, co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-015</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-015</field>
+<field name="date">950309</field>
+<text_pt>
 Ministro da Marinha diz que conversará com ministros da área econômica 
 Da Sucursal de Brasília 
 Os militares vão pressionar a área econômica para que pague antecipação de 40% do salário do funcionalismo já no dia 20 de abril. A MP (medida provisória) que mudou a data de pagamento do funcionalismo condicionou essa iniciativa à disponibilidade de recursos.
@@ -286,9 +286,9 @@ Mauro Pereira confirmou a insatisfação das tropas. "A melhor solução para quem g
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-016</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-016</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 A CSPB (Confederação dos Servidores Públicos do Brasil) decidiu convocar uma greve dos servidores públicos contra a decisão do presidente Fernando Henrique Cardoso de não pagar mais os salários durante o mês de trabalho, mas apenas no mês seguinte. A data da paralisação não foi definida.
 O governo anunciou a medida junto com a desvalorização do real, anteontem. 
@@ -299,9 +299,9 @@ A CSPB considera que cerca de quatro milhões de servidores públicos municipais e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-017</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-017</field>
+<field name="date">950309</field>
+<text_pt>
 NELSON DE SÁ 
 Da Reportagem Local 
 Para a mesma "violência na madrugada", mais uma, aliás, as redes cariocas Globo e Manchete deram versões bem diversas. A versão da Globo:
@@ -327,9 +327,9 @@ No empurra-empurra, fica no ar a acusação. Para a fritura à paulista, é o que ba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-018</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-018</field>
+<field name="date">950309</field>
+<text_pt>
 Texto restringe a 6% taxa real da agricultura e será submetido à Câmara 
 Da Sucursal de Brasília 
 O Senado Federal aprovou ontem projeto de lei complementar limitando a taxa de juros reais &#151;acima da inflação&#151; praticada pelo sistema financeiro nacional em 12% ao ano.
@@ -346,18 +346,18 @@ O projeto estabelece que a cobrança de juros acima dos limites de 12% ao ano con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-019</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-019</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 Banqueiros criticaram a limitação das taxas de juros. Antonio Hermann, presidente da Associação Brasileira dos Bancos Comerciais e Múltiplos, disse que que a aprovação "é um absurdo". Para ele, a crise internacional e a tensão no mercado financeiro doméstico "demonstram que o momento para essa aprovação é o pior possível". Segundo ele, foi "falta de responsabilidade e de oportunidade".
 Para José Baía Sobrinho, presidente do Banco Pontual, "tabelar juro em uma economia que está saindo da indexação seria uma imprevidência. Se for juro real, o BC precisa definir o que é juro real".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-020</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-020</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo resolveu cruzar os dados que dispõe sobre funcionalismo público para evitar o pagamento a "fantasmas" e de servidores que estejam em situação irregular.
 Decreto publicado ontem no "Diário Oficial da União" estabelece que, a partir do dia 2 de junho, somente receberão recursos do Tesouro Nacional as empresas da administração direta, autárquica e fundacional que tiverem seus dados tanto no Sistema Integrado de Administração de Recursos Humanos (Siape) como no Sistema Integrado de Administração Financeira (Siafi).
@@ -371,9 +371,9 @@ Estes limites incidirão nas despesas com pessoal ativo e inativo da administraçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-021</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-021</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local e da Agência Folha, em Santos 
 Em assembléia que terminou ontem às 21h30, os funcionários do setor administrativo da Codesp (Companhia Docas do Estado de São Paulo) decidiram acabar com a greve iniciada na última segunda feira. Eles voltam ao trabalho às 7h de hoje.
 A decisão, "tomada por 80% dos 700 participantes da assembléia", segundo o diretor Alberto Henrigues, 50, não cumpre integralmente a determinação do TRT (Tribunal Regional do Trabalho). 
@@ -387,9 +387,9 @@ A Codesp avalia ter deixado de arrecadar R$ 3,6 milhões em taxas. Segundo o Mini
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-022</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-022</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 A polêmica sobre os 26,05% é antiga. Começou em 1989, quando os funcionários administrativos da Companhia Docas do Estado de São Paulo entraram na Junta de Conciliação e Julgamento de Santos pedindo o aumento. Ganharam a ação.
 A Codesp recorreu ao Tribunal Regional do Trabalho (TRT) de São Paulo e perdeu a ação.
@@ -402,9 +402,9 @@ O advogado da Codesp, Rubens Ferrari, disse que faria um relatório à diretoria d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-023</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-023</field>
+<field name="date">950309</field>
+<text_pt>
 Medida Provisória editada ontem permite ao governo financiar rombo do Tesouro, que em fevereiro foi de R$ 1,7 bi  
 VIVALDO DE SOUSA 
 Da Sucursal de Brasília 
@@ -423,9 +423,9 @@ Portugal disse que o objetivo não é melhorar o resultado das contas públicas, ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-024</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-024</field>
+<field name="date">950309</field>
+<text_pt>
 MARTA SALOMON 
 Da Sucursal de Brasília 
 A decisão do governo de cobrir parte do déficit público com dinheiro da Previdência Social colocou sob suspeição no Congresso os números da crise financeira do sistema de aposentadorias e pensões, que o presidente Fernando Henrique Cardoso quer reformar.
@@ -441,18 +441,18 @@ Oficialmente, os projetos deveriam sustentar o aumento real (acima da inflação) 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-025</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-025</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo resolveu cruzar os dados de que dispõe sobre funcionalismo para evitar o pagamento de "fantasmas" e de servidores que estejam em situação irregular.
 Decreto publicado ontem no "Diário Oficial da União" estabelece que, a partir de 2 de junho, somente receberão recursos do Tesouro as empresas da administração direta, autárquica e fundacional que tiverem seus dados tanto no Sistema Integrado de Administração de Recursos Humanos (Siape) como no Sistema Integrado de Administração Financeira (Siafi).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-026</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-026</field>
+<field name="date">950309</field>
+<text_pt>
 CLÓVIS ROSSI 
 Enviado especial a Copenhague 
 A ausência do presidente Fernando Henrique Cardoso à Cúpula Mundial sobre o Desenvolvimento Social, em Copenhague, está causando tanto mal-estar que os dois senadores brasileiros presentes enviaram ontem um fax urgente pedindo que FHC venha.
@@ -468,9 +468,9 @@ Reforça Átila Roque (Ibase, Instituto Brasileiro de Análise Social e Econômica, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-027</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-027</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso deu um prazo de 90 dias para que as ministérios, autarquias, fundações e empresas estatais federais reavaliem e renegociem todos os contratos e licitações em andamento.
 O prazo foi determinado em decreto publicado ontem pelo "Diário Oficial da União", assinado pelo presidente e pelos ministros José Serra (Planejamento) e Bresser Pereira (Administração).
@@ -488,9 +488,9 @@ Por trás da decisão, está a avaliação de que a grande maioria dos contratos está
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-028</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-028</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local e da Agência Folha, em Santos 
 MARCUS FERNANDES 
 Da Agência Folha, em Santos 
@@ -503,9 +503,9 @@ Além disso foi decidido que os trabalhadores deveriam retornar ao trabalho ontem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-029</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-029</field>
+<field name="date">950309</field>
+<text_pt>
 De Paris 
 O brasileiro Christian Meyer voltou a afirmar ontem à Folha, por telefone, em Paris, que a imprensa publicou "uma série de detalhes incorretos" a seu respeito.
 Meyer, que é acusado de ter colaborado com a agente da CIA Mary-Ann Baumgartner, afirmou que houve "calúnia e difamação da parte de jornalistas".
@@ -514,9 +514,9 @@ Ele disse que foi assessor do ex-governador do Amazonas Gilberto Mestrinho. "Não
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-030</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-030</field>
+<field name="date">950309</field>
+<text_pt>
 Os dois primeiros fascículos serão distribuídos no domingo 
 Da Reportagem Local 
 O rompimento com o eurocentrismo &#151;tendência de analisar a história a partir da visão dos europeus&#151; é uma das principais preocupações do atlas histórico Folha/"The Times".
@@ -533,9 +533,9 @@ Segundo ele, o Oswald &#151;que desde seu surgimento buscou abordagens pedagógic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-031</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-031</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O senador Antônio Carlos Magalhães (PFL-BA) desistiu de convocar o ministro Luiz Felipe Lampreia (Relações Exteriores) para depor sobre a existência de um "caixa dois" nas embaixadas brasileiras.
 Magalhães, presidente da Comissão de Relações Exteriores do Senado, disse que em vez da convocação mandaria ontem um pedido de esclarecimentos a Lampreia. A resposta pode ser por escrito.
@@ -546,9 +546,9 @@ Exceto por esta viagem, as auditorias que o TCU realizou no exterior nos últimos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-032</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-032</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 O programa de TV que o PT apresenta hoje à noite em cadeia nacional faz um balanço dos 15 anos do partido e críticas ao governo Fernando Henrique Cardoso. No início do programa, sindicalistas e intelectuais falam da fundação do PT.
 Luiz Inácio Lula da Silva, presidente nacional do partido, aparece em cenas gravadas no estádio da Vila Euclides, em São Bernardo do Campo, palco das greves dos metalúrgicos, no final da década de 70, que deram origem ao PT.
@@ -559,9 +559,9 @@ O "modo petista de governar" também será abordado no programa. Os prefeitos de P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-033</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-033</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 A CCJ (Comissão de Constituição e Justiça) do Senado adiou para quarta-feira a decisão sobre a abertura ou não de processo contra o senador Ernandes Amorim (PDT-RO), por quebra de decoro parlamentar (comportamento incompatível com a função).
 O relator, Josaphat Marinho (PFL-BA), votou pela admissibilidade das representações contra Amorim, encaminhadas pelo PT e PSDB, e defendeu o processo legislativo de investigação.
@@ -571,9 +571,9 @@ O senador Esperidião Amin (PPR-SC), no entanto, argumentou que o Senado estaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-034</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-034</field>
+<field name="date">950309</field>
+<text_pt>
 Da "FT" 
 Os deputados estaduais aprovaram ontem à noite, em apenas quatro segundos, projeto criando 370 cargos &#151;sem concurso&#151; para gabinetes, lideranças e Mesa Diretora da Assembléia. Os salários serão de R$ 2.140, totalizando um gasto mensal de R$ 791.800.
 Na verdade, a votação foi apenas simbólica. Os partidos já tinham acertado a aprovação do projeto em reunião entre os líderes. A partir do dia 15, data da posse dos novos 94 deputados, os parlamentares já poderão fazer as contratações.
@@ -583,9 +583,9 @@ Outro suplente, Mauro Puerro (PSTU), concorda com a opinião de Machado e acha qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-035</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-035</field>
+<field name="date">950309</field>
+<text_pt>
 A CCJ (Comissão de Constituição e Justiça) do Senado adiou para quarta-feira a decisão sobre a abertura ou não de processo contra o senador Ernandes Amorim (PDT-RO). Ele é acusado de narcotráfico, desacato, apologia do crime e exploração de minério sem licença federal.
 
 PT comemora seus 15 anos na TV e critica presidente 
@@ -599,9 +599,9 @@ O ex-presidente Itamar Franco não foi ontem ao lançamento do livro "Itamar, o Ho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-036</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-036</field>
+<field name="date">950309</field>
+<text_pt>
 JAIR RATTNER 
 De Lisboa 
 A Igreja Universal do Reino de Deus, do bispo Edir Macedo, conseguiu ter um partido em Portugal. Ontem foi aprovado pelo Tribunal Constitucional português o registro do Partido da Gente.
@@ -615,9 +615,9 @@ A última contagem feita nos cultos, em agosto de 1994, indicou que havia de cerc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-037</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-037</field>
+<field name="date">950309</field>
+<text_pt>
 FERNANDO MOLICA 
 Da Sucursal do Rio 
 O juiz-auditor Francisco Fernandes aprovou pedido de novas diligências para a apuração de supostos casos de tortura durante ocupação do morro do Borel, na Tijuca, zona norte do Rio.
@@ -633,9 +633,9 @@ A procuradora solicitou que sejam identificados e ouvidos os militares que parti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-038</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-038</field>
+<field name="date">950309</field>
+<text_pt>
 Da FT 
 O secretário da Fazenda do Estado, Yoshiaki Nakano, disse ontem na CEI (Comissão Especial de Inquérito) que investiga a situação financeira do Banespa, que o governo paulista terá de cortar 40% das despesas do banco para saneá-lo, evitando sua privatização.
 "A medida pode levar ao corte de pessoal", admitiu Nakano. O Banespa tem hoje quase 35 mil funcionários.
@@ -650,9 +650,9 @@ Na época das transações, Altino era o delegado do BC em São Paulo. Segundo ele, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-039</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-039</field>
+<field name="date">950309</field>
+<text_pt>
 O Mappin vai emitir R$ 30 milhões em commercial paper com resgate em 120, 150 e 180 dias. A emissão, a primeira feita pelo Mappin, foi aprovada ontem pela CVM (Comissão de Valores Imobiliários). A medida, diz o diretor Sérgio Orciuolo, visa a captação de capital de giro. A emissão foi negociada com um pool de bancos, liderados pelo Bradesco, e a taxa de juros não foi revelada.
 
 Operador do Barings vai colaborar com Inglaterra 
@@ -660,9 +660,9 @@ Os advogados do operador inglês Nick Leeson, acusado de provocar a falência do b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-040</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-040</field>
+<field name="date">950309</field>
+<text_pt>
 Banco Central acalma mercados de câmbio e juros, mas não evita que Bolsas desabem 
 JOÃO CARLOS DE OLIVEIRA 
 FIDEO MIYA 
@@ -685,9 +685,9 @@ A necessidade de proteção e as apostas sobre a nova trajetória dos juros provoca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-041</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-041</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 O Banco Central vai retirar de circulação da economia cerca de R$ 1,8 bilhão nos próximos dias 4 e 5 de maio, quando serão feitas as liquidações dos leilões a termo de dólares realizadas ontem e anteontem, pela cotação de R$ 0,93.
 No leilão de anteontem, o BC vendeu US$ 1,5 bilhão e outros US$ 470 milhões ontem, segundo estimativa de Noemi Tomitsuka, do Banco de Boston.
@@ -698,9 +698,9 @@ Esse, porém, não foi o objetivo principal dos leilões, ressalvou o diretor finan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-042</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-042</field>
+<field name="date">950309</field>
+<text_pt>
 JÚLIO LOBOS 
 "Toda empresa deverá convencionar com seus empregados, por meio de comissão por eles escolhida, a forma de participação daqueles em seus lucros e resultados".
 Assim reza uma das principais partes da MP (medida provisória) 915, sobre a Participação dos Trabalhadores nos Lucros ou Resultados das Empresas (ou PTLRE), que acaba de ser reeditada. Caberia, portanto, diretamente aos empregados, junto com a empresa, a definição dos termos do plano de PTLRE. (A versão original, MP 794, lembramos, favorecia a negociação coletiva, deixando implícita a presença sindical. A primeira reedição, via MP 860, ocorrida em janeiro, já modificava isto. O fato de a MP 915 insistir nestes termos sinaliza a firme disposição do governo no sentido de deixar a PTLRE fora da negociação coletiva, e se possível, fora do alcance dos sindicatos.)
@@ -720,81 +720,81 @@ JÚLIO LOBOS, 49, doutor em Relações Industriais pela Universidade de Cornell (EU
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-043</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-043</field>
+<field name="date">950309</field>
+<text_pt>
 A cesta básica do paulistano teve queda ontem de 0,09%. O custo médio passou para R$ 97,11. No dia anterior era de R$ 97,20. Entre os grupos, a queda mais significativa foi dos produtos de limpeza (0,44%). Os alimentos recuaram 0,13%. O setor de higiene pessoal teve alta de 0,56%.
 A maior alta registrada no dia foi do leite em pó integral Itambé (2,29%). O produto com a queda mais acentuada foi a salsicha avulsa (-4,37%). No mês, até ontem, a cesta básica acumula queda de 0,30%. Os dados são da pesquisa Procon, em convênio com o Dieese, feita em 70 supermercados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-044</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-044</field>
+<field name="date">950309</field>
+<text_pt>
 As exportações brasileiras dependem cada vez menos dos produtos básicos. Em janeiro, as vendas externas de básicos somaram US$ 632 milhões, 27% do total geral do mês. Em janeiro de 80, somavam US$ 426 milhões (32% do total). Entre os industrializados, o crescimento maior ficou para os semimanufaturados, que atingem atualmente 25% do total do setor (20% em janeiro de 80).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-045</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-045</field>
+<field name="date">950309</field>
+<text_pt>
 O movimento financeiro da BM&amp;F (Bolsa de Mercadorias &amp; Futuros) ficou em R$ 161,74 bilhões em fevereiro, contra R$ 221,58 bilhões em janeiro. Em média, os negócios atingiram R$ 8,99 bilhões por dia útil, abaixo dos R$ 10,55 bilhões de janeiro. Apesar da queda do volume financeiro, o total de contratos subiu para 581 mil/dia no mês passado (0,9% mais que janeiro).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-046</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-046</field>
+<field name="date">950309</field>
+<text_pt>
 A produção bruta de papelão ondulado em janeiro foi de 143,73 mil toneladas. Comparada com o mesmo período de 94, registra crescimento de 29,68%. Em relação a dezembro passado, a produção do setor tem alta de 3,11%. Os dados são da ABPO (Associação Brasileira do Papelão Ondulado).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-047</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-047</field>
+<field name="date">950309</field>
+<text_pt>
 O custo médio dos produtos de limpeza, na cesta básica do Procon/Dieese, ficou ontem em R$ 9,15, com diminuição de 0,44% em relação aos R$ 9,19 do dia anterior. Essa foi a terceira queda consecutiva do grupo, que apresenta redução acumulada de 0,22% no mês.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-048</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-048</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 A produtividade (mede a produção por hora trabalhada), dos trabalhadores nos Estados Unidos aumentou 2,2% no ano passado, ante os 1,5% registrados em 1993.
 Os custos de trabalho, que representam uma média de dois terços dos custos de produção, subiram 0,9% em 1994, depois de um incremento de 1,7% no ano anterior. Os especialistas explicam os resultados pelos poucos pedidos de aumento salarial por causa do alto nível de desemprego.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-049</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-049</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 A empresa norte-americana Holiday Inn vai investir entre US$ 30 e US$ 35 milhões na construção de oito hotéis "express" (de serviços limitados) no Chile.
 O primeiro dos estabelecimentos, com um custo de US$ 3,5 milhões e 62 apartamentos, será inaugurado ainda neste mês na cidade de Temuco (600 km ao sul da capital). O plano de construção deve estar concluído em quatro anos. O objetivo é captar viajantes de curta permanência.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-050</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-050</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 A fabricação de produtos manufaturados no Reino Unido caiu 0,6% em janeiro em relação ao mês anterior.
 Com a redução, o crescimento interanual de produtos manufaturados atinge 3% frente os 5,2% anteriores. Os analistas do centro financeiro londrino ficaram decepcionados, pois esperavam um incremento em janeiro de 0,3%. Segundo eles, a queda na produção coloca em dúvida a firmeza da recuperação econômica do setor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-051</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-051</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 O grupo francês Carrefour registrou alta de 29,6% no lucro líquido, somando cerca de US$ 431 milhões em 1994, segundo comunicado divulgado ontem em Paris.
 O faturamento do grupo cresceu 9,5% no ano passado, atingindo aproximadamente US$ 27,3 bilhões. O autofinanciamento do Carrefour aumentou 25,5%, somando US$ 1,2 bilhão e seu endividamento financeiro representou 29,6% dos fundos próprios em 1994, frente aos 41,8% de 1993.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-052</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-052</field>
+<field name="date">950309</field>
+<text_pt>
 LUÍS NASSIF 
 A crise cambial dos últimos dias foi fabricada por um misto de amadorismo e de egotismo. Há um conflito latente no Banco Central, entre seu presidente Pérsio Arida e o diretor da área internacional, Gustavo Franco. Não se dão desde os tempos em que Arida era o professor-prodígio e Franco o aluno-prodígio da Economia da PUC/Rio.
 Ambos são intelectuais competentes, mas o cargo que ocupam é resultado da falta de critérios do presidente da República, que não aprendeu a diferenciar aptidão intelectual de funções operacionais.
@@ -818,9 +818,9 @@ A política cambial é aquela descrita pela coluna de terça: a banda é para valer 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-053</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-053</field>
+<field name="date">950309</field>
+<text_pt>
 SÔNIA MOSSRI 
 De Buenos Aires 
 O presidente Carlos Menem pediu ontem aos argentinos para "não guardar o dinheiro debaixo do colchão". Ele pediu que os poupadores não retirem recursos aplicados no sistema financeiro.
@@ -837,9 +837,9 @@ A crise alcançou o sistema de seguridade social. O Ministério da Economia não es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-054</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-054</field>
+<field name="date">950309</field>
+<text_pt>
 FREDERICO VASCONCELOS 
 Editor do Painel S/A 
 Silvano Valentino, presidente da Fiat, será eleito hoje presidente da Anfavea com o apoio de quem mais tem criticado a atuação agressiva da empresa italiana.
@@ -853,9 +853,9 @@ Outra dificuldade seria encontrar quem pudesse assumir o cargo. Alguns nomes for
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-055</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-055</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 O presidente da Asia Motors Corporation, Cho Rae-Seung, chega ao Brasil hoje para manifestar às autoridades brasileiras a intenção de construir fábrica no país.
 Também a Toyota do Brasil S/A confirmou a intenção, existente há anos, de montar uma nova fábrica de veículos no país.
@@ -867,9 +867,9 @@ Para a produção de peças para o Hilux, a planta de São Bernardo do Campo (SP) da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-056</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-056</field>
+<field name="date">950309</field>
+<text_pt>
 ANTONIO CARLOS SEIDL 
 Da Reportagem Local 
 A Kodak Brasileira espera um aumento de até 15% nas suas vendas este ano no país, disse o presidente mundial da empresa George Fisher.
@@ -883,9 +883,9 @@ O novo sistema -filme em cartucho e máquina fotográfica- é o APS ("Advanced Prot
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-057</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-057</field>
+<field name="date">950309</field>
+<text_pt>
 Média diária de saída passou de US$ 153,6 mi para US$ 160,8 mi 
 GUSTAVO PATÚ 
 ALBERTO FERNANDES 
@@ -906,9 +906,9 @@ Na avaliação do BC, o mercado operou ontem mais tranquilo, porque já é consenso 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-058</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-058</field>
+<field name="date">950309</field>
+<text_pt>
 Da Redação 
 As aplicações em fundos de investimento projetam render mais que a variação cambial de hoje até o dia 2 de maio, quando as faixas de flutuação cambial serão oficialmente alteradas.
 De hoje até 2 de maio, o CDI (Certificado de Depósito Interbancário) projeta uma rentabilidade de 6,84%. Se os fundos de commodities, por exemplo, renderem em média 91% do CDI, chegariam a 2 de maio com uma taxa acumulada bruta de 6,22% e líquida de 5,60%.
@@ -920,9 +920,9 @@ Para evitar que o preço do dólar dispare, o BC comanda sua política de juros no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-059</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-059</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal de Brasília 
 O deputado Delfim Netto (PPR-SP) será convocado pela Comissão de Finanças e Tributação da Câmara para esclarecer as denúncias sobre vazamento de informações do pacote de medidas anunciado segunda pelo governo.
 O jornal "Correio Braziliense" publicou, na sua edição de ontem, declarações do ex-ministro da Fazenda afirmando que o governo federal beneficiou especuladores com informações sobre as mudanças na política cambial.
@@ -936,9 +936,9 @@ Ontem, o ministro Pedro Malan (Fazenda) foi interpelado por Fortunati, na Comiss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-060</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-060</field>
+<field name="date">950309</field>
+<text_pt>
 Nenhuma ação que compõe o índice Bovespa registrou alta; juros voltam a subir com expectativa de inflação maior 
 Da Redação 
 As Bolsas despencaram ontem. O índice Bovespa recuou 9,64%, a segunda maior queda do ano. A anterior foi em 10 de janeiro (-9,86%). O indicador da Bolsa paulista já caiu 46% este ano. O índice Senn (Rio) teve a maior queda do ano (-10,4%).
@@ -983,9 +983,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-061</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-061</field>
+<field name="date">950309</field>
+<text_pt>
 ARROZ 1
 As últimas chuvas no Rio Grande do Sul estão atrapalhando a colheita da safra daquele Estado. Tem chovido em média a cada quatro dias e isso vem dificultando a retirada do produto da lavoura.
 ARROZ 2
@@ -1004,9 +1004,9 @@ Uma frente fria atinge hoje com chuvas fracas e moderadas os Estados de São Paul
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-062</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-062</field>
+<field name="date">950309</field>
+<text_pt>
 SÔNIA MOSSRI 
 De Buenos Aires 
 O ministro da Economia, Domingo Cavallo, começou a negociar, no início da noite de ontem, empréstimo-ponte de US$ 1,5 bilhão com bancos comerciais internacionais. Estes recursos socorreriam o sistema bancário argentino, que tem falta de crédito.
@@ -1021,30 +1021,30 @@ A crise alcançou o sistema de seguridade social. O Ministério da Economia não es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-063</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-063</field>
+<field name="date">950309</field>
+<text_pt>
 O comando militar russo na Tchetchênia começou ontem a negociar a interrupção dos bombardeios sobre as populações civis. Em troca, os separatistas deixariam três povoados tchetchenos. O chanceler francês Alain Juppé chega hoje a Moscou para tentar convencer o governo russo a abandonar os combates. Grupos pacifistas fizeram protestos ontem na cidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-064</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-064</field>
+<field name="date">950309</field>
+<text_pt>
  O secretário de Estado norte-americano, Warren Christopher, chegou ontem ao Cairo, primeira etapa de sua viagem pelo Oriente Médio. Ele pretende retomar as negociações de paz entre Israel e Síria e incentivar o processo de autonomia da Cisjordânia. Ele deve visitar Israel, a faixa de Gaza, Arábia Saudita e Jordânia. Ele não deu declarações no Cairo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-065</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-065</field>
+<field name="date">950309</field>
+<text_pt>
 O explorador Paul-Emile Victor morreu aos 87 anos na ilha de Bora Bora (Pacífico). Ele fez sua primeira viagem às regiões polares em 1934, quando foi à Groenlândia. A última foi em 1987, à Antártida. No total, percorreu 500 mil quilômetros sobre neve e gelo. Ele documentou as regiões polares e seus habitantes em livros, quadros e trabalhos científicos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-066</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-066</field>
+<field name="date">950309</field>
+<text_pt>
 A polícia de Nova York demitiu Carol Shaya-Castro por ter posado nua para a edição de agosto da  Playboy (foto). "A reputação da polícia não está a venda e não há lugar para quem tenta fazê-lo", disse o comissário William Bratton. Shaya-Castro recebeu US$ 100 mil pelas fotos.
 
 Mandela rejeita reunião com Winnie 
@@ -1058,9 +1058,9 @@ O processo de separação de tropas e desmilitarização da fronteira entre Peru e E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-067</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-067</field>
+<field name="date">950309</field>
+<text_pt>
 Da Cidade do México 
 Javier Lozano, bispo do Estado mexicano de Zacatecas (noroeste do país), acusou esta semana o bispo do Estado de Chiapas, Samuel Ruiz, de desviar verbas de sua diocese para o EZLN (Exército Zapatista pela Libertação Nacional), grupo guerrilheiro que atua no sul do México.
 Lozano acredita que a avançada aparelhagem de comunicação utilizada pelo EZLN tenha sido adquirida com dinheiro enviado por uma organização não-governamental (ONG) da Alemanha à diocese de Chiapas, epicentro da revolta dos zapatistas.
@@ -1073,9 +1073,9 @@ A revolta dos zapatistas teve início no governo de Carlos Salinas de Gortari e p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-068</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-068</field>
+<field name="date">950309</field>
+<text_pt>
 ANDREW MARSHALL
 Do "The Independent" 
 O general da reserva Jacques Lefèbvre, 64, cometeu suicídio ontem devido ao escândalo de corrupção que abalou a política belga. Ele foi encontrado morto num quarto de hotel na avenida Louise, perto do centro da cidade de Liège.
@@ -1097,9 +1097,9 @@ Mas os EUA talvez relutem em ver a secretaria da aliança militar ocidental entre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-069</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-069</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 Pelo quinto ano consecutivo, a China conseguiu ontem evitar que fosse aprovada na Comissão de Direitos Humanos da ONU uma resolução que criticava seu desempenho nesse setor.
 A vitória foi mais apertada do que nos anos anteriores: dos 53 países que integram a Comissão, 21 votaram contra a resolução, 20 a favor e 12 se abstiveram.
@@ -1109,9 +1109,9 @@ O subsecretário de Estado norte-americano para Assuntos Humanitários, John Shatt
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-070</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-070</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 A polícia italiana prendeu na manhã de ontem o líder mafioso russo Monya Elson, 44. A prisão aconteceu na cidade balneária de Fano, na costa do mar Adriático.
 Elson é acusado pela Justiça norte-americana de três assassinatos, três tentativas de homicídio, tráfico de drogas e extorsão.
@@ -1121,9 +1121,9 @@ Ontem, o líder do centrista Partido Popular, Rocco Buttiglione, anunciou que vai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-071</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-071</field>
+<field name="date">950309</field>
+<text_pt>
 O brasileiro Saul do Amaral chama primeira-dama dos EUA de 'feia' e 'loira burra' ao improvisar música negra 
 CLÓVIS ROSSI
 Enviado especial a Copenhague 
@@ -1157,9 +1157,9 @@ Colaborou a Reportagem Local.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-072</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-072</field>
+<field name="date">950309</field>
+<text_pt>
 Nem todas as estatísticas sobre a mulher são negativas: a ONU informa que, entre 1970 e 1990, triplicou o número de mulheres em postos de administração e gerência nos países industrializados. Hoje, são 40% dos executivos.
 
 O senador Eduardo Suplicy (PT-SP) aproveitou o fax ao presidente Fernando Henrique Cardoso, pedindo que venha a Copenhague, para fazer lobby por seu projeto de renda mínima. Lembra, no fax, que a OIT (Organização Internacional do Trabalho) "recomenda a implementação de um imposto de renda negativo", que equivale à renda mínima.
@@ -1181,9 +1181,9 @@ O programa da cúpula anunciava para ontem pronunciamento do ministro brasileiro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-073</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-073</field>
+<field name="date">950309</field>
+<text_pt>
 Música e desenhos levaram garoto à cúpula
 CRISTINA GRILLO
 "Sabia que o Saul ia aprontar alguma em Copenhague. Ele é muito esperto ", disse ontem à Folha o coordenador do projeto Rodar, Jorge Rodrigues, 34.
@@ -1200,9 +1200,9 @@ Saul está acompanhado por um educador do projeto, Lúcio Flávio do Nascimento, em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-074</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-074</field>
+<field name="date">950309</field>
+<text_pt>
 Do enviado especial 
 Um incidente digno dos melhores filmes de espionagem sacudiu ontem as imediações do Bella Center, o local onde se realiza a Cúpula Mundial sobre Desenvolvimento Social, a ser acompanhada por 114 chefes de Estado ou de governo &#151;ou 115, se Fidel Castro, de Cuba, vier.
 Um dos policiais de guarda nas imediações do aeroporto de Copenhague, muito próximo ao Bella Center, disparou contra três mergulhadores, que supostamente haviam antes atirado contra ele.
@@ -1215,9 +1215,9 @@ Assim mesmo, Moeller diz que a polícia está levando o incidente "muito a sério".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-075</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-075</field>
+<field name="date">950309</field>
+<text_pt>
 Do enviado especial 
 A maioria das ONGs (organizações não-governamentais) decidiu rejeitar o documento final da Cúpula Mundial sobre o Desenvolvimento Social. Elas não aceitam a ênfase, que consideram excessiva, colocada no livre mercado.
 Ontem à noite, as ONGs estavam tentando fechar o documento de rejeição ao texto oficial, no qual dirão que "não podem apoiar o princípio básico do documento endossado pelos governantes".
@@ -1235,9 +1235,9 @@ Acrescenta Lewis: "Este documento deixa a cada país lidar com a pobreza. Mas sem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-076</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-076</field>
+<field name="date">950309</field>
+<text_pt>
 Do enviado especial 
 Hillary Clinton, a primeira-dama norte-americana, reassumiu ontem seu papel de ativista social, ao anunciar um programa de US$ 100 milhões, ao longo dos próximos 10 anos, para projetos educacionais de meninas na África, Ásia e América Latina.
 O programa, o momento e o local para o anúncio não poderiam ter sido mais adequadamente escolhidos: o plenário da Cúpula Social e o Dia Internacional da Mulher, no qual mais se lamentaram as desigualdades que a mulher enfrenta do que se comemorou a data.
@@ -1248,9 +1248,9 @@ Depois de uma catarata de outras estatísitcas negativas sobre a situação da mulh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-077</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-077</field>
+<field name="date">950309</field>
+<text_pt>
 A polícia de Nova York demitiu Carol Shaya-Castro por ter posado nua para a edição de agosto da  Playboy (foto), por US$ 100 mil.  A reputação da polícia não está a venda e não há lugar para quem tenta fazê-lo, disse o comissário William Bratton.
 
 Parlamento grego elege presidente
@@ -1258,9 +1258,9 @@ Costis Stephanopoulos, 68, foi eleito com 181 votos, apenas um a mais do que o n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-078</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-078</field>
+<field name="date">950309</field>
+<text_pt>
 Eduardo Knapp/Folha ImagemEzequiel Azevedo (foto), 33, funcionário da SEG (Serviços Especiais de Guarda) feriu o vigilante João da Silva, durante um protesto na porta da empresa. Azevedo, que tinha porte de arma vencido, disparou dois tiros para o chão e um para o alto para dispersar um protesto dos seguranças, que ainda não receberam o salário de fevereiro.
 
 O NÚMERO
@@ -1277,9 +1277,9 @@ O 3º Distrito Naval, com sede em Natal (RN), informou ontem que o navio britânic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-079</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-079</field>
+<field name="date">950309</field>
+<text_pt>
 CLAUDIO JULIO TOGNOLLI
 Enviado especial ao Rio 
 O cabo PM Flávio Ferreira Carneiro, 32, tentou deixar a corporação por duas vezes, mas foi reprovado nos exames de ingresso na Polícia Civil e Polícia Federal do Rio de Janeiro.
@@ -1300,18 +1300,18 @@ Seu advogado, Zairo Lara Filho, diz que o cabo é um "homem exemplar". Segundo Za
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-080</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-080</field>
+<field name="date">950309</field>
+<text_pt>
 A Universidade Federal de Mato Grosso do Sul recebe até dia 17 inscrições de professores e pesquisadores do Estado interessados em participar da 2.ª Reunião Especial da SBPC (Sociedade Brasileira para o Progresso da Ciência), de 24 a 28 de abril, em Cuiabá (MT). O Mercosul e a hidrovia Paraná-Paraguai serão alguns dos assuntos. 
 
 Cerca de 150 servidores estaduais fizeram protesto anteontem em frente à sede do governo pedindo aumento salarial. O governador Wilson Martins (PMDB) propôs antecipação de 20% em abril, a ser paga em maio. A Federação dos Servidores e dos Professores articula uma greve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-081</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-081</field>
+<field name="date">950309</field>
+<text_pt>
 MOACYR SCLIAR 
 Não há dúvida: os brasileiros descobriram os Estados Unidos. Não só descobriram, como estão tratando de transferi-lo para cá: compram tudo o que podem, desde aspirina até computador. As consequências disto não tardaram.
 Surgiu uma quantidade incrível de agências de viagem, com uma variedade imensa de excursões. Naturalmente, a competição é feroz, e os agentes precisam usar a imaginação para prometer vantagens não cogitadas.
@@ -1334,9 +1334,9 @@ Escolham a sua alternativa predileta e boa viagem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-082</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-082</field>
+<field name="date">950309</field>
+<text_pt>
 JULIO SERSON 
 Ainda bem que todos os prognósticos sobre o crescimento das migrações e o número de habitantes de São Paulo sofreram uma significativa reversão, senão, o inchaço populacional também daria dimensão ainda maior ao caos vivido recentemente pela cidade com as enchentes. As soluções urbanas adotadas em São Paulo são todas de curto prazo e carecem de visão de planejamento de médio e longo prazos.
 Na realidade, São Paulo acaba criando um Plano Diretor para cada gestão municipal. Quando o governo muda, as propostas definidas para o futuro urbano da cidade sofrem alterações, porque os olhos de um prefeito poucas vezes se voltam para o mesmo ponto enfocado por seu antecessor. Em alguns casos, os cidadãos ganham, se o administrador tiver a competência de Faria Lima, que elaborou um Plano Urbanístico Básico para São Paulo. Mas, na maioria das vezes, a população perde. Por isso, o plano Diretor da cidade deveria ser uma espécie de Constituição do Planejamento Urbano, dotado de regras pétreas, às quais caberia a cada prefeito cumprir, sem modificar de acordo com seus interesses.
@@ -1349,9 +1349,9 @@ JULIO SERSON, 32, empresário, é vice-presidente de Hotéis Vila Rica.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-083</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-083</field>
+<field name="date">950309</field>
+<text_pt>
 Bancários acusam incorporadora de imóveis Roque e Seabra de fazer afirmação falsa ao vender apartamento 
 MARCELO GODOY e ANTONIO ROCHA FILHO
 Da Reportagem Local 
@@ -1368,9 +1368,9 @@ A Roque e Seabra é a quinta grande empresa autuada pelo Decon nas três últimas s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-084</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-084</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 Rômulo Martelli, advogado da Roque e Seabra, considerou arbitrária a prisão de Sérgio Matias Horemann, por se basear "na interpretação errada de texto legal".
 Segundo o advogado, o problema teria sido causado pela construtora do imóvel, que, após ter aprovado o contrato de venda, teria se recusado a fechar o negócio. Até as 19h de ontem, a construtora não havia retornado as ligações da Folha.
@@ -1379,9 +1379,9 @@ O gerente de comunicação da importadora Caoa, Marco Piquini, 37, disse ontem que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-085</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-085</field>
+<field name="date">950309</field>
+<text_pt>
 FÁBIO GUIBU
 Da Agência Folha, em Recife 
 Cerca de 15 homens encapuzados mataram três presos e feriram outros dois depois de invadir, na madrugada de ontem, a cadeia pública de Santa Maria da Boa Vista, a 653 km a oeste de Recife (PE).
@@ -1394,9 +1394,9 @@ Atendendo a ofício da juíza Jacinéia Graja, o comandante-geral da PM, Jorge Mour
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-086</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-086</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local
 e da Agência Folha, em Fortaleza 
 Um avião da Vasp com 172 pessoas fez um pouso de emergência ontem de manhã no Aeroporto Internacional de Cumbica, em Guarulhos (Grande São Paulo).
@@ -1410,9 +1410,9 @@ Cristina afirma que quando a aeronave pousou novamente em Cumbica o clima entre 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-087</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-087</field>
+<field name="date">950309</field>
+<text_pt>
 Da Sucursal do Rio 
 Cláudia de Oliveira, 24, perdeu o braço direito após ser mordida pela leoa Zimba, 7. O acidente ocorreu no domingo à tarde, quando Cláudia passeava no Hotel-Fazenda Santa Isabel.
 O hotel pertence ao empresário Alarico Ribeiro Salomão, e fica em Teresópolis, região serrana do Estado do Rio. Segundo o capitão Hélio Barros, 51, diretor da Defesa Civil da cidade, a jaula onde Zimba vive com outro leão e um filhote de 2 meses será interditada hoje.
@@ -1422,9 +1422,9 @@ Segundo funcionários do hotel, ela teria pulado uma cerca e estendido sua mão pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-088</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-088</field>
+<field name="date">950309</field>
+<text_pt>
 Prefeitura diz que aumento, de 30%, será dado por causa da reposição salarial de motoristas e cobradores 
 CLAUDIO AUGUSTO
 Da Reportagem Local 
@@ -1451,9 +1451,9 @@ Ontem, os acionistas da CMTC decidiram mudar a razão social (nome) da empresa pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-089</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-089</field>
+<field name="date">950309</field>
+<text_pt>
 Blitz detectou também falhas na segurança do Pinheiros 
 Da Reportagem Local 
 O Esporte Clube Pinheiros (zona oeste de SP) foi interditado ontem em blitz conjunta da Semab (Secretaria Municipal de Abastecimento) e Sehab (Secretaria Municipal de Habitação) por falta de higiene e segurança.
@@ -1464,9 +1464,9 @@ A direção do clube considerou a interdição "exagerada". A previsão é de que o cl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-090</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-090</field>
+<field name="date">950309</field>
+<text_pt>
 HÉLCIO ZOLINI 
 Da Agência Folha, em Belo Horizonte 
 Sete pessoas foram presas, quatro ficaram feridas e 75 ônibus foram depredados na greve de 24 horas deflagrada ontem pelos motoristas e cobradores de ônibus da região metropolitana de Belo Horizonte (Minas Gerais).
@@ -1481,9 +1481,9 @@ A denúncia foi feita pelo presidente da BHTrans (órgão municipal que gerencia o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-091</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-091</field>
+<field name="date">950309</field>
+<text_pt>
 VICTOR AGOSTINHO
 Da Reportagem Local 
 Circular assinada pela ex-presidente do Ibama, Nilde Lago Pinheiro, orientando os funcionários do órgão a desconsiderar um decreto presidencial que regulamenta a preservação da Mata Atlântica, foi o estopim, ontem, de uma manifestação promovida por ambientalistas e a Secretaria Estadual de Meio Ambiente.
@@ -1498,9 +1498,9 @@ Nilde Pinheiro afirmou que não recebeu nenhum comunicado do ministro Krause e qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-092</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-092</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 Duas pessoas morreram após sessão de hemodiálise no hospital Santa Marcelina, em Itaquera (zona leste de SP) entre segunda e terça-feira.
 O supervisor do setor de nefrologia (onde se faz o tratamento) do hospital, Rui Barata, é diretor da clínica Santa Marcelina, também em Itaquera, onde outras quatro pessoas morreram após hemodiálise em 24 de janeiro.
@@ -1510,9 +1510,9 @@ Segundo Luiz Estevam Ianhez, 55, secretário geral da Sociedade Brasileira de Nef
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-093</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-093</field>
+<field name="date">950309</field>
+<text_pt>
 NEWTON CARLOS 
 Da Equipe de Articulistas 
 O Dia Internacional da Mulher é comemorado desde 1910. Há 85 anos a iniciativa foi da Internacional Socialista, o que colocava reivindicações femininas em grande parte num contexto de luta de classes. As agrupações históricas de esquerda, de origem marxista, custaram a aceitar o feminismo como algo específico, desgarrado da guerra entre proletariado e burguesia.
@@ -1526,9 +1526,9 @@ No Terceiro Mundo, por exemplo, dois terços dos analfabetos de mais de 15 anos s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-094</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-094</field>
+<field name="date">950309</field>
+<text_pt>
 Blitz encontra baratas em restaurantes e falhas na segurança; diretoria acha medida 'exagerada' 
 ALESSANDRA BLANCO
  e DANIELA FALCÃO
@@ -1549,9 +1549,9 @@ Venturelli disse ainda que as instalações elétricas do clube eram precárias e fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-095</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-095</field>
+<field name="date">950309</field>
+<text_pt>
 MARCELO GODOY e ANTONIO ROCHA FILHO
 Da Reportagem Local
 A polícia prendeu ontem à tarde em flagrante Sérgio Matias Horemann, 55, gerente de vendas da intermediadora de imóveis Roque e Seabra, sob a acusação de crime contra a economia popular.
@@ -1569,9 +1569,9 @@ Para acabar de vez com o problema dos consórcios, o Decon decidiu adotar a prisã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-096</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-096</field>
+<field name="date">950309</field>
+<text_pt>
 Prefeito quer estender sistema de financiamento da Faria Lima a toda cidade 
 Da Reportagem Local 
 O prefeito Paulo Maluf está pressionando o Legislativo para que os vereadores aprovem o Cepac (Certificado de Potencial de Área de Construção) para toda a cidade.
@@ -1591,9 +1591,9 @@ O secretário Reynaldo de Barros (Vias Públicas) informou que, com a aprovação do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-097</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-097</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 A decisão de votar a favor da Operação Urbana Faria Lima dividiu a bancada do PT na Câmara e começa a gerar uma crise interna.
 Alguns vereadores avaliavam ontem que foi muito grande o desgaste que o partido sofreu ao apoiar um projeto que poderá ser usado pelo prefeito Paulo Maluf na sua já anunciada campanha presidencial.
@@ -1612,9 +1612,9 @@ Para o vereador Sérgio Rosa, a Associação Vila Olímpia Viva "buscou o caminho da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-098</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-098</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 A decisão dos vereadores petistas de votarem a favor da extensão da avenida Faria Lima surpreendeu a direção municipal e estadual do partido.
 O presidente do diretório estadual, deputado federal Arlindo Chinaglia, disse que "esse não é, com certeza, um projeto prioritário para a cidade".
@@ -1630,9 +1630,9 @@ A ex-prefeita de São Paulo Luiza Erundina não foi localizada para comentar o apo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-099</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-099</field>
+<field name="date">950309</field>
+<text_pt>
 Michel Eli Findit conta que comprou uma TV Philips e que ela tem apresentado defeitos com frequência. Ele se queixa de estar encontrando dificuldades para resolver o problema e diz que as assistências técnicas não têm componentes disponíveis para o conserto.
 "A fábrica não está fazendo a reposição das peças no mercado e, por isso, vou ter que esperar pela boa vontade da Philips", disse.
 
@@ -1641,9 +1641,9 @@ Segundo a Assessoria de Imprensa da Philips, devido à falta de componentes no me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-100</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-100</field>
+<field name="date">950309</field>
+<text_pt>
 Prefeitura diz que aumento, de 30%, será dado por causa da reposição salarial de motoristas e cobradores
 CLAUDIO AUGUSTO
 Da Reportagem Local
@@ -1670,9 +1670,9 @@ Ontem, os acionistas da CMTC decidiram mudar a razão social (nome) da empresa pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-101</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-101</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local
 Da Sucursal de Brasília 
 O prefeito Paulo Maluf disse ontem que, ao contrário do que o secretário Roberto Paulo Richter (Planejamento) vem anunciando, será permitido consumir alimentos nos fumódromos dos restaurantes.
@@ -1688,9 +1688,9 @@ O projeto determina que os infratores da norma sejam expulsos dos locais onde es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-102</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-102</field>
+<field name="date">950309</field>
+<text_pt>
 Grávida de 5 meses teria tomado decisão com marido ao temer que filho fosse do próprio pai, que acusava de estupro 
 Da FT e do NP 
 O pedreiro Osmar João dos Santos, 34, e sua mulher, Rosângela Fidélis da Silva, 15, fizeram um pacto de morte e se enforcaram em Guarulhos (Grande SP). Rosângela estava grávida de cinco meses.
@@ -1707,9 +1707,9 @@ José Joaquim Alves, 45, um dos poucos amigos do casal, afirma o contrário. Segun
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-103</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-103</field>
+<field name="date">950309</field>
+<text_pt>
 Profeta, Le Bistingo, Bucca Romana, Francois Le Cochon e Roma são autuados por falta de higiene 
 Da Reportagem Local 
 Os restaurantes O Profeta, La Bucca Romana, Le Bistingo, François Le Cochon e Roma Jardim foram multados pela Secretaria Municipal do Abastecimento (Semab). Na semana passada, a secretaria já havia multado o restaurante La Tambouille.
@@ -1728,9 +1728,9 @@ Já o gerente de operações do La Bucca Romana, Ricardo Salles, afirmou que o rest
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-104</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-104</field>
+<field name="date">950309</field>
+<text_pt>
 Xingado após o jogo, o goleiro Ricardo Pinto discute com torcedor no Parque São Jorge 
 Da Reportagem Local 
 O goleiro Ricardo Pinto discutiu com um torcedor do Corinthians após o empate, 2 a +2, com o União São João, ontem à tarde no estádio Alfredo Schurig.
@@ -1753,9 +1753,9 @@ Até que aos 41min, Catanha recebeu cobrança de lateral na área e chutou. Ricardo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-105</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-105</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 O atacante Edmundo disse ontem por telefone à Folha que não empurrou o cinegrafista da TV equatoriana, mas que pisou, sem querer, no fio da câmera, o que provocou a queda do jornalista.
 Edmundo se irritou com as perguntas do repórter da Folha. A seguir, a entrevista.(MMo)
@@ -1772,9 +1772,9 @@ Edmundo -Não sei. Vai tomar banho.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-106</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-106</field>
+<field name="date">950309</field>
+<text_pt>
 CARLOS SARLI 
 Crupiê perde feio. O calendário de eventos da ASP (Association of surfing Professionals) é mais embaralhado do que as cartas nos cassinos de Las Vegas. Adiamentos e cancelamentos rolam solto todos os anos. Sem prévio aviso, as datas mudam deixando surfistas e pessoas interessadas na mão.
 Muito papel, tinta e fax são gastos pela associação tentando corrigir as informações, que nem sempre chegam a tempo. Só para citar um exemplo, lembro a etapa do WQS, programada para o Vietnã no ano passado, que foi cancelada quando muito gente já estava de bilhete comprado. Em que pese a irresponsabilidade de empresários/patrocinadores, que muitas vezes preferem a pequena multa a ter que concretizar o compromisso assumido, a ASP deve encontrar uma maneira de evitar estas surpresas, ou ao menos comunicá-las com mais antecedência.
@@ -1786,9 +1786,9 @@ O leitor deve estar pensando: so what? Que grande perda deixar de acompanhar uma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-107</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-107</field>
+<field name="date">950309</field>
+<text_pt>
 Começa hoje o Coke Quiksilver Surfmasters, 9ª etapa do WQS, segunda divisão do mundial, em Margareth River (Austrália). O único brasileiro no evento será Tadeu Pereira, de Ubatuba. Assim, o Brasil deve perder várias posições entre os 16 primeiros, que no final da temporada se classificam para a divisão principal, o WCT.
  
 O Town &amp; Country Pro Tour, válido pelo Circuito Paulista de Surfe Profissional, cancelou sua primeira etapa marcada para este final de semana. Mas cinco etapas estão confirmadas e a abertura do Circuito será 22 e 23 de abril em Itamambuca, Ubatuba. Já o Limão Brahma Surf Pro, válido pelo Circuito Carioca, tem abertura 17, 18 e 19 de março, no Meio da Barra.
@@ -1799,9 +1799,9 @@ O surfista, snowboarder e baterista da banda Sepultura, Igor Cavalera, tem divid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-108</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-108</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 As competições dos 12º Jogos Pan-Americanos começam hoje com a ginástica artística masculina, na Argentina.
 As provas serão disputadas no ginásio da Vila Pan-Americana de Chapadmalal, que fica a 35km de Mar del Plata.
@@ -1821,9 +1821,9 @@ O canal de assinatura Globosat/Sportv promete também mostrar o Pan.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-109</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-109</field>
+<field name="date">950309</field>
+<text_pt>
 SÉRGIO KRASELIS 
 Da Reportagem Local 
 O atacante Josenias, 28, da Nossa Caixa/Suzano, disse ontem que esperava que a convocação para a seleção brasileira masculina de vôlei, anunciada anteontem, fosse mexer bem mais com sua cabeça.
@@ -1838,9 +1838,9 @@ Segundo ele, a perspectiva de ser tricampeão brasileiro pelo time de Suzano, ond
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-110</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-110</field>
+<field name="date">950309</field>
+<text_pt>
 JOÃO CARLOS DE ASSUMPÇÃO
  Da Reportagem Local 
 O alpinista paranaense Waldemar Niclevicz, 28, tentará colocar a bandeira brasileira, que recebeu ontem de Pelé, no topo do Everest, cuja altura é de 8.848m, no continente asiático.
@@ -1858,9 +1858,9 @@ Os outros alpinistas são dos EUA, Escócia, Inglaterra, Canadá, Suíça e Rússia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-111</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-111</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 O técnico Mário Sérgio e os demais jogadores do Corinthians apoiaram a atitude do goleiro Ricardo Pinto.
 "Tenho certeza de que não se trata de um torcedor do Corinthians. A torcida tem direito de cobrar dos jogadores, mas jamais tentar desmoralizar um homem", afirmou o técnico Mário Sérgio.
@@ -1881,9 +1881,9 @@ Tupãzinho foi o autor do gol que deu o único título brasileiro para o Corinthian
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-112</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-112</field>
+<field name="date">950309</field>
+<text_pt>
 Diferentemente do que afirma este texto, Hong Kong não é um país, mas sim uma colônia britânica.ERRAMOS
 John Woo dirige Travolta em balé violento 
 O cineasta de Hong Kong fala sobre seu segundo filme em Hollywood, que atesta o sucesso do novo cinema asiático 
@@ -1908,9 +1908,9 @@ sobre cinema asiático às págs. 5-6 e 5-7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-113</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-113</field>
+<field name="date">950309</field>
+<text_pt>
 As penas vão começar a voar.
 *
 Fernando Henrique Cardoso não esconde mais o desgosto com seu partido, o PSDB.
@@ -1969,9 +1969,9 @@ Tanto o Quattrino quanto o Spazio Gastronômico queriam se instalar lá.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-114</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-114</field>
+<field name="date">950309</field>
+<text_pt>
 A 6ª Mostra Internacional de Arquitetura da Bienal de Arte de Veneza, que deveria se realizar este ano, foi adiada para 1996. O motivo alegado para o adiamento foi logístico, já que os eventos ligados às comemorações do centenário da Bienal deixariam muito pouco espaço para arquitetura. Os EUA e países nórdicos já haviam se negado a participar do evento sem as condições ideais.
 
 Dono da 'Rolling Stone' troca mulher por homem 
@@ -1985,9 +1985,9 @@ O MAC-Ibirapuera, no terceiro piso do Pavilhão da Bienal, inaugura hoje, às 18h,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-115</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-115</field>
+<field name="date">950309</field>
+<text_pt>
 Segundo Panorama Percussivo Mundial reúne na Bahia 14 atrações internacionais de 27 a 30 deste mês 
 LUÍS ANTÔNIO GIRON 
 Da Reportagem Local 
@@ -2007,9 +2007,9 @@ Para Elisabeth, o caráter percussivo do evento deve integrar dança, voz e outros
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-116</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-116</field>
+<field name="date">950309</field>
+<text_pt>
 PAULO COELHO 
 Colunista da Folha 
 A canalização é o processo de contactar a energia interior e exterior. Descreverei o método geralmente utilizado, que dura em torno de dez minutos:
@@ -2018,9 +2018,9 @@ Jamais perca a consciência durante a canalização; é desnecessário e perigoso. Ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-117</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-117</field>
+<field name="date">950309</field>
+<text_pt>
 A cantora Frederica Von Stade e o violoncelista Mischa Maisky são atrações dos concertos que começam este mês 
 IRINEU FRANCO PERPÉTUO 
 Especial para a Folha 
@@ -2037,9 +2037,9 @@ Além da temporada regular, a Hebraica promete para abril uma série especial de p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-118</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-118</field>
+<field name="date">950309</field>
+<text_pt>
 Diferentemente do que afirma este texto, Hong Kong não é um país, mas sim uma colônia britânica.ERRAMOS
 Woo quer filmar épico em Hong Kong 
 O cineasta pretende unir "a tecnologia ocidental ao talento chinês" para retratar guerra ocorrida há 3.000 anos 
@@ -2061,9 +2061,9 @@ Seu primeiro sucesso foi "O Alvo Duplo", considerado o marco inicial da revoluçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-119</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-119</field>
+<field name="date">950309</field>
+<text_pt>
 INÁCIO ARAUJO 
 Crítico de Cinema 
 O cinema de Hong Kong foi revelado ao Ocidente em 1984 pelos críticos dos "Cahiers du Cinéma" (à frente, Serge Daney e o hoje cineasta Olivier Assayas). Até então, tinha-se a impressão de que ali só se faziam os abacaxis que haviam substituído o faroeste italiano nas salas da Cinelândia.
@@ -2077,9 +2077,9 @@ Woo distorce o tempo, alterna câmera lenta e câmera rápida, desmembra o moviment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-120</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-120</field>
+<field name="date">950309</field>
+<text_pt>
 O cinema do país oriental enfrenta as produções norte-americanas com uma indústria inspirada em Hollywood 
 Da Redação 
 Hoje, apenas duas cinematografias no mundo podem concorrer, de igual para igual, com produções norte-americanas em seus mercados locais: a indiana e a do Sudeste Asiático.
@@ -2095,9 +2095,9 @@ O valor está distante, por exemplo, do US$ 1,88 arrecadado em 1994 no Reino Unid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-121</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-121</field>
+<field name="date">950309</field>
+<text_pt>
 Da Redação 
 O ator e lutador Jackie Chan encarna o último genuíno herói de ação do cinema mundial. Ele não usa dublês ou efeitos especiais em seus 42 filmes.
 Por esse motivo, já quebrou o nariz (três vezes), o ombro, o peito, dois dedos e um joelho, entre outros ossos. E, desde "Police Story" (1985), adiciona cenas do "making of" ao final de seus filmes para provar a veracidade e a gravidade de suas lesões.
@@ -2116,9 +2116,9 @@ Aos 40 anos, ele afirma que pretende parar de atuar em três ou quatro anos, fras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-122</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-122</field>
+<field name="date">950309</field>
+<text_pt>
 Diferentemente do que afirma este texto, Hong Kong não é um país, mas sim uma colônia britânica.ERRAMOS
 Chow quer dominar o mundo 
 Da Redação 
@@ -2134,9 +2134,9 @@ E para isso se preocupa em lidar com o mercado que mais avança &#151;o vídeo&#15
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-123</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-123</field>
+<field name="date">950309</field>
+<text_pt>
 MARCELO REZENDE 
 Da Redação 
 Longe da luta coreografada e dos templos Shao Lin, há Michael Hui. Seu cinema, se fosse visto por um inglês remeteria a Peter Sellers. Para um americano, seria um Jerry Lewis.
@@ -2151,9 +2151,9 @@ Em "Private Eyes" brinca com o que existe de mais assimilável em qualquer cultur
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-124</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-124</field>
+<field name="date">950309</field>
+<text_pt>
 O diretor musical diz como criou o som de um 'castrato' 
 PAULO GRAMADO
 Free-lance para a Folha 
@@ -2171,18 +2171,18 @@ Rousset - Livros alemães do fim do século 19, como a biografia de Farinelli, uma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-125</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-125</field>
+<field name="date">950309</field>
+<text_pt>
 Das agências internacionais 
 Representantes da comunidade ultra-ortodoxa de Jerusalém se mobilizam contra a realização o festival de cinema homossexual e lésbico que a cinemateca local pretende realizar a partir de hoje, por três dias. A cruzada contra o evento é liderada pelo rabino Yitzhak Kulitz.
 Lia Van Leer, diretora da cinemateca, disse já ter recebido ameaças anônimas, mas que os programas prosseguiriam inalterados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-126</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-126</field>
+<field name="date">950309</field>
+<text_pt>
 de Luis Buñuel
 "Quando vi o filme eu estava no processo de me tornar um padre. O filme me proporcionou uma experiência espiritual, não se tratava de um filme divertido, e tocou-me profundamente. E me fez pensar sobre um cinema que também significava imagens como meio, um jeito diferente de contar uma história".
 
@@ -2190,9 +2190,9 @@ Godfrey Reggio é cineasta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-127</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-127</field>
+<field name="date">950309</field>
+<text_pt>
 O curador João Fernandes fala dos motivos que possibilitaram a sofisticação dos trabalhos vistos em Johannesburgo 
 KATIA CANTON 
 Enviada especial a Johannesburgo 
@@ -2217,9 +2217,9 @@ A jornalista KATIA CANTON viajou a convite da South African Airways
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-128</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-128</field>
+<field name="date">950309</field>
+<text_pt>
 Especial para a Folha 
 A mostra "Do Olho à Mão: Um Método de Ensino de Artes Plásticas" é uma ilustração da tese do arquiteto e artista plástico Silvio Dworecki, defendida na Faculdade de Arquitetura da USP. A exposição, no MAC Ibirapuera até 2 de abril, é uma verdadeira aula sobre os processos plásticos dos alunos do Jogo Estúdio, onde Dworecki leciona.
 A exposição traz trabalhos dos alunos Augusto Sampaio, Vera Sanovicz, Elisete Ambar, Luis Fernando Novaes e Arlete Carlos. Há também uma mostra dos trabalhos do próprio Silvio, feitos entre 1964 e 94, demonstrando sua crença de que "o professor deve ser capaz de fazer arte para poder ensinar".
@@ -2233,9 +2233,9 @@ A segunda etapa do ensino artístico relaciona-se à busca do que é novo para o in
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-129</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-129</field>
+<field name="date">950309</field>
+<text_pt>
 DataSimão informa: Portugal se informatiza e lança o Nintendo. Com o nome de "Don't Understand"! Rarará! 
 JOSÉ SIMÃO 
 Da Equipe de Articulistas 
@@ -2248,9 +2248,9 @@ E a ilha de edição do Jornal "Nacional" é a ilha da fantasia. No SBT e na Bandei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-130</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-130</field>
+<field name="date">950309</field>
+<text_pt>
 Da Redação 
 Perde-se a conta das vezes em que Eva Marie Saint foi passada para trás por Elizabeth Taylor (no cinema, claro). A história se repete em "Adeus às Ilusões" (Globo, 1h20).
 Teoricamente, as coisas deveriam se passar de outra forma. Atriz que estreou em papéis principais direto em "Sindicato de Ladrões" (Elia Kazan), foi a loira de "Intriga Internacional" (Hitchcock), Eva parecia ter o problema central das atrizes realistas americanas: inspiram pouco a fantasia masculina.
@@ -2261,9 +2261,9 @@ No fundo, o papel-chave de sua carreira é mesmo Cleópatra, a egípcia enigmática.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-131</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-131</field>
+<field name="date">950309</field>
+<text_pt>
 Estilistas recuperam itens esquecidos e valorizam hypes dos anos 60 
 COSTANZA PASCOLATO
 Especial para a Folha, em Milão 
@@ -2295,9 +2295,9 @@ O endereço é - Pelletieri D'Italia (razão social): Levanella, SS 69 - 52025 - Mo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-132</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-132</field>
+<field name="date">950309</field>
+<text_pt>
 ERIKA PALOMINO 
 Colunista da Folha
 A semana fashion em SP começou na segunda com o que demonstra ser um bom passo no sentido da profissionalização &#151;ao menos em termos de se concretizar uma semana de lançamentos. O diretor de desfiles Pazetto conseguiu armar dois desfiles de porte em duas salas semelhantes, lado a lado. Assim, depois do desfile retrô de Caio da Rocha o público se deslocava para o da Boat.
@@ -2307,9 +2307,9 @@ Na Boat, muito caminho ainda para dar certo. Estruturas equivocadas e mistureba 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-133</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-133</field>
+<field name="date">950309</field>
+<text_pt>
 Desde que Homero contou as aventuras de Ulisses os escritores fazem do mundo uma interminável continuação 
 DAVID DREW ZINGG
 Em São Paulo
@@ -2344,9 +2344,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-134</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-134</field>
+<field name="date">950309</field>
+<text_pt>
 Coreografia do bailarino Bill T. Jones provoca discussão sobre a manipulação dos sentimentos do espectador 
 CARLOS EDUARDO LINS DA SILVA
  De Washington 
@@ -2373,9 +2373,9 @@ Mesmo que o futuro possa dizer que a maioria estava errada, é inegável que se di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-135</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-135</field>
+<field name="date">950309</field>
+<text_pt>
 A comédia "Capital Estrangeiro" estréia amanhã, com Edson Celulari e Patrícia Travassos no elenco 
 SYLVIA COLOMBO 
 Da Redação
@@ -2405,9 +2405,9 @@ Um dos medos de Sílvio de Abreu era fazer um texto teatral com cara de novela. "
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-136</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-136</field>
+<field name="date">950309</field>
+<text_pt>
 ANA PAULA ALFANO 
 Da Redação 
 
@@ -2441,9 +2441,9 @@ Em "América" a ação também prevalece. "Além disso, a linguagem é universal se vo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-137</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-137</field>
+<field name="date">950309</field>
+<text_pt>
 Nos aviões e hotéis, turistas se revelam grandes colecionadores de 'recuerdos' e até 'cleptomaníacos em trânsito' 
 EDSON FRANCO 
 LUCIANA VEIT 
@@ -2458,9 +2458,9 @@ Sobre furtos praticados por turistas nas págs. 6-2 a 6-7.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-138</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-138</field>
+<field name="date">950309</field>
+<text_pt>
 Em alguns estabelecimentos as toalhas são tão macias e fofas que o visitante mal consegue fechar a mala 
 DAVID DREW ZINGG 
 Colunista da Folha 
@@ -2501,9 +2501,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-139</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-139</field>
+<field name="date">950309</field>
+<text_pt>
 Passageiros da primeira classe à econômica elegem talheres e mantas como alvos prediletos dos seus furtos 
 Da Reportagem Local 
 Pode ser na primeira classe ou na econômica. Na hora de levar um suvenir do avião, os passageiros se igualam. Talheres e mantas são os itens mais cobiçados pelos viajantes que não se contentam com as revistas de bordo.
@@ -2520,17 +2520,17 @@ Nas companhias regionais a situação não é diferente. Cabeçotes (tecido que cobre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-140</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-140</field>
+<field name="date">950309</field>
+<text_pt>
 
 DISTRAÇÃO 2 - Depois das dentaduras, as lentes de contato, livros, vídeos e sapatos estão entre os objetos mais esquecidos. Até um coelho já foi encontrado em um quarto. Ironicamente, os itens menos valiosos são os mais reclamados. Uma hóspede voltou ao hotel que estava hospedada, em Dubai, nos Emirados Árabes Unidos, para recuperar um pacote de pistache e amendoins.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-141</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-141</field>
+<field name="date">950309</field>
+<text_pt>
 Ney Latorraca, que assume sua atração por itens de hotéis, chega a fazer mais de uma 'coleta' durante a estadia 
 Da Reportagem Local 
 Quem nunca teve um impulso cleptomaníaco? O ator Ney Latorraca assume explicitamente que furta objetos em viagens. Juca Chaves repudia a atitude e credita isso à sua educação. Já Tânia Nomura, apesar de afirmar que nunca praticou furtos em hotéis, mostra o lado prático da cleptomania.
@@ -2549,9 +2549,9 @@ Nomura tem um amigo que viaja sempre na companhia de sua cadela da raça bassê. E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-142</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-142</field>
+<field name="date">950309</field>
+<text_pt>
 Viagens turísticas são uma experiência de impunidade imaginária e uma espécie de tempo furtado ao cotidiano 
 MARIA RITA KEHL 
 Especial para a Folha 
@@ -2573,9 +2573,9 @@ MARIA RITA KEHL é psicóloga graduada pela USP, trabalha com o método psicanalíti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-143</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-143</field>
+<field name="date">950309</field>
+<text_pt>
 Levar objetos de pouco valor é condenável e provoca aborrecimentos quando descoberto, mas em geral não dá cadeia 
 WALTER CENEVIVA 
 Da Equipe de Articulistas 
@@ -2590,9 +2590,9 @@ Estas considerações valem para o Brasil e quem quiser saber mais sobre o assunto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-144</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-144</field>
+<field name="date">950309</field>
+<text_pt>
 Descoberto pela imprensa norte-americana, o Ariaú Jungle Tower fica a duas horas e meia de barco de Manaus 
 ANDRÉ LOZANO 
 Enviado especial à Amazônia 
@@ -2617,9 +2617,9 @@ O repórter ANDRÉ LOZANO viajou a convite do Ariaú Jungle Tower.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-145</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-145</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 Só no Amazonas há mais de dez hotéis de selva, que atraem, principalmente, estrangeiros.
 Mais do que hospedagem, oferecem programas que vão de passeios de barco até acampamento na selva.
@@ -2639,9 +2639,9 @@ RESERVAS - AMBIENTAL: (011) 814-6191; APURISSAWA JUNGLE LODGE: (092) 671-3525; B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-146</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-146</field>
+<field name="date">950309</field>
+<text_pt>
 Região perto de Cuiabá (MT) oferece uma sucessão de quedas-d'aguas, emolduradas por paredões vermelhos 
 Free-lance para a Folha 
 Na Rodovia Emanuel Pinheiro, que liga Cuiabá à Chapada dos Guimarães, a monotonia é quebrada ao se avistarem os gigantescos paredões vermelhos que prenunciam a chegada a um dos mais belos cenários que a natureza criou.
@@ -2661,9 +2661,9 @@ Com 86 metros de altura, a cachoeira Véu de Noiva é a principal atração do local
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-147</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-147</field>
+<field name="date">950309</field>
+<text_pt>
 Boa infra-estrutura tem atraído negócios e turismo 
 CARLOS ALBERTO SARDENBERG 
 Enviado especial ao Arizona (EUA) 
@@ -2687,9 +2687,9 @@ CARLOS ALBERTO SARDENBERG viajou a convite da American Express.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-148</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-148</field>
+<field name="date">950309</field>
+<text_pt>
 Do enviado especial ao Arizona (EUA) 
 Phoenix é uma cidade esportiva. É difícil passar por lá sem que esteja ocorrendo um grande evento nos seguintes esportes: basquete, futebol americano, beisebol, golfe, tênis e corrida de automóvel, incluída a Fórmula Indy (há um circuito oval na cidade).
 Mas quem gosta de esportes deve procurar se informar e reservar ingressos com antecedência, pois os estádios, em geral, não são grandes. A arena dos grandes jogos de basquete, por exemplo, comporta 20 mil pessoas.
@@ -2702,9 +2702,9 @@ Mas a cidade ainda sedia grandes times de beisebol, hóquei e futebol americano. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-149</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-149</field>
+<field name="date">950309</field>
+<text_pt>
 Phoenix sediou discussão sobre indústria do turismo 
 Do enviado especial ao Arizona (EUA) 
 Os gastos com viagens de negócios e turismo em todo o mundo chegaram a US$ 2,4 trilhões em 1994. Esse faturamento representou 6% da produção econômica mundial e indicou claramente o fim da recessão que atingiu o setor de 91 a 93. A perspectiva agora é de crescimento.
@@ -2724,9 +2724,9 @@ A idéia é desenvolver programas para organização e controle de custos internos, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-150</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-150</field>
+<field name="date">950309</field>
+<text_pt>
 Da Reportagem Local 
 Pernambuco prepara um superespetáculo para a encenação deste ano da Paixão de Cristo de Nova Jerusalém. A encenação acontece entre 8 e 15 de abril, na vila de Fazenda Nova, a 185 km de Recife, 600 m acima do nível do mar.
 O evento, que desde 1968 movimenta a cidade-teatro de Nova Jerusalém com 40 atores e 500 figurantes, este ano vai utilizar os efeitos da Piro-Art, responsável pelos efeitos especiais do show dos Rolling Stones no Brasil.
@@ -2737,9 +2737,9 @@ De carro, o acesso à cidade-teatro de Nova Jerusalém é feito pela BR-232, passan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-151</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-151</field>
+<field name="date">950309</field>
+<text_pt>
 FRED MADERSBACHER 
 Free-lance para a Folha 
 Israel, com 20.700 km2 &#151;menor que o Estado de Sergipe&#151;, estende-se entre o Mediterrâneo e o rio Jordão; das Colinas de Golã até a península do Sinai, no sul.
@@ -2758,9 +2758,9 @@ Lembre-se: sexta-feira é o feriado dos muçulmanos, sábado, dos judeus; domingo, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-152</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-152</field>
+<field name="date">950309</field>
+<text_pt>
 A partir de US$ 1.890 é possível passar os feriados da Semana Santa em Israel; alguns programas incluem o Egito 
 Da Reportagem Local 
 Quem quiser passar os feriados da Páscoa na Terra Santa já pode começar a se programar. Várias agências de viagens de São Paulo oferecem pacotes completos para Israel, muitos deles com saídas nos feriados da Páscoa. Veja, abaixo, algumas sugestões de roteiros. Os preços são por pessoa em apartamento duplo. A Mundovision tem um roteiro de 11 noites, conjugado com o Egito, conhecendo Cairo, Tel Aviv, Jerusalém, Belém etc.
@@ -2776,9 +2776,9 @@ RESERVAS: DESIGNER: (011) 223-3799; MANDALA: (011) 257-2558; MUNDOVISION: (011) 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950309-153</text_pt>
-<text_pt name="date">950309</text_pt>
-<text_pt name="text">
+<field name="id">FSP950309-153</field>
+<field name="date">950309</field>
+<text_pt>
 CLAUDIO GARON 
 Da Redação 
 Religião e política sempre desempenharam papéis centrais na história do Oriente Médio. Em todos os países da região, grupos religiosos têm importância política central e mesmo os não-religiosos muitas vezes apelam para argumentos de ordem religiosa.

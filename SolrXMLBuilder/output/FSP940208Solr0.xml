@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940208-001</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-001</field>
+<field name="date">940208</field>
+<text_pt>
 O ministro Fernando Henrique (Fazenda) cobrou ontem do Congresso "responsabilidade". Em pronunciamento de dez minutos em cadeia de rádio e TV, afirmou que chegou ao "limite" nas negociações com os parlamentares sobre o Fundo Social de Emergência, que deve ser votado hoje na revisão. "Se não gosta do programa, que o rejeite. Não faltará quem proponha outros caminhos." Com discurso de candidato, FHC leu índices que considera positivos em sua gestão. Os partidos querem propor alterações. A intenção do governo é conseguir a aprovação em primeiro turno até amanhã. O segundo será depois do Carnaval. Brasil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-002</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-002</field>
+<field name="date">940208</field>
+<text_pt>
 O Congresso Nacional passa hoje pelo seu primeiro grande teste desde a instalação da CPI do Orçamento, ao votar o Fundo Social de Emergência (FSE).
 Não se trata, como é óbvio, de pedir aos parlamentares que dêem um cheque em branco ao governo, aprovando o projeto original. Trata-se, sim, de exigir dos congressistas que eliminem um fator de perturbação em um cenário já nebuloso. Se a maioria considerar correta a proposição do Executivo, que a aprove. Se houver uma proposta alternativa melhor, que seja esta a aprovada. O intolerável é a indefinição.
 Que um Congresso queira derrubar o ministro da Economia, faz parte do jogo democrático em qualquer país do mundo. Mas, se a intenção por trás da derrubada for um miúdo cálculo eleitoral, o de evitar fortalecer uma candidatura em potencial à Presidência, seria uma irresponsabilidade.
@@ -22,9 +22,9 @@ Afinal, tanto quanto o Congresso, o Executivo teve dois meses para estudar event
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-003</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-003</field>
+<field name="date">940208</field>
+<text_pt>
 A capacidade da burocracia estatal de imaginar meios de dificultar a vida do cidadão parece insuperável. Um dos mais recentes é a medida, ora em estudo na Receita Federal, que limita ao Banco do Brasil e à Caixa Econômica Federal (e possivelmente aos demais bancos oficiais) a habilitação para distribuir e receber as declarações do IR este ano.
 São notórias as complicações que todos os anos cercam o período da entrega das declarações, com adiamentos e indefinições mergulhando o contribuinte na incerteza. Não satisfeito com esses problemas, o governo considera até agravá-los. Hoje toda a rede bancária &#150;pública e privada&#150; está autorizada a distribuir e receber a declaração, oferecendo ao contribuinte a conveniência de optar entre 16 mil agências em todo o país. Ora, passar dessa situação para uma em que apenas determinadas instituições (com cerca de 6.000 agências) vão poder receber as declarações é um retrocesso evidente.
 A exclusividade foi proposta pela CEF e pelo BB em troca da impressão dos formulários e há dúvidas se incluirá também o pagamento o imposto devido. Com isso, seriam intermediários de uma considerável soma de recursos que de outra forma estariam diluídos pela rede bancária.
@@ -32,9 +32,9 @@ Se a mera existência de bancos oficiais já é questionável, um acordo como esse, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-004</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-004</field>
+<field name="date">940208</field>
+<text_pt>
 Nos últimos anos, o país tem procurado avançar na busca de padrões éticos mais elevados no trato do dinheiro público. Afinal, não foi por outro motivo senão por corrupção que Collor perdeu seu mandato e que, agora, vários congressistas também devem ser cassados. No entanto, parece claro que, mais do que cassar políticos corruptos &#150;sem dúvida um ato de fundamental importância&#150;, cumpre ao Brasil evitar que novos casos de roubo de recursos públicos aconteçam a cada dia.
 Nesse sentido, o deputado federal Hélio Bicudo (PT-SP) publicou nesta Folha no último domingo um correto e corajoso artigo que representa uma grande contribuição para esse debate.
 O artigo é correto ao verificar que, tão importante quanto punir eventuais culpados, é evitar que o trato do dinheiro público no país permaneça como um sistema viciado, no qual corruptos e corruptores se confundem e o suborno muitas vezes é condição necessária para que uma empresa ganhe uma licitação pública. O artigo é corajoso pois é mais fácil ater-se ao ataque, geralmente correto, às empreiteiras do que ver que o problema é mais profundo.
@@ -43,9 +43,9 @@ O problema da corrupção é antigo e muito profundo. Paralelamente às investigaçõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-005</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-005</field>
+<field name="date">940208</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A época talvez seja mesmo a mais conveniente para se votar o eixo do Plano FHC, o tal Fundo Social de Emergência (FSE). É Carnaval, aquela festa em que tudo acaba na quarta-feira, como diz uma velha música.
 Se o Congresso rejeitar o FSE, também Fernando Henrique Cardoso se acaba na quarta-feira, ao menos como ministro da Fazenda, se cumprir as reiteradas ameaças de demitir-se caso os parlamentares não lhe dêem o FSE. Como o Carnaval acaba na quarta-feira, mas também começa na quarta-feira (o Carnaval do ano seguinte), vale idêntico raciocínio: na quarta-feira, acaba a fantasia de ministro e começa a de candidato presidencial.
@@ -57,9 +57,9 @@ Enfim, é um Carnaval atípico. Já na segunda-feira, o ministro anuncia: "Fiz o qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-006</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-006</field>
+<field name="date">940208</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Até ontem à noite, todas as fontes de informação mais confiáveis indicavam: se o plano não for aprovado ou se sofrer uma mutilação, Fernando Henrique Cardoso deixa o Ministério da Fazenda. Criou-se um constrangimento moral &#150;um constrangimento gerado pelo próprio ministro. "Não me sobrou alternativa", comentou.
 Para aprovar o plano, ele resolveu jogar pesado, colocando na mesa seu cargo. Encostou na parede o Congresso, transformado em alvo a ser responsabilizado por uma eventual explosão da crise. E, ao mesmo tempo, acenou com o caos, provocando medo e até pânico entre empresários.
@@ -70,9 +70,9 @@ Ele ficará marcado como alguém que não conseguiu dobrar a inflação e, "preso ao 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-007</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-007</field>
+<field name="date">940208</field>
+<text_pt>
 Luiz Caversan
 RIO DE JANEIRO &#150; Eu teria todos os motivos do mundo para concordar com o Carlos Heitor Cony quando ele disse, em sua crônica de ontem, com outras palavras, que o Carnaval é uma ótima oportunidade para o governo praticar a sua especialidade, que é o desgoverno. É toda vez assim, mesmo, fevereiro sempre foi o mês de 15 dias, e tudo que pode ser protelado o será.
 Ouso apenas discordar quando o nobre colunista afirma que "Carnaval é festa curtida por gays e economistas do governo". Pode até ser, e certamente é. Mas não só. Claro que ficar duas horas preso num engarrafamento por causa de uma festa de Carnaval &#150;no caso de Cony, a banda Simpatia É Quase Amor, que todo ano bagunça o coreto de Ipanema&#150;, é de torrar a paciência de qualquer um. Mas se há, ainda, uma tradição a ser respeitada e incentivada no Rio de Janeiro esta é a dos blocos de rua, que, atrapalhando o trânsito ou não &#150;aliás, um problema da polícia&#150;, mantém viva uma das festas populares mais bacanas do país.
@@ -81,9 +81,9 @@ Carnaval não tem meio-termo: ou a gente gosta ou odeia. Mas uma coisa é impossív
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-008</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-008</field>
+<field name="date">940208</field>
+<text_pt>
 José Serra
 Na semana passada, como líder do PSDB e baseado em relatório da assessoria da bancada, defini o voto contrário ao decreto legislativo que estabelece a devolução, retroativa a 1979, de tudo que foi pago em correção monetária, capitalização de juros ou juros de mora de um milhão de contratos de financiamentos agrícolas.
 No plenário, o deputado tucano Flávio Arns, além de encaminhar o voto contrário, pediu "verificação de voto", tentando impedir a aprovação do decreto, que prescinde de sanção do Executivo. Em discurso de improviso, alertei para o custo do decreto, para sua inconstitucionalidade, para a consequente suspensão dos financiamentos agrícolas do Banco do Brasil e, portanto, para o formidável prejuízo que acabaria trazendo à própria agricultura. Poucos deputados, porém, acompanharam o PSDB. A maioria preferiu seguir os votos favoráveis comandados pela UDR e pelo PDT.
@@ -97,9 +97,9 @@ José Serra escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-009</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-009</field>
+<field name="date">940208</field>
+<text_pt>
 PEDRO SIMON
 O dia de hoje representa um novo desafio na história recente do Parlamento brasileiro. Isso porque, quando estiver votando a proposta de emenda constitucional que cria o Fundo Social de Emergência, o Congresso estará ao mesmo tempo produzindo uma escolha de caráter filosófico. Mais do que viabilizar ou não o plano de estabilização do governo, está em jogo a concepção de democracia nas relações entre governo e Parlamento no Brasil.
 Na história do Congresso brasileiro, todos os planos econômicos foram imediatamente votados e aprovados. É verdade que durante a vigência do regime militar a participação do Congresso era muito pequena. Mas no regime democrático todos os planos foram aprovados de pronto &#150;o Plano Collor, que confiscou a economia popular, entre eles. Nenhum desses planos trazia em seu bojo uma preocupação com a participação do Congresso. Foram medidas de impacto, imposições.
@@ -115,9 +115,9 @@ PEDRO SIMON, 64, é senador pelo PMDB do Rio Grande do Sul e líder do governo no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-010</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-010</field>
+<field name="date">940208</field>
+<text_pt>
 GONZAGA MOTA
 O programa de estabilização apresentado pelo atual governo difere de uma maneira fundamental de propostas anteriores. Ele se inicia com um ajuste fiscal, como precondição para, posteriormente, poder efetuar uma reforma monetária estabilizadora. Os planos anteriores, ao contrário, instituíram inicialmente uma reforma monetária (quando não um mero congelamento de preços e salários) para somente depois tentarem partir para o ajuste fiscal &#150;que nunca executaram.
 Mais especificamente, fazendo-se uma análise do ponto de vista técnico, o referido programa comporta três fases: a) ajuste fiscal e início do processo de mudança do regime fiscal; b) liberdade de contrato com a Unidade Real de Valor (URV), que refletirá a inflação contemporânea, permitindo unificar e sincronizar o sistema de indexação da economia; c) emissão de nova moeda forte e de poder aquisitivo estável.
@@ -137,9 +137,9 @@ GONZAGA MOTA, 51, é deputado federal pelo PMDB-CE e relator da Comissão Especial
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-011</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-011</field>
+<field name="date">940208</field>
+<text_pt>
 "Receba nossos cumprimentos pelo artigo 'Uma vergonha nacional', na coluna de Luís Nassif de 4/02, no qual, de forma clara e direta, ele traduziu o sentimento de todos nós."
 Alvaro Augusto Vidigal, presidente da Bolsa de Valores de São Paulo (São Paulo, SP)
 *
@@ -170,9 +170,9 @@ Marcos Moreno (Varginha, MG)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-012</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-012</field>
+<field name="date">940208</field>
+<text_pt>
 "Li e reli o editorial 'Brasil fora do mapa', publicado na Folha de 7/02. Dá para sentir, em cada linha, a indignação do editorialista com respeito à ausência de autoridades federais do primeiro escalão, no fórum de Davos, na Suíça. Ora, a conclusão principal que se chegou lá não é a inflação. É o desemprego. Nada disso tem a ver com o Brasil. Aqui, os políticos estão muito bem empregados. Dá até para se manipular orçamentos com a maior facilidade. Dinheiro não é problema. E há vontade política em não se acabar com a inflação. Ela alimenta os grandes. Que assunto poderíamos levar a Davos, sem ser a corrupção dentro do Congresso Nacional e do próprio governo?"
 Wilson Gonsalez (Garça, SP)
 
@@ -190,9 +190,9 @@ Carlito Maia (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-013</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-013</field>
+<field name="date">940208</field>
+<text_pt>
 Dependendo da resistência à proposta, a estratégia pode ser alterada
 EUMANO SILVATALES FARIA
 Da Sucursal de Brasília
@@ -205,9 +205,9 @@ Mesmo que não consiga votar o FSE antes do mandato presidencial, o governo terá 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-014</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-014</field>
+<field name="date">940208</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Da Reportagem Local
 O líder do governo na Câmara, Luiz Carlos Santos (PMDB-SP), e o relator do Congresso revisor, Nelson Jobim (PMDB-RS), afirmaram ontem que a revisão constitucional entrará em ritmo acelerado após a votação do Fundo Social de Emergência (FSE), prevista para hoje. "A aprovação do FSE é condição básica para existência de um clima favorável à revisão", diz Santos.
@@ -218,9 +218,9 @@ Jobim defende também a extinção dos juízes classistas na Justiça do Trabalho. "N
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-015</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-015</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Se depender da maioria da bancada do PMDB, a revisão constitucional vai aprovar o voto distrital misto, permitir a reeleição de presidente da República, governadores e prefeitos e manter o voto obrigatório. As tendências foram identificadas em pesquisa realizada pela Fundação Pedroso Horta em janeiro, durante encontro do conselho nacional do partido. Foram ouvidos 70 dos cerca de 100 deputados federais do maior partido brasileiro.
 Os números mostram que 52,86% dos parlamentares ouvidos apóiam a quebra do monopólio estatal sobre o petróleo e as telecomunicações, 41,43% são contra e 5,71% votaram em branco. A maioria (58,57%) concorda com o fim da distinção entre empresas brasileiras e empresas brasileiras de capital nacional. E 62,88% defendem a extinção da regra que limita a exploração dos recursos minerais e potenciais hídricos a brasileiros ou empresas brasileiras de capital nacional.
@@ -228,9 +228,9 @@ A grande maioria (87,14%) apóia o controle externo do Poder Judiciário e 60% são
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-016</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-016</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal do Rio
 Por recomendação dos técnicos que executaram a diligência determinada pela CPI do Orçamento na Fundação Roberto Marinho, o TCU (Tribunal de Contas da União) decidiu dar continuidade à investigação junto aos órgãos do governo que assinaram convênios com a entidade. No relatório enviado à CPI e à direção do TCU, os técnicos apontam contradições e indícios de irregularidades nos documentos examinados na fundação.
 O superintendente de comunicação da fundação, Leonardo Laginestra, disse que não teve acesso ao relatório para fazer um comentário, mas acrescentou que o interesse da entidade é que tudo seja investigado a fundo para não ficar nenhuma dúvida sobre a lisura das operações que ela fez com órgãos do governo.
@@ -247,9 +247,9 @@ O deputado Paulo Ramos (PDT-RJ), indicado pela CPI do Orçamento para acompanhar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-017</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-017</field>
+<field name="date">940208</field>
+<text_pt>
 Se o pacote fiscal não for votado nesta semana, ministro Fernando Henrique Cardoso deve pedir demissão
 Da Sucursal de Brasília
 Os líderes dos maiores partidos se dispõem a aprovar a criação do FSE (Fundo Social de Emergência), que deve ser votado hoje pelo Congresso revisor em primeiro turno, mas pretendem propor alterações. Segundo a Folha apurou, se o Legislativo não votar o pacote fiscal nesta semana, o ministro da Fazenda, Fernando Henrique Carodoso, não permanecerá no cargo.
@@ -268,17 +268,17 @@ Sobre o FSE às págs. 1-7 e 1-8
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-018</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-018</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal do Rio
 O PFL vai votar a favor do Fundo Social de Emergência em troca do apoio do governo na revisão à quebra dos monopólios estatais e ao fim das restrições ao capital externo. A afirmação foi feita ontem no Rio pelo líder do PFL no Senado, Marco Maciel, e pelo presidente do partido, Jorge Bornhausen."Apoiamos o ministro e em contrapartida ele nos ajuda na revisão, em princípios que o partido adotou: modificação na ordem econômica em relação aos monopólios e ao capital externo, novo modelo para a Previdência e novo pacto federativo", disse Bornhausen.Marco Maciel afirmou que o ministro Fernando Henrique dará detalhes sobre os "aperfeiçoamentos" que o plano recebeu.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-019</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-019</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 O Congresso e o governo federal passaram o dia de ontem chamando deputados e senadores para que compareçam à sessão de hoje da revisão constitucional marcada para votar a criação do FSE (Fundo Social de Emergência). O ministro da Aeronáutica, Lélio Lôbo, e o presidente da Câmara, Inocêncio de Oliveira (PFL-PE), conseguiram que as companhias aéreas dêem preferência a parlamentares em seus vôos comerciais.
 O ministro do Planejamento, Alexis Stepanenko, disse à Folha que a reunião da Sudene (Superintendência de Desenvolvimento do Nordeste), marcada para hoje, foi adiada para o próximo dia 21. Com isso, vários governadores do Nordeste, como Joaquim Francisco (Pernambuco), João Alves (Sergipe) e José Agripino Maia (Rio Grande do Norte), estarão no plenário pedindo votos para o FSE.
@@ -290,9 +290,9 @@ O governo quer garantir um quórum mínimo de 420 parlamentares na sessão de hoje 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-020</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-020</field>
+<field name="date">940208</field>
+<text_pt>
 INÁCIO MUZZI
 Do Painel, em Brasília
 A ausência mais sentida pela equipe do ministro da Fazenda, Fernando Henrique Cardoso, no Congresso, é um nome marcado para morrer: Genebaldo Correia (PMDB-BA). Há três meses ele deixou a liderança do PMDB, tragado pela lama do Orçamento. Há três meses o governo acumula tropeços no relacionamento com o Legislativo.
@@ -304,9 +304,9 @@ Tarcísio Delgado, que terá hoje a incumbência de mobilizar sua bancada, não prez
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-021</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-021</field>
+<field name="date">940208</field>
+<text_pt>
 E assume em momento de desarticulação
 Da Sucursal de Brasília
 O presidente Itamar Franco dá hoje novamente posse a Henrique Hargreaves, 58, como ministro-chefe da Casa Civil, no momento em que o governo está sem articulação política no Congresso para garantir a aprovação do Fundo Social de Emergência (FSE).
@@ -316,16 +316,16 @@ Hargreaves foi responsabilizado por importantes derrotas do governo no Congresso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-022</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-022</field>
+<field name="date">940208</field>
+<text_pt>
 Além de desnecessária, a apresentação do ministro Fernando Henrique em rede nacional variou entre o óbvio e a inverdade, quando escapou do vazio. Desnecessária porque desde quinta-feira, pelo menos desde então, ele recebeu do PPR de Maluf, do PFL e do PMDB a garantia de que hoje aprovariam o plano, dependendo apenas de que fossem logo formalizada as alterações que sugeriam. Já na sexta-feira, o assessor Edmar Bacha acertou os pontos pendentes com o PPR, em reunião no Rio.O ministro não cedeu "tudo o que era possível". Na visão do PSDB, de integrantes da própria equipe e dos partidos que repeliam partes do plano, cedeu o que era impossível ceder sem desfigurar o projeto apresentado ao Congresso. Basta ver, neste sentido, o esvaziamento completo do sacrifício que o projeto pretendia impor aos Estados e Municípios. Disse Fernando Henrique, na rede nacional, que esta concessão foi feita "porque eles (estados e municípios) necessitam". E por que o ministro propôs sacrificá-los e na discussão deste ponto do seu projeto foi perdido tanto tempo e acumuladas tantas tensões? Esta seria uma explicação boa para a rede nacional. Não veio, nem podia.É óbvio que o Congresso pode decidir "dizendo sim ou não". O que não deve é deixar de fazer o que fez agora: discutir, propor, negociar e só então admitir a aprovação. Que suas propostas sejam louváveis ou não, é outro assunto. Mas já no começo de suas referências ao Congresso o ministro mostrou o vazio de suas razões televisivas: ele começou pela crítica à aprovação de outros planos econômicos, no Congresso, sem sequer os discutir. E por que, quando há a discussão, insinua ele com sua saída de campo, lança acusações ao Congresso, para culminar ocupa e nos ocupa em rede nacional?As alegações de que "quem vai pagar a conta são os que ganham mais de cinco milhões" o aumento de imposto para a classe média é "bem menos de 2%", ou, só para mais um exemplo, "estados e municípios fizeram acordo e estão pagando suas contas em dia" &#150; estas e outras afirmações provêm do lado crescentemente demagogo de Fernando Henrique. E demagogia é inseparável de mentira. E desnecessidade de cometê-la.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-023</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-023</field>
+<field name="date">940208</field>
+<text_pt>
 Para ministro, 'não faltará quem proponha outros caminhos' se FSE não passar
 Da Sucursal de Brasília
 Em pronunciamento de dez minutos em cadeia nacional de rádio e TV, o ministro da Fazenda, Fernando Henrique Cardoso, cobrou ontem do Congresso "responsabilidade". Afirmou que chegou ao seu "limite" nas negociações com os parlamentares e deixou implícito que deixará o governo caso o Fundo Social de Emergência, principal medida do seu plano econômico, não seja aprovado. "Se não gosta do programa, que o rejeite. Não faltará quem proponha outros caminhos", disse.
@@ -337,18 +337,18 @@ Ao relacionar as três fases de seu plano de combate à inflação, o ministro que s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-024</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-024</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 No dia em que o ministro Fernando Henrique Cardoso se preparava para fazer o pronunciamento à Nação como última cartada para salvar o governo e garantir a aprovação de seu plano, o presidente Itamar Franco deu meio expediente no Palácio do Planalto. A assessoria de imprensa do presidente disse que ele teve uma indisposição e recebeu orientação médica para ficar em casa.
 Apesar do dia atribulado, o ministro da Fazenda, Fernando Henrique Cardoso, ainda encontrou tempo para cuidar da aparência. Por volta das 12h30, Fernando Henrique &#150;no ministério desde as 10h30&#150; foi cortar o cabelo no salão de Raimundo Manoel dos Santos, no hotel Kubitschek Plaza. O corte não demorou mais que 20 minutos."O ministro estava com pressa", disse Santos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-025</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-025</field>
+<field name="date">940208</field>
+<text_pt>
 Segundo o STF, se aprovada, emenda só poderá ser promulgada com as demais alterações da Constituição
 EDIANA BALLERONI
 Coordenadora de Economiada Sucursal de Brasília
@@ -365,18 +365,18 @@ Além disso, a promulgação imediata equivaleria a aprovar várias emendas constitu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-026</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-026</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Itamar Franco vai assistir ao desfile de uma escola de samba no domingo de Carnaval no Rio de Janeiro. Segundo a assessoria de imprensa do Palácio do Planalto, o presidente acompanhará o desfile do camarote da Liga das Escolas de Samba e será o primeiro presidente a acompanhar o carnaval no Sambódromo.
 Itamar viaja para o Rio no sábado de carnaval, assiste ao desfile no domingo e na segunda-feira segue para Juiz de Fora (MG), onde não tem qualquer programação prevista. O retorno para Brasília deve acontecer na quarta ou quinta-feira.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-027</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-027</field>
+<field name="date">940208</field>
+<text_pt>
 GUTEMBERG DE SOUZA
 Da Sucursal de Brasília
 A falta de quórum para a sessão da Câmara na tarde de ontem jogou para depois do Carnaval o prazo para que os deputados Ricardo Fiuza (PFL-PE), Raquel Cândido (PTB-RO) e Paulo Portugal (PP-RJ) &#150;todos acusados pela CPI do Orçamento&#150; apresentem sua defesa perante a CCJ (Comissão de Constituição e Justiça). Os outros 14 acusados na Câmara, notificados antes, terão que apresentar a defesa na próxima sexta-feira, caso não volte a faltar quórum nas sessões marcadas até lá.
@@ -386,9 +386,9 @@ O presidente da CCJ, José Dutra (PMDB-AM), concorda com a exigência de Fiuza. El
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-028</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-028</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Presidente Prudente
 Cerca de 2.300 famílias de trabalhadores sem terra invadiram ontem a fazenda Jangada, em Getulina (473 km a noroeste de São Paulo) e já estão ameaçadas de despejo. O juiz Roberto Rainieri Simão manteve a liminar de reintegração de posse concedida ao fazendeiro Antonio Ribas em 1993 e estipulou um prazo de 24 horas para a retirada dos invasores.
 A ocupação é a segunda ocorrida na fazenda nos últimos quatro meses. Em 1993 os sem-terra permaneceram na fazenda de 8 de outubro a 20 de novembro, quando foram retirados pela polícia. Cerca de 20 pessoas ficaram feridas durante o despejo. Desta vez os invasores reclamam da demora da Justiça em concluir a vistoria da fazenda para confirmar se o laudo do Incra, que a classifica de improdutiva, é correto ou não.
@@ -396,9 +396,9 @@ A fazenda Jangada chegou a ser desapropriada pelo governo federal no final do an
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-029</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-029</field>
+<field name="date">940208</field>
+<text_pt>
 GUSTAVO PATÚ
 Da Sucursal de Brasília
 A eventual decisão do STF (Supremo Tribunal Federal) em não aprovar a promulgação imediata do FSE (Fundo Social de Emergência) pode inviabilizar o acordo da dívida externa. O cronograma montado pela equipe econômica não admite atrasos: até o próximo dia 10 de março o governo precisa assinar o acordo com o FMI (Fundo Monetário Internacional), para renegociar US 35 bilhões da dívida em 15 de abril.
@@ -408,9 +408,9 @@ Sobre o resultado das contas públicas em 1993, o FMI foi informado de que o país
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-030</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-030</field>
+<field name="date">940208</field>
+<text_pt>
 SÔNIA MOSSRI
 Da Sucursal de Brasília
 O presidente Itamar Franco já começou a estudar nomes para substituir Fernando Henrique Cardoso no Ministério da Fazenda caso ele deixe o governo. O ministro do Meio Ambiente e da Amazônia Legal, Rubens Ricúpero, o presidente do Banco Central, Pedro Malan, e o secretário da Receita Federal, Osiris Lopes Filho, estão entre os mais cotados no Planalto.
@@ -425,9 +425,9 @@ Tanto Osiris quanto Calliari significariam o retorno da política do "feijão com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-031</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-031</field>
+<field name="date">940208</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG
 Enviado Especial a Brasília
 Dados recentes do Banco do Brasil mostram que os devedores do crédito rural não são pequenos agricultores. Indicam ainda que os recursos emprestados aos produtores rurais não vêm de depósitos à vista não remunerados. Essas informações contrariam os argumentos dos parlamentares que defendem o decreto legislativo, já aprovado na Câmara dos Deputados, que manda devolver aos produtores toda a correção monetária que pagaram desde 79.
@@ -439,9 +439,9 @@ O projeto de decreto legislativo que manda os bancos devolverem a correção monet
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-032</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-032</field>
+<field name="date">940208</field>
+<text_pt>
 Deputado Paulo Mandarino nega presença no plenário e voto a favor do perdão nas dívidas dos produtores
 LILIANA LAVORATTI
 GUSTAVO PATÚ
@@ -454,18 +454,18 @@ O deputado José Fortunatti (PT-RS) também enviou requerimento à presidência da C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-033</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-033</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal do Rio
 A Comissão Diretora do programa de privatização marcou para o dia 3 de março, na Bolsa do Rio, um leilão para vender os 8,8% do capital votante da CSN (Companhia Siderúrgica Nacional) que sobrou do leilão de privatização da empresa, realizado em abril do ano passado. Serão vendidos sete milhões de lotes de mil ações.
 O preço por lote será definido pela média ponderada do valor das ações da empresa na Bovespa (Bolsa de Valores de São Paulo) nos 15 dias anteriores ao leilão. Ao preço de ontem, o lote custaria US$ 35 e o total de ações que será leiloado custaria US$ 245 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-034</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-034</field>
+<field name="date">940208</field>
+<text_pt>
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
 O governo federal estuda uma forma de retaliar os fundos de previdência ligados a empresas estatais cujos funcionários entraram na Justiça para contestar a resolução 2.038 do Conselho Monetário Nacional. A resolução 2.038 é a que determina a esses fundos a aplicação compulsória de 35% de suas reservas em NTN (Notas do Tesouro Nacional) série R.
@@ -476,9 +476,9 @@ Com a iniciativa partindo formalmente dos funcionários, o governo ficou de "mãos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-035</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-035</field>
+<field name="date">940208</field>
+<text_pt>
 Investigação vai atingir quem ganha mais de US$ 10 mil e outras 73 mil pessoas com sinais exteriores de riqueza
 Da Reportagem Local e da Sucursal do Rio
 O secretário da Receita Federal, Osiris Lopes Filho, disse ontem que Receita vai concentrar seus esforços de fiscalização sobre as pessoas físicas "ricas" (que ganhem mais de US$ 10 mil ao mês, equivalentes no salário de fevereiro a CR$ 5,037 milhões) ou que possuam algum sinal exterior de riqueza (grandes apartamentos carros importados, iates etc.).
@@ -494,9 +494,9 @@ Colaborou a Agência Folha em Campo Grande.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-036</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-036</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Os setores da economia que aumentaram seus preços abusivamente terão tratamento especial do governo na hora da conversão para URV (Unidade Real de Valor). José Milton Dallari, assessor especial de preços do Ministério da Fazenda, disse ontem que a idéia é expurgar da média os meses em que a remarcação foi feita.
 "Podemos tirar os dois últimos meses na hora de compor os preços" disse Dallari. Ele afirmou que o governo já identificou os setores "espertos", que reajustaram os preços abusivamente. Sem citar nomes, Dallari afirmou que alguns oligopólios reajustaram seus preços entre 25% e 35% acima da inflação em 93.
@@ -506,9 +506,9 @@ Armando Peralta, presidente da Apas (Associação Paulista de Supermercados) afirm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-037</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-037</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro das Relações Exteriores, Celso Amorim, disse ontem que há divergência entre o Brasil e os Estados Unidos na interpretação do Código de Propriedade Intelectual, ainda não votado no Senado Federal. Por isso, o governo brasileiro vai tentar evitar que os Estados Unidos ponham em prática as ameaças de retaliação comercial contra o Brasil.
 O embaixador brasileiro em Washington, Paulo Tarso Flecha de Lima, se reuniu ontem com Amorim e os ministros Israel Vargas (Ciência e Tecnologia) e Élcio Álvares (da Indústria, do Comércio e do Turismo) para discutir o assunto. O objetivo foi discutir alternativas para evitar represálias dos Estados Unidos no final do mês, quando termina o prazo dado para que o Brasil tenha uma lei de patentes."Não há risco de sofrermos retaliações devido à demora do Congresso Nacional em votar. Estamos discutindo problemas de substância", afirmou o ministro Celso Amorim.
@@ -521,9 +521,9 @@ Se os Estados Unidos cumprirem as ameaças de retaliações, não será a primeira ve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-038</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-038</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo reeditou ontem a MP (Medida Provisória) que extinguiu o pecúlio e o abono de permanência em serviço para os aposentados, conhecido como pé na cova. Foi a segunda reedição da MP, ainda não votada pelo Congresso.
 O pecúlio é uma espécie de poupança que o aposentado que retornou ao trabalho recebe quando vai para a inatividade. É composto com o que ele recolhe à Previdência após se aposentar e retornar ao trabalho. Com a MP, o aposentado que retornar à ativa não precisa pagar a contribuição previdenciária.
@@ -531,18 +531,18 @@ O pé na cova é um abono pago ao segurado com direito de se aposentar, mas que op
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-039</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-039</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Salvador
 O sócio-diretor da empresa de consultoria Arthur Andersen, Nildo Freire, disse ontem em Salvador (BA) que a decisão do governo federal de elaborar um plano econômico para tributar lucros "é um retrocesso". Segundo Freire, a medida vai inibir novos investimentos no país. Em palestra para cerca de 200 empresários e consultores, Freire disse que "o plano tem que ser atrelado a uma política econômica de crescimento".
 Para o gerente de consultoria fiscal da empresa, Marcos Almeida, o principal motivo da inibição do capital estrangeiro no Brasil é a carga tributária de 45% sobre os lucros das empresas. "Os países da América Latina taxam o lucro em 32%", disse. Os países da Ásia se desenvolveram nos últimos anos porque taxaram o lucro das empresas em 20%, afirmou.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-040</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-040</field>
+<field name="date">940208</field>
+<text_pt>
 FRANCISCA RODRIGUES
 Da Reportagem Local
 Uma comissão de dirigentes da Força Sindical pede hoje a suspensão por 90 dias, do enunciado 330 do TST (Tribunal Superior do Trabalho) que limita a possibilidade de o trabalhador recorrer à Justiça quando ele homologar sua rescisão de emprego em sindicato.
@@ -554,9 +554,9 @@ A medida vêm causando transtornos nas DRTs (Delegacias Regionais do Trabalho). O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-041</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-041</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Carlos Tavares, assessor do prefeito Paulo Maluf (PPR), informou ontem que as declarações sobre programa conjunto do PFL e PPR foram mal interpretadas. Segundo Tavares, ao falar sobre programa único de governo, Maluf teve a intenção de lançar "apenas uma idéia" para discussão nos dois partidos.
 "O que o prefeito quis dizer é que, antes de pensar em nomes de candidatos, o PFL e o PPR precisam pensar em um programa comum de governo", disse Carlos Tavares.
@@ -564,9 +564,9 @@ Segundo o assessor de Maluf, "não se pode dizer que a declaração de Bornhausen c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-042</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-042</field>
+<field name="date">940208</field>
+<text_pt>
 Presidente do PFL não fará programa conjunto com o PPR e diz que ACM é o candidato natural de seu partido
 Da Sucursal do Rio
 O presidente do PFL, Jorge Bornhausen, disse que a tendência do partido é lançar candidato próprio à Presidência e que Antônio Carlos Magalhães é o nome natural, caso o governador baiano decida disputar a eleição deste ano. Bornhausen rejeitou a proposta do prefeito de São Paulo, Paulo Maluf (PPR), de coordenar a elaboração de um programa conjunto de governo do PFL com o PPR.Maluf, segundo Bornhausen, telefonou no sábado propondo que ele coordenasse o programa conjunto, embrião de uma possível aliança já no primeiro turno entre PPR e PFL. O presidente do PFL disse que não concordou e sugeriu que o PPR elaborasse um programa próprio e que posteriormente se discuta se há pontos em comum entre os programas dos partidos."Já ouvi os presidentes estaduais do partido e há uma preferência majoritária por um candidato próprio do PFL. É uma tendência do partido, mas não é uma decisão, que será tomada em convenção", disse Bornhausen.O presidente do PFL cita o senador Marco Maciel e o governador de Santa Catarina, Vilson Kleinubing, como nomes que o partido dispõe para disputar as eleições presidenciais mas afirma que ACM tem preferência. "Antônio Carlos Magalhães é o candidato natural. Se ele desejar ser candidato, tenho certeza que o partido estará unido ao seu lado."O prefeito Paulo Maluf tenta acertar um acordo com ACM para que &#150;aquele que estiver entre os dois melhor colocado nas pesquisas de intenção de voto&#150; tenha apoio do PPR e do PFL, com espaço ainda para PP, PL e PTB. A idéia de elaborar um programa conjunto de governo foi rejeitada porque o PFL já articulava uma comissão para trabalhar na linha básica que o partido defenderá na disputa pela Presidência."O PFL é o segundo maior do país e não deve deixar de ter candidato. Essa é a lógica. Mas não quer dizer que o partido não possa discutir uma aliança", afirmou o senador Marco Maciel.
@@ -574,9 +574,9 @@ O esboço do programa de governo do PFL para a disputa da eleição presidencial es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-043</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-043</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal do Rio
 O presidente da CSN (Companhia Siderúrgica Nacional), Roberto Procópio Lima Netto, articula o lançamento de sua candidatura ao governo do Estado do Rio pelo PFL. Lima Netto é estimulado pelo presidente nacional do partido, Jorge Bornhausen, mas encontra resistência porque parte do PFL prefere uma aliança com o ex-prefeito do Rio Marcello Alencar (PSDB), que lidera as pesquisas de intenção de voto.
 O PFL vem de fracos desempenhos eleitorais no Estado do Rio e Lima Netto seria uma opção liberal à política de centro de Marcello Alencar e ao brizolismo, ainda sem candidato definido. O presidente da CSN, que nunca fez parte formalmente de partido político, se filiou no final do mês passado ao PFL mas não dá como certa sua candidatura."Ainda estou em cima do muro. Temos muita conversa pela frente", afirma. Lima Netto diz que, se for candidato, dará prioridade ao combate à violência e à criação de empregos.
@@ -585,9 +585,9 @@ Lima Netto começou a se destacar quando foi indicado em 90, pelo então president
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-044</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-044</field>
+<field name="date">940208</field>
+<text_pt>
 KENNEDY ALENCAR
 Da Reportagem Local
 Covas disse que a tática de sugerir que todo mundo é igual faz com que "quem seja errado deixe de ser errado", ao avaliar o comportamento de Quércia. O ex-governador chamou Ciro de "filho de ladrão" e "porca prenha" (gíria nordestina para designar mulher vadia. Ao responder se aceitaria um ataque de Quércia, afirmou: "sugira a ele que experimente".
@@ -598,9 +598,9 @@ Covas disse que, caso o Congresso não aprove o Fundo Social de Emergência, o min
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-045</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-045</field>
+<field name="date">940208</field>
+<text_pt>
 Governador recusa apelo de seu antecessor; decisão cria novo foco de atrito dentro do PMDB paulista
 EMANUEL NERI
 XICO SÁ
@@ -615,9 +615,9 @@ Quércia terá problemas dentro do PMDB. Além de Fleury, que não anunciou apoio à 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-046</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-046</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O presidente do PMDB, deputado Luiz Henrique (SC), disse que não foi comunicado formalmente da intenção do ex-governador Orestes Quércia de candidatar-se à Presidência da República. "Para mim ele disse que não havia decidido", afirmou Luiz Henrique após encontro com o governador Luiz Antonio Fleury Filho.
 Depos da reunião, o presidente do PMDB viajou a Manaus para discutir com o governador Gilberto Mestrinho (AM) o lançamento de uma candidatura de consenso à Presidência. Hoje, ele discutirá o assunto com o governador do Pará, Jáder Barbalho, aliado do ex-governador Orestes Quércia.
@@ -626,18 +626,18 @@ Luiz Henrique evita falar nos nomes em torno dos quais estaria ocorrendo a negoc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-047</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-047</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 O TSE (Tribunal Superior Eelitoral) aumentou a multa para quem deixa de votar e não justifica o não comparecimento.O teto máximo da multa era de 30 Ufirs e passou para 100 Ufirs. A multa mínima, que era de 1 Ufir, passou para 10 Ufirs.                                                     A mudança no valor da multa foi feita porque o tribunal percebeu que não poderia cobrá-la judicialmente. O Ministério da Fazenda só admite como dívida ativa da União débitos superiores a 60 Ufirs. Os inferiores não são inscritos na dívida ativa e, portanto, não podem ser cobrados judicialmente.                                                                                 Até a edição dessa resolução, o eleitor poderia deixar de votar e não pagar a multa. Agora, o TSE poderá cobrar as multas superiores a 60 Ufirs. As multas inferiores a esse valor não serão reclamadas - antes, o tribunal não poderia estipular o piso em 60 Ufirs porque a multa deve levar em consideração a condição econômica do eleitor.                              A multa para quem deixa de votar e justificar o voto é fixada pelo juiz eleitoral. O presidente do TSE, ministro Sepúlveda Pertence, se baseou em parecer da Corregedoria Geral da Justiça Eleitoral para baixar a resolução.
 .
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-048</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-048</field>
+<field name="date">940208</field>
+<text_pt>
 Diferentemente do publicado o nome do promotor da Vara do Júri das Execuções Criminais do Fórum de Santo André é Marcelo Milani e não Maurício Milani.ERRAMOS 
 Zezé se apresenta à polícia após 32 dias
 Da Folha ABCD
@@ -650,9 +650,9 @@ A apresentação de Zezé estava marcada para hoje de manhã, segundo petição entreg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-049</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-049</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre
 O coordenador do programa de governo do PT, Marco Aurélio Garcia, disse ontem que a previsão de assentar um milhão de famílias em cinco anos é "exagerada" e nasceu de um estudo "equivocado". A previsão consta da versão preliminar do programa de governo petista.
 Segundo ele, se vencer a eleição, o PT quer assentar 500 mil famílias. "É preciso reverter as áreas de tensão", disse Garcia sobre a necessidade da reforma agrária, que seria "regionalizada". Ele deu entrevista pelo telefone à rádio Gaúcha, de Porto Alegre.
@@ -660,9 +660,9 @@ Garcia disse que o PT não está "empenhado em seduzir os militares", mas entende 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-050</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-050</field>
+<field name="date">940208</field>
+<text_pt>
 Prêmio é para quem conseguir desenvolver uma maneira barata de detectar doenças sexualmente transmissíveis
 FERNANDA GODOY
 De Nova York
@@ -673,9 +673,9 @@ Atualmente existem testes para diagnosticar ambas as doenças, mas eles custam en
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-051</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-051</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 O aventureiro Mitsuro Oba partiu ontem do Japão para a Rússia, de onde pretende atravessar a pé, sozinho, a planície de gelo formada pelo oceano Ártico. Da Rússia ao Canadá, planeja percorrer 2.000 km em três meses.
 "Sei que é perigoso, mas cruzar o Ártico a pé sempre foi meu sonho", disse o japonês antes de partir. No dia 20, Oba, 41, quer começar a caminhada rumo ao pólo, no ponto mais ao Norte das ilhas de Komsomolets. Ele leva um trenó com alimentos, um computador pessoal e um rádio.
@@ -683,9 +683,9 @@ Oba quer percorrer em cinco horas diárias uma distância de 25 km a temperaturas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-052</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-052</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 Depois de dois dias de tentativas, a Nasa desistiu de lançar ao espaço o "Wake Shield Facility", disco de aço inoxidável de US$ 13,5 milhões usado para testar a produção de "bolachas" para chips de computador. Era o maior objetivo da missão do Discovery.
 O disco de 3,6 m de diâmetro e 1.730 kg fez, no braço mecânico da nave, duas das sete "bolachas" planejadas, embora sem a pureza esperada.
@@ -694,9 +694,9 @@ No orçamento anunciado ontem, o governo dos EUA cortou US$ 251 milhões da Nasa e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-053</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-053</field>
+<field name="date">940208</field>
+<text_pt>
 Governador recusa apelo de seu antecessor; decisão cria novo foco de atrito dentro do PMDB paulista
 EMANUEL NERI
 XICO SÁ
@@ -712,9 +712,9 @@ Independente disso, Quércia já começou a elaborar seu programa de governo. Os ec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-054</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-054</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O jornal da Central Única dos Trabalhadores em São Paulo (CUT-SP) que circulou na última semana de janeiro traz na capa a versão de José Benedito de Souza, o Zezé, para o assassinato do sindicalista Oswaldo Cruz Júnior. A manchete do jornal é "Morte foi legítima defesa, diz Zezé".
 A reportagem ocupa uma página da publicação e o editorial trata da suposta exploração política do crime pela imprensa e pelos meios de comunicação de massa."Isso é o que se chama manipular informações", afirma o editorial.
@@ -723,9 +723,9 @@ Ele sustenta que Cruz pediu que ele saísse da sala da presidência após a convers
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-055</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-055</field>
+<field name="date">940208</field>
+<text_pt>
 Da FT
 O pianista João Carlos Martins entrou com um recurso há dez dias para tentar impugnar a multa por sonegação e a dívida de sua empresa Paubrasil Engenharia e Montagens Ltda. com a Receita Federal &#150;que somam US$ 16 milhões. O resultado da medida só deve ser divulgado no fim do mês.
 Martins está sendo investigado por coordenar um esquema de arrecadação para as campanhas malufistas de 1990 e 1992, com a emissão de notas fiscais frias pela Paubrasil. Segundo o próprio pianista, o total arrecadado nas duas campanhas foi de US$ 15 milhões e US$ 4 milhões, respectivamente.
@@ -735,9 +735,9 @@ Se o recurso impetrado por Martins não for aceito e o pianista tiver que pagar o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-056</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-056</field>
+<field name="date">940208</field>
+<text_pt>
 
 
 Luís Eduardo Magalhães (BA), líder do PFL na Câmara: "Não adianta o ministro fazer ameaças, porque este Congresso nunca cedeu a ameaças de ministros. Nem nos governos militares. Foi um discurso sem fatos novos. O PFL permanece com sua posição de votar favorável ao plano. Deputado Antônio Britto (PMDB-RS), ex-ministro da Previdência:"O pronunciamento do ministro Fernando Henrique Cardoso foi muito claro. O plano é muito bom para o país."
@@ -775,9 +775,9 @@ Lincoln da Cunha Pereira, presidente da Associação Comercial de São Paulo: "Acho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-057</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-057</field>
+<field name="date">940208</field>
+<text_pt>
 Esta é a íntegra do pronunciamento do ministro da Fazenda, Fernando Henrique Cardoso, em cadeia nacional de rádio e TV:
 "Senhoras e senhores, boa noite.
 Diante da inflação, que beira os 40% ao mês e das dificuldades do povo, o governo apresentou ao Congresso um programa econômico para derrubar a inflação.
@@ -811,9 +811,9 @@ Muito obrigado e boa noite."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-058</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-058</field>
+<field name="date">940208</field>
+<text_pt>
 INÁCIO MUZZI
 Do Painel, em Brasília
 A ausência mais sentida pela equipe do ministro Fernando Henrique Cardoso no Congresso é um nome marcado para morrer: Genebaldo Correia (PMDB-BA). Há três meses ele deixou a liderança do PMDB, tragado pela lama do Orçamento. Há três meses o governo acumula tropeços no relacionamento com o Legislativo.
@@ -828,9 +828,9 @@ Há 101 dias Hargreaves foi afastado do cargo devido a denúncias de envolvimento 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-059</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-059</field>
+<field name="date">940208</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O PT não conseguiu ainda resolver o impasse criado entre sua direção nacional e bancada federal. Depois de seis horas de discussão, ontem em São Paulo, não houve acordo entre a cúpula, que insiste em não permitir que os deputados votem no Congresso revisor, e os deputados que querem modificar a posição. A Executiva vai definir a questão somente hoje.
@@ -844,9 +844,9 @@ O prejuízo causado pela crise à campanha de Lula foi atestado por Luiz Eduardo G
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-060</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-060</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Se depender da maioria da bancada do PMDB, a revisão constitucional vai aprovar o voto distrital misto, permitir a reeleição de presidente da República, governadores e prefeitos e manter o voto obrigatório. As tendências foram identificadas em pesquisa realizada pela Fundação Pedroso Horta em janeiro, durante encontro do conselho nacional do partido. Foram ouvidos 70 dos cerca de 100 deputados federais do maior partido brasileiro.
 Os números mostram que 52,86% dos parlamentares ouvidos apóiam a quebra do monopólio estatal sobre o petróleo e as telecomunicações, 41,43% são contra e 5,71% votaram em branco. A maioria (58,57%) concorda com o fim da distinção entre empresas brasileiras e empresas brasileiras de capital nacional. E 62,88% defendem a extinção da regra que limita a exploração dos recursos minerais e potenciais hídricos a brasileiros ou empresas brasileiras de capital nacional.
@@ -854,9 +854,9 @@ A grande maioria (87,14%) apóia o controle externo do Poder Judiciário e 60% são
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-061</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-061</field>
+<field name="date">940208</field>
+<text_pt>
 Correntistas devem autorizar agência bancária a fornecer os dados do imposto ao Fisco
 Da Reportagem Local
 O secretário da Receita Federal, Osiris de Azevedo Lopes Filho, baixou ontem a instrução normativa número 9, que estabelece como os correntistas dos bancos privados nacionais poderão pedir a restituição de aproximadamente US$ 270 milhões de IPMF (Imposto Provisório sobre Movimentação Financeira) cobrado em 93.
@@ -868,18 +868,18 @@ A Receita havia pedido as listas com os dados à Febraban, que recusou alegando q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-062</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-062</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 A Febraban (Federação Brasileira das Associações de Bancos) preparou um texto de sessenta linhas para responder, através de nota paga nos jornais, todos os ataques do secretário da Receita Federal, Osiris Lopes Filho, contra o setor financeiro. Segundo o advogado Saulo Ramos, contratado pela entidade para a discussão judicial em torno da quebra do sigilo bancário dos contribuintes do IPMF, o texto vai responder as acusações.
 "Os bancos afirmam, por exemplo, que não cometerão crime, nem sob intimidação ou ameaça", contou Saulo Ramos. A diretoria da Febraban vai analisar o conteúdo da nota, mas o texto já está pronto e deverá ser publicado amanhã ou na quinta-feira. A nota acrescenta que o debate deve ser restrito aos autos do processo. "Qualquer discussão fora dos autos é um desserviço à causa pública", afirma a nota.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-063</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-063</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local e da Redação
 O secretário da Receita Federal, Osiris de Azevedo Lopes Filho, disse ontem em São Paulo que o órgão estuda a possibilidade de a entrega das declarações do Imposto de Renda deste ano, ano-base 93, seja feita apenas nas agências da Caixa Econômica Federal e do Banco do Brasil. Também há a possibilidade de incluir os bancos estaduais. "São propostas em estudo. Nós só faremos isso se tivermos garantido a comodidade do contribuinte", afirmou.
 Segundo ele, os cortes no Orçamento foram tão profundos que não houve previsão, nas propostas entregues ao Congresso, de recursos para a edição de manuais ou para a publicidade do programa do IR, da pessoa física e jurídica.
@@ -891,9 +891,9 @@ As declarações deverão ser entregues até 29 de abril. Não há muita mudança em re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-064</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-064</field>
+<field name="date">940208</field>
+<text_pt>
 LUIZ CARLOS BRESSER PEREIRA
 Se a conversão dos salários não for pela média, é inútil tentar estabilizar
 Os jornais informam que, depois das advertências de alguns economistas respeitáveis, como Mário Henrique Simonsen, Francisco Lopes e Yoshiaki Nakano, a equipe econômica estaria rediscutindo a idéia da Unidade Real de Valor. Alguns dos seus membros estariam mesmo dispostos a saltá-la, passando diretamente do ajustamento fiscal à reforma monetária com âncora cambial. As dificuldades jurídicas e operacionais relacionadas com a introdução da URV reforçariam essa posição.
@@ -918,45 +918,45 @@ LUIZ CARLOS BRESSER PEREIRA, 58, empresário e economista, é professor da Fundaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-065</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-065</field>
+<field name="date">940208</field>
+<text_pt>
 O bom desempenho das indústrias automobilística e de autopeças puxou o consumo industrial de energia elétrica em São Paulo no mês passado. Segundo a Secretaria de Energia do Estado de São Paulo, o consumo subiu 8,2% em janeiro, comparado com o de igual mês de 93. O consumo total cresceu 4,1% em relação a janeiro do ano passado, indicando, de acordo com a Secretaria, a tendência de recuperação do mercado de energia elétrica. O comércio elevou em 2,3% o consumo e o segmento residencial teve variação nula em janeiro sobre o mesmo mês do ano passado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-066</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-066</field>
+<field name="date">940208</field>
+<text_pt>
 As vendas de fertilizantes somaram 10,4 milhões de toneladas em 1993, 11,6% mais que no ano anterior, de acordo com o Siacesp (Sindicato da Indústria de Adubos e Corretivos Agrícolas, no Estado de São Paulo). A região Sul foi a que teve a variação mais acentuada nas vendas, que cresceram 18,2%. Na região Centro, foram entregues ao consumidor final 7,7 milhões de toneladas, 11,5% acima do resultado de 92. Só no Mato Grosso do Sul, as vendas aumentaram 52,1% no ano passado. Houve recuo de 0,6% no consumo total de adubo nas regiões Norte e Nordeste.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-067</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-067</field>
+<field name="date">940208</field>
+<text_pt>
 O comércio varejista de São Paulo praticou reajuste médio de 8,96% na primeira semana de fevereiro, de acordo com o IPV (Índice de Preços no Varejo). A taxa calculada pela Federação do Comércio do Estado de São Paulo mostra aceleração de 3,09 pontos percentuais sobre a quarta semana de janeiro. No entanto, a variação quadrissemanal, que ficou em 41,34%, teve desaceleração de 3,71% pontos em relação à anterior. A maior variação semanal foi do grupo de bens não-duráveis, com 10,36%. Os semiduráveis tiveram a menor alta por grupo, com 7,16%.
 Segundo os cálculos da FCESP, a maior pressão semanal nos não-duráveis foi exercida pelos produtos farmacêuticos, que atingirm 23,59%. Na variação quadrissemanal estes produtos acumulam 107,29%. Os alimentos subiram 9,53% na semana. No grupo de veículos e construção, que teve alta média de 8,71%, o destaque ficou para autopeças, com 26,19% &#150;a maior variação individual do IPV na semana. Os veículos novos foram reajustados em 6,17%. Com aumento de 1,47% na semana, os tecidos ficaram com a menor aceleração na semana.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-068</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-068</field>
+<field name="date">940208</field>
+<text_pt>
 O faturamento real do comércio na região metropolitana de São Paulo caiu 37% em janeiro em relação a dezembro, segundo dados preliminares da Federação do Comércio do Estado de São Paulo. Dessazonalizada, a redução cai para 10%, ainda assim, a maior desde a criação da pesquisa, em 1979. Mas sobre janeiro de 93, há aumento de 12%. A queda é atribuída à alta remuneração da poupança e às dificuldades de reposição de estoques. Todos os grupos tiveram queda no faturamento real.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-069</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-069</field>
+<field name="date">940208</field>
+<text_pt>
 O nível de emprego no setor de obras públicas em São Paulo teve queda de 1,5% em janeiro comparado ao mês anterior. Esta taxa representa retração de 1.762 postos de trabalho, de acordo com os dados da Apeop (Associação Paulista de Empresários de Obras Públicas). Na comparação com janeiro de 1993 o recuo foi de 11,9%. O total de empregados ficou em 115,6 mil no mês passado, contra 131,5 mil no mesmo período de 93. Segundo a Apeop, as pequenas empresas foram as que mais demitiram em janeiro, devido a atrasos nos pagamentos. As perspectivas para fevereiro são de estabilidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-070</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-070</field>
+<field name="date">940208</field>
+<text_pt>
 No seu apartamento no Rio de Janeiro, o deputado Roberto Campos já começou a dar um balanço na sua vida. Escreveu um livro de memórias e em seus artigos semanais por vezes abandona sua preocupação obsessiva com o presente e o futuro para render-se ao memorialismo. Mas só por vezes. A cabeça continua no futuro.
 Durante quarenta anos, o ex-ministro Campos foi a pessoa mais execrada do país. No governo JK, as passeatas nacionalistas portavam invariavelmente duas faixas: "Abaixo a carestia" e "morra Roberto Campos".
 Tempos depois, recebeu o apelido de Bob Fields. De "entreguista" ele sempre foi chamado, desde que voltou de uma missão diplomática nos EUA, no início dos anos 50, com idéias estranhas na cabeça.
@@ -978,17 +978,17 @@ Um grande homem público, já nasce.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-071</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-071</field>
+<field name="date">940208</field>
+<text_pt>
 
 BMW - A Regino Import, importador exclusivo da BMW AG para o Brasil, está lançando o BMW Service Card, um cartão de assistência 24 horas, válido para todo o país. O cartão será fornecido gratuitamente a todos os compradores de automóveis e motos da marca. A validade é de 18 meses. O serviço assegura atendimento em caso de problema mecânico ou acidente, carros reserva, hospedagem para todos os ocupantes do veículo e transporte aéreo ou terreste, dependendo do local.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-072</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-072</field>
+<field name="date">940208</field>
+<text_pt>
 
 Da Redação
 O Índice de Custo de Vida (ICV), medido pelo Departamento Intersindical de Estatísticas e Estudos Sócio-Econômicos (Dieese), fechou em 46,48% em janeiro, ficando 9,73 pontos percentuais acima dos 36,75% registrados em dezembro do ano passado.
@@ -1002,9 +1002,9 @@ As despesas com transporte subiram 44,63%. O item alimentação registrou alta méd
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-073</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-073</field>
+<field name="date">940208</field>
+<text_pt>
 
 Diminuem os negócios com ouro e ações; Bolsas aguardam aprovação do Fundo Social de Emergência
 Da Redação
@@ -1047,9 +1047,9 @@ No mercado futuro de dólar, a expectativa de desvalorização cambial para feverei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-074</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-074</field>
+<field name="date">940208</field>
+<text_pt>
 
 Produção de 106 mil veículos é a maior registrada pela indústria no primeiro mês do ano em toda a história
 ARTHUR PEREIRA FILHO
@@ -1067,9 +1067,9 @@ Esse número já é superior aos 65 mil previstos inicialmente pela Anfavea como o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-075</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-075</field>
+<field name="date">940208</field>
+<text_pt>
 NELSON BLECHER
 Da Reportagem Local
 O Brasil está fora do mapa de investimentos programados pelos gigantes mundiais do varejo, embora a América Latina seja apontada como a segunda região em expansão do setor nos próximos anos, depois da Ásia.
@@ -1085,9 +1085,9 @@ Supermercados detêm a principal fatia do faturamento entre os cem maiores grupos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-076</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-076</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Um dos temas que mais despertou a atenção na convenção varejista, em Nova York, foi o crescimento do chamado "home shopping", que absorve atuais 15% das vendas.
 Somente as encomendas através de programas especializados de TV movimentam US$ 2,5 bilhões. Mas essa cifra deverá crescer bastante, entre US$ 30 bilhões e US$ 250 bilhões dentro de uma década.
@@ -1097,9 +1097,9 @@ No circuito das lojas, há atualmente grande concentração de investimentos tecnol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-077</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-077</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Luiz Carlos Bresser Pereira, ex-ministro da Fazenda no governo Sarney, entrou com uma ação na Justiça cobrando direitos trabalhistas junto ao grupo Pão de Açúcar. A juíza Lizete Belido Barreto Rocha, da 53.ª Junta de Conciliação e Julgamento da Capital, marcou a audiência para o dia 13 de abril, às 13h20.
 O ex-ministro ajuizou uma ação trabalhista no último dia 27 para pedir diferenças salariais e outros benefícios referentes ao período em que trabalhou na Companhia Brasileira de Distribuição, holding que controla a rede de supermercados Pão de Açúcar. O número do processo é 156/94.
@@ -1110,30 +1110,30 @@ A íntegra da nota assinada por Bresser Pereira e divulgada pelo Pão de Açúcar é 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-078</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-078</field>
+<field name="date">940208</field>
+<text_pt>
 O superávit do balanço de pagamentos (balança comercial mais transações de serviços) do Japão superou o recorde de 1992 (US$ 117,55 bilhões) para atingir US$ 131,35 bilhões em 1993. Os EUA devem intensificar as pressões pela redução do saldo quando o presidente Clinton receber o premiê, Morihiro Hosokawa, sexta-feira próxima em Washington.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-079</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-079</field>
+<field name="date">940208</field>
+<text_pt>
 José María Figueres, 39, do Partido Liberação Nacional, venceu as eleições na Costa Rica. Ele disse que sua administração será voltada para a classe média, "que foi severamente golpeada pela políticas neoliberais do atual governo". Figueres afirmou estar disposto a rever a política do país em relação a Cuba, com quem as relações estão cortadas desde 82.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-080</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-080</field>
+<field name="date">940208</field>
+<text_pt>
 Os dois skinheads alemães e o dono de um bar que, em novembro de 92, espancaram e queimaram Karl Hans Rohn até a morte pensando que ele era judeu foram condenados ontem pelo tribunal de Wupeertal (Alemanha). Andreas Wember, 26, vai cumprir 14 anos. Michael Senf, 20, e o dono do bar, Marian Glensk, pegaram 10 anos de prisão cada um.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-081</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-081</field>
+<field name="date">940208</field>
+<text_pt>
 Mafiosos "arrependidos" disseram à Justiça italiana que chegaram a planejar o assassinato do ex-premiê Giulio Andreotti ou de um de seus filhos, informou ontem a rede de TV estatal "RAI". Andreotti não teria protegido os interesses da Máfia, disse a "RAI".
 
 General espanhol é morto em Barcelona
@@ -1141,9 +1141,9 @@ O general do Exército da Espanha Leopoldo Garcia, 59, foi assassinado a tiros pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-082</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-082</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 O dólar subiu ontem, enquanto as ações tiveram sensível queda na Europa, na sequência da sexta maior baixa da Bolsa de Nova York, ocorrida sexta-feira passada depois do surpreendente aumento nos juros de curto prazo nos EUA.
 O dólar subiu em Frankfurt para 1,7630 marco, de 1,7365 na sexta. Teme-se que, com a alta do dólar, o Bundesbank (BC alemão) retarde um esperado corte nos juros. Isto ajudaria o marco, mas manteria a estagnação da economia alemã. Com esta perspectiva, a Bolsa de Frankfurt caiu 2,75%.
@@ -1151,9 +1151,9 @@ As demais Bolsas européias caíram entre 1% e 3%. Uma queda maior foi evitada ont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-083</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-083</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 A União Européia (antiga Comunidade Européia) decidiu ontem apoiar ataques aéreos na Bósnia-Herzegóvina para romper o cerco a Sarajevo. A decisão foi tomada dois dias depois de um bombardeio que matou pelo menos 68 pessoas em um mercado no centro da capital bósnia.
 O presidente dos EUA, Bill Clinton, disse apoiar o pedido feito anteontem pelo secretário-geral da ONU, Boutros Boutros-Ghali, para que a Otan se prepare para iniciar os ataques aéreos. Os norte-americanos e a Otan (Organização do Tratado do Atlântico Norte, a aliança militar ocidental liderada pelos EUA) ameaçaram lançar ataques contra a artilharia sérvia-bósnia pela primeira vez em agosto do ano passado, em tese para defender as cidades muçulmanas sitiadas que a ONU declarou como "zonas protegidas". A ameaça foi repetida no mês passado, agora para proteger as próprias tropas da ONU, mas Washington insistia no apoio dos europeus antes de qualquer operação.
@@ -1165,9 +1165,9 @@ Em uma última tentativa de evitar os ataques aéreos, lideranças sérvias-bósnias 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-084</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-084</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 Sarajevo viveu ontem um dia de enterros. Enquanto sérvios iam a pequenos cemitérios, a maioria das famílias muçulmanas, com medo de franco-atiradores, foi obrigada a esperar o anoitecer para sepultar vítimas do bombardeio de sábado. Num cemitério sérvio, uma mulher enterrava o marido ao lado de duas crianças que sepultavam a mãe.
 Pelo menos 86 feridos haviam sido levados até a noite de ontem para tratamento na Europa Ocidental. Em Ancona, base italiana dos vôos de ajuda humanitária da ONU para Sarajevo, Vlado Rajcevic, 10, ferido nos pulmões, lutava pela vida ligado a um respirador artificial. Levado para Ancona pouco depois do bombardeio de sábado, ele só foi encontrado por seus pais no dia seguinte.
@@ -1177,9 +1177,9 @@ Outros 50 feridos foram levados para tratamento em uma base militar norte-americ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-085</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-085</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 Quatro soldados israelenses morreram e cinco ficaram feridos ontem em um ataque guerrilheiro na zona de segurança ocupada por Israel no sul do Líbano. Depois do atentado &#150;o pior dos último seis meses&#150;, aviões israelenses bombardearam a área duas vezes.
 A Resistência Islâmica, ala armada do grupo guerrilheiro pró-Irã Hizbollah, assumiu a autoria do atentado. As cidades de Jarjou e Ain Qana (40km ao sul da capital, Beirute), controladas pelo Hizbollah, foram bombardeadas por aviões do Exército de Israel.
@@ -1190,33 +1190,33 @@ O objetivo é acelerar a implantação da autonomia palestina nos territórios ocupa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-086</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-086</field>
+<field name="date">940208</field>
+<text_pt>
 O ministro Dimingo Cavallo (Economia) disse que enviará ao Congresso projeto ampliando a base do imposto sobre ativos (ou sobre riqueza), para taxar residentes na Argentina que investem em ações e depósitos bancários. Mas o projeto reduz de 1% para 0,5% o imposto sobre bens pessoais de US$ 100 mil ou mais que é arrecadado uma vez por ano. Para o jornal "Ambito Financiero", o plano "castiga" a poupança, que Cavallo diz pretender estimular.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-087</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-087</field>
+<field name="date">940208</field>
+<text_pt>
 "The Daily Telegraph", de Londres
 O gerente de uma empacotadora de Exeter (norte da Inglaterra), acusado de molestamento sexual por uma funcionária, foi absolvido por causa do idioma, disse o jornal. Brian Palfreman, 50, chamou Sarah Roberts, 19, de "sweetheart" (docinho) e "darling" (querida). Ela pediu demissão e processou o gerente. O juiz decidiu que Palfreman disse coisas "triviais" para os habitantes do norte do país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-088</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-088</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 Roberto Mazzotta, 53, ex-diretor do maior banco italiano, se entregou ontem em um posto da polícia na fronteira com a Suíça. Sua prisão estava decretada desde 31 de janeiro, por corrupção e fraude. Ele era diretor da Cariplo (sigla em italiano para Caixa de Popupança das Províncias Lombardas).
 Ontem, foi preso em Asti (norte) Alessandro Sodano, 62, irmão do secretário de Estado do Vaticano, cardeal Angelo Sodano, sob acusações de corrupção.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-089</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-089</field>
+<field name="date">940208</field>
+<text_pt>
 HUMBERTO SACCOMANDI
 De Londres
 O príncipe Charles, do Reino Unido, foi vítima ontem de mais um "ataque", o segundo em apenas dez dias. Um homem avançou em direção ao herdeiro do trono britanico lançando um spray perfumado para uso caseiro. Ele dizia que queria remover o "fedor da monarquia". O incidente contribui para a campanha de melhoria da imagem de Charles.
@@ -1227,9 +1227,9 @@ O incidente beneficiou Charles. A família real está promovendo uma campanha para
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-090</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-090</field>
+<field name="date">940208</field>
+<text_pt>
 Proposta enviada ao Congresso prevê demissão de 96 mil funcionários públicos e 85 mil militares
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -1245,9 +1245,9 @@ Pesquisa de opinião pública divulgada pela revista "Newsweek" que foi às bancas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-091</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-091</field>
+<field name="date">940208</field>
+<text_pt>
 O casamento de Cláudia Raia e Edson Celulari (foto), no último sábado, no Rio, contou com a presença dos 50 convidados. A cerimônia foi realizada no templo budista do bairro de Botafogo (zona sul). A atriz preferiu realizar uma cerimônia simples, dentro dos ritos da religião da qual é adepta há quatro anos.
 
 O NÚMERO
@@ -1273,9 +1273,9 @@ CR$ 69.453.988,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-092</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-092</field>
+<field name="date">940208</field>
+<text_pt>
 Presidente deve assistir ao desfile de domingo no Sambódromo a convite das escolas de samba do Rio
 SÉRGIO TORRES
 Da Sucursal do Rio
@@ -1289,9 +1289,9 @@ Antes da refeição, serão servidos canapés frios de caviar, surubim, salmão, lago
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-093</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-093</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal do Rio
 A Riotur começou a vender ontem os últimos bilhetes de arquibancadas e cadeiras individuais para o desfile do Grupo Especial e das Campeãs. As vendas serão no portão 13 do Maracanã das 8h às 16h. Segundo a Riotur, as bilheterias funcionarão até sábado, mas os ingressos podem acabar antes.
 Acusação
@@ -1299,9 +1299,9 @@ A Abav/RJ (Associação Brasileira de Agências de Viagens do Rio) entrou na Justiç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-094</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-094</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha Sudeste
 O ataque de um enxame de abelhas africanas causou a morte de duas pessoas e deixou dois feridos anteontem em Analândia (SP). O pedreiro Vicente Barbatto Zacarias, 23, e a babá Adriana Aparecida Napolitano, 18, caíram de uma altura de cerca de 20 metros.
 A polícia investiga se os dois teriam escorregado ou teriam se jogado da pedreira do Cuscuzeiro ao tentar fugir das abelhas. Segundo a polícia, os dois integravam um grupo de quatro pessoas que escalavam a pedra. Os dois teriam entrado em uma caverna, quando teriam sido atacados pelas abelhas.
@@ -1311,9 +1311,9 @@ Segundo a polícia, Maurício afirmou que os quatro amigos subiam a pedra gritando
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-095</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-095</field>
+<field name="date">940208</field>
+<text_pt>
 Da Sucursal de Brasília
 Os muitos brasileiros que imaginaram acordar milionários ontem vão ter que esperar até às 9h de hoje para conferir o resultado da Sena. A Caixa Econômica Federal transferiu o sorteio do concurso 308 devido ao grande número de apostas. Ele estava previsto para ser realizado ontem. A arrecadação recorde chega a CR$ 2,44 bilhões (US$ 4,8 milhões). Até às 16h de ontem, a CEF havia contabilizado 80 milhões de cartões. A previsão é de 130 milhões de apostas.
 As oito centrais de processamento de cartões do país estão trabalhando ininterruptamente desde a última sexta-feira. A Grande São Paulo registrou a maior quantidade de apostas e era a única central onde a apuração não havia terminado até as 18h de ontem.
@@ -1322,9 +1322,9 @@ Com a poupança rendendo 42% ao mês, os lucros do ganhador do prêmio recorde da S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-096</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-096</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Vestibulandos da Unicamp (Universidade Estadual de Campinas) ouvidos ontem pela Folha elogiaram a decisão do jornal de publicar a lista de aprovados no sábado, dia 5, e não anteontem, como previa o calendário oficial. "Acordei com a boa notícia na minha frente. Foi ótimo", afirma a caloura de engenharia de alimentos Fabiana Elisa Dutra, 17. "É um absurdo que alguém vá contra a publicação antecipada."
 "Acho melhor informar o leitor, mesmo que seja necessário furar um acordo", conclui, referindo-se ao compromisso prévio exigido pela Comissão do Vestibular no sentido de os jornais evitarem a divulgação antes do domingo.
@@ -1334,9 +1334,9 @@ A vestibulanda reprovada em engenharia de alimentos Clarissa Breggi, 17, se diz 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-097</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-097</field>
+<field name="date">940208</field>
+<text_pt>
 FÁBIO GUIBU
 Da Agência Folha em Recife
 O empresário Gustavo Felipe Vilar de Bulhões Barros, 26, filho do governador de Alagoas, Geraldo Bulhões, foi indiciado ontem pela Polícia Civil de Pernambuco sob acusação de tráfico de drogas e formação de quadrilha.
@@ -1347,18 +1347,18 @@ A prisão e os depoimentos dos cinco homens resultaram na apreensão de 50 kg de m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-098</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-098</field>
+<field name="date">940208</field>
+<text_pt>
 Especial para a Folha, de Lisboa
 O brasileiro Francisco Olivan Mota Pinto, 30, fugiu na madrugada de ontem da prisão em Guimarães, Portugal. Com mais quatro presos, todos portugueses, serrou as grades da cela e escapou.
 Mota, natural de Teresina (PI), estava em Portugal desde 91. Trabalhava como radialista. Segundo o advogado do consulado do Brasil no Porto, Cícero Silva, "ele matou um homem a facadas". Cumpria pena de 14 anos de prisão em Coimbra. Tinha sido transferido para responder processo por falsificar documentos. (Jair Rattner)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-099</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-099</field>
+<field name="date">940208</field>
+<text_pt>
 A meteorologia registrou chuvas em quase todo o interior neste fim-de-semana. Do início do ano até ontem, choveu em 120 dos 171 municípios paraibanos. As chuvas foram mais intensas em Manaíra, Sousa, Bonito de Santa Fé e Santa Terezinha.
 Pernambuco
 Três pessoas morreram e cinco ficaram feridas ao serem atropeladas por um Fusca, anteontem em Olinda (6 km de Recife). Elas participavam do desfile de abertura do carnaval. Após o atropelamento, o carro caiu em um canal. O motorista do Fusca foi detido.
@@ -1369,9 +1369,9 @@ A Secretaria de Cultura do Ceará lança hoje o livro "Os Empresários no Poder", d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-100</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-100</field>
+<field name="date">940208</field>
+<text_pt>
 A campanha de combate à dengue foi intensificada desde ontem em Goiânia, Trindade, Senador Canedo e Aparecida de Goiânia. Oito casos foram registrados este mês na capital. Segundo a FNS (Fundação Nacional de Saúde), cidades vizinhas estão na campanha.
 Goiás 2
 A FNS informou que as pessoas contaminadas não correm risco de vida. A campanha, de duração de três meses, inclui também o combate à febre amarela. O último caso registrado no Estado foi em 87. O telefone 1520 fornece informações sobre as duas doenças.
@@ -1382,9 +1382,9 @@ A Polícia Militar despejou neste final de semana cerca de 400 pessoas que há um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-101</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-101</field>
+<field name="date">940208</field>
+<text_pt>
 Falta água em Santo Antônio de Lisboa, Cacupé e Sambaqui (norte de Florianópolis) por causa da estiagem nas represas da Lagoa da Conceição e Itacorubi. Segundo o governo, seria preciso implantar uma nova rede de abastecimento para acabar com o problema.
 Santa Catarina 2
 Uma frente fria fez cair a temperatura no Estado. Registrada pela Epagri (Empresa de Pesquisa Agropecuária e Difusão de Tecnologia), a temperatura vinha se mantendo acima dos 30ºC. Ontem, os termômetros em Florianópolis marcavam 20ºC.
@@ -1395,9 +1395,9 @@ O Hospital das Clínicas, em Porto Alegre, receberá 15 especialistas norte-americ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-102</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-102</field>
+<field name="date">940208</field>
+<text_pt>
 O Comando da PM do Amazonas informou ontem que 2.350 policiais estarão espalhados pelas ruas de Manaus para garantir a segurança no Carnaval. Serão deslocados para o Sambódromo 750 PMs. Outros 1.500 soldados farão rondas em bairros periféricos.
 Amazonas 2
 A Funai negou ontem que esteja demarcando terras em excesso, como denunciaram alguns garimpeiros. Segundo o administrador da Funai em Manaus, Raimundo Catarino Serejo, mais de 90% das áreas indígenas têm extensão territorial reduzida.
@@ -1408,9 +1408,9 @@ Pará 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-103</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-103</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha Norte
 Contribuintes de Rio Preto esperaram cerca de uma hora e meia na fila ontem para retirar os carnês do IPTU (Imposto Predial Territorial Urbano) que não foram entregues. A fila ocupou três andares do prédio da prefeitura.
 Segundo a Secretaria de Finanças, cerca de 5.000 dos 107 mil contribuintes não receberam os carnês por incorreções nos endereços ou por não haver ninguém em casa.
@@ -1418,9 +1418,9 @@ Desde sexta-feira, cerca de 1.500 pessoas têm comparecido diariamente para retir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-104</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-104</field>
+<field name="date">940208</field>
+<text_pt>
 CARLOS HENRIQUE KNAPP
 A Eletropaulo decidiu que não devo ouvir música aos domingos de manhã. Nem usar o computador ou a máquina de escrever. Não posso tomar banho quente nem ligar o microondas nas manhãs de domingo. Se há alguma coisa interessante na TV, a Eletropaulo não quer que eu veja. E o sorvete derrete no congelador.
 Se ela exercesse essa ditadura todos os domingos, eu me organizaria. Não contaria com luz pela manhã, assim como não conto com rádio das 19 às 20 horas durante a semana. O diabo é que o corte é intermitente, alguns domingos sim, outros não, e sou sempre pego de semi-surpresa. Um casal idoso, que mora no 12º andar de um edifício vizinho, já se habituou a ligar para a Eletropaulo todos os sábados para perguntar se ela os deixa ir à missa na manhã seguinte.
@@ -1433,9 +1433,9 @@ CARLOS HENRIQUE KNAPP, 65, publicitário, é consultor de comunicação e sócio da L
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-105</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-105</field>
+<field name="date">940208</field>
+<text_pt>
 A Secretaria Municipal de Agropecuária e Abastecimento iniciou ontem uma pesquisa para definir o perfil sócio-econômico do consumidor do Mercado Municipal de Juiz de Fora. Até quinta-feira serão ouvidas cem pessoas. O objetivo é melhorar o atendimento.
 Minas Gerais 2
 A Universidade Federal de Viçosa (UFV) sediará, de 21 a 26 de fevereiro, o 13º Congresso do Sindicato Nacional dos Docentes das Instituições de Ensino Superior. 400 congressistas estarão discutindo a carreira docente e a Lei de Diretrizes e Bases da Educação.
@@ -1446,9 +1446,9 @@ A Vigilância Epidemiológica do Ersa-9 (Escritório Regional de Saúde 9), responsá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-106</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-106</field>
+<field name="date">940208</field>
+<text_pt>
 Mais de 900 pessoas ficaram desabrigadasna Baixada Santista e no Litoral Sul
 Quatro pessoas morreram no ABCD e uma,em São Vicente; 7 rodovias ficaram fechadas
 Da Redação
@@ -1461,9 +1461,9 @@ Em São Paulo, 580 pessoas ficaram desabrigadas na Vila Prudente, zona leste.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-107</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-107</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Quem queria ir para o litoral ou voltar para São Paulo ontem teve problemas em todas as estradas. Como algumas estão com desvios ou com faixas fechadas, o Dersa recomenda que só as pessoas que tenham urgência usem as rodovias.
 A Anchieta ficou fechada durante toda a manhã e o trânsito para a descida para o litoral só foi liberado às 16h45. No km 44 os motoristas eram obrigados a pegar um desvio e utilizar a pista de subida da estrada. Daí em diante a pista estava interditada por causa de queda de barreiras e os trabalhos de recuperação deveriam durar a noite inteira, segundo o Dersa. Antes da liberação, a fila de carros parados chegou a 12 km. A ligação Piaçaguera-Guarujá ficou fechada até 8h de ontem devido ao alagamento da pista.
@@ -1473,9 +1473,9 @@ A SP-99 (Tamoios), está com meia pista interditada no começo da subida também de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-108</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-108</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Santos
 Mais de 800 pessoas estão desabrigadas em Peruíbe (135 km ao sul de São Paulo). Por causa das chuvas e dos alagamentos, que atingiram metade dos bairros da cidade, a prefeitura decretou estado de calamidade pública. Dos 21 bairros, 12 ficaram ficaram cobertos pela água.
 "Nos bairros afetados, o nível da água chegou a 1,5 metro", disse o chefe da Defesa Civil, José Ignácio Monte Oliva, 56.
@@ -1487,9 +1487,9 @@ A família de Silva está abrigada em uma escola, mas ele não abandona a casa, tem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-109</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-109</field>
+<field name="date">940208</field>
+<text_pt>
 MARCUS FERNANDES
 Da Agência Folha, em Santos
 A cidade de Guarujá, no litoral sul, a 87 km a sudeste de São Paulo, ficou sem abastecimento de água durante todo o dia de ontem.
@@ -1504,9 +1504,9 @@ Em virtude da falta d'água, a Prefeitura do Guarujá adiou o início das aulas de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-110</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-110</field>
+<field name="date">940208</field>
+<text_pt>
 Bebê de 4 meses morre em São Vicente; Santos registra maior índice de chuvas dos últimos 35 anos; prefeitura pode decretar estado de alerta máximo
 MARCUS FERNANDES
 Da Agência Folha, em Santos
@@ -1521,9 +1521,9 @@ Praia Grande, Mongaguá e Itanhaém não registraram desabrigados. Em todas essas c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-111</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-111</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha ABCD
 Quatro crianças morreram ontem no ABCD vítimas da chuva que atingiu a região e que durou 17 horas, segundo o Corpo de Bombeiros. Ontem, os bombeiros receberam 40 pedidos de socorro. A região teve ainda cerca de 30 famílias desabrigadas e houve falta de energia elétrica nas quatro maiores cidades do ABCD.
 Em São Bernardo, a cidade mais afetada pelas chuvas, Letícia de Lima, 5, e Zaine de Souza Lima, 3 meses, morreram soterrados quando um barranco desmoronou sobre os barracos em que viviam, no Jardim Silvina. No sábado, no mesmo local, o menino Gilvan Alves Barbosa havia sido soterrado em outro desabamento. Há pelo menos dez casas em área de risco no local.
@@ -1535,9 +1535,9 @@ Em Santo André, que no sábado havia removido 40 pessoas para o núcleo da Vila Sá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-112</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-112</field>
+<field name="date">940208</field>
+<text_pt>
 Da FT
 As ruas próximas à avenida Aricanduva, e a própria avenida, se transformaram ontem num depósito de lama e móveis destruídos pela enchente que atingiu a zona leste de São Paulo no último sábado. Na Vila Prudente, há 580 desabrigados. A extensão do caos, prejuízo e drama dos moradores se prolongava do início do viaduto Aricanduva até a altura do Shopping Leste, num total de sete quilômetros.
 "Perdi 12 anos de trabalho, o tempo que precisei para comprar meus móveis, todos destruídos. Eu não merecia isso", diz Paulo Roberto Jacinto em sua casa, na rua Iemanjá, paralela à avenida Aricanduva. Na sala, faltava uma das paredes, levada pelas águas.
@@ -1546,9 +1546,9 @@ Na rua Luis Gonzaga Silas, no outro extremo da Aricanduva, Ester Márcia Batarce 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-113</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-113</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha Sudeste
 A chuva do final de semana causou o rompimento de uma adutora da Sanasa, na avenida Anchieta. Por causa do rompimento, os técnico da secretaria de Transportes tiveram que interditar a pista bairro-centro, em frente ao prédio da prefeitura, para reparos.
 Segundo o coordenador de operações da secretaria, Silvio Antônio da Silva, a pista ficou parcialmente interditada, provocando um congestionamento de 300 metros. Em alguns momentos, o trânsito foi interrompido e os técnicos da Setransp realizaram o desvio.
@@ -1557,9 +1557,9 @@ A equipe da Setransp também interditou a pista sentido bairro-centro da av. Nort
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-114</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-114</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 A APM (Associação Paulista de Medicina) sugeriu ao secretário municipal da Saúde, Silvano Raia, a criação de um ombudsman para o serviço de saúde pública. O ombudsman receberia reclamações dos usuários e as encaminharia ao secretário para sua solução.
 O presidente da APM, José Knoplich, disse que para a criação do ombudsman é necessário que o secretário se comprometa publicamente a resolver os problemas encaminhados. Raia ainda não deu nenhuma resposta à APM.
@@ -1568,9 +1568,9 @@ Segundo Knoplich, o profissional que ocupará o cargo de ombudsman será escolhido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-115</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-115</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 No último final de semana, o prédio do Instituto Pasteur &#150;construído no início do século na avenida Paulista&#150; começou a ganhar pintura nova. A restauração está sendo feita por 50 jovens voluntários do Interact Jardim América (clube de jovens do Rotary), coordenados por um engenheiro e pela restauradora Cristina Gonzaga.
 A fachada será pintada na cor original, cinza claro, e com tonalidade mais escura nas bordas das janelas e portas. A tinta, cerca de 250 litros, foi doada por entidades privadas, e além da fachada, será usada nos muros e no interior de algumas salas que apresentavam rachaduras.
@@ -1580,9 +1580,9 @@ O trabalho de restauração do prédio do Instituto Pasteur não é o primeiro feito 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-116</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-116</field>
+<field name="date">940208</field>
+<text_pt>
 O leitor João dos Anjos Tavares, residente na rua Dona Vitória Speers, na Vila Formosa, explica que comprou uma linha telefônica, via plano de expansão, em 91, mas que até dezembro de 93 ela não havia sido instalada. Segundo ele, o financiamento já está quitado e a instalação interna, feita. "Já entrei em contato com a Telesp por três vezes. Eles me disseram que iriam entrar em contato com o setor de instalações e retornariam a ligação imediatamente, para me informar a respeito da instalação. Estou esperando até hoje", diz Tavares.
 Resposta
 De acordo com Carlos Roberto Inaba, da Divisão de Imprensa da Telesp, "a empresa vem instalando em todo o Estado novos telefones, em atendimento a planos de expansão e a mudanças de endereço". Inaba diz que " o reclamante em 8 de janeiro também estaria atendido". 
@@ -1590,9 +1590,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-117</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-117</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Santos
 Mais de 800 pessoas estão desabrigadas em Peruíbe (135 km ao sul de São Paulo). Por causa das chuvas e dos alagamentos, que atingiram metade dos bairros da cidade, a prefeitura decretou estado de calamidade pública. Dos 21 bairros, 12 ficaram ficaram cobertos pela água.
 "Nos bairros afetados, o nível da água chegou a cerca de um metro e meio de altura", disse o chefe da Defesa Civil, José Ignácio Monte Oliva, 56.
@@ -1604,9 +1604,9 @@ A família de Silva está abrigada em uma escola, mas ele não abandona a casa, tem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-118</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-118</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha Vale
 A chuva que atingiu nos últimos dois dias o litoral norte do Estado deixou pelo menos dez famílias desabrigadas, interditou as principais rodovias da região e deixou quatro cidades (Caraguatatuba, Ubatuba, São Sebastião e Ilhabela) sem telefones.
 Segundo o tenente Enéas Alberto de Carvalho, 31, do Corpo de Bombeiros de Caraguatatuba, a chuva das últimas 48 horas deixou aproximadamente 60 pessoas desabrigadas no litoral norte. As prefeituras decretaram estado de alerta.
@@ -1616,9 +1616,9 @@ A chuva provocou ainda o corte de energia elétrica em duas cidades do litoral. E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-119</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-119</field>
+<field name="date">940208</field>
+<text_pt>
 Da Folha Vale
 O desmoronamento de uma ponte da Rede Ferroviária Federal, às 9h15 de ontem, provocou a queda de 32 vagões de um trem no Rio Paraíba, em São José dos Campos. O trem continha 77 vagões e duas locomotivas. Ele vinha de Belo Horizonte (MG) para São Paulo com carregamento de minério de ferro da Cosipa (Companhia Siderúrgica Paulista).
 A rede ainda não sabe o motivo do acidente. Com a interrupção da ponte, o ramal entre São Paulo e Rio de Janeiro ficará interditado pelo menos por três meses. A rede calcula perda de US$ 5 milhões com carga que não será transportada.
@@ -1626,9 +1626,9 @@ O diretor da rede na região Sudeste, Cláudio Octávio Vidal Senra, 43, disse que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-120</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-120</field>
+<field name="date">940208</field>
+<text_pt>
 Na zona leste, 40 barracos em área de risco são interditados; moradores querem indenização pelos danos
 Da Reportagem Local e da FT
 O desabamento de um barraco ocorrido ontem às 4h na rua Vicente Martins Risco, na favela do Jardim das Embuias (zona sul de São Paulo), matou um bebê do sexo masculino, de apenas 12 dias, e feriu a doméstica Ana Délis de Matos Bandeiras, 24 anos.
@@ -1644,9 +1644,9 @@ Nas ruas Iemanjá, Benedito Antônio Silveira e Luís Scalise, na Vila Carrão, a pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-121</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-121</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O prefeito Paulo Maluf ameaçou ontem demitir o secretário das Administrações Regionais, Ricardo Izar, caso ele não apresentasse os responsáveis pela falta de atendimento às vítimas das enchentes do último final de semana.
 Em nota oficial ao secretário Izar, o prefeito afirma que os jornais noticiaram que moradores ligaram para as administrações regionais mas as chamadas não foram atendidas. A nota ainda determina a apuração do ocorrido e a demissão dos responsáveis. Ela termina com a seguinte frase: "Severidade, na solução, ou seu própio cargo está em jogo".
@@ -1655,9 +1655,9 @@ O secretário se reuniu na tarde de ontem com o prefeito Maluf. "Ele ouviu minhas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-122</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-122</field>
+<field name="date">940208</field>
+<text_pt>
 Raimundo Evangelista, 38, foi golpeado no tórax e abdômen; videocassete e aparelho de som foram roubados
 Da Reportagem Local
 O contador Raimundo Nonato Dutra Evangelista, 38, foi encontrado morto anteontem, às 22h, em seu apartamento na rua José Antônio Coelho, na Vila Mariana (zona sul). Evangelista morreu com facadas no tórax e no abdômen. Ele tinha marcas no pescoço como se o assassino tivesse tentado estrangulá-lo. Um videocassete e um aparelho de som foram roubados de sua residência.
@@ -1668,9 +1668,9 @@ Os peritos criminais acharam fragmentos de impressões digitais no apartamento, q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-123</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-123</field>
+<field name="date">940208</field>
+<text_pt>
 Ele teria feito sexo com 5 meninos
 Da Reportagem Local
 O ajudante-geral José Ramos da Hora, 30, foi preso sob a acusação de ter abusado sexualmente de pelo menos cinco meninos de 7 a 10 anos. A Polícia Civil desconfia de que o ajudante tenha feito pelo menos dez vítimas nos últimos seis meses no Jardim Brasil e Vila Gustavo (zona norte). Hora confessou os crimes.
@@ -1680,9 +1680,9 @@ Segundo o investigador Hélio Teixeira, do 39º DP (Vila Gustavo), todas as vítima
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-124</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-124</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 As ruas de São Paulo receberam mais 600 mil carros ontem com o fim das férias em várias escolas, segundo estimativa do secretário municipal de Transportes, Getúlio Hanashiro, 50. Na semana passada, quando as aulas recomeçaram nas primeiras escolas, o trânsito da cidade passou a ter 300 mil carros a mais em relação à semana anterior, segundo Hanashiro.
 Ainda estão em férias aproximadamente 25% das escolas, pelo levantamento da Secretaria Municipal de Transportes. Até o final de fevereiro, quando todas vão estar em aulas, a cidade vai ganhar mais 100 mil carros. Aproximadamente 2,5 milhões de carros circulam por São Paulo de segunda a sexta-feira, fora das férias escolares.
@@ -1691,9 +1691,9 @@ Desde o dia 31 de janeiro, quando começou a operação de volta às aulas, 157 mult
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-125</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-125</field>
+<field name="date">940208</field>
+<text_pt>
 A foto que acompanha a reportagem saiu com crédito errado. Ela é de autoria de Marcelo Soubhia.ERRAMOS
 Banda Redonda comemora 20 anos de desfile
 Da Reportagem Local
@@ -1705,9 +1705,9 @@ Hoje à noite, é a vez da Banda Caju. A saída está prevista para as 19h, na rua M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-126</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-126</field>
+<field name="date">940208</field>
+<text_pt>
 Proposta aprovada no Senado proíbe os convênios médicos de não cobrirem doenças como Aids e diabetes
 Da Sucursal de Brasília
 Começou ontem a tramitar na Câmara o projeto do senador Iram Saraiva (PMDB-GO) que proíbe aos planos de saúde de recusarem tratamentos a doenças infecto-contagiosas ou crônicas. Se for aprovado, os planos passam a cobrir despesas com doenças como a Aids e diabetes. O projeto, aprovado na semana passada no Senado, não prevê a cobertura dos casos de alcoolismo, uso de drogas e cirurgias plásticas não reparadoras de função, entre outras exclusões.
@@ -1720,9 +1720,9 @@ O deputado não acredita na aprovação do projeto na Câmara. "O lobby do setor de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-127</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-127</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O edifício Praça das Bandeiras (antigo Joelma, na praça do mesmo nome, região central) foi desinterditado ontem pela Secretaria Municipal de Habitação (SMH) depois de uma vistoria de técnicos do Contru (Departamento de Controle do Uso do Solo). Cerca de 1.200 pessoas trabalham no local.
 O prédio havia sido fechado em 4 de fevereiro. Nesse dia, a vistoria da prefeitura havia constatado superaquecimento dos circuitos da casa de máquinas, o que estava derretendo a base dos disjuntores do quadro de força. Há vinte anos, um incêndio causado por um curto-circuito matou 188 pessoas.
@@ -1731,9 +1731,9 @@ Dentre as obras realizadas estão a anulação de pontos de sobrecarga elétrica, re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-128</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-128</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Folha, em Manaus
 O estudante Arlison Pinheiro da Costa, 16, teve sua mão esquerda decepada na madrugada de domingo por três jovens integrantes de uma gangue de rua da zona leste de Manaus (AM). Arlison, que estava com a namorada, diz não ter a "mínima idéia" de por que foi vítima da gangue. Os três jovens fugiram antes que a polícia chegasse.
 A Folha entrevistou Arlison no centro de cirurgia do pronto-socorro do hospital universitário Getúlio Vargas. A mão foi amputada. Segundo o rapaz, ele havia saído com a namorada às 2h30 da boate Riacho Doce, no bairro Armando Mendes. "Nós deixamos a boate e fomos para uma praça próxima, onde ficamos namorando. Três caras então se aproximaram e começaram a me agredir a socos e pontapés", disse Arlison.
@@ -1741,9 +1741,9 @@ Sua namorada correu para chamar a polícia. "Depois de me baterem por meia hora, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-129</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-129</field>
+<field name="date">940208</field>
+<text_pt>
 Presidente deve assistir ao desfile de domingo no Sambódromo a convite das escolas de samba do Rio
 SÉRGIO TORRES
 Da Sucursal do Rio
@@ -1757,9 +1757,9 @@ Antes da refeição, serão servidos canapés frios de caviar, surubim, salmão, lago
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-130</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-130</field>
+<field name="date">940208</field>
+<text_pt>
 Preparador físico Moraci Sant'Anna critica dirigentes que não aceitam reivindicação salarial
 UBIRATAN BRASIL e JOSÉ HENRIQUE MARIANTE
 Da Reportagem Local
@@ -1772,9 +1772,9 @@ O técnico não pretende interromper suas férias, que vão até o Carnaval. Na conve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-131</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-131</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O atacante Cafu confirmou que desautorizou seu procurador Augusto Castro a fechar a renovação de seu contrato com o São Paulo na semana passada. "Tenho o direito de fazer isso", justificou o jogador, que ontem à tarde participou de treino físico no CT.
 Cafu disse também que as declarações da diretoria do São Paulo ("está lhe faltando bom senso", disse Fernando Casal de Rey) foram dadas apenas para colocá-lo contra a torcida. "Eles querem que eu retruque essas acusações. Mas não adianta nada eles falarem sim e eu não. Não vai resolver o problema", afirmou o jogador, que já aceita fazer contrato por um ano.
@@ -1782,9 +1782,9 @@ Membros da diretoria do clube não quiseram comentar a possível ida de Valdeir pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-132</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-132</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Em grande parte responsável pela modernização do São Paulo e o seu consequente sucesso, o preparador físico Moraci Sant'Anna pede apenas sua parte do bolo. Ele trabalha no clube desde 1990, quando foi trazido pelo amigo Telê Santana, com quem trabalhou, por exemplo, na seleção brasileira que disputou o Mundial de 82.
 Moraci ficou indignado com a "falta de consideração" dos dirigentes do São Paulo, que até ontem não haviam se reunido com ele para acertar a renovação de seu contrato, vencido em 31 de dezembro passado. "Moro no CT e ninguém me procurou. Só vieram falar comigo nos vestiários após os jogos, lugares inadequados para se discutir coisas assim", disse Moraci, que desde anteontem está em Araraquara, onde mora.
@@ -1795,9 +1795,9 @@ Para Altair Ramos, auxiliar de Moraci e candidato à sua vaga, tudo se resolverá 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-133</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-133</field>
+<field name="date">940208</field>
+<text_pt>
 
 Meus amigos, meus inimigos, o Palmeiras começa hoje a enfrentar o seu principal adversário desta temporada: o calendário &#150;não lunar, mas lunático.
 O calendário  é regulamentado pela rotação da terra em torno do sol. E o sol é uma bola. Mas, nada mais inimigo do jogo de bola aqui nesta terrinha do que o próprio calendário.
@@ -1812,9 +1812,9 @@ De só uma olhadinha na semana que espera o Rincón e seus companheiros: no dia 19
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-134</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-134</field>
+<field name="date">940208</field>
+<text_pt>
 Técnico quer um jogo cadenciado
 Da Reportagem Local
 O forte calor de Teresina fará o Palmeiras jogar um futebol mais cadenciado hoje à noite contra o 4 de Julho de Piripiri, na estréia do campeão paulista na Copa do Brasil. A equipe terá de superar também o cansaço proporcionado pelas 3 horas e 20 minutos de vôo de São Paulo a Teresina, ontem.
@@ -1842,9 +1842,9 @@ Manchete e TVA, às 21h45, ao vivo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-135</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-135</field>
+<field name="date">940208</field>
+<text_pt>
 
 
 Por falar em Atlanta, seu treinador, Lenny Wilkens, que vai dirigir o time do Atlântico no "All Star Game", completou 900 vitórias em sua carreira na semana passada. Wilkens é o treinador com o segundo melhor índice na história da NBA, atrás apenas de Arnold "Red" Auerbach, ex-Boston Celtics, que tem 938 jogos vencidos em seu currículo.
@@ -1855,9 +1855,9 @@ Mais "college": quero alertar os amantes do basquete para ficarem de olho no ala
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-136</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-136</field>
+<field name="date">940208</field>
+<text_pt>
 FÁBIO SORMANI
 Líder da Divisão do Meio Oeste da Conferência do Pacífico, o Houston Rockets pretende escrever nesta temporada um capítulo na história da NBA. Traduzindo: quer conquistar o título que deixou escapar nos campeonatos de 80/81 e 85/86.
 Domingo assisti ao jogo dos Rockets contra os Timberwolves de Minnesota, penúltimo colocado na mesma divisão, com uma porcentagem de vitória de 32,6 contra 74,4 dos texanos. Mesmo jogando em seu "The Summit" (16.279 poltronas limpas e desocupadas quando você chega para assistir à partida), o Houston, apesar da vitória de 101 a 90, não convenceu e deixou muitas dúvidas quanto à sua pretensão.
@@ -1869,9 +1869,9 @@ A afirmação contém uma certa dose de exagero. Os francanos dificilmente teriam c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-137</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-137</field>
+<field name="date">940208</field>
+<text_pt>
 Técnico orienta 1.º treino no Corinthians e quer implantar mudança tática
 WILSON BALDINI JR.
 Da Reportagem Local
@@ -1885,9 +1885,9 @@ A venda do volante Zé Elias para o PSV, da Holanda, está cada vez mais difícil. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-138</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-138</field>
+<field name="date">940208</field>
+<text_pt>
 SÉRGIO TORRES
 Da Sucursal do Rio
 O Brasil corre o risco de não ter nos Jogos Olímpicos de Atlanta (EUA), em 1996, a dupla de vôlei de praia formada pelo carioca Jorge Eduardo Bacil Filho, o Anjinho, e José Loyola. Campeões sul-americanos e vice nacionais, Anjinho e Loyola foram punidos pelo Conselho Mundial de Vôlei de Praia e pela CBV (Confederação Brasileira de Vôlei) por atuarem em competições não-reconhecidas pela Fivb (Federação Internacional de Vôlei).
@@ -1899,9 +1899,9 @@ Nuzman critica a liga em que Anjinho e Loyola atuam. "É uma liga pirata. Há duas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-139</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-139</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 A equipe da Colgate/São Caetano busca hoje às 20h30 em Ribeirão Preto sua reabilitação na Liga Nacional Feminina de Vôlei diante da Nossa Caixa/Recra. O time perdeu no último domingo por 3 sets a 1 (15/12, 15/6, 9/15 e 15/10) na primeira partida da série melhor de três das quartas-de-final do torneio. Se vencer hoje, a Nossa Caixa garante vaga às semifinais.
 O outro jogo da rodada reúne no Rio de Janeiro as equipes do Rioforte e BCN/Guarujá. O time paulista, que venceu anteontem a equipe carioca por 3 sets a 0 (15,12, 15/9 e 15/8) tenta buscar uma das vagas na fase semifinal fora de casa. Se vencer, o Rioforte provoca um terceiro jogo. Se perder, está fora da competição.
@@ -1912,9 +1912,9 @@ Na outra partida de amanhã, a L'Acqua di Fiori/Minas pega em Belo Horizonte o Ti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-140</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-140</field>
+<field name="date">940208</field>
+<text_pt>
 Vitória vinga a final de 93 da NBA
 Das agências internacionais
 A equipe do Phoenix Suns devolveu, no domingo, a derrota que havia sofrido na final do ano passado da NBA, contra o Chicago Bulls. Mesmo sem Charles Barkley, machucado, o Phoenix venceu o tricampeão da liga por 89 a 88. O destaque do Phoenix foi Kevin Johnson, que marcou 22 pontos. No Chicago, Scottie Pippen foi o cestinha, com 26 pontos. Os tricampeões continuam com 32 vitórias. O Phoenix Suns tem 30 vitórias, atrás do Seattle Supersonics, com 34.
@@ -1923,9 +1923,9 @@ Em uma partida disputada, o New Jersey Nets perdeu para o San Antonio Spurs, por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-141</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-141</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 O piloto britânico Damon Hill, da equipe Williams, saiu da pista e bateu contra o muro de proteção durante os treinamentos de ontem, no circuito de Catalunha, na Espanha. O acidente ocorreu no final de uma das retas do circuito. Segundo Hill, seu carro teve problemas de câmbio e perdeu aderência no eixo traseiro.
 Depois do acidente, os mecânicos da Williams cobriram rapidamente a parte da frente do carro e impediram que as pessoas presentes se aproximassem do veículo. O treino fazia parte da preparação para o Grande Prêmio do Brasil, no dia 27 de março, que marca o início da temporada de Fórmula 1 deste ano.
@@ -1937,9 +1937,9 @@ O reabastecimento de combustível durante os grandes prêmios de Fórmula 1 esteve 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-142</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-142</field>
+<field name="date">940208</field>
+<text_pt>
 MARCELO DAMATO
 Enviado especial a Pelotas
 A seleção da Rússia inicia amanhã uma série de dois amistosos caça-níqueis pelo Rio Grande do Sul. Depois de golear a seleção do México por 4 a 1, quarta-feira à noite em Oakland, na Califórnia, os russos vão enfrentar o Pelotas amanhã e o Guarani de Bagé na sexta-feira.
@@ -1953,9 +1953,9 @@ Mesmo com tantos desfalques, os russos serão vistos em Pelotas pelo técnico da s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-143</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-143</field>
+<field name="date">940208</field>
+<text_pt>
 SÉRGIO TORRES
 Da Sucursal do Rio
 O presidente da Ferj (Federação de Futebol do Estado do Rio), Eduardo Viana, e o vice-presidente de Futebol do Vasco, Eurico Miranda, foram indiciados ontem pela PF (Polícia Federal) por formação de quadrilha e estelionato. Eles são acusados de atuar em um esquema de manipulação de resultados de jogos.
@@ -1968,9 +1968,9 @@ O delegado pediu à Justiça a quebra dos sigilos bancário e fiscal da Ferj, Eduar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-144</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-144</field>
+<field name="date">940208</field>
+<text_pt>
 Da FT
 O técnico da seleção brasileira, Carlos Alberto Parreira, vai assistir "mais por obrigação do que por preocupação" à partida amistosa entre a equipe da Rússia, adversária do Brasil na primeira fase da Copa, e o time do Pelotas. A jogo será amanhã em Pelotas (RS).
 Parreira deixou bem claro que não se assusta com o time russo. "Como técnico da seleção, tenho obrigação de observar todos os adversários. Mas não há uma preocupação maior com a Rússia. Mesmo depois da goleada (4 a 1) que ela impôs ao México na semana passada. Em futebol, isso não quer dizer nada. Falta muito tempo para o início da Copa", disse Parreira.
@@ -1978,9 +1978,9 @@ Segundo o técnico brasileiro, a seleção russa tem de ser encarada como os demais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-145</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-145</field>
+<field name="date">940208</field>
+<text_pt>
 A artista plástica abre hoje exposição de suas pinturas recentes a partir de hoje na Galeria Luisa Strina
 CARLOS UCHÔA FAGUNDES JR.
 Especial para a Folha
@@ -1999,9 +1999,9 @@ São flores de tankas tibetanas, estrelinhas de iluminuras, esquemas lineares de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-146</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-146</field>
+<field name="date">940208</field>
+<text_pt>
 O diretor fala do filme "Faraway, So Close!", que tem estréia prevista no Brasil em abril
 EVA JOORY
 Da Reportagem Local
@@ -2026,9 +2026,9 @@ Wenders - Cresci ouvindo rock, foi uma música muito importante para mim. Quando 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-147</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-147</field>
+<field name="date">940208</field>
+<text_pt>
 AMIR LABAKI
 Enviado especial a Clermont Ferrand (França)
 Wim Wenders parece ter mesmo perdido a mão. Depois do autocomplacente "Tão Perto, Tão Longe" (ainda inédito no Brasil), é a vez de um novo curta-metragem, "Arischa, o Urso e o Anel de Pedra", que teve lançamento mundial na sessão de abertura do presente Festival Internacional de Clermont Ferrand. "Arisha" é um "road movie" que reúne "outsiders" mundiais numa viagem para longe de Berlim. Tudo começa com um homem fantasiado de urso (Rudiger Vogler) que ganha uma carona de uma escritora russa e sua filha Arisha. A turma aumenta com uma família vietnamita e um videomaníaco fantasiado de Papai Noel (o próprio Wenders).
@@ -2037,46 +2037,46 @@ Exemplo maior: o neo-samaritanismo de Wenders não encontra imagem melhor do que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-148</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-148</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 A participação de Gorbatchov em "Faraway, So Close!" foi para Wenders uma experiência fascinante. Foi quase toda improvisada. "Achei fundamental ter o ex-presidente no meu filme, e mandei-lhe uma carta. Me senti um pouco bobo, assim como uma criança escrevendo 'querido presidente'. Mas ele foi ótimo, chegou a marcar dia e hora. Minha equipe achou que eu tivesse enlouquecido. Gorbatchov entendeu o que eu queria. Políticos em geral sabem atuar, e ele atuou com desenvoltura. Eu havia reunido frases suas para seus pensamentos, mas ele resolveu improvisar", conta o diretor.
 Quanto a sua parceria com Auster, Wenders fez questão de manter segredo: "Estamos escrevendo um roteiro que não tem nada a ver com seus livros", respondeu. A respeito da crise do cinema europeu, Wenders diz: "Estamos vivendo uma crise sem igual. Na Alemanha, o percentual dos filmes não chega a 5%, comparado ao gigantismo do cinema americano. É necessário uma união, deixar de lado o nacionalismo. Os cineastas independentes são solidários conosco, porque também estão sendo esmagados pelos grandes. Mas o rótulo de independente é obsoleto. Existe gente tentando contar histórias diferentes dos estouros de bilheteria". (EJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-149</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-149</field>
+<field name="date">940208</field>
+<text_pt>
 Tem gente nova na casa de Bruce Willis e Demi Moore. Nasceu na última quinta Tallulah Belle, que se une aos outros dois filhos do casal, Rumer, de cinco anos, e Scout, de dois. Não se sabe se o nome escolhido é uma homenagem à atriz Tallulah Bankhead.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-150</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-150</field>
+<field name="date">940208</field>
+<text_pt>
 A artista plástica francesa Dominique Fillières, atualmente com uma mostra na galeria Debret, em Paris, explicou o porquê de tantas cores em seus trabalhos: o Brasil. "Uma recordação distante e absolutamente fantástica em minha vida de pintora", disse.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-151</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-151</field>
+<field name="date">940208</field>
+<text_pt>
 Ninguém vai acreditar, mas a declaração saiu da boca do próprio Abel Ferrara. O diretor norte-americano disse que a cena que primeiro o impressionou no cinema foi aquela em que a mãe de Bambi é assassinada pelos caçadores. "Foi um choque. Aquilo me matou durante cinco anos". Ferrara acaba de dirigir uma nova versão para "Invasion of the Body Snatchers", que aqui virou "Vampiros de Almas" (o original de Don Siegel, de 56) e "Invasores de Corpos" (a versão de Philip Kaufman, de 78). "Você pode ver este filme de 82 mil formas. As metáforas são infinitas", completou.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-152</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-152</field>
+<field name="date">940208</field>
+<text_pt>
 Os fãs norte-americanos da comediante Lucille Ball estão em festa. Desi Arnaz, o poderoso da Nickelodeon, proprietária da série "I Love Lucy", transmite a partir do dia 14 as versões sem cortes do seriado. Cada programa será quatro minutos mais longo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-153</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-153</field>
+<field name="date">940208</field>
+<text_pt>
 Parceiro de Orson Welles em "Cidadão Kane", o ator morreu de pneumonia em Los Angeles no domingo
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
@@ -2089,18 +2089,18 @@ Seu último grande filme, "O Terceiro Homem", de Carol Reed, foi rodado em 1949, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-154</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-154</field>
+<field name="date">940208</field>
+<text_pt>
 Das agências internacionais
 O jornal ainda afirma que LaToya estaria disposta a contar que seu irmão teria abusado sexualmente de pelo menos 30 meninos. Jackson estaria financiando tratamentos psiquiátrios para cada um deles. O cantor teria pedido a seus advogados que movessem um processo de difamação contra sua irmã, já prevendo suas declarações.
 Enquanto isso, um tribunal norte-americano deveria examinar ontem um processo de plágio levantado contra Jackson pela cantora Cristal Cartier. Ela acusa o cantor de ter plagiado a canção "dangerous", supostamente composta por Cartier em 1985. A artista pede uma indenização de US$ 40 milhões no processo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-155</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-155</field>
+<field name="date">940208</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 "Lituma en los Andes", o mais recente romance do peruano Mario Vargas Llosa, será publicado no Brasil pela Companhia das Letras. O livro, que deverá ser lançado na Bienal do Livro de São Paulo, em agosto, terá tradução de Josely Viana Batista e será o primeiro de uma coleção de obras do autor que a editora pretende publicar.
@@ -2113,9 +2113,9 @@ Ainda na Bienal deverá ser lançado "Speak Memory" (ainda sem título em português
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-156</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-156</field>
+<field name="date">940208</field>
+<text_pt>
 Ironicamente, vai ser preciso lembrar de uma expressão antiga para descrever esse vídeo tão moderno. Como pouquíssimos clips de "dance music" ou rap, o de "Cantaloop (Flip Fantasia)", do US3, "pegou o espírito da coisa".
 Num universo dominado por coreografias repetitivas e uma ausência quase total de gestos naturais, o diretor Charles Wittermeier conseguiu trazer para o vídeo uma soltura no mínimo equivalente à da faixa do US3. "Cantaloop" é o primeiro single do álbum de estréia da banda, "Hand on the Torch" (já lançado no Brasil) e como também acontece em todas as outras faixas do trabalho, essa é um jorro de espontaneidade.
 Só que esse clima, eventualmente comum dentro de um estúdio, não passa facilmente para o vídeo. Mas "Cantaloop" se dá bem, primeiro pelo "refinado" elenco de "bailarinos". Depois, convenhamos, a música ajuda.
@@ -2125,18 +2125,18 @@ Deu sorte, claro. Com aquelas pessoas tão estranhas dançando, dá até para falar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-157</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-157</field>
+<field name="date">940208</field>
+<text_pt>
 Desde "Shinny Happy People", do R.E.M., que essa forma de expressão não oferecia gente tão ordinária dançando. Para rebater as pretensões artísticas de "Losing My Religion", MIchael Stipe resolveu chamar uns amigos para dançar num estúdio. Só que eles tinham uma coreografia. Medíocre (e sublime), é verdade. Mas funcionava.
 Em "Cantaloop" nada é coreografado. Da morenona sentada numa daquelas máquinas de massagem à mulata que bem explora seu minivestido, ou do "senhor" alto e magro à diáfana trintona que se desenrola em crepes verdes, todos personagens estão mais que à vontade e à sua disposição para receber um convite para dançar.
 É quase inexplicável. Para maiores esclarecimentos, aguarde o vídeo de "Tukka Yoot's Riddim", também do Us3.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-158</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-158</field>
+<field name="date">940208</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 "Faltou algo em sua palestra sobre o Caminho de Santiago", me diz uma peregrina assim que saímos da Casa de Galícia em Madri onde eu acabara de dar uma conferência.
@@ -2144,9 +2144,9 @@ Colunista da Folha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-159</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-159</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Pela primeira vez, o SBT exibirá a cerimônia de entrega do Oscar. A emissora adquiriu os direitos de transmissão durante a semana passada. "Mostraremos a festa no dia 21 de março, ao vivo do Dorothy Chandler Pavillion, em Los Angeles, com exclusividade para o Brasil", afirma Ademar Dutra, gerente de divulgação do SBT. Desde a década de 70, a Globo vinha transmitindo a cerimônia.
 O SBT não revela quanto pagou pelos direitos. Também não adianta quem apresentará a transmissão. "Por enquanto, só dá para informar que exibiremos o evento com tradução simultânea", diz Ademar Dutra.
@@ -2154,9 +2154,9 @@ A Academia de Artes e Ciências Cinematográficas de Hollywood anunciará amanhã, e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-160</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-160</field>
+<field name="date">940208</field>
+<text_pt>
 FERNANDA SCALZO
 De Paris
 Chega hoje às livrarias da França a primeira biografia de Marguerite Duras, que está fazendo 80 anos. Escrita pelo jornalista Frédérique Lebelley, "Marguerite Duras ou le Poids d'une Plume" (Marguerite Duras ou o Peso da Pena, Grasset, 352 págs., 129 francos) traça o percurso da escritora, que passa pela Indochina e pela Paris ocupada pelos nazistas, refazendo a história francesa deste século. O livro tem tudo para se transformar em best seller.
@@ -2165,9 +2165,9 @@ Marguerite Duras é autora de cerca de 15 romances (entre eles "O Amante", que lh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-161</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-161</field>
+<field name="date">940208</field>
+<text_pt>
 CLAUDINÊ GONÇALVES
 Especial para a Folha, de Montreux
 A 28.ª edição do Festival de Montreux (Suíça) contará com duas noites brasileiras este ano, em vez de uma, como ocorria até agora. As noites brasileiras já estão definidas.
@@ -2178,9 +2178,9 @@ Entre os artistas brasileiros mais conhecidos, a única que nunca se apresentou e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-162</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-162</field>
+<field name="date">940208</field>
+<text_pt>
 Bomba! Bomba! A máscara do João Alves a gente compra ou paga com cheque sem fundo? Rarará! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -2191,9 +2191,9 @@ Em tempo: ainda não entendi o voto distrital. Se no meu distrito não tiver nenhu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-163</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-163</field>
+<field name="date">940208</field>
+<text_pt>
 Destruído o que resta do plano econômico de FHC, ficaremos entregues a uma assembléia de ratos sem projeto
 Quem está sendo devorado não é FHC nem seu plano. Os políticos brasileiros estão matando o último resquício de um plano nacional
 O Brasil vai ficar refém de uma assembléia de ratos, sem projeto, a não ser manter privilégios. A revisão constitucional se fará medíocre
@@ -2219,9 +2219,9 @@ E para sempre vibrarão os eternos "espasmos de mudança" que visam deixar as cois
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-164</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-164</field>
+<field name="date">940208</field>
+<text_pt>
 EDSON FRANCO
 Free-Lance para a Folha
 A folia dos roqueiros nesse carnaval está garantida. A Sony está lançando no mercado nacional os excelentes "Whenever You're Ready" e "Envy", CDs das bandas norte-americanas Flop e Eve's Plum, respectivamente. Em comum, elas possuem vigor, velocidade e distorção aplicados à releitura de melodias e características no pop e rock feitos nas décadas de 60 (Flop) e 80 (Eve's Plum).
@@ -2233,9 +2233,9 @@ Os nova-iorquinos do Eve's Plum têm na loirinha Colleen Fitzpatrick, 23, seu pri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-165</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-165</field>
+<field name="date">940208</field>
+<text_pt>
 A nova formação da dupla vocal Weather Girls
 ERIKA PALOMINO
 Colunista da Folha
@@ -2253,9 +2253,9 @@ Preço: CR$ 8 mil (média); disponível nas lojas brasileiras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-166</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-166</field>
+<field name="date">940208</field>
+<text_pt>
 BB e Nova índia Genética firmam acordo para levar a transferência de embriões aos pequenos e médios produtores
 SÉRGIO PRADO
 Enviado especial a Uberaba
@@ -2278,9 +2278,9 @@ A raça tem como característica a produção média de 12 litros de leite ao dia, um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-167</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-167</field>
+<field name="date">940208</field>
+<text_pt>
 Do enviado especial
 A Nova India Genética foi inaugurada em 1991, fruto do investimento de US$ 8 milhÕes por um grupo de pecuaristas da região de Uberaba. "Pretendemos recuperar todo o investimento realizado em três anos e meio", afirma o supervisor da empresa, Luiz Humberto Borges.
 O primeiro embrião da Nova India foi comercializado em maio de 1992. O produto deu origem a um macho, ganhador do título de Campeão Júnior Menor em exposição no ano passado. "Isto demonstra que estamos no caminho correto", diz Borges.
@@ -2297,9 +2297,9 @@ Após sete dias é feita a retirada dos embriões. Depois de rastreados e identific
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-168</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-168</field>
+<field name="date">940208</field>
+<text_pt>
 SYLVIO LAZZARINI NETO
 Ante a quantidade e o tamanho dos problemas da nossa economia, os resultados obtidos nos últimos dez a quinze anos pela pecuária bovina brasileira não podem ser minimizados e nem mesmo considerados decepcionantes.
 Ao longo desse período, a atividade permitiu ao país consolidar-se como um dos maiores produtores e exportadores de carne in natura e industrializada; é responsável pela produção de carne de alta qualidade com os mais baixos custos, apesar de ser apenada com a mais elevada carga tributária do mundo; desenvolveu e aprimorou o nelore, um dos mais eficazes produtores de carnes vermelhas na "faixa tropical" do planeta.
@@ -2316,9 +2316,9 @@ SYLVIO LAZZARINI NETO é diretor-consultor da SDF Consultoria Rural.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-169</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-169</field>
+<field name="date">940208</field>
+<text_pt>
 Da Agência Safras
 A safra 93/94 certamente terá uma comercialização bastante difícil, tanto pelo lado do vendedor como do comprador. O ano eleitoral e a perspectiva de um plano econômico que altere profundamente as relações comerciais aparecem como os dois pontos mais importantes a ser considerados na comercialização do milho.
 A tendência inicial do mercado para 1994 sinaliza um ano de preços médios e ritmo de comercialização semelhantes aos de 93. Entretanto, dois pontos são importantes na avaliação do mercado para este ano: o posicionamento dos estoques governamentais e os preços no mercado internacional.
@@ -2331,9 +2331,9 @@ Além da perda argentina, a possível quebra da safra norte-americana também poder
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-170</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-170</field>
+<field name="date">940208</field>
+<text_pt>
 SEBASTIÃO NASCIMENTO
 Da Reportagem Local
 O aumento acima da inflação dos prêmios pagos nas corridas do Jóquei Clube de São Paulo foi o primeiro fator a influenciar os resultados do leilão de liquidação de plantel do Beverly Hills Stud, realizado dia 1.º deste mês. Os 11 cavalos em treinamento (que já participam de corridas) do Beverly alcançaram a média de CR$ 5.959 milhões, ou US$ 13,2 mil pelo câmbio comercial.
@@ -2345,9 +2345,9 @@ O aumento dos prêmios do Jóquei atingiu 48% em janeiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-171</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-171</field>
+<field name="date">940208</field>
+<text_pt>
 60.ª edição da feira começa dia 25 de abril em Uberaba (MG)
 Da Reportagem Local
 A Expozebu (Exposição Nacional do Gado Zebu), de Uberaba (MG), faz 60 anos e se internacionaliza. A 60.ª edição da feira, que acontece de 25 de abril a 10 de maio, dá o passo inicial para sua internacionalização, com a abertura da primeira mostra de raças zebuínas de outros países.
@@ -2363,9 +2363,9 @@ Expozebu, tel. (034) 336 3900
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-172</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-172</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 "As médias dos pregões de elite de nelore em 93 corrigiram em dólar entre 30% e 70% as da temporada de 92". A afirmação é de José Eduardo Prata Carvalho, diretor da Remate, empresa leiloeira paulista que promove os principais pregões de nelore e nelore mocho do país.
 Alguns leilões, como o do Grupo Nova India, de Uberaba (MG), que vendeu nelore padrão, e o do Grupo 3-B, de São Paulo, que fez negócio com o nelore mocho, tiveram suas ofertas valorizadas em mais de 100%.
@@ -2377,9 +2377,9 @@ Os leilões de elite recomeçam este ano no final de abril, durante a Expozebu, em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-173</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-173</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 O Sindicato Nacional das Empresas de Leilão Rural (Sinal) vai contestar na justiça a medida da Secretaria de Agricultura e Abastecimento de São Paulo que proíbe a realização de leilões de bovinos nos meses de março e setembro deste ano, período de vacinação contra a febre aftosa.
 O advogado Valter Alves de Paiva deve entrar, esta semana, com mandado de segurança coletivo. "O sindicato entende que a resolução da Secretaria de Agricultura é inconstitucional e discriminatória, pois é assegurado a todos o livre exercício de qualquer atividade econômica, independente de autorização de órgão público", afirma José Eduardo Matuck, presidente do Sinal.
@@ -2387,9 +2387,9 @@ De acordo com Matuck, 240 mil animais deixarão de ser comercializados nos dois m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940208-174</text_pt>
-<text_pt name="date">940208</text_pt>
-<text_pt name="text">
+<field name="id">FSP940208-174</field>
+<field name="date">940208</field>
+<text_pt>
 Da Reportagem Local
 Cavalos das raças andaluz, anglo-árabe, árabe, brasileiro de hipismo, campolina, mangalarga, quarto-de-milha, entre outras, além de cinco bovinos da raça jersey, serão ofertados no próximo dia 26, em Vargem Grande Paulista (SP), no leilão Tableau.
 Segundo os organizadores, o remate dá chances a quem deseja adquirir um cavalo já domado, para passeio ou esportes.

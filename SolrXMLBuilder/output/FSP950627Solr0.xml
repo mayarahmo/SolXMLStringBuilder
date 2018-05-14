@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950627-001</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-001</field>
+<field name="date">950627</field>
+<text_pt>
 A Organização das Nações Unidas chega aos 50 anos em meio a um debate crescente sobre a sua estrutura interna e, principalmente, sua atuação. A realidade do funcionamento da ONU ao longo desse meio século de fato revelou-se muito distante daquilo que sonhavam seus fundadores em 1945, quando o otimismo do fim da Segunda Grande Guerra corporificou-se numa entidade destinada a manter a paz e estimular a cooperação e o desenvolvimento dos povos.
 A marca mais visível da ONU hoje são sem dúvida suas operações militares, e os diversos insucessos nessa área, somados às críticas de ineficiência e desperdício, reduzem a existência da organização, para muitos, a uma custosa inutilidade.
 Mas, se uma rediscussão do papel da ONU e do seu funcionamento se faz realmente necessária, é preciso também evitar o simplismo na avaliação dos seus primeiros 50 anos. Longe dos holofotes, a ONU e suas várias ramificações têm intensa _e frutífera_ atuação nos mais diversos campos, desde o combate integrado a doenças por meio da Organização Mundial de Saúde até programas de assistência infantil do Unicef, passando pela indiscutível ação do Alto Comissariado para Refugiados e a fiscalização de eleições em vários países.
@@ -13,9 +13,9 @@ De certa forma, o que a ONU faz, além da multiplicidade de atividades setoriais 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-002</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-002</field>
+<field name="date">950627</field>
+<text_pt>
 A imagem do Congresso Nacional como instituição deve ser respeitada. O Parlamento é a voz da população, em nome da qual todo o poder é exercido. As duas Casas são, assim, um dos fundamentos da democracia, que, apesar de seus problemas e imperfeições, foi a melhor forma de governo até hoje experimentada pela humanidade.
 A dignidade do Congresso não o torna, porém, imune a críticas, outro instrumento crucial para o exercício da democracia. E há várias modalidades de crítica. Há a construtiva, a mais dura e até a jocosa, para citar apenas algumas. Todas elas são legítimas.
 Nesse sentido, a iniciativa da Procuradoria Geral da Câmara de impedir que a banda de rock ``Paralamas do Sucesso" exibisse uma de suas canções que faz críticas ao Congresso em show realizado na sexta em Brasília é um retrocesso.
@@ -25,9 +25,9 @@ Das Casas que representam a voz da população, a última coisa que se esperaria é 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-003</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-003</field>
+<field name="date">950627</field>
+<text_pt>
 O desaquecimento das vendas de automóveis, nacionais e importados, aparece como um dos sinais mais evidentes de que a política econômica atinge seus objetivos.
 A importância desse indicador vai além dos estoques que se acumulam nos pátios das montadoras e revendedoras ou no anúncio de férias coletivas.
 A relevância do esfriamento automobilístico resulta daquilo que os economistas denominam ``encadeamentos" setoriais.
@@ -40,9 +40,9 @@ Os encadeamentos flexíveis permitem respostas ágeis do setor à política econômic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-004</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-004</field>
+<field name="date">950627</field>
+<text_pt>
 Clóvis Rossi 
 SÃO PAULO _ Desindexar a economia é uma necessidade tão óbvia que até dispensaria comentários. Mas há uma outra necessidade, igualmente óbvia, que corre o sério risco de não ser contemplada pelo governo.
 Trata-se de evitar que a desindexação se limite a extirpar a correção dos salários pela inflação passada, mantendo-se os demais indexadores.
@@ -57,9 +57,9 @@ Vai-se voltar a uma discussão já havida no lançamento da URV. Na época, question
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-005</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-005</field>
+<field name="date">950627</field>
+<text_pt>
 Gilberto Dimenstein 
 BRASÍLIA _ O presidente Fernando Henrique Cardoso está suando para tentar reverter o movimento no Congresso pelo tabelamento de juros de 12% ao ano. Até ontem à noite, não havia segurança no Palácio do Planalto sobre o comportamento dos próprios parlamentares aliados. É surpreendente até onde vai a leviandade.
 A julgar pelas negociações de bastidores, o governo vence mais esse desafio _mas com algum custo. Afinal, o Palácio do Planalto descobriu os encantos da política do ``é dando que se recebe".
@@ -74,9 +74,9 @@ PS _ Em vez do tabelamento de juros, alguém deveria propor o tabelamento da dema
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-006</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-006</field>
+<field name="date">950627</field>
+<text_pt>
 Antonio Carlos de Faria 
 RIO DE JANEIRO _ Censuraram os Paralamas do Sucesso no planalto central. A música alusiva aos 300 picaretas mexeu com os brios da Câmara dos Deputados, que acionou o Ministério Público. A liberdade de expressão sucumbiu sob a ameaça de prisão.
 Mas não há motivo para precipitações. Ninguém pode sair por aí falando que não há liberdade para dizer o que se pensa. Exemplo disso é dado pelo governo federal, que vai gastar R$ 10 milhões para falar do Real.
@@ -92,9 +92,9 @@ Sugestões não faltam. Quem sabe uma concessão de rádio e TV. Quem sabe um emprés
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-007</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-007</field>
+<field name="date">950627</field>
+<text_pt>
 André Lara Resende 
 Desta vez a operação foi conduzida de forma clara e competente. O Banco Central mudou os limites inferior e superior para flutuação do real em relação ao dólar. O comunicado, as entrevistas aos jornais e a atuação do Banco Central na manhã seguinte ao anúncio foram coerentes e não deixaram dúvida.
 Apesar da mudança no intervalo da chamada banda de flutuação, a cotação do real não se modificou: continuou ligeiramente acima de R$ 0,92, próxima do antigo teto e do novo piso. Não houve, portanto, desvalorização. O nervosismo dos últimos dias, entretanto, desapareceu, e as cotações futuras do dólar cederam.
@@ -109,9 +109,9 @@ André Lara Resende escreve às terças-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-008</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-008</field>
+<field name="date">950627</field>
+<text_pt>
 Os seis anos de autonomia de gestão financeira da Unesp, Unicamp e USP apresentam saldo positivo
 ARTHUR ROQUETE DE MACEDO 
 A autonomia de gestão financeira exercitada pelas universidades estaduais paulistas, longe de ser um privilégio, se constituiu na responsabilidade de gerir a universidade pública de uma forma não atrelada a ideologias ou ao sistema de governo dominante. A autonomia ocorre dentro de um planejamento que promove o aprimoramento do ensino, da ciência e da cultura, associado a um projeto de desenvolvimento nacional que permite, além do crescimento econômico, o avanço tecnológico e o resgate da nossa dívida social.
@@ -134,9 +134,9 @@ ARTHUR ROQUETE DE MACEDO, 51, é professor titular do Departamento de Cirurgia da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-009</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-009</field>
+<field name="date">950627</field>
+<text_pt>
 O sucesso do Real se confunde com estabilidade e rigidez da distribuição da renda nacional
 CANDIDO MENDES 
 O desfecho da greve dos petroleiros não permite qualquer menosprezo ao êxito do governo. Seu epílogo não é o das forras oratórias dos áulicos, transformados em ferrabrases do rescaldo, depois de vencida a duríssima queda-de-braço. O que está em causa é um aprofundamento do processo democrático, que nos deixa a anos-luz do Brasil do ``tudo bem" e do blefe permanente. Não funciona mais o karaokê de Sarney e Itamar.
@@ -158,9 +158,9 @@ CANDIDO MENDES, 63, é secretário-geral da Comissão Brasileira de Justiça e Paz, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-010</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-010</field>
+<field name="date">950627</field>
+<text_pt>
 ``A carta do presidente da Previ publicada na Folha de 25/6 omite que foi o TCU (Tribunal de Contas da União) que denunciou que as estatais pagaram indevidamente aos fundos de pensão. Se os fundos de pensão não devolverem, o certo seria fechar o TCU, pois o órgão é inútil. Já sustentamos esses dinossauros estatais que saqueiam o país. Assim economizaríamos pelos menos os gastos com o TCU."
 Luiz Gornstein (São Paulo, SP)
 
@@ -203,9 +203,9 @@ Luiz Carlos Pinho de Assis (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-011</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-011</field>
+<field name="date">950627</field>
+<text_pt>
 O meio publicitário está agitado com a nova concorrência da CEF, em julho. Se forem mantidos valores equivalentes aos contratos terminados em maio _R$ 40 milhões_, a Caixa será a segunda maior anunciante do governo.
 
 Novo round 
@@ -238,9 +238,9 @@ _ Eles precisam discutir a agenda social e não apenas a econômica. Caso contrári
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-012</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-012</field>
+<field name="date">950627</field>
+<text_pt>
 Presidente diz ainda que Real transferiu R$ 15 bilhões "ao povo"
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso defendeu ontem o acordo sobre crédito agrícola firmado com a Frente Parlamentar da Agricultura _a bancada ruralista_ e ressaltou a prioridade do governo para o setor de saúde.
@@ -262,9 +262,9 @@ No balanço sobre um ano do Plano Real, o presidente disse que a inflação de seis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-013</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-013</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília
 O ministro José Eduardo de Andrade Vieira (Agricultura) defendeu ontem que o governo faça mais concessões aos agricultores e pecuaristas. 
 Segundo ele, o percentual de dívidas agrícolas vencidas a ser negociado poderá chegar a 50%, superando os 30% firmados no recente acordo entre o governo e a bancada ruralista (formada por parlamentares ligados ao setor agropecuário). 
@@ -282,9 +282,9 @@ Andrade Vieira disse que existem, &#147;no máximo, 30 mil devedores&#148;, de um
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-014</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-014</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 O Sesc (Serviço Social do Comércio) e a FCESP (Federação do Comércio do Estado de São Paulo) promovem a partir de hoje o simpósio ``O Desafio Social da Fome - A Empresa no Combate ao Desperdício".
 Durante três dias serão discutidas formas de participação das empresas em campanhas contra a fome. O primeiro painel _``Políticas de Segurança Alimentar"_ terá a presença da secretária-executiva do Conselho da Comunidade Solidária, Ana Maria Peliano.
@@ -294,9 +294,9 @@ O sociólogo Herbert de Souza, o Betinho, não deverá comparecer por estar doente.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-015</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-015</field>
+<field name="date">950627</field>
+<text_pt>
 Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso defendeu ontem que a ONU (Organização das Nações Unidas) seja ``mais ativa no que diz respeito ao combate à fome e à miséria".
 A afirmação está na mensagem distribuída às emissoras de TV brasileiras sobre os 50 anos de criação da ONU, completados ontem. FHC lembrou que a ONU foi criada ``depois de uma guerra cruel (2ª Guerra Mundial), depois que cerca de 17 milhões de pessoas morreram".
@@ -320,9 +320,9 @@ E é para esse futuro melhor que todos os povos devem trabalhar. E o povo brasile
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-016</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-016</field>
+<field name="date">950627</field>
+<text_pt>
 O aniversário do Real, cujos festejos não serão atingidos, como o é a saúde, por falta de dinheiro, atesta o êxito do combate à inflação, mas é também um atestado de fragilidade das instituições democráticas. A implantação e a permanência do Real foram feitas por 12 medidas provisórias, renovadas a cada 30 dias entre junho do ano passado e maio deste ano. Se a mais recente não for aprovada agora pelo Congresso, o presidente Fernando Henrique assinará a 13ª MP para manter a vigência do real.
 Da mudança da moeda, um símbolo nacional, à vasta quantidade de regras sociais, econômicas e financeiras que alterou, a MP de lançamento do Real teve alcances que a distinguem de qualquer outra. Nem por isso os deputados e senadores dos partidos que dominam o Congresso se dispuseram a discuti-la e votá-la. Itamar Franco assinou a primeira MP e mais 6 renovações, Fernando Henrique já a renovou 5 vezes. O governo, no último semestre de Itamar e no primeiro de Fernando Henrique, não governou: reinou, com poder absoluto decorrente da omissão das maiorias da Câmara e do Senado.
 Medida provisória tem efeito de lei, mas não é lei: sua validade é de 30 dias, findos os quais, se o Congresso não a aprovou nem rejeitou, pode ser reeditada. Tudo foi e continua sendo subvertido há um ano, portanto, sem que exista lei para tanto, mas tão só um recurso provisório e passível, ao menos teoricamente, de rejeição pelos congressistas.
@@ -336,9 +336,9 @@ Já se sabe quem azarou o Flamengo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-017</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-017</field>
+<field name="date">950627</field>
+<text_pt>
 João Batista Oliveira diz que governo dá excessiva atenção ao ensino superior 
 RUI NOGUEIRA 
 Coordenador de Política da Sucursal de Brasília 
@@ -365,9 +365,9 @@ Ele ficará se recuperando na praia de Porto de Galinhas, a 60 km de Recife (PE).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-018</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-018</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal do Rio 
 Um grande lobby (pressão) junto ao Congresso Nacional será montado hoje em Brasília pelo governador do Rio de Janeiro, Marcello Alencar (PSDB).
 Alencar desembarca em Brasília à tarde, acompanhado por sete secretários. O lobby começa com um jantar na casa do presidente da Câmara, deputado Luís Eduardo Magalhães (PFL-BA).
@@ -382,9 +382,9 @@ O lobby montado por Alencar (RJ) para aprovar medidas que favoreçam o Rio inclui
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-019</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-019</field>
+<field name="date">950627</field>
+<text_pt>
 Índice de inflação é muito semelhante ao IPC-r, que deverá ser extinto pela MP a ser divulgada amanhã 
 MARTA SALOMON
 Da Sucursal de Brasília
@@ -411,9 +411,9 @@ sobre desindexação nas págs. 2-1 e 2-8
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-020</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-020</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo deve manter a correção trimestral da tabela do IRRF (Imposto de Renda retido na fonte) nos próximos seis meses para evitar resistências à MP (medida provisória) da desindexação da economia _fim dos reajustes automáticos pela inflação passada.
 O congelamento do valor da Ufir nos próximos seis meses traria perdas para assalariados que tivessem reajuste.
@@ -429,9 +429,9 @@ Como os salários serão os mais atingidos pela nova política de livre negociação,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-021</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-021</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 A lei de desindexação da economia deve valer apenas para os contratos novos, a partir de sua publicação. Os contratos atualmente em vigor têm de ser respeitados.
 Essa é a opinião de especialistas ouvidos ontem pela Folha sobre o fim da indexação da economia.
@@ -441,9 +441,9 @@ O advogado Plínio Marafon diz que o governo deve desindexar, mas só os contratos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-022</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-022</field>
+<field name="date">950627</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
 Os petroleiros, durante a greve de 30 dias que terminou dia 2, &#147;não conseguiram travar um diálogo mais firme com a população&#148; para esclarecê-la sobre o movimento, segundo o secretário-geral da CUT (Central Única dos Trabalhadores), João Vaccari Neto. 
@@ -460,9 +460,9 @@ A Força Sindical aceita a livre negociação a partir de julho, como propõe o gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-023</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-023</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso descartou ontem o risco de recessão econômica no segundo ano do Plano Real. ``Não teve no primeiro ano. Por que vai ter no segundo ?".
 Segundo FHC, ``a taxa de desemprego nunca foi tão baixa no Brasil". Ele deu esta declaração após receber visita do presidente da Itália, Oscar Luigi Scalfaro, no Palácio do Planalto.
@@ -471,9 +471,9 @@ O porta-voz da Presidência, Sérgio Amaral, disse que o governo tomou medidas par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-024</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-024</field>
+<field name="date">950627</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte 
 O prefeito de Belo Horizonte, Patrus Ananias (PT), disse ontem que vai manter os reajustes salariais dos servidores públicos municipais de acordo com inflação, independente da MP (medida provisória) da desindexação a ser editada nesta semana pelo governo.
 ``Estamos garantindo aos nossos servidores os reajustes de acordo com a inflação, pretendemos continuar nessa linha", disse.
@@ -483,9 +483,9 @@ A Prefeitura de Belo Horizonte mantém o gatilho salarial, que dispara sempre que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-025</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-025</field>
+<field name="date">950627</field>
+<text_pt>
 Ex-presidente fala sobre 1 ano de Real 
 JAIR RATTNER 
 De Lisboa 
@@ -506,9 +506,9 @@ Itamar - Apesar de pequenas dúvidas, sempre agimos às claras com o país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-026</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-026</field>
+<field name="date">950627</field>
+<text_pt>
 Para o governo, a crise militar do Chile recomenda prudência; serão dados apenas atestados de morte e pensões 
 EMANUEL NERI 
 Da Reportagem Local .
@@ -529,9 +529,9 @@ Em maio passado, familiares de desaparecidos entregaram a Gregori e ao ministro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-027</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-027</field>
+<field name="date">950627</field>
+<text_pt>
 GEORGE ALONSO
 Da Reportagem Local 
 Documento do Exército, datado de 16 de abril de 1971, contradiz o laudo do médico-legista Pérsio José Ribeiro Carneiro, 56, que atestou a morte, em consequência de tiroteio, do guerrilheiro Joaquim Alencar Seixas, de extrema esquerda.
@@ -552,9 +552,9 @@ O CRM ouve amanhã três testemunhas de acusação. A entidade mantém sob sigilo dep
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-028</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-028</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 O Tribunal Regional Federal (TRF) de São Paulo julga hoje, às 14h, apelação da União no processo sobre o pagamento de indenização à família do metalúrgico Manoel Fiel Filho.
 ``Espero, enfim, uma decisão da Justiça", afirmou Thereza de Lourdes Fiel, viúva do operário.
@@ -566,9 +566,9 @@ Fiel foi detido sob acusação de distribuir o jornal ``Voz Operária", do PCB.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-029</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-029</field>
+<field name="date">950627</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local 
 Os líderes da corrente de ``centro" do PT, que venceu a eleição para a presidência do diretório paulistano do partido no último domingo, iniciaram ontem uma tentativa de reatar o diálogo com a tendência de ``esquerda", derrotada na disputa.
@@ -586,9 +586,9 @@ Colaborou a Folha Vale
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-030</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-030</field>
+<field name="date">950627</field>
+<text_pt>
 DANIEL BRAMATTI 
 Da Sucursal de Brasília 
 O deputado João Paulo Cunha (PT-SP) e o líder do PMDB na Câmara, Michel Temer (SP), criticaram ontem a decisão da Procuradoria Geral da Casa de solicitar a censura da música ``Luiz Inácio (300 Picaretas)", que deveria ter sido apresentada pela banda Paralamas do Sucesso em show na última sexta-feira, em Brasília.
@@ -606,9 +606,9 @@ O deputado Bonifácio de Andrada foi procurado pela Folha em sua casa, em Belo Ho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-031</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-031</field>
+<field name="date">950627</field>
+<text_pt>
 Da Agência Folha, em Belo Horizonte 
 O governador de Minas Gerais, Eduardo Azeredo (PSDB), lança hoje o PMDI (Plano Mineiro de Desenvolvimento Integrado), que vai orientar os investimentos no Estado até 1998.
 Os investimentos do programa somam no mínimo US$ 4 bilhões, disse o vice-governador e secretário de Planejamento do Estado, Walfrido dos Mares Guia (PTB).
@@ -623,9 +623,9 @@ Na área de ciência e tecnologia, o governo vai investir US$ 150 milhões até o fi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-032</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-032</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo vai flexibilizar a negociação com os agricultores sobre as dívidas já vencidas para permitir o refinanciamento de até 50% deste débitos, contra o limite geral de 30% estabelecido no acordo entre o governo e os parlamentares ligados ao setor rural.
 O porta-voz da Presidência, Sérgio Amaral, confirmou ontem esta flexibilização. Segundo ele, ``o Banco do Brasil (responsável pelas negociações) levará em conta, na avaliação de cada pedido, as credenciais de bom pagador".
@@ -642,9 +642,9 @@ Os próprios ruralistas calculam em R$ 2,8 bilhões os gastos do governo para aten
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-033</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-033</field>
+<field name="date">950627</field>
+<text_pt>
 João Batista de Oliveira diz que governo dá excessiva atenção ao ensino superior 
 RUI NOGUEIRA 
 Coordenador de Política da Sucursal de Brasília 
@@ -670,9 +670,9 @@ Paulo Renato deverá se ausentar ainda mais uns dias do ministério para se recupe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-034</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-034</field>
+<field name="date">950627</field>
+<text_pt>
 Versão final da medida provisória que vai limitar a indexação da economia deverá ser apresentada amanhã 
 Da Sucursal de Brasília 
 O governo decidiu incluir na MP (medida provisória) da desindexação o pagamento do IPC-r acumulado da última data-base até o mês de junho, quando se encerra a atual política salarial.
@@ -696,9 +696,9 @@ O atual valor dos benefícios ficará congelado até maio de 96.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-035</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-035</field>
+<field name="date">950627</field>
+<text_pt>
 1. Salários
 2. Pensões e aposentadorias oficiais
 3. Aluguel
@@ -743,9 +743,9 @@ A proposta do governo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-036</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-036</field>
+<field name="date">950627</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI 
 Da Reportagem Local 
 Os petroleiros, durante a greve de 30 dias que terminou dia 2, ``não conseguiram travar um diálogo mais firme com a população" para esclarecê-la sobre o movimento, segundo o secretário-geral da CUT (Central Única dos Trabalhadores), João Vaccari.
@@ -770,9 +770,9 @@ Colaborou a Folha Vale
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-037</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-037</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso descartou ontem o risco de recessão no segundo ano do Plano Real. ``Não tem recessão nenhuma. Não teve no primeiro ano. Por que vai ter no segundo? Pelo contrário, houve evolução".
 Segundo FHC, ``a taxa de desemprego nunca foi tão baixa no Brasil". Ele deu essas declarações após reunião com o presidente da Itália, Oscar Luigi Scalfaro.
@@ -783,9 +783,9 @@ FHC admitiu haver ``obstáculos" para a manutenção da estabilidade, mas disse que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-038</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-038</field>
+<field name="date">950627</field>
+<text_pt>
 Ministro responde acusações de Ciro 
 JOÃO BATISTA NATALI 
 Da Reportagem Local 
@@ -802,9 +802,9 @@ Serra respondeu de público, pela primeira vez, às críticas que lhe foram feitas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-039</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-039</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília 
 O embaixador do Brasil em Roma e ex-ministro da Fazenda, Rubens Ricupero, defendeu ontem a desindexação gradual da economia brasileira.
 Ele quebrou o jejum de nove meses _desde que deixou o governo em setembro de 94_ e voltou a falar sobre o Plano Real. Uma das preocupações de Ricupero é com o fim da correção automática de preços e salários. O embaixador _que está no Brasil acompanhando o presidente da Itália, Oscar Scalfaro_ disse que o principal obstáculo, agora que o Real completa um ano, são os déficits da balança comercial.
@@ -812,9 +812,9 @@ Ricupero não acredita que a restrição às importações seja o caminho para reverte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-040</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-040</field>
+<field name="date">950627</field>
+<text_pt>
 Para o governo, a crise militar do Chile recomenda prudência; serão dados apenas atestados de morte e pensões 
 EMANUEL NERI 
 Da Reportagem Local 
@@ -835,9 +835,9 @@ Mas o governo diz que a crise do Chile recomenda prudência. Reivindicações como 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-041</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-041</field>
+<field name="date">950627</field>
+<text_pt>
 DANIEL BRAMATTI 
 Da Sucursal de Brasília 
 O deputado João Paulo Cunha (PT-SP) desafiou ontem a Procuradoria Geral da Câmara e leu em plenário a letra da música ``Luiz Inácio (300 Picaretas)", da banda Paralamas do Sucesso.
@@ -860,9 +860,9 @@ Andrada foi procurado pela Folha em sua casa, em Belo Horizonte (MG). Até o fech
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-042</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-042</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 Os líderes da corrente de ``centro" do PT que venceu a eleição para a presidência do diretório paulistano do partido no domingo iniciaram uma tentativa de reatar o diálogo com a tendência de ``esquerda", derrotada na disputa.
 Luiz Inácio Lula da Silva, Aloizio Mercadante e José Dirceu queriam, a partir de São Paulo, fazer a aproximação com a ala do deputado estadual paulista Rui Falcão.
@@ -876,9 +876,9 @@ Colaborou a Folha Vale
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-043</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-043</field>
+<field name="date">950627</field>
+<text_pt>
 Paulo César Farias disse ontem que Fernando Collor caiu devido a seu despreparo: ``O Fernando se mostrou despreparado politicamente para o cargo. Tratava os políticos com arrogância, como se fosse um ditador, cheio de formalidades que impediam conversas francas com os parlamentares", afirmou PC.
 
 Dirigente da Conab-BA não sabe se toma posse 
@@ -901,30 +901,30 @@ O Ministério das Relações Exteriores da França destituiu o diplomata Gérard Samb
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-044</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-044</field>
+<field name="date">950627</field>
+<text_pt>
 Sete municípios do Haiti fizeram ontem novas eleições legislativas. São cidades onde houve desordens ou denúncias de fraude na votação de domingo, a primeira desde a volta ao poder do presidente Jean-Bertrand Aristide, em outubro passado. Nos outros 126 municípios, as eleições foram validadas, mas houve algumas denúncias de fraudes nas apurações.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-045</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-045</field>
+<field name="date">950627</field>
+<text_pt>
 O líder tchetcheno Chamil Basaiev, que comandou a tomada de 1.500 reféns em Budennovsk (sul da Rússia), disse que vai voltar a atacar o país, se as negociações entre russos e tchetchenos fracassarem. Tropas russas atacaram ontem em Grozni (capital da Tchetchênia), apesar do cessar-fogo entre os dois grupos. Militares russos disseram que tchetchenos conseguiram entrar na cidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-046</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-046</field>
+<field name="date">950627</field>
+<text_pt>
 O centro de Sarajevo, capital da Bósnia, voltou a sofrer ataques sérvios ontem. No mais grave deles, três bombas perto de catedral católica mataram um homem e feriram seis pessoas. Dois soldados franceses das forças de paz da ONU também foram feridos, em dois incidentes separados. Os sérvios voltaram a atacar comboios da ONU que saíam de Sarajevo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-047</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-047</field>
+<field name="date">950627</field>
+<text_pt>
 Raúl Salinas (foto), irmão do ex-presidente mexicano Carlos Salinas de Gortari, disse ontem que é vítima da parcialidade da Justiça. Ele está preso acusado de mandar matar em setembro passado José Francisco Ruiz Massieu, secretário-geral do PRI (partido no poder).
 
 Carlos Menem tem aprovação recorde
@@ -947,9 +947,9 @@ Quinze pessoas morreram em um acidente aéreo ocorrido no sábado em Lagos, na Nig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-048</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-048</field>
+<field name="date">950627</field>
+<text_pt>
 Ex-ministro para o País de Gales é opositor do premiê na disputa pela liderança conservadora
 OTÁVIO DIAS
 De Londres
@@ -969,9 +969,9 @@ O premiê defende que o Reino Unido participe das discussões sobre a integração e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-049</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-049</field>
+<field name="date">950627</field>
+<text_pt>
 ROBERT FISK
 Do "The Independent"
 Os inimigos de Mubarak estão atacando a jugular do presidente egípcio. No mínimo, o ataque de ontem prova a fragilidade de seu regime, apesar de o governo do Egito decretar que está ganhando a guerra contra o terrorismo.
@@ -990,9 +990,9 @@ Caso haja revolução no Egito, os EUA querem ter certeza de que será apenas mais 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-050</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-050</field>
+<field name="date">950627</field>
+<text_pt>
 Das agências internacionais
 No dia 6 de outubro de 1981, o antecessor de Hosni Mubarak foi morto durante um desfile militar no Cairo. Anuar Sadat levou rajadas de metralhadora de soldados do Exército ligados ao grupo Jihad Islâmica (guerra santa).
 Mubarak, então vice-presidente, estava ao lado de Sadat no palanque. Um dos atiradores, na hora do ataque, sinalizou com a mão para que Mubarak fosse para o lado, evidenciando o alvo principal. Nove morreram e 38, entre eles Mubarak, ficaram feridos.
@@ -1002,9 +1002,9 @@ Agora, os radicais islâmicos se posicionam contra os acordos de paz entre OLP, I
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-051</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-051</field>
+<field name="date">950627</field>
+<text_pt>
 De Nova York
 Informe dá apoio a Clinton
 Um novo informe sobre a companhia de empreendimentos imobiliários Whitewater dá razão ao presidente dos EUA, Bill Clinton, e a sua mulher, Hillary, sobre seus investimentos, diz o jornal.
@@ -1016,9 +1016,9 @@ Stephens, republicano, é um crítico de Clinton. A Casa Branca se mostrou descont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-052</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-052</field>
+<field name="date">950627</field>
+<text_pt>
 Leia alguns destaques da imprensa internacional:
 
 The New York Times
@@ -1029,9 +1029,9 @@ Entrevista Suha, mulher do líder palestino Iasser Arafat, que diz que o primeiro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-053</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-053</field>
+<field name="date">950627</field>
+<text_pt>
 Raúl Salinas (foto), irmão do ex-presidente mexicano Carlos Salinas de Gortari, disse ontem que é vítima da parcialidade da Justiça. Ele está preso acusado de mandar matar em setembro passado José Francisco Ruiz Massieu, secretário-geral do PRI (partido no poder).
 
 Terremoto atinge Los Angeles
@@ -1054,9 +1054,9 @@ Jack Kevorkian, o "Dr. Morte", ajudou hoje pela 24ª vez um paciente a cometer su
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-054</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-054</field>
+<field name="date">950627</field>
+<text_pt>
 Ex-ministro para o País de Gales é opositor do premiê na disputa pela liderança conservadora
 OTÁVIO DIAS
 De Londres
@@ -1075,9 +1075,9 @@ O premiê defende que o Reino Unido participe das discussões sobre a integração e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-055</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-055</field>
+<field name="date">950627</field>
+<text_pt>
 UEZE ZAHRAN
 Esta Folha publicou, nos últimos dias, dois artigos assinados pelo coordenador da FUP, Antônio Carlos Spis. Neles, as distribuidoras de gás liquefeito de petróleo (GLP) são acusadas de haver escondido o produto durante a greve dos petroleiros. O objetivo seria duplo: lançar os petroleiros contra a opinião pública, em conluio com o governo federal, e aguardar o aumento no preço do botijão de GLP.
 As distribuidoras jamais esconderam gás. Nem poderiam. Sequer dispomos de tanques armazenadores suficientes para isso. Nossa capacidade de estocagem é de apenas dois dias (contra, por exemplo, cem dias do Japão). O fato _é bom que o coordenador Spis esteja atento_ é reconhecido pelo presidente do Sindicato dos Trabalhadores do Comércio de Minérios e Derivados de Petróleo do Estado de São Paulo, Odair Camillo Leopoldo Marques, em depoimento a esta mesma Folha (23/06).
@@ -1095,31 +1095,31 @@ UEZE ZAHRAN, 65, é presidente da Copagaz Distribuidora Ltda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-056</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-056</field>
+<field name="date">950627</field>
+<text_pt>
 O custo médio da cesta básica aumentou 0,22% no final de semana no município de São Paulo. Ontem, a compra dos 31 produtos passou a custar, em média, R$ 101,66 _na sexta-feira, a mesma compra custava R$ 101,44. Os dados são da pesquisa do Procon, feita em convênio com o Dieese.
 O grupo dos alimentos teve alta de 0,30% e foi o principal responsável pelo aumento do custo médio. Os produtos de limpeza subiram 0,20% e os de higiene pessoal recuaram 0,40%. No acumulado de junho até ontem, a cesta básica subiu 0,59%. Em maio, o aumento acumulado foi de 0,38%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-057</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-057</field>
+<field name="date">950627</field>
+<text_pt>
 O custo dos condomínios na cidade de São Paulo teve alta de 6,36% em maio. Este é o resultado do Ipevecon (Índice Periódico de Variação dos Custos Condominiais). No mês anterior, os custos registraram retração de 1,01%. No últimos 12 meses, o setor acumula alta de 164,52%. Os dados são da Aabic (Associação das Administradoras de Bens Imóveis e Condomínios de São Paulo).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-058</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-058</field>
+<field name="date">950627</field>
+<text_pt>
 O IPV (Índice de Preços no Varejo) subiu 1,9% nas últimas quatro semanas, ou 0,53 ponto percentual menos que no período anterior. As quedas de 0,52% nos grupos semiduráveis (vestuário, calçados e tecidos) e de 0,81% no de comércio automotivo, na terceira semana do mês, contribuíram para a redução do IPV. Os dados são da FCESP (Federação do Comércio do Estado de São Paulo).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-059</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-059</field>
+<field name="date">950627</field>
+<text_pt>
 FLAVIO CASTELLOTTI
 Da Cidade do México
 Nos últimos 15 anos, aumentou 51% o número de mexicanos que vivem abaixo da linha de pobreza, segundo dados do Banco Mundial.
@@ -1136,18 +1136,18 @@ Burki anunciou um programa de cooperação técnica entre o Banco Mundial e o gover
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-060</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-060</field>
+<field name="date">950627</field>
+<text_pt>
 Das agências internacionais
 O governo da Venezuela espera estabelecer, nos próximos dias, um ``pacto antiinflacionário" envolvendo empresários e sindicatos, para frear a alta dos preços.
 Durante o ano de 94, a inflação venezuelana foi de 70,8%, a segunda mais alta da história contemporânea do país. Há um ano, o país suspendeu as garantias constitucionais e decretou o controle cambial e de preços, sob o pretexto de equilibrar a economia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-061</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-061</field>
+<field name="date">950627</field>
+<text_pt>
 O ministro da Administração, Luiz Carlos Bresser Pereira, prepara-se para enfrentar uma das mais relevantes reformas do país, que é a reforma administrativa.
 O ministro passou o primeiro semestre falando pouco _sobre a reforma_, mas preparando um conjunto bastante articulado de princípios conceituais e planos de ação.
 Bresser entende que o sistema atual _centralizado, hierarquizado e baseado na idéia do controle por processo_ deve ser substituído por um modelo fundado na descentralização, na administração matricial e na autonomia administrativa, sendo controlado por resultados.
@@ -1163,17 +1163,17 @@ Mais do que a parte conceitual, o grande desafio será a implementação do projeto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-062</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-062</field>
+<field name="date">950627</field>
+<text_pt>
 
 VENDAS - A venda à vista aumentou 7,3% entre os dias 1º e 24 de junho em relação a igual período de maio, segundo a Associação Comercial de São Paulo (ACSP). Neste mês, o Telecheque _termômetro dos negócios à vista_ recebeu 33.619 consultas por dia, contra 31.328 em maio. Já o movimento do crediário ficou estável de maio para junho. Emílio Alfieri, economista da ACSP, diz que a tendência é a venda à vista se consolidar nesse patamar em junho.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-063</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-063</field>
+<field name="date">950627</field>
+<text_pt>
 Volume de negócios na Bolsa paulista é o menor desde 10 de abril; mercado futuro espera queda gradual nos juros
 Da Redação
 As Bolsas de Valores estão na expectativa da desindexação (retirada da correção automática dos contratos) da economia e da votação no Congresso dos juros reais (acima da inflação) de 12% ao ano.
@@ -1214,9 +1214,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-064</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-064</field>
+<field name="date">950627</field>
+<text_pt>
 Bancos desovam estoque da moeda norte-americana acumulado nos últimos dias e derrubam cotação para R$ 0,918
 FIDEO MIYA
 Da Reportagem Local
@@ -1234,9 +1234,9 @@ Nehme e Lellis, porém, apostam que o saldo voltará a ficar positivo nos próximos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-065</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-065</field>
+<field name="date">950627</field>
+<text_pt>
 Da Redação e da Sucursal do Rio
 As categorias de trabalhadores com data-base em julho terão seus salários reajustados em no mínimo 35,30%. É o IPC-r acumulado desde julho de 94. O de junho de 95 foi de 1,82%.
 Pela lei 8.880/94, o reajuste pelo IPC-r é automático apenas na primeira data-base após o Plano Real. Embora julho de 94 tenha sido o primeiro mês, as categorias dessa data-base não tiveram o IPC-r no ano passado porque o índice começava a ser medido.
@@ -1246,18 +1246,18 @@ O IBGE não sabe se continuará a divulgar o IPC-r, que mede a inflação para famíl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-066</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-066</field>
+<field name="date">950627</field>
+<text_pt>
 Das Regionais
 Indústrias de móveis de Mirassol e Votuporanga estão começando a ``queimar" seus estoques com descontos de até 40% e prazo de 120 dias. Além disso, cerca de 60% das 130 empresas do setor deram férias coletivas para 1.800 funcionários, segundo o sindicato dos trabalhadores.
 Em São José dos Campos, a General Motors vai dar férias coletivas 2.000 funcionários. O número foi divulgado pelo Sindicato dos Metalúrgicos de São José dos Campos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-067</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-067</field>
+<field name="date">950627</field>
+<text_pt>
 De Nova York
 Economistas norte-americanos disseram ontem estar ``muito preocupados" com a possibilidade de que EUA e Japão não cheguem a um acordo sobre a comercialização de carros e autopeças.
 Eles temem que, se o governo norte-americano mantiver a ameaça de cobrar tarifa de 100% sobre 13 carros de luxo japoneses, seja deflagrada uma guerra comercial entre os dois países.
@@ -1268,9 +1268,9 @@ As negociações continuam hoje. Se até a meia-noite de amanhã não houver acordo, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-068</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-068</field>
+<field name="date">950627</field>
+<text_pt>
 O piloto de avião e instrutor de ultraleve Agliberto Fernandes de Macedo (foto), 36, montou um avião caseiro de modelo KR-2S, para uso próprio. Ele comprou um kit fabricado por uma empresa norte-americana _no total, gastou US$ 37 mil no aparelho, incluindo mão-de-obra e o motor. No final de julho, Macedo apresentará o avião na Feira de Aviação Experimental, em Guaratinguetá (177 km a nordeste de São Paulo).
 
 O NÚMERO
@@ -1291,9 +1291,9 @@ R$ 1.731.459,55 (acumulado)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-069</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-069</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 A PF (Polícia Federal) abriu ontem inquérito para apurar denúncias de corrupção na liberação de bagagens e cargas no aeroporto de Cumbica, em Guarulhos (Grande São Paulo). A requisição para a abertura da investigação foi feita pelo Ministério Público Federal.
 Anteontem, o procurador da República Francisco Dias Teixeira, 41, enviou um ofício ao superintendente da PF em São Paulo, o delegado Arthur Lobo Filho.
@@ -1309,9 +1309,9 @@ A Polícia Civil e a PF estão trocando informações sobre investigações feitas em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-070</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-070</field>
+<field name="date">950627</field>
+<text_pt>
 ADRIANE GALISTEU
 Em 24 de maio último, este jornal publicou um texto de autoria da colunista Barbara Gancia sob o título "Adriane borboleta está mais para lagarta". Sabedora de que a opinião dos colunistas da Folha não reflete necessariamente a postura do jornal, desejo dirigir essa resposta apenas e diretamente à autora do texto em questão.
 Em primeiro lugar, gostaria de externar minha indignação em relação às palavras escolhidas pela sra. Barbara Gancia para expressar suas opiniões a meu respeito (coisas do tipo: "bubuca", "Galalau", "limitada", "rapariga"). Expressões desse naipe são comumente encontradas em portas de sanitários públicos, não em jornais de respeito como a Folha.
@@ -1328,9 +1328,9 @@ Em suma, é exatamente isso: dona Barbara Gancia usou do precioso espaço de que d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-071</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-071</field>
+<field name="date">950627</field>
+<text_pt>
 STALIMIR VIEIRA
 Parece que a queda significativa do número de fumantes nos EUA está colocando as ``tabageiras" em pânico. Resultado: uma ação despudorada no Terceiro Mundo em busca dos lucros sacrificados no Primeiro. No Brasil, as indústrias tabageiras se agarram com unhas e dentes às benesses da liberdade absurda de que ainda dispõem.
 Como que prevendo que essa outra farra logo deverá merecer algum cuidado por parte do governo, atiram-se desavergonhadamente a fazer a cabeça dos mais vulneráveis: nossos jovens, gente entre 12 e 17 anos. Uma vez viciado nessa idade, creio que o indivíduo estará por uns dez anos à mercê dos fabricantes.
@@ -1346,9 +1346,9 @@ STALIMIR VIEIRA, 41, publicitário, é diretor da Stalimir Publicidade e professor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-072</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-072</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 Agentes penitenciários em greve fazem hoje às 9h uma passeata desde Santana (zona norte) até o centro de São Paulo. Depois da manifestação, uma comissão de grevistas vai negociar uma pauta de 30 itens com o secretário da Justiça, Belisário dos Santos Júnior.
 A passeata sai da sede do Sindicato dos Funcionários do Sistema Prisional do Estado de São Paulo, na rua Dr. Jobim, 244, em Santana e vai até a sede da Secretaria de Administração Penitenciária, na avenida São João, 1.247 (centro).
@@ -1359,9 +1359,9 @@ Ontem, às 18h30, o secretário de Justiça _que está respondendo pela pasta da Adm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-073</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-073</field>
+<field name="date">950627</field>
+<text_pt>
 SILVIA NORONHA
 Da Sucursal do Rio
 O deputado estadual Albano Reis (PMDB), que teve o filho sequestrado no Rio durante 16 dias, disse ontem que seu caso deveria servir de exemplo para outras famílias. John Mendes Reis, 14, foi libertado anteontem à noite, sem pagamento de resgate, segundo o deputado.
@@ -1380,9 +1380,9 @@ Ontem, o comerciante Ademir Pereira foi libertado, depois de dois dias em poder 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-074</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-074</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal do Rio
 Um computador, disquetes e duas fitas magnéticas que continham o histórico das licitações e o cadastro dos contribuintes do município de Belfort Roxo (Baixada Fluminense) sumiram um dia após a morte do prefeito Jorge Julio da Costa, o Joca (PL-RJ). O prefeito foi assassinado em Laranjeiras (zona sul do Rio), na terça-feira passada.
 A denúncia partiu de funcionários da prefeitura que teriam visto o equipamento ser retirado no dia 21 de junho, entre a morte de Joca e a posse de Mair Rosa (PMDB-RJ), o atual prefeito, segundo o procurador-geral de Belfort Roxo, Hormindo Bicudo.
@@ -1391,9 +1391,9 @@ O desaparecimento foi confirmado, segundo Bicudo, através de inventário e de inf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-075</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-075</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 O secretário-adjunto de Segurança Pública de São Paulo, Luiz Antonio Alves de Souza, 43, afirmou ontem que a única maneira de prevenir chacinas é identificar e punir os autores dos crimes. ``Homicídio é um crime casual, de difícil prevenção", disse.
 No último fim-de-semana aconteceram quatro chacinas em São Paulo (três na zona sul e uma na zona leste), deixando um saldo de 13 mortos. Desde o início do ano, já aconteceram 28 chacinas na Grande São Paulo, com 94 mortos. Mais da metade (15) dos crimes ainda não foram esclarecidos.
@@ -1408,9 +1408,9 @@ Para Faria, o crime pode ter ligação com o tráfico de drogas. ``A região é perig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-076</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-076</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 Desde outubro de 1993, quando a Justiça absolveu o paulistano Leo Tomaz de qualquer pena por manter uma rádio livre (chamada Reversão), o Brasil tem assistido a um novo ``boom" desses veículos não-autorizados de comunicação.
 Esse ``boom" está descaracterizando o papel ``político" de rádios livres ou comunitárias, afirma a jornalista Marisa Meliani, 37, que defendeu a tese ``Rádios Livres - O Outro Lado da Hora do Brasil", na USP.
@@ -1424,9 +1424,9 @@ Segundo a pesquisa, de 50 rádios não-autorizadas de São Paulo (que tem cerca de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-077</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-077</field>
+<field name="date">950627</field>
+<text_pt>
 Grupo visita exposição em São Paulo
 DANIEL PIZA
 Da Reportagem Local
@@ -1443,9 +1443,9 @@ Graça diz ter sentido vontade de reproduzir ``O Pensador" na próxima aula. Mas p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-078</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-078</field>
+<field name="date">950627</field>
+<text_pt>
 O prefeito Paulo Maluf deve anunciar hoje a exoneração do secretário municipal de Negócios Jurídicos, Altino Machado (foto). Maluf teria considerado insatisfatório o desempenho de Machado na polêmica sobre as obras de prolongamento da avenida Faria Lima e também no caso do PAS (Plano de Atendimento à Saúde), criticado por vereadores de oposição. O desembargador aposentado Francis Davis vai assumir a secretaria.
 
 O NÚMERO
@@ -1466,9 +1466,9 @@ R$ 1.731.459,55 (acumulado)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-079</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-079</field>
+<field name="date">950627</field>
+<text_pt>
 Da Sucursal de Brasília
 O Senado aprovou ontem projeto de lei aumentando de três meses para cinco anos o período em que o turista estrangeiro pode permanecer no país, sem precisar reno var o visto de entrada, concedido pelo Ministério das Relações Exteriores.
 O projeto segue hoje para sanção (assinatura) do presidente Fernando Henrique Cardoso para se tornar lei. 
@@ -1485,9 +1485,9 @@ O projeto, do deputado Benito Gama (PFL-BA), altera a lei 6.815, de 1980 _já alt
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-080</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-080</field>
+<field name="date">950627</field>
+<text_pt>
 Da Folha Vale
 A Polícia Rodoviária Federal teme que a interrupção dos acessos à rodovia Carvalho Pinto possa tornar crítico o tráfego na via Dutra no próximo fim-de-semana.
 Segundo o inspetor Reinaldo Reis da Silva, 49, o início das férias deve acentuar o movimento nas estradas da região.
@@ -1499,9 +1499,9 @@ O movimento abaixo do esperado fez com que apenas o acesso da Dutra à Carvalho P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-081</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-081</field>
+<field name="date">950627</field>
+<text_pt>
 Da FT
 O número de casos de vazamento de gás de cozinha aumentou cerca de 50% com a crise no abastecimento de São Paulo. A informação é do Corpo de Bombeiros e do Contru (Departamento de Controle de Uso de Imóveis).
 Segundo o tenente Mauro Lopes, o aumento se deve à corrida de consumidores atrás de gás que ocorreu durante e após a greve dos petroleiros. ``Percebemos que aumentou a circulação de botijões em mau estado." As distribuidoras negam problemas com os botijões.
@@ -1509,9 +1509,9 @@ Os bombeiros registraram ontem 16 ocorrências de vazamento e, no domingo, 14. A 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-082</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-082</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 O secretário-adjunto da Segurança Pública de São Paulo, Luiz Antonio Alves de Souza, 43, afirmou ontem que a única maneira de prevenir chacinas é identificar e punir os autores dos crimes. ``Homicídio é um crime casual, de difícil prevenção", disse.
 No último fim-de-semana, houve quatro chacinas em São Paulo (três na zona sul e uma na zona leste), com 13 mortos.
@@ -1526,9 +1526,9 @@ O secretário-adjunto credita o aumento ao tráfico de drogas, principalmente crac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-083</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-083</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 Dois homens aparentando cerca de 25 anos foram mortos ontem de madrugada dentro de um bar em Parelheiros (zona sul de São Paulo). Segundo o delegado Augusto Faria, 51, do 25º Distrito Policial, a ação é semelhante às praticadas em uma chacina.
 Os dois foram mortos a tiros no bar e levados para a calçada. Não há testemunhas, nem pistas. Os vizinhos evitam comentários.
@@ -1536,9 +1536,9 @@ Para o delegado, o crime pode ter ligação com drogas. Segundo ele, 24 policiais 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-084</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-084</field>
+<field name="date">950627</field>
+<text_pt>
 Pais de crianças deficientes físicas ou mentais recebem dicas em programa que pode ser captado nas zonas norte e leste
 FERNANDO ROSSETTI
 Da Reportagem Local
@@ -1556,9 +1556,9 @@ RÁDIO MOMENTO - (011) 955-6277
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-085</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-085</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local
 Desde outubro de 1993, quando a Justiça absolveu o paulistano Leo Tomaz de qualquer pena por manter uma rádio livre (chamada Reversão), o Brasil tem assistido a um novo ``boom" desses veículos não-autorizados de comunicação.
 Um ``boom" que está descaracterizando o papel ``político" dessas rádios livres ou comunitárias, afirma a jornalista Marisa Meliani, 37, que defendeu a tese ``Rádios Livres. O Outro Lado da Hora do Brasil", na USP.
@@ -1573,9 +1573,9 @@ Em um momento em que as rádios livres ou comunitárias (que são a mesma coisa) es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-086</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-086</field>
+<field name="date">950627</field>
+<text_pt>
 ANTONIO ROCHA FILHO
 Da Reportagem Local
 A Secretaria de Estado da Educação de São Paulo espera concluir até o início do segundo semestre letivo, em agosto, a distribuição de um estoque de 2.000 toneladas de material escolar, avaliado em R$ 47,9 milhões, que está armazenado em quatro depósitos em São Paulo.
@@ -1600,9 +1600,9 @@ A assessoria informou ainda que, em ofício de 21 de novembro de 94, o Ministério
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-087</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-087</field>
+<field name="date">950627</field>
+<text_pt>
 Mau estado dos campos provoca queda no nível técnico do campeonato em relação a 94
 VALMIR STORTI e JOÃO CARLOS ASSUMPÇÃO
 Da Reportagem Local
@@ -1624,9 +1624,9 @@ Segundo o técnico Telê Santana, que tem como uma de suas principais preocupações
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-088</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-088</field>
+<field name="date">950627</field>
+<text_pt>
 Estádio - Morumbi
 20% de passes errados
 30 faltas cometidas
@@ -1680,9 +1680,9 @@ Médias na Copa do Mundo dos EUA
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-089</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-089</field>
+<field name="date">950627</field>
+<text_pt>
 Da Folha Nordeste
 Bares de Ribeirão Preto chegaram a dobrar seu movimento anteontem por causa do clássico disputado na cidade entre Santos e Corinthians.
 Segundo representantes dos bares ouvidos pela Folha, o aumento do movimento ocorreu por causa de fregueses da própria região que assistiram ao clássico.
@@ -1703,9 +1703,9 @@ Ao todo, foram colocados 50 mil bilhetes à venda. O mando do jogo foi do Santos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-090</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-090</field>
+<field name="date">950627</field>
+<text_pt>
 FÁBIO SORMANI
 Acontece amanhã, no SkyDome de Toronto, no Canadá, ginásio dos Raptors, a tão esperada noite do NBA Draft. A cerimônia consiste na escolha de dois jogadores por parte de cada um dos 29 times da liga _29, pois, na próxima temporada, dois times canadenses, os Raptors e o Vancouver Grizzlies, estarão debutando na NBA.
 O Golden State será o primeiro time a escolher. Depois dele, vêm: LA Clippers, Philadelphia, Washington, Minnesota, Vancouver, Toronto, Detroit, New Jersey, Miami, Milwaukee, Dallas, Sacramento, Boston, Denver, Atlanta ou Miami (depende das negociações entre os times, uma vez que o Miami tem um ``draft" da primeira rodada do Atlanta), Cleveland, Houston ou Portland (mesma situação), Chicago, Phoenix (via Lakers), Charlotte, Indiana, Dallas (via New York), Orlando, Seattle, Phoenix, Utah e San Antonio.
@@ -1720,9 +1720,9 @@ O garoto é tido como um futuro ``monstro" do basquete. Os cofres estarão abertos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-091</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-091</field>
+<field name="date">950627</field>
+<text_pt>
 O ``draft" de expansão dos times do Canadá aconteceu no último sábado. Os times ficaram assim: Toronto _BJ Armstrong, BJ Tyler, Oliver Miller, Dontonio Wingfield, Jerome Kersey, Willie Anderson, Acie Earl, Andres Guibert, Keith Jennings, Tony Massenburg, Ed Pinckney, John Salley, Doug Smith e Zan Tabak; Vancouver _Greg Anthony, Byron Scott, Benoit Benjamin, Kenny Gattison, Larry Stewart, Rodney Dent, Blue Edwards, Doug Edwards, Antonio Harvey, Derrick Phelps, Trevor Ruffin, Reggie Slater e Gerald Wilkins.
  
 O Miami, que tem o décimo ``draft", pode perdê-lo para o New York caso os Knicks topem ceder ao Heat o direito de negociação com o técnico Pat Riley, que se demitiu da equipe na última semana. Riley tem mais um ano de contrato e está preso ao time.
@@ -1733,9 +1733,9 @@ Wayman Tisdale, dos Suns, é um tremendo contrabaixista de jazz. Acabou de gravar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-092</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-092</field>
+<field name="date">950627</field>
+<text_pt>
 O atacante devolve para a seleção brasileira masculina a alegria de jogar
 SÉRGIO KRASELIS
 Da Reportagem Local
@@ -1762,9 +1762,9 @@ Tande - Tanto eu quanto a Patrícia ainda não decidimos. Mas acho que uma boa épo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-093</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-093</field>
+<field name="date">950627</field>
+<text_pt>
 A peça ``Angels in America", do dramaturgo norte-americano, estréia no dia 14 de julho em São Paulo 
 NELSON DE SÁ 
 Da Reportagem Local 
@@ -1803,9 +1803,9 @@ sobre Tony Kushner às págs. 5-6 e 5-7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-094</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-094</field>
+<field name="date">950627</field>
+<text_pt>
 Das agências internacionais 
 O cantor George Michael deve assinar um contrato com a gravadora Virgin e a Dremworks SKG, a empresa de Steven Spielberg, Jeffrey Katzenberg e David Geffen, informou domingo o jornal ``The Sunday Times". O contrato poria fim à disputa judicial que Michael mantém com a Sony.
 A Dreamworks pagaria à Sony cerca de US$ 16 milhões e distribuiria os discos do cantor nos EUA. A Virgin ficaria com a distribuição nos outros países.
@@ -1813,9 +1813,9 @@ George Michael vem tentando romper contrato com a Sony, mas já perdeu em uma ins
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-095</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-095</field>
+<field name="date">950627</field>
+<text_pt>
 Regina Casé protagoniza o filme de estréia da mais premiada videomaker do país, sobre o subúrbio carioca 
 JOSÉ GERALDO COUTO 
 Da Reportagem Local 
@@ -1844,9 +1844,9 @@ O filme deve muito à música inventiva e discreta de Herbert Vianna, mas deve sob
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-096</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-096</field>
+<field name="date">950627</field>
+<text_pt>
 Da Redação 
 O Centro Cultural São Paulo realiza, de hoje a 2 de julho, um miniciclo de filmes japoneses. São cinco filmes de três realizadores de prestígio: Yasujiro Ozu, Kaneto Shindo e Noburo Nakamura.
 A estrela da companhia é Ozu. Ele é um dos dois cineastas japoneses a colocar um filme (``Viagem a Tóquio") na lista de 10 melhores de todos os tempos, organizada este ano pela Folha (o outro é Kurosawa).
@@ -1860,9 +1860,9 @@ Preço: R$ 4,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-097</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-097</field>
+<field name="date">950627</field>
+<text_pt>
 A exposição ``Entre o Desenho e a Escultura", que será aberta hoje no MAM, reúne obras de 14 artistas 
 FERNANDA SCALZO 
 Da Reportagem Local 
@@ -1885,9 +1885,9 @@ A exposição começa com as obras do mineiro Amilcar de Castro, ``para onde tudo s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-098</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-098</field>
+<field name="date">950627</field>
+<text_pt>
 SÉRGIO AUGUSTO 
 Da Sucursal do Rio 
 O MNBA informa: saiu Rodin, entrou Jacquard. Isto não quer dizer que o Museu Nacional de Belas Artes, no Rio, continue entregue às artes da ``douce France". Faz tempo que Gilles Jacquard deixou de ser francês para tornar-se um garoto de Ipanema; o que vale dizer, um carioca honorário. E um brasileiro mais legítimo, porque de livre e espontânea vontade.
@@ -1907,9 +1907,9 @@ Quando: vernissage hoje, às 18h; de 28 de junho a 30 de julho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-099</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-099</field>
+<field name="date">950627</field>
+<text_pt>
 MARIA ERCILIA 
 Da Reportagem Local 
 Esta semana o governo brasileiro deu seu primeiro passeio oficial na Internet. O Senado lançou um serviço, em caráter de teste, na World Wide Web (http://www.senado.gov.br) e Fernando Henrique posou para fotos conversando com Marcello Alencar pelo computador.
@@ -1936,9 +1936,9 @@ O e-mail de NetVox é netfolha@sol.uniemp.br
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-100</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-100</field>
+<field name="date">950627</field>
+<text_pt>
 O mais original dos primeiros mails que chegaram ao endereço eletrônico da Presidência (pr cr-df.rnp.br) veio de Sebastião Domingues (São José dos Campos), cumprimentando FHC por usar cinto de segurança, porque como oftalmologista cansou de tratar de pessoas que ficaram cegas em acidentes de carro. Entre pedidos de entrevista, um de Paulo Henrique Amorim.
 
 O resultado da reunião na última sexta da Fapesp com o secretário de Ciência e Tecnologia do Estado de São Paulo, Emerson Kapaz, foi o seguinte plano inicial: quatro pontos interligados por linhas de 2 megabits por segundo, em São Paulo, Campinas, São Carlos e São José dos Campos. A partir daí, linhas de 1 megabit por segundo para cidades como Bauru e São José do Rio Preto, e ainda linhas de 64 k para outras cidades do interior paulista. Segundo Kapaz, este é o esboço de "uma rede comercial, sobreposta, mas independente da rede científica.
@@ -1947,9 +1947,9 @@ Os zines eletrônicos são as mais saborosas e absurdas fontes de informação da In
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-101</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-101</field>
+<field name="date">950627</field>
+<text_pt>
 PAULO COELHO 
 Colunista da Folha 
 Sem aviso, descobrimos um dia que o mundo espiritual não desperta o mesmo entusiasmo de antes. Continuamos rezando e frequentando os cultos _mas não conseguimos nos enganar. O coração não responde, e as palavras parecem sem sentido.
@@ -1958,9 +1958,9 @@ O anjo encarregado de recolher suas palavras, e que é responsável pela alegria d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-102</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-102</field>
+<field name="date">950627</field>
+<text_pt>
 Diferentemente do que foi informou a reportagem sobre o show de Caetano Veloso em Nápoles, publicada à pág. 5-5 (Ilustrada) de 27/6, o grupo Neri per Caso não venceu o último Festival da Canção de San Remo, na Itália. O grande prêmio foi dado à cantora Georgia. Neri per Caso venceu em outra categoria, a de Novas Propostas.ERRAMOS
 Caetano e Dalla homenageiam tenor Caruso 
 Os cantores brasileiro e italiano se apresentaram em Nápoles, na Itália, na última sexta, para 100 mil pessoas 
@@ -1980,9 +1980,9 @@ O concerto foi concluído por Isabella Rossellini, que cantou a melodia napolitan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-103</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-103</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 O livro ``Os Donos do Congresso - A Farsa na CPI do Orçamento" (editora Ática), dos jornalistas da Folha Fernando Rodrigues, Elvis Cesar Bonassa e Gustavo Krieger, foi um dos vencedores do Prêmio Jabuti, na categoria reportagem. Na mesma categoria, foram premiados ``A Marcha para o Oeste" (editora Globo), de Orlando e Cláudio Villas Boas, e ``Cidade Partida" (editora Companhia das Letras), de Zuenir Ventura.
 Em romance, foram premiados Jorge Amado, com ``A Descoberta da América pelos Turcos" (Record), João Silvério Trevisan, com ``Ana em Veneza" (Best Seller), e José Roberto Torero, com ``O Chalaça" (Companhia das Letras).
@@ -1992,9 +1992,9 @@ O Prêmio Jabuti é patrocinado pela Câmara Brasileira do Livro. Os prêmios, em 15
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-104</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-104</field>
+<field name="date">950627</field>
+<text_pt>
 O autor norte-americano Tony Kushner fala sobre a influência de Brecht e a volta da palavra ao teatro 
 Da Reportagem Local 
 A seguir, a sequência da entrevista com o autor americano Tony Kushner.
@@ -2037,9 +2037,9 @@ Kushner - Anna Deavere Smith é uma artista de teatro incrivelmente importante. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-105</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-105</field>
+<field name="date">950627</field>
+<text_pt>
 O dramaturgo Tony Kushner questiona o papa João Paulo 2º e diz que os católicos `merecem algo melhor' 
 Da Reportagem Loca
 Na terceira e última parte da entrevista com o autor americano Tony Kushner, ele fala de uma nova geração de autores no teatro.
@@ -2075,9 +2075,9 @@ Kushner - Eu amo o trabalho dele. Ele é um grande diretor. É a pessoa ideal, em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-106</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-106</field>
+<field name="date">950627</field>
+<text_pt>
 E a Célia Cruz já fez sua versão pra comemorar o primeiro ano do Plano Real: Guentanamerda! Rarará! 
 JOSÉ SIMÃO 
 Da Equipe de Articulistas 
@@ -2091,9 +2091,9 @@ País pega fogo e o Don Doca FHC trocando recadinhos pela Internet. Típico de sua
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-107</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-107</field>
+<field name="date">950627</field>
+<text_pt>
 Da Redação 
 E se Nostradamus estiver certo? O problema das profecias _seja qual for sua dimensão_ é sempre esse: há uma porta para o acerto e outra para o erro. E duas para a dúvida.
 Robert Guenette escolheu dividir em duas partes a dramatização das profecias, em "O Homem que Previu o Futuro (SBT, 1h50). Na primeira, as que se realizaram. A crer no filme, são mais ou menos todas. Na segunda, as que ainda estão por vir. E então, sai de baixo.
@@ -2104,9 +2104,9 @@ E, por falar em convenção, ninguém pode esquecer de ``Cem Rifles" e ``Amor Sem F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-108</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-108</field>
+<field name="date">950627</field>
+<text_pt>
 Falar contra os juros altos e votar a favor tornou-se uma atitude normal no absurdo político brasileiro 
 ARNALDO JABOR 
 Da Equipe de Articulistas 
@@ -2178,9 +2178,9 @@ _ (repórter envelhecido) Obrigado, deputada... Encerro aqui... Lilian!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-109</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-109</field>
+<field name="date">950627</field>
+<text_pt>
 A cantora mostra músicas de Cartola, Caetano e Chico Buarque em show único com o grupo Galo Preto 
 Da Redação 
 
@@ -2203,9 +2203,9 @@ Por meio de um bate-papo conduzido pelo jornalista Zuza Homem de Mello, o públic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-110</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-110</field>
+<field name="date">950627</field>
+<text_pt>
 Secretaria da Agricultura de SP quer transferir a produção de sementes de algodão a empresas e cooperativas 
 JOSÉ ALBERTO GONÇALVES 
 Da Reportagem Local 
@@ -2223,9 +2223,9 @@ Por causa da medida, nos últimos seis anos houve redução de 30% no preço da saca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-111</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-111</field>
+<field name="date">950627</field>
+<text_pt>
 SEBASTIÃO TEIXEIRA GOMES 
 A fábula da ``cigarra e a formiga" retrata bem o que está acontecendo atualmente no setor da pecuária de leite nacional.
 Segundo a fábula, no verão, com abundância de alimentos na natureza, enquanto a cigarra vivia apenas a comer e a cantar, a formiga comia mas também trabalhava arduamente, armazenando alimentos.
@@ -2285,9 +2285,9 @@ SEBASTIÃO TEIXEIRA GOMES, é professor da Universidade Federal de Viçosa, em Mina
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-112</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-112</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 Cavalo para todos os gostos. Assim os organizadores definem a oferta de 208 animais da raça quarto-de-milha que será apresentada em cinco leilões entre 30 de junho e 14 de julho próximos.
 Os quartistas (criadores de quarto-de-milha) se preparam também para os principais eventos da raça, o 16º Potro do Futuro e o 18º Campeonato Nacional, de 7 a 15 de julho, em São Paulo.
@@ -2302,9 +2302,9 @@ Fechando o calendário, os criadores Eduardo e Solange Biagi vendem 43 cavalos ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-113</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-113</field>
+<field name="date">950627</field>
+<text_pt>
 Foi lançado no Brasil um sistema eletrônico que controla e registra as atividades do veículo. O Automaster é uma espécie de ``caixa preta" (foto) com chave de identificação _apenas o motorista pode guiar o veículo- e comando de voz -que alerta o motorista em caso de eventuais procedimentos irregulares, como condução em altas velocidades. O equipamento é indicado para controlar e proteger veículos de frotas, por exemplo. Custa cerca de US$ 1.300.
 
 Gravação identifica motocicleta roubada 
@@ -2318,9 +2318,9 @@ A Tojo apresenta o TCD 2.200, um toca-discos laser, instalado no porta-malas do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-114</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-114</field>
+<field name="date">950627</field>
+<text_pt>
 Cobrança de impostos, frete e taxas alfandegárias podem tornar importação inviável 
 MARCELO TADEU LIA 
 Da Reportagem Local 
@@ -2345,9 +2345,9 @@ Haverá ainda a cobrança de uma taxa equivalente à média do peso e do tamanho da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-115</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-115</field>
+<field name="date">950627</field>
+<text_pt>
 Da Reportagem Local 
 Para quem prefere não enfrentar os trâmites legais da importação, o caminho é procurar uma das várias lojas especializadas que vendem acessórios e autopeças importadas.
 Uma boa pesquisa antes da compra também é recomendável. Os preços apresentam grande variação entre lojas independentes e concessionárias de marcas importadas.
@@ -2364,9 +2364,9 @@ Já o Rain Vision, que custa R$ 9, forma uma película de cera sobre o vidro que a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-116</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-116</field>
+<field name="date">950627</field>
+<text_pt>
 1_ Peça a parentes ou amigos de confiança que viajam ao exterior fazer a compra. Essa é a melhor maneira de gastar menos
 2_ Faça uma boa pesquisa de preço antes de importar o componente
 3_ Atenção: tarifas e impostos podem tornar a compra inviável
@@ -2383,9 +2383,9 @@ American Auto: American Auto: r. Cubatão, 182, Paraíso, tel. (011) 885-8138; Par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-117</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-117</field>
+<field name="date">950627</field>
+<text_pt>
 MARIE CLAUDE MARTIN 
 Do ``Le Nouveau Quotidien" 
 Uma megalópole tentacular saturada de detritos, veículos, sinais luminosos, poluição. Uma mistura de antigo e novo, alegria e desolação. Los Angeles (EUA) em 2019, segundo ``Blade Runner"(Ridley Scott, 1982). A cidade do futuro.
@@ -2405,9 +2405,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-118</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-118</field>
+<field name="date">950627</field>
+<text_pt>
 "O fenômeno urbano horroriza moradores de grandes metrópoles"
 WILLIAM ECHIKSON 
 Do World Media 
@@ -2456,9 +2456,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-119</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-119</field>
+<field name="date">950627</field>
+<text_pt>
 Subir o combustível é uma das armas para tirá-los das ruas 
 TJEERD DEELSTRA 
 Especial para o World Media 
@@ -2491,9 +2491,9 @@ Tradução de Vasco da Costa Pinto Neto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-120</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-120</field>
+<field name="date">950627</field>
+<text_pt>
 JOEL GARREAU 
 Especial para o World Media 
 Nos últimos 30 anos, os norte-americanos se engajaram numa orgia de construções de cidades inigualada em toda a história. Elas transformaram para sempre a geografia urbana do país e estão sendo reproduzida pelo mundo inteiro.
@@ -2522,9 +2522,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-121</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-121</field>
+<field name="date">950627</field>
+<text_pt>
 CATHERINE SEGAL *
 Do World Media 
 Eles vêm de lados opostos do mundo, de duas tradições urbanas completamente diferentes. Apesar disso, o arquiteto italiano Renzo Piano e o escultor japonês Susumu Shingu formam uma dupla vencedora.
@@ -2550,9 +2550,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-122</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-122</field>
+<field name="date">950627</field>
+<text_pt>
 "Não há razão para erguer quarteirões barrocos no séc. 20"
 SASKIA REILLY 
 Do World Media 
@@ -2578,9 +2578,9 @@ Tradução de Lucia Boldrini.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-123</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-123</field>
+<field name="date">950627</field>
+<text_pt>
 "O racionalismo sempre castrou a arquitetura nova"
 Da Redação
 O maior e mais polêmico arquiteto brasileiro nasceu Oscar Niemeyer Soares Filho, no Rio de Janeiro, há 87 anos. Autor de obras na França, Itália, Portugal, EUA, Venezuela, Alemanha, Israel, Líbano, Argélia, Congo e Gana, projetou seu nome em 1961, com a inauguração de Brasília.
@@ -2606,9 +2606,9 @@ Niemeyer _ Será baseada no homem mais simples, que aceita a vida horizontal. Ser
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-124</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-124</field>
+<field name="date">950627</field>
+<text_pt>
 "Tenho necessidade de coação. Ela é como um estímulo"
 WERONIKA ZARACHOWICZ 
 Do World Media 
@@ -2635,9 +2635,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-125</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-125</field>
+<field name="date">950627</field>
+<text_pt>
 "Pensei: aterrisse a a espaçonave. Por que não? É direto"
 SASKIA REILLY*
 Do World Media 
@@ -2664,9 +2664,9 @@ Tradução de Vasco da Costa Pinto Neto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-126</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-126</field>
+<field name="date">950627</field>
+<text_pt>
 RICARDO BOFILL 
 Especial para o World Media 
 Neste final de século desapareceram as teorias e profecias sobre o futuro. O século 21 passa a ser uma incógnita. E a cidade se transforma num reflexo físico das aspirações e utopias dos cidadãos.
@@ -2686,9 +2686,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-127</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-127</field>
+<field name="date">950627</field>
+<text_pt>
 WILLIAM ECHIKSON 
 Do World Media 
 Jean Nouvel é considerado ``l'enfant terrible" da arquitetura francesa. Deve sua fama a um de seus prédios, o Instituto do Mundo Árabe (Paris/França), uma mistura original e criativa de duas civilizações: alta tecnologia ocidental e motivos árabes.
@@ -2715,9 +2715,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-128</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-128</field>
+<field name="date">950627</field>
+<text_pt>
 SASKIA REILLY *
 Do World Media 
 San Francisco é a mais européia de todas as cidades norte-americanas. Mas o prefeito Frank Jordan, 60, democrata eleito em 1992, diz que as diferenças em relação ao Velho Mundo são marcantes: a população é mais heterogênea e a prefeitura quase não recebe ajuda dos governos.
@@ -2740,9 +2740,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-129</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-129</field>
+<field name="date">950627</field>
+<text_pt>
 "O estilo de vida árabe vai atrasar o projeto habitacional"
 NADAV SHRAGAY 
 Do "Ha'Aretz"
@@ -2762,9 +2762,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-130</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-130</field>
+<field name="date">950627</field>
+<text_pt>
 10% da população mundial vive em cidades
 1900-1919
 URBANISMO CIENTÍFICO
@@ -2927,9 +2927,9 @@ Enquanto Sarajevo (Bósnia) é destruída por bombardeios, Beirute (Líbano) começa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-131</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-131</field>
+<field name="date">950627</field>
+<text_pt>
 LUIS GROSSMAN 
 Do "La Nación"
 Buenos Aires conseguiu escapar das margens do imenso rio ``cor de leão", como escreveu Borges. 
@@ -2953,9 +2953,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-132</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-132</field>
+<field name="date">950627</field>
+<text_pt>
 MARCO RASCÓN 
 Especial para o World Media 
 Nos últimos dez anos, a Cidade do México (México) mudou mais do que mudara nos 50 anos anteriores. Junto ao terremoto e à nova cultura cidadã, se fundiram também as fantasias dos vizinhos.
@@ -2977,9 +2977,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-133</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-133</field>
+<field name="date">950627</field>
+<text_pt>
 Especial para o World Media 
 Construir casas e defender os inquilinos é uma das grandes forças de Superbarrio. Suas cores, sua máscara enigmática e seu físico sem pretensões atléticas fazem dele uma das imagens surrealistas mais importantes entre as que conferem vida e magia à cidade.
 Superbarrio não é um homem brincalhão. A gravidade e urgência da luta social que representa, e o tipo de inimigos que suscita no poder, convertem-o em uma figura séria. Hoje, ele é um dos políticos mais populares do México.
@@ -2987,9 +2987,9 @@ Superbarrio não é um homem brincalhão. A gravidade e urgência da luta social que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-134</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-134</field>
+<field name="date">950627</field>
+<text_pt>
 TONI LIENHARD 
 Especial para o World Media 
 1995, cinco anos para o começo do novo milênio. A insegurança e a curiosidade são grandes. O que vai acontecer? Los Angeles (EUA) fornece algumas pistas.
@@ -3014,9 +3014,9 @@ Tradução de Lucia Boldrini.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-135</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-135</field>
+<field name="date">950627</field>
+<text_pt>
 MIKE DAVIS 
 Especial para o World Media 
 Uma ou duas vezes a cada década, o Havaí (arquipélago norte-americano) manda para Los Angeles um grande beijo molhado.
@@ -3035,9 +3035,9 @@ Tradução de Lucia Boldrini.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-136</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-136</field>
+<field name="date">950627</field>
+<text_pt>
 Do World Media 
 Não havia quem discordasse da necessidade de recuperação do Pelourinho (Salvador/BA), um dos grandes conjuntos arquitetônicos coloniais de todo o mundo.
 Literalmente caindo, esse casario tombado pela Unesco em 1986 já tinha passado por restaurações, mas nunca por uma revitalização do porte da recém-realizada.
@@ -3072,9 +3072,9 @@ E é mil vezes mais louvável porque foi desencadeado pelo Olodum. Quer dizer, na 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-137</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-137</field>
+<field name="date">950627</field>
+<text_pt>
 SÔNIA FONTES MOREIRA 
 Especial para o World Media 
 Fundada há 446 anos, Salvador (BA) foi a primeira capital portuguesa da América e seu centro histórico _o Pelourinho_ o primeiro aglomerado urbano do Brasil.
@@ -3092,9 +3092,9 @@ SÔNIA MARIA FONTES MOREIRA, 37, arquiteta, preside a Companhia de Desenvolviment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-138</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-138</field>
+<field name="date">950627</field>
+<text_pt>
 JORGE AMADO 
 Especial para o World Media 
 Há quem a chame de Salvador. Assim a designam nos bilhetes de avião, em algumas cartas geográficas. O nome completo é Cidade do Salvador da Bahia de Todos os Santos. Os velhos baianos, porém _é o meu caso_, dizem apenas Bahia.
@@ -3135,9 +3135,9 @@ JORGE AMADO é escritor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-139</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-139</field>
+<field name="date">950627</field>
+<text_pt>
 ANTONIO RISÉRIO 
 Especial para o World Media 
 A Cidade do Salvador da Bahia de Todos os Santos foi um dos mais ricos portos do mundo. O sítio onde a cidade se ergueu foi habitado por índios tupinambás, povo guerreiro e antropófago.
@@ -3150,9 +3150,9 @@ ANTONIO RISÉRIO, 41, poeta e antropólogo, é autor de ``Carnaval Ijexá", ``O Poét
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-140</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-140</field>
+<field name="date">950627</field>
+<text_pt>
 SAYED KARIM 
 Especial para o World Media 
 O Egito enfrenta um problema: se a atual tendência demográfica se mantiver pelas próximas cinco décadas, a população do Grande Cairo chegará a 60 milhões.
@@ -3176,9 +3176,9 @@ Tradução de Lucia Boldrini.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-141</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-141</field>
+<field name="date">950627</field>
+<text_pt>
 KHALID BELYAZID 
 Especial para o World Media 
 Boas pernas e memória, eis tudo o que Deus me deu para ganhar a vida. E agradeço a ele em toda prece. Minha vida é regulada pela prece, na minha querida e velha cidade de Fez (Marrocos).
@@ -3203,9 +3203,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-142</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-142</field>
+<field name="date">950627</field>
+<text_pt>
 MERON BENVENISTI 
 Especial para o World Media 
 Não surpreende que Jerusalém (Israel) seja muito mais que uma simples designação geográfica. É antes um grito de guerra, um juramento mágico e um desafio, uma declaração de propriedade.
@@ -3227,9 +3227,9 @@ Se pudessem falar, as pedras de Jerusalém, sem dúvida, zombariam dos dois lados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-143</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-143</field>
+<field name="date">950627</field>
+<text_pt>
 LILIANA MADEO 
 Do ``La Stampa's" 
 Não, a visita à Roma (Itália) não começa pelo castelo de Santo Ângelo, praça Navona, fonte de Trevi. E não obriga admirar do ônibus o Vaticano e o Coliseu.
@@ -3246,9 +3246,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-144</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-144</field>
+<field name="date">950627</field>
+<text_pt>
 GERHARD ULLMANN 
 Da ``Süddeutsche Zeitung" 
 No coração de Berlim (Alemanha), a praça Potsdamer revive. Centro nervoso, demolida e abandonada desde a Segunda Guerra, ela compartilhou a história tortuosa da cidade.
@@ -3266,9 +3266,9 @@ Tradução de Bertha Halpern Gurovitz.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-145</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-145</field>
+<field name="date">950627</field>
+<text_pt>
 ARATA ISOZAKI 
 Especial para o World Media 
 No período da ``bolha de crescimento econômico" do final dos anos 80, Tóquio (Japão) estava em pé de guerra por conta da aparência bizarra de vários edifícios.
@@ -3301,9 +3301,9 @@ Tradução de Lucia Boldrini.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950627-146</text_pt>
-<text_pt name="date">950627</text_pt>
-<text_pt name="text">
+<field name="id">FSP950627-146</field>
+<field name="date">950627</field>
+<text_pt>
 
 SEGURANÇA
 San Francisco (EUA)

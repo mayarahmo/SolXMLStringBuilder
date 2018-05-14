@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940718-001</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-001</field>
+<field name="date">940718</field>
+<text_pt>
 Seleção bate Itália na primeira decisão de Copa por pênaltis
 MATINAS SUZUKI JR.
 Enviado especial a Pasadena
@@ -18,9 +18,9 @@ Copa 94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-002</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-002</field>
+<field name="date">940718</field>
+<text_pt>
 O Brasil é novamente campeão mundial de futebol, depois de 24 anos de espera. É também o primeiro país a conquistar o título pela quarta vez. Evidentemente, a conquista não muda em nada a situação objetiva do país, mas é importante para a auto-estima dos brasileiros, que nas últimas décadas foi posta à prova à exaustão.
 À parte os condenáveis exageros, a euforia que toma conta da população é justificável. Afinal, o futebol é uma das poucas expressões culturais genuinamente populares do país. Mesmo nos momentos em que a seleção perdeu a hegemonia no âmbito internacional, esse esporte continuou atraindo semanalmente multidões aos estádios.
 Muito se falou nos últimos tempos sobre o eventual uso político das vitórias futebolísticas. As circunstâncias que cercaram a conquista de 1970 justificaram muitas das apreensões acerca desse tipo de distorção. Mas o país vivia na época sob uma ditadura, que procurou capitalizar a vitória no México para esconder os aspectos mais escuros do regime. A vitória de ontem encontrou um país bastante mudado. Nos últimos dez anos, o exercício da democracia, com todos os seus percalços, certamente tornou mais maduros os cidadãos, dificultando a manipulação política dos triunfos esportivos.
@@ -29,9 +29,9 @@ Se ninguém discute que, mesmo nesse quarto de século de jejum de títulos, o Bras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-003</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-003</field>
+<field name="date">940718</field>
+<text_pt>
 Começou ontem em Vitória (ES) mais uma reunião da SBPC (Sociedade Brasileira para o Progresso da Ciência). Desta vez, os cientistas pretendem discutir um tema bastante universal e atual, a ética, e debater propostas para tentar melhorar os níveis educaionais no Brasil &#150;nada mais oportuno.
 Um fantasma porém ronda o encontro. Há informações de que a reunião poderá tornar-se uma espécie de palanque em que se digladiarão os cientistas que apóiam a candidatura de seu par Fernando Henrique Cardoso e os que são favoráveis a Luiz Inácio Lula da Silva.
 É evidente que não se pode nem se deve esperar dos cientistas que não tenham, como cidadãos, suas opções políticas. Também seria ingênuo acreditar que a ciência é ou deva ser neutra e que os cientistas, portanto, na condição de homens de ciência, deveriam abster-se de todo engajamento político.
@@ -42,9 +42,9 @@ Direito a uma opção política obviamente todos têm, mas é de se esperar dos cient
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-004</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-004</field>
+<field name="date">940718</field>
+<text_pt>
 Pelo menos dois brasileiros foram detidos por autoridades de imigração de países do Primeiro Mundo nas últimas semanas &#150;um comerciante em Nova York e uma estudante em Roma&#150; e receberam delas um tratamento ofensivo e humilhante. Longe de constituir-se em fatos isolados, os dois episódios são sintomáticos de uma situação em que, no intuito compreensível de defender suas fronteiras contra a invasão de imigrantes indesejados, alguns países ricos têm-se permitido uma alta dose de arbitrariedade no tratamento de seus visitantes.
 Nesse quadro de desconfiança generalizada &#150;quando não de puro preconceito e etnocentrismo&#150;, cidadãos honestos correm o risco de ser tratados como marginais, num flagrante desrespeito a direitos humanos fundamentais que essas próprias democracias avançadas encarregaram-se historicamente de consolidar e difundir. Não por acaso, frequentemente o sentimento que domina os viajantes mal tratados nos aeroportos estrangeiros é menos o de revolta que o de frustração, de desapontamento diante de fatos que negam uma expectativa anterior de entrar em contato com uma sociedade mais democrática e civilizada.
 Um primeiro passo para que não se perpetue esse tipo de arbitrariedade é o estabelecimento e a divulgação, por parte de cada país, de regras claras para a admissão de visitantes em seu território.
@@ -53,9 +53,9 @@ Os países do Primeiro Mundo encontram-se diante de um claro dilema. Se não quere
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-005</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-005</field>
+<field name="date">940718</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Custou, mas chegou. E chegou em boníssima e bendita hora. Uma vitória coletiva, embora a justiça obrigue a citar os nomes de praxe. Todas as misérias que formam nossa bagunça verde-amarela, todas as frustrações e vergonhas, tudo isso ferveu no alto forno que despejou, aço em brasa, a lâmina incandescente de nosso orgulho mais fundo, de nossa alegria mais desvairada.
 Vi os últimos minutos da partida e me surpreendi pensando numa legião que, ao longo do tempo, devia estar ali, no campo e no meio da gente. João Saldanha, Ary Barroso, Nelson Rodrigues, Mário Filho, Sandro Moreira, Mário Vianna (com dois ennes), Geraldo José de Almeida, José Lins do Rêgo, Salim Simão, meu primo Francisco de Moraes Laudano (que recebia o demônio em Barra do Piraí e morreu fulminado por um raio; torcia pelo São Cristovão, foi toureiro na Espanha e cabo de polícia em Governador Valadares). Uma seleção de saudade e certeza de que éramos, por definição, por necessidade, por opção e herança os melhores do mundo.
@@ -65,9 +65,9 @@ Estou indo essa semana para a Itália, quinta-feira amanhecerei em Milão. Irei de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-006</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-006</field>
+<field name="date">940718</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA &#150; A principal obra de um político é o conjunto de suas frases. Pelas palavras, pode-se medir a seriedade de propósitos do sujeito. Faça-se, porém, uma ressalva: o que se diz em público vale tanto quanto uma moedinha do velho cruzeiro real.
 No alto do palanque, não há candidato que não use máscara. Em política, conta mais o que é dito na intimidade.
@@ -82,9 +82,9 @@ Episódios como o impeachment de Collor e o escândalo do Orçamento tendem a calej
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-007</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-007</field>
+<field name="date">940718</field>
+<text_pt>
 Florestan Fernandes
 
 "Hoje o povo fala a linguagem da ação"
@@ -100,9 +100,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-008</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-008</field>
+<field name="date">940718</field>
+<text_pt>
 
 O sexto parágrafo deste artigo saiu com a terceira frase truncada, o trecho correto é: "Agora, preço legítimo é preço de mercado, é o preço que é resultado da livre concorrência, é o preço que surge dos embates entre a oferta e a procura. Preço ilegítimo (ou, se quiserem, injusto, mas agora com uma acepção claríssima, precisa) é o preço praticado por uma empresa monopolista, ou por um conjunto de empresas oligopolístas que, de alguma forma, conspiram entre si, fazem acordos para evitar a concorrência".ERRAMOS
 Brasil medieval
@@ -123,9 +123,9 @@ Luiz Carlos Bresser Pereira é economista, editor da "Revista de Economia Polític
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-009</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-009</field>
+<field name="date">940718</field>
+<text_pt>
 A postura católica de apenas tolerar os métodos "naturais" de evitar filhos é, obviamente, inviável
 LUIZA NAGIB ELUF
 Sob a égide da ONU, em setembro deste ano acontecerá, no Cairo (Egito), a Conferência Mundial sobre População e Desenvolvimento e, no ano que vem, teremos a Conferência Mundial sobre a Mulher, em Pequim (China).
@@ -147,9 +147,9 @@ LUIZA NAGIB ELUF, 39, é promotora de Justiça em São Paulo e membro do Conselho E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-010</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-010</field>
+<field name="date">940718</field>
+<text_pt>
 "Tal como a seleção lavou a alma do país, vamos reformar o Brasil."
 José Aníbal, deputado federal (PSDB-SP) (São Paulo, SP)
 
@@ -195,9 +195,9 @@ Rodrigo Otávio Teixeira Neto, presidente da Sociedade Brasileira de Ciência e Te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-011</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-011</field>
+<field name="date">940718</field>
+<text_pt>
 Lula
 Hoje
 Visita o congresso da SBPC (Sociedade Brasileira para o Progresso da Ciência) em Vitória, onde recebe apoio de intelectuais e cientistas. Às 17h30, viaja para Araçatuba (SP) a fim de iniciar nova caravana.
@@ -245,9 +245,9 @@ Obs.: As agendas dos candidatos são fornecidas por suas assessorias e estão suje
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-012</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-012</field>
+<field name="date">940718</field>
+<text_pt>
 Lula
 Assistiu o jogo do Brasil na sede do Sindicato dos Metalúrgicos, em São Bernardo do Campo (SP), do qual já foi presidente. Estava acompanhado do candidato do PT ao governo de São Paulo, José Dirceu. Havia cerca de 300 pessoas, entre metalúrgicos e suas famílias. Apostou que o Brasil venceria por 3 X 0, com dois gols de Romário e um de Bebeto.
 pág.1-6
@@ -266,9 +266,9 @@ pág.1-6
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-013</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-013</field>
+<field name="date">940718</field>
+<text_pt>
 
 Candidata à Prefeitura de São Paulo, a então deputada estadual Luiza Erundina saiu de uma gravação de seu programa eleitoral e foi até seu gabinete na Assembléia. Mais tarde, ainda com a maquiagem carregada usada na TV, cruzou num dos corredores com o deputado Waldemar Chubaci, que não perdeu a chance de brincar com a colega:
 &#150; Ô, Erundina, você pode não ganhar a eleição, mas maquiada desse jeito vai acabar casando.
@@ -281,9 +281,9 @@ E Erundina, ainda mais irritada com a pergunta do colega:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-014</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-014</field>
+<field name="date">940718</field>
+<text_pt>
 
 
 No quadro que mostra  a evolução da intenção de voto para o senado em Minas Gerais, foi omitido o nome do candiadto Sérgio Ferrara (PDT), o segundo colocado, com 13% das intenções de voto na última pesquisa (ver quadro publicado nesta seção). No quadro do Rio de Janeiro, em alguns exemplares foi omitido o nome de Jorge Boaventura (PPR) que obteve 3%; o nome de Carlos Alberto de Oliveira Caó foi grafado erroneamente. No quadro da Bahia, em alguns exemplares houve erro na grafia do nome de Joviniano Neto (PDT). ERRAMOS
@@ -291,9 +291,9 @@ No quadro que mostra  a evolução da intenção de voto para o senado em Minas Gera
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-015</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-015</field>
+<field name="date">940718</field>
+<text_pt>
 Comerciais de TV e rádio exploram com humor a desatualização dos atlas provocada pelo colapso do comunismo
 Da Reportagem Local
 Estréia hoje nas TVs e nas rádios a campanha de lançamento do atlas que a Folha começa a distribuir a seus leitores a partir de 14 de agosto. O atlas foi editado pelo jornal inglês "The Times" e lançado nos Estados Unidos pelo "The New York Times".
@@ -314,9 +314,9 @@ O cenário é uma página dupla de atlas medindo 2,5 m de altura por 4 m de largura
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-016</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-016</field>
+<field name="date">940718</field>
+<text_pt>
 LUCAS FIGUEIREDO
 GABRIELA WOLTHERS
 Da Sucursal de Brasília
@@ -339,9 +339,9 @@ Para o jurista Ives Gandra Martins, contudo, o pedido de prisão preventiva dos s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-017</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-017</field>
+<field name="date">940718</field>
+<text_pt>
 Da Sucursal de Brasília
 A Sunab (Superintendência Nacional de Abastecimento) vai pedir no início desta semana explicações ao Makro sobre os aumentos de preços ocorridos nos últimos dias. A informação é do superintendente da Sunab, Celsius Lodder.
 A empresa já havia sido convocada pelo órgão, no início da semana passada, a apresentar notas fiscais para verificação da margem de comercialização em alguns produtos.
@@ -353,9 +353,9 @@ A origem da decretação de prisão dos acionistas minoritários e do gerente da emp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-018</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-018</field>
+<field name="date">940718</field>
+<text_pt>
 Analistas recomendam cautela ao pequeno investidor por causa da oscilação nas cotações
 FIDEO MIYA
 Da Reportagem Local
@@ -381,9 +381,9 @@ Existem analistas &#150;como é o caso de José Carlos Batelli Corrêa, colaborador
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-019</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-019</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 Nos próximos dias, o maior risco de baixas nas cotações das Bolsas de Valores está na possibilidade de que algumas distribuidoras em delicada situação financeira realizem vendas maciças de seus estoques de ações.
 Esse foi o principal motivo das baixas do índice Bovespa nos três primeiros pregões da semana passada, logo após a quebra da distribuidora carioca CR 500. No último dia 8, ela não conseguiu liquidar seus compromissos no Cetip, o sistema de compensação das operações de mercado aberto lastreadas em títulos privados.
@@ -399,9 +399,9 @@ Mas ele diz acreditar que os investidores estrangeiros devem aguardar os resulta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-020</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-020</field>
+<field name="date">940718</field>
+<text_pt>
 O grupo Lojas Americanas e Wal-Mart, maior rede varejista mundial, vai instalar em Osasco um shopping center em área de 155 mil metros quadrados, na entrada principal da cidade. O prefeito de Osasco, Celso Giglio, recebe em troca um pronto-socorro em área de 1.200 metros quadrados a ser edificada nos próximos dezoito meses na cidade. Giglio conseguiu estimular o ingresso do capital na cidade através de mudanças na lei do zoneamento urbano.
 
 IBM vai informatizar o Banestado
@@ -418,9 +418,9 @@ A linha de preservativos Jontex está sendo expandida. A Johnson &amp; Johnson es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-021</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-021</field>
+<field name="date">940718</field>
+<text_pt>
 O Sindiscon, que em março concedeu aumento de 19% sobre os salários convertidos em URV, vai propor hoje, em negociação com os trabalhadores, uma metodologia de cálculo das perdas.
 A metodologia usaria uma média de quatro índices.
 
@@ -451,9 +451,9 @@ Pedro de Camargo Neto, do SRB, afirma que as geadas deverão provocar "enorme des
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-022</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-022</field>
+<field name="date">940718</field>
+<text_pt>
 LUIZ A. P. SOUTO MAIOR
 Poucos problemas econômicos causam hoje tanta preocupação aos governantes de países desenvolvidos e em desenvolvimento quanto o do desemprego. Nos primeiros, tem sido historicamente um problema cíclico, condicionado às flutuações da atividade econômica. Mais recentemente transformou-se, porém, em mal endêmico.
 Nos 25 países-membros da OCDE (Organização de Cooperação e Desenvolvimento Econômico) &#150;o clube dos países desenvolvidos, com sede em Paris&#150; há hoje cerca de 35 milhões de desempregados, além de outros 15 milhões que simplesmente desistiram de procurar trabalho ou se resignam a ocupações em tempo parcial.
@@ -475,9 +475,9 @@ LUIZ A. P. SOUTO MAIOR, 66, é embaixador do Quadro Especial do Ministério das Re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-023</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-023</field>
+<field name="date">940718</field>
+<text_pt>
 RENATO FRAGELLI CARDOSO
 Através da resolução 2.087, o Banco Central (BC) obrigou-se a vender, embora não a comprar, qualquer quantidade de dólares à taxa de R$ 1,00, por prazo indeterminado. Em seguida, sinalizou que a taxa de juros ao longo do primeiro mês do plano ficaria em torno de 7,5% e manteve-se fora do mercado de câmbio, deixando a cotação despencar para R$ 0,91. Por que a cotação caiu tanto?
 Para responder a esta pergunta, basta acompanhar a operação financeira baixo.
@@ -499,9 +499,9 @@ RENATO FRAGELLI CARDOSO, 33, doutor em Economia pela Universidade da Pensilvânia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-024</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-024</field>
+<field name="date">940718</field>
+<text_pt>
 O senador José Paulo Bisol não é vítima de conspiração ou massacre. A fogueira inquisitorial que o queima é a mesma da qual ele se valeu para assar os infiéis.
 A imprensa nada mais fez do que cumprir o mesmíssimo roteiro que seguia quando dava guarida às denúncias do PT e do próprio Bisol &#150;e era erroneamente acusada de petista pelos atingidos.
 Até algum tempo atrás, para a a classe política (entendidos todos os poderes que se alimentam do Estado), desonestos eram aqueles que se valiam do cargo para incursões individuais sobre o erário. Honestos eram os que se aproveitavam das vantagens que, no poder, eles próprios se autoconferiam.
@@ -523,9 +523,9 @@ Diz que o parcelamento não fez parte de supostos acordos políticos de Fernando H
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-025</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-025</field>
+<field name="date">940718</field>
+<text_pt>
 J.P. Morgan compra Perdigão; Patrimônio adquire ações da Drogasil
 MARISTELA MAFEI
 Da Reportagem Local
@@ -544,9 +544,9 @@ A Patrimônio Planejamento Financeiro formalizou no mês passado a união com o Sal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-026</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-026</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 A série de palestras sobre "A Busca da Qualidade Total" prossegue nesta segunda-feira no auditório da Folha.
 O tema de a ser debatido hoje é "Cultura Administrativa e Produção Enxuta" e o palestrante é José Roberto Ferro, professor da Fundação Getúlio Vargas de São Paulo (FGV-SP) e da Universidade Federal de São Carlos e pesquisador-visitante do Massachusetts Institute of Technology, dos Estados Unidos.
@@ -558,9 +558,9 @@ Os interessados em participar do evento podem retirar os ingressos na portaria d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-027</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-027</field>
+<field name="date">940718</field>
+<text_pt>
 Tributação de 5% do IR favorece rentabilidade, mas há risco de liquidez por causa dos títulos de longo prazo
 Da Reportagem Local
 Na atual fase de transição do mercado financeiro, com juros em queda, Ufir congelada até quarta-feira próxima, alterações na tributação e nos prazos das aplicações financeiras a partir de agosto, todo cuidado é pouco.
@@ -587,9 +587,9 @@ Fábio de Oliveira, porém, observa que a queda dos juros tende a reduzir a rentab
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-028</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-028</field>
+<field name="date">940718</field>
+<text_pt>
 
 Variação % acumulada no mês
 POUPANÇA
@@ -621,9 +621,9 @@ As taxas dos CDBs de 124 dias indexados à Taxa Referencial variaram entre 17% e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-029</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-029</field>
+<field name="date">940718</field>
+<text_pt>
 Companhias telefônicas poderão montar televisão por assinatura em áreas que não interessem ao setor privado
 ELVIRA LOBATO
 Da Reportagem Local
@@ -653,9 +653,9 @@ No projeto, estatais e operadoras privadas chegaram a um meio-termo: as operador
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-030</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-030</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 O Congresso Nacional demorou muito para preparar o projeto de lei da TV a cabo. Mas, segundo o deputado Koyu Iha, há um compromisso das lideranças partidárias com o Ministro das Comunicações, Djalma Morais, de que ela será aprovada em agosto.
 A pressa tem uma explicação: a TV por assinatura já está sendo implantada nos Estados de São Paulo, Rio de Janeiro, Paraná, Santa Catarina, Rio Grande do Sul, Ceará, Distrito Federal, Minas Gerais e Mato Grosso do Sul.
@@ -672,9 +672,9 @@ Como o mesmo projeto estabelece que só haverá uma concessão por área, os maiores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-031</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-031</field>
+<field name="date">940718</field>
+<text_pt>
 Clientes terão departamento especial de atendimento na Anakol e Whitehall do Brasil; presidente prevê crescimento
 MÁRCIA DE CHIARA
 Da Reportagem Local
@@ -711,9 +711,9 @@ Investimos cerca de US$ 10 milhões por ano em equipamentos. vamos manter esse ní
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-032</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-032</field>
+<field name="date">940718</field>
+<text_pt>
 MARCELO CHERTO &amp; MARCUS RIZZO
 Como esta coluna já havia previsto dois ou três anos atrás, uma nova onda nos EUA são as franquias especializadas em produtos e serviços para crianças. Um exemplo são as "academias de ginástica" para a garotada de quatro meses a dez anos de idade. Uma das redes mais conhecidas é a Little Gym, uma sacada do mesmo pessoal que fundou a Sylvan Learning Centers (rede de franquias de educação e treinamento para executivos que parece estar prestes a se instalar no Brasil).
 No Colorado, surgiu a Baby's Away, cujas franquias alugam "equipamentos para bebês" para famílias em viagem de férias. Que equipamentos? Cadeirões, cadeiras de balanço, caixas cheias de brinquedinhos e o escambau. A sacada, para os gringos que viajam de carro e cheios de bagagem, é não precisar carregar mais essa bagulhada toda. As franquias Baby's Away entregam os itens alugados em qualquer lugar que o cliente quiser. A maior parte dessas franquias está situada em localidades turísticas, principalmente estações de esqui como Vail, Aspen, Lake Tahoe e outras.
@@ -727,9 +727,9 @@ MARCELO CHERTO e MARCUS RIZZO são diretores da Cherto &amp; Rizzo Franchising e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-033</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-033</field>
+<field name="date">940718</field>
+<text_pt>
 HELCIO EMERICH
 Se você acha que a imagem da sua empresa é um reflexo apenas da propaganda ou dos programas de relações públicas, saiba que pelo menos no conceito dos formadores de opinião das grandes corporações americanas, há outros ingredientes na comunicação quase tão importantes como a publicidade, a promoção ou as ações institucionais. A "descoberta" está num recente estudo sobre identidade corporativa desenvolvido pelo conceituado escritório de pesquisas Yankelovitch Skelly, sediado na cidade de Westport, no estado de Connecticut. O instituto quis saber de cem tomadores de decisão (de diferentes segmentos do mercado norte-americano) que tipo de comunicação &#150;não contando a mídia de massa&#150; mais contribuem para fortalecer a imagem corporativa de uma companhia.
 Em primeiro lugar ficou um material impresso que ainda merece pouca atenção da maioria dos empresários brasileiros, o relatório anual. Seguem-se informativos como os "letterheads", "house-organs" e a chamada papelaria, que vai dos papéis de carta e envelopes até os cartões de visitas dos executivos, representantes e vendedores. 92% dos formadores de opinião consultados julga que a qualidade e a aparência desse material podem dar uma boa medida do prestígio e do profissionalismo da empresa (a Yankelovitch se surpreendeu com a importância da papelaria na composição da "fisionomia" das companhias, já que o ambiente do "business" moderno é povoado por faxes, computadores, telefones celulares etc). Recursos tecnológicos, como mala-direta computadorizada, são considerados indispensáveis para promover a imagem, mas a overdose na sua utilização pode minar a identidade da companhia.
@@ -740,9 +740,9 @@ HELCIO EMERICH é jornalista, publicitário e vice presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-034</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-034</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 Lavadora de roupa, aquecedor, TV, blazer de lã, queijo e vinho ganham destaque de vendas nas lojas na primeira quinzena do real.
 A procura por produtos da chamada linha branca &#150;lavadoras e secadoras de roupas e geladeiras está aumentando.
@@ -763,9 +763,9 @@ Klein, das Casas Bahia, conta que deve comercializar 40 mil TVs em julho, o mesm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-035</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-035</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 Mais uma marca de caneta está desembarcando no mercado nacional, que movimenta mensalmente US$ 10 milhões com a venda de esferográficas, tinteiro e rollerball. A Reynolds, desde 1927 produzindo canetas na França, acaba de colocar seu produto no Brasil em associação com a Helios. A Helios está no ramo de materiais para escritório há 72 anos.
 Nos primeiros três meses, o consumidor vai encontrar 15 itens diferentes entre esferográficas, rollerball e tinteiro da nova marca.
@@ -781,9 +781,9 @@ Em 90 chegou a faturar US$ 27 milhões; em 92 despencou para US$ 15 milhões e fec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-036</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-036</field>
+<field name="date">940718</field>
+<text_pt>
 Água de coco da empresa é eleita por unanimidade no salão bienal de alimentação em Paris
 ALINE SORDILI
 Da Redação
@@ -804,9 +804,9 @@ Socôco: (011) 820-4266
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-037</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-037</field>
+<field name="date">940718</field>
+<text_pt>
 Da Redação
 A necessidade de aumentar a produtividade levou a Socôco instalada em Maceió a buscar novas áreas para produzir a fruta. A região escolhida foi o município de Majú (PA). Dos 27 mil hectares de fazenda, 4 mil são destinados para a produção de coco. O restante da área é preservado.
 No total, são 600 mil coqueiros. "É uma das maiores produtividades do mundo", garante Paulo Roberto de Maya Gomes, diretor comercial da Socôco.
@@ -820,9 +820,9 @@ O coco que não passa pelo controle de qualidade da empresa, é usado na fabricaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-038</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-038</field>
+<field name="date">940718</field>
+<text_pt>
 
 A Neo-Data, líder no mercado nacional de sistemas informatizados de gestão de saúde, fechou acordo com o Hospital Sírio Libanês e Porto Seguro Cia. de Seguros Gerais. A empresa fará a implantação do SMS (Sistema Integrado de Gestão de Saúde) para permitir um controle do processo do trabalho interno. Informações: (011) 231-5534.
 
@@ -840,30 +840,30 @@ A P. Quatro trouxe para o Brasil a linha de tecidos espanhola para decoração e p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-039</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-039</field>
+<field name="date">940718</field>
+<text_pt>
 O Parlamento sérvio se reúne hoje para votar o plano de paz internacional para a Bósnia. O líder sérvio, Radovan Karadizic, afirmou que "é possível que a assembléia rejeite o plano". O plano foi aprovado anteontem no Parlamento croata. A cidade de Mostar, no sul da Bósnia, passará até o final da semana a ser administrada pela União Européia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-040</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-040</field>
+<field name="date">940718</field>
+<text_pt>
 O embaixador de Omã na Argélia, Hilal Assiyabi, desaparecido desde sexta, foi encontrado "são e salvo", segundo o governo do país, que não informou seu paradeiro. Não havia notícias do embaixador do Iêmen, Kacem Askar Djebrane. O carro em que os dois viajavam foi encontrado queimado em um subúrbio da capital, Argel, que abriga radicais islâmicos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-041</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-041</field>
+<field name="date">940718</field>
+<text_pt>
 Uma pesquisa da revista "Time" e da rede de TV CNN afirma que 51% dos norte-americanos aprovam a participação dos EUA em uma intervenção militar internacional no Haiti. A base militar dos EUA em Guantanamo, Cuba, já abriga 16 mil refugiados haitianos. Entidades de proteção a refugiados reclamaram que eles estão sendo mal tratados no local.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-042</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-042</field>
+<field name="date">940718</field>
+<text_pt>
 O ministro das Comunicações da França, Alain Carignon, renunciou ontem. Ele disse que pretende se dedicar exclusivamente à sua defesa contra as acusações de corrupção.
 
 Nigéria vai estudar libertação de opositor
@@ -893,9 +893,9 @@ Pelo menos 22 pessoas morreram de fome e de sede no Sudão após o motorista do ôn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-043</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-043</field>
+<field name="date">940718</field>
+<text_pt>
 A ex-senadora Eva Blay apontou falhas no projeto do vereador Bruno Féder (PPR) sobre planejamento familiar sancionado pelo prefeito Paulo Maluf. O projeto prevê a distribuição gratuita a famílias de baixa renda de pílulas anticoncepcionais e preservativos. Segundo ela, o projeto é limitado. "As mulheres precisam também de orientação."
 
 Supermercado de PE desaba com chuvas
@@ -912,9 +912,9 @@ Os organizadores do 17º Encontro Nacional dos Estudantes de Farmácia, que aconte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-044</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-044</field>
+<field name="date">940718</field>
+<text_pt>
 Relatório do Conselho Estadual de Saúde da Paraíba diz que 52% das AIHs (Autorizações de Internações Hospitalares) destinadas pelo Ministério da Saúde ao Estado vão para os hospitais privados. Segundo o relatório, a rede pública fica com apenas 13% das AIHs.
 
 Paraíba 2
@@ -928,9 +928,9 @@ A campanha também vai orientar sobre como agir diante de envenenamentos com inse
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-045</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-045</field>
+<field name="date">940718</field>
+<text_pt>
 O 1º Festival de Música Livre da Grande São Paulo e Baixada Santista acontecerá em Praia Grande nos dias 23, 24 e 30 de julho. Cerca de 20 cidades se inscreveram para o evento. Cada uma será representada por um artista, que apresentará uma música erudita.
 
 Minas Gerais
@@ -944,9 +944,9 @@ Em Jaú, a campanha de vacinação vai acontecer de 25 a 30 de julho. A realização 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-046</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-046</field>
+<field name="date">940718</field>
+<text_pt>
 A Vigilância Epidemiológica da Secretaria Estadual da Saúde está aplicando vacinas contra a raiva em todos os cães de Balneário Camboriú. Segundo a direção da vigilância, foi registrado um caso de raiva na cidade. Cerca de 2.000 vacinas devem ser aplicadas.
 
 Santa Catarina 2
@@ -960,9 +960,9 @@ Técnicos em meio ambiente da Itaipu Binacional vão pesquisar a causa da infertil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-047</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-047</field>
+<field name="date">940718</field>
+<text_pt>
 O Banco do Brasil de Manaus recebeu na última semana 14 t de moedas nos valores de R$ 0,01, R$ 0,05, R$ 0,10 e R$ 0,50. O delegado regional do Banco Central, Francisco José de Souza, disse que o problema da falta de moedas será solucionado até agosto.
 
 Amazonas 2
@@ -976,9 +976,9 @@ A viga central da escola ruiu. As cem crianças e os funcionários da escola não e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-048</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-048</field>
+<field name="date">940718</field>
+<text_pt>
 O governo do Estado e a Fundação de Apoio à Pesquisa Agropecuária de Mato Grosso pretendem envolver a iniciativa privada no combate ao nematóide do cisto, doença que ataca as plantações de soja. As reuniões com os agricultores serão realizadas em agosto.
 
 Mato Grosso do Sul 1
@@ -992,9 +992,9 @@ O Salvaero (Centro de Coordenação de Busca e Salvamento), do Ministério da Aeron
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-049</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-049</field>
+<field name="date">940718</field>
+<text_pt>
 RICARDO TOLEDO NEDER
 Dois acontecimentos relacionados ao saneamento ambiental em São Paulo chamaram a atenção dos jornais recentemente: a invasão da sede da Sabesp em Diadema e a campanha levada aos Estados Unidos pela recuperação da represa Billings.
 Há, entretanto, um terceiro evento que deveria também ter chamado atenção, mas que passou despercebido: o cancelamento da criação oficial do Comitê de Gestão do Alto Tietê.
@@ -1009,9 +1009,9 @@ RICARDO TOLEDO NEDER, 41, sociólogo e cientista político, é professor na Fundaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-050</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-050</field>
+<field name="date">940718</field>
+<text_pt>
 Aziz Ab'Sáber fala sobre sua expectativa para 46ª reunião da entidade, que começou ontem, em Vitória
 VICTOR AGOSTINHO e HELIO GUROVITZ
 Da Reportagem Local
@@ -1064,9 +1064,9 @@ Ab'Sáber - Minha memória é dura. Tem certas pessoas que eu não perdôo. Não perdô
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-051</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-051</field>
+<field name="date">940718</field>
+<text_pt>
 Da equipe de articulistas
 Tenho observado que o número de publicações editadas em áreas específicas das profissões jurídicas tem aumentado substancialmente. Algumas incluem estudos sobre direito ou sobre as práticas judiciárias e outras se limitam ao noticiário de interesse da categoria que as edita. A Revista da Associação dos Juízes Federais do Brasil está na primeira espécie. Seu nº 41 traz 15 estudos que envolvem desde problemas administrativos até o controle externo da magistratura.
 Recebi, ainda, o Boletim Técnico da Escola de Advocacia da OAB de Minas Gerais e o nº 57 da Revista editada pelo Conselho Federal da OAB, cuja publicação havia sido interrompida em maio de 1992 e que volta dirigida pelo advogado Aristóteles Atheniense.
@@ -1086,9 +1086,9 @@ Os autores pretendem desenvolver um método eficaz de estudo do processo penal. T
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-052</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-052</field>
+<field name="date">940718</field>
+<text_pt>
 O médico Enéas Ferreira Carneiro (foto), candidato à Presidência da República, programou para 12 de agosto a 18 de novembro, o curso "O Eletrocardiograma", que será ministrado no Hotel Danúbio, em São Paulo, às sextas-feiras, das 19h30 às 22h40, ou seja, uma vez por semana, como nos cursos realizados nos anos anteriores.
 
 A FRASE
@@ -1107,9 +1107,9 @@ Na hipertensão moderada, quando a pressão mínima está entre 9 e 9,5, a recomenda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-053</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-053</field>
+<field name="date">940718</field>
+<text_pt>
 A cidade de Londrina não fica em Santa Catarina, como informa incorretamente este texto.ERRAMOS
 Projeto de planejamento familiar é criticado
 A ex-senadora Eva Blay apontou falhas no projeto do vereador Bruno Féder (PPR) sobre planejamento familiar sancionado pelo prefeito Paulo Maluf. O projeto prevê a distribuição gratuita a famílias de baixa renda de pílulas anticoncepcionais e preservativos. Segundo ela, o projeto é limitado. "As mulheres precisam também de orientação."
@@ -1128,9 +1128,9 @@ A Vigilância Epidemiológica da Secretaria Estadual da Saúde está aplicando vacin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-054</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-054</field>
+<field name="date">940718</field>
+<text_pt>
 A leitora Clelia Regina Oliveira P. dos Santos, residente na rua Augusto Gomes de Siqueira, na Casa Grande, faz uma reclamação sobre as carteirinhas de passe escolar.
 "Até maio as carteirinhas ainda não haviam chegado. Fui me informar na escola em que meus filhos estudam e o diretor me disse que a culpa era da CMTC", diz Clelia.
 Ela conta que em 93 foram precisos 30 dias para que as carteirinhas ficassem prontas. "Este ano o recorde está sendo batido: já são 50 dias sem a carteirinha. Afinal, de quem é a culpa?"
@@ -1143,9 +1143,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-055</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-055</field>
+<field name="date">940718</field>
+<text_pt>
 Proporcionalmente ao volume de tráfego, Anchieta é a mais perigosa; Régis Bittencourt vem em 2º
 Da Reportagem Local
 A via Dutra, que une São Paulo ao Rio de Janeiro, apresenta o maior número de acidentes entre as rodovias que se interligam com a Grande São Paulo.
@@ -1172,9 +1172,9 @@ Na Trabalhadores, há nebulosidade por toda a estrada. Mas a área crítica está na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-056</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-056</field>
+<field name="date">940718</field>
+<text_pt>
 Interpol e polícia brasileira montam operação para prender amazonense que estaria escondido na Venezuela
 ANDRÉ LOZANO
 Da Agência Folha, em Manaus
@@ -1191,9 +1191,9 @@ A organização começou a ser investigada pela Polícia Federal em 1985, quando Cur
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-057</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-057</field>
+<field name="date">940718</field>
+<text_pt>
 Da Agência Folha, em Manaus
 A organização comandada por Curica age no Brasil e no exterior desde 1985, mas foi a partir de 89 que intensificou suas ações.
 Em setembro de 89, foram apreendidos em Portugal 140 kg de cocaína. Neste mesmo ano, o grupo tentou enviar para fora do país 806 kg, apreendidos em Potugal e EUA. Em 90, três colombiano, dois italianos, uma portuguesa e uma prima de Curica foram presos com 200 kg da droga.
@@ -1204,9 +1204,9 @@ No ano seguinte, foram apreendidos mais 420 kg em Manaus (AM) e 600 quilos em Be
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-058</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-058</field>
+<field name="date">940718</field>
+<text_pt>
 Seleção de Parreira derrota a Itália nos pênaltis e conquista primeiro tetracampeonato da história
 MATINAS SUZUKI JR.
 Enviado especial a Pasadena
@@ -1224,9 +1224,9 @@ Ocorreu o inverso. Os recordes anteriores de público em Copas foi largamente sup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-059</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-059</field>
+<field name="date">940718</field>
+<text_pt>
 TELÊ SANTANA
 Especial para a Folha
 O Brasil é, merecidamente, o primeiro tetracampeão da história. Uma conquista da técnica e, acima de tudo, do coração. Pelo que sei, os jogadores estiveram muito unidos. Pudemos constatar isso em todos os momentos, especialmente na hora dos pênaltis. O time era um só.
@@ -1244,9 +1244,9 @@ Telê Santana, 62, é técnico do São Paulo. Sua coluna sai cinco vezes por semana.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-060</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-060</field>
+<field name="date">940718</field>
+<text_pt>
 Para o treinador, que deixou ontem o comando da seleção brasileira, 'seria injusto fazer outra partida'
 MÁRIO MAGALHÃES
 Enviado especial a Pasadena
@@ -1267,9 +1267,9 @@ Parreira acredita que a conquista brasileira deixará como lição a "necessidade d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-061</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-061</field>
+<field name="date">940718</field>
+<text_pt>
 Atacante, apesar de não receber marcação individual, estava sempre cercado por até quatro adversários
 FERNANDO RODRIGUES
 Enviado especial a Pasadena
@@ -1294,9 +1294,9 @@ Na arquibancada do Rose Bowl, um brasileiro levantou-se e gritou: "Perdemos a Co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-062</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-062</field>
+<field name="date">940718</field>
+<text_pt>
 Em Los Angeles
 Sofremos até a última gota, mas valeu. Pelo menos, o Brasil é o primeiro tetracampeão do mundo da história, mesmo que o futebol que o conduziu ao título seja o anti-Brasil.
 Mesmo porque o adversário de ontem &#150;a Itália&#150; entrou em campo estropiada, com suas duas maiores estrelas, Baresi e Baggio, sem condições de jogo e adotando o mesmo princípio do time de Parreira: o gol seria um acidente de percurso; o fundamental era não tomá-lo.
@@ -1311,9 +1311,9 @@ Alberto Helena Jr., 52, é colunista da Folha. Sua coluna na Copa é diária.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-063</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-063</field>
+<field name="date">940718</field>
+<text_pt>
 Parreira vence o descrédito dos torcedores e entra para a história como o homem que ganhou o tetra
 ALBERTO HELENA JR.
 Enviado especial a Los Angeles
@@ -1342,9 +1342,9 @@ Por fim, em 70 tivemos um preparo-físico excepcional e uma constelação de craque
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-064</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-064</field>
+<field name="date">940718</field>
+<text_pt>
 
 Nutricionista
 "No começo da Copa eu não estava entusiasmada com a seleção, até por dor de cotovelo por ter deixado a delegação. Mas na final eu me alterei. O jogo foi maravilhoso. Fiquei até rouca. O Brasil ganhou em todos os aspectos. Nos penâltis, apelei para a fé. Os italianos estavam cansados. Baggio não perdiria um se não estivesse tão extenuado."
@@ -1363,9 +1363,9 @@ Técnico de basquete feminino
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-065</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-065</field>
+<field name="date">940718</field>
+<text_pt>
 Do enviado a Los Angeles
 Didi, em 54, havia sido chamado de covarde. E sua fria elegancia em campo irritava até o mais fanático torcedor do Botafogo, seu time em 58. Mas Didi havia enfiado na cabeça que seria campeão do mundo, e garantiu a posição de meia-armador, mesmo contra as investidas dos que queriam Zizinho de volta à seleção ou mesmo o vigor e a velocidade de seu reserva Moacir, meia do Flamengo.
 Na Suécia, Bellini foi o capitão; Garrincha, o espetáculo; Vavá, o artilheiro; Pelé, o gênio que surgia. Mas Didi foi o centro nervoso do time, em volta de quem giravam todos os outros.
@@ -1380,9 +1380,9 @@ Garrincha, Didi e Pelé, uma bênção ao nosso futebol. E também uma maldição que n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-066</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-066</field>
+<field name="date">940718</field>
+<text_pt>
 Em Los Angeles
 Ganhamos! Oba Oba Oba! APESAR DO PARREIRA! Eu não disse que levava o Caneco? Nóis sofre mas nóis goza! Dunga levanta a taça! Só a taça?! Grita a torpiranha, mistura de torcedora com piranha!
 Copa Merreca 94! Diz que o Parreira foi chamado pra nivelar. De tanto time ruim que tinha na Copa. Quem mais fez gol foi o Card! Gold Card!
@@ -1401,9 +1401,9 @@ José Simão, 50, é colunista da Ilustrada. Sua coluna na Copa é diária.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-067</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-067</field>
+<field name="date">940718</field>
+<text_pt>
 Franco Baresi e Roberto Baggio, os jogadores mais experientes da Itália, erram na cobrança dos pênaltis
 SÍLVIO LANCELLOTTI
 Enviado especial a Pasadena
@@ -1428,9 +1428,9 @@ Uma "Azzurra" apenas de prata, mas uma seleção capaz de exibir na América uma br
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-068</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-068</field>
+<field name="date">940718</field>
+<text_pt>
 Do enviado especial a Pasadena
 Apesar dos despistes de Arrigo Sacchi, os jornalistas mais chegados a Franco Baresi não tinham nenhuma dúvida: na decisão da Copa, o líbero do Milan voltaria a envergar a braçadeira de capitão da "Squadra Azzurra".
 Apesar da sua cirurgia de joelho e dos seus 34 anos, o craque do Milan tinha retornado aos treinamentos com a vontade e a desenvoltura de um menino.
@@ -1440,9 +1440,9 @@ Terminada a prorrogação, Arrigo Sacchi não necessitou escalar os seus cinco cobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-069</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-069</field>
+<field name="date">940718</field>
+<text_pt>
 Do enviado a Pasadena
 Dos três caminhos que o destino lhe propôs na manhã da finalíssima do Mundial, Roberto Baggio escolheu o mais audacioso e por isso mesmo aquele mais gratificante.
 Eram 7h30 da manhã, no Marriot Inn de Torrance, vizinhanças de Los Angeles, quando Arrigo Sacchi e o médico Andrea Ferretti chamaram Baggio a uma reunião: "Quero jogar. Aliás, eu vou jogar". Sacchi e Ferretti confiaram no orgulho do jogador.
@@ -1453,9 +1453,9 @@ Sobre os pênaltis, Baggio se manteve na mesma rota: "Era a minha responsabilidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-070</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-070</field>
+<field name="date">940718</field>
+<text_pt>
 Especial para a Folha
 A incontestabilidade da campanha brasileira não nos faz demover de algumas opiniões. Ninguém nos convence de que foi este esquema medroso que garantiu nosso sucesso nesta Copa.
 Podem até, se quiserem, chamar a nós de teimosos agora, mas esse mesmíssimo esquema sem a genialidade de Romário e a devoção dos outros 21, e provavelmente teríamos voltado para casa mais cedo.
@@ -1472,9 +1472,9 @@ Marcelo Frommer e Nando Reis são integrantes da banda Titãs. Sua coluna na Copa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-071</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-071</field>
+<field name="date">940718</field>
+<text_pt>
 Apesar do calor &#150;mais que na Marquês de Sapucaí.
 Apesar do budum que invadiu o estádio antes do jogo
 Apesar da falta total de organização no Rose Bowl, zero de informações, ninguém do staff sabia de nada, só confusão antes do Brasil enfrentar a Itália &#150;aliás, sorry!
@@ -1508,25 +1508,25 @@ E sai da frente que atrás vem gente - afinal, a próxima Copa já é daqui a quatro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-072</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-072</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 A seleção brasileira masculina perdeu a primeira partida (81 a 72, em Bayreuth, sexta-feira), mas se reabilitou ganhando da Alemanha duas vezes: por 92 a 81, sábado, em Giesen, e por 97 a 85, ontem, em Wurzburgo. Os dois times se preparam para o Mundial do Canadá, em agosto. O Brasil segue para os Jogos da Amizade, na Rússia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-073</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-073</field>
+<field name="date">940718</field>
+<text_pt>
 Das agências internacionais
 O australiano Michael Doohan venceu ontem, em Le Mans, o GP da França de Motociclismo, categoria 500 cc. O resultado deixa o piloto da Honda mais isolado na liderança do Mundial com 211 pontos. Alexandre Barros foi o sexto, enquanto seu companheiro na Suzuki, Kevin Schwantz, caiu a duas voltas do final da prova.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-074</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-074</field>
+<field name="date">940718</field>
+<text_pt>
 Os 700 convidados do bar Cabral, que assistiram ao jogo nos cines 1 e 2 do shopping Eldorado, tiveram uma festa pra ninguém botar defeito: 590 dúzias de cerveja, 2.000 cachorros-quentes e cerca de 4.000 saquinhos de pipoca. Segundo os donos do Cabral, a festa custou US$ 50 mil.
 
 Maioria dos americanos quer liga de futebol
@@ -1543,9 +1543,9 @@ Mauricio Stycer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-075</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-075</field>
+<field name="date">940718</field>
+<text_pt>
 Atacante afirma que título 'vai calar a boca' dos críticos e volta a falar que pára de jogar daqui a dois anos
 FERNANDO RODRIGUES
 Enviado especial a Pasadena
@@ -1570,9 +1570,9 @@ A apresentação do jogador em seu clube, o Barcelona, da Espanha, está marcada pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-076</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-076</field>
+<field name="date">940718</field>
+<text_pt>
 
 Nutricionista
 "No começo da Copa eu não estava entusiasmada com a seleção, até por dor de cotovelo por ter deixado a delegação. Mas na final eu me alterei. O jogo foi maravilhoso. Fiquei até rouca. O Brasil ganhou em todos os aspectos. Nos penâltis, apelei para a fé. Os italianos estavam cansados. Baggio não perdiria um se não estivesse tão extenuado."
@@ -1591,9 +1591,9 @@ Técnico de basquete feminino
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-077</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-077</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 A única variação tática inovadora da Copa dos EUA não passou da primeira fase, apesar de a seleção que a tenha usado tenha.
 O 3-4-3 &#150;ou melhor, 3-3-1-3&#150; da Holanda naufragou em três atuações inconvincentes contra Arábia Saudita (2 x 1), Bélgica (0 x 1) e Marrocos (2 x 1), que, no fim das contas, valeram o primeiro lugar do Grupo F.
@@ -1605,9 +1605,9 @@ Na defesa, jogava um trio formado por dois zagueiros rápidos (Valckx e Frank de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-078</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-078</field>
+<field name="date">940718</field>
+<text_pt>
 Durante o jogo entre México e Bulgária, no Giants Stadium, uma das traves precisou ser trocada. Bernal se enroscou na rede e uma das hastes do gol se soltou.
 
 AS MUDANÇAS
@@ -1622,9 +1622,9 @@ Antes do jogo com o Brasil, o técnico de Camarões, Henri Michel, foi pressionado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-079</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-079</field>
+<field name="date">940718</field>
+<text_pt>
 MATINAS SUZUKI JR.
 Enviado especial a Los Angeles
 Depois de pegar quase 50 vôos e viajar quase 60 mil km, de mais de 20 jogos vistos ao vivo, depois de frequentar as sedes da Copa e de passar por uma dezena de hotéis e duas dezenas de cidades diferentes, aí vai a escalação do melhor e do pior off-futebol.
@@ -1746,9 +1746,9 @@ Para os carrinhos de golfe que transportavam os jogadores machucados para fora d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-080</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-080</field>
+<field name="date">940718</field>
+<text_pt>
 Dos enviados a Los Angeles
 
 Oscar de O.J.Simpson ou Eu Não Tive Menor Intenção:
@@ -1889,9 +1889,9 @@ Para a seleção russa, pelo conjunto da obra, e para a búlgara, porque a vitória 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-081</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-081</field>
+<field name="date">940718</field>
+<text_pt>
 3... seleções participaram pela primeira vez de um Mundial: Arábia Saudita, Nigéria e Grécia. Sauditas e nigerianos foram desclassificados nas oitavas-de-final, depois de boa campanha na primeira fase.
 
 A REVELAÇÃO
@@ -1906,9 +1906,9 @@ De Francisco Maturana, técnico da Colômbia. Ele abandonou o cargo após o Mundial
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-082</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-082</field>
+<field name="date">940718</field>
+<text_pt>
 Da Reportagem Local
 A maior média da seleção dos eleitos pelo Júri Folha é do goleiro belga Preud'homme: 7,2. Depois, aparece a dupla de ataque Romário e Raducioiu. O brasileiro teve 6,9 e o romeno, 7,1.
 Os quatro zagueiros eleitos têm nota média de 6,4. Os quatro do meio-campo, média de 6,7. Já os dois atacantes, 7,0.
@@ -1919,9 +1919,9 @@ Na lateral-esquerda, o sueco Ljung ganhou a vaga com a média 6,2, a mais baixa e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-083</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-083</field>
+<field name="date">940718</field>
+<text_pt>
 Mauro Silva e Romário figuram na seleção do Júri Folha, que inclui os romenos Petrescu, Hagi e Raducioiu
 THALES DE MENEZES
 Da Reportagem Local
@@ -1943,9 +1943,9 @@ O aproveitamento de Raducioiu na seleção romena é notável: 23 gols em 26 partida
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-084</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-084</field>
+<field name="date">940718</field>
+<text_pt>
 "A Colômbia demonstrou que pode jogar bem e ganhar, como o Brasil de 70"
 Do atacante colombiano Asprilla, antes da partida de estréia na Copa
 
@@ -1960,9 +1960,9 @@ Apesar de ser o goleiro da Bélgica, Michel Preud'homme, 35, também tentou marcar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-085</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-085</field>
+<field name="date">940718</field>
+<text_pt>
 Franceses prometem Copa mundana em 98, com futebol intercalado por turismo, vinho, moda e culinária
 Da Reportagem Local
 A última Copa do Mundo de Futebol do século 20 será disputada em 1998 na França. O país se tornará o terceiro a sediar pela segunda vez uma Copa.
@@ -1983,30 +1983,30 @@ Os franceses estimam que a Copa 98 será vista por um recorde de 35 bilhões de es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-086</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-086</field>
+<field name="date">940718</field>
+<text_pt>
 O projeto de usar o deserto de Mojave, na Califórnia, como depósito de resíduos radioativos mobilizou Robert Redford, que gravou uma mensagem a ser transmitida nas rádios locais. Seu temor é que o rio Colorado, principal fonte de água de LA, seja contaminado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-087</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-087</field>
+<field name="date">940718</field>
+<text_pt>
 Um jantar de gala em Washington, dia 22 de setembro, após a estréia de "The River Wild", vai levantar fundos para a entidade ecológica American Rivers. Além de Meryl Streep e Kevin Costner, que estão no elenco, Michael Keaton prestigiará, já que patrocina a AR.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-088</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-088</field>
+<field name="date">940718</field>
+<text_pt>
 Bart se apaixonará por Meryl Streep na próxima temporada americana de "Os Simpsons". Pelo menos por sua voz, já que a atriz a emprestará para a garota por quem ele se enamora. Outra novidade é a voz de Winona Ryder na boca de uma rival de Lisa, a irmã de Bart.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-089</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-089</field>
+<field name="date">940718</field>
+<text_pt>
 LUÍS ANTÔNIO GIRON
 Enviado especial a Campos do Jordão
 A compositora e cantora Meredith Monk fez seu show na última quinta-feira no Auditório Cláudio Santoro. Foi a estréia no Brasil de uma artista que já deveria ter vindo bem antes. Em 1983, a platéia estaria cheia. Na quinta não enchia dois terços do auditório, que tem capacidade para 950 pessoas.
@@ -2020,9 +2020,9 @@ Apesar de negar, Meredith é minimalista, talvez a compositora mais radicamente m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-090</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-090</field>
+<field name="date">940718</field>
+<text_pt>
 Sucesso no Festival de Montreux, o saxofonista americano toca no 9º Free Jazz, no Rio e São Paulo, em outubro
 CARLOS CALADO
 Enviado especial a Montreux
@@ -2051,9 +2051,9 @@ O jornalista CARLOS CALADO viaja a convite da Warner e da Polygram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-091</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-091</field>
+<field name="date">940718</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Evidente que precisamos melhorar cada dia; a luta para superar nossas dificuldades faz parte da condição humana.
@@ -2063,9 +2063,9 @@ Valorize as pequenas vitórias. E, ao invés de culpar-se pelo fato de que demorou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-092</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-092</field>
+<field name="date">940718</field>
+<text_pt>
 CELSO FIORAVANTE
 Da Redação
 
@@ -2085,9 +2085,9 @@ Infelizmente, a década de 90 se adequa mais com as escrotices dos mal-educados B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-093</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-093</field>
+<field name="date">940718</field>
+<text_pt>
 MARCO CHIARETTI
 Da Reportagem Local
 
@@ -2107,9 +2107,9 @@ Beavis é loiro, Butt-Head usa aparelho nos dentes. Parecem norte-americanos, sej
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-094</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-094</field>
+<field name="date">940718</field>
+<text_pt>
 Novo disco segue à risca o projeto que o título proclama
 Da Reportagem Local
 
@@ -2132,9 +2132,9 @@ Novidade em relação aos LPs anteriores, só duas faixas de "new age" rap, que seg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-095</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-095</field>
+<field name="date">940718</field>
+<text_pt>
 
 THE FLINTSTONES
 Trilha Sonora (BMG)
@@ -2150,9 +2150,9 @@ Steve Winwood e Jim Capaldi ressuscitam o velho grupo inglês de rock progressivo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-096</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-096</field>
+<field name="date">940718</field>
+<text_pt>
 O compositor polonês que está no Brasil se defende dos críticos e confessa que estar na moda não o afeta
 LUÍS ANTÔNIO GIRON
 Enviado especial a Campos do Jordão
@@ -2190,9 +2190,9 @@ Górecki - Se alguém quiser usar minha música dessa maneira e isso lhe fizer bem,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-097</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-097</field>
+<field name="date">940718</field>
+<text_pt>
 
 Especial para a Folha
 Atenção, meu caro teen. A história esbarra em você, e é bom seus detalhes serem bem guardados.
@@ -2210,9 +2210,9 @@ Mas o patriota xarope abre o coração e se emociona. Eu me emocionei.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-098</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-098</field>
+<field name="date">940718</field>
+<text_pt>
 
 São J. do Rio Preto, SP
 Primeiramente quero lhes dizer que leio Folhateen toda segunda-feira e as matérias são jóias. Aqui em São José do Rio Preto jogo num time de futebol e gostaria que vocês fizessem uma reportagem legal sobre futebol feminino. Gostaria que vocês mostrassem como está caminhando este esporte. Gostaria que vocês dessem uma força. Esperamos que vocês atendam nosso pedido.
@@ -2241,9 +2241,9 @@ Escreva para o Folhateen, al. Barão de Limeira, 425, 4º andar, São Paulo, SP, CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-099</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-099</field>
+<field name="date">940718</field>
+<text_pt>
 
 
 "PIRATAS DO TIETÊ E OUTRAS BARBARIDADES" é o livro de 124 páginas que está sendo lançado por Laerte, cartunista e quadrinista da Folha, que reúne algumas das melhores histórias publicadas entre 87 e 90 nas revistas "Piratas do Tietê", "Chiclete com Banana", "Circo" e "Geraldão". Preço: R$ 16.
@@ -2260,9 +2260,9 @@ RUMMIKUB é o jogo que está sendo lançado pela Brasil Overseas, que combina carac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-100</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-100</field>
+<field name="date">940718</field>
+<text_pt>
 ROSELY SAYÃO
 Especial para a Folha
 "Tenho 17 anos e, por incrível que pareça, não sei ao certo o que é um orgasmo. Como você sabe que está tendo um? Ter orgasmo é o mesmo que estar gozando? O seu companheiro consegue perceber que você está tendo um orgasmo?"
@@ -2282,9 +2282,9 @@ ROSELY SAYÃO, 44, é psicóloga. Se você tem dúvidas sobre sexo escreva para o Fol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-101</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-101</field>
+<field name="date">940718</field>
+<text_pt>
 
 EU ACHO QUE SIM
 O álcool deve ser considerado uma droga por causar distúrbios psíquicos nas pessoas que utilizam bebidas alcoólicas. Poucas pessoas gostam do sabor da cerveja, por exemplo, nas primeiras vezes em que experimentam &#150;mas bebem para "pegar a viagem".
@@ -2294,9 +2294,9 @@ Isto faz com que poucos parem para pensar no mal que o álcool pode causar antes 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-102</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-102</field>
+<field name="date">940718</field>
+<text_pt>
 
 
 Vários
@@ -2365,9 +2365,9 @@ O programa inclui princípios de fotogenia, filmes e materiais fotográficos, foto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-103</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-103</field>
+<field name="date">940718</field>
+<text_pt>
 Da Redação
 A Pontifícia Universidade Católica de Campinas (Puccamp) já definiu calendário e lista de livros para o vestibular 95.
 As obras escolhidas são as seguintes: "Senhora", de José de Alencar, "Dom Casmurro", de Machado de Assis, "Laços de Família", de Clarice Lispector, "São Bernardo", de Graciliano Ramos, "Belo Belo", de "Estrela da Vida Inteira", de Manuel Bandeira, "Amar, Verbo Intransitivo", de Mário de Andrade, "Sagarana", de Guimarães Rosa e "Sargento Getúlio", de João Ubaldo Ribeiro.
@@ -2380,9 +2380,9 @@ Os interessados devem adquirir o manual de inscrição na secretaria, à av. Profes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-104</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-104</field>
+<field name="date">940718</field>
+<text_pt>
 Quem acha que música erudita é sonífero, coisa de CDF ou instrumento de tortura tem muito o que aprender. Estudar violino ou canto lírico pode ser tão louco e divertido quanto rock'n'roll. As barreiras entre música erudita e popular estão implodindo em Campos do Jordão, onde cerca de 50% dos 325 bolsistas do Festival de Inverno são adolescentes. A galera estuda sério, mas também faz zona
 GABRIEL BASTOS JUNIOR
 Enviado especial a Campos do Jordão
@@ -2410,9 +2410,9 @@ Em casa, só ouvem música erudita, mas não são fechados. "Me acostumei com rock i
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-105</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-105</field>
+<field name="date">940718</field>
+<text_pt>
 
 América do Norte
 O único país real da América do Norte no tabuleiro é o México. O Alasca (território dos Estados Unidos) aparece como país.
@@ -2442,9 +2442,9 @@ Fontes: "Almanaque Abril 94", "The World Almanac 94", "O Mundo Hoje 93" e profes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-106</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-106</field>
+<field name="date">940718</field>
+<text_pt>
 Branco Mello e Sérgio Britto, do Titãs, montam umpower trio e aprendem a tocar outros instrumentos
 Da Reportagem Local
 Branco Mello e Sérgio Britto, do Titãs, estão com a corda toda. Além de manter suas carreiras no Titãs, os caras montaram uma segunda banda, batizada como Richard Kleiderman.
@@ -2478,9 +2478,9 @@ Roberta - Comigo acontece o contrário. Acho que as coisas estão acontecendo faci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940718-107</text_pt>
-<text_pt name="date">940718</text_pt>
-<text_pt name="text">
+<field name="id">FSP940718-107</field>
+<field name="date">940718</field>
+<text_pt>
 ANDRÉ FORASTIERI
 Especial para a Folha
 Quer medir o nível de sanidade e honestidade da imprensa? Quer saber se fomos todos comprados pelas multinacionais para inventar uma "cena de Recife" do nada?

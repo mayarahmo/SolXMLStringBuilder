@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950821-001</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-001</field>
+<field name="date">950821</field>
+<text_pt>
 Depois de tudo o que já se disse sobre o ``affaire" Banco Econômico, resta avaliar as consequências políticas, em especial no Congresso Nacional, de toda essa crise.
 Por ora, há mais perguntas do que respostas, até porque ainda não se sabe o desfecho do episódio (o Econômico será, afinal, liquidado, estatizado, comprado por algum grupo privado, ou ficará sob administração temporária do BC?).
 Uma única coisa, em todo caso, parece certa: o aparente enfraquecimento do presidente deverá resultar num aumento das pressões dos congressistas para obter vantagens do Executivo, em troca de apoio em futuras votações.
@@ -15,9 +15,9 @@ O episódio, como se vê, ainda está longe de seu desfecho e é tão complexo como u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-002</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-002</field>
+<field name="date">950821</field>
+<text_pt>
 O impressionante crescimento da dívida da União no mês passado demonstra o quão deletérias são as absurdamente altas taxas de juros mantidas pelo Banco Central. O montante de títulos federais em poder do público aumentou em 18,3% de junho para julho. Passou de R$ 69,5 bilhões para R$ 82,2 bilhões em apenas 30 dias.
 Desse incremento de R$ 12,7 bilhões, cerca de R$ 7 bilhões deveram-se à entrada de capitais atraídos pela excepcional rentabilidade das aplicações no Brasil. Também concorreram para esse lastimável resultado outros fatores, como o recurso de bancos ao redesconto.
 A expansão devida ao afluxo de capitais externos tem como contrapartida um aumento das reservas internacionais. Os empréstimos ao redesconto são, em tese, recuperáveis _a menos, é claro, que o governo encampe os prejuízos do Banco Econômico. Ônus líquido e certo mesmo é somente o custo dos juros para os cofres públicos.
@@ -28,9 +28,9 @@ Em junho de 94 o papel-moeda em poder do público somava a R$ 2,29 bilhões. Em de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-003</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-003</field>
+<field name="date">950821</field>
+<text_pt>
 O Brasil é visto, com razão, como exemplo máximo de instabilidade monetária. Mas é importante não ser ingênuo nessa matéria. O percurso recente da economia norte-americana desafia as teorias e as previsões tanto ou mais que a ziguezagueante economia brasileira.
 Os Estados Unidos registraram déficit comercial de US$ 11,3 bilhões no mês de junho, déficit 2,4% superior ao de maio. Mas a moeda desse país, cujas contas de comércio exterior são cronicamente deficitárias, passou, ao mesmo tempo, por uma estonteante valorização nos mercados globais, fortalecendo-se diante do marco e do iene.
 Mas não é apenas a relação exótica entre déficit comercial e valorização cambial que intriga os observadores econômicos. A própria existência de um déficit persistente no comércio desafia as ``leis da gravidade" da economia.
@@ -43,9 +43,9 @@ O dólar continua como a principal referência monetária global. Uma referência só
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-004</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-004</field>
+<field name="date">950821</field>
+<text_pt>
 Marcelo Beraba 
 A semana terminou com três casos insepultos, nenhum satisfatoriamente esclarecido: Banco Econômico, Dallari e Corumbiara.
 Nos três o governo federal se saiu pior do que a encomenda. Nos três, ele errou antes, durante e depois.
@@ -63,9 +63,9 @@ Como o governo demora para apurar o caso, insiste em não ter política para o pro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-005</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-005</field>
+<field name="date">950821</field>
+<text_pt>
 Valdo Cruz 
 É uma pena, mas o grande debate que se esperava do governo Fernando Henrique Cardoso ainda não aconteceu: como resgatar a dívida social brasileira, uma vergonha nacional.
 Pior. O principal assunto do presidente FHC, no momento, é uma outra dívida, a de um banco baiano falido. Uma ``bagatela" de R$ 3 bilhões, dinheiro suficiente para construir nada menos do que 428 mil casas populares.
@@ -80,9 +80,9 @@ O mais desalentador de toda essa história é ver o apetite dos políticos tupiniqu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-006</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-006</field>
+<field name="date">950821</field>
+<text_pt>
 Carlos Heitor Cony 
 Deputados federais do PT deram entrada a uma representação junto à Procuradoria Geral da República, enquadrando o presidente da República, o senador Antônio Carlos Magalhães e dois deputados federais da Bahia. Solicitam a abertura de inquérito criminal para apurar prática do crime de prevaricação e contra o sistema financeiro.
 Evidente que há materialidade para a causa. As provas são contundentes, estão aí, em toda a parte, nos jornais e na TV. Houve vazamento de informações que provocaram, entre outras graves irregularidades, a retirada de R$ 500 milhões do Econômico por parte de seus diretores. O esquema de forças formado pelo PSDB e PFL, que se suspeitava bichado por acordos extravagantes do ponto de vista ideológico, revela-se bichado no trato do dinheiro público, sucedâneo sofisticado e mais voraz do que o esquema armado pelo PC Farias.
@@ -91,9 +91,9 @@ A menos que ocorram fatos novos e relevantes sobre o caso Econômico (já se pode 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-007</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-007</field>
+<field name="date">950821</field>
+<text_pt>
 Márion Strecker 
 Sob o argumento de impulsionar a pintura no Brasil ao dar visibilidade a artistas novos, Fernando Henrique Cardoso tirou uma pintura de Manabu Mabe da qual não gostava de seu gabinete. A partir daí, todo mês um trabalho novo de um artista diferente aparece atrás da mesa do presidente. Um grupo de respeitáveis críticos de arte se reveza nos palpites. Seria uma boa idéia?
 A Folha convidou quatro entre os grandes artistas brasileiros contemporâneos para criarem obras para o mesmo espaço, a partir de uma fotografia do gabinete. O resultado, ácido, irônico, apareceu na edição de ontem.
@@ -111,9 +111,9 @@ Márion Strecker, diretora da Agência Folha e do Banco de Dados da Folha, escreve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-008</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-008</field>
+<field name="date">950821</field>
+<text_pt>
 É preciso uma revisão das políticas monetária e cambial, com redução das taxas de juros reais 
 ALVARO AUGUSTO VIDIGAL 
 A recente medida governamental, que impôs restrições ao ingresso de capitais estrangeiros no país, representa claramente um novo e grave retrocesso na política de abertura da economia brasileira para o exterior.
@@ -138,9 +138,9 @@ ALVARO AUGUSTO VIDIGAL, 48, é presidente da Bovespa (Bolsa de Valores de São Pau
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-009</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-009</field>
+<field name="date">950821</field>
+<text_pt>
 O presidente sacrificou aquilo que deve ser mais caro a um governo: a credibilidade 
 JOSÉ GENOINO 
 Mesmo admitindo a hipótese de que a operação de estadualização do Banco Econômico (se for confirmada) possa viabilizar uma solução pela via da reprivatização a curto prazo, o governo e o presidente FHC saem com a credibilidade arranhada do caso.
@@ -162,9 +162,9 @@ JOSÉ GENOINO, 47, é deputado federal pelo PT de São Paulo. Foi líder do partido 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-010</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-010</field>
+<field name="date">950821</field>
+<text_pt>
 ``Interessantes as colocações de Otavio Frias Filho em `Leitosos e carnosos', artigo publicado em 17/8. Há, de fato, uma distância muito grande entre a teoria e a prática, entre o pensar e o agir. Mas não se trata de nenhuma maneira de um abismo, como Frias Filho sustenta. A esse respeito, podem-se citar os casos de São Luiz, rei da França, Abu Bakr, primeiro califa islâmico, ou do imperador budista Açoka, além de alguns outros _poucos é verdade_ que souberam conciliar pensamento e ação, e que foram bons em ambos os domínios. Não se pode admitir igualmente que quando pensamento e ação se juntam, como Frias Filho escreveu, a consequência é `monstruosa'. Sim, foi monstruosa no caso de um Lênin, mas não no das grandes figuras acima citadas. Ademais, creio que qualquer um com um pouco de informação histórica não pode comparar, em são juízo _afora os preconceitos religiosos_, o fundador do totalitarismo soviético com Maomé, o fundador da civilização islâmica. Esta última, não nos esqueçamos, engendrou maravilhas arquitetônicas como o palácio de Taj Mahal, na Índia, ou a mesquita de Córdoba, na Espanha (hoje catedral católica); maravilhas literárias como os poemas de um Rumi ou de um Attar; maravilhas intelectuais como os escritos de um Averroés, um Avicena, um Ghazali, ou um Ibn Arabi; além de muitos outros exemplos, os quais não cito para não encompridar demasiadamente esta carta. Em suma, não dá para colocar no mesmo saco gente tão infinitamente diversa como o minúsculo Lênin e o gigante Maomé."
 Mateus Soares de Azevedo (São Paulo, SP)
  
@@ -204,9 +204,9 @@ Ivódio Tessaroto (Boituva, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-011</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-011</field>
+<field name="date">950821</field>
+<text_pt>
 Governador baiano ataca em 2 frentes para tentar salvar Econômico
 LUIZ FRANCISCO 
 Da Agência Folha, em Salvador 
@@ -242,18 +242,18 @@ O Estado gasta entre 60% e 65% da arrecadação com a folha de pagamento, 10% de c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-012</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-012</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha, em Salvador 
 O ex-governador da Bahia Waldir Pires (PSDB), 67, disse que Banco Central foi negligente na fiscalização do Econômico. ``Mas isto não significa que o governo federal deva aceitar a truculência e irresponsabilidade de pessoas que não têm compromissos com a Bahia", disse Pires, referindo-se implicitamente ao senador Antônio Carlos Magalhães, seu principal adversário político na Bahia.
 Segundo Waldir Pires, é necessário equilíbrio político para tirar o Econômico da crise.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-013</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-013</field>
+<field name="date">950821</field>
+<text_pt>
 Segundo Gustavo Loyola, credores no exterior não terão privilégios e apenas créditos comerciais serão pagos 
 CARLOS ALBERTO SARDENBERG 
 Da Reportagem Local 
@@ -270,9 +270,9 @@ No mercado internacional, a classificação técnica do Econômico, feita por empres
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-014</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-014</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 Na avaliação do Banco Central, incluídos técnicos e diretores, o Econômico está mais perto do fechamento e há dois culpados por essa situação: Angelo Calmon de Sá, o dono do banco, e o senador Antônio Carlos Magalhães (PFL-BA).
 Calmon de Sá, para o BC, foi o responsável direto pelo malogro das negociações que visavam transferir o controle acionário do Econômico a outros sócios, quando o banco ainda estava operando.
@@ -286,9 +286,9 @@ E pelo artigo sétimo da lei, o BC só pode levantar a intervenção se os proprietá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-015</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-015</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha, em Salvador 
 O Sindicato dos Bancários da Bahia, filiado à CUT (Central Única dos Trabalhadores), planeja entrar na Justiça com uma ação popular contra os donos do Banco Econômico. A idéia é responsabilizar os acionistas pelos prejuízos que causaram aos clientes, empregados e à população.
 Os sindicalistas estudam uma brecha jurídica que permita acionar o Banco Central por sua hesitação em intervir no Econômico.
@@ -299,9 +299,9 @@ O departamento jurídico do sindicato define nesta semana as modalidades de ação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-016</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-016</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 O BC (Banco Central) reabre as negociações sobre o Banespa nesta semana, com um objetivo determinado: o banco paulista só sai da intervenção uma vez privatizado.
 O advogado Ary Oswaldo de Mattos Filho, que vinha assessorando o BC e o governo paulista, já foi novamente acionado. A pedido do BC, ele deve redifinir o modelo de privatização de modo a garantir que o controle do Banespa fique claramente nas mãos dos sócios privados.
@@ -320,9 +320,9 @@ Assim, os dois lados têm armas nessa negociação. E precisam chegar a um acordo j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-017</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-017</field>
+<field name="date">950821</field>
+<text_pt>
 Malan vai à Bienal e janta com colegas 
 Da Sucursal do Rio 
 O ministro da Fazenda, Pedro Malan, teve um final de semana de folga no Rio. Visitou a Bienal do Livro com a família, jantou com ex-colegas de escola e não falou de economia.
@@ -334,9 +334,9 @@ A editora de Catarina Malan teve quatro livros infantis indicados como altamente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-018</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-018</field>
+<field name="date">950821</field>
+<text_pt>
 Integrante da 'Hora da Verdade' levanta suspeita sobre doação de empreiteira ao novo presidente do partido
 CARLOS EDUARDO ALVES
 Enviado especial a Guarapari
@@ -360,9 +360,9 @@ A ex-prefeita paulistana Luiza Erundina será convidada pela ``Democracia Radical
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-019</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-019</field>
+<field name="date">950821</field>
+<text_pt>
 
 GANHAM
 JOSÉ DIRCEU
@@ -395,9 +395,9 @@ Embora tenha se tornado próximo de Lula, perdeu sua base de apoio e o poder no p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-020</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-020</field>
+<field name="date">950821</field>
+<text_pt>
 Da Sucursal de Brasília
 A equipe do governo federal responsável por elaborar a emenda para reforma tributária ainda não conseguiu chegar a uma definição sobre a formação do fundo que vai compensar os Estados pelas perdas de arrecadação a serem provocadas pela mudança nos impostos.
 Por esse motivo, a proposta do Palácio do Planalto, que seria enviada hoje ao Congresso, só deve chegar ao Legislativo na próxima quinta-feira.
@@ -411,9 +411,9 @@ Apesar de ter convocado a imprensa para um assunto específico, o presidente deve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-021</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-021</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha, em João Pessoa
 O Colégio Permanente de Presidentes dos Tribunais de Justiça do Brasil decidiu anteontem, em sessão extraordinária em João Pessoa (PB), rejeitar qualquer proposta de controle externo do Judiciário.
 Compareceram à reunião os presidentes dos Tribunais de Justiça de todo o país.
@@ -428,9 +428,9 @@ Em outro trecho, a carta diz ser ``evidente que se impõe rejeitar toda espécie d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-022</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-022</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local
 O embate entre globalização e regionalização das comunicações será o tema de congresso que vai reunir, no começo do próximo mês, pesquisadores brasileiros e franceses em Aracaju (SE).
 ``Se, de um lado, o processo de globalização avança de forma assustadora por meio de novas tecnologias, de outro, a regionalização da mídia também se articula", diz Adolpho Queiroz, presidente da organização do simpósio.
@@ -444,9 +444,9 @@ Para mais informações e inscrições, ligue para (011) 818-4088 ou (079) 241-2848 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-023</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-023</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha, em Florianópolis
 O presidente nacional do PFL, Jorge Bornhausen, defendeu ontem, em Florianópolis (SC), uma negociação entre banqueiros e o governo que possa salvar o Banco Econômico.
 ``Há condições de negociação entre os grandes bancos, que poderiam assumir (o Econômico) ou ajudar. É questão de negociar. Há necessidade de se retirar qualquer possibilidade de abalo no sistema financeiro porque isso seria a liquidação do Plano Real", afirmou Bornhausen.
@@ -455,9 +455,9 @@ Bornhausen disse que não participou da reunião com banqueiros na última sexta-fe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-024</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-024</field>
+<field name="date">950821</field>
+<text_pt>
 Integrante da 'Hora da Verdade' levanta suspeita sobre doação de empreiteira ao novo presidente do partido
 CARLOS EDUARDO ALVES
 Enviado especial a Guarapari
@@ -487,9 +487,9 @@ Os vices de Dirceu devem ser Aloizio Mercadante, Arlindo Chinaglia e José Genoin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-025</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-025</field>
+<field name="date">950821</field>
+<text_pt>
 Da Sucursal de Brasília
 A equipe do governo federal responsável por elaborar a emenda para reforma tributária ainda não conseguiu chegar a uma definição sobre a formação do fundo que vai compensar os Estados pelas perdas de arrecadação a serem provocadas pela mudança nos impostos.
 Por esse motivo, a proposta do Palácio do Planalto, que seria enviada hoje ao Congresso, só deve chegar ao Legislativo, no máximo, até a próxima quinta-feira.
@@ -505,30 +505,30 @@ Hoje, FHC concede no Palácio do Planalto sua terceira entrevista coletiva à impr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-026</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-026</field>
+<field name="date">950821</field>
+<text_pt>
 O Prêmio Nobel de Literatura de 1994, o japonês Kenzaburo Oe, decidiu cancelar sua participação num festival de literatura japonesa, em outubro, na França, em protesto contra os testes nucleares que o país pretende realizar. O escritor disse que sempre criticou armas nucleares e, portanto, não poderia fazer parte de um evento organizado pelo país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-027</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-027</field>
+<field name="date">950821</field>
+<text_pt>
 A rainha Elizabeth 2ª, do Reino Unido, liderou ontem em Londres a comemoração dos 50 anos do fim da Segunda Guerra Mundial no oceano Pacífico. Ela fez homenagem a milhões pessoas que morreram na guerra. As comemorações da vitória sobre o Japão se iniciaram anteontem, quando 10 mil veteranos da guerra no Pacífico fizeram marcha pela cidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-028</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-028</field>
+<field name="date">950821</field>
+<text_pt>
 O líder dos separatistas tchetchenos, Djokhar Dudaiev, comprometeu-se a cumprir o acordo de paz com os russos que determina a entrega de suas armas. Dudaiev anunciou a medida depois de reunião com o comandante de suas tropas, Aslan Mashkhadov. Rebeldes separatistas já entregaram aos russos mais de cem armas e 48 minas explosivas desde quarta-feira.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-029</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-029</field>
+<field name="date">950821</field>
+<text_pt>
 Os pré-candidatos à Presidência dos EUA Robert Dole e Phil Gramm empataram na primeira prévia do Partido Republicano, realizada anteontem no Estado de Iowa. Os senadores Dole (Kansas) e Gramm (Texas) conseguiram, cada um, 24% dos votos. O resultado foi considerado uma derrota de Dole.
 
 A FRASE
@@ -552,9 +552,9 @@ O compositor francês Pierre Schaeffer, considerado o inventor da música concreta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-030</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-030</field>
+<field name="date">950821</field>
+<text_pt>
 Das agências internacionais
 Os corpos dos três diplomatas norte-americanos mortos anteontem em um acidente na Bósnia devem chegar hoje a Washington.
 O veículo blindado em que viajavam caiu em um barranco de 400 metros na estrada do monte Igman, provocando uma explosão.
@@ -578,9 +578,9 @@ Grupos de música pop britânicos anunciaram que vão gravar em 1º de setembro um d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-031</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-031</field>
+<field name="date">950821</field>
+<text_pt>
 Leia a seguir alguns destaques da imprensa internacional:
 
 KWTV
@@ -591,16 +591,16 @@ Barzan Ibrahim al-Takriti, irmão do presidente do Iraque, Saddam Hussein, e emba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-032</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-032</field>
+<field name="date">950821</field>
+<text_pt>
 O trem que leva 150 mulheres para a Conferência da Mulher da ONU passou ontem por Berlim, Alemanha, em mais escala da viagem de 10 mil quilômetros entre Paris e Pequim. Elas vão participar do fórum de organizações não-governamentais da reunião, que começa no dia 30 de agosto. A abertura oficial da conferência será em 4 de setembro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-033</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-033</field>
+<field name="date">950821</field>
+<text_pt>
 Os pré-candidatos à Presidência dos EUA Robert Dole e Phil Gramm empataram na primeira prévia do Partido Republicano, realizada anteontem no Estado de Iowa. Os senadores Dole (Kansas) e Gramm (Texas) conseguiram, cada um, 24% dos votos. O resultado foi considerado uma derrota de Dole.
 
 A FRASE
@@ -627,9 +627,9 @@ O compositor francês Pierre Schaeffer, considerado o inventor da música concreta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-034</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-034</field>
+<field name="date">950821</field>
+<text_pt>
 A DuPont vai investir mais de US$ 40 milhões na ampliação e inovação tecnológica de suas fábricas argentinas. O objetivo é elevar em 30% a produção de nylon e a participação no fornecimento de artefatos para as montadoras brasileiras. Nos últimos seis anos, a empresa desembolsou US$ 55 milhões em investimentos nas duas unidades que mantêm no país.
 
 Rhodia inaugura nova unidade química
@@ -640,9 +640,9 @@ A Coopers &amp; Lybrand International lidera, pelo quinto ano consecutivo, o ran
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-035</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-035</field>
+<field name="date">950821</field>
+<text_pt>
 Maiores 'festas no interior' reúnem 5 milhões de pessoas e mudam o perfil das cidades
 BRUNO BLECHER
 Editor do Agrofolha
@@ -664,9 +664,9 @@ Depois de Barretos, a próxima atração em São Paulo será a Expoflora. Em Holambra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-036</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-036</field>
+<field name="date">950821</field>
+<text_pt>
 JOÃO SAYAD
 Hoje é um bom dia para especular _no bom sentido. No sentido de pensar livremente e tentar entender o caso do Banco Econômico. É uma excelente oportunidade para pensar sobre os liberais, na definição brasileira, sobre Antônio Carlos Magalhães, senador eminente da querida Bahia, sobre os liberais que estão em quase todos os partidos brasileiros, do PPR até o PSDB, passando, é claro, pelo PFL, mas que existem até no PT.
 Todos são liberais no sentido de acreditarem que o mercado e a livre concorrência são a melhor solução para um série de problemas da sociedade brasileira: a recuperação do crescimento econômico, o aumento da produtividade da economia brasileira, o progresso e a construção, aqui no Brasil, de uma sociedade próspera, criativa e mais justa. Homens de bem e bem intencionados.
@@ -692,9 +692,9 @@ JOÃO SAYAD, 49, economista e ex-ministro do Planejamento (governo Sarney), escre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-037</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-037</field>
+<field name="date">950821</field>
+<text_pt>
 OCTAVIO BUENO MAGANO
 O mundo atual, em virtude da rapidez dos meios de comunicação, converteu-se numa ``global village". A atividade econômica e financeira, por isso mesmo, direciona-se cada vez mais, no sentido de ganhar projeção internacional, o que significa, a seu turno, a necessidade de enfrentar concorrência dia-a-dia mais acirrada.
 Para não ficar marginalizado, é indispensável que o país seja capaz de aumentar a sua produtividade, o que se traduz em produção maior e mais esmerada, sem aumento antes com redução de preços.
@@ -712,9 +712,9 @@ OCTAVIO BUENO MAGANO, 67, é professor titular de direito do trabalho da Faculdad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-038</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-038</field>
+<field name="date">950821</field>
+<text_pt>
 A coluna recebeu a seguinte correspondência da Associação dos Funcionários do IPEA (Instituto de Pesquisa Econômica Aplicada), assinada por seu presidente Bolívar Pêgo Filho _a propósito das críticas a declarações do Diretor de Pesquisa do Rio de Janeiro, Cláudio Considera, que a coluna considerou manifestações explícitas de oficialismo:
 ``A política editorial e as opiniões dos diretores de plantão, que estão no centro da indignação do seu artigo, não podem ser confundidos com o trabalho do corpo técnico permanente de servidores públicos da Instituição, aqui legitimamente representados pela sua Associação."
 ``O `Boletim Conjuntural do IPEA' sofreu, de fato, uma intervenção editorial por iniciativa do Governo, vedando a que se comentasse livremente aspectos críticos da política econômica, principalmente no que tange aos desequilíbrios do setor externo. A atual Diretoria do IPEA aceitou tal procedimento, mas certamente não está obrigada a justificá-lo."
@@ -732,9 +732,9 @@ Se o problema é o sr. Considera, não o IPEA, sugere-se que em seus próximos arti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-039</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-039</field>
+<field name="date">950821</field>
+<text_pt>
 Para Tuerks, país possui três vantagens comparativas
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -753,9 +753,9 @@ Segundo Tuerks, a credibilidade do Brasil está crescendo junto aos investidores 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-040</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-040</field>
+<field name="date">950821</field>
+<text_pt>
 Xerox reduz de seis anos para 12 meses prazo de lançamento de produtos
 NELSON BLECHER
 Da Reportagem Local
@@ -783,9 +783,9 @@ Barron - Com o ciclo de lançamentos encurtado, o percentual de novos produtos so
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-041</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-041</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local
 O melhor termômetro de avaliação para uma agência continua sendo o consumidor. A opinião é do publicitário Celso Loducca, 37, que, na quarta-feira da semana passada, foi o palestrante do ciclo ``Arena do Marketing", promovido pela Folha.
 ``Toda vez que se tenta mentir, vender um sonho e dar uma imagem que o produto não tem, o consumidor não aceita e a campanha vai para o espaço", afirmou.
@@ -796,9 +796,9 @@ As palestras do ciclo ``Arena do Marketing" acontecem quinzenalmente, às 19h30, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-042</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-042</field>
+<field name="date">950821</field>
+<text_pt>
 SYDNEY MANZIONE Jr.
 Especial para a Folha
 Durante anos o brasileiro se viu impossibilitado de consumir produtos importados, em razão da política de proteção à indústria nacional.
@@ -822,9 +822,9 @@ SYDNEY MANZIONE JR. é gerente de atendimento.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-043</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-043</field>
+<field name="date">950821</field>
+<text_pt>
 HELCIO EMERICH
 Os produtos ``high-tech" estão finalmente cruzando a fronteira entre os laboratórios e a mesa do consumidor. Ao aplicar nos alimentos os conhecimentos da engenharia genética (que envolve técnicas como a radiação), seus fabricantes alegam _como se estivessem se desculpando_ que estão apenas usando a tecnologia para acrescentar ``novos valores" a produtos que permaneceram séculos sem qualquer evolução no sabor ou na aparência.
 Apelidados nos EUA de ``Frankenfood" (comida Frankenstein), essa nova geração de gêneros alimentícios começa a travar uma batalha pela conquista dos corações, mentes e estômagos dos norte-americanos, ainda desconfiados de que uma alface que não murcha ou um repolho que nunca azeda não podem ser boa coisa.
@@ -839,9 +839,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-044</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-044</field>
+<field name="date">950821</field>
+<text_pt>
 ALEX PERISCINOTO
 O que as pessoas pensam quando não estão pensando em sexo? Existiriam coisas na vida mais estimulantes? Segundo anúncio veiculado na ``Penthouse", revista norte-americana dirigida ao público masculino, as pessoas ficam excitadas com muitas coisas, e que, ao contrário do que muita gente pensa, elas não passam o tempo todo pensando só naquilo.
 E tal estímulo vem desde pássaros e abelhas, até carros, roupas, computadores, viagens, cinema e música. É o que revela, inclusive, um levantamento feito para saber quem mais anuncia na revista "Playboy".
@@ -858,9 +858,9 @@ ALEX PERISCINOTO é presidente da agência Almap/BBDO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-045</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-045</field>
+<field name="date">950821</field>
+<text_pt>
 Setor evoluiria mais se houvesse melhor distribuição de renda no país, diz presidente da federação das seguradoras
 RODNEY VERGILI
 Da Redação
@@ -887,9 +887,9 @@ Só no ano passado, 358.289 empregados se acidentaram durante o serviço, sendo qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-046</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-046</field>
+<field name="date">950821</field>
+<text_pt>
 Variação % acumulada no mês
 
 POUPANÇA
@@ -921,9 +921,9 @@ As taxas dos CDBs prefixados para 31 dias variaram entre 27% e 46,70% ao ano. As
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-047</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-047</field>
+<field name="date">950821</field>
+<text_pt>
 Prefeitura desapropria área para instalar incinerador sem aprovação de conselhos ambientais
 VICTOR AGOSTINHO
 Da Reportagem Local
@@ -940,9 +940,9 @@ Roberto Gava, 65, proprietário da fábrica, reclama da desapropriação e do valor 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-048</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-048</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 Paulo Machado, diretor do Departamento de Limpeza Urbana, confirma que a prefeitura desapropriou o terreno sem avaliar o impacto ambiental do incinerador.
 Segundo Machado, os estudos de impacto ambiental só vão ser realizados após a concessão da exploração para a iniciativa privada.
@@ -955,9 +955,9 @@ Para Pinheiro Pedro, da OAB, todas as alternativas precisam ser estudadas antes 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-049</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-049</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 Relatório do EPA (Envirommental Protection Agency, agência norte-americana responsável pela proteção do meio ambiente), divulgado no ano passado, constatou que os gases que saem dos incineradores causam câncer.
 Segundo o relatório, ``está comprovada a ligação entre dioxinas e câncer". Dioxinas são elementos tóxicos que se formam quando há incineração de produtos químicos, principalmente os que têm cloro.
@@ -970,9 +970,9 @@ Dois desses incineradores já foram licitados: o de Santo Amaro (zona sul) e o de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-050</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-050</field>
+<field name="date">950821</field>
+<text_pt>
 Da Folha Vale 
 A Marinha vai realizar um exercício de tiros em Alcatrazes (litoral norte de SP) no dia 1º de setembro. A informação foi dada à Folha pelo diretor do serviço de Relações Públicas da Marinha, Welington Liberatt. Não foi confirmado se haverá a realização de manobras no arquipélago amanhã e nos dias 25 e 29 deste mês.
 O Mopress (Movimento de Preservação de São Sebastião _cidade no litoral norte paulista) e a Associação em Defesa da Juréia querem impedir que a Marinha faça em Alcatrazes os exercícios de tiro, que são realizados desde 82.
@@ -984,9 +984,9 @@ Segundo ele, a divulgação dos exercícios pode prejudicar a Marinha na decisão do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-051</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-051</field>
+<field name="date">950821</field>
+<text_pt>
 DANIELA PINHEIRO 
 Da Sucursal de Brasília 
 Uma área verde de mais de 850 mil km², cobrindo São Paulo, Santa Catarina e Paraná, pode ficar até um ano sem regras que regulamentem sua exploração, se o projeto de lei elaborado pelo governo sobre a Mata Atlântica for aprovado pelo Congresso.
@@ -997,9 +997,9 @@ Para o Ibama, o mapa é claro. Na opinião dos ecologistas, é confuso. Segundo o I
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-052</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-052</field>
+<field name="date">950821</field>
+<text_pt>
 O bailarino espanhol Antonio Gades (foto) adiou para 16 e 17 de setembro suas apresentações em Buenos Aires, Argentina, por causa de uma cirurgia de vesícula, realizada em Cuba. Gades deveria apresentar sua coreografia flamenca de ``Fuenteovejuna" a partir de 30 de agosto no teatro Colon. Segundo seus produtores, o bailarino está se recuperando bem. Gades deveria apresentar-se no Brasil entre 11 de setembro e 8 de outubro.
 
 Acusado de tráfico é preso no litoral de SP 
@@ -1027,9 +1027,9 @@ R$ 363.280,5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-053</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-053</field>
+<field name="date">950821</field>
+<text_pt>
 Bichos de estimação mais comuns são macacos e aves; lei proíbe cativeiro 
 ANDRÉ MUGGIATI 
 Da Agência Folha, em Manaus 
@@ -1046,9 +1046,9 @@ Os animais recolhidos são enviados para um centro onde reaprendem a sobreviver n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-054</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-054</field>
+<field name="date">950821</field>
+<text_pt>
 MYRIAN VIOLETA 
 Da Agência Folha, em Campo Grande 
 A Polícia Federal está investigando a entrada clandestina de armas no Brasil pela fronteira com o Paraguai.
@@ -1065,9 +1065,9 @@ Na semana passada, os policiais apreenderam mais de 5.000 cartuchos de balas de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-055</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-055</field>
+<field name="date">950821</field>
+<text_pt>
 JOSUÉ MACHADO 
 Quando o rei Carl 16 Gustaf e a rainha Sílvia, da Suécia, vieram ao Brasil, em 1984, visitaram o Congresso e foram saudados pelo senador Roberto Campos e pelo deputado Israel Dias-Novaes. O senador dirigiu-se ao rei chamando-o de ``Sua Majestade" e o deputado o chamou de ``Vossa Majestade".
 O ex-deputado manda cópia impressa dos discursos de ambos e escreve:
@@ -1093,9 +1093,9 @@ JOSUÉ R.S. MACHADO é jornalista, formado em línguas neolatinas pela PUC-SP. Cola
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-056</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-056</field>
+<field name="date">950821</field>
+<text_pt>
 JOSÉ RODRIGUES FILHO 
 A crise do setor de saúde vem sendo bastante noticiada pela imprensa nacional nos últimos dias. Isso acontece em um momento de crise financeira do setor que atinge acentuadamente os interesses dos proprietários de hospitais.
 Acontece, porém, que a crise não é apenas de ordem financeira, mas sobretudo de ordem política e organizacional. Contudo, a mídia nem sempre aborda com a mesma intensidade os graves problemas de ordem política e organizacional do setor de saúde, que desde há muitos anos afetam a população brasileira.
@@ -1112,9 +1112,9 @@ JOSÉ RODRIGUES FILHO, 47, pós-doutorando em economia da saúde pela Universidade 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-057</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-057</field>
+<field name="date">950821</field>
+<text_pt>
 Ministro da Saúde estima que 17 milhões de crianças tenham sido vacinadas; próxima etapa será em 21 de outubro
 Da Reportagem Local 
 O ministro da Saúde, Adib Jatene, considera que o governo conseguiu cumprir a meta de vacinar 17,4 milhões de crianças contra a poliomielite no último sábado, durante a a primeira etapa da Campanha Nacional de Multivacinação.
@@ -1129,9 +1129,9 @@ Em São Paulo, entre as meningites notificadas de 84 a 93, em média 8,5% dos caso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-058</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-058</field>
+<field name="date">950821</field>
+<text_pt>
 Da Folha Nordeste 
 Caubóis australianos, norte-americanos e brasileiros disputam a partir de quinta-feira R$ 200 mil no 3º Barretos International Rodeo. É um dos principais eventos da 40ª Festa do Peão de Boiadeiro de Barretos (438 km a noroeste de SP), que termina domingo.
 A arena do Estádio do Peão, com capacidade para 35 mil pessoas, será tomada por 14 caubóis estrangeiros e 72 peões brasileiros nas modalidades touro e cavalo.
@@ -1140,9 +1140,9 @@ Organizadores das festas de Barretos, Jaguariúna, Presidente Prudente e Goiânia 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-059</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-059</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha, em Manaus 
 Um choque entre dois barcos, às 19h de anteontem, no rio Negro, em Manaus (AM), deixou pelo menos 6 mortos e 13 feridos. Não se sabe o número de desaparecidos.
 Os barcos ``Relâmpago" e ``A Jato 4" faziam a travessia entre Manaus e Cacau Pirera. Segundo sobreviventes, o ``Relâmpago" fez uma curva para desviar de um igapó (mata que cresce na água) e chocou-se com o ``A Jato 4", que havia saído do vilarejo.
@@ -1151,9 +1151,9 @@ Apenas o corpo de Rosa Maria dos Santos Carneiro foi identificado. A Capitania d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-060</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-060</field>
+<field name="date">950821</field>
+<text_pt>
 Da Equipe de Articulistas 
 A resenha compreende quatro livros, cujos temas vão desde a ética do advogado até modelos previdenciários, trazendo de permeio uma obra para os profissionais (``Código Civil Anotado") e outra, de interesse crescente na realidade constitucional brasileira, sobre a retroatividade da lei, destacada em monografia de José Eduardo Martins Cardoso, aproveitando dissertação com a qual obteve o título de mestre em direito na PUC (Pontifícia Universidade Católica) de São Paulo.
 
@@ -1175,9 +1175,9 @@ O rigor científico da exposição não prejudicou a clareza nem o equilíbrio da dis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-061</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-061</field>
+<field name="date">950821</field>
+<text_pt>
 Da FT e da Reportagem Local 
 A Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) deve interromper o rodízio de abastecimento de água na zona leste de São Paulo se a temperatura continuar baixa na capital.
 A informação é do superintendente técnico da Sabesp, Paulo Massato. ``Se notarmos que a temperatura caiu e o consumo de água diminuiu, vamos abrir os registros e normalizar o fornecimento do setor que participa do rodízio do dia", disse.
@@ -1190,9 +1190,9 @@ Hoje o dia na capital deve permanecer nublado, segundo o Instituto Nacional de M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-062</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-062</field>
+<field name="date">950821</field>
+<text_pt>
 DANIELA FERNANDES 
 Especial para a Folha 
 Cerca de 4.000 pessoas recorreram ao Procon (Coordenadoria de Proteção e Defesa do Consumidor), só em julho passado, para esclarecer dúvidas sobre o pagamento do resíduo nos contratos de compra de imóveis. Resíduo é a soma da variação mensal da inflação após um ano de contrato.
@@ -1208,9 +1208,9 @@ Walter Lafemina, 48, presidente em exercício do Secovi (Sindicato da Habitação),
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-063</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-063</field>
+<field name="date">950821</field>
+<text_pt>
 Especial para a Folha 
 O Procon divulgará mensalmente, a partir deste mês, um levantamento das taxas de juros praticadas por dez bancos de São Paulo, para que o consumidor possa avaliar quais cobram os menores juros.
 As taxas médias cobradas em agosto (de acordo com a pesquisa feita no último dia 4) para empréstimo pessoal são de 9,28%; para crédito direto ao consumidor, de 9,4%; para cheque especial, de 13,3%.
@@ -1225,9 +1225,9 @@ Bamerindus, Banco do Brasil, Banespa, Bradesco, Caixa Econômica Federal, Itaú, N
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-064</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-064</field>
+<field name="date">950821</field>
+<text_pt>
 Da Redação 
 O jornalista Denerval Ferraro Junior mora no bairro de Casa Verde (zona norte) e diz que a rua Xiró, onde reside, está há cinco dias sem água.
 Ele afirma que as ruas vizinhas recebem água normalmente. Ao ligar para o telefone 195, ele diz que obteve informações desencontradas. ``Uma atendente informou que o problema era de registro, outra disse que o caso era com o reservatório. Não sei o que fazer."
@@ -1239,9 +1239,9 @@ Para amenizar o problema, a assessoria diz que a Sabesp tem feito ``manobras ope
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-065</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-065</field>
+<field name="date">950821</field>
+<text_pt>
 Da Redação 
 Claudia Ribeiro Barreto diz que frequentou a clínica de emagrecimento Spaço, no bairro de Santana (zona norte), durante um mês para um tratamento de um ano. Ela reclama da clínica estar cobrando metade do valor do tratamento.
 O tratamento custa R$ 500 e Claudia pagou com quatro cheques de R$ 150. Ela diz que o tratamento não surtiu efeito e ela acabou desistindo depois do primeiro mês.
@@ -1252,9 +1252,9 @@ Claudia diz que a clínica não quer devolver os outros três cheques, alegando que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-066</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-066</field>
+<field name="date">950821</field>
+<text_pt>
 Prefeitura projeta instalação de incinerador de lixo vizinho a uma área de proteção ambiental 
 Fotos 
 VICTOR AGOSTINHO 
@@ -1276,9 +1276,9 @@ Sobre incineradores de lixo à pág. 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-067</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-067</field>
+<field name="date">950821</field>
+<text_pt>
 O bailarino espanhol Antonio Gades (foto) adiou para 16 e 17 de setembro suas apresentações em Buenos Aires, Argentina, por causa de uma cirurgia de vesícula, realizada em Cuba. Gades deveria se apresentar a partir de 30 de agosto no teatro Colon. Segundo os produtores, Gades está se recuperando bem. Ele deveria se apresentar no Brasil em setembro.
 
 Acusado de tráfico é preso no litoral de SP 
@@ -1315,9 +1315,9 @@ R$ 45,39 para cada um dos 10.672 ganhadores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-068</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-068</field>
+<field name="date">950821</field>
+<text_pt>
 Segundo CET, média de congestionamento em junho foi de 10,7 km; Pinheiros é 2ª colocada
 Da Reportagem Local
 A marginal Tietê apresenta as maiores médias de congestionamentos nos dias úteis entre as principais vias de São Paulo.
@@ -1332,9 +1332,9 @@ O corredor formado pelas avenidas 23 de Maio, Rubem Berta e Moreira Guimarães _q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-069</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-069</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 A Cetesb começa hoje a ``Operação Caça-Fumaça", que vai multar ônibus e caminhões que estiverem emitindo fumaça preta acima dos níveis permitidos na região metropolitana de São Paulo.
 Esta é a terceira vez que a operação é realizada em 95. Até agora, a Cetesb (Companhia de Tecnologia de Saneamento Ambiental) já aplicou 4.989 multas por excesso de emissão de fumaça.
@@ -1348,9 +1348,9 @@ Segundo os técnicos da Cetesb, os motores movidos a diesel, quando desregulados,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-070</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-070</field>
+<field name="date">950821</field>
+<text_pt>
 Motorista perde controle ao desviar de Fusca e veículo tomba; 14 pessoas foram internadas em estado grave 
 Da Reportagem Local e da FT 
 Uma pessoa morreu e 41 ficaram feridas ontem à tarde após o tombamento de um ônibus da viação Bola Branca na avenida Paulo Guilguer Remberg, no Jardim Campinas (zona sul de SP).
@@ -1363,9 +1363,9 @@ A CET (Companhia de Engenharia de Tráfego) interditou o trânsito na avenida no t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-071</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-071</field>
+<field name="date">950821</field>
+<text_pt>
 Na raiz da violência crônica dos campos de futebol, fervilha o ódio à miséria expressada na estética da periferia 
 ALBERTO HELENA JR. 
 Da equipe de articulistas 
@@ -1386,9 +1386,9 @@ Alberto Helena Jr. escreve aos domingos, segundas e quartas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-072</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-072</field>
+<field name="date">950821</field>
+<text_pt>
 Não é simpático nem politicamente correto, mas jogos de futebol com portões abertos, sem cobrança de ingressos, deveriam ser proibidos. 
 Mais: quanto mais caro for cobrado o ingresso, menos violência teremos nas praças esportivas.
 Quer dizer que os pobres são os responsáveis pela barbárie? Não basta a marginalização que lhes é imposta pelo injusto modelo de concentração de renda vigente no país? Até o futebol, paixão da massa, deve ser inacessível a eles? Sim e não, no momento mais sim que não, infelizmente.
@@ -1404,9 +1404,9 @@ Basta!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-073</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-073</field>
+<field name="date">950821</field>
+<text_pt>
 Não se esquece como jogar futebol 
 MARCELO FROMER e NANDO REIS
 Especial para a Folha 
@@ -1428,18 +1428,18 @@ Marcelo Fromer e Nando Reis são músicos da banda Titãs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-074</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-074</field>
+<field name="date">950821</field>
+<text_pt>
 Das agências internacionais 
 O austríaco Gerhard Berger disse ontem que ``não será amigo, nem inimigo de Michael Schumacher". Ambos podem correr na Ferrari em 96. ``Acho raro que o suposto melhor piloto acredite sempre que terá o melhor carro e o pior companheiro de equipe."
 Com ironia, Berger disse que o alemão trará o japonês Satoru Nakajima de volta à F-1, para que ``não haja rivalidade na equipe".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-075</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-075</field>
+<field name="date">950821</field>
+<text_pt>
 CIDA SANTOS 
 Na decisão do título, não deu: a Itália acabou vencendo o Brasil e sendo campeã da USA Cup. Mesmo assim, o time brasileiro conseguiu muito mais do que eu, você e nós dois esperávamos.
 Sem Tande, Maurício, Giovane, Paulão e Gílson, chegou invicto à final: venceu uma vez os Estados Unidos e outra vez a Itália, que estava em Atlanta com Zorzi, Bernardi e todas as suas feras.
@@ -1456,9 +1456,9 @@ Em tempos em que as jogadas são todas marcadas e os adversários estudados à exau
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-076</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-076</field>
+<field name="date">950821</field>
+<text_pt>
 Depois do título pan-americano, a Argentina se prepara para outra façanha: tentar vencer pela primeira vez o Brasil em um Sul-Americano. Na última semana, os argentinos fizeram uma série de seis amistosos, na Argentina, contra os cubanos e acabaram com saldo negativo: tiveram duas vitórias e quatro derrotas. Agora, as duas seleções voltam a jogar, em Cuba.
  
 A situação está complicada para os cartolas argentinos. Os dirigentes das duas entidades que lutam pelo poder no país _a Associação e a Confederação de Vôlei_ não chegaram a um acordo. E o prazo dado pela FIVB (Federação Internacional de Vôlei) foi encerrado terça-feira. A Argentina corre o risco de ter sua filiação cancelada e não disputar torneios oficiais.
@@ -1469,9 +1469,9 @@ O time do Report iniciou um projeto inédito para massificar o vôlei em Suzano: e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-077</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-077</field>
+<field name="date">950821</field>
+<text_pt>
 EDUARDO SUPLICY 
 Especial para a Folha 
 Mike Tyson começou a vencer antes da luta.
@@ -1491,16 +1491,16 @@ Eduardo Matarazzo Suplicy, 54, senador (PT-SP), foi pugilista
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-078</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-078</field>
+<field name="date">950821</field>
+<text_pt>
 Com a vitória de domingo na etapa do Mundial de Surfe, em Lacanau (França), o brasileiro Victor Ribas passou a ser o nº 6 do ranking internacional e não o 13º, como diz texto à pág. 4-8 (Esportes) de 21/8. Na mesma página, em alguns exemplares, a foto do jogador de basquete Oscar saiu com crédito errado. A foto é de Rogério Assis.ERRAMOS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-079</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-079</field>
+<field name="date">950821</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 A sexta edição do Festival Internacional de Curtas-Metragens de São Paulo, que começa na próxima quinta-feira, vai exibir até 3 de setembro a cifra recorde de 289 filmes de 39 países.
@@ -1525,9 +1525,9 @@ Serão ao todo 92 sessões, com 8.550 minutos de projeção e entrada sempre franca.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-080</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-080</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local
 Não vai dar nem tempo de esfriar o projetor. O Festival Internacional de Curtas acaba no dia 3 e no dia seguinte começa a edição paulistana da 7ª Mostra Banco Nacional de Cinema (no Rio, o evento abre em 31 de agosto).
 No embalo comemorativo, a mostra traz como principais atrações os filmes produzidos para a série ``The Century of Cinema", do British Film Institute.
@@ -1545,9 +1545,9 @@ A versão paulista, mais reduzida, ocupará as cinco salas do Espaço Banco Naciona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-081</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-081</field>
+<field name="date">950821</field>
+<text_pt>
 Ives Gandra Martins, Roberto Muylaert, Jorge da Cunha Lima e Olivier Perroy são alguns dos nomes cinco estrelas que participam de seminário realizado pela Associação das Empresas Distribuidoras de Valores sobre incentivos fiscais amanhã no auditório da Bovespa.
 
 É na galeria Skultura que Kenji Fukuda mostra 15 esculturas, a partir de amanhã.
@@ -1564,9 +1564,9 @@ De volta ao Brasil _direto para a cozinha do hotel Meliá_, o chef suíço Dominiqu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-082</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-082</field>
+<field name="date">950821</field>
+<text_pt>
 Da Redação
 A Folha e a PUC-SP distribuem a partir de amanhã convites para o próximo encontro da série ``Diálogos Impertinentes", que acontece no dia 29, às 20h, no Teatro de Arena do Tuca.
 Os convites estarão disponíveis na portaria do jornal (alam. Barão de Limeira, 425) e na bilheteria do Tuca (r. Monte Alegre, 1.024, Perdizes).
@@ -1574,9 +1574,9 @@ A série, promovida pela Folha e pela Pontifícia Universidade Católica de São Pau
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-083</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-083</field>
+<field name="date">950821</field>
+<text_pt>
 Emissoras como MTV e NBC organizam blocos e programação apostando na impaciência do telespectador
 ESTHER HAMBURGER
 Especial para a Folha
@@ -1593,9 +1593,9 @@ A GNT é generosa. Mas filmes e documentários não escapam ao zapping. O controle 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-084</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-084</field>
+<field name="date">950821</field>
+<text_pt>
 Da Redação
 Não é por nada que todos os poderosos dementes querem acabar com os filhos daqueles a quem massacram. Pelas amostras que conhecemos, crianças que sobrevivem a carnificinas dão um trabalho louco, quando crescem: de Moisés, no Velho Testamento, a Vito Corleone, em "O Poderoso Chefão".
 Não vamos esquecer o que acontece em "Conan, o Bárbaro" (SBT, 13h30). Um menino também escapa da morte. Adulto, vira Arnold Scharzenegger. É verdade que Arnold, no remoto 1982 em que foi concebido o filme, era dono de uma canastrice proporcional a seus músculos.
@@ -1608,9 +1608,9 @@ O que não deixa de ser curioso. Milius, diretor que vai contra a corrente, é for
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-085</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-085</field>
+<field name="date">950821</field>
+<text_pt>
 Filme em episódios da geração do curta-metragem levou os prêmios de melhor longa e do júri popular
 AMIR LABAKI
 Enviado especial a Gramado
@@ -1628,9 +1628,9 @@ O crítico Amir Labaki viajou a Gramado a convite da organização do festival
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-086</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-086</field>
+<field name="date">950821</field>
+<text_pt>
 Das agências internacionais
 O roteirista norte-americano Howard Koch morreu na última quinta-feira na cidade de Woodstock (Estado de Nova York), vítima de uma pneumonia. Estava com 93 anos de idade. Koch era _junto com Julius J. Epstein e Philip G. Epstein_ autor do roteiro de ``Casablanca", com o qual ganhou o Oscar em 1943.
 Antes de ``Casablanca", Koch havia escrito o roteiro de ``A Guerra dos Mundos", programa de rádio realizado por Orson Welles em 1938 que espalhou pânico nos EUA ao transmitir, como se fosse realidade, uma invasão de seres extraterrestres.
@@ -1638,9 +1638,9 @@ O roteirista teve sua carreira interrompida em 1951, ao entrar na lista negra do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-087</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-087</field>
+<field name="date">950821</field>
+<text_pt>
 'Cinema no RS' reúne 20 ensaios
 AMIR LABAKI
 Enviado especial a Gramado
@@ -1655,9 +1655,9 @@ Antes mesmo de merecer um ensaio específico, paira por todo o volume a sombra do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-088</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-088</field>
+<field name="date">950821</field>
+<text_pt>
 AUGUSTO GAZIR
 LUCIO VAZ
 Da Sucursal de Brasília
@@ -1677,9 +1677,9 @@ O relator pretende propor em seu relatório final a criação de uma comissão com r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-089</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-089</field>
+<field name="date">950821</field>
+<text_pt>
 Revolução digital que nos jogou na era dos computadores vai transformar a atividade de escrever jornais
 FERNANDO GABEIRA
 Da Equipe de Articulistas
@@ -1703,9 +1703,9 @@ Entre o papel e a tela de cristal líquido, caminhamos agora na corda bamba, busc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-090</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-090</field>
+<field name="date">950821</field>
+<text_pt>
 Série de CDs do selo Blue Note revisita jazz dançante da década de 60, que inspirou a geração do jazz-rap
 CARLOS CALADO
 Especial para a Folha
@@ -1733,9 +1733,9 @@ Quanto: R$ 20 (cada CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-091</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-091</field>
+<field name="date">950821</field>
+<text_pt>
 Nova geração de atletas promete trazer algumas medalhas de Atlanta e nos jogos olímpicos do ano 2000 
 CÉLIA ALMUDENA 
 Da Reportagem Local 
@@ -1753,9 +1753,9 @@ Cerca de 300 pessoas formarão a delegação brasileira para a Olimpíada de Atlanta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-092</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-092</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 Se depender do treinador e ``padrinho", Rogério Sampaio _medalha de ouro na Olimpíada de Barcelona_ Danielle Zangrando será a próxima judoca brasileira a trazer uma medalha de ouro.
 ``Acredito que ela pode trazer medalha nesta e na olimpíada do ano 2000. Ela é muito esforçada e é uma curiosa do esporte", diz Sampaio, 27.
@@ -1768,9 +1768,9 @@ Para ela, uma inglesa e uma cubana serão suas principais rivais no Japão. A garo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-093</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-093</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 A campanha brasileira nos jogos olímpicos não é das mais expressivas. Desde 1920, o Brasil só conseguiu 39 medalhas. Pouquinho, pouquinho.
 Só para comparar, na Olimpíada de Barcelona, os EUA, segundos colocados, conseguiram 37 medalhas de ouro, 34 de prata e 37 de bronze. Total: 108 medalhas de uma vez.
@@ -1783,9 +1783,9 @@ Se depender da vela, Nuzman pode contar com a realização de sua meta. ``Na pranc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-094</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-094</field>
+<field name="date">950821</field>
+<text_pt>
 Especial para a Folha 
 Do lado de cá, a chamada Costa Oeste, vem este cinema pilantra que nada acrescenta aos nossos cerebelos, que recria um mundo perfeito, livre, cujo bem sempre vence, cujos heróis são lindos, que acabam encontrando a felicidade depois de uma sequência de tropeços, tiros, explosões e mal agouros. É um cinema enjoativo, como os musicais dos anos 40.
 Do lado de lá, a chamada Costa Leste, vem um cinema sujo, quebrado, cruel. Não fazem questão de dar lição de moral, estão pouco se lixando com a plasticidade dos "takes, a música arranha nossos ouvidos, os figurinos parecem roupas comuns, os atores não se parecem com atores, a câmera treme, os cortes são brutos. É um cinema que bate no estômago, como o realismo italiano dos anos 40. E tem feito escola.
@@ -1804,9 +1804,9 @@ MARCELO RUBENS PAIVA está nos EUA a convite da Universidade de Stanford.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-095</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-095</field>
+<field name="date">950821</field>
+<text_pt>
 ``Raul Seixas Rock Book" e ``Yo Mother-Fucker" já estão à venda 
 Da Reportagem Local 
 Noite de céu estrelado no interior da Bahia. Raul Seixas e Paulo Coelho estão compenetradíssimos, tentando descobrir uma forma de se comunicar com as plantas. Desse papo esquisito vão saindo frases sem sentido: ``Eu sou a luz das estrelas, eu sou a cor do luar...".
@@ -1833,9 +1833,9 @@ Onde encontrar: Encomendas com Pena Schmidt Produções _rua Teodoro Sampaio, 833,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-096</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-096</field>
+<field name="date">950821</field>
+<text_pt>
 ROSELY SAYÃO 
 Especial para a Folha 
 "Tenho 17 anos e namoro há quatro meses um rapaz de 23. Já transamos algumas vezes, sempre com camisinha. Acontece que agora ele quer fazer sexo oral comigo e eu disse que topo, desde que ele continue usando preservativos pois sou exageradamente medrosa com relação à Aids e outras doenças venéreas. A penetração é muito difícil pois a camisinha, embora digam que já vem lubrificada, dificulta tudo e li que não se pode usar lubrificante com ela. O médico disse que os únicos lubrificantes que podem ser usados são os solúveis em água. Isso existe? Como chama? Onde posso comprar?
@@ -1852,18 +1852,18 @@ ROSELY SAYÃO, 45, é psicóloga. Se você tem dúvidas sobre sexo, escreva para o Fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-097</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-097</field>
+<field name="date">950821</field>
+<text_pt>
 Especial para a Folha
 Mais chique, impossível. O garoto faz a linha clássica, mas com alguns toques modernos. A calça branca curta usada com uma boot ficou muito bacana. A malha simples e escura também tem tudo a ver. É a prova de que para ter estilo não é preciso ser extravagante. 
 Estela Alcantara, 29, é estilista
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-098</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-098</field>
+<field name="date">950821</field>
+<text_pt>
 FÁBIO SORMANI 
 Colunista da Folha 
 Você que acompanha a NBA (a superliga de basquete profissional dos EUA) já deve ter visto na TV algumas propagandas onde jogadores pedem para os estudantes não abandonarem as escolas. Eles estão levando adiante a mensagem do programa "Stay in School (fique na escola).
@@ -1878,9 +1878,9 @@ Entre os que passaram este verão norte-americano "rachando estão Shaquille O'Nea
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-099</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-099</field>
+<field name="date">950821</field>
+<text_pt>
 Da Reportagem Local 
 Se você é do tipo que quer saber tudo sobre sexo mas não tem coragem de perguntar nada a ninguém, não se desespere.
 A maioria de suas dúvidas deverão ser respondidas em ``Sexo: Prazer em Conhecê-lo!", da psicóloga Rosely Sayão.
@@ -1901,9 +1901,9 @@ Local: Livraria da Vila, rua Fradique Coutinho, 915, Vila Madalena (zona oeste).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-100</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-100</field>
+<field name="date">950821</field>
+<text_pt>
 Da Agência Folha 
 O estudante Ricardo Holz, 17, de Guarujá (SP), que se apresentava como campeão mundial da luta marcial kickboxing, disse por telefone à Agência Folha na semana passada que não conquistou este título. Com a fraude, Holz tinha conseguido receber pelo menos R$ 3.600,00 de patrocínio.
 A mentira veio a público após a publicação de reportagem com o estudante pelo Folhateen de 7 de agosto. A informação de que ele era campeão mundial foi contestada pela Confederação Brasileira de Kickboxing e a representação no Brasil da Iska (Associação Esportiva Internacional de Kickboxing).
@@ -1915,9 +1915,9 @@ Holz não é considerado oficialmente lutador de kickboxing, pois não é filiado às
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-101</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-101</field>
+<field name="date">950821</field>
+<text_pt>
 ANDRÉ FORASTIERI 
 Especial para a Folha 
 Há algumas semanas ando atazanado com a ``Democracia MTV". Primeiro, tive que votar nas diversas categorias. Depois, são esses anúncios insistentes, enchendo o saco do público para "participar. Você vota, você manda, você decide quem vai ganhar o ``Astronauta de Prata", dia 31, no Memorial da América Latina e uma semana depois, em Los Angeles (EUA).
@@ -1944,9 +1944,9 @@ ANDRÉ FORASTIERI, 30, é diretor das revistas ``General" e ``Herói".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-102</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-102</field>
+<field name="date">950821</field>
+<text_pt>
 ANTONINA LEMOS Da Reportagem Local 
 Que fita demo que nada! Muitas bandas estão trocando as tradicionais fitas com músicas para divulgação por disquetes de computador e páginas na Internet (maior rede de computadores do mundo).
 A tecnologia tem facilitado a vida da moçada. Além de mostrar as músicas, os disquetes contém também imagens e trechos de músicas das bandas.
@@ -1969,9 +1969,9 @@ AlterNETive: http://www.ufmm.br/alternet/dj.html
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-103</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-103</field>
+<field name="date">950821</field>
+<text_pt>
 KATHY WOLLARD  
 ``Por que o céu é azul?" é a pergunta mais frequente para esta coluna. A melhor resposta foi dada pelo lorde John Rayleigh, um cientista britânico, há cerca de 100 anos.
 A luz solar que ilumina o céu é branca. Então, o céu também deveria ser. Lembre que a luz branca é formada por um prisma que ``quebra" a luz branca em várias cores: vermelho, laranja, amarelo, verde, azul e violeta.
@@ -1990,9 +1990,9 @@ PERGUNTAS PARA KATHY WOLLARD devem ser enviadas em inglês para: P.O. Box 4564, G
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-104</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-104</field>
+<field name="date">950821</field>
+<text_pt>
 Programas agilizam criação de estampas para a manufatura de tecidos e dispensam produção de amostras 
 HEINAR MARACY 
 Free-lance para a Folha 
@@ -2012,9 +2012,9 @@ Esse processo já é usado por empresas importadoras de tecido. ``A empresa cria a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-105</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-105</field>
+<field name="date">950821</field>
+<text_pt>
 Free-lance para a Folha 
 Um programa para a área têxtil é um misto de software de pintura com programa de ilustração vetorial e algumas ferramentas adicionais.
 Uma confecção e uma tecelagem até podem trabalhar com programas convencionais como o ``CorelDraw!" ou o ``Photoshop", mas vão esbarrar em problemas que um produto específico pode resolver.
@@ -2029,9 +2029,9 @@ ONDE SABER MAIS INVESTRONICA: tel. (011) 871-1588; PIXELART: tel. (011) 571-100
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950821-106</text_pt>
-<text_pt name="date">950821</text_pt>
-<text_pt name="text">
+<field name="id">FSP950821-106</field>
+<field name="date">950821</field>
+<text_pt>
 Descontos podem chegar a 50% 
 Free-lance para a Folha 
 A Planet Mídia está fazendo uma liquidação de seu estoque de CD-ROM, com descontos de até 50%. Entre os destaques estão o jogo ``Return of the Phantom", por R$ 23. No jogo, baseado no filme ``O Fantasma da Ópera", você é um detetive que precisa descobrir quem é o fantasma.

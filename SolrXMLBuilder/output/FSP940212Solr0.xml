@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940212-001</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-001</field>
+<field name="date">940212</field>
+<text_pt>
 Veja no caderno especial Carnaval a programação de hoje das festas em São Paulo, Rio, Salvador, Olinda e outras dez cidades brasileiras. O Carnaval de São Paulo começa às 19h com o desfile das 12 escolas do Grupo Especial. Pela primeira vez será transmitido ao vivo pela TV para todo o país. Em Salvador, requebrar até quase encostar os quadris no chão é o grande sucesso deste ano. A dança surgiu com a música Requebra, do grupo Olodum. No Rio, a Banda de Ipanema sai da praça General Osório às 17h. A atriz Janaína Diniz e o compositor Tom Jobim são os padrinhos deste ano. O Copacabana Palace também marcou para hoje seu Baile de Gala, com convites a US$ 250 por pessoa. Veja ainda a letra dos sambas-enredo de São Paulo. Carnaval
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-002</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-002</field>
+<field name="date">940212</field>
+<text_pt>
 Articula-se sorrateiramente, no Congresso revisor, uma manobra para alterar o prazo de desincompatibilização para algumas autoridades que ocupam cargos no Executivo e pretendem candidatar-se a algum posto. Atualmente, esse prazo vence em abril. Querem prorrogá-lo até julho. A proposta é uma sucessão de equívocos animada pelo mais puro casuísmo.
 Pode-se, é claro, discutir e eventualmente até alterar as regras de desincompatibilização. De fato, encontram-se bons argumentos tanto em favor como contra a existência desse instrumento que visa a impedir que políticos usem a máquina administrativa pública em suas campanhas particulares. Mas é óbvio que qualquer alteração só poderá valer para as eleições de 1998.
 Entretanto, os patrocinadores da manobra pretendem que as novas regras vigorem já a partir desta eleição. É mais ou menos como mudar o regulamento de um jogo pouco depois de o mesmo ter começado e em benefício de apenas alguns dos jogadores. Afinal, identificam-se facilmente os poucos beneficiários da eventual mudança.
@@ -19,9 +19,9 @@ E assim, de casuísmo em casuísmo, o país vai passando ao largo da desejável e ne
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-003</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-003</field>
+<field name="date">940212</field>
+<text_pt>
 A desfaçatez dos parlamentares parece não conhecer limites. Pressionada pela indignação da sociedade face ao injustificável absenteísmo verificado no Congresso (ainda mais num momento tão crítico para o país), a Mesa da Câmara prometeu esta semana fazer aquilo que deveria estar sendo feito há muito tempo: realmente punir, com o desconto no salário, deputados que faltarem às sessões da Casa.
 Não é muito, evidentemente, já que essa situação é apenas aquela há tempos conhecida de toda a população. Pior, a disposição é referente apenas às sessões deliberativas (o que normalmente exclui no mínimo as segundas e sextas-feiras) e o registro é feito de modo a permitir que um parlamentar mal passe pelo Congresso e seja considerado presente. Assim é que na quinta-feira à tarde, os 229 deputados formalmente registrados se resumiam de fato a aproximadamente 30 no plenário. Mesmo assim, a disposição de punir ainda poderia representar algum avanço no sentido da moralização da atividade política.
 No primeiro dia da vigência dessa nova disposição, contudo, o espírito de corpo falou mais alto. Prevendo baixo quórum na quinta-feira (dado o longo Carnaval parlamentar), as lideranças partidárias na quarta esvaziaram a pauta do dia seguinte, para retirar o caráter deliberativo da sessão e permitir a ausência de deputados sem desconto no salário. A Mesa da Câmara, responsável pela definição da pauta, nada fez para impedir a manobra.
@@ -30,9 +30,9 @@ Só os parlamentares parecem não perceber o extremo desgaste que têm provocado, c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-004</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-004</field>
+<field name="date">940212</field>
+<text_pt>
 Intrinsecamente ligado a grandes festas pagãs como as saturnais e as bacanais, o Carnaval &#150;este espasmo dionisíaco de uma sociedade massacrada por uma inflação titânica e por políticos plutônicos&#150; é uma boa oportunidade que o brasileiro tem para divertir-se.
 E há quem afirme que a capacidade de divertir-se ao longo de toda a vida é um dos traços que distinguem homens de animais. Nesse sentido, dar-se a folguedos carnavalescos nada mais é do que exercer um pouco da própria humanidade. Ocorre porém que a imprevidência e o sentimento de onipotência podem pôr e frequentemente põem um trágico fim a essa humanidade que se pretendia exercer.
 E é com extrema preocupação que se vislumbra quantos perderão a vida nestes próximos quatro dias. Alguns conhecerão a morte de maneira abrupta, entre os ferros retorcidos de algum veículo conduzido por um ébrio. Outros perderão a vida de forma lenta, agonizante, após contaminar-se com o terrível vírus HIV, que provoca a Aids.
@@ -43,9 +43,9 @@ Divirta-se neste Carnaval. É humano e é bom. Mas permaneça no reino dos homens. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-005</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-005</field>
+<field name="date">940212</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Vou defender a emenda que reduz de seis para três meses o prazo de desincompabilização de ocupantes de cargos nos Executivos, mesmo correndo o risco de ser acusado de "fernando-henriquismo", afinal o principal beneficiário da emenda.
 Já me pespegaram tantos "ismos" que um a mais ou a menos não vai me tirar o sono. Além disso, sou mais radical: defendo a pura e simples extinção da desincompatibilização, que não passa de atestado de subdesenvolvimento.
@@ -58,9 +58,9 @@ Não há nada mais democrático do que permitir a um executivo que faça seu trabalh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-006</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-006</field>
+<field name="date">940212</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Poucas pessoas encarnam com tanta perfeição a calhordice na política como Miriam Cordeiro, a ex-namorada de Luiz Inácio Lula da Silva, com quem teve a filha Luriam. A Folha revelou ontem que ela está para lançar um livro, contendo mais acusações pessoais. A calhordice está, especialmente, num ponto: o momento em que escolhe para chamar a atenção contra Lula.
 Ela escolheu o momento ideal para se promover e ganhar holofotes: a sucessão presidencial. Não é está procurando justiça, mas faturar em cima de seu relacionamento com Lula. É um gesto frio e calculado de quem trama para obter vantagem.
@@ -71,9 +71,9 @@ Se a campanha rumar mais uma vez por essa trilha, a democracia sairá arranhada.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-007</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-007</field>
+<field name="date">940212</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Acompanho com simpatia a carreira do ex-ministro Antônio Britto. As pesquisas de intenção de voto o colocam bem situado e parece que o seu prestígio eleitoral tende a crescer.
 Foi correto repórter de telejornal, ganhou admiração em nível nacional em sua curta passagem no quase governo de Tancredo Neves. Como deputado federal portou-se com sobriedade. Finalmente, estourou como ministro da Previdência Social. Nada de espantar que o seu nome tenha surgido no elenco dos presidenciáveis, não apresentando arestas nem à direita nem à esquerda. Moço ainda, não é de seu feitio mostrar-se afobado. Ele acredita que, em termos de carreira pública, o governo do Rio Grande do Sul aumentaria o seu cacife para outra oportunidade. É um direito seu e devemos respeitá-lo.
@@ -84,9 +84,9 @@ Mas tudo tem sua hora e vez. Britto é um nome que pode emergir como solução para
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-008</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-008</field>
+<field name="date">940212</field>
+<text_pt>
 LUCIANO MENDES DE ALMEIDA
 Na próxima quarta-feira, começa o tempo da Quaresma em preparação à Páscoa, festa da Ressureição de Jesus Cristo, vencedor do pecado e da morte. Além da conversão pessoal, há, também, o empenho das comunidades em corrigir falhas e intensificar o seguimento de Cristo.
 No Ano Internacional da Família, a Campanha da Quaresma-1994 tem por tema "A Fraternidade e a Família".
@@ -105,9 +105,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-009</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-009</field>
+<field name="date">940212</field>
+<text_pt>
 IVAN MOURA FÉ
 A resolução 1.401 do Conselho Federal de Medicina, ao obrigar os convênios médicos a atenderem todas as doenças, invoca concepções abrangentes e humanistas. A medicina está umbilicalmente vinculada à vida e o médico tem o dever de lutar pela vida alheia, sendo dignamente remunerado e reconhecido pelo seu trabalho.
 A saúde brasileira vive momentos difíceis. O Sistema Único de Saúde, um mecanismo justo e equilibrado na teoria, ainda não funciona na prática. Há 32 milhões de pessoas atendidas pelos convênios médicos (fechados e abertos); os outros 100 milhões dependem exclusivamente da assistência pública. Mas ainda é no serviço público deficiente que o doente grave é atendido, tenha convênio ou não.
@@ -122,9 +122,9 @@ IVAN MOURA FÉ, 46, médico psiquiatra do Inamps, é presidente do Conselho Federal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-010</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-010</field>
+<field name="date">940212</field>
+<text_pt>
 ARLINDO DE ALMEIDA
 A medida não é correta, a partir do fato de ser ilegal e inconstitucional. Assim entende o professor de direito administrativo Celso Antonio Bandeira de Mello, no que é acompanhado por diversos outros juristas. Mas, cientes da importância social de algumas medidas propostas e desejando uma discussão mais ampla sobre a questão, visando a sua possível viabilização, consultamos, junto com outras entidades da área, os 27 Conselhos Regionais de Medicina (CRMs) do país sobre quais seriam os procedimentos a adotar para a aplicabilidade ou não da medida, pois a eles cabem sua execução e fiscalização.
 Obtivemos três respostas. Todas sem esclarecimentos. Às portas da entrada da resolução em vigor, o impasse nos obrigou a ingressar na Justiça Federal para que o Poder Judiciário decida a questão, cujo julgamento aguardamos. O que desejamos é dialogar, à luz da razão. Entendemos que os aspectos sociais são mais do que relevantes.
@@ -137,9 +137,9 @@ ARLINDO DE ALMEIDA, 57, cirurgião pediátrico, é presidente da Abramge (Associaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-011</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-011</field>
+<field name="date">940212</field>
+<text_pt>
 MARIO DA COSTA CARDOSO FILHO
 Quando a resolução 1.401 foi editada, a sensação predominante entre entidades médicas e usuários do sistema supletivo de saúde foi de que se estava iniciando uma revolução. Ao entrar em vigor, descobriu-se que será uma campanha longa, desgastante e sujeita a muitas baixas.
 Sob o ponto de vista moral, é indiscutível que o CFM está coberto de razão. Há muito tempo o sistema supletivo &#150;exceção feita às cooperativas e serviços próprios de saúde&#150; vem se locupletando da falência pública na saúde. É um altíssimo negócio concorrer com o sistema oficial, mesmo porque qualquer coisa é melhor do que coisa nenhuma. O governo, incapaz de gerir o setor público com alguma competência, fez vista grossa aos planos privados, que vêm se aproveitando disso em benefício próprio há anos.
@@ -153,9 +153,9 @@ MARIO DA COSTA CARDOSO FILHO, 43, é presidente da Unimed de Santos (SP) e da Ass
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-012</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-012</field>
+<field name="date">940212</field>
+<text_pt>
 
 "Quem são os 204 parlamentares (e não 'políticos') que votaram a anistia a produtos rurais? E por que o fizeram? Queremos e precisamos saber."
 Irede Cardoso (São Paulo, SP)
@@ -201,9 +201,9 @@ Angela Maria Conceição da Silva (Bonsucesso, RJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-013</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-013</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha ABCD
 O Sindicato dos Metalúrgicos do ABCD entrou ontem com ação judicial contra o aumento do Imposto de Renda para pessoa físicas na Justiça Federal de São Paulo. A ação, no entanto, só deverá ser distribuída a uma das varas federais na quarta-feira.
 O advogado Flávio Benites, do Departamento Jurídico do Sindicato, disse que existe a expectativa de que a ação possa ser julgada ainda na próxima semana. Ele afirmou que o sindicato alega que as pessoas jurídicas (empresas) não sofreram aumento de imposto, como era previsto pelo plano econômico original. Segundo ele, isso configuraria tratamento tributário desigual.
@@ -212,9 +212,9 @@ Na última sexta-feira, a juíza da 3.ª Vara Federal de São Paulo, Míriam Rebolo C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-014</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-014</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A Receita Federal iniciou ontem uma fiscalização, que vai até quarta-feira, em bares, restaurantes, boates e hóteis frenquentados pelas pessoas mais ricas do país. A fiscalização será nas grandes cidades, praias e áreas de lazer de São Paulo, Rio de Janeiro, Pernambuco, Rio Grande do Norte, Santa Catarina, Rio Grande do Sul, Espírito Santo, Bahia e Minas Gerais.
 Mais de mil fiscais vão realizar essa blitz para saber se estão sendo emitidas notas fiscais. Frequentadores destes lugares e com sinais de riqueza podem ser investigados. O estabelecimento que não emitir nota fiscal será multado em 300% sobre o valor da despesa.
@@ -222,9 +222,9 @@ O coordenador de Arrecadação da Receita, José Alves da Fonseca, disse que jogado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-015</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-015</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília e da Folha Sudeste
 A Polícia Federal prendeu anteontem o aposentado Ferdinando Zamariolli, 67, acusado de falsificar 27 declarações de Imposto de Renda do exercício de 1993 (ano-base 1992), usando documentos falsos. Zamariolli teria falsificado as declarações para receber restituições do tributo, no valor de US$ 25 mil (40 mil Ufir).
 Ele é de Amparo (140 km a norte de São Paulo) e foi preso dentro de uma agência do Banco Bandeirantes, em Campinas, quando tentava receber uma das restituições do IR. Zamariolli não chegou a sacar nenhuma, segundo José Alves da Fonseca, coordenador de Arrecadação da Receita Federal. O aposentado estava sendo investigado desde o início de janeiro, quando a Receita constatou irregularidades nas declarações.
@@ -235,17 +235,17 @@ Zamariolli vai responder processo por estelionato e falsidade ideológica. Ele es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-016</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-016</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A arrecadação de impostos e contribuições federais em janeiro totalizou US$ 4,86 bilhões (CR$ 1,9 trilhão), recorde histórico segundo a Receita Federal. A arrecadação de janeiro foi 39,2% maior (em termos reais) do que a registrada no mesmo mês do ano passado. Em relação a dezembro último, o aumento real (em dólar) na arrecadação foi de 5,67%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-017</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-017</field>
+<field name="date">940212</field>
+<text_pt>
 Das agências internacionais
 O Brasil propôs a criação de uma zona de livre comércio latino-americana na reunião de chanceleres da Aladi (Associação Latino-americana de Integração) que se realiza em Montevidéu, capital do Uruguai.
 A delegação brasileira, chefiada pelo chanceler, Celso Amorim, sugeriu que, como no Tratado de Assunção que lançou as bases do Mercosul (mercado comum integrado por Brasil, Argentina, Uruguai e Paraguai), os elementos para a associação latino-americana de livre comércio se incluam no Tratado de Montevidéu, que criou a Aladi. O objetivo é unir os mecanismos sub-regionais já existentes.
@@ -253,9 +253,9 @@ Participam da oitava reunião de chanceleres da Aladi na capital uruguaia delegaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-018</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-018</field>
+<field name="date">940212</field>
+<text_pt>
 Se passar o prazo, país perde chance de renegociar US$ 35 bi
 GUSTAVO PATÚ
 Da Sucursal de Brasília
@@ -265,9 +265,9 @@ Até agora, os contatos com o fundo têm se baseado na aprovação do Fundo Social d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-019</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-019</field>
+<field name="date">940212</field>
+<text_pt>
 Comissão interministerial vai acompanhar aplicação de recursos do Fundo
 VIVALDO DE SOUZA
 Da Sucursal de Brasilia
@@ -281,9 +281,9 @@ A contribuição do Ministério do Trabalho para o FSE será através do repasse de 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-020</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-020</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 As tarifas de energia elétrica deverão ser mesmo reajustadas pela média dos últimos seis meses. O critério implicará uma redução de apenas US$ 1 no preço do megawatt/hora.
 No caso dos demais preços públicos ainda não há consenso para uma decisão. A Petrobrás já fez chegar ao conhecimento da equipe da Fazenda que a empresa teria um grande prejuízo se seus preços fossem reajustados pelo mesmo critério da energia elétrica.
@@ -291,9 +291,9 @@ A intenção do governo é, em princípio, usar o mesmo critério para a conversão de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-021</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-021</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A proposta de conversão do salário mínimo para URV (Unidade Real de Valor) elaborada pela equipe econômica deve ser apresentada ao ministro do Trabalho, Walter Barelli, somente na próxima semana. A equipe econômica quer regras de conversão que resultem em um salário mínimo entre US$ 64 e US$ 65, chegando no máximo a US$ 70. Barelli é a favor de um mínimo maior, próximo a US$ 100.
 O ministro da Fazenda, Fernando Henrique Cardoso, disse ontem que seus assessores estão concluindo as propostas de conversão e na próxima quinta-feira marcará uma reunião para apresentá-la a outros ministros. A informação de FHC foi dada após almoço com Barelli e Sérgio Cutolo, ministro da Previdência Social.
@@ -303,9 +303,9 @@ Segundo ele, a URV não muda a vida de ninguém porque "é simplesmente um mecanism
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-022</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-022</field>
+<field name="date">940212</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
 Também os 19 sindicatos ligados à Federação Estadual dos Metalúrgicos da CUT, em campanha salarial há um mês, ameaçam organizar greve caso o processo de conversão dos salários em Unidade Real de Valor (URV) traga perdas à categoria. "Não aceitaremos qualquer arrocho e se necessário podemos até parar", afirmou Carlos Alberto Grana, presidente da federação.Com isso, mais 340 mil metalúrgicos no Estado de São Paulo se preparam para realizar paralisações caso a conversão não seja considerada satisfatória. Cerca de 51 sindicatos de metalúrgicos da Força Sindical no Estado, representando 800 mil trabalhadores, já colocaram a greve como alternativa caso a conversão de salários em URV seja feita pela média.
@@ -315,9 +315,9 @@ O sindicato está tentando marcar reunião com o governador Fleury para discutir a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-023</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-023</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo mandou ontem ao Senado as propostas elaboradas pelo BC para definir os critérios e mecanismos para refinanciamento da dívida mobiliária (em títulos) de Estados e municípios. O total deste tipo de débito com a União é de US$ 13,2 bilhões. São Paulo é o principal devedor, com US$ 5,4 bilhões. O governo já está "rolando" as dívidas contratuais &#150;US$ 1,1 bilhão&#150; com sucesso.
 Segundo a proposta elaborada pelo BC, caberá ao Senado definir o percentual de refinanciamento de cada devedor. O documento também propõe que os títulos das dívidas serão atualizados pela LFT (Letra Financeira do Tesouro).
@@ -325,9 +325,9 @@ Conforme acordo negociado entre o governo e os devedores, as dívidas poderão com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-024</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-024</field>
+<field name="date">940212</field>
+<text_pt>
 MÁRCIA DE CHIARA
 Da Reportagem Local
 Aplicação da Unidade Real de Valor (URV) de forma compulsória, sem gradualismos para toda economia, conversão dos preços à vista pela média e aplicação da tablita nas contas a pagar são as principais sugestões dos supermercados para equipe econômica.
@@ -338,9 +338,9 @@ Os supermercadistas sugerem a aplicação da tablita nas contas a pagar. Como 90% 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-025</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-025</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O governo perdeu o primeiro round da queda de braço contra os fundos de pensão de empresas públicas e conseguiu vender apenas US$ 13,1 milhões em NTN-R &#150;títulos cambiais de longo prazo, com os quais o governo quer financiar sua dívida&#150; às entidades na oferta pública realizada ontem. O Banco Central também não obteve sucesso no recurso que moveu ontem na tentativa de obrigar os fundos a adquirirem os papéis.
 Os obstáculos jurídicos derrubaram a oferta: os fundos associados à Abrapp (Associação Brasileira das Entidades de Previdência Privada) estavam protegidos por liminar contra a resolução 2.038 do Conselho Monetário Nacional (CMN), que obrigava essas entidades a usarem 35% de suas reservas na compra dos papéis. Outros fundos &#150;Centrus (patrocinado pelo próprio BC), Previ (Banco do Brasil), Petrus (Petrobrás), Fipec (Finep) e Ceres (Embrapa)&#150; estavam impedidos de participar do leilão por liminares obtidas pelos funcionários das empresas.
@@ -350,9 +350,9 @@ A norma foi revogada anteontem à noite pelo presidente do comitê, ministro Alexi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-026</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-026</field>
+<field name="date">940212</field>
+<text_pt>
 LILIANA LAVORATTI
 Da Sucursal de Brasília
 O Ministério da Fazenda descobriu que os preços dos oligopólios não poderão ser convertidos em URV (Unidade Real de Valor) nem mesmo pela média. Um estudo da Fazenda, ao qual a Folha teve acesso, indica que os oligopólios mais importantes estão com seus preços até 57,39% acima da inflação. O assessor especial de preços, Milton Dallari, disse ontem que vai expurgar do novo indexador todos os aumentos abusivos por meio da negociação em andamento com o setor privado.
@@ -363,9 +363,9 @@ A equipe está definindo a estratégia de acompanhamento dos preços médios em URV 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-027</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-027</field>
+<field name="date">940212</field>
+<text_pt>
 Ministro reúne a equipe em Brasília para discutir regras iniciais de conversão, incluindo tarifas, salários e aluguéis
 Da Sucursal de Brasília
 O ministro da Fazenda, Fernando Henrique Cardoso, espera "bater o martelo" hoje sobre o prazo de vida da URV (Unidade Real de Valor) como indexador. FHC quer aprovar as regras de uso da URV na conversão das tarifas públicas, salários, preços mínimos dos produtos agrícolas, prestação da casa própria, aluguéis, aplicações financeiras em reunião com a equipe, em Brasília. A decisão será levada ao presidente Itamar Franco na próxima semana.
@@ -377,9 +377,9 @@ Fernando Henrique disse ontem que o governo não definiu a adoção de nenhuma tabe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-028</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-028</field>
+<field name="date">940212</field>
+<text_pt>
 Antônio Pádua Ribeiro, do STJ, diz que discussão sobre controle externo está sendo conduzida de forma emocional
 Da Sucursal de Brasília
 O ministro Antonio Pádua Ribeiro, do STJ (Superior Tribunal de Justiça), criticou ontem a proposta de controle externo do Judiciário feita pelo relator do Congresso revisor, deputado Nelson Jobim (PMDB-RS). Na opinião de Ribeiro, o debate sobre o controle externo está sendo conduzido de forma emocional.
@@ -391,9 +391,9 @@ As declarações de Pádua Ribeiro aumentam a polêmica entre o Judiciário e o Congr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-029</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-029</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 A CUT vai criar uma comissão de assessores para, em conjunto com o escritório da central em Brasília, acompanhar a revisão. A decisão, aprovada na última reunião da executiva da central, visa "denunciar os ataques das elites, informar o movimento sindical e auxiliar sua mobilização".
 A CUT pretende acompanhar "com maior rigor" as emendas e os relatórios que "impliquem ataques aos interesses dos trabalhadores". A entidade quer "denunciar" os parlamentares por meio de cartazes e painéis.
@@ -401,9 +401,9 @@ A CUT pretende acompanhar "com maior rigor" as emendas e os relatórios que "impl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-030</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-030</field>
+<field name="date">940212</field>
+<text_pt>
 GUTEMBERG DE SOUZA
 Da Sucursal de Brasília
 O deputado Benedito Domingos (PP-DF) foi nomeado ontem relator dos dois mais polêmicos processos de cassação que tramitam na Câmara: o do ex-presidente da Casa Ibsen Pinheiro (PMDB-RS) e o do ex-ministro Ricardo Fiuza (PFL-PE). De atuação obscura, Domingos é conhecido principalmente pela lealdade que devota ao governador do Distrito Federal, Joaquim Roriz &#150;que também teve várias irregularidades apontadas pela CPI do Orçamento.
@@ -416,9 +416,9 @@ Enquanto José Dutra assinava a nomeação de Benedito Domingos, o deputado embarca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-031</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-031</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A Câmara não conseguiu reunir nem 50 deputados para fazer ontem sua última sessão antes do Carnaval. Com isso, o prazo para a maioria dos acusados da CPI apresentar sua defesa &#150;que venceria às 18h de ontem&#150; foi adiado até a próxima sessão, que só deve ocorrer no dia 21 ou 22. Para o deputado Ricardo Fiuza (PFL-PE), notificado depois dos outros, o prazo de cinco sessões ainda nem começou a correr.
 As frequentes faltas de quórum têm feito a alegria dos advogados, que desde o início reclamavam maior prazo para a defesa. A Câmara chegou a mudar seu regimento às pressas para reduzir o prazo, mas nem assim vem conseguindo acelerar os processos.
@@ -427,9 +427,9 @@ Devido ao Carnaval, o presidente da Comissão de Justiça, José Dutra (PMDB-AM), t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-032</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-032</field>
+<field name="date">940212</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Da Reportagem Local
 O ministro do STF (Supremo Tribunal Federal) Marco Aurélio Faria de Mello deu liminar que amplia o prazo de defesa do deputado José Geraldo Ribeiro (PMDB-MG) no processo de cassação promovido pela Comissão de Constituição de Justiça (CCJ) da Câmara dos Deputados. A data final para a defesa terminaria no dia 21. A liminar determina que o prazo recomece a partir do momento em que o deputado tiver acesso aos documentos levantados pela CPI do Orçamento.
@@ -442,9 +442,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-033</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-033</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A burocracia interna do Senado está prejudicando o andamento de documentos referentes aos 17 deputados indicados à cassação pela CPI do Orçamento. A CCJ (Comissão de Constituição e Justiça) da Câmara, que investiga as acusações feitas contra os deputados, ainda não recebeu a documentação referente à movimentação bancária destes parlamentares.
 "Recebi a informação de que o material está sendo xerocado, mas a demora em enviar estes documentos está atrapalhando nosso trabalho", disse o presidente da CCJ, deputado José Dutra (PMDB-AM).
@@ -453,9 +453,9 @@ Segundo a assessoria do senador Humberto Lucena (PMDB-PB), presidente do Senado,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-034</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-034</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O senador Jarbas Passarinho (PPR-PA), que presidiu a CPI do Orçamento, declarou ontem que o relatório final da comissão serve como base para o atestado enviado ao empresário Paulo César Farias pelo presidente do Senado, Humberto Lucena (PMDB-PB). Este atestado isenta PC Farias de qualquer envolvimento com o esquema de manipulação dos recursos do Orçamento da União.
 Porém, Passarinho advertiu que "a CPI não conseguiu realizar tudo o que queria" e que "embora tenha sofrido uma inquisição demorada, não se pegou nenhuma comprovação contra PC".
@@ -463,9 +463,9 @@ O deputado Carlos Benevides (PMDB-CE), acusado no relatório final da CPI do Orça
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-035</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-035</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Itamar Franco autorizou ontem a promoção a brigadeiro do capitão Sérgio Miranda de Carvalho, o Sérgio "Macaco", que morreu de câncer no último domingo, mas destacou que pode recorrer futuramente contra esta determinação do STF (Supremo Tribunal Federal). Itamar acatou a decisão do Supremo "para não ficar sujeito a processo por crime de responsabilidade", segundo o seu secretário de Imprensa, Francisco Baker.
 Em reunião com o advogado-geral da União, Geraldo Magela Quintão, o presidente Itamar autorizou o cumprimento integral do acórdão do STF, que prevê pagamento de vantagens financeiras à família de Sérgio "Macaco", do caso Para-Sar. Quintão chegou a apresentar a alternativa de contestação imediata da promoção, junto ao Supremo, através de ação rescisória e medida cautelar. Itamar preferiu adiar esta iniciativa.
@@ -474,18 +474,18 @@ Sérgio "Macaco" foi cassado pela Aeronáutica, em 69, por ter se recusado, segund
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-036</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-036</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente Itamar Franco decidiu permanecer em Brasília hoje de manhã, trabalhando no Palácio da Alvorada. Segundo o assessor de imprensa, Francisco Baker, à tarde ele deverá decidir quando viaja ao Rio de Janeiro. Segundo Baker, Itamar vai assistir amanhã ao desfile da Mangueira, no Sambódromo. Hoje o presidente deve se encontrar com o ministro da Fazenda, Fernando Henrique Cardoso.
 O presidente apenas confirmou que viaja a Juiz de Fora na segunda-feira, e que assiste ao desfile da cidade na terça. Itamar deve voltar a Brasília na quarta.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-037</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-037</field>
+<field name="date">940212</field>
+<text_pt>
 Da Agência Folha, em Florianópolis
 Dois agricultores sem-terra foram baleados por volta das 6h da manhã de ontem em Matos Costa (SC) ao tentar entrar na fazenda São Roque do Rio Preto (421 km a oeste de Florianópolis), de propriedade da empresa Rutemberg, de União da Vitória (PR). A Folha tentou localizar algum representante da empresa, mas depois das 18h30 ninguém atendeu o telefone.
 Adair Teodoro e Elton dos Santos foram feridos por seguranças da fazenda quando tentavam entrar para fazer a colheita de feijão, plantado por 38 famílias que haviam invadido o local.
@@ -493,9 +493,9 @@ O sargento João Agostinho, 47, responsável pela Delegacia de Polícia, abriu inqu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-038</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-038</field>
+<field name="date">940212</field>
+<text_pt>
 Articulador de Quércia afirma que ex-ministro da Previdência 'arrebentou' a saúde para 'agradar' os aposentados
 EMANUEL NERI
 Da Reportagem Local
@@ -510,9 +510,9 @@ Colaborou FERNANDA DA ESCÓSSIA, da Agência Folha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-039</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-039</field>
+<field name="date">940212</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 Um acordo de leitura dúbia entre Luiz Inácio Lula da Silva e o setor ortodoxo do PT pode resolver provisoriamente o impasse sobre a adoção ou não da moratória no programa de governo que Lula defenderá na campanha eleitoral. Se as conversas avançarem, o "muro" será construído com a exclusão da palavra moratória do texto, que terá, porém, uma redação que deixará a questão propositalmente aberta.
@@ -523,9 +523,9 @@ Lula quer diminuir a força dos radicais na elaboração do programa também com deb
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-040</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-040</field>
+<field name="date">940212</field>
+<text_pt>
 TALES FARIA
 EUMANO SILVA
 Da Sucursal de Brasília
@@ -539,9 +539,9 @@ Colaborou a Agência Folha, em Recife
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-041</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-041</field>
+<field name="date">940212</field>
+<text_pt>
 Ministério Público de São Paulo abre inquérito para apurar aquisição de equipamentos por universidades
 FREDERICO VASCONCELOS
 Editor do Painel S/A
@@ -563,9 +563,9 @@ A assessoria do governador Fleury informou ontem à noite que ele ainda não defin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-042</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-042</field>
+<field name="date">940212</field>
+<text_pt>
 MÁRIO SIMAS FILHO
 Da Reportagem Local
 Os advogados de João Carlos Martins, dono da Paubrasil Engenharia e Montagem Ltda., entregaram ontem uma petição ao juiz da 3.ª Vara Federal protestando contra o pedido de busca e apreensão formulado pela Procuradoria da República e autorizado pela Justiça na última quarta-feira.
@@ -575,9 +575,9 @@ Os advogados afirmam que Martins tem colaborado com as investigações e sustentam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-043</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-043</field>
+<field name="date">940212</field>
+<text_pt>
 CLÁUDIO JULIO TOGNOLLI
 Da Reportagem Local
 A Polícia Federal abriu ontem inquérito para apurar denúncia de fraude na nomeação de um juiz do Tribunal Regional do Trabalho, de São Paulo (TRT). A pedido do Itamaraty, o procurador da República Hamilton Alves já investiga o juiz classista Egéferson Craveiro, 29, do Tribunal Regional do Trabalho, em São Paulo. Ele é acusado de ter sido eleito num pleito forjado. "Em tese, o caso configura crime", afirmou Hamilton Alves.
@@ -587,9 +587,9 @@ Os juízes classistas compõem um terço do conselho do TRT, que julga causas traba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-044</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-044</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O juiz Egérferson Craveiro disse à Folha que foi "eleito legalmente". "Posso comprovar isso com documentos e quero dizer que o senhor Raffa será responsabilizado criminalmente por uma denúncia sem fundamento", afirmou. "Analiso a atitude dele como uma insanidade, como um ato de loucura."
 O juiz afirma que Waldemar Raffa foi avisado da reunião que o elegeu, mas que "não compareceu". Craveiro atribui as acusações a uma "briga política".
@@ -598,27 +598,27 @@ O juiz diz que pode provar a todas as autoridades que o presidente o nomeou em v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-045</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-045</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A Receita Federal vai apertar o cerco sobre o setor de bebidas, principalmente refrigerantes e destilados, para conter a sonegação de IPI (Imposto sobre Produtos Industrializados). Na próxima semana, começará a enviar cartas para as empresas inadimplentes.
 Segundo o coordenador de Arrecadação, José Alves da Fonseca, para cada CR$ 1 arrecadado sobre bebidas, CR$ 3 são sonegados. Há 5.000 empresas no país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-046</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-046</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local e da Folha ABCD
 O juiz Silveira Bueno, do Tribunal Regional Federal de São Paulo, suspendeu ontem a liminar que isentava os metalúrgicos de São Paulo de pagar o aumento de 6,4% das alíquotas do Imposto de Renda. Ontem, o sindicato dos metalúrgicos do ABCD entrou com ação contra o aumento do IR na Justiça Federal de São Paulo.
 O pedido de suspensão da liminar foi impetrado pela secretaria da Receita Federal em São Paulo. O juiz argumentou que os metalúrgicos alegavam que o IR só poderia ser alterado por lei e não por MP e que quando aprovada a MP já havia sido convertida na lei 8.848/95. A decisão vigora até o julgamento de mérito da ação. Luiz Antônio Medeiros, presidente da Força Sindical, disse que o sindicato vai recorrer da decisão. "O aumento de impostos é um absurdo".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-047</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-047</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A Receita Federal iniciou ontem uma fiscalização em todos os bares, restaurantes, boates e hotéis frenquentados pelas pessoas mais ricas do Brasil. A fiscalização será feita nas grandes cidades, praias e áreas de lazer de São Paulo, Rio de Janeiro, Pernambuco, Rio Grande do Norte, Santa Catarina, Rio Grande do Sul, Espírito Santo, Bahia e Minas Gerais.
 Mais de mil fiscais vão realizar esse tipo de blitz até a quarta-feira de Carnaval. O alvo principal são os estabelecimentos comerciais para checar a emissão de notas fiscais. As pessoas que frequentam esses lugares e indicam sinais exteriores de riqueza poderão cair na malha-fina da Receita.
@@ -628,9 +628,9 @@ Os fiscais da Receita descobriram que cerca de 40 jogadores apresentaram em suas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-048</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-048</field>
+<field name="date">940212</field>
+<text_pt>
 Da FT
 Emmanuel Burle Filho, o novo procurador-geral da Justiça de São Paulo, pediu na quinta-feira a abertura de uma ação civil pública contra Alfredo Almeida Júnior, o Alfredinho &#150;presidente da Eletropaulo no governo Orestes Quércia&#150;, e outras seis pessoas.
 Tanto Alfredinho como as outras pessoas são acusadas de viajar para o exterior em 1990 e 1991 com passagens áereas pagas pela Andrade Gutierrez e Cegelec Engenharia. As duas empresas eram contratadas da Eletropaulo na época em que Alfredinho viajou.
@@ -640,9 +640,9 @@ Procurado pela reportagem, Alfredinho não foi encontrado em sua fazenda. Os empr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-049</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-049</field>
+<field name="date">940212</field>
+<text_pt>
 A venda de motocicletas no mercado interno em janeiro cresceu 34,8% em relação a dezembro de 93. Em janeiro, foram vendidas 6.895 motos, 1.779 a mais que em dezembro. Em comparação com janeiro de 93, as vendas aumentaram 157%. Mas as exportações registraram queda de 20,4% no mesmo período, segundo a Abraciclo (associação dos fabricantes do setor).
 
 Autolatina adianta parte do 13.º salário
@@ -650,9 +650,9 @@ A Autolatina (Ford e Volkswagen) vai antecipar para 17 de março o pagamento de m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-050</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-050</field>
+<field name="date">940212</field>
+<text_pt>
 Produção do setor é a maior desde 86, quando a expansão foi de 10,9%, segundo o IBGE
 FRANCISCO SANTOS
 Da Sucursal do Rio
@@ -668,9 +668,9 @@ O ciclo de crescimento industrial iniciado em outubro coincide com a recuperação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-051</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-051</field>
+<field name="date">940212</field>
+<text_pt>
 Zona Franca responde por 50% da produção
 Da Sucursal do Rio
 A Copa do Mundo é um dos fatores positivos nas projeções econômicas sobre o desempenho industrial do país em 94. Para Paulo Gonzaga de Carvalho, a série estatística do IBGE mostra que pelo menos o setor de eletroeletrônicos, puxado por televisores, tem crescimento garantido em ano de Copa.
@@ -683,9 +683,9 @@ Quando ocorre esse tipo de fenômeno, segundo o economista, crescem as vendas de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-052</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-052</field>
+<field name="date">940212</field>
+<text_pt>
 MARIA ALICE ROSA
 Da Reportagem Local
 A Rakam Tecidos terá depois do Carnaval o desafio de escapar da falência pedida quinta-feira na 24.ª Vara Cível de São Paulo por três de seus fornecedores. A empresa, com 26 lojas de tecidos em vários Estados, é concordatária há oito meses e vai contestar o processo para ganhar tempo e verificar se a cobrança procede."Se proceder, pagaremos. Temos o dinheiro", diz seu advogado, João Boyadjian. A dívida, parcialmente corrigida, não passa de CR$ 28 milhões.
@@ -697,9 +697,9 @@ Criada há oito anos, a Rakam chamou de "fatídico" o ano de 1990 e de "plano assa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-053</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-053</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Sudeste
 O grupo formado no governo federal para examinar a possibilidade de injetar dinheiro na Gurgel Motores S/A, de Rio Claro, decidiu anteontem negar o pedido de verbas da empresa. Desde dezembro, o empresário João Augusto do Amaral Gurgel tenta o empréstimo de US$ 100 milhões. O empresário não foi encontrado ontem.
 A decisão de negar o pedido de verbas foi tomada em reunião no Ministério da Indústria e Comércio, com representantes das secretarias de Política Industrial e Econômica, do Banco do Brasil, do BNDES (Banco Nacional de Desenvolvimento Econômico e Social) e da Finep (Financiadora de Estudos e Projetos).
@@ -707,9 +707,9 @@ Segundo o BNDES, na reunião foi explicado que o banco não tem condições de injet
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-054</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-054</field>
+<field name="date">940212</field>
+<text_pt>
 RUBENS PENHA CYSNE
 A manutenção da inflação de 40% implica em perda de US$ 33,2 bi anuais
 Robert Lucas Jr., professor de economia da Universidade de Chicago, estimou em 1% do PIB o custo de uma taxa de juros anual de 10% para os Estados Unidos. Para 3% de juro anual, esse custo cai para 0,7% do PIB. Desprezando-se a diferença entre a taxa nominal de juros e a taxa de inflação dado pelo juro real e considerando-se o valor aproximado de US$ 5,5 trilhões do PIB americano, conclui-se que a queda da inflação do patamar de 10%, ocorrida entre 1978 e 1981, para os 3% ao ano relativos ao início da década de 90 terá proporcionado a esse país uma economia da ordem de US$ 16,5 bilhões ao ano. E que a erradicação total do processo inflacionário (ou uma ligeira deflação, se considerarmos um valor positivo para o juro real) implicaria em ganhos adicionais para a sociedade norte-americana em torno de US$ 38,5 bilhões.
@@ -728,39 +728,39 @@ RUBENS PENHA CYSNE, 35, doutor em economia, é diretor de pesquisa da Escola de p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-055</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-055</field>
+<field name="date">940212</field>
+<text_pt>
 O custo da cesta básica subiu 7,02% na primeira semana de fevereiro, registrando uma leve aceleração em relação à última de janeiro (6,50%) segundo pesquisa realizada pelo Procon em convênio com a Fipe. No ano, a cesta acumala alta de 45,66%. A variação é apurada a partir das oscilações dos preços médios de 43 produtos alimentícios, de higiene pessoal e de limpeza. No período pesquisado (1 a 7 de fevereiro), os produtos com maiores elevações foram a cenoura (36,39%), o alho (31,81%) e a batata comum (29,51%).
 Com maiores quedas em seus preços médios, a pesquisa apontou a farinha de mandioca (10,30%), a banana (7,39%) e a água sanitária (5,52%). Dos itens que compõem a cesta básica, os que mais influenciaram, com suas altas, na formação do índice foram o frango (0,73%), o arroz (0,68%), os ovos e o açúcar (os dois com 0,55%). O levantamento verificou, também, diferenças entre os preços médio e máximo de até 77,85% na venda de um mesmo produto em estabelecimentos distintos. A maior diferença foi encontrada na venda do sabonete de 130 gramas, cujo preço médio era de CR$ 151,25 e o máximo, CR$ 269,00.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-056</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-056</field>
+<field name="date">940212</field>
+<text_pt>
 O movimento geral do porto de Santos em janeiro foi de 2,10 milhões de toneladas. Na comparação com o mesmo período do ano passado, quando a movimentação foi de 1,61 milhão de toneladas, houve um crescimento de 30,12%. Sobre dezembro, no entanto, houve uma diminuição de 14,56% no total de mercadorias movimentadas no mês passado. As exportações atingiram 923,63 mil toneladas, com alta de 68,63% em relação ao primeiro mês de 1993. As importações somaram 1,18 milhões de toneladas em janeiro deste ano, crescendo 10,31% na mesma comparação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-057</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-057</field>
+<field name="date">940212</field>
+<text_pt>
 Os estoques na bolsa de metais de Londres atingiram ontem 4,6 milhões de toneladas, com crescimento de 2,73% em 30 dias. O metal com maior volume estocado é alumínio que, com 2,5 milhões de toneladas, acumula alta de 1,68% em um mês. O cobre é o único metal a apresentar recuo na LME (London Metal Exchange). Ontem ele somava 583,4 mil toneladas, contra as 613,9 mil do dia 11 de janeiro. O recuo foi de 4,98%. Com um milhão de toneladas estocadas, o zinco teve a maior evolução no período: 8,86%. Chumbo veio a seguir, com aumento de 7,54%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-058</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-058</field>
+<field name="date">940212</field>
+<text_pt>
 O Brasil obteve em janeiro o maior preço médio por saca de café exportada nos últimos quatro anos. A cotação de US$ 81,79, segundo a Febec (Federação Brasileira dos Exportadores de Café), confirma a tendência de recuperação dos preços no mercado internacional inciada em agosto de 1993. Para a entidade, a elevação das cotações começou quando os países produtores decidiram aplicar o plano de retenção de 20% das exportações. Analistas do mercado atribuem a recuperação dos preços às quebras nas safras brasileira e colombiana.
 Dados preliminares divulgados ontem pela Febec mostram que as exportações de café verde geraram no mês passado a receita de US$ 107,7 milhões, valor 195% superior ao de janeiro de 93 (US$ 36,4 milhões). Foi embarcado 1,3 milhão de sacas, resultado 120% acima do volume exportado em igual mês do ano passado (596 mil sacas). Entre os tipos vendidos, a maior parte foi de arábica (1,2 milhão de sacas), seguido do conillon (107 mil sacas). Com 974 mil sacas embarcadas, o porto de Santos continua liderando as exportações do produto. Pelo porto de Vitória saíram 280 mil sacas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-059</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-059</field>
+<field name="date">940212</field>
+<text_pt>
 Consórcio traz importados à classe média
 Concessionárias apostam no sistema que cresceu 380% em 93; modelo mais barato custa US$ 361, 55 em 50 meses
 SUZANA BARELLI
@@ -778,9 +778,9 @@ Público
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-060</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-060</field>
+<field name="date">940212</field>
+<text_pt>
 Da reportagem local
 Antes de adquirir uma cota do consórcio de importados, o Procon recomenda que o consumidor certifique que a administradora escolhida tenha autorização do Banco Central para operar no mercado. O segundo passo é conhecer bem a administradora e verificar sede e condições de atendimento no local. O Procon informa por escrito se há queixas contra a administradora.
 "O consumidor deve tomar o mesmo cuidado no consórcio de produtos nacionais e importados", diz Pérola Ravina Gonçalves, 29, supervisora do Procon. Ou seja, o adepto ao importado deve conhecer o sistema de consórcio, ler as regulamentações anexas ao contrato e comparecer às assembléias.
@@ -789,9 +789,9 @@ O órgão não tem estatísticas sobre as queixas desse tipo de consórcio. "Mas são 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-061</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-061</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
  Os consórcios de veículos importados, ao contrário dos nacionais, não estão sujeitos a taxas extras no decorrer do plano. As parcelas são definidas em moeda estrangeira -dólar na maioria das vezes. "O valor a ser desembolsado fica claro na primeira prestação", diz João Carlos Ratto, 41, gerente da Suzuki. A partir daí, é acompanhar o valor da moeda e torcer para que fique abaixo da inflação.
  Nos demais itens, dizem as administradoras, o consórcio é semelhante ao nacional: o carro pode ser sorteado ou sair por lance. Algumas agências fornecem uma carta de fiança com o valor do bem e outras o próprio carro. Na retirada do bem, é possível optar por outro modelo. Se for mais caro, paga-se a diferença. "O crédito fica com o cliente se o veículo comprado for mais barato", diz Chake Ganatchina, da Honda.
@@ -803,9 +803,9 @@ Leasing
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-062</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-062</field>
+<field name="date">940212</field>
+<text_pt>
 CLÁUDIO EUGÊNIO
 Free-lance para a Folha
 Adailton da Silva Lima, 20, assistente de técnico de seguro, em São Paulo, solicitou a autorização do seguro saúde Sul América para realizar uma cirurgia de postectomia (espécie de circuncisão) e foi surpreendido com a recusa da empresa.
@@ -819,9 +819,9 @@ CARTAS com reclamações de empresas e sugestões devem ser enviadas à redação da F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-063</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-063</field>
+<field name="date">940212</field>
+<text_pt>
 Free-lance para a Folha
 Simone Fonseca, gerente de atendimento da Sul América Seguros Saúde, diz que, apesar de o contrato de Lima não cobrir doenças de antes da adesão, a empresa aceita conversar com Lima para negociar.
 "A reclamação do segurado não procede quando ele diz que a empresa não respeita a resolução do Conselho Federal de Medicina," diz a gerente.
@@ -830,9 +830,9 @@ No contrato estão excluídas da cobertura do seguro as despesas decorrentes de: t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-064</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-064</field>
+<field name="date">940212</field>
+<text_pt>
 FRANCISCA RODRIGUES
 Da Reportagem Local
 Inspirados em lojas americanas que vendem mercadorias por US$ 1, os novos espaços de importados estão virando mania em São Paulo. São as lojas que vendem produtos não-convencionais onde se encontram sugestões para várias faixas etárias.
@@ -846,9 +846,9 @@ Dollar Store: r. Alagoas, 886 - tel. (011) 826.1105Dollar Days: Shopping Eldorad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-065</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-065</field>
+<field name="date">940212</field>
+<text_pt>
 
 Dólar no paralelo e ouro sobem por causa dos feriados de Carnaval; taxas de juros voltam a cair
 Da Redação
@@ -893,9 +893,9 @@ No mercado futuro de dólar, a expectativa de desvalorização cambial para feverei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-066</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-066</field>
+<field name="date">940212</field>
+<text_pt>
 Nos hipermercados os aumentos médios foram de 9,9% no período de 1.º a 8 de fevereiro em São Paulo
 MAURO ZAFALON
 Da Redação
@@ -911,9 +911,9 @@ A pesquisa do DataFolha é feita em 12 supermercados e 12 hipermercados de São Pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-067</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-067</field>
+<field name="date">940212</field>
+<text_pt>
 Em janeiro, Dallas vende mais que o Hollywood, da Souza Cruz, e passa a ter 11,5% do mercado nacional
 CRISTIANE PERINI LUCCHESI
 Da Reportagem Local
@@ -925,9 +925,9 @@ Em janeiro de 92, os produtos da classe mais baixa de preços, a classe A (hoje e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-068</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-068</field>
+<field name="date">940212</field>
+<text_pt>
 Valor do contrato é US$ 38 mi
 ARTHUR PEREIRA FILHO
 Da Reportagem Local
@@ -938,9 +938,9 @@ O cabo ótico tem a capacidade de transmitir simultaneamente uma quantidade de in
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-069</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-069</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 A Procuradoria da Fazenda Nacional vai recorrer, junto ao Tribunal Regional Federal de São Paulo, da decisão da 11.ª Vara da Justiça Federal daquela região, que concedeu liminar à Ancor (Associação Nacional das Corretoras de Valores). A liminar suspende exigência da Receita Federal de abertura do sigilo comercial dos investidores no mercado de capitais (ações, ouro, câmbio, renda fixa e operações de futuro).
 Segundo o coordenador de arrecadação da Receita Federal, José Alves da Fonseca, no final da próxima semana o Banco do Brasil e a Caixa Econômica Federal deverão devolver o IPMF cobrado indevidamente de seus clientes no ano passado, algo em torno de US$ 56 milhões (80% dos US$ 70 milhões arrecadados pelos bancos oficiais de IPMF). CEF e BB estão entre os bancos oficiais que enviaram à Receita informações sobre o IPMF cobrado em 93.
@@ -950,39 +950,39 @@ Junqueira argumentou que a questão, por envolver o sigilo bancário, é constituci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-070</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-070</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O advogado Roberto Caldas, presidente da Associação Brasileira de Defesa do Consumidor em São Paulo, não paga IPMF. Ele ingressou na Justiça Federal contra a cobrança do imposto no ano passado. Conseguiu liminar na 17.ª Vara de Justiça Federal, pelo juiz Dagoberto Loureiro, que mandou depositar em juízo.
 Segundo o advogado, como ainda não foi julgado o mérito da questão, coisa que demora cerca de um ano, a liminar continua isentando-o do pagamento do IPMF também em 94. O imposto só pode ser cobrado neste ano.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-071</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-071</field>
+<field name="date">940212</field>
+<text_pt>
 Cerca de 1 milhão de iranianos celebraram ontem os 15 anos da revolução que instaurou no Irã o regime fundamentalista islâmico. "Milhares de olhos e ouvidos hostis esperam saber se o povo perdeu o interesse na revolução", disse o presidente iraniano, Akbar Hashemi Rafsanjani. Os manifestantes responderam aos gritos de "morte à América" e "morte a Israel".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-072</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-072</field>
+<field name="date">940212</field>
+<text_pt>
 O líder negro sul-africano Nelson Mandela vistou ontem a prisão da ilha de Robben, na Cidade do Cabo, onde ficou durante 27 anos e de onde foi libertado há exatos quatro anos. Em campanha para as primeiras eleições multirraciais do país, em abril, ele foi à sua antiga cela e quis cantar músicas sobre liberdade com os presos, mas as autoridades não permitiram.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-073</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-073</field>
+<field name="date">940212</field>
+<text_pt>
 O cantor Michael Jackson solicitou à Justiça a devolução das fotos tiradas pela polícia para verificar a descrição, dada pelo garoto que o acusa de abuso sexual, de supostas marcas em seus órgãos genitais. O juiz James Slater afirmou que os negativos e as fotos estão protegidos de qualquer divulgação e adiou qualquer decisão relativa à solicitação de Jackson.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-074</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-074</field>
+<field name="date">940212</field>
+<text_pt>
 Dominic McGlinchey (foto), 40, líder do Exército de Libertação Nacional Irlandês (facção do IRA), foi morto a tiros ao norte de Dublin. A polícia suspeita que tenha sido um "acerto de contas". McGlinchey, ou "Cachorro Louco", dizia ter participado de 30 assassinatos.
 
 O NÚMERO
@@ -1006,9 +1006,9 @@ O ministro da Defesa da Colômbia, Rafael Prado, disse que o Cartel de Cali estar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-075</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-075</field>
+<field name="date">940212</field>
+<text_pt>
 Clinton diz a Hosokawa que os americanos estão 'fartos'; premiê rejeita protecionismo
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -1030,9 +1030,9 @@ Outro acordo fechado ontem foi o de se estabelecer um fundo de US$ 12 bilhões pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-076</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-076</field>
+<field name="date">940212</field>
+<text_pt>
 De Washington
 Tensas reuniões de cúpula entre os chefes de governo dos EUA e do Japão têm sido frequentes nos últimos dois anos. Em janeiro de 92, o então presidente George Bush precisava de qualquer impulso para a sua já claudicante campanha pela reeleição e anunciou uma viagem a Tóquio como uma missão "para criar empregos, empregos e mais empregos".
 O fracasso não poderia ter sido mais completo. Bush não apenas não conseguiu qualquer acordo comercial que aumentasse as exportações dos EUA para o Japão como ainda sofreu o vexame de vomitar e desmaiar sobre o então premiê Kiichi Miyazawa durante o jantar de gala da viagem, vítima de forte ataque de gripe intestinal.
@@ -1041,9 +1041,9 @@ Miyazawa perguntou a Clinton no meio da entrevista coletiva se ele conhecia a mú
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-077</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-077</field>
+<field name="date">940212</field>
+<text_pt>
 De Washington e de Nova York
 Pela segunda vez este ano, o governo dos EUA deixou de funcionar por causa do frio. Apenas atividades definidas como essenciais foram mantidas ontem em Washington por causa da sétima tempestade desde o início do inverno, em 21 de dezembro. Toda a Costa Leste do país também foi atingida.
 Desta vez, a gravidade da situação resultou da combinação de neve, chuva e gelo, que se sucederam durante 15 horas, combinadas com temperaturas abaixo de zero. As ruas e avenidas de muitas cidades, inclusive Washington, se tornaram tão escorregadias quanto rinques de patinação. Para piorar, os estoques de sal para derreter o gelo e a neve acumulados se esgotaram na capital dos EUA.
@@ -1053,9 +1053,9 @@ Os três aeroportos que servem Nova York estiveram fechados o dia todo. Viajantes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-078</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-078</field>
+<field name="date">940212</field>
+<text_pt>
 Das agências internacionais
 Os rebeldes sérvios e o Exército da Bósnia começaram ontem a entregar algumas de suas peças de artilharia às forças de paz da ONU em Sarajevo. O general britânico Michael Rose, comandante das forças de paz em Sarajevo, se disse "razoavelmente satisfeito" com o cumprimento do cessar-fogo adotado desde anteontem na cidade, apesar de algumas violações isoladas, pelas quais responsabilizou "renegados" dos dois lados.
 Funcionários da ONU disseram que os sérvios entregaram às forças de paz um canhão, um lançador de foguetes e pelo menos um morteiro em Lukavica, subúrbio de Sarajevo. O Exército (muçulmano) entregou três morteiros. As primeiras entregas ocorreram dois dias depois de a Otan (aliança militar ocidental liderada pelos EUA) lançar um ultimato aos sérvios de que deveriam passar suas armas pesadas ao controle da ONU e retirar sua artilharia para uma distância não inferior a 20 km da cidade, ou sofrer ataques aéreos.
@@ -1066,9 +1066,9 @@ O ministro da Defesa da França, Alain Juppé, visitou o local em Sarajevo onde 68
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-079</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-079</field>
+<field name="date">940212</field>
+<text_pt>
 FERNANDA SCALZO
 De Paris
 Com o maior contingente de soldados nas tropas da ONU na Bósnia (cerca de 4.000 homens), a França tomou a dianteira na determinação de intervir, militarmente se necessário, na guerra. Depois de convencer os Estados Unidos, a França conseguiu produzir e aprovar o primeiro texto franco-americano na Otan: o do ultimato de dez dias imposto aos sérvios na Bósnia.
@@ -1079,9 +1079,9 @@ Ontem, sob ordem do presidente François Mitterrand, o porta-aviões francês Foch 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-080</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-080</field>
+<field name="date">940212</field>
+<text_pt>
 FERNANDA GODOY
 De Nova York
 Em carta enviada ontem ao Conselho de Segurança, o secretário-geral da ONU, Boutros Boutros-Ghali, anunciou que já delegou a seu representante na ex-Iugoslávia, Yasushi Akashi, a autoridade para deflagrar os primeiros ataques aéreos contra as forças sérvias que sitiam Sarajevo. Boutros-Ghali informou que o comando das forças da ONU na região recebeu instruções suas para "finalizar os procedimentos detalhados para o início e a condução dos ataques aéreos".
@@ -1091,9 +1091,9 @@ O porta-voz de Boutros-Ghali, Ahmad Fawzi, confirmou a criação de uma comissão e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-081</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-081</field>
+<field name="date">940212</field>
+<text_pt>
 
 Das agências internacionais
 A coligação de direita encabeçada pelo recém-criado partido Força Itália, do magnata da mídia Silvio Berlusconi, é a preferida dos italianos para as eleições parlamentares de 27 e 28 de março, segundo pesquisa divulgada anteontem. Em Milão, Paolo Berlusconi, irmão do empresário, foi preso ontem sob suspeita de corrupção.
@@ -1110,9 +1110,9 @@ O ex-tesoureiro do antigo Partido Comunista Italiano Sergio Cusani disse ontem q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-082</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-082</field>
+<field name="date">940212</field>
+<text_pt>
 Ex-primeira-dama fará quimioterapia
 De Washington
 A ex-primeira-dama dos EUA Jacqueline Kennedy Onassis, 64, sofre de câncer no sistema linfático. Uma porta-voz informou que ela está bem, não modificou sua rotina de trabalho na editora Doubleday e os médicos se dizem seguros de sua recuperação com tratamento de quimoterapia.
@@ -1121,9 +1121,9 @@ Cerca de 45 mil pessoas têm diagnóstico de linfoma nos EUA por ano; 52% têm sobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-083</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-083</field>
+<field name="date">940212</field>
+<text_pt>
 Uma argentina de 21 anos mordeu várias vezes o pênis do marido para, segundo ela, defender-se de constantes agressões e tentativas de estupro &#150;mesmo argumento utilizado pela manicure equatoriana Lorena Bobbitt em seu julgamento por ter amputado o pênis do marido com uma faca, em Virgínia (Costa Leste dos EUA).
 O caso, noticiado ontem pelo jornal "Cronica", ocorreu em Mar del Plata (400 km ao sul de Buenos Aires) e está sendo investigado pela Justiça local a partir de denúncia feita pela mulher.
 A identidade do casal foi mantida em sigilo. O marido, de 47 anos, tem antecedentes criminais por estupro.
@@ -1133,25 +1133,25 @@ O juiz encarregado do caso, José Antonio Martinelli, terá agora que determinar q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-084</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-084</field>
+<field name="date">940212</field>
+<text_pt>
 O PIB (Produto Interno Bruto) da Espanha caiu 0,9% em 1993, depois de crescer 0,8% em 1992, informou o banco central. O primeiro-ministro socialista, Felipe González, admitiu que o crescimento econômico previsto para este ano, de 1,3%, não será suficiente para gerar empregos. O desemprego está em torno de 23%.
 Outro dado negativo divulgado ontem mostra que os preços ao consumidor subiram 1% em janeiro. O aumento acima do esperado já coloca em risco a meta do Ministério da Economia de manter a inflação este ano em 3,5%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-085</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-085</field>
+<field name="date">940212</field>
+<text_pt>
 "Le Monde", de Paris
 Jacques Lesourne, diretor-executivo do jornal "Le Monde", pediu demissão ontem. Lesourne, um economista e o primeiro não-jornalista a assumir a direção executiva do diário, entrou em conflito com os acionistas da empresa que edita o "Le Monde", jornal com tiragem diária de 470 mil exemplares. O diretor demissionário foi eleito para o cargo em 1991, para um mandato de cinco anos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-086</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-086</field>
+<field name="date">940212</field>
+<text_pt>
 Pravda
 O antigo órgão oficial do agora extinto Partido Comunista soviético comenta a decisão da Otan de fixar um ultimato para a retirada da artilharia sérvia-bósnia das proximidades de Sarajevo. Segundo o "Pravda", a Rússia ainda tem um papel importante a desempenhar na discussão sobre os Bálcãs.
 
@@ -1160,9 +1160,9 @@ O diário de Johannesburgo informa que Israel e a África do Sul colaboraram na pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-087</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-087</field>
+<field name="date">940212</field>
+<text_pt>
 Da Agência Folha, em Curitiba
 Seis pessoas morreram em um acidente entre uma carreta e um microônibus no quilômetro 32 da BR-116, no Paraná, às 16h45 de ontem. O ônibus da Prefeitura de Barra do Turvo (320 km ao sudoeste de São Paulo) levava pacientes para o hospital Angelina Caron, em Campina Grande do Sul (a 25 km de Curitiba).
 Segundo Sebastião de Oliveira da Silva, que estava no ônibus, a carreta derrapou na pista. A traseira da carreta bateu na frente do ônibus, que caiu em uma ribanceira. Cinco pessoas estão internadas, duas delas em estado grave.
@@ -1170,9 +1170,9 @@ Todos os mortos estavam no ônibus. A Polícia Rodoviária não havia divulgado o no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-088</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-088</field>
+<field name="date">940212</field>
+<text_pt>
 Banhista foi à praia só com mormaço
 SERGIO SÁ LEITÃO
 Enviado especial a Camburi
@@ -1187,9 +1187,9 @@ De qualquer modo, o Dersa (Desenvolvimento Rodoviário S/A) e a Polícia Rodoviári
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-089</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-089</field>
+<field name="date">940212</field>
+<text_pt>
 
 Turista antecipa viagem e congestionamento começa às 16h30; Imigrantes pára 12 km
 Da Reportagem Local e da Folha Vale
@@ -1202,9 +1202,9 @@ O acidente com morte na Dutra aconteceu às 14h de ontem. A motorista do Monza, p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-090</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-090</field>
+<field name="date">940212</field>
+<text_pt>
 Paisagista Burle Marxé internado no Rio
 O paisagista Roberto Burle Marx, 85, está internado há três dias na casa de saúde Santa Marta, no Rio. De acordo com seu médico, Caio Villela Nunes, o paisagista sofre de problemas no aparelho digestivo. O médico afirmou que Burle Marx está sendo submetido a um tratamento de hidratação, já que vinha passando mal com o forte calor que atinge o Rio.
 
@@ -1223,9 +1223,9 @@ O publicitário Nelson José Pereira de Souza, 19, está sendo acusado de ter matad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-091</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-091</field>
+<field name="date">940212</field>
+<text_pt>
 A tradicional Banda Mole (homens vestidos de mulher e vice-versa) abre hoje pela 19º vez o Carnaval de rua de Guaratinguetá. A banda costuma reunir em seus desfiles pessoas de todas as classes e profissões. A segurança será feita por 70 policiais militares.
 SP Interior 2
 As prefeituras da região sudeste do Estado vão distribuir cerca de 150 mil camisinhas durante o Carnaval. Segundo os profissionais dos Escritórios Regionais de Saúde, a quantidade não é suficente para atender a demanda de todos os municípios.
@@ -1240,9 +1240,9 @@ Os moradores do bairro de São Benedito, em Santa Luzia (região metropolitana de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-092</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-092</field>
+<field name="date">940212</field>
+<text_pt>
 A Secretaria de Saúde vai distribuir 90 mil preservativos &#150;51 mil deles em Campo Grande. Segundo Maria Aparecida Spíndola, coordenadora do Programa de Doenças Sexualmente Transmissíveis, os preservativos foram importadas da Coréia. Até janeiro foram registrados 482 casos de Aids no Estado.
 Mato Grosso do Sul 2
 O Centro de Hematologia e Hemoterapia (Hemosul) aumentou o estoque de sangue para atender a demanda no Carnaval. Segundo Renné André Posio dos Santos, chefe da Divisão Médica do Hemosul, neste período a procura aumenta, em média, de 30% a 40%.
@@ -1253,9 +1253,9 @@ Cerca de 3.400 quilos de peixes foram distribuídos esta semana em bairros carent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-093</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-093</field>
+<field name="date">940212</field>
+<text_pt>
 A Secretaria Estadual de Saúde já distribuiu 40 mil camisinhas. Outras 120 mil devem ser distribuídas no Carnaval. Os postos de distribuição foram instalados nas principais praias, na Grande Natal, em Touros e em Tibau, onde há o maior número de turistas e foliões.
 Sergipe
 A Divisão de Doenças Sexualmente Transmissíveis de Sergipe vai distribuir no Carnaval 15 mil preservativos em locais de grandes aglomerações, como o Clube do Povo, área central de Aracaju. A distribuição conta com o apoio de grupos homossexuais e prostitutas.
@@ -1274,9 +1274,9 @@ Segundo a polícia, alguns moradores disseram que Lima também se masturba e anda 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-094</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-094</field>
+<field name="date">940212</field>
+<text_pt>
 A Secretaria de Saúde vai distribuir 50 mil preservativos nas principais cidades do Estado. Em Taquaralto, será instalado um posto na avenida Tocantins, onde ocorrem os desfiles. As camisinhas vão ser distribuídas entre as escolas de samba e os blocos.
 Amazonas
 Oitenta mil camisinhas serão distribuídas pela Secretaria de Saúde no Carnaval. Cerca de 50 funcionários vão percorrer os bailes em Manaus distribuindo os preservativos. No Sambódromo da cidade, serão dados ainda panfletos informativos sobre a Aids.
@@ -1287,9 +1287,9 @@ Patrícia substituiu Yolanda Aurora Galvão, envolvida em denúncias de espancament
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-095</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-095</field>
+<field name="date">940212</field>
+<text_pt>
 Os 65 agricultores que acamparam em frente ao prédio da Eletrosul, em Florianópolis, deixaram o local. Eles queriam indenizações por terem sido atingidos pela construção da barragem de Itá. A empresa prometeu comprar 1.800 hectares de terra para indenizá-los.
 Santa Catarina 2
 A Associação dos Delegados do Estado vai entrar com uma ação na Justiça contra o governo para exigir o cumprimento do decreto que determina a isonomia salarial entre delegados e procuradores do Estado. A categoria decidiu pela medida após uma greve de oito dias.
@@ -1308,9 +1308,9 @@ Segundo depoimento de vizinhos de Bezerra, ele teria apresentado a menina como s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-096</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-096</field>
+<field name="date">940212</field>
+<text_pt>
 
 Da Agência Folha, em Recife
 O trio elétrico "Camisão", contratado pela Secretaria de Saúde de Pernambuco, vai distribuir 150 mil preservativos durante o carnaval em Recife e Olinda. De acordo com a secretaria, a campanha, que custou US$ 50 mil, está sendo financiada por quatro empresas públicas estaduais.
@@ -1318,9 +1318,9 @@ Sete garotas fantasiadas de camisinhas coloridas vão distribuir o material, que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-097</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-097</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Vale
 Os nove Consebs (Conselhos de Bairro) de Ribeirão Preto estão operando com apenas 65% de sua frota de veículos. Os Consebs foram criados por representantes de bairros e por policiais militares para conter a criminalidade no município. Na última semana de janeiro, dos 41 veículos destinados ao patrulhamento da PM, 14 estavam sem condições de uso.
 A maioria desses carros está há mais de um mês na oficina do 3º Cpai (Comando de Policiamento de Área do Interior) de Ribeirão e devem continuar inoperantes por falta de peças.
@@ -1328,9 +1328,9 @@ Segundo o tenente Luiz Carlos Módulo, 43, responsável pela oficina, a média é de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-098</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-098</field>
+<field name="date">940212</field>
+<text_pt>
 FABIO FELDMANN
 "...uma Política Cultural moderna e eficaz deve atuar em três frentes conjugadas, a saber: defesa e preservação do patrimônio histórico... segundo o tríplice princípio: conservar, restaurar e revitalizar."
 
@@ -1345,9 +1345,9 @@ FABIO FELDMANN, 38, é deputado federal pelo PSDB de São Paulo e presidente da Fu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-099</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-099</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Mais de 4.000 funcionários da Eletropaulo tiveram que abandonar ontem de manhã os quatro edifícios da sede da empresa no bairro de Santo Amaro (zona sul de São Paulo). Um telefonema anônimo dizia que uma bomba havia sido colocada em um dos prédios. Dois policiais do GATE (Grupo de Ações Táticas Especiais) da PM fizeram o rastreamento dos 700 metros quadrados da sede da empresa e nada encontraram.
 O gerente do Departamento de Engenharia de Segurança do Trabalho da Eletropaulo, José Paulino Rodrigues, 42, não soube dizer ao certo o horário do telefonema. Segundo funcionários da empresa, a ligação teria sido feita entre o final da noite de anteontem e o começo da madrugada de ontem.
@@ -1357,9 +1357,9 @@ Com a dispensa, os funcionários não puderam assistir ao filme programado para on
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-100</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-100</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O soldado da PM Marcones Dias Alves, 25, foi preso em flagrante ontem, à 1h10, sob a acusação de assalto. Alves e o auxiliar administrativo André Bernardes, 20, teriam roubado o Escort do motorista Adair Rossetto, 28, no semáforo da esquina da avenida Dr. Vital Brasil com a rua Alvarenga, no Butantã (zona oeste de São Paulo).
 O soldado Alves pertence ao 25º Batalhão da PM. Bernardes é funcionário público e trabalha na prefeitura de Embu (Grande São Paulo). Segundo o delegado Wilson Tamer, 44, do 51º DP, os dois se encontraram anteontem à noite e decidiram fazer um roubo de carro. O soldado emprestou um revólver calibre 38 para o amigo e, com um outro revólver do mesmo calibre, abordou o motorista no semáforo.
@@ -1368,9 +1368,9 @@ Eles seguiram o carro e o mandaram parar. Alves e Bernardes teriam escondido as 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-101</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-101</field>
+<field name="date">940212</field>
+<text_pt>
 HUMBERTO SACCOMANDI
 De Londres
 Ativistas do Greenpeace bloquearam na noite de anteontem o envio de resíduos tóxicos do Reino Unido para o Brasil. Os manifestantes impediram que um contêiner com 20 toneladas de baterias usadas fosse carregado em Londres no navio "MV Brazil Express", que levaria a carga para Santos.
@@ -1382,9 +1382,9 @@ Os ecologistas defendem a proibição global de exportação de resíduos químicos. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-102</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-102</field>
+<field name="date">940212</field>
+<text_pt>
 SÉRGIO TORRES
 Da Sucursal do Rio
 A Polícia Civil informou ter apreendido 21 bolotas de crack &#150;droga produzida a partir de resíduos de cocaína&#150; em um templo evangélico na favela Vila Ipiranga, em Niterói (a 15 km do Rio). Segundo a polícia, também foram encontrados no templo 20 kg de maconha e 200 papelotes de cocaína.
@@ -1393,9 +1393,9 @@ O templo evangélico, segundo apurou a polícia, estava ocupado por traficantes, q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-103</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-103</field>
+<field name="date">940212</field>
+<text_pt>
 Do NP
 A professora de artes Sílvia Aparecida dos Santos, 25 anos, morreu em acidente ontem de madrugada na avenida Francisco Morato, Vila Sonia (zona oeste de São Paulo). Seu noivo, o vereador José Luís Eloy, 28, que dirigia o carro, foi internado no Hospital das Clínicas com um corte na testa e outro no braço direito. Sílvia havia acabado de passar no vestibular para a faculdade de arquitetura da Universidade de São Paulo.
 Sílvia e Eloy estavam no Chevette placas BJA 3092. Chovia muito. Após uma curva fechada, a cinco quarteirões do 34º Distrito Policial, no sentido Vila Sonia-Taboão, Eloy freou, rodopiando na pista. O carro subiu na calçada e ficou imprensado entre um poste e um muro. Sílvia morreu esmagada nas ferragens.
@@ -1403,9 +1403,9 @@ Eloy é vereador em Taboão da Serra pelo PMDB e tinha voltado de Brasília anteont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-104</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-104</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O agente de segurança Claudio Donizetti dos Santos, 35, se matou ontem, às 9h, com um tiro na cabeça após assassinar sua mulher, a auxiliar de enfermagem Maria Tereza da Silva, 32, com quatro tiros, e de tentar matar sua empregada, J.C.S., 15. O crime aconteceu na rua Borges, na Parada Inglesa (zona norte de São Paulo).
 Santos havia sido acusado 12 horas antes de estuprar a empregada. J.C.S trabalhava havia um mês na casa de Santos e contou anteontem para Maria Teresa que o segurança a havia estuprado duas vezes. A empregada e a patroa foram para a delegacia denunciar o crime.
@@ -1413,9 +1413,9 @@ Segundo o investigador Hélio Teixeira, do 39º DP, Santos só não ficou preso porq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-105</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-105</field>
+<field name="date">940212</field>
+<text_pt>
 MARCUS FERNANDES
 Da Agência Folha, em Santos
 A Prefeitura de Santos (SP) recomenda aos banhistas que evitem profundidades superiores a 1,8 m nos próximos dois dias nas praias do município. A medida é preventiva, segundo a assessoria de imprensa da prefeitura, e está relacionada com a possível aparição de tubarões na baía de Santos.
@@ -1426,9 +1426,9 @@ Gadig, que faz tese de mestrado sobre tubarões na Universidade Federal da Paraíb
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-106</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-106</field>
+<field name="date">940212</field>
+<text_pt>
 Da Agência Folha, em Santos
 A Sabesp informou ontem que não deve faltar água na Baixada Santista e litoral sul neste Carnaval. Peruíbe e Guarujá, que tiveram interrupção no abastecimento por causa das fortes chuvas no início da semana, retornaram à normalidade.
 O número de desabrigados na região &#150;que chegou a 1.200 na terça-feira&#150; tinha caído ontem para 228 pessoas. Peruíbe, a cidade mais atingida pelas chuvas, tinha 89 desabrigados. O estado de calamidade pública na cidade foi cancelado anteontem.
@@ -1439,9 +1439,9 @@ Em Santos, existem 127 desabrigados. Nesses locais, vivem 50 mil pessoas, sendo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-107</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-107</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 A movimentação de carros alegóricos dos bairros em direção ao Sambódromo, no Pólo de Arte e Cultura do Anhembi (zona norte de São Paulo), congestionou quatro quilômetros de avenidas na região ontem pela manhã, segundo a CET (Companhia de Engenharia de Tráfego).
 O problema mais grave foi no cruzamento da avenida Voluntários da Pátria com Santa Eulália, na zona norte. A passagem de um carro alegórico da escola de samba Acadêmicos do Tucuruvi rompeu os cabos da rede de trolebus.
@@ -1454,9 +1454,9 @@ no caderno Carnaval
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-108</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-108</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal do Rio
 O arcebispo do Rio de Janeiro, cardeal d. Eugenio Sales, condenou ontem, na mensagem radiofônica Voz do Pastor, a campanha que incentiva o uso de camisinhas nas relações sexuais como forma de evitar a contaminação pelo vírus HIV.
 "Muitos que, diante da gravidade do perigo, poderiam modificar sua atitude, controlando seus instintos para conservar a saúde, certamente não o farão, diante da força de persuasão a que estão submetidos pela intensa propaganda", afirma o cardeal.
@@ -1465,9 +1465,9 @@ A nota de d. Eugenio Sales, transmitida pela Rádio Catedral, da Arquidiocese do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-109</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-109</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O Gapa de São Paulo (Grupo de Apoio à Prevenção à Aids) vai distribuir 20 mil leques de papelão onde há informações sobre a Aids e um preservativo colado, no Sambódromo do Anhembi. A distribuição começa hoje e acontece até quarta-feira, sempre durante os desfiles. O trabalho será feito por 50 voluntário do Gapa. Haverá também cinco técnicos que fazem palestram sobre Aids para responder a dúvidas mais específicas.
 O grupo distribui preservativos no sambódromo desde 1989. Este ano, a novidade é o leque. O objetivo, segundo o diretor do Gapa Décio Fonseca, 28, é que as pessoas fiquem mais tempo em contato com as informações de prevenção à Aids. "Os informativos distribuídos nos outros anos foram jogados fora. Com o leque, as pessoas poderão se abanar durante o desfile e ler nos intervalos", afirmou.
@@ -1475,9 +1475,9 @@ As informações no verso do leque dividem-se em três tópicos: "assim se pega", co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-110</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-110</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 A avenida 23 de Maio ficará interditada neste fim-de-semana. O bloqueio começa hoje às 15h e termina às 17h de amanhã. O trecho interditado fica entre o viaduto General Marcondes Salgado e a rua da Faxina, no sentido centro-bairro.
 O motivo da interdição são obras de manutenção na avenida. A Secretaria Municipal de Transportes está fazendo, desde o ano passado, obras de adequação geométrica, construção de baias de ônibus, troca de defensas de metal por outras de concreto e pintura das guias. A 23 de Maio estava sendo interditada à noite para as obras.
@@ -1487,9 +1487,9 @@ A rua Bom Pastor, no bairro do Ipiranga, também será interditada durante o Carna
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-111</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-111</field>
+<field name="date">940212</field>
+<text_pt>
 O leitor José Roberto Cardoso A. Canelas pede uma solução com relação ao recebimento de sua conta inativa do FGTS. Segundo José Roberto, já faz mais de 60 dias que ele enviou o formulário, através da agência de São Caetano do Sul. "Como passou todo esse tempo e não recebi uma resposta, fui até a agência. Mas, infelizmente, quem me atendeu não se deu nem ao trabalho de levantar da cadeira para verificar", diz José Roberto. 
 
 Resposta
@@ -1499,9 +1499,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-112</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-112</field>
+<field name="date">940212</field>
+<text_pt>
 No total, 21 carros foram atingidos pelo temporal; Mocidade Alegre deve ficar sem quatro alegorias no desfile
 Da Reportagem Local
 Quatro carros alegóricos da escola de samba Mocidade Alegre, do Grupo Especial do Carnaval de São Paulo, foram praticamente destruídos pelo temporal que atingiu a cidade ontem à tarde. Os carros estavam estacionados na concentração do Sambódromo, que ficou alagado &#150;com poças de quase 30 cm&#150; por volta das 16h. As outras cinco alegorias da Mocidade ficaram avariadas. O acidente pode tirar pontos da escola, pois o regulamento do desfile exige a apresentação de pelo menos sete carros.
@@ -1513,9 +1513,9 @@ O vento partiu ao meio as pernas da escultura de uma mulher da Gaviões da Fiel. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-113</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-113</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Entre os carros que estavam no Sambódromo, os da escola Primeira da Aclimação foram os que mais resistiram à chuva. Como o barracão da agremiação não tem teto, o carnavalesco Simonal da Cor Morena optou por usar materiais mais resistentes, como tecido lamê, que não perde brilho e cor com a chuva.
 "Já estamos acostumados a temporais. Depois de alguns acidentes, nossas alegorias ficaram a prova d'água", diz Simonal. Em janeiro, um temporal causou prejuízo de CR$ 1,5 bilhão.
@@ -1523,9 +1523,9 @@ A Primeira da Aclimação é uma das mais pobres do Grupo Especial, que estréia nes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-114</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-114</field>
+<field name="date">940212</field>
+<text_pt>
 Na véspera do fim-de-semana prolongado as principais avenidas que dão acesso a São Paulo ficaram congestionadas
 Da Reportagem Local
 Três fatores isolados, que se juntaram ontem, deixaram o trânsito de São Paulo mais lento. De acordo com a CET (Companhia de Engenharia de Tráfego), a véspera do Carnaval, a chuva que atingiu a cidade à tarde e o agravante de ontem ter sido uma sexta-feira foram os responsáveis pelos engarrafamentos nas marginais Pinheiros e Tietê, na radial Leste, na avenida dos Bandeirantes e na avenida Cidade Jardim.
@@ -1539,17 +1539,17 @@ Um ônibus de fretamento da Sangetur derrapou e capotou às 4h30 de ontem na margi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-115</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-115</field>
+<field name="date">940212</field>
+<text_pt>
 O arquiteto e designer José Duarte de Aguiar morreu à 0h10 de ontem vítima de parada cárdio-respiratória no Hospital Israelita Albert Einstein, em São Paulo. O corpo foi transferido às 7h de ontem para Uberaba (MG), onde o arquiteto nasceu, e foi enterrado às 13h30 no túmulo de sua mãe.
 Aguiar, que iria completar 51 anos dia 26 de março, formou-se em arquitetura na Universidade Mackenzie e trabalhou com o decorador Germano Mariutti, na década de 60. Entre seus últimos trabalhos, destacam-se a cenografia do filme "Forever", de Walter H. Khouri, a ala nova do Hospital Santa Joana, em São Paulo, e a sala Vip do banco Safra no aeroporto de Cumbica (Guarulhos).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-116</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-116</field>
+<field name="date">940212</field>
+<text_pt>
 A vítima, que mora na zona norte da capital e contraiu a doença no Rio Grande do Norte, já recebeu alta
 Da Reportagem Local
 O Centro de Vigilância Epidemiológica de São Paulo identificou ontem o primeiro caso de cólera no Estado de São Paulo este mês. Em janeiro, foram registrados outros cinco casos, todos eles na região metropolitana da capital. A vítima foi Everton Dantas da Silva, que mora na zona norte da cidade e contraiu a doença no Rio Grande do Norte.
@@ -1565,9 +1565,9 @@ Segundo Costa, da Vigilância Sanitária, o órgão está fazendo análises por amostr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-117</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-117</field>
+<field name="date">940212</field>
+<text_pt>
 Banhista foi à praia só com mormaço
 SERGIO SÁ LEITÃO
 Enviado especial a Camburi
@@ -1578,9 +1578,9 @@ Na barraca da Operação Praia Limpa, uma iniciativa da Cetesb (Companhia de Tecno
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-118</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-118</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Pela primeira vez na história dos seus desfiles de escolas de samba, São Paulo deve conseguir "vipar" os camarotes do seu Sambódromo. Pelo menos a Anhembi Turismo e Eventos, que organiza o Carnaval oficial da cidade, e a promotora Rosana Beni esperam cerca de 300 caras conhecidas &#150;se não muito importantes, ou vips&#150; para ver Vai-Vai, Nenê da Vila Matilde e Leandro de Itaquera, entre outras, passarem pelos 530 metros da pista do samba paulistano, no sábado. A conta da comida e do transporte gratuitos será paga pela Lindóia Saúde, engarrafadora de água mineral, que preferiu não divulgar quanto vai gastar no patrocínio da festa. "É uma deselegância para com os convidados", diz Marco Aurélio Abreu, presidente da empresa. O bufê, a cargo do restaurante The Place, vai custar cerca de US$ 70 por pessoa. Na lista da Anhembi, de Rosana Beni, da socialite Alice Carta e da Lindóia Saúde estão nomes como o da cantora Sula Miranda, do empresário José Papa Jr., das atrizes Suzy Rêgo e Patricia de Sabrit e do novelista Lauro César Muniz.
 Pelo menos desde o começo dos anos 80 as escolas de samba da cidade deixaram de parecer versões mais fracas das congêneres do Rio -ganharam luxo e volume. No entanto, as novidades da tecnologia e cultura carnavalescas continuavam a vir da Marquês de Sapucaí - o bom, bonito e barato da União da Ilha, o desfile vertical de Joãosinho Trinta e a tecnologia da Mocidade Independente, por exemplo. As caras conhecidas -ou talvez vips- ajudavam a levar para lá a maioria das câmeras de TV.
@@ -1589,9 +1589,9 @@ O ator e dono do restaurante Paisá, Cláudio Curi, também vai ao camarote vip, e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-119</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-119</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 A maior atração de São Paulo neste Carnaval, para muita gente que fica na cidade, é a ausência &#150;de trânsito, filas, barulho e tudo o que vai para o litoral em quase um milhão de carros.
 A atriz Mayara Magri fica na cidade por um motivo tipicamente paulistano -trabalho. Ensaia para abril "As Gaivotas", de Anton Tchekhov, e se prepara para atuar na novela "Éramos Seis", no SBT. "Acho que esse Carnaval da cidade vai dar certo. Muitos paulistanos não são carnavalescos a ponto de irem até o Rio -ela inclusive- e vão poder desfrutar de uma cidade mais tranquila e da comodidade do camarote", diz a atriz.
@@ -1600,9 +1600,9 @@ A administradora de empresas Sílvia Regina Klein, 34, vai deixar vazio seu apart
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-120</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-120</field>
+<field name="date">940212</field>
+<text_pt>
 O compositor e cantor volta com CD inédito, gravado em parceria com o percussionista Naná Vasconcelos
 CARLOS CALADO
 Da Reportagem Local
@@ -1628,9 +1628,9 @@ Macalé - Como as gravadoras não demonstraram interesse, eu mesmo tentei produzir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-121</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-121</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Também recusado dez anos atrás pelas gravadoras, "Let's Play That" chega às lojas através do Rock Company, selo alternativo sediado em Porto Ferreira, no interior paulista. Com quase uma hora de duração, registra uma livre e intimista "jam session", gravada "ao vivo" em estúdio. O projeto nasceu durante uma visita ao Rio de Janeiro do percussionista pernambucano Naná Vasconcelos (radicado nos EUA há mais de 20 anos), em novembro de 1983.
 "No final dos anos 60, a gente costumava passar horas improvisando, com o disco 'Axis: as Bold as Love', do Jimi Hendrix, tocando numa vitrolinha", lembra Macalé. A gravação aconteceu graças ao interesse de um amigo de Macalé, o empresário Claudio Cohen, que bancou as fitas e as seis horas de gravação no estúdio carioca Transamérica.
@@ -1645,9 +1645,9 @@ Preço: CR$ 7.000 (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-122</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-122</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Outro antigo projeto de Macalé que deve sair este ano é a reedição do perturbador "Banquete dos Mendigos", álbum duplo lançado originalmente em 1979, após seis anos de proibição pelo regime militar da época. Gravado ao vivo, no MAM do Rio, em 10 de novembro de 73, esse disco registra um evento histórico.
 Quase 4.000 pessoas se espremeram naquela noite, mesmo sem divulgação pelos meios de comunicação. Com a expectativa de que o local fosse invadido pela polícia a qualquer momento, apresentaram-se ali astros da MPB como Chico Buarque, Milton Nascimento, Edu Lobo, Gal Costa, Paulinho da Viola, Gonzaguinha, Raul Seixas, Johnny Alf, Jorge Mautner e o grupo MPB-4.
@@ -1659,23 +1659,23 @@ Mês passado, visitando a sede da ONU em Nova York com o disco na mão, Macalé tev
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-123</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-123</field>
+<field name="date">940212</field>
+<text_pt>
 A revista "Bite" deu o veredicto. Segundo seus leitores, o homem ideal teria cabelos de Robert De Niro, olhos de Paul Newman, dentes e peitos de Richard Gere, braços de Bruce Springsteen, pernas de Jean-Paul Gaultier e nariz de Gerard Depardieu (hein!).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-124</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-124</field>
+<field name="date">940212</field>
+<text_pt>
 Já a mulher ideal tem que ter as pernas de Naomi Campbell, a barriga de Madonna, os peitos de Claudia Schiffer, a boca de Beatrice Dalle (com os dentes de Michelle Pfeiffer), o nariz de Catherine Deneuve, os olhos de Demi Moore e os cabelos de Cindy Crawford.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-125</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-125</field>
+<field name="date">940212</field>
+<text_pt>
 Nova peça de Thomas tenta empatia com público
 MARIO VITOR SANTOS
 Da Reportagem Local
@@ -1700,9 +1700,9 @@ Quanto: grátis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-126</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-126</field>
+<field name="date">940212</field>
+<text_pt>
 Programação inclui especiais sobre o M2.000 e apresenta músicas antigas de bandas inglesas e norte-americanas
 MARCEL PLASSE
 Free-lance para a Folha
@@ -1715,9 +1715,9 @@ A rádio Brasil 2.000 FM mantém a programação normal. O destaque é o programa "Zi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-127</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-127</field>
+<field name="date">940212</field>
+<text_pt>
 Poucas casas noturnas abrem no feriado
 Free-lance para a Folha
 Muitas casas noturnas, como Aeroanta, Columbia e Ursa Maior, vão estar fechadas durante o Carnaval. Já as casas Massivo e Sra. Krawitz pretendem arriscar-se à espera do povo clubber. O Urbânia não programou nenhuma banda para seu palco durante o feriadão, mas vai estar aberto até segunda, voltado para o público skater.
@@ -1727,9 +1727,9 @@ As locadoras costumam promover pacotes com descontos. Dentre os novos lançamento
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-128</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-128</field>
+<field name="date">940212</field>
+<text_pt>
 INÁCIO ARAUJO
 Crítico de Cinema
 
@@ -1747,9 +1747,9 @@ E como se, em vez de retirantes, estivéssemos às voltas com seres errantes, sem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-129</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-129</field>
+<field name="date">940212</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Certas religiões orientais pedem a seus membros que passem o dia inteiro cantando o mesmo versículo sagrado. Quem já viu algum grupo de Hare Krishna na rua sabe que eles estão repetindo &#150;sem parar&#150; um curto trecho de louvação a Deus.
@@ -1757,9 +1757,9 @@ A "prece da respiração" consiste em repetir mentalmente e durante a maior parte 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-130</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-130</field>
+<field name="date">940212</field>
+<text_pt>
 O escritor argentino, morto há dez anos, será alvo de comemorações na Argentina, na França e no Brasil
 JOSÉ GERALDO COUTO
 Da Reportagem Local
@@ -1777,9 +1777,9 @@ A editora José Olympio decidiu lançar o livro em agosto para comemorar os 80 ano
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-131</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-131</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 A editora argentina Alfaguara vai lançar simultaneamente na Argentina e na Espanha três volumes da obra de Julio Cortázar, em comemoração aos 80 anos de seu nascimento e dez anos de sua morte. Um dos três livros será composto só de textos esparsos inéditos do autor. Os outros dois reunirão todos os contos de Cortázar, incluindo os que compõem o livro "La Otra Orilla" (A Outra Margem), escrito em 1945 e nunca publicado. O lançamento está previsto para maio.
 Entre os outros eventos previstos para este ano está um concurso literário internacional (em língua espanhola) em torno do tema "Os Aspectos Mágicos na Narrativa de Cortázar", que receberá inscritos até abril. O concurso é patrocinado pela Fundação Banco Mercantil Argentino. Outro concurso elegerá a melhor ilustração para o conto "O Outro Céu" (de "Todos os Fogos o Fogo").
@@ -1788,9 +1788,9 @@ Começou há 15 dias em Buenos Aires uma campanha &#150;que inclui abaixo-assinado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-132</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-132</field>
+<field name="date">940212</field>
+<text_pt>
 FERNANDA SCALZO
 De Paris
 As comemorações do "Ano Cortázar", que homenageiam o escritor argentino naturalizado francês, começaram no último dia três com um debate entre escritores no Centro Georges Pompidou (Beaubourg) e a exibição do filme "Julio Cortázar", de Alan Caroff e Claude Namer. Durante todo este ano, o documentário que reúne depoimentos do escritor será exibido em diversas salas da França.
@@ -1801,9 +1801,9 @@ Cortázar viveu na França desde 1951, trabalhando como tradutor e intérprete da U
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-133</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-133</field>
+<field name="date">940212</field>
+<text_pt>
 CARLOS EDUARDO LINS E SILVA
 De Washington
 O público norte-americano sempre teve atitude de respeitosa deferência em relação a atores ingleses e essa simpatia muitas vezes se expressou na outorga de Oscars a muitos deles. Poucos, no entanto, conseguiram tamanha admiração como a desfrutada agora por Anthony Hopkins.
@@ -1820,9 +1820,9 @@ Gastou boa parte dos anos 70 e 80 em especiais para a TV americana que lhe deram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-134</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-134</field>
+<field name="date">940212</field>
+<text_pt>
 Desfiles em chamam a atenção para profissionais de nível internacional, mas pouco conhecidos fora do meio de moda
 EVA JOORY
 Da Reportagem Local
@@ -1835,9 +1835,9 @@ Como as modelos, os tops brasileiros são plenamente aceitos no mercado internaci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-135</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-135</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 São Paulo viu esta semana seu primeiro evento cyberpunk. Música tecno radical, alta e aceleradíssima, modelos em roupas brancas destruídas, olhos manchados de preto, cabelo emplastrado, homens com pequenas lâmpadas dicróicas abrindo caminho pela passarela na escuridão. Tudo isso para mostrar uma coleção de acessórios de couro -mochilas, bolsas, malas e cintos. Foi assim que a marca Armadilha quis &#150;e conseguiu&#150; chamar a atenção para seu nome.
 Chamou todo o mundo da moda jovem da cidade e pôs todo esse circo numa estação ferroviária desativada, um cenário perfeito, em instalação impecável. O início do desfile, com uma criança sendo carregada por um homem, correndo, já deu o tom de estranhamento necessário. Daí, um desfile de top models, homens e mulheres, marcando a volta às passarelas de Claudia Liz, de piercing (falso) na boca, como outro nome forte da noite, Alessandra Berriel. Todos com pasta de farinha no cabelo, em criativa concepção do cabeleireiro Paulo Cézar, tudo sob a direção geral do produtor Pazetto.
@@ -1845,18 +1845,18 @@ Em meio a tudo isso, olhar para as mochilas, em questão. Modernas, em tons de ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-136</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-136</field>
+<field name="date">940212</field>
+<text_pt>
 fotógrafo, 26 anos
 Foi no desfile da Bavardage que o fotógrafo Márcio Neves sentiu pela primeira vez como é ser modelo. Acostumado a ficar atrás das câmeras, Márcio diz que "nem sabia o que estava fazendo" quando entrou na passarela. Formado em artes plásticas, ele trabalha com moda há seis anos e se sai especialmente bem em fotos de moda masculina: "A moda feminina está cada vez mais assexuada, enquanto a masculina caminha para a sensualidade", diz, num intervalo das sessões para o novo catálogo de inverno da marca Zoomp.
 Admirador dos fotógrafos americanos Steven Meisel e Peter Lindbergh, Márcio foi convidado para participar de uma exposição na Noruega que terá trabalhos de Robert Mapplethorpe e do artista Keith Haring. Projeto futuro: trabalhar fora do Brasil &#150;"Aqui o trabalho com moda ainda está muito limitado". (Eva Joory)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-137</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-137</field>
+<field name="date">940212</field>
+<text_pt>
 A fábula de introdução ao budismo de Bertolucci abriu o festival anteontem
 AMIR LABAKI
 Enviado especial a Berlim
@@ -1868,18 +1868,18 @@ Dois filmes dão hoje sequência à mostra competitiva. "Morango e Chocolate", dos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-138</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-138</field>
+<field name="date">940212</field>
+<text_pt>
 Do enviado especial
 "Sem Medo de Viver" (Fearless) foi o destaque ontem no primeiro dia de competição. O diretor australiano Peter Weir ("A Testemunha") assina mais um retrato de um estranho no ninho. Depois do repórter na Indonésia de Sukarno ("O Ano Em Que Vivemos Perigosamente") e de um francês nos EUA ("Green Card"), desta vez Weir trata de um sobrevivente de acidente de avião (Jeff Bridges).
 Os traumas de Max Klein e companheiros de infortúnio são o centro do filme. Klein crê-se invulnerável depois de salvar a própria pele e a de um monte de gente, incluindo um garoto e um bebê. O foco de Weir privilegia a psicologia das vítimas. Destoa do tom geral a presença dos estereótipos de psicoterapeuta e advogado criados pelos eficientes John Turturro e Tom Hulce.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-139</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-139</field>
+<field name="date">940212</field>
+<text_pt>
 Faça como eu! Ligue a televisão, peça um engradado da Antártica e finja que tá no camarote da Brahma! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -1892,9 +1892,9 @@ Faça como a campanha publicitária contra a Aids no Ceará: ao tirar a fantasia, v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-140</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-140</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 
 Filme: Bonequinha de Luxo
@@ -1910,9 +1910,9 @@ Para escrever, será preciso que Paul tenha por inspiração outra coisa além dos c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-141</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-141</field>
+<field name="date">940212</field>
+<text_pt>
 ESTHER HAMBURGER
 Especial para a Folha
 "O maior espetáculo da Terra" está chegando. Toma conta das ruas nos fins de semana de ensaio. Mobiliza Carlinhos Brown, Zé Celso e Oswald de Andrade. A telinha se esforça para transmitir o calor da tal festa da alegria, ritual de suor e transgressão. O Carnaval ganha propagandas de cerveja, telejornais e vinhetas que anunciam coberturas espetaculares. Mas encapsulado na TV, o ritmo do samba e da fantasia não contagia.
@@ -1923,9 +1923,9 @@ Talvez por isso a vinheta da Globo cause tanto estranhamento. Ela isola a mulata
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-142</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-142</field>
+<field name="date">940212</field>
+<text_pt>
 
 Desde o famoso 'Independência ou Morte' a ameaça das escolhas paira sobre a cabeça dos cidadãos desta terra
 ANTONIO CALLADO
@@ -1950,9 +1950,9 @@ Desde aquele dilema que foi nossa pedra fundamental &#150;Independência ou Morte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-143</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-143</field>
+<field name="date">940212</field>
+<text_pt>
 Do enviado especial
 A música "Cagaço", cuja letra a Folha traz com exclusividade, apresenta duas novidades em termos de Paralamas do Sucesso. É a primeira que o grupo usa um termo chulo e que faz referência a uma pessoa, o escritor Wally Salomão. Ela tem uma estrutura pouco linear, "um vitral, que deve ser visto de longe. Visto de perto, são somente cacos coloridos", disse Herbert.
 "Nunca gostei de usar palavrões nas músicas, do apelo fácil", disse. Mas ele afirmou que sentiu a necessidade de usar uma palavra forte contra o preconceito, contra o racismo pré-concebido.
@@ -1960,9 +1960,9 @@ Salomão foi a musa inspiradora da canção. Herbert levou um livro do escritor dur
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-144</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-144</field>
+<field name="date">940212</field>
+<text_pt>
 Do enviado especial
 Em três meses o Paralamas do Sucesso produziu não um, mas dois discos. O primeiro, totalmente inédito, é para o mercado brasileiro. O segundo, que inclui músicas inéditas e regravações de sucessos antigos, é cantado em espanhol e vai para o mercado latino-americano.
 "Vamos trabalhar particularmente o México este ano", disse Herbert. Segundo ele, o Paralamas já tem uma boa penetração na Argentina (onde o último show do grupo reuniu 90 mil pessoas) e no Uruguai.
@@ -1972,9 +1972,9 @@ Este é o segundo disco do Paralamas em espanhol. O grupo diz que desta vez tomou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-145</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-145</field>
+<field name="date">940212</field>
+<text_pt>
 Técnico Luxemburgo diz que todos os times têm motivação extra em vencer o Palmeiras
 MARCELO DAMATO
 Da Reportagem Local
@@ -1994,9 +1994,9 @@ sobre a rodada nas págs. 3 e 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-146</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-146</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O volante Amaral vai sair do jogo de hoje contra a Portuguesa quase diretamente para a avenida Tiradentes. Esta noite ele e o meia Edílson participam do desfile do Primeiro Grupo das Escolas de Samba de São Paulo. "Provavelmente vou sair na Camisa (Verde e Branco)", disse o meia.
 Ontem, durante o treino, eles ensaiaram alguns passos no campo do CT do Palmeiras, como se fossem o mestre-sala e a porta-bandeira. Quanto à questão do contrato, a situação de Edílson é a mesma. As negociações só recomeçam depois do Carnaval.
@@ -2004,18 +2004,18 @@ Enquanto uns desfilam, outros jogadores preferem o retiro espiritual. "Eu, minha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-147</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-147</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O lateral-esquerdo Marcelo Veiga, 29, que marcou três gols (sendo dois de falta) na última partida da Portuguesa, contra o Rio Branco de Americana, explicou ontem o segredo de suas cobranças. "É fixar bem a visão no goleiro. Normalmente, ele dá um passo em direção ao canto em que não está. É esse o momento de chutar."
 Marcelo Veiga afirmou que a chegada de Renato Martins, do Vitória, só o motiva. "Agora, joga quem estiver melhor." (MMo)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-148</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-148</field>
+<field name="date">940212</field>
+<text_pt>
 Adversários no Brasileiro de 93, Fito e Luxemburgo fazem elogios mútuos
 Da Reportagem Local
 Hoje, pela primeira vez desde a final do último Campeonato Brasileiro, os dois treinadores que se enfrentaram naquela decisão voltarão a ocupar lugares em túneis opostos. Passados dois meses, Wanderley Luxemburgo, técnico campeão nacional pelo Palmeiras, e Fito Neves, vice-campeão pelo Vitória e hoje dirigindo a Portuguesa, serão os comandantes de uma importante partida para suas equipes no Campeonato Paulista. Apesar das circunstâncias, os dois estrategistas evitam encarar o jogo de hoje como um tira-teima entre eles.
@@ -2026,9 +2026,9 @@ O treinador palmeirense observa que as circunstâncias para seu colega são hoje d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-149</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-149</field>
+<field name="date">940212</field>
+<text_pt>
 MÁRIO MOREIRA
 Da Reportagem Local
 O técnico da Portuguesa, Fito Neves, está preocupado com o setor defensivo de sua equipe para a partida de hoje contra o Palmeiras. No coletivo de ontem, no Centro de Treinamento do clube, Fito chamou diversas vezes a atenção dos zagueiros para a marcação, principalmente nas cobranças de faltas. Após o coletivo, vencido pelos titulares por 3 a 1 (gols de Baiano, Marquinhos e Caio, contra um de Jackson), ele se reuniu com os jogadores no centro do campo e durante 20 minutos apontou as falhas dos titulares.
@@ -2038,9 +2038,9 @@ Cuca, que ontem treinou à parte devido a uma contusão no pé direito, está escala
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-150</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-150</field>
+<field name="date">940212</field>
+<text_pt>
 
 O Parreira falou que muita gente no ataque seria voltar à Copa de 1962; mas 62 não foi o ótimo para nós?
 MATINAS SUZUKI JR.
@@ -2063,9 +2063,9 @@ Matinas Suzuki Jr. escreve nesta coluna às terças, quintas e sábados.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-151</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-151</field>
+<field name="date">940212</field>
+<text_pt>
 César Menotti (técnico do Boca Juniors)
 "O torneio é muito importante para o futebol argentino, que perdeu terreno todos esses anos pela confusão que reina em nossos campos, onde se privilegia a especulação em detrimento do futebol."
 
@@ -2076,9 +2076,9 @@ Em 1994, Boca Juniors (ARG) e Velez Sarfield (ARG) estão na mesma chave que Palm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-152</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-152</field>
+<field name="date">940212</field>
+<text_pt>
 Atacante Muller retorna aos treinos, apesar de ainda não ter renovado
 JOSÉ HENRIQUE MARIANTE
 Da Reportagem Local
@@ -2111,9 +2111,9 @@ Ao vivo, Globo e Bandeirantes, 16h;Globosat, 19h30, e TVA, 20h (VT).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-153</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-153</field>
+<field name="date">940212</field>
+<text_pt>
 FLAVIO GOMES
 Todo começo de ano é a mesma coisa. A Fórmula 1 deixa no ar uma pergunta cuja resposta todos querem conhecer e entrega a nós, astutos especialistas no assunto, a obrigação de responder. Na temporada passada, você deve se lembrar, o dilema era: Senna corre ou não corre? Correu. Agora é: Prost corre ou não corre? Para que as pessoas parem de me atazanar com tal questiúncula, vou responder. Corre também.
 Posso até cair do cavalo, mas dane-se. Tenho que apostar em alguma coisa e há algumas semanas dediquei esse espaço a uma torcida descarada pela volta do baixinho. Não tem problema se ele já se despediu das pistas. Está cheio de gente que volta atrás. Sílvio Caldas encerrou a carreira dezenas de vezes. Pelé, duas. Eu mesmo, ao final de cada temporada, prometo que a próxima é a última e entra ano, sai ano, estou lá, ouvindo barulho de carro e aguentando mau humor de piloto. Esse negócio de dizer que vai parar é um charme.
@@ -2123,9 +2123,9 @@ Pode-se argumentar que a nova equipe de Ayrton vai colocar algumas pedras no cam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-154</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-154</field>
+<field name="date">940212</field>
+<text_pt>
 
 
 A italiana Divella, terceira maior produtora mundial de macarrão, vai dividir com a Rothmans o espaço publicitário dos carros de Senna e Hill. A Williams ainda negocia patrocínios com a Sega, companhia japonesa de videogames, e com uma empresa australiana cujo nome não foi revelado.
@@ -2136,9 +2136,9 @@ Senna e Irvine se encontraram no Estoril durante os primeiros testes do brasilei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-155</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-155</field>
+<field name="date">940212</field>
+<text_pt>
 Jogador pede que o deixem em paz
 FERNANDA SCALZO
 De Paris
@@ -2159,9 +2159,9 @@ Raí - O Anderson chegou da Suíça no meio do campeonato e está jogando no Olympiq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-156</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-156</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Após dois meses de paralisação devido ao inverno europeu, o Campeonato Alemão reinicia hoje a temporada 93-94, com a quarta rodada do segundo turno, a primeira das 14 que faltam para o final do torneio, em 7 de maio.
 A TV Cultura transmite, ao vivo, a partida Borussia Dortmund e Bayern Leverkusen &#150;um dos líderes do certame. Essa partida vai dar um panorama do que se esperar do Leverkusen, uma surpresa a partir do final do primeiro turno. Após estar sete pontos atrás do Eintracht, o Leverkusen o alcançou nas cinco últimas partidas disputas. O time tem o brasileiro Paulo Sérgio, vice-artilhiro da competição com 11 gols, quatro a menos que Kuntz, do Kaiserslautern.
@@ -2172,9 +2172,9 @@ Cultura, às 12h20
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-157</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-157</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Norte
 O Novorizontino conta com dois reforços para o jogo contra o Ituano, pelo Grupo A-1 do Paulista. O ponta-direita Alessandro e o volante Genilson reforçam o time hoje, às 16h, em Itu. Suspensos, não jogaram na derrota (2 a 0) para o Bragantino. No Ituano, os meias Derval e Celso, expulsos, e o zagueiro Batata, com o terceiro cartão amarelo, desfalcam a equipe.
 
@@ -2198,9 +2198,9 @@ Gols nos telejornais noturnos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-158</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-158</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Nordeste
 A Ferroviária tenta hoje sua primeira vitória em casa no Campeonato Paulista, contra o América. Os laterais Marquinhos Capixaba e Bezerra, e o zagueiro Vilmar, voltam ao time depois de suspensão. No América, o técnico João Carlos não sabe se vai contar com o volante Negão, contundido. Se for vetado, Coutinho entra no time.
 
@@ -2224,9 +2224,9 @@ Gols nos telejornais noturnos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-159</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-159</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Sudeste
 O técnico Oscar deve reforçar o meio de campo do Guarani para o jogo contra o Bragantino, hoje às 16h, em Campinas. O meia Robert pode substituir Edu Lima, enquanto Rocha sai para a entrada de Valmir, na lateral-esquerda. Na defesa, Ronaldo continua na vaga de Adilson, contundido. No Bragantino, o atacante João Santos, que estava machucado, pode voltar, no lugar de Ciro.
 
@@ -2250,9 +2250,9 @@ Gols nos telejornais noturnos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-160</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-160</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Sudeste
 Depois de perder a liderança do Campeonato Paulista, o União São João volta a campo hoje em Araras contra o Santo André. O técnico Jair Picerni ainda não definiu quem substituirá o meia Vagner, expulso contra o Palmeiras. Depois de perder em casa para o Mogi, o Santo André quer vencer para se manter entre os primeiros.
 
@@ -2276,9 +2276,9 @@ Gols nos telejornais noturnos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-161</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-161</field>
+<field name="date">940212</field>
+<text_pt>
 
 WILSON BALDINI JR.
 Da Reportagem Local
@@ -2294,9 +2294,9 @@ Gols nos telejornais noturnos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-162</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-162</field>
+<field name="date">940212</field>
+<text_pt>
 Técnico só retorna com garantia de ter infra-estrutura
 Da Reportagem Local
 O técnico Carlos Alberto Silva, 54, completa amanhã uma semana de trabalho no comando técnico do Corinthians. O treinador aproveitou para esclarecer o motivo de sua rápida passagem pelo clube, em 91, e da atual fase da equipe. "Peguei o bonde andando", disse logo na sua apresentação. (WBJr)
@@ -2316,9 +2316,9 @@ Silva - O grupo é de alto nível. Mas deixei a diretoria com total liberdade para
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-163</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-163</field>
+<field name="date">940212</field>
+<text_pt>
 Da Folha Sudeste
 A Ponte Preta de Campinas enfrenta o Corinthians hoje à tarde, no Pacaembu, em busca de um empate e se possível uma vitória que possa afastar a crise que ronda o clube. O time ocupa a 13ª colocação no campeonato com quatro pontos e tem um dos piores ataques do campeonato, com três gols marcados em seis jogos. Uma derrota hoje pode forçar a saída do técnico Wanderley Paiva.
 No empate contra o Santos, na quarta-feira, o técnico foi vaiado ao substituir o ponta Mauricinho pelo centroavante Monga. A última vitória da Ponte foi há três rodadas, contra o América (2 a 1), em Campinas, quando foi marcado também o último gol da equipe.
@@ -2326,9 +2326,9 @@ O lateral-direito Marques e o meia Marcelo Gomes, que não jogaram contra o Santo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-164</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-164</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 A partir das 21h de hoje, o Folha Informações noticia os resultados da sétima rodada do Campeonato Paulista. Pelo telefone, o leitor ficará sabendo os placares de Corinthians x Ponte Preta, Palmeiras x Portuguesa, Santos x Mogi Mirim, Guarani x Bragantino, Ituano x Novorizontino, Rio Branco x São Paulo, União São João x Santo André e Ferroviária x América, que se realizam hoje à tarde. O leitor poderá ouvir, também, um comentário do jornalista Alberto Helena Júnior, da Folha, sobre a rodada deste sábado de Carnaval.
 Para quem liga de fora da Grande São Paulo, o número é 9 (011) 224-4007 &#150;a ligação é paga pela Folha. O telefone para quem estiver na região da Grande São Paulo é 224-4003 e o leitor só paga a chamada telefônica.
@@ -2337,9 +2337,9 @@ O Folha Informações é um serviço telefônico computadorizado do Banco de Dados Fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-165</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-165</field>
+<field name="date">940212</field>
+<text_pt>
 Das agências internacionais
 O ex-campeão mundial dos pesos-pesados, Mike Tyson, 26, passa seu tempo na prisão lendo a obra de autores como Mao-Tsé-Tung, Marx, Arthur Ashe, Tolstói, Maquiavel, Voltaire, Scott Fitzgerald e outros, segundo entrevista que concedeu à revista norte-americana "Esquire".
 Tyson, que cumpre pena de seis anos de prisão por estupro no centro de detenção de Plainfield (estado de Indiana, EUA), disse que ler serve como consolo para sua pena.
@@ -2354,9 +2354,9 @@ Convertido ao islamismo, o lutador também falou na entrevista de sua vida milion
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-166</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-166</field>
+<field name="date">940212</field>
+<text_pt>
 Das agências internacionais
 O caso Nancy Kerrigan ameaça prejudicar o desempenho da equipe norte-americana na 17ª Olimpíada de Inverno, que será aberta hoje em Lillehammer (Noruega). O secretário-geral do Comitê Olímpico dos EUA, Haervey Schiller, queixou-se do destaque que vem sendo dado ao caso da patinadora Nancy Kerrigan, vítima de um atentado que teria sido planejado com a cumplicidade de sua adversária Tonya Harding. Para ele, o caso está distraindo a atenção da delegação dos EUA.
 A entidade solicitou à Justiça que o pedido de indenização de US$ 20 milhões, feito por Tonya Harding, seja descartado. Além dos US$ 20 milhões por danos causados à sua preparação pela ameaça de exclusão, ela pede outra indenização, por danos não especificados, cuja valor poderia passar de US$ 5 milhões.
@@ -2369,9 +2369,9 @@ TVA/ESPN, programa especial sobre os Jogos, às 17h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-167</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-167</field>
+<field name="date">940212</field>
+<text_pt>
 Agências do governo que fizeram os pedidos admitem que patente poderia prejudicar pesquisas científicas
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -2385,9 +2385,9 @@ No total, cerca de sete mil pedidos de patente para pedaços de DNA haviam sido s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-168</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-168</field>
+<field name="date">940212</field>
+<text_pt>
 Da Sucursal de Brasília
 O Brasil vai começar a aplicar as diretrizes do MTCR (Regime de Controle de Tecnologia de Mísseis), fórum de consultas criado pelo Grupo dos Sete em 1987 para evitar a proliferação de armas de destruição em massa. O fórum reúne hoje 25 países. A aproximação tem como objetivo facilitar o acesso à tecnologia de veículos lançadores de satélites. O governo acha que já em 1995 poderá lançar no espaço o primeiro satélite com tecnologia nacional. A adoção das diretrizes segue a criação da AEB (Agência Espacial Brasileira), organismo civil responsável pelo programa espacial.
 O anúncio foi feito ontem pela Divisão de Propriedade Intelectual e de Tecnologias Sensíveis do Itamaraty. Entre as diretrizes que serão atendidas, está o controle sobre as exportações de material destinado à fabricação de mísseis. O controle já é feito através da Política Nacional de Exportação de Material para Emprego Militar, mas será ratificado juridicamente por um projeto que está atualmente tramitando na Câmara dos Deputados em Brasília.
@@ -2395,9 +2395,9 @@ Segundo o chefe da divisão, conselheiro Antônio Guerreiro, apesar de dispor de t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-169</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-169</field>
+<field name="date">940212</field>
+<text_pt>
 
 Das agências internacionais
 Crianças cujas mães fumaram durante a gravidez apresentam quocientes de inteligência (QI) inferiores aos de filhos de mães que não fumaram. A conclusão é de cientistas norte-americanos, que publicaram seus resultados na edição de fevereiro da revista "Pediatrics".
@@ -2407,9 +2407,9 @@ Para explicar a redução do QI, os pesquisadores sugerem que o fumo tenha reduzid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-170</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-170</field>
+<field name="date">940212</field>
+<text_pt>
 O taxol, substância extraída do teixo e usada contra vários tipos de câncer, pode ser sintetizado artificialmente. Norte-americanos relatam na edição da semana que vem da revista "Nature" a síntese total do taxol, que deve dar origem a várias drogas. O uso da substância tem agravado o risco de extinção do teixo.
 
 Discovery aterrissa com atraso na Flórida
@@ -2420,9 +2420,9 @@ Morreu de câncer no pulmão Howard Temin, 59, que em 1975 dividiu o Prêmio Nobel 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-171</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-171</field>
+<field name="date">940212</field>
+<text_pt>
 MORAES EGGERS
 Secretário de Redação da "FT"
 O piloto tricampeão mundial de Fórmula 1, Ayrton Senna, mostrou no mês passado, em São Paulo, o personagem Senninha, que vai se transformar em uma revista quinzenal de histórias em quadrinhos chamada "Senninha e sua Turma". A primeira historinha será lançada no dia 21 de fevereiro e distribuída de graça nas principais escolas do Brasil e em algumas agências do Banco Nacional.
@@ -2431,32 +2431,32 @@ A sua turma é composta pelos cachorros Becão e Bicão, o inventor Johnny, o mecân
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-172</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-172</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 Um programa legal para quem gosta de histórias em quadrinhos é conhecer a Gibiteca Municipal Henfil. Lá, tem mais de 25 mil revistas com os grandes heróis de todos os tempos. Batman, Robin, Mulher-Gato, Pinguim, Super-Homem, Homem Aranha (foto) e outros heróis invencíveis estão lá. Na Gibiteca Municipal você pode conhecer também os mangás, que são revistas em quadrinhos feitas no Japão. 
 Os gibis e as revistas podem ser lidos na gibiteca e também podem ser emprestados. Para isso é preciso apresentar um documento de identidade e um comprovante de residência, como por exemplo, uma conta de água ou de luz. A Gibiteca (rua Sena Madureira, 298, Vila Mariana, Tel.544-4017) funciona de terça a sexta, das 9h às 21h e nos fins de semana das 10h às 17h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-173</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-173</field>
+<field name="date">940212</field>
+<text_pt>
 A TV Cultura (canal 2) está apresentando desenhos do aventureiro TINTIM (foto). Ele foi criado há 65 anos, em história em quadrinhos pelo cartunista belga Hergé. Em seu trabalho como repórter, TINTIM se envolve em confusões engraçadas. Nos desenhos, dá para ver também os outros personagens das histórias, como Milu, Girassol e Capitão Haddock. De segunda a sexta, às 19h30.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-174</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-174</field>
+<field name="date">940212</field>
+<text_pt>
 A combinação das cores e o jeito de brincalhão do urso panda fazem com que ele seja um dos animais mais queridos. Em "Salve o Ursinho Panda" (foto), da National Geographic, você aprende sobre o dia-a-dia desse animal em extinção, acompanhando o trabalho dos cientistas, que entram em florestas de bambu para observar os ursos. Da Vídeo Arte do Brasil.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-175</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-175</field>
+<field name="date">940212</field>
+<text_pt>
 TONI BRANDÃO
 Da Redação
 No Carnaval, pessoas de vários países vêm pular atrás dos trios elétricos na Bahia, assistir aos desfiles das escolas de samba no Rio e em São Paulo e as danças como o frevo de Pernambuco.
@@ -2465,9 +2465,9 @@ São Paulo teve seu primeiro desfile de escola de samba em 1936. Antes, existiam 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-176</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-176</field>
+<field name="date">940212</field>
+<text_pt>
 JOÃO MÁXIMO
  Da Sucursal do Rio
 As escolas de samba nasceram no Rio de Janeiro. Tudo começou com a libertação dos escravos em 1888. Pode-se dizer que a lei Áurea dividiu a população negra do Rio em duas.Os ex-escravos que tinham trabalho ficaram morando no centro da cidade.
@@ -2478,9 +2478,9 @@ A primeira escola de samba carioca, a Deixa Falar, surgiu em 1928, no bairro do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-177</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-177</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 Carnaval em Salvador não tem escola de samba. A festa acontece na rua. O percussionista Carlinhos Brown criou um grupo chamado Timbalada. São dez cantores e 250 músicos tocando instrumentos como timbau, surdo, triângulo e agogô. Esse som ficou conhecido como timbalada por causa dos timbaus. Os timbaleiros vestem calções coloridos e pintam o corpo e o rosto com desenhos indígenas e africanos.
 Os trios elétricos são grandes carrocerias decoradas que passeiam nas ruas de Salvador, carregando músicos, instrumentos e equipamentos de som e luz. As carrocerias são montadas em cima de caminhões. A energia elétrica consumida por um carro desses é capaz de iluminar uma cidade de 30 mil habitantes. 
@@ -2490,9 +2490,9 @@ Nas apresentações, os percussionistas fazem movimentos com os braços, como se da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-178</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-178</field>
+<field name="date">940212</field>
+<text_pt>
 Da Redação
 A Folhinha e a editora Melhoramentos lançam o concurso "Missão Terra: o Resgate do Planeta". Para participar, escolha entre os temas: "Reciclagem do Lixo", "Reflorestamento", "Poluição do Ar" ou "Poluição do Mar". Faça uma redação que tenha entre dez e 18 linhas. Pequenos poemas também valem. Escreva seu nome, idade, telefone e endereço completos e mande para a Folhinha (veja endereço na pág. 2).
 O concurso vai ser dividido em duas categorias: uma para crianças de 7 a 9 anos e uma para quem tem de 10 a 13 anos. Só podem participar crianças que moram no Brasil. 
@@ -2500,9 +2500,9 @@ Os três melhores trabalhos vão ser publicados na Folhinha e no livro "Missão Ter
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-179</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-179</field>
+<field name="date">940212</field>
+<text_pt>
 A música "Requebra", de um compositor do Olodum, fez surgir o ritmo sensação do Carnaval deste ano na Bahia
 BOB FERNANDES
 Enviado especial a Salvador
@@ -2520,9 +2520,9 @@ As emissoras de televisão, à frente a TV Aratu (afiliada à Manchete), mesmo dian
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-180</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-180</field>
+<field name="date">940212</field>
+<text_pt>
 Documentação foi guardada por acaso
 Do enviado especial a Salvador
 A memória dos documentos oficiais dos carnavais de Salvador atende por um nome: Merina Aragão. Arquiteta, 42, há 15 anos funcionária da Empresa de Limpeza Pública Municipal, Merina fez por conta própria o que nunca, até a atual gestão, a prefeitura havia se preocupado em fazer: guardar a memória oficial dos carnavais. Não há sistematizado nem um dado ou vestígio da documentação sobre Carnaval enviada e recebida pelos prefeitos da cidade.
@@ -2532,9 +2532,9 @@ Criada em 93, a Casa do Carnaval, agora, armazena em computadores o que foi guar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-181</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-181</field>
+<field name="date">940212</field>
+<text_pt>
 O Carnaval do Rio começa a sentir as consequências do terremoto em Los Angeles, em janeiro. O ator Michael Douglas ("Atração Fatal" e "Wall Street") cancelou sua visita ao país durante o Carnaval. Convidado pelo Hotel Copacabana Palace, Douglas enviou um fax prometendo vir ainda este ano, mas em outra época. O ator disse que o terremoto em Los Angeles atrasou as filmagens que estava fazendo e que, se viesse agora, teria de interromper o trabalho por mais uma semana.
 
 UMA ROSA
@@ -2551,17 +2551,17 @@ O ator Antonio Petrin ("Guerra sem Fim, da Rede Manchete") vai passar o Carnaval
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-182</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-182</field>
+<field name="date">940212</field>
+<text_pt>
 
 PORTO ALEGRE - MT - RIO                                                                                          O médico  Eduardo Gomes de Azevedo  vai passar o Carnaval com o amigo Olacyr de Moraes. Os dois dividem a folia entre Porto Alegre, Mato Grosso e o Rio, no camarote da Brahma no Rio.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-183</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-183</field>
+<field name="date">940212</field>
+<text_pt>
 Janaína Diniz, filha de Leila, e Tom Jobim são os padrinhos deste ano 
 MAURICIO STYCER
 Enviado especial ao Rio
@@ -2575,17 +2575,17 @@ Sobre a principal rival da Banda de Ipanema, o bloco Simpatia É Quase Amor, Ferd
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-184</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-184</field>
+<field name="date">940212</field>
+<text_pt>
 
 ÚLTIMA JOGADA                                                                                          Ex-rei do gramado, Sócrates não assume de jeito nenhum sua candidatura a deputado federal.  Sócrates tenta desconversar, acusando o povo de falar demais. Ele decola com mulher para Ubatuba no Carnaval. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-185</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-185</field>
+<field name="date">940212</field>
+<text_pt>
 
 SAQUE                                                                                                        Fernanda Venturini, levantadora da Nossa Caixa/Recra, não quer saber de Carnaval este ano. Ele vai esperar seu namorado de Governador Valadares, Luiz Carlos Peres, em Ribeirão para curtirem sossego a dois. Fernanda volta aos treinos na segunda-feira, com gás total para enfrentar o Leite Moça no próximo dia 19, na 
 semi-final da Liga Nacional de Vôlei.
@@ -2595,9 +2595,9 @@ Os irmãos José Henrique e José Luiz Cutrale Júnior deixam as laranjas de lado em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-186</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-186</field>
+<field name="date">940212</field>
+<text_pt>
 Carnaval paulistano é rico em sugestões temáticas e é o que mais se redefine no país, diz titular de história da USP
 LUIZ CARLOS DUARTE
 Da Reportagem Local
@@ -2614,9 +2614,9 @@ Para ele, o Carnaval de São Paulo começa a ganhar mais prestígio a partir da abe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-187</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-187</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Se alguém perguntar a Solon Tadeu Pereira, 45, presidente da Vai-Vai e da liga das escolas, se ele dirige alguns pontos de jogo do bicho no Bixiga (centro), ele nega. "Passei para o meu filho", desconversa. Mas a polícia o considera um bicheiro, embora nada conste em sua ficha criminal.
 Tadeu, como é conhecido, joga em muitas frentes. Possui também lojas de galvanoplastia e pneus.
@@ -2626,9 +2626,9 @@ Casado, é pai de Mauro, 18, um metaleiro, e de uma filha adotiva de 14 anos. Em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-188</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-188</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 O empresário Walter Guariglio, 47, o Valtinho, perdeu no final dos anos 80 uma difícil ação na Justiça, após três anos de batalha. Foi expulso do condomínio em que morava, em um luxuoso prédio no bairro de Higienópolis (centro).
 É que os vizinhos não suportavam mais os ensaios que a cantora Eliana de Lima, ex-puxadora de samba da Unidos do Peruche, fazia em plena madrugada no apartamento do empresário.
@@ -2639,9 +2639,9 @@ Desquitado, pai de cinco filhos, diz que ainda não descobriu como foi parar em u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-189</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-189</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 "Eu fiz uma escola. No tempo de Cristo, eles jogavam os caras aos leões", costuma dizer Alberto Alves da Silva, 70, o Nenê da Vila Matilde, que empresta seu nome a uma das escolas mais simpáticas e a maior da zona leste da cidade.
 Ele fundou a Nenê em 1949, a partir de uma roda de capoeira, que se reunia aos sábados. Metalúrgico, filho de um carioca da Mangueira que veio para São Paulo trabalhar em ferrovia, Nenê foi o criador da bateria mais diferente e ousada da história do Carnaval paulistano.
@@ -2650,9 +2650,9 @@ Hoje todos concordam que o ritmo melhorou. Nenê chama para si o êxito da mudança
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-190</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-190</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Ela é baixa, forte, tem longas unhas pintadas de vermelho e costuma usar um implante avermelhado sobre a vasta cabeleira negra. Chama-se Magali dos Santos, tem 44 anos e preside a Camisa Verde e Branco, da Barra Funda (centro), uma das mais tradicionais escolas da cidade.
 Única mulher entre os 12 dirigentes de escolas do Grupo Especial, Magali herdou o comando após a morte do marido, Carlos Alberto Tobias, vítima de infarto em janeiro de 90. O primeiro presidente foi Inocêncio Tobias, seu sogro, que fundou a escola em 1953.
@@ -2661,9 +2661,9 @@ Dizendo-se cansada, ela admite abrir mão da direção em abril. Se acontecer, sua 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-191</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-191</field>
+<field name="date">940212</field>
+<text_pt>
 Da Reportagem Local
 Carismático, autoritário e empreendedor, Eduardo Basílio, 60, é presidente e um dos fundadores da Rosas de Ouro, uma espécie de São Paulo Futebol Clube do samba paulistano. É a que mais inova na organização. Criada em 1971 por um grupo de funcionários públicos, a escola tem sede na Freguesia do Ó (zona norte).
 O departamento de costura, por exemplo, tem 30 costureiras contratadas, que prestam serviço para empresas. Em tempos de Carnaval, são cerca de cem assalariados ou prestadores de serviço. Há oito anos, a escola excursiona para a Europa ou Japão.
@@ -2673,9 +2673,9 @@ Ligado ao PFL, Basílio foi acusado de participar da pancadaria da Freguesia do Ó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-192</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-192</field>
+<field name="date">940212</field>
+<text_pt>
 MARCOS AUGUSTO GONÇALVES
 Editor do Mais!
 Nada mais chato do que Carnaval na televisão. Se ao vivo a "folia" momesca exige um mínimo de adesão para ser encarada como alguma coisa pouco menos que estapafúrdia, na TV não tem como: a desanimação faz parte do espetáculo.
@@ -2688,9 +2688,9 @@ Até aqui, nada aconteceu que mereça atenção. Excetuando-se, claro, a presença de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-193</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-193</field>
+<field name="date">940212</field>
+<text_pt>
 Carnaval aposta na divulgação em rede nacional de TV para arrumar dinheiro; verba oficial será reduzida em 96
 DANIEL CASTRO
 Da Reportagem Local
@@ -2704,9 +2704,9 @@ Artistas, atores globais e estrelas do futebol vão desfilar como destaques. A li
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-194</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-194</field>
+<field name="date">940212</field>
+<text_pt>
 O engenheiro suíço Hannes Fuchs, 33, escolheu o baile da 'Kilt' &#150;uma boate erótica paulistana&#150; para estrear no Carnaval deste ano. O turista pretende passar os quatro dias de Momo no Rio. Terminou a noite com a cara cheia de purpurina, resultado de um "esbarrão" nos traseiros de duas dançarinas.
 
 CERVEJA DE CANUDO
@@ -2717,9 +2717,9 @@ A funcionária pública Conceição Aparecida Lourenço, 33, há 13 anos toca caixa &#
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-195</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-195</field>
+<field name="date">940212</field>
+<text_pt>
 Este ano o Carnaval do Automóvel Clube de Rio Preto perde temporariamente um assíduo frequentador. Tudo porque o ex-ministro Antonio Cabrera Mano Filho está em lua-de-mel na Europa com sua mulher, Angela Pivotto. As últimas notícias eram de que o casal estava na Alemanha. 
 
 Citros
@@ -2733,9 +2733,9 @@ O cerimonial do Palácio Boa Vista, em Campos do Jordão, limpou a prataria e este
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-196</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-196</field>
+<field name="date">940212</field>
+<text_pt>
 Convite custa US$ 250; festa vai ter mímicos, estátuas vivas, artistas com pernas-de-pau e a bateria da Portela
 PLÍNIO FRAGA
 Da Sucursal do Rio
@@ -2752,9 +2752,9 @@ BAILE DE GALA DO COPACABANA PALACE: Avenida Atlântica, 1.702, telefone 255.7070
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-197</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-197</field>
+<field name="date">940212</field>
+<text_pt>
 JOÃO BATISTA DE ABREU
 Da Sucursal do Rio
 Hoje é dia de frevo no Carnaval carioca. Seis clubes desfilam na avenida Rio Branco (região central da cidade), a partir de 19h, para um júri que avaliará os quesitos evolução, passistas, fantasias, música, enredo e porta-estandarte. Cada clube de frevo tem 35 minutos para se apresentar. A entrada é franca.
@@ -2765,9 +2765,9 @@ De acordo com o diretor-administrativo da Associação, José Ananias Correa, a gra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-198</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-198</field>
+<field name="date">940212</field>
+<text_pt>
 ABNOR GONDIM
 Da Agência Folha, em Belém
 O carimbó, música folclórica paraense, é a grande novidade este ano do Carnaval no Pará. É tocado em todas as festas de Belém. No interior do Estado, bandas especializadas da capital foram chamadas para tocar o ritmo. O sucesso contagiou os trios elétricos e o bloco Império Jurunense, que abrirá seu desfile com acordes do carimbó em flauta doce.
@@ -2778,9 +2778,9 @@ Mas ainda está longe dos 15 mil lugares e 330 camarotes que foram vendidos no Ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-199</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-199</field>
+<field name="date">940212</field>
+<text_pt>
 FÁBIO GUIBU
 Da Agência Folha, em Recife
 O Clube de Máscaras Galo da Madrugada abre oficialmente hoje o Carnaval de Recife (PE) reivindicando a inclusão de seu nome no "Guinness Book", o livro dos recordes. O Galo pleiteia o recorde de maior concentração de participantes em um único bloco.
@@ -2792,9 +2792,9 @@ Criado em 1975 por um grupo de 15 profissionais liberais, empresários e aposenta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-200</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-200</field>
+<field name="date">940212</field>
+<text_pt>
 Mais atingida foi a Viradouro; fantasia de Luiza Brunet também foi queimada 
 Da Sucursal do Rio
 Cerca de 150 fantasias de várias escolas de samba do Grupo Especial do Rio foram queimadas num incêndio no ateliê dos estilistas Loyá e Zezinho, ocorrido ontem de madrugada no centro do Rio. Entre as fantasias estava a da modelo Luiza Brunet, madrinha da bateria da Portela. Não houve feridos.
@@ -2805,9 +2805,9 @@ Joãosinho Trinta convocou um "mutirão" das passistas da Viradouro para tentar re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940212-201</text_pt>
-<text_pt name="date">940212</text_pt>
-<text_pt name="text">
+<field name="id">FSP940212-201</field>
+<field name="date">940212</field>
+<text_pt>
 O Carnaval do Rio começa a sentir as consequências do terremoto em Los Angeles, em janeiro. O ator Michael Douglas ("Atração Fatal" e "Wall Street", entre outros) cancelou sua vinda. Convidado pelo Hotel Copacabana Palace, Douglas enviou um fax prometendo vir ainda este ano, mas em outra época. O ator disse que o terremoto arrasou as filmagens que estava fazendo e que, se viesse agora, teria de interromper o trabalho por mais uma semana.
 
 De Rosinha

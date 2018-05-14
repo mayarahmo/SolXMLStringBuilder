@@ -114,13 +114,16 @@ public class FileReader {
     	Element docElem = doc.createElement("doc");
         docElem.appendChild(getFieldElement(doc, "id", id));
         docElem.appendChild(getFieldElement(doc, "date", date));
-        docElem.appendChild(getFieldElement(doc, "text", text));
+        Element textElem = doc.createElement("text_pt");
+        textElem.setTextContent(text);
+        docElem.appendChild(textElem);
+        //docElem.appendChild(getFieldElement(doc, "text", text));
         return docElem;
     }
  
     // utility method to create text node
     private static Node getFieldElement(Document doc, String atribute, String value) {
-        Element field = doc.createElement("text_pt");
+        Element field = doc.createElement("field");
         field.setAttribute("name", atribute);
         field.setTextContent(value);
         return field;

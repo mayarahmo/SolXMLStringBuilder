@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP941014-001</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-001</field>
+<field name="date">941014</field>
+<text_pt>
 Se o voto é o mecanismo pelo qual a vontade da população se manifesta, e se é essa vontade que o sistema democrático pretende identificar e levar ao poder, então qualquer ameaça à integridade do voto deve ser tratada como uma ameaça à própria democracia. Tanto é que qualquer país cujas eleições são marcadas por suspeitas de fraude não-esclarecidas é visto, no mundo desenvolvido, quase que como uma meia-democracia.
 Assim, as acusações de irregularidade que vêm surgindo em alguns pontos do país devem ser investigadas com inexcedível rigor e urgência. No Rio, por exemplo, o corregedor eleitoral qualificou as fraudes de ``gigantescas'' e o Tribunal Superior Eleitoral foi forçado a fazer uma espécie de intervenção branca. Também na Bahia, para citar só mais um caso, dúvidas intrigantes foram levantadas sobre a lisura das apurações. São suspeitas que, enquanto durarem, constituem motivo de vergonha para todo o país.
 Deve-se notar, contudo, que o esclarecimento das acusações e a punição rigorosa dos eventuais responsáveis são necessários, mas não suficientes. Afinal, se houve fraude, é porque o mecanismo de votação e apuração do país abre uma brecha para isso. Na verdade, abre uma imensa porta.
@@ -12,9 +12,9 @@ Ninguém ignora as respeitáveis dificuldades logísticas e de custos envolvidas nu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-002</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-002</field>
+<field name="date">941014</field>
+<text_pt>
 Uma criança chora. Ela toca a mão de um homem, desfalecido. Pai e filho aproveitaram o feriado de anteontem &#150;Dia da Criança&#150; para ir ao estádio assistir a uma partida de futebol. Pretendiam divertir-se um pouco. Acabaram encontrando dor e sofrimento.
 É claro que lamentáveis episódios de violência urbana podem ocorrer, de quando em quando, em qualquer país do mundo. Contudo, a frequência com que se registram cenas da mais cruenta barbárie nos estádios brasileiros sugere que essas manifestações não são apenas explosões pontuais de violência.
 De fato, já há muito os estádios deixaram de ser locais seguros. Torcidas ``organizadas'' acabaram tornando-se aglomerações de indivíduos cujo único propósito parece ser o de extravasar suas frustrações cotidianas semeando o terror. Sérias deficiências no policiamento contribuem para transformar todo o público de uma partida em presas desses grupúsculos.
@@ -23,9 +23,9 @@ Já é hora de as autoridades, os clubes e os torcedores saudáveis &#150;a grande 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-003</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-003</field>
+<field name="date">941014</field>
+<text_pt>
 A indústria e o comércio procuram eximir-se da responsabilidade pelas novas elevações de preços em alguns setores. Apesar das explicações e negativas, o que hoje se assiste não é mais do que a repetição das práticas arraigadas por mais de uma década de superinflação.
 O crescimento das vendas é visto como oportunidade para subir os preços, em vez de aumentar a produção. Não por acaso, vários focos de aumento estão entre os setores oligopolizados. Nessas áreas, em que algumas poucas empresas controlam a maior parte do mercado, o acordo entre elas leva facilmente a preços altos e produção contida. Será lamentável se, face a esse comportamento, o governo for induzido a tomar medidas recessivas. Afinal, as perspectivas atuais são favoráveis ao crescimento econômico.
 Ao reduzir a incerteza sobre o futuro, a estabilização por si só já estimula a atividade econômica. Os reajustes salariais em várias categorias dão sustentação às vendas.
@@ -34,9 +34,9 @@ Se as pressões inflacionárias se consolidarem, o governo terá razão em combatê-l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-004</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-004</field>
+<field name="date">941014</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Já que se decidiu a intervir nas apurações do Rio de Janeiro, o Tribunal Superior Eleitoral tem a obrigação elementar de atender pedido de recontagem de votos a ser formulado hoje por Waldir Pires (PSDB), candidato derrotado ao Senado pela Bahia.
 É claro que todo derrotado esperneia e se acha vítima de fraude. Mas, no caso de Waldir, ele apresenta argumentos que dão toda a solidez ao pedido de recontagem.
@@ -50,9 +50,9 @@ Seria uma boa maneira de mostrar que o Brasil de fato mudou, ao menos em matéria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-005</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-005</field>
+<field name="date">941014</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Começou a ser tramada no Congresso uma monumental asneira: triplicar o salário dos senadores. A idéia é arquitetada na direção do Senado. ``Os novos senadores vão passar fome em Brasília'', justificou ontem o primeiro-secretário, Júlio Campos (PFL-MT), ao defender o abrupto aumento.
 Segundo ele, o salário de um senador deveria ser de R$ 15 mil &#150;aceitaria, concede o Júlio Campos, R$ 12 mil, ``apenas'' 171 salários mínimos. Não vou entrar na discussão sobre se um senador deve ou não ganhar esse valor. O problema, aqui, é a incapacidade de se ler o que as urnas estão dizendo.
@@ -64,9 +64,9 @@ PS &#150; Dizem que o sucesso é repleto de pais e que o fracasso é órfão. Verdad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-006</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-006</field>
+<field name="date">941014</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Eu bem que desconfiava, mas não tinha certeza. O Brasil é dividido, grosso modo, em canalhas e otários. Não é o cronista que chega a tão crua opinião. É o ministro da Fazenda &#150;que deve saber o que está dizendo.
 Não é por escolha pessoal nem por virtude própria que me incluo na categoria de otário. Não tenho qualquer influência na formação de nenhum preço, não produzo carne, ovos, carros, nada tenho a ver com o clima para influir nos produtos sazonais.
@@ -80,9 +80,9 @@ Quanto ao vendedor, eu não era trouxa de chamá-lo de canalha. O cara era um armá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-007</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-007</field>
+<field name="date">941014</field>
+<text_pt>
 José Sarney
 Volto a insistir na modernização do nosso sistema eleitoral.
 A velha discussão de quem deve vir primeiro &#150;a democracia ou o crescimento econômico&#150; tornou-se uma coisa do passado. Hoje, sabe-se que a história levou-nos a um estuário, o binômio inseparável: democracia liberal e economia de mercado.
@@ -102,9 +102,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-008</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-008</field>
+<field name="date">941014</field>
+<text_pt>
 A proposta apresentada pelo PT nestas eleições se mostrou mais estreita do que a sociedade queria
 LUIZA ERUNDINA DE SOUSA
 Uma vez terminada a apuração dos votos, faz-se necessário refletir sobre o resultado e olhar para frente. Tentarei contribuir para isso analisando a situação do PT e discutindo minhas próprias perspectivas políticas.
@@ -129,9 +129,9 @@ LUIZA ERUNDINA DE SOUSA, 59, foi prefeita da cidade de São Paulo (1989-92) e min
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-009</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-009</field>
+<field name="date">941014</field>
+<text_pt>
 A descentralização está em pauta: a idéia é transformar o HC em uma autarquia especial
 ANTONIO CARLOS GOMES DA SILVA
 Caminhamos para o final de um período de administração do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HC) despreocupados quanto ao desempenho passado e confiantes com a perspectiva otimista que antevemos para o futuro.
@@ -161,9 +161,9 @@ ANTONIO CARLOS GOMES DA SILVA, 56, médico alergista, é diretor-superintendente d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-010</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-010</field>
+<field name="date">941014</field>
+<text_pt>
 ``Ao iniciar minha leitura habitual de todas as manhãs na última segunda-feira, foi com enorme e estarrecedora surpresa que me deparei com a infeliz notícia de que a Folha deixara de distribuir o encarte do dicionário ``Folha Aurélio'' por falta de papel. É inadmissível que as empresas fornecedoras de papel de imprensa não atentem para os compromissos que detêm com o povo de nosso país. A Folha, sempre de rabo preso com o leitor, não fugiu ao compromisso com a verdade. Episódios como esse na maioria das vezes ficam acobertados, passando-se para o público desculpas inconsequentes. A Folha contou a verdade nua e crua. A indústria brasileira encarregada do fornecimento de papel de imprensa caminha na contramão da história. A Folha tem um objetivo a cumprir. Quer levar cultura e informações para um número muito maior de brasileiros. Pena que o cartel papeleiro não tenha o mesmo objetivo da Folha.''
 Francisco Ranieri Netto, presidente do Sindicato dos Vendedores de Jornais e Revistas de São Paulo (São Paulo, SP)
 
@@ -210,9 +210,9 @@ Brasil Ramos Fernandes (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-011</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-011</field>
+<field name="date">941014</field>
+<text_pt>
 
 Este texto grafou incorretamente o nome da loja Mario Bros. (saiu Mario Bross).ERRAMOS
 Ciro admite medidas para conter consumo
@@ -234,17 +234,17 @@ Colaborou a Reportagem Local
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-012</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-012</field>
+<field name="date">941014</field>
+<text_pt>
 Da FT
 Em reunião ontem com representantes dos 48 sindicatos de metalúrgicos de São Paulo ligados à Força Sindical, os representantes do grupo 19 da Fiesp (fabricantes de máquinas, eletroeletrônicos e estamparias, entre outros) ofereceram o IPC-r de julho a outubro. Paulo Pereira da Silva, presidente do Sindicato dos Metalúrgicos de São Paulo, disse que haverá greve por 69,69% e reajuste mensal.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-013</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-013</field>
+<field name="date">941014</field>
+<text_pt>
 Da Reportagem Local
 A situação de escassez de papel-jornal que a Folha vem enfrentando deve acabar até o final do mês, conforme previsão feita ontem pela direção da Empresa Folha da Manhã S/A &#150;que edita a Folha.
 ``Se o fluxo de fornecimento de papel de imprensa da cota brasileira de outubro, contratada em julho último, for cumprido conforme acertado, há grande possibilidade de que o espaço editorial já fique pelo menos 10% superior ao desta semana, a partir do dia 24'', disse Antonio Manuel Teixeira Mendes, diretor de administração.
@@ -261,9 +261,9 @@ Também foi adiado &#150;sem data prevista de circulação&#150; o caderno ``Top of
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-014</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-014</field>
+<field name="date">941014</field>
+<text_pt>
 Os mapas de apuração na Bahia revelaram um fenômeno eleitoral: em mais de 1.400 urnas, o candidato a senador Waldeck Ornelas tem muito mais votos do que seu puxador de votos, Antônio Carlos Magalhães, que o lançou apenas para completar a dupla de postulantes ao Senado encabeçada por ele próprio. Esta inversão da lógica eleitoral foi que proporcionou a Ornelas a segunda vaga baiana no Senado e a Waldir Pires, derrotado por 3.000 votos, uma evidência a mais para pedir à Justiça Eleitoral a recontagem das urnas.
 Pelo menos um episódio de transferência de votos de Antônio Carlos para Ornelas resultou em flagrante e divulgação. Um juiz de Feira de Santana, advertido por fiscais, confirmou a troca e determinou a reversão dos votos. Mas os indícios de troca sem flagrante são muitos. Ornelas, político do interior, com mais votos do que Antônio Carlos até em urnas de Salvador, é mais do que suspeito.
 À parte a supremacia exótica do puxado pelo puxador em número tão alto de urnas, a insignificância da diferença entre Ornelas e Waldir Pires justifica, por si só, a recontagem para que não permaneçam dúvidas comprometedoras: em 2.579.358 votos, a diferença foi só de 3.000. Ou 0,1% decidindo uma cadeira do Senado. Se a isso juntarmos o desempenho ilógico e anormal de Ornelas, só mesmo com recontagem, pelo menos das urnas em que ultrapassou Antônio Carlos, será possível admitir que ele chegue ao Senado com legitimidade.
@@ -276,9 +276,9 @@ Só o custo de uma viagem assim sustentaria um núcleo de famílias miseráveis por 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-015</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-015</field>
+<field name="date">941014</field>
+<text_pt>
 ELVIRA LOBATO
 Da Reportagem Local
 Depois de mais de um ano de negociações reservadas com o grupo ABC Algar, do Triângulo Mineiro, a Telebrás se tornou sócia da última companhia telefônica privada do país: a CTBC (Companhia Telefônica do Brasil Central).
@@ -294,9 +294,9 @@ O grupo ABC Algar, da família Garcia, é um conglomerado de 24 empresas, que fatu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-016</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-016</field>
+<field name="date">941014</field>
+<text_pt>
 ABNOR GONDIM
 Da Agência Folha, em Belém
 A juíza Maria Edilene de Oliveira Franco, do Tribunal Regional do Trabalho, declarou ontem inconstitucional o dispositivo do decreto-lei 972/69, que exige curso de jornalismo para o exercício da profissão.
@@ -312,30 +312,30 @@ A diretora do Grupo Liberal, Rosângela Maiorana Kzan, disse ontem que ``a empres
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-017</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-017</field>
+<field name="date">941014</field>
+<text_pt>
 O prefeito de São Paulo, Paulo Maluf, já articula a estratégia do PPR para o segundo turno. Ontem, ele almoçou com o senador Jarbas Passarinho &#150;candidato ao governo do Pará, que disputa o segundo turno contra Almir Gabriel (PSDB)&#150; e o publicitário Duda Mendonça. Maluf disse que o partido vai discutir na segunda quem apoiar na eleição em São Paulo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-018</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-018</field>
+<field name="date">941014</field>
+<text_pt>
 O PDT e o PT do Maranhão vão pedir votos para o candidato do PPR a governador, Epitácio Cafeteira, que concorre contra Roseana Sarney (PFL). Os partidos defenderão o voto contra os aliados do senador José Sarney (PMDB-AP). ``Historicamente, todos nós temos que combater o grupo do Sarney'', disse ontem o candidato derrotado a governador Jackson Lago (PDT).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-019</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-019</field>
+<field name="date">941014</field>
+<text_pt>
 O governador de Sergipe, João Alves Filho (PFL), decidiu ontem interpelar judicialmente o seu vice, José Carlos Teixeira (PMDB). Teixeira acusou João Alves, segunda-feira passada, de usar a máquina do governo para beneficiar eleitoralmente aliados políticos. Alves teria, segundo ele, liberado verbas para obras não realizadas por prefeitos e lideranças do interior.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-020</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-020</field>
+<field name="date">941014</field>
+<text_pt>
 Ex-candidato não se compromete com tucano; petistas vetam qualquer hipótese de aliança com Rossi (PDT)
 Reunião da Executiva do PT-SP que decidiu vetar apoio a Rossi (PDT)
 CLÓVIS ROSSI
@@ -359,9 +359,9 @@ Mas o PT tem uma dificuldade de ordem burocrática para eventualmente apoiar o tu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-021</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-021</field>
+<field name="date">941014</field>
+<text_pt>
 Da Reportagem Local
 A adesão informal de lideranças do PMDB à candidatura de Mário Covas (PSDB) no segundo turno da sucessão estadual começa a preocupar a cúpula da campanha tucana no Estado.
 Prefeitos e integrantes da campanha tucana dizem acreditar que a rejeição ao governo Luiz Antonio Fleury Filho e ao ex-governador Orestes Quércia, esboçada nas urnas no primeira turno, poderia ser transferida para Covas.
@@ -375,9 +375,9 @@ O próprio Covas, porém, é um pouco mais explícito. Ao comentar o rompimento entr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-022</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-022</field>
+<field name="date">941014</field>
+<text_pt>
 REGIS MALLMANN
 Da Agência Folha, em Florianópolis
 A formação de brigadas de apoio integradas pelas principais lideranças nacionais é uma das estratégias que o PMDB vai adotar para ajudar candidatos do partido que disputam o governo nos Estados onde haverá segundo turno.
@@ -395,9 +395,9 @@ Além das estratégias para o segundo turno, os peemedebistas decidiram que a form
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-023</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-023</field>
+<field name="date">941014</field>
+<text_pt>
 Juiz da 25ª zona, onde há fraude em 50% das urnas, está ameaçado de morte pelo Comando Vermelho
 SERGIO TORRES
 Da Sucursal do Rio
@@ -423,9 +423,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-024</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-024</field>
+<field name="date">941014</field>
+<text_pt>
 EDNA DANTAS
 Da Sucursal do Rio
 O corregedor-geral do TSE (Tribunal Superior Eleitoral), Cid Flaquer Scartezzini, admitiu a ampliação do prazo para o encerramento da contagem de votos no Rio de Janeiro.
@@ -439,9 +439,9 @@ Scartezzini elogiou o trabalho do TRE fluminense e a população do Estado: ``O Ri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-025</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-025</field>
+<field name="date">941014</field>
+<text_pt>
 `Só durmo três horas por noite'
 Da Sucursal do Rio
 Juiz da 25ª zona eleitoral (a recordista em fraudes), Luiz Fux, 40, saiu de casa por causa das ameaças recebidas. Ele se mudou para um hotel, acompanhado de quatro seguranças que o protegem dia e noite.
@@ -463,9 +463,9 @@ Fux - Estamos numa região em que a população não tem um nível de formação razoáv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-026</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-026</field>
+<field name="date">941014</field>
+<text_pt>
 PAULO PEIXOTO
 Da Agência Folha, em Belo Horizonte
 O candidato ao governo de Minas pelo PSDB, Eduardo Azeredo, quer atingir o eleitorado mineiro do sul do Estado através do programa de TV do senador Mário Covas, de São Paulo.
@@ -477,9 +477,9 @@ O resultado da eleição no primeiro turno revelou a dificuldade de penetração de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-027</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-027</field>
+<field name="date">941014</field>
+<text_pt>
 Fipe apura alta de 1,36% em 30 dias até 7 de outubro; pressão vem de aluguel, comida e vestuário
 MAURO ZAFALON
 Da Redação
@@ -499,16 +499,16 @@ Em novembro a taxa volta a recuar, subindo de novo em dezembro devido às pressõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-028</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-028</field>
+<field name="date">941014</field>
+<text_pt>
 O governo fixou ontem os preços mínimos para a safra agrícola 94/95. Os preços do arroz, feijão, mandioca e milho foram mantidos nos mesmos níveis da safra passada. Os valores serão revistos em fevereiro de 95. Pelo decreto assinado pelo presidente Itamar Franco, o preço do arroz irrigado em casca (saca de 50 quilos) será R$ 10,02 e o do feijão ficará em R$ 22,50 (saca de 60 quilos). A tonelada da mandioca valerá R$ 25,50. A saca de 60 quilos do milho será cotada a R$ 6,32 (exceto em MT, TO, RO e AC).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-029</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-029</field>
+<field name="date">941014</field>
+<text_pt>
 O Banco Del Sud, um dos líderes do ranking dos maiores bancos privados da Argentina, acaba de incorporar o também argentino Shaw, outra conhecida instituição financeira do país.
 
 Por antecipação 
@@ -542,9 +542,9 @@ São sócios, além de Diniz, Caio de Alcântara Machado Júnior, José Carlos Costa P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-030</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-030</field>
+<field name="date">941014</field>
+<text_pt>
 ROBERTO LEAL LOBO E SILVA FILHO
 A cultura científica da população é uma condição necessária para assegurar a eficácia de qualquer política nacional de ciência e tecnologia. Somente com a formação científica básica ao alcance dos estudantes de 1º e 2º graus é possível estimular vocações e identificar talentos que, mais tarde, trarão ao país os conhecimentos e as descobertas capazes de colocá-lo em condições de competir com as demais nações.
 Não é diferente nos esportes. Os norte-americanos não nascem com talento específico para a bola ao cesto, mas os meninos com talento esportivo são atraídos para este esporte pela popularidade e o prestígio que ele goza nos EUA. Nem o brasileiro nasceu somente para jogar futebol. O mesmo fenômeno ocorre aqui, onde os talentos esportivos procuram a modalidade que lhes oferece maior retorno.
@@ -564,9 +564,9 @@ ROBERTO LEAL LOBO E SILVA, 56, físico, doutor pela Universidade de Purdue (EUA),
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-031</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-031</field>
+<field name="date">941014</field>
+<text_pt>
 ALBERTO ALVES SOBRINHO
 O elemento central para o êxito do Plano Real é a mudança do regime cambial. Com uma das maiores posições de reservas em todo o mundo, o Brasil pôde estabelecer o sistema informal de bandas e estabelecer novo padrão de competitividade.
 Sair do superávit para o equilíbrio ou mesmo déficit na conta corrente de balanço de pagamentos e notadamente na balança comercial tornou-se uma perspectiva concreta.
@@ -589,24 +589,24 @@ ALBERTO ALVES SOBRINHO, 54, é diretor do grupo Financeiro Fair. Foi presidente d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-032</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-032</field>
+<field name="date">941014</field>
+<text_pt>
 O volume total arrecadado com Imposto de Renda no mês de setembro foi de R$ 1,53 bilhão (aumento de 3,38% em relação aos R$ 1,48 bilhão do mês de agosto). Contra igual mês de 93, quando foram arrecadados R$ 1,21 bilhão, o avanço é de 26,45%. Os dados são da Receita Federal.
 A receita total proveniente do recolhimento de Imposto Sobre Produtos Industrializados em setembro (R$ 929 milhões) caiu 0,53% sobre o mês anterior, quando a arrecadação chegou a R$ 934 milhões. Na comparação com setembro do ano passado (R$ 824 milhões), o aumento é de 12,74%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-033</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-033</field>
+<field name="date">941014</field>
+<text_pt>
 As negociações entre atacado e supermercados registraram algumas fortes pressões na primeira semana após as eleições. O quilo do sal Cisne subiu 17,4%; o frasco de vinagre de vinho branco Castelo, 13,16%, e o Nescafé Casagrande torrado e moído, 10,3%. Os dados são da Beis (Bolsa Eletrônica Interstocks). A Beis mostra, no entanto, que apesar da aceleração de alguns produtos, 70,76% dos itens pesquisados não sofreram reajustes. Outros 19,75% subiram, enquanto 9,5% caíram de preço. A principal baixa ficou para o sabonete Lux luxo Ervas, com queda de 10,29%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-034</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-034</field>
+<field name="date">941014</field>
+<text_pt>
 O custo médio da cesta básica registrou ontem aumento de 0,29% na cidade de São Paulo. O valor da cesta, que na terça-feira era de R$ 102,99, passou ontem para R$ 103,29. Dos três grupos que compõem a cesta, apenas o item alimentação teve aumento no dia: 0,48%. Os produtos de limpeza e higiene pessoal tiveram quedas de 0,21% e 1,06%, respectivamente.
 A pesquisa de preços é feita pelo Procon em convênio com o Dieese em 70 supermercados das cinco regiões da cidade. Em outubro a cesta básica acumula aumento de 4,13%. Em setembro a alta foi de 1,53%.
 Os principais responsáveis pelo aumento da cesta em outubro são o feijão carioquinha, que acumula alta de 19,00% desde o início do mês, e as carnes de primeira e segunda, que subiram 7,09% e 14,95%, respectivamente. Os aumentos foram causados pela entressafra e pela prolongada estiagem que atinge o país.
@@ -614,24 +614,24 @@ As maiores altas do dia foram da linguiça fresca, 4,02%, frango resfriado inteir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-035</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-035</field>
+<field name="date">941014</field>
+<text_pt>
 A evolução média dos preços das locações de escritórios na cidade de São Paulo foi de 2,56% no mês de setembro, contra 14,37% do mês de agosto. De janeiro a setembro, os preços das locações variaram 2.470,57%. Os dados referem-se à pesquisa da Hubert Imóveis e Administração Ltda.
 O metro quadrado para a locação de escritórios, na faixa de área útil até 100 metros quadrados variou de R$ 2,50 a R$ 9,30. A de 101 a 500 metros quadrados teve preço entre R$ 2,60 a R$ 12,50. Escritórios com áreas de 501 a 1.000 metros quadros tiveram preço de R$ 2,65 a R$ 14,00 o m2.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-036</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-036</field>
+<field name="date">941014</field>
+<text_pt>
 A base monetária &#150;papel-moeda emitido e reservas bancárias&#150; atingiu R$ 9.072 milhões na média dos saldos diários em agosto. No final do mês fechou em R$ 9.415 milhões, segundo o Banco Central. O forte crescimento do dinheiro em circulação na economia ocorreu após o real. No final de junho a base era equivalente a R$ 3.175 milhões. Sempre que ocorre uma queda brusca da inflação, crescem a utilização de papel-moeda e os recursos em conta corrente. Em julho, os meios de pagamento (M1) aumentaram 46%: mais 97% no papel-moeda em poder do público e 27% nos depósitos à vista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-037</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-037</field>
+<field name="date">941014</field>
+<text_pt>
 Dois grupos de economistas devem começar em breve a disputar espaço no próximo governo Fernando Henrique Cardoso. Numa ponta, o chamado grupo da PUC-Rio. Na outra, o grupo paulista, impropriamente chamado de Unicamp ou USP. Na verdade, são economistas que têm em comum o fato de gravitar em torno do futuro senador José Serra.
 Há diferenças conceituais e operacionais entre ambos.
 Para quem gosta de rótulos, o grupo da PUC pratica o chamado neoliberalismo explícito. Cabe ao governo exclusivamente acertar os chamados fundamentos da economia e apertar o calo da produção nacional com a ampliação da abertura.
@@ -643,9 +643,9 @@ O relevante na história é FHC não repetir seu erro como ministro, de escolher ec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-038</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-038</field>
+<field name="date">941014</field>
+<text_pt>
 O presidente Itamar Franco vai incluir hoje novos modelos na lista de carros populares. Ele receberá os representantes das montadoras para assinar um adendo ao protocolo de fabricação dos veículos. Entre os novos modelos estão o Fiesta, da Ford, e o novo Gol, da Volkswagen. Também deve ser incluída a perua Corsa, da General Motors. A Fiat participa do acordo, mas não tem modelo definido.
 
 ZPES
@@ -653,9 +653,9 @@ O governo criou ontem mais duas ZPEs (Zonas de Processamento de Exportação): em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-039</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-039</field>
+<field name="date">941014</field>
+<text_pt>
 A Telesp vai fazer parceria com o setor privado para ampliar em 500 mil o número de terminais de telefone da Grande São Paulo. Dentro de 30 a 45 dias, será publicado o edital de licitação para escolha da empresa. O anúncio foi feito ontem pelo ministro das Comunicações, Djalma Morais. Segundo ele, a ampliação da rede de telefonia exigirá um investimento de US$ 1 bilhão.
 
  IMPOSTO
@@ -663,9 +663,9 @@ Depois de um ano de negociações, foi oficialmente decretado o fim do IOF (Impost
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-040</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-040</field>
+<field name="date">941014</field>
+<text_pt>
 É a menor cotação desde o início do Plano Real; vencimento do mercado futuro provoca fortes oscilações na Bolsa
 Da Redação
 O dólar comercial despencou novamente ontem. O Banco Central não interveio e as cotações chegaram a R$ 0,828 para compra e R$ 0,830 para venda no fechamento. Foram as menores cotações desde o início do Plano Real, representando uma desvalorização de 17% no período.
@@ -707,30 +707,30 @@ O índice Bovespa no mercado futuro para outubro fechou a 50.300 pontos e de 54.0
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-041</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-041</field>
+<field name="date">941014</field>
+<text_pt>
 O rublo valorizou-se 24,8% ontem em relação ao dólar. É a maior valorização em único dia já ocorrida. O mercado de Moscou fechou ontem com o dólar valendo 2,994 rublos. Na quarta-feira a cotação era de 3,736 depois de uma queda recorde de 29% na terça. O porta-voz do governo, Viacheslav Kostikov, disse que a queda foi um plano derrubar o governo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-042</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-042</field>
+<field name="date">941014</field>
+<text_pt>
 A Corte Suprema do Peru julgou improcedente pedir a extradição do ex-presidente do país Alán Garcia. Julgado por enriquecimento ilícito, Garcia está exilado em Bogotá, Colômbia, desde 1992. Para o presidente peruano Alberto Fujimori o fato de haver 26 candidatos à sua sucessão prova que existe democracia no país. ``São 25 contra o china'', disse.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-043</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-043</field>
+<field name="date">941014</field>
+<text_pt>
 Forças sérvias da Bósnia tomaram território controlado por muçulmanos ao norte de Sarajevo. Eles também deram ultimato para que o Exército bósnio, de maioria muçulmana, abandone em uma semana a faixa desmilitarizada ao sul da cidade. A ONU teme que os dois movimentos façam os combates voltar à cidade agora que está se aproximando o inverno.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-044</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-044</field>
+<field name="date">941014</field>
+<text_pt>
 A queda de um Fokker F-28 da estatal iraniana Aseman, quarta à noite, matou os 59 passageiros e 7 tripulantes. O avião caiu nos montes Karkas após decolar de Isfahã com destino a Teerã. 
 
 Gravação incrimina dois peronistas 
@@ -756,9 +756,9 @@ Fernando Rodríguez González, assessor parlamentar mexicano que confessou ser um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-045</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-045</field>
+<field name="date">941014</field>
+<text_pt>
 O aposentado Welson D'Ávila, 50, teve um infarto e morreu ontem de manhã depois de permanecer por 36 horas numa fila para compra de telefone em Bauru (345 km a noroeste de SP). D'Ávila morreu quando as 12 mil pessoas da fila começaram a ser atendidas. As senhas foram distribuídas pela empresa Schahin Cury, contratada pela Telesp para instalar 10.830 telefones. A procura foi grande porque cada linha custa R$ 1.170. No paralelo, o preço chega a R$ 3.300.
 
 QUINA
@@ -766,9 +766,9 @@ Não houve sorteio ontem devido ao feriado de 12 de outubro, Dia de Nossa Senhora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-046</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-046</field>
+<field name="date">941014</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha
 A disposição da mídia em polemizar sobre qualquer tema constitui um grosso desserviço ao indivíduo que paga para obter informação.
@@ -786,9 +786,9 @@ E, sem um mínimo de critério ou responsabilidade, sai cuspindo mesquinharias dis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-047</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-047</field>
+<field name="date">941014</field>
+<text_pt>
 Engana-se quem pensa que os marchands são uma espécie desprovida de coração. Na abertura da Bienal, Rachel Arnaud estava para lá de comovida. Ao perceber que a artista Mira Schendel dedicara sua sala a ela, a importante marchand não segurou a onda e caiu em prantos.
 
 Dica 
@@ -802,9 +802,9 @@ Ao contrário das edições anteriores, desta feita não faltou bebida ou comida no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-048</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-048</field>
+<field name="date">941014</field>
+<text_pt>
 A indústria madeireira do Estado deve obter novo recorde de exportação de madeira tropical, afirmou Guilherme Carvalho, diretor da Associação da Indústria e Exportação de Madeiras do Pará. Ele disse que o setor deve exportar este ano 40% a mais do que em 93.
 
 Pará 2
@@ -818,9 +818,9 @@ As mulheres aumentam a presença política após as eleições no Pará. A líder da vo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-049</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-049</field>
+<field name="date">941014</field>
+<text_pt>
 Sorocaba sedia o 1º Campeonato Panamericano Interclubes Campeões de Basquete Feminino de 31 de outubro a 6 de novembro. Seis equipes representam Brasil, EUA, México, Canadá, Honduras e Chile. Pelo Brasil, participa a equipe do Leite Moça/Atlético/Sorocaba.
 
 SP Interior 2
@@ -834,9 +834,9 @@ Três rapazes &#150;dois deles menores de 18 anos&#150; foram presos em Sorocaba 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-050</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-050</field>
+<field name="date">941014</field>
+<text_pt>
 Técnicos da Fundação Nacional de Saúde (FNS) se reúnem hoje com a Vigilância Sanitária de Campo Grande para traçar uma ação conjunta. A FNS controla as endemias &#150;como dengue&#150; e deve repassar à Vigilância as irregularidades encontradas nas áreas de saneamento básico e zoonoses.
 
 Mato Grosso do Sul 2
@@ -850,9 +850,9 @@ Durante o projeto ``A Cidade Vai à UFG'', haverá cursos sobre educação sexual pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-051</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-051</field>
+<field name="date">941014</field>
+<text_pt>
 Ana Justo Gonçalvez, 67, foi morta anteontem com um tiro disparado por seu filho Glauci, 29, em Sapucaia do Sul (região metropolitana de Porto Alegre). Ele havia pego o revólver de seu irmão Zilmar, presidiário foragido, para ameaçar outro irmão, Eduardo.
 
 Paraná 1
@@ -866,9 +866,9 @@ A Biofill Produtos Tecnológicos vai implantar sua primeira fábrica no Brasil em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-052</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-052</field>
+<field name="date">941014</field>
+<text_pt>
 A onça preta que fugiu na sexta-feira passada do horto zoobotânico de Recife ainda não foi encontrada. O animal, de um ano e meio, escapou quando era transferido de cativeiro. A onça entrou numa área de 388 hectares de Mata Atlântica.
 
 Pernambuco 2
@@ -882,9 +882,9 @@ A ópera La Traviata, de Verdi, será apresentada hoje e domingo no teatro Atheneu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-053</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-053</field>
+<field name="date">941014</field>
+<text_pt>
 FERNANDO JOSÉ DE ALMEIDA
 Neste 15 de outubro, dia do professor, a depender dos ``santinhos'' que os candidatos lançaram pelas ruas e de suas uníssonas mensagens televisivas, temos muito a comemorar. Se acreditarmos nas promessas, finalmente a educação será campeã das prioridades.
 Durante os próximos quatro anos, tempo de duração dos mandatos, ela fará parte das preocupações dos governos federal, estadual e municipal, entrará na pauta do Congresso Nacional, será debatida nas ruas, praças e lares das pequenas cidades do interior brasileiro.
@@ -901,9 +901,9 @@ FERNANDO JOSÉ DE ALMEIDA, 50, doutor em Filosofia da Educação, é vice-reitor aca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-054</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-054</field>
+<field name="date">941014</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre
 A empregada doméstica Cláudia Roberta Fernandes, que trabalhou cerca de um ano (1985-86) na casa do empresário Carlos Corrêa Oliveira e de sua mulher, Nilza, em Porto Alegre, disse que o filho do casal, Carlos Alberto, procurava se isolar quando os pais e os irmãos se reuniam.
 ``Ele não costumava frequentar os almoços em família. Ele era uma pessoa boa, mas super fechada'', disse Cláudia.
@@ -915,9 +915,9 @@ Os mergulhadores não conseguiram encontrar as três facas que teriam sido usadas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-055</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-055</field>
+<field name="date">941014</field>
+<text_pt>
 Da Sucursal do Rio
 A polícia do Rio já tem os retratos falados dos dois homens que mataram a tiros na última segunda-feira o neurocirurgião boliviano Victor Arturo Toledo Zamora.
 Zamora, sobrinho do ex-presidente da Bolívia Jaime Paz Zamora, foi morto com seis tiros quando chegava ao prédio onde morava, no Maracanã (zona norte do Rio).
@@ -928,9 +928,9 @@ O delegado disse que Zamora e a ex-mulher mantinham contatos para tornarem-se só
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-056</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-056</field>
+<field name="date">941014</field>
+<text_pt>
 Da Reportagem Local
 São Paulo teve ontem o dia mais quente desde 1988. A temperatura atingiu 34,6ºC. Em 27 de setembro de 1988, chegou a 34,9ºC. Ontem foi também o dia mais quente em um mês de outubro desde 1963.
 Segundo a meteorologista Neide Oliveira, do Instituto Nacional de Meteorologia, a alta temperatura se deve à presença de uma massa de ar quente vinda do norte que está sobre todo o país.
@@ -956,9 +956,9 @@ O telefone do Disque Mata Fogo é 0800-12-00-51.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-057</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-057</field>
+<field name="date">941014</field>
+<text_pt>
 Estilistas usam cor e materiais sintéticos em desfiles inspirados na era disco
 ERIKA PALOMINO
 Enviada especial a Paris
@@ -973,9 +973,9 @@ A jovem belga (29 anos) Véronique Leroy, faz moda bem-humorada e super-sexy, com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-058</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-058</field>
+<field name="date">941014</field>
+<text_pt>
 Da Agência Folha, em Santarém (PA)
 O navio do Greenpeace chegou ontem ao porto de Santarém (PA). O barco ambientalista atracou ao lado de 1.000 m3 de madeiras nobres que seriam exportadas para a Holanda.
 ``Não podemos dizer que essa exportação seja ilegal, mas com certeza é madeira extraída da área de várzea, onde predomina a retirada predatória'', disse o coordenador da Campanha de Florestas do Greenpeace para a América Latina, Jacó Augusto Pádua.
@@ -983,9 +983,9 @@ Ele afirmou que os ecologistas não fariam um protesto contra a madeira exposta a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-059</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-059</field>
+<field name="date">941014</field>
+<text_pt>
 A manicure carioca Joselina da Silva, 35, a Jô, vai constar na edição brasileira do Guiness Book &#150;o livro mundial dos recordes&#150; de 1995. Jô constará em duas categorias: como mulher mais gorda e a mulher que mais perdeu peso no país em 94. Jô chegou a pesar 406 quilos. Atualmente, após 11 meses num spa em Sorocaba, ela pesa 160 quilos.
 
 QUINA
@@ -993,9 +993,9 @@ Não houve sorteio ontem devido ao feriado de 12 de outubro, Dia de Nossa Senhora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-060</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-060</field>
+<field name="date">941014</field>
+<text_pt>
 O leitor Eduardo de Souza Augusto, morador no bairro de Sapopemba, na zona leste, reclama do trânsito na avenida Sapopemba.
 ``O trânsito é moroso e extenso nos horários de pico. O problema aumenta no cruzamento da Sapopemba com a rua Planeta, até a praça Almirante Álvaro Azambuja. Neste trecho, a avenida é a única alternativa na região e o percurso leva mais de 20 minutos. A solução seria asfaltar a rua Adutora do Rio Claro, que é paralela à Sapopemba. Isso absorveria o trânsito de veículos leves que transitam na avenida'', diz Augusto.
 
@@ -1005,9 +1005,9 @@ A assessoria de imprensa informa ainda que ``mesmo com o asfaltamento da rua Adu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-061</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-061</field>
+<field name="date">941014</field>
+<text_pt>
 Claudia Cristina Garcez Maas reclama da qualidade dos produtos Enxuta.
 ``Tenho uma lavadora de louças e um aquecedor da marca Enxuta. Atualmente ambas estão com defeito. Procurei a assistência técnica e fui informada que só a lavadora poderia ser consertada em minha casa, pois aparelhos portáteis não são consertados à domicílio. Os produtos da Enxuta são de péssima qualidade'', diz Claudia.
 
@@ -1018,9 +1018,9 @@ Cartas para ``A Cidade é Sua/Via São Paulo'' devem ser enviadas para a Editoria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-062</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-062</field>
+<field name="date">941014</field>
+<text_pt>
 Temperatura sobe a 34,6ºC, mas chegada de uma frente fria provoca chuva na cidade após 81 dias de seca
 Da Reportagem Local
 Ontem, no dia mais quente desde setembro de 1988 e após 81 dias de estiagem, choveu forte à noite em São Paulo.
@@ -1038,9 +1038,9 @@ Segundo o superintendente do DAEE, mesmo que nos próximos 15 dias chova, não ser
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-063</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-063</field>
+<field name="date">941014</field>
+<text_pt>
 Especial para a Folha
 O juiz que vai analisar o caso de Gustavo Pissardo tem liberdade para aceitar ou não o resultado do laudo médico. Em geral, prevalece a perícia.
 O caso Pissardo tem três desfechos possíveis. Na primeira hipótese ele é considerado doente mental. O juiz pode ou não submetê-lo a julgamento num Tribunal do Júri.
@@ -1051,9 +1051,9 @@ Na terceira hipótese ele será considerado uma pessoa normal e responderá integra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-064</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-064</field>
+<field name="date">941014</field>
+<text_pt>
 Acusado de matar estudante vai a júri e prédio aparece pichado
 DANIELA PINHEIRO*
 Da Sucursal de Brasília
@@ -1067,9 +1067,9 @@ Ontem, no julgamento, Pinheiro também negou ter participado do crime. A promotor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-065</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-065</field>
+<field name="date">941014</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre
 Laudo do IML (Instituto Médico Legal) de Porto Alegre, divulgado às 20h30 de ontem pelo delegado Cleber Ferreira, constatou que Carlos Alberto Pinto Oliveira, 35, apresentava arranhões de unhas nos ombros e um pequeno corte na coxa.
 Carlos Alberto confessou ter mandado matar os pais. O casal foi degolado. A polícia ainda não tem pistas do paradeiro de Luciano Jarczewski, acusado pelo assassinato do casal.
@@ -1082,9 +1082,9 @@ O delegado disse que os documentos podem ajudar a explicar o crime. Os mergulhad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-066</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-066</field>
+<field name="date">941014</field>
+<text_pt>
 O aposentado Welson D'Ávila, 50, teve um infarto e morreu ontem de manhã depois de permanecer por 36 horas numa fila para compra de telefone em Bauru (SP). D'Ávila morreu quando as 12 mil pessoas da fila começaram a ser atendidas.
 
 Furto de galinhas causa chacina em PE
@@ -1104,9 +1104,9 @@ O tombamento de um caminhão no km 226 da pista Rio-São Paulo da via Dutra às 5h 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-067</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-067</field>
+<field name="date">941014</field>
+<text_pt>
 ANDRÉ LOZANO
 Da Agência Folha, em Santarém (PA)
 O navio do Greenpeace chegou ontem ao porto de Santarém (PA) e atracou ao lado de 1.000 m3 de madeiras nobres que seriam exportadas para a Holanda.
@@ -1120,9 +1120,9 @@ Depois de encerrada a expedição amazônica, o navio ambientalista deve percorrer 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-068</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-068</field>
+<field name="date">941014</field>
+<text_pt>
 Na sua `estréia' em estádios, quarta-feira, em Campinas, menino foi derrubado e pisoteado
 HEIDY VARGAS
 Da Folha Sudeste
@@ -1143,9 +1143,9 @@ Com a Redação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-069</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-069</field>
+<field name="date">941014</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 Com a média de quase 2,9 tentos em 17 partidas, foi aparentemente generosa a segunda super-rodada da Eurocopa-96. Apenas aparentemente. Nada menos do que 47 seleções disputam a fase eliminatória do certame &#150;metade delas sem nenhuma eficiência, sem nenhuma competitividade.
 Quando os torneios eram efetivamente seletivos, o País de Gales não perderia da Moldávia, 2 x 3, mesmo como visitante; a República Tcheca não sairia de Malta a lastimar um empate de 0 x 0; em seus domínios a Rússia faria bem mais do que 4 x 0 em San Marino.
@@ -1157,18 +1157,18 @@ O torneio atual, adicionado às eliminatórias e à fase final da última Copa, serv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-070</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-070</field>
+<field name="date">941014</field>
+<text_pt>
 Só existe uma chance de o Brasil perder o direito adquirido de disputar a próxima Copa sem a obrigatoriedade das eliminatórias: seguir o exemplo da Dinamarca, a campeã da Euro-92, que fez a fase de qualificação da Euro-96, pois era a única chance de a federação arrecadar dinheiro.
 
 Escorregaram os periódicos que, citando ou não o ``El Gráfico'' da Argentina, precipitadamente anunciaram o rompimento de Maradona com o seu formidável manager Juan Marcos Franchi. Maradona desmentiu a nota.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-071</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-071</field>
+<field name="date">941014</field>
+<text_pt>
 Kenzaburo Oe, autor de ``O Grito Silencioso'', leva prêmio por ``condensar vida e mito'' de seu país em sua obra
 Da Redação
 O romancista, contista e ensaísta japonês Kenzaburo Oe, 59, é o vencedor do Prêmio Nobel de Literatura deste ano. Seu nome foi divulgado ontem às 9h (hora de Brasília) pela Academia Sueca, que justificou a premiação afirmando que o escritor, através de sua obra literária, cria ``um mundo imaginário onde a vida e o mito se condensam''.
@@ -1183,18 +1183,18 @@ O escritor afirmou ontem que ``se sentia orgulhoso de que a literatura japonesa 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-072</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-072</field>
+<field name="date">941014</field>
+<text_pt>
 Enquanto escritor japonês, estou muito feliz que, entre os estrangeiros que participam desse congresso internacional do PEN Club, haja muitas pessoas que têm no espírito Hiroshima e Nagasaki, que o tempo todo se preocupam com o desastre que representa a arma nuclear.
 Eu quero agora atrair a atenção de vocês para o modo pelo qual os japoneses nunca deixaram de refletir sobre a experiência de Hiroshima e Nagasaki. Como prova dessa continuidade, existe hoje uma ``literatura da bomba atômica'', que é um ato de escritores japoneses, os quais desta maneira criaram um novo gênero literário no Japão.
 Palestra ``A atitude dos escritores japoneses face ao perigo nuclear'', dada por Kenzaburo Oe em 1984 no PEN Club, uma das mais importantes associações de escritores do mundo, e cedida pelo Centro de Estudos Japoneses
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-073</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-073</field>
+<field name="date">941014</field>
+<text_pt>
 Das agências internacionais
 A vida de Alfred Nobel, fundador do prêmio Nobel e também inventor da dinamite, vai virar filme. Será um das produções mais caras da Suécia (US$ 4,4 milhões).
 O diretor será o sueco Vilgot Sjoman (``I Am Curious Yellow'', 1967). Alfred Nobel será interpretado pelo ator Sven Wollter.
@@ -1202,23 +1202,23 @@ Alfred Bernhard Nobel nasceu em 1833. Passou a maior parte de sua vida em Paris,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-074</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-074</field>
+<field name="date">941014</field>
+<text_pt>
 ``Será um lugar dirigido pelas idéias e por pessoas que tenham idéias'', disse Spielberg anteontem sobre o estúdio que criará com os executivos Jeffrey Katzenberg e David Geffen. Será dedicado a cinco áreas: cinema, televisão, discos, desenhos e jogos interativos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-075</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-075</field>
+<field name="date">941014</field>
+<text_pt>
 O siciliano Piero Cannata, conhecido por ter dado uma martelada e mutilado o pé esquerdo do ``Davi'', de Michelangelo, em 91, e atentado contra telas de Filippo Lippi e Raffaele delle Colombe em 93, pediu para ser internado em um hospital psiquiátrico.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-076</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-076</field>
+<field name="date">941014</field>
+<text_pt>
 EDUARDO SIMANTOB
 Da Redação
 A onda que revive o velho estilo das revistas populares norte-americanas dos anos 20 e 30 &#150;as chamadas ``pulp magazines''&#150; chega hoje a São Paulo com a estréia 
@@ -1236,9 +1236,9 @@ Onde: Comodoro, Gemini 1, Ibirapuera 1, Morumbi 4 e circuito
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-077</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-077</field>
+<field name="date">941014</field>
+<text_pt>
 
 O vodu parece ter baixado na órbita das top models. Christy Turlington sumiu. Além da boataria de que teria engordado 20 quilos, também dizem que ela está grávida. Houve até desmentido na revista americana ``W'', dedicada ao tal planet fashion. Onde há fumaça...
 
@@ -1252,9 +1252,9 @@ Há rumores de que a temida e respeitada jornalista de moda do ``International He
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-078</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-078</field>
+<field name="date">941014</field>
+<text_pt>
 O primeiro perfume da marca, que está sendo vendido desde segunda em Paris, Londres e Nova York, parece um licor. Tem um aroma ligeiramente narcótico, uma combinação de óleos essenciais exóticos (anote: labre danum, olibam, benjoim, madeiras e raízes orientais).
 Em vez das tradicionais caixas, o frasco vem embalado a vacuo em plástico como banal alimento congelado. Inesperado, portanto fiel à imagem da marca da criadora Rei Kawakubo. Ela diz que quer desmistificar a imagem ``luxo'' do perfume. Raro na composição, custa por volta de 450 francos, que vem a ser cerca de U$ 90.
 O perfume é hoje o produto que ``democratiza'' o consumo das grandes grifes. Jeitão ``não posso comprar a roupa por isso compro o perfume''. É também mina de ouro. Que o diga Issey Miyake com seu L'Eau d'Issey, que o fez rico. Yamamoto, radical e oriental, também lançará sua fragrância no final de 95.
@@ -1262,9 +1262,9 @@ Há cinco anos, quando perguntei por que não exploravam o filão da perfumaria à e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-079</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-079</field>
+<field name="date">941014</field>
+<text_pt>
 
 E a top brasileira Gisele Zelauy enfrenta geladeira aqui. Parece que ela andou falando demais. O Kaiser Lagerfeld não gostou muito e ela acabou de fora de muitos castings importantes. Deve fazer Versolato na segunda e apenas mais um ou outro. Depois segue, linda, para Nova York.
 
@@ -1274,17 +1274,17 @@ E é um sucesso a música nova do Jamiroquai. Chama ``Space Cowboy'', do novo disc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-080</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-080</field>
+<field name="date">941014</field>
+<text_pt>
 Madonna deu o ar da graça na festa da Comme des Garçons em Paris, informa Costanza Pascolato. Ficou 16 minutos. Quase não deu tempo para tumulto. Cabelos absolutamente platinados, encaracolados, casaquinho de cordeiro da mongólia (bem 70), calças em cetim marrom e sandálias de salto-alto (nove centímetros) e tiras finas. Strass no cabelo, orelhas e pés. Discutiu animadamente com o cineasta Alek Keshishian (``Na Cama Com Madonna'') sentada na escada. Parecia exausta. Foi embora com seus ``armários'', que andam sempre de terno, no mesmo tom da roupa (no caso marrom).
 Na mesma semana, Madonna foi vista comprando lingerie em Saint Germain. Vestia uma suéter de angorá de gola alta erguida e estava de óculos escuros. Quando foi reconhecida na calçada da rue des Saint Pères, foi aplaudida pelos 20 sortudos que lá estavam. O editor de moda da ``Elle'', Paulo Martinez, conta que passou por ela e ainda falou um Olá Querida (Hello Darling), ao que ela respondeu com um beijinho com o dedo na boca.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-081</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-081</field>
+<field name="date">941014</field>
+<text_pt>
 Da Redação
 Com promoção da Associação Alumni e da Folha, será realizado hoje o segundo debate do encontro ``Confronto de Culturas'', que tem como tema as artes plásticas. O objetivo é incrementar o debate sobre a 22ª Bienal Internacional de Arte de São Paulo, que abriu anteontem, visando refletir sobre suas características e particularidades.
 No primeiro debate, ontem à noite, o americano Thomas McEvilley (crítico de arte e curador da revista americana ``Artforum''), o canadense Bruce Fergusson (colaborador das revistas ``Artforum'' e ``Art in America''), Lorna Fergusson (curadora da Bienal de Johannesburgo, na África do Sul), Sonia Salztein (crítica e curadora independente, responsável pelo setor de exposições do Centro Cultural São Paulo de 1988 a 1992) e o crítico e curador independente Ivo Mesquita discutiram o tema ``Bienal como modelo de exposição''.
@@ -1293,9 +1293,9 @@ Os debates, abertos ao público, serão mediados por jornalistas da Folha e aconte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-082</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-082</field>
+<field name="date">941014</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Continuo publicando, uma vez por mês, a lista de livros importantes sobre a busca espiritual:
@@ -1304,9 +1304,9 @@ Continuo publicando, uma vez por mês, a lista de livros importantes sobre a busc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-083</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-083</field>
+<field name="date">941014</field>
+<text_pt>
 Opinião pública precisa suspeitar da `reesquerdização' do presidente eleito para evitar concessões ao fisiologismo
 MARCELO COELHO
 Da Equipe de Articulistas
@@ -1336,9 +1336,9 @@ Se o PT tem de aprender, depois desta eleição, a ser mais ``estatal'' e público,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-084</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-084</field>
+<field name="date">941014</field>
+<text_pt>
 MARIO CESAR CARVALHO
 Da Reportagem Local
 A 22ª Bienal já pode abrir uma coluna de perdas e danos na sua contabilidade. Principal perda: a escultura de Tunga, 42, com cerca de seis toneladas que nem chegou a sair do chão quando deveria estar suspensa no ar. Principal dano: a extremidade de uma das peças que compõe a instalação ``Macula 1'', de Nuno Ramos, 34, foi danificada anteontem, no primeiro dia da mostra.
@@ -1366,9 +1366,9 @@ Não é a primeira vez que ele desafia a capacidade da Bienal para montar seus tra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-085</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-085</field>
+<field name="date">941014</field>
+<text_pt>
 Da Reportagem Local
 A Folha procurou ontem o curador da 22ª Bienal, Nelson Aguilar, para que comentasse as declarações de Nuno Ramos e Tunga.
 Aguilar não pôde atender porque participava de um colóquio internacional no Museu de Arte Contemporânea. A reportagem ouviu, então, Ronald Cavaliere, arquiteto da Fundação Bienal.
@@ -1381,9 +1381,9 @@ A Fundação Bienal fez um seguro de US$ 3.000 para cada artista que expõe na most
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-086</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-086</field>
+<field name="date">941014</field>
+<text_pt>
 OTAVIO DIAS DE OLIVEIRA
 Free-lance para a Folhinha
 Chegou a terceira versão para Mega Drive de um clássico dos games de luta e ação. ``Streets of Rage 3'' vem com gráficos melhorados, som imbatível com estilo discoteca e novos personagens. A fórmula continua a mesma: um monte de bandidos mal encarados para surrar.
@@ -1392,16 +1392,16 @@ Mas desta vez existe um comandante em perigo que precisa ser salvo. Dependendo d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-087</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-087</field>
+<field name="date">941014</field>
+<text_pt>
 Existe um canguru bom de briga que serve de lutador de rua, escondido no cartucho. Para fazê-lo aparecer na tela de apresentação, aperte o botão ``Start'' e depois pressione o cursor para cima e os botões ``B'' e ``Start'' juntos. Escolha então um ou dois jogadores. Vai aparecer o canguru, igual ao que você vai enfrentar na segunda fase.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-088</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-088</field>
+<field name="date">941014</field>
+<text_pt>
 Da Redação
 Veja dicas para este fim-de-semana:
 Ciranda da Ciência - Os 27 melhores trabalhos dos 13.500 realizados por 74 mil alunos do país estão em exposição no Sesc Pompéia (rua Clélia, 93, tel. 864-8544). Na mostra, os pequenos pesquisadores apresentam suas descobertas. Grátis. De 14 a 16, das 14h às 19h, e dia 17, das 17h30 às 18h30.
@@ -1409,32 +1409,32 @@ Campeonato de Pipas - Domingo, o céu do viveiro Manequinho Lopes, no parque Ibir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-089</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-089</field>
+<field name="date">941014</field>
+<text_pt>
 ``Serigrafia'' (Grow) traz um kit para fazer silk-screen, que é a impressão de desenho em tecidos, papel ou outros materiais. Você imprime seu desenho em uma camiseta, por exemplo. O kit traz tintas, uma tela, espátula e 24 máscaras, com 12 desenhos. Para crianças a partir de 8 anos. Preço médio: R$ 24,00.
 Com ``Fazendo Arte com Eliana'' (Grow), você pinta, desenha e faz colagens. Tem marionetes de dedos para brincar de teatrinho. Para crianças a partir de 4 anos. R$ 7,50.
 ``Vamos Pintar'', da Grow (foto à direita), tem cartelas com desenhos e aquarela. Há também o ``Mickey Mouse - Carimbos para Colorir''. Para crianças a partir de 4 anos. R$ 5,00.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-090</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-090</field>
+<field name="date">941014</field>
+<text_pt>
 Com ``Modelarte'' (Estrela) você faz vasos, potes, bonecos ou o que inventar com cerâmica. O brinquedo (foto acima) traz argila, tintas, verniz, espátula (tipo de faca) e suporte para fazer as peças. Funciona a pilhas. Para crianças a partir de 8 anos. Preço médio: R$ 28,00. Com ``Disney Molde'' (Estrela), você faz Mickey ou Tio Patinhas em gesso. Traz moldes, gesso, copo para mistura, aquarela e pincel. Para crianças a partir de 3 anos. Preço médio: R$ 14,00.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-091</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-091</field>
+<field name="date">941014</field>
+<text_pt>
 ``Trancinha da Sorte'' (foto acima) faz pulseiras, faixas para cabelo, cordões para tênis etc. É da Glasslite, traz linhas e receitas com 40 modelos de pontos. Para cada trança você faz um pedido &#150;daí o nome ``Trancinha da Sorte''. Para crianças a partir de 8 anos. R$ 31,00. ``Palymobil Pinte e Brinque'' (da Estrela, à esquerda) traz tigres e canetas laranja e preta para colori-los. Para crianças a partir de 3 anos. R$ 11,00.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-092</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-092</field>
+<field name="date">941014</field>
+<text_pt>
 Ateliê de Arte - Trabalhos com gesso, barro, colagem, maquete, pintura. Mensalidade com material incluído: R$ 30,00. Sem matrícula (r. Monte Alegre, 173, tel. 872-7876, Perdizes).
 Centro Paulista de Arte e Design - Desenho para crianças de 7 a 10 anos. Matrícula: R$ 20,00. Mens.: R$ 56,00 (av. Jabaquara, 891, tel. 276-6008).
 Recriarte - Desenho, pintura e aquarela para crianças a partir dos 4 anos. Matrícula: R$ 17,50. Mens.: R$ 35,00 (av. Rebouças, 1.064, tel. 280-6216).
@@ -1443,23 +1443,23 @@ Cia de Arte - Curso em duas aulas, de reciclagem e fabricação de papel para cria
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-093</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-093</field>
+<field name="date">941014</field>
+<text_pt>
 A TV Cultura apresenta amanhã, às 16h30, ``Peter sem Rabo'' (foto), um desenho animado sueco. Ele fala de um gato que, por não ter rabo, sofre humilhações dos gatos maus da cidade. Como é corajoso, ele enfrenta seus inimigos e arruma grandes confusões com sua namorada e seus amigos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-094</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-094</field>
+<field name="date">941014</field>
+<text_pt>
 Começa amanhã, à meia-noite, o horário de verão. Os relógios devem ser adiantados em uma hora em São Paulo, no Distrito Federal e em mais dez Estados do país. O horário de verão serve para economizar energia. Ele vai terminar no dia 19 de fevereiro, quando os relógios devem ser atrasados em uma hora.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-095</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-095</field>
+<field name="date">941014</field>
+<text_pt>
 Outros nomes populares (comuns) do molusco conhecido como cupim-do-mar são teredo ou turu. Ele é parente da ostra e do caracol. ``No Norte e Nordeste do Brasil, as pessoas costumam comê-los'', diz Osmar Domaneschi, professor no Departamento de Zoologia da Universidade de São Paulo.
 ``O cupim-do-mar tem alto valor nutritivo, é rico em proteínas e cálcio'', explica Osmar.
 Osmar conta também que o cupim-do-mar tem grande importância ecológica, porque apressa a destruição da madeira e em alguns casos isso é bom.
@@ -1468,9 +1468,9 @@ Imagine quantas árvores e galhos o rio Amazonas carrega para o mar. Essa madeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-096</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-096</field>
+<field name="date">941014</field>
+<text_pt>
 Free-lance para a Folhinha
 Além do rei e da rainha, o cupinzeiro tem rei e rainha como reservas. As outras castas de cupins não são reprodutoras (não têm filhotes) e são chamadas de operários e soldados.
 Algumas espécies de cupim gostam de se alimentar com madeira morta. Outras, com madeira viva, papel, tecidos de juta ou algodão, raízes de plantas, couro, lã, e há até aquelas que atacam a capa de plástico de fios elétricos.
@@ -1483,9 +1483,9 @@ Se algum cupim ficar doente e não puder trabalhar, é devorado junto com o lixo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941014-097</text_pt>
-<text_pt name="date">941014</text_pt>
-<text_pt name="text">
+<field name="id">FSP941014-097</field>
+<field name="date">941014</field>
+<text_pt>
 Os cupins fazem mal ao solo e às plantações. Na medida que constroem suas galerias, os cupins misturam os grãos de terra com saliva para revestir (cobrir) as paredes de sua casa. Assim, o solo fica endurecido e as raízes das plantas não podem crescer.
 Para encontrar madeira &#150;seu alimento&#150;, os cupins são capazes de se afastar muito do ninho. Por isso, é difícil acabar com os cupins que entram nas casas. Se a rainha ou o rei ou, ainda, seus reservas não forem eliminados, uma dedetização (matá-los com inseticida) não vai adiantar. 
 (LG)

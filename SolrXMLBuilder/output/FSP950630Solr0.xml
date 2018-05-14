@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950630-001</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-001</field>
+<field name="date">950630</field>
+<text_pt>
 Governo anuncia hoje redução da taxa de juros para aplicações e dívidas; caderneta de 90 dias terá ganho maior 
 O Conselho Monetário Nacional deverá anunciar hoje mudança no cálculo da Taxa Referencial de juros que reduzirá o rendimento da poupança.
 Será criada uma caderneta com limite mínimo de 90 dias para saque. Ela renderá mais que a poupança tradicional.
@@ -12,9 +12,9 @@ A equipe econômica anuncia hoje medida provisória que estabelece o fim dos reaju
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-002</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-002</field>
+<field name="date">950630</field>
+<text_pt>
 O pronunciamento à nação feito ontem pelo presidente Fernando Henrique Cardoso foi marcado pelo realismo. Ele está absolutamente certo ao dizer que há ainda um longo caminho até que o país chegue a uma estabilização sustentável.
 Pôde-se também depreender da fala do presidente um caráter um pouco majestático. Fez questão de afirmar que foi ``ele" quem concedeu o aumento para o salário mínimo e que foi ``ele" quem diminuiu as taxas de juros para o setor agrícola. Na verdade, quem fixa o valor do mínimo é o Congresso Nacional, e o presidente chegou a vetar, em fevereiro, uma proposta anterior do Parlamento para majorar o mínimo.
 Também no caso da agricultura, FHC e sua equipe econômica não estavam dispostos a diminuir as taxas de juros para o setor. Foi só depois de muita negociação com a bancada ruralista do Congresso que o governo cedeu _e sob a ameaça de ter de enfrentar uma rebelião desse numeroso grupo.
@@ -24,9 +24,9 @@ FHC disse que o Brasil de hoje é melhor que o de há um ano _algo que, de resto, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-003</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-003</field>
+<field name="date">950630</field>
+<text_pt>
 Em artigo sobre o Sivam publicado na edição de ontem, o professor Rogério Cezar de Cerqueira Leite, membro do Conselho Editorial desta Folha, questiona duramente o projeto. As acusações feitas pelo professor se somam a uma série de outras suspeitas igualmente graves e não contestadas.
 Além das dúvidas de ordem legal que pairam sobre o Sivam (dispensa de licitação, inidoneidade de participantes, falsificações, espionagem), o artigo sugere que avançar o projeto na forma atual caracterizaria malversação do dinheiro público e atestado de incompetência.
 O governo apresentou três principais justificativas para criar o Sivam: proteção ao vôo, controle do contrabando e proteção ao meio ambiente. O Brasil já possui três sistemas de cobertura por radares, os ``Dacta", em cuja construção a participação de empresas brasileiras foi crescente. Segundo o professor, empresas nacionais poderiam implantar algo semelhante aos ``Dacta" por menos de US$ 300 mil, garantindo assim a proteção aos vôos sobre a Amazônia.
@@ -38,9 +38,9 @@ São tantas as suspeitas e é tal a magnitude dos recursos envolvidos que se impõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-004</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-004</field>
+<field name="date">950630</field>
+<text_pt>
 Movendo-se a uma velocidade de 28.000 km/h em órbita da Terra, o ônibus espacial norte-americano Atlantis e a estação espacial russa Mir acoplaram-se ontem no que pode ser o marco de uma nova era na pesquisa e exploração do espaço. Até há poucos anos um dos maiores símbolos da Guerra Fria, os programas espaciais dos dois países se uniram em uma parceria que visa à construção da primeira estação internacional no espaço.
 Esse é um encontro muito diferente daquele de 20 anos atrás, quando Apolo-18 e Soiuz-19 se acoplaram no espaço. Tecnicamente, ambas as naves eram módulos relativamente pequenos, e não titãs de 100 toneladas como o Atlantis e a Mir. E, em 1975, o aperto de mãos foi apenas um interlúdio isolado e logo perdido em meio à tensa competição que dominava as relações EUA-URSS. Agora, a nave e a estação passarão cinco dias unidas, realizando experiências científicas no primeiro de uma série de sete encontros previstos até 1997, quando, com participação da Europa, Japão e Canadá, deve começar a construção da nova estação.
 Mais do que apenas um evento de simbolismo político, a acoplagem constitui também uma impressionante exibição do desenvolvimento tecnológico atingido pela humanidade. Marcada por algumas tragédias e muitos sucessos, da queda da Soiuz-11 e da explosão da Challenger aos vôos da cadela Laika e de Iuri Gagárin e aos primeiros passos de Neil Armstrong na Lua, a corrida espacial permite ao homem _que há menos de um século aprendeu a voar_ realizar operações como a de ontem e planejar a construção de bases na Lua.
@@ -48,9 +48,9 @@ Mais do que apenas um evento de simbolismo político, a acoplagem constitui també
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-005</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-005</field>
+<field name="date">950630</field>
+<text_pt>
 Clóvis Rossi 
 SÃO PAULO _ As Câmaras Americanas de Comércio promovem hoje a festa de entrega dos prêmios Eco-1995. Em circunstâncias normais, nem seria notícia, a não ser como evento social.
 Mas os cinco projetos premiados parecem simbolizar fenômeno crescente no país: o envolvimento da sociedade em tarefas que seriam típicas de governo. Uma evidência adicional de que a sociedade (empresariado incluído) já intuiu que o Estado, por falência ou pura incompetência, não vai conseguir resolver nem sequer os problemas classicamente a ele afetos.
@@ -65,9 +65,9 @@ O Estado tornou-se grande demais para os pequenos problemas e é pequeno demais p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-006</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-006</field>
+<field name="date">950630</field>
+<text_pt>
 Gilberto Dimenstein 
 BRASÍLIA _ Não sou católico, e o assunto hoje desta coluna deveria ser desindexação. Impossível, porém, deixar de comentar uma decisão tomada pelo cardeal arcebispo de Brasília, d. José Freire Falcão. Num gesto surpreendente, ele investiu simultaneamente contra meninos carentes e uma manifestação artística.
 Antes de viajar para Israel (lá, por sinal, alguém antes de morrer disse que os homens não sabiam o que faziam), o cardeal arcebispo deixou uma ordem para que a banda mirim do Olodum não entrasse numa igreja em Brasília.
@@ -79,9 +79,9 @@ PS _ Magnífica notícia na área educacional e, mais uma vez, produzida pelo PT. A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-007</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-007</field>
+<field name="date">950630</field>
+<text_pt>
 Carlos Heitor Cony 
 RIO DE JANEIRO _ Nada a ver com a vitória do Fluminense, aliás, caiu temporal durante o primeiro tempo, e o meu time fez dois a zero. Mas a verdade é que os dias estão lindos neste início de inverno. O Rio é mais Rio no verão, quando _como dizem os franceses_ é bom suar. Sem jogar no lixo a temporada folgazã do carioca, prefiro a cidade nesse meio-ano.
 Embora não seja outono, as amendoeiras na praça Paris ficam douradas, o chão coberto de folhas _anos atrás, trazendo Otto Maria Carpeaux para o trabalho, ele comparou a paisagem a um quadro de Utrillo. Um vienense, o Carpeaux: seu referencial era a cultura européia. Sou carioca, meu referencial é minha própria raiz, Utrillo uma ova, o meu Rio é como aquele relógio do português que às vezes era de ouro e às vezes não era.
@@ -92,9 +92,9 @@ Os barcos de regata costumam ser da cor dos violinos. Mas este, que vem todas as
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-008</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-008</field>
+<field name="date">950630</field>
+<text_pt>
 José Sarney 
 A velha cultura chinesa nos ensina e enriquece com a visão de que todas as coisas do mundo têm duas faces: a do bem e a do mal.
 A contradição está em todas as coisas. O Sol, a Lua; o dia, a noite; o homem, a mulher; o açúcar, o sal... E por aí vai.
@@ -113,9 +113,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-009</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-009</field>
+<field name="date">950630</field>
+<text_pt>
 É preciso despovoar as prisões e pensar penas alternativas à privação da liberdade 
 SÉRGIO ADORNO 
 Os fatos têm se repetido. Com frequência, a opinião pública é sacudida com notícias de rebeliões nos presídios paulistas. Aqui e acolá, seja em estabelecimentos penitenciários de grande porte, seja em delegacias policiais, cidadãos condenados ou sob tutela das instituições encarregadas de controle da ordem pública amotinam-se.
@@ -139,9 +139,9 @@ SÉRGIO ADORNO, 43, é coordenador-adjunto do Núcleo de Estudos da Violência, prof
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-010</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-010</field>
+<field name="date">950630</field>
+<text_pt>
 O apartheid não é social, como querem muitos, é racial, disfarçado, com grande poder destruidor 
 BENEDITO DOMINGOS MARIANO 
 O mito ou engodo da democracia racial surgiu no Brasil, primeiramente, como forma de o colonizador evitar conflito social e racial, pois já em meados do século 19 a população negra era superior à branca. Num segundo momento, com o surgimento do capitalismo, propunha o branqueamento e a integração ``formal" dos negros à sociedade, o que na prática jogou ao segmento negro a culpa da sua própria condição de discriminado. É necessário enfatizar sempre que houve resistência à dominação dos colonizadores.
@@ -162,9 +162,9 @@ BENEDITO DOMINGOS MARIANO, 36, sociólogo, é secretário-geral do Fórum Interameri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-011</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-011</field>
+<field name="date">950630</field>
+<text_pt>
 ``Tendo a Folha do dia 25 publicado o meu nome como integrante da bancada ruralista, venho solicitar a necessária retificação, em virtude de não pertencer ao referido grupo, pois com o mesmo não me identifico, embora respeite muitos dos seus componentes."
 Antonio Carlos Magalhães, senador pelo PFL-BA (Brasília, DF)
  
@@ -207,9 +207,9 @@ Resposta do jornalista João Batista Natali _ É o representante da CUT quem manip
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-012</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-012</field>
+<field name="date">950630</field>
+<text_pt>
 O Comunidade Solidária pretende aplicar R$ 562 milhões em 18 programas até o fim do ano. O dinheiro já faz parte dos orçamentos dos diversos ministérios envolvidos e abrange 156 municípios distribuídos por 14 Estados.
 
 Novos participantes 
@@ -236,9 +236,9 @@ _ Está na hora de a Mesa, comandada por Luís Eduardo, se manifestar sobre o caso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-013</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-013</field>
+<field name="date">950630</field>
+<text_pt>
 Designado negociador do governo junto à bancada ruralista, o secretário-executivo do Ministério da Fazenda, Pedro Parente, mergulhou na questão agrícola.
 E se convenceu de que, por trás do alarde dos parlamentares, o país tem um verdadeiro problema no setor agrícola, com ameaça de queda dos investimentos na próxima safra. Permanecendo assim, o país poderá enfrentar novamente problemas de abastecimento.
 Numa reunião da equipe econômica com FHC para definir o acordo com a bancada ruralista, Parente argumentou que é preciso apoiar a agricultura, a despeito de chantagens de ruralistas.
@@ -251,9 +251,9 @@ FHC planta soja numa fazenda em Minas. E perdeu dinheiro nesta safra.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-014</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-014</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal de Brasília 
 O Palácio do Planalto viveu um dia tranquilo na véspera do anúncio da desindexação da economia.
 O presidente Fernando Henrique Cardoso manteve a rotina de despachos internos e teve agenda esvaziada para fechar os últimos detalhes da MP (medida provisória) _mas não foi preciso.
@@ -275,9 +275,9 @@ O resto da tarde, conforme sua assessoria de imprensa, foi utilizado para despac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-015</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-015</field>
+<field name="date">950630</field>
+<text_pt>
 A corte reúne-se amanhã em Brasília. São 300 convidados de Sua Alteza para a festa de aniversário do Real _moeda cujo nome não se presumia, quando lançada, ter sido milimetricamente escolhido por seu patrono para refletir o regime que substituiria a presidência de Itamar. Não sendo a austeridade, mas o deslumbramento, a marca registrada do novo governo, a reunião da corte apenas prossegue o que é diário. Para isso, dinheiro não falta. Embora sua origem, assim como o restante dos R$ 10 milhões destinados a celebrar a figura real, esteja em uma trapaça.
 Os R$ 10 milhões, como foi noticiado, são dos cofres do Banco Central. Foram recolhidos em multas pela emissão de cheques sem fundos e outras irregularidades no movimento de contas bancárias. Por isso mesmo, já parlamentares protestaram contra o uso deste dinheiro em propaganda. E aí começa o que passou despercebido _a trapaça.
 O produto das multas foi reunido, sob o nome de Funcheque, em um fundo com a finalidade de proteger a integridade do sistema de cheques. Isso se deu pela resolução 1.631, de 24 de agosto de 89, do Conselho Monetário Nacional. O uso desse dinheiro, agora, seria então ilegal.
@@ -287,9 +287,9 @@ Alguém neste governo ainda recomendará que o povo coma brioches.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-016</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-016</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 O presidente da CUT, Vicente Paulo da Silva, o Vicentinho, anunciou ontem que a central vai processar o governo federal por ter ``manipulado, em conluio com as distribuidoras", a distribuição de gás de cozinha durante a greve dos petroleiros, que terminou no dia 2.
 ``Os petroleiros mantiveram os 30% de produção de gás durante os 30 dias de greve e mesmo assim houve falta do produto. Soubemos que, antes da paralisação, já havia negociações para aumento do preço, o que acabou acontecendo mesmo depois", disse Vicentinho.
@@ -303,9 +303,9 @@ Marcelo Sereno, diretor da CUT, disse que o governo federal, diferentemente do e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-017</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-017</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal do Rio 
 O presidente da CNI (Confederação Nacional da Indústria), Mario Amato, disse ontem no Rio que concederá reposição integral dos salários pela inflação passada, no segundo ano do Plano Real, para trabalhadores de suas empresas que registrarem queda no poder aquisitivo.
 Amato fez ontem uma avaliação do Plano Real, que completa um ano amanhã. Ele classificou como positivos os resultados do plano, embora tenha feito ressalvas.
@@ -321,9 +321,9 @@ Amato disse ainda que o problema mais grave na economia do Plano Real se refere 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-018</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-018</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal de Brasília 
 O PT vai tentar incluir o gatilho salarial (reajuste automático) na MP (medida provisória) do governo que propõe a livre negociação dos salários.
 A idéia do partido é estabelecer o reajuste automático toda vez que a inflação acumular 6%. Com o fim do IPC-r (Índice de Preços ao Consumidor no real), que atualmente mede a inflação mensal, o cálculo seria feito pelo INPC (Índice Nacional de Preços ao Consumidor), do IBGE.
@@ -335,9 +335,9 @@ Ele trataria entre outros temas dos acordos coletivos de trabalho.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-019</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-019</field>
+<field name="date">950630</field>
+<text_pt>
 Esta é a íntegra do pronunciamento do presidente Fernando Henrique Cardoso veiculado ontem:
 
 ``Você se lembra destas imagens? Você se lembra desses anos em que o Brasil parecia não ter mais jeito? Você, dona-de-casa, se recorda de que, a cada vez que ia ao supermercado, os preços haviam dobrado? Você, que recebe seu salário, se lembra de que no meio do mês seu dinheiro não valia mais nada? Ou você, que tinha juntado um dinheiro para uma despesa, já se esqueceu de que tinha que correr atrás dos bancos para aplicar logo esse dinheiro _porque, do contrário, ele perdia seu valor?
@@ -366,9 +366,9 @@ Esta é a verdadeira comemoração do real, com a prestação de contas do que fizemo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-020</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-020</field>
+<field name="date">950630</field>
+<text_pt>
 Parte operacional da empresa deve ser privatizada ainda este ano, afirma Elena Landau, diretora do BNDES 
 Da Sucursal do Rio 
 O CND (Conselho Nacional de Desestatização) resolveu que a Light será dividida em duas para ser privatizada, segundo informou a diretora de desestatização do BNDES (Banco Nacional de Desenvolvimento Econômico e Social), Elena Landau.
@@ -388,9 +388,9 @@ Por exemplo: o acionista que tiver hoje 5% da Light, continuará tendo 5% da Ligh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-021</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-021</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal do Rio 
 O CND (Conselho Nacional de Desestatização) deve divulgar em julho o edital para a escolha das empresas de consultoria que definirão o preço e o modo como a Companhia Vale do Rio Doce será privatizada.
 A diretora de desestatização do BNDES (Banco Nacional de Desenvolvimento Econômico e Social), Elena Landau, disse que o edital ainda não foi publicado porque os técnicos do banco estavam concentrados na confecção do edital para os consultores da privatização do Banco Meridional.
@@ -398,9 +398,9 @@ Elena não quis fazer qualquer previsão sobre a data da privatização da Vale, afi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-022</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-022</field>
+<field name="date">950630</field>
+<text_pt>
 Em reunião com Jatene, enviados de Serra e Malan dizem que é preciso desestimular a busca por serviço gratuito
 ALEXANDRE SECCO
 Da Sucursal de Brasília
@@ -422,9 +422,9 @@ As duas propostas principais em discussão, ambas descartadas, eram a recriação d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-023</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-023</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso e sua mulher, Ruth Cardoso, jantaram ontem no restaurante Piantella, reduto de políticos em Brasília.
 FHC e Ruth ocuparam uma mesa com dez lugares no mezanino do restaurante chamado ``mesa do Ulysses". Era a mesa tradicionalmente ocupada pelo ex-deputado Ulysses Guimarães.
@@ -439,9 +439,9 @@ Ainda em tom descontraído, o presidente disse não ter mais tempo para longas per
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-024</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-024</field>
+<field name="date">950630</field>
+<text_pt>
 Da Agência Folha 
 Os trabalhadores rurais Luís Bezerra Cavalcante e Gil Bonifácio Carvalho Neto chegaram a Belém (PA) na noite de ontem, sob forte escolta policial, para depor em inquérito que investiga a existência de cemitério clandestino e trabalho forçado no município de Rondon do Pará (480 km ao sul de Belém).
 Eles fugiram da fazenda T-Chaga-U há cerca de um mês e denunciaram que as famílias residentes no local eram obrigadas a trabalhar em jornadas desumanas, sem receber qualquer salário.
@@ -457,9 +457,9 @@ Anteontem, a Polícia Federal indiciou o capataz da fazenda e pessoas que faziam 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-025</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-025</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 O representante da Human Rights Watch no Brasil, James Cavallaro, disse ontem que a entidade está ``muito preocupada" com o recuo do governo no atendimento a reivindicações dos familiares de 152 desaparecidos durante o regime militar (1964-1985).
 A entidade é a maior dos EUA de defesa dos direitos humanos, com representantes em 70 países.
@@ -469,9 +469,9 @@ O ministro da Justiça, Nelson Jobim, negou ontem, em São Paulo, que o governo já
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-026</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-026</field>
+<field name="date">950630</field>
+<text_pt>
 Usuário terá acesso à agenda de FHC 
 Da Sucursal de Brasília 
 O Palácio do Planalto terá uma ``porta" na Internet, a maior rede mundial de comunicação por computadores. Ela deve entrar em operação em agosto, em caráter experimental, e permitirá acessar informações de todos os ministérios, além da agenda do presidente.
@@ -480,9 +480,9 @@ O governo já coloca informações à disposição dos usuários da Internet (números s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-027</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-027</field>
+<field name="date">950630</field>
+<text_pt>
 Da Agência Folha, em Salvador 
 O presidente da Itália, Oscar Luigi Scalfaro, 75, e o governador da Bahia, Paulo Souto (PFL), 51, gastaram ontem cinco minutos para descobrir o nome do jogador italiano que perdeu o último pênalti no jogo final da Copa do Mundo de 94, entre Brasil e Itália.
 Somente com a ajuda de um integrante da comitiva italiana é que os dois políticos citaram o nome do atacante Roberto Baggio.
@@ -497,9 +497,9 @@ Após a missa, Scalfaro visitou parte do centro histórico de Salvador. Com o gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-028</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-028</field>
+<field name="date">950630</field>
+<text_pt>
 MARIA ERCILIA 
 Da Reportagem Local 
 Zamith não entrou em conflito com a Internet, mas com o Ibase. Ele colocava suas mensagens somente em duas conferências da APC (Associação para o Progresso das Comunicações, associação de ONGs que existe nos EUA, Canadá e países da América do Sul, da qual o Ibase é um dos fundadores); seu alvo acabava sendo uma fatia bem delimitada da Internet.
@@ -516,9 +516,9 @@ Resta discutir em que extensão houve censura a idéias. O caráter não-comercial d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-029</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-029</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 Com o episódio do cancelamento do acesso à Internet via Ibase de Antônio Carlos Zamith Jr., inaugura-se no país uma discussão que está em ponto de fervura nos EUA: a censura na rede.
 Terrorismo, pornografia e o estabelecimento de grupos de extrema direita e ódio racial na rede são os principais pontos discutidos.
@@ -531,9 +531,9 @@ A revista ``Time" desta semana publicou reportagem de capa sobre ``Cyberpornogra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-030</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-030</field>
+<field name="date">950630</field>
+<text_pt>
 Negociações entre os dois países foram iniciadas em Denver (EUA); Fórum reúne 34 nações das três américas 
 FERNANDO CANZIAN
 Enviado especial a Denver 
@@ -553,9 +553,9 @@ As discussões entre Brasil e EUA, os dois maiores mercados das américas, prosseg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-031</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-031</field>
+<field name="date">950630</field>
+<text_pt>
 Do enviado especial 
 A delegação brasileira no Fórum de Comércio do Hemisfério Ocidental é uma das poucas entre os 34 países participantes que não incluiu representantes dos trabalhadores nas reuniões.
 Ontem pela manhã, o presidente da Força Sindical, Luiz Antonio de Medeiros, e o diretor do Sindicato dos Bancários de São Paulo (filiado à Central Única dos Trabalhadores), Gilmar Carneiro dos Santos, interpelaram a ministra Dorothéa Werneck em Denver, cobrando participação.
@@ -567,9 +567,9 @@ Os líderes de 28 centrais sindicais, que representam 40 milhões de trabalhadores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-032</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-032</field>
+<field name="date">950630</field>
+<text_pt>
 DENISE MADUEÑO
 RAQUEL ULHÔA
 Da Sucursal de Brasília 
@@ -584,9 +584,9 @@ O segundo vice-presidente, Júlio Campos (PFL-MT), chegou à reunião pronto para a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-033</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-033</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal de Brasília 
 A Justiça Federal de Brasília suspendeu ontem a campanha publicitária do real feita pelo governo. O juiz Francisco Neves da Cunha afirma, em seu despacho, que tomou a medida porque o governo não forneceu os filmes publicitários exigidos pela Justiça _o prazo, pela decisão anterior do juiz, terminou às 18h de anteontem.
 A ação para a suspensão imediata da campanha do real foi proposta pelo deputado Aldo Rebelo (PC do B-SP). Para ele, o governo feriu a Constituição e utilizou de forma irregular R$ 10 milhões obtidos com cobrança de taxas sobre a emissão de cheques sem fundo.
@@ -600,9 +600,9 @@ Um dos principais argumentos do deputado é a mudança numa decisão do Conselho Mo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-034</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-034</field>
+<field name="date">950630</field>
+<text_pt>
 Presidente avalia um ano de real e afirma que país crescerá 6% neste ano 
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso anunciou ontem, em cadeia de rádio e televisão, que o governo reduzirá a TR (Taxa Referencial) para ``os endividados".
@@ -620,9 +620,9 @@ O presidente disse que, com a passagem do primeiro ano do Real, o momento é de r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-035</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-035</field>
+<field name="date">950630</field>
+<text_pt>
 Medida provisória a ser editada hoje pelo governo vai autorizar bancos a captar dinheiro no exterior a juros menores 
 Da Sucursal de Brasília 
 O governo vai permitir aos bancos captar dinheiro no exterior, a juros baixos, para que façam financiamentos imobiliários em condições mais favoráveis.
@@ -644,9 +644,9 @@ Apenas foram dadas informações sobre o conteúdo da medida. Politicamente, a reun
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-036</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-036</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 O presidente da CUT, Vicente Paulo da Silva, o Vicentinho, anunciou ontem que a central vai processar o governo federal por ter ``manipulado, em conluio com as distribuidoras", a distribuição de gás de cozinha durante a greve dos petroleiros, que terminou no dia 2.
 ``Os petroleiros mantiveram os 30% de produção de gás durante os 30 dias de greve e mesmo assim houve falta do produto. Soubemos que, antes da paralisação, já havia negociações para aumento do preço, o que acabou acontecendo mesmo depois", disse Vicentinho.
@@ -657,9 +657,9 @@ Como exemplo, citou a possibilidade de os motoristas e cobradores liberarem as c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-037</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-037</field>
+<field name="date">950630</field>
+<text_pt>
 Em reunião com Jatene, enviados de Serra e Malan dizem que é preciso desestimular a busca por serviço gratuito 
 ALEXANDRE SECCO
 Da Sucursal de Brasília 
@@ -682,9 +682,9 @@ O caixa da Saúde está totalmente comprometido com o pagamento dos hospitais e am
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-038</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-038</field>
+<field name="date">950630</field>
+<text_pt>
 Da Agência Folha, em Salvador 
 O presidente da Itália, Oscar Luigi Scalfaro, 75, e o governador da Bahia, Paulo Souto (PFL), 51, gastaram ontem cinco minutos para descobrir o nome do jogador italiano que perdeu o último pênalti no jogo final da Copa do Mundo de 94, entre Brasil e Itália.
 Somente com a ajuda de um integrante da comitiva italiana é que os dois políticos citaram o nome do atacante Roberto Baggio.
@@ -699,30 +699,30 @@ Após a missa, Scalfaro visitou parte do centro histórico de Salvador. Com o gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-039</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-039</field>
+<field name="date">950630</field>
+<text_pt>
 Acabou ontem a inscrição para candidatos à liderança do Partido Conservador britânico. O premiê John Major e o ex-ministro John Redwood são os únicos inscritos. A eleição será em 4 de julho. Se ninguém obtiver 50% dos votos além de 15% de vantagem sobre o adversário, haverá segundo turno _quando outros candidatos podem entrar na disputa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-040</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-040</field>
+<field name="date">950630</field>
+<text_pt>
 Fracassou ontem a última rodada da negociação entre Israel e a Organização para a Libertação da Palestina para a transferência de autonomia na Cisjordânia (ocupada por Israel em 1967) antes do prazo máximo para um acordo (amanhã). Israel disse que libertará até 3.000 palestinos, e israelenses mataram um líder do Hamas (Movimento de Resistência Islâmico).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-041</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-041</field>
+<field name="date">950630</field>
+<text_pt>
 O Sudão acusou ontem o Egito de estar mobilizando tropas na divisa entre os dois países. O presidente egípcio, Hosni Mubarak, que sofreu atentado na segunda-feira, disse que vai expulsar 70 sudaneses da região de fronteira. Na terça, dois policiais sudaneses foram mortos por egípcios. Mubarak acusou um sudanês preso na Etiópia pelo atentado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-042</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-042</field>
+<field name="date">950630</field>
+<text_pt>
 Responsáveis pela crise na Tchetchênia entregam cargo antes de votação decisiva para Ieltsin 
 Das agências internacionais 
 Os três ministros responsáveis pela intervenção da Rússia na república separatista da Tchetchênia pediram demissão ontem. O presidente Boris Ieltsin não definiu se aceita ou não o pedido.
@@ -740,9 +740,9 @@ Outros líderes de oposição, porém, acreditam que Ieltsin demitirá os ministros. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-043</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-043</field>
+<field name="date">950630</field>
+<text_pt>
 FLAVIO CASTELLOTTI
 Da Cidade do México 
 O presidente do México, Ernesto Zedillo, aceitou a renúncia do ministro da Administração, Esteban Moctezuma, e nomeou o governador do Estado do México, Emílio Chuayffet Chemor, para o cargo. É a sétima troca ministerial nos sete meses do governo.
@@ -752,9 +752,9 @@ Para o ministro da Fazenda, Guillermo Ortiz, a troca não vai abalar o mercado fi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-044</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-044</field>
+<field name="date">950630</field>
+<text_pt>
 O general chileno Manuel Contreras será examinado hoje por médicos indicados pela Justiça, que decidirão se ele pode ser transferido para a prisão. Contreras, que se recusa a ser preso, foi condenado a sete anos de prisão por um assassinato político.
 
 França decide manter controle alfandegário
@@ -768,9 +768,9 @@ O premiê espanhol, Felipe González, foi ontem ao Parlamento explicar as denúncia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-045</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-045</field>
+<field name="date">950630</field>
+<text_pt>
 ADROALDO STRECK
 
 "Flutuamos agora em maré alta. Temos de seguir a corrente favorável ou perder a nossa vez".
@@ -792,46 +792,46 @@ ADROALDO STRECK, 60, é deputado federal pelo PSDB do Rio Grande do Sul e vice-lí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-046</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-046</field>
+<field name="date">950630</field>
+<text_pt>
 O custo da cesta básica avançou 0,21% ontem, em média, na Grande São Paulo, conforme pesquisa do Procon/Dieese. O preço médio subiu para R$ 101,58. A variação acumulada da cesta neste mês mostra alta de 0,51%. A maior pressão ontem foi dos produtos de limpeza, que aumentaram 2,16% e já acumulam alta de 4,83% no mês. Os produtos de higiene pessoal tiveram alta de 0,61% ontem, com aumento de 3,43% em junho. A alimentação caiu 0,09%, acumulando queda de 0,36% neste mês. Desde a implantação do Plano Real, em julho de 94, os preços da cesta básica caíram 4,53%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-047</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-047</field>
+<field name="date">950630</field>
+<text_pt>
 O custo do transporte rodoviário de carga aumentou 3,06% em junho. Em maio, o setor teve alta de 5,65%. Entre os insumos, os maiores aumentos foram para óleo lubrificante (25,86%), despesas administrativas (9,0%) e recauchutagem (5,92%). Os dados são do Conet (conselho nacional do setor), em convênio com a Fipe (Fundação Instituto de Pesquisas Econômicas).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-048</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-048</field>
+<field name="date">950630</field>
+<text_pt>
 O salário médio real pago no comércio varejista da Grande São Paulo cresceu 2,47% em maio, comparado com o de abril. Em relação ao mesmo período de 94, houve aumento de 27,22%. De janeiro a maio deste ano, o salário subiu 31,07%. O setor de semiduráveis (vestuário, tecidos e calçados) teve a maior alta em maio (3,73%), segundo a Federação do Comércio do Estado de São Paulo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-049</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-049</field>
+<field name="date">950630</field>
+<text_pt>
 Com oferta de 5.000 imóveis para locação, o preço dos aluguéis iniciais subiu 4% em junho na cidade de São Paulo. Os dados são da Aabic (associação das administradoras de imóveis), que registra alta acumulada de 33,62% nos aluguéis no primeiro semestre.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-050</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-050</field>
+<field name="date">950630</field>
+<text_pt>
 Das agências internacionais 
 O governo venezuelano e várias entidades civis adiaram ontem, por pelo menos 15 dias, a assinatura de um pacto antiinflação.
 Há um mês, governo, empresários e sindicatos haviam se comprometido a definir em 30 dias as metas de inflação e a contribuição de cada setor. As negociações esbarraram em divergências na equipe econômica em torno das mudanças para conter a inflação, que chegou a 18,9% de janeiro a maio.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-051</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-051</field>
+<field name="date">950630</field>
+<text_pt>
 Neste ano, o número de municípios de Minas Gerais pode pular de 700 e poucos para mais de 900. No Rio Grande do Sul, o governador Antônio Britto não sabe mais como segurar a febre das emancipações municipais. O governador do Espírito Santo, Vitor Buaiz, está em palpos de aranha com o mesmo problema.
 Eventualmente, pode haver alguma lógica nas emancipações. Na Secretaria do Planejamento do governo gaúcho, garante-se que existe uma ou outra situação em que a população de distritos dispõe de projetos muito mais objetivos do que os do município-mãe e de receitas próprias.
 Mas só eventualmente. No mais das vezes, o que se visa é ampliar o número de empregos públicos disponíveis para os políticos locais. Um novo município significa mais uma máquina da prefeitura, mais um secretariado com todos seus penduricalhos, mais uma Câmara de Vereadores.
@@ -847,9 +847,9 @@ Em briga de eu com eu, ninguém deve meter a colher. A coluna está apenas aguarda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-052</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-052</field>
+<field name="date">950630</field>
+<text_pt>
 Comparado com março deste ano, o setor registrou queda de 3,8% 
 ANTONIO CARLOS SEIDL
 Da Reportagem Local 
@@ -867,9 +867,9 @@ As vendas reais da indústria cresceram 2,4% em maio em relação a abril, mas a Fi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-053</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-053</field>
+<field name="date">950630</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG
 Enviado Especial a Brasília 
 O ministro da Fazenda, Pedro Malan, aposta que as importações brasileiras vão cair substancialmente nos próximos meses. O governo mantém seu objetivo de obter superávit no comércio externo neste ano.
@@ -893,9 +893,9 @@ Colaborou a Reportagem Local.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-054</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-054</field>
+<field name="date">950630</field>
+<text_pt>
 SUZANA BARELLI
 Da Reportagem Local
 O protesto de títulos em junho, por atrasos nos pagamentos de carnês e notas promissórias, é o maior dos últimos dez anos em São Paulo, segundo a Serasa (Centralização dos Serviços dos Bancos). Neste mês, foram protestados 96.221 títulos. Em maio, o número, também recorde, chegou a 87.355.
@@ -915,9 +915,9 @@ A causa, segundo o diretor da Serasa, é a pequena chance de os credores recebere
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-055</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-055</field>
+<field name="date">950630</field>
+<text_pt>
 Da Redação 
 O IGP-M (Índice Geral de Preços do Mercado) de junho atingiu 2,46%, bem acima do 0,58% de maio, segundo a Fundação Getúlio Vargas, responsável pela pesquisa.
 Desde julho de 94 o índice acumula 26,86%, considerando, para aquele mês, o cálculo em URV versus real. Pelo cálculo antigo, vetado pela lei 8.880 para indexação de contratos, a variação anual atinge 76,16%. Por este método, efeito estatístico fez o IGP-M de julho de 94 alcançar 40%.
@@ -932,9 +932,9 @@ No custo da construção, a forte alta é explicada pela mão-de-obra, com mais 16,6
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-056</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-056</field>
+<field name="date">950630</field>
+<text_pt>
 Ações da Telebrás ON ficam entre as maiores quedas; Banco Central realiza leilão e segura cotações do dólar 
 Da Redação 
 O índice da Bolsa paulista (Bovespa) caiu ontem 1%. O juro no mercado futuro para julho subiu de 4,00% no dia anterior para 4,02%.
@@ -974,9 +974,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-057</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-057</field>
+<field name="date">950630</field>
+<text_pt>
 O coral gospel Mount Moriah (foto), do bairro do Harlem, em Nova York (EUA), canta na próxima segunda-feira na favela de Heliópolis, no Ipiranga (zona sul de SP). A favela é considerada a maior do Estado. Os 50 integrantes do coral estão em turnê pelo Brasil desde o dia 27. Eles têm apresentações previstas em Curitiba e Salvador, além de São Paulo.
 
 Cônsul da Áustria em SP renuncia ao cargo
@@ -1001,9 +1001,9 @@ R$ 41,06, para cada um dos 8.392 ganhadores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-058</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-058</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local
 O secretário da Justiça e Cidadania, Belisário dos Santos Junior, 47, disse ontem que a greve dos agentes penitenciários está sendo motivada por um ``jogo da CUT (Central Única dos Trabalhadores), que tenta dominar esses sindicatos".
 A avaliação do secretário coincide com a análise feita pelo DCS (Departamento de Comunicação Social, o serviço secreto da Polícia Civil), transmitida ao governo.
@@ -1012,9 +1012,9 @@ Existem oito sindicatos de agentes no Estado. Dois são filiados à CUT. Os sindic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-059</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-059</field>
+<field name="date">950630</field>
+<text_pt>
 da Folha Vale
 Os agentes penitenciários que não voltarem ao trabalho depois de regularizada a situação na Penitenciária 1, em Tremembé, estão sujeitos a punições, segundo o secretário Belisário dos Santos Júnior.
 Ele acompanhou a ocupação da Penitenciária 1 em São Paulo e recebia informações do secretário-adjunto, Antônio Ferreira Pinto, que comandou as negociações com os presos.
@@ -1024,9 +1024,9 @@ Segundo ele, os presos da Casa de Detenção de São Paulo produziram trancas e fer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-060</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-060</field>
+<field name="date">950630</field>
+<text_pt>
 RITA MAGALHÃES
 Da Folha Nordeste
 Vinte e cinco presos da Cadeia Pública de Vila Branca, de Ribeirão Preto (319 km a norte de SP), iniciaram na noite de anteontem uma rebelião que durou 20 horas. Três detentos e um carcereiro ficaram feridos na troca de tiros com policiais militares.
@@ -1044,9 +1044,9 @@ O delegado Pires diz também que a rebelião pode estar ligada à posse do novo dir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-061</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-061</field>
+<field name="date">950630</field>
+<text_pt>
 Pesquisadores trabalham em projeto para transformar ilha em área de proteção para aves
 LUCIANA MIRANDA COSTA
 Free-lance para a Agência Folha, em Belém
@@ -1071,9 +1071,9 @@ A colunista Barbara Gancia, que escreve neste espaço às quartas e sextas, está d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-062</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-062</field>
+<field name="date">950630</field>
+<text_pt>
 WIRTON PALERMO 
 O sistema de saúde público vem se degradando desde 1983. Foi nessa época que a Previdência decidiu reduzir a receita destinada à saúde, cortando-a de 25% para 8% do total arrecadado. A partir de 1988, a Constituição garantiu o direito a todo cidadão de ser atendido pelo sistema público, sem se preocupar, porém, com a receita necessária para esses gastos.
 A consequência foi desastrosa: o que já se encontrava ruim, piorou. Desde março de 94 a Previdência deixou de repassar sua receita para o setor de saúde e, com isso, o Tesouro Nacional passou a financiar o sistema. Portanto, hoje, temos um Ministério da Saúde responsável pela sua própria política e gerenciamento, mas sem recursos suficientes.
@@ -1086,9 +1086,9 @@ WIRTON PALERMO, 52, médico nuclear, é secretário-geral da Associação Médica Bras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-063</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-063</field>
+<field name="date">950630</field>
+<text_pt>
 MARCELO GODOY
 Da Reportagem Local 
 O ministro da Justiça, Nélson Jobim, disse ontem em São Paulo que deverá enviar em agosto ao Congresso Nacional uma proposta de alteração constitucional para federalizar os crimes contra os direitos humanos no país.
@@ -1109,9 +1109,9 @@ O ministro também visitou o TJM-SP. ``Esse tribunal defende a continuidade de su
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-064</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-064</field>
+<field name="date">950630</field>
+<text_pt>
 LUCIO VAZ 
 Da Sucursal de Brasília 
 O cargo de inspetor da alfândega do Aeroporto Internacional de Cumbica, em Guarulhos (Grande São Paulo), foi preenchido por critérios políticos nos últimos anos.
@@ -1132,9 +1132,9 @@ O porta-voz da Presidência, Sérgio Amaral, disse ontem que o presidente Fernando
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-065</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-065</field>
+<field name="date">950630</field>
+<text_pt>
 Da Sucursal de Brasília 
 A ligação de Valdemar Costa Neto (PL-SP) com Cumbica começou no governo Collor. O deputado afirma que foi a Fernando Collor e teria dito: ``Vou deixar o governo. O seu governo está ruim, e ainda não levei nada".
 Collor teria pedido para Costa Neto escolher um cargo em São Paulo. O deputado diz que indicou um nome (Marco Aurélio Bussi) para o cargo de inspetor da alfândega em Cumbica. A nomeação não saiu, segundo Costa Neto.
@@ -1148,9 +1148,9 @@ A Folha ligou para a presidência da ECT (Empresa de Correios e Telégrafos) e sol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-066</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-066</field>
+<field name="date">950630</field>
+<text_pt>
 ABNOR GONDIM
 Da Sucursal de Brasília 
 A diretora M.M.S., da escola pública de Brasília que afastou o estudante L.S., 12, por ser portador da Aids, vai deixar o cargo. Ela irá desenvolver projetos educativos de prevenção na rede de ensino do DF (Distrito Federal).
@@ -1167,16 +1167,16 @@ Os pais conseguiram na Justiça o direito de matriculá-la _apesar disso, a menina
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-067</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-067</field>
+<field name="date">950630</field>
+<text_pt>
 O ciclista David Cruz, 32, vai percorrer cinco rios brasileiros em um catamarã (embarcação de dois cascos presos lado a lado) propulsionado por uma bicicleta. O objetivo é alertar a população sobre a poluição nos rios brasileiros. O ciclista estava ontem no rio Tietê, em São Paulo (foto). Cruz pretende pedalar 7.800 km em quatro meses, chegando até Belém (PA).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-068</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-068</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local e da Folha Vale 
 O secretário da Justiça e Cidadania, Belisário dos Santos Junior, 47, disse ontem que a greve dos agentes penitenciários está sendo motivada por um ``jogo da CUT (Central Única dos Trabalhadores), que tenta dominar esses sindicatos".
 A avaliação do secretário coincide com a análise feita pelo DCS (Departamento de Comunicação Social, o serviço secreto da Polícia Civil), transmitida ao governo.
@@ -1190,9 +1190,9 @@ O secretário disse que as reformas das trancas e cadeados das celas devem ser co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-069</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-069</field>
+<field name="date">950630</field>
+<text_pt>
 Da Folha Nordeste 
 Vinte e cinco presos da Cadeia Pública de Vila Branca, de Ribeirão Preto (319 km a norte de SP), iniciaram na noite de anteontem uma rebelião que durou 20 horas. Três detentos e um carcereiro ficaram feridos na troca de tiros com policiais militares.
 O clima foi tenso na cadeia por pelo menos seis horas. Até o final da rebelião, eles conseguiram o apoio dos 480 presos da cadeia.
@@ -1210,9 +1210,9 @@ O delegado Pires diz também que a rebelião pode estar ligada à posse do novo dir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-070</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-070</field>
+<field name="date">950630</field>
+<text_pt>
 Ministro Nelson Jobim (Justiça) quer 'federalizar' os crimes e criar divisão especial para investigar casos 
 MARCELO GODOY
 Da Reportagem Local 
@@ -1229,9 +1229,9 @@ Durante a reunião, que durou cerca de uma hora e meia, Jobim recebeu dossiês da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-071</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-071</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 O ministro da Justiça, Nelson Jobim, defendeu ontem o fim da competência da Justiça Militar para julgar os crimes cometidos por PMs contra civis no patrulhamento das ruas e com armas da corporação.
 Esses crimes passariam a ser julgados pela Justiça Comum, ficando a cargo da Justiça Militar apenas os crimes ``propriamente militares" _como deserção e dormir em serviço.
@@ -1244,9 +1244,9 @@ O ministro também visitou o TJM-SP. ``Esse tribunal defende a continuidade de su
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-072</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-072</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 O advogado Marco Antônio Batista Correia e três médicos, presos terça-feira sob acusação de prática ilegal de aborto, foram libertados ontem.
 A Justiça concedeu liberdade provisória aos quatro mediante pagamento de fiança. Cada um pagou R$ 1.200. Eles vão responder ao processo em liberdade.
@@ -1262,9 +1262,9 @@ Segundo a polícia, o grupo estava no local para fazer o aborto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-073</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-073</field>
+<field name="date">950630</field>
+<text_pt>
 Da Reportagem Local 
 A Semab (Secretaria Municipal de Abastecimento) interditou ontem a maior quantidade de alimentos em um só estabelecimento neste ano: 30,5 toneladas.
 Estão retidas na câmara frigorífica da mercearia S.R. Comércio e Representação de Produtos Alimentícios Ltda. 7,5 t de carne salgada e 23 t de miúdos. A câmara está lacrada. O estabelecimento, que fica na rua Plínio Ramos, 146, Santa Ifigênia (região central), foi multado em R$ 987,60.
@@ -1274,9 +1274,9 @@ O dono da mercearia, Boghos Hassesian Neto, não foi encontrado até às 23h de ont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-074</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-074</field>
+<field name="date">950630</field>
+<text_pt>
 Na revolução desse esporte, não falta matéria-prima ao Brasil; a todo momento aparecem grandes jogadores
 MAURÍCIO BRANCO
 Especial para a Folha
@@ -1292,17 +1292,17 @@ Maurício Branco, 25, é ator e ex-jogador de vôlei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-075</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-075</field>
+<field name="date">950630</field>
+<text_pt>
 Da Redação
 A TV Bandeirantes transmite hoje, ao vivo, a partir das 20h, direto de Sorocaba (SP), a partida entre o time da Leite Moça, da levantadora titular da seleção brasileira, Fernanda Venturini (foto) e o Sollo Tietê pela Copa CBV (Confederação Brasileira de Vôlei).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-076</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-076</field>
+<field name="date">950630</field>
+<text_pt>
 O ensaísta Leopoldo Bernucci publica texto inédito do autor de `Os Sertões' e afirma que este fantasiou a história 
 LUÍS ANTÔNIO GIRON
  Da Reportagem Local 
@@ -1322,9 +1322,9 @@ LEIA MAIS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-077</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-077</field>
+<field name="date">950630</field>
+<text_pt>
 DANIEL PIZA
 Da Reportagem Local 
 A Ática quer repetir nos CD-ROMs sua liderança no setor de livros didáticos. Nada menos que 15 títulos estão em preparação pela Ática Multimídia.
@@ -1345,9 +1345,9 @@ A versão traz o texto e as imagens, mais áudio (como vozes de animais) e jogos c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-078</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-078</field>
+<field name="date">950630</field>
+<text_pt>
 MARA GAMA
 Da Redação 
 O CD-ROM dedicado ao cineasta italiano Federico Fellini (1920-1993) é um livro eletrônico, como diz a própria introdução: não tem as pirotecnias habituais dos títulos em multimídia e é feito para ser consultado.
@@ -1362,9 +1362,9 @@ Importadora: MSD (em São Paulo, tel. 011/820-5160 e, no Rio, tel 021/ 533-3200).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-079</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-079</field>
+<field name="date">950630</field>
+<text_pt>
 DANIEL PIZA
 Da Reportagem Local 
 A idéia das editoras brasileiras é que os CD-ROMs sejam vendidos não só em lojas de informática, mas também em livrarias.
@@ -1376,9 +1376,9 @@ A Montreal Tecnologia, que faz versões em CD-ROM de livros publicados pela Recor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-080</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-080</field>
+<field name="date">950630</field>
+<text_pt>
 Revista usa trechos de entrevista de Giannotti ao ``Mais!" 
 Da Redação 
 A revista ``Veja" de 14.6.95 ``cozinhou" (reescreveu, no jargão jornalístico), sem citar a fonte, trechos da reportagem ``As Obsessões Lógicas de Giannotti", do ``Mais!" de 2.4.1995.
@@ -1396,9 +1396,9 @@ A ``Veja" termina seu texto com um comentário do crítico Roberto Schwarz sobre G
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-081</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-081</field>
+<field name="date">950630</field>
+<text_pt>
 Bom, e saiu o resultado do concurso dos DJs lá no Cha Cha Cha. Quem ganhou foi o Alexandre Tahira, vencendo o bom DJ Raposão. Ah, tudo bem. Os dois finalistas seguiram um estilo garage-house, com mais vocação para o pop mesmo. Tahira vem do Ipiranga e tem 20 anos. Ganha com isso uma noite (só uma?) no clube e um contrato com o DMC.
 
 E prepare-se desde já. Dia 22 de julho é o aniversário do Hell's. Diz que eles vão fechar a rua. E o convite é a foto do Mau Mau e do Pil, juntinhos? Acompanhe por aqui todos os milhos da festa. Até lá.
@@ -1416,9 +1416,9 @@ Agora babado forte mesmo foi no Rio, no fim-de-semana. E nunca se viu tanta inte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-082</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-082</field>
+<field name="date">950630</field>
+<text_pt>
 Bernucci quer provar em `A Imitação dos Sentidos' que `Os Sertões' plagiou e foi plagiado por outros autores 
 Da Reportagem Local 
 A partir da reconstituição do manuscrito, Bernucci afirma que Euclides alterou datas e figuras reais para lhes dar um tom épico.
@@ -1441,9 +1441,9 @@ Quanto: R$ 45
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-083</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-083</field>
+<field name="date">950630</field>
+<text_pt>
 Autor reproduz no ensaio íntegra do manuscrito original de `Os Sertões' 
 LUÍS ANTONIO GIRON
 Da Reportagem Local 
@@ -1454,9 +1454,9 @@ O estudioso prefere a serenidade à diatribe. Daí a força do ensaio. É obra de ``
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-084</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-084</field>
+<field name="date">950630</field>
+<text_pt>
 A cantora lotou o teatro nova-iorquino com show de reinterpretações de clássicos de Tom, Chico e Caetano 
 LUÍS ANTÔNIO GIRON
 Do enviado especial a Nova York 
@@ -1480,9 +1480,9 @@ O jornalista LUÍS ANTÔNIO GIRON viajou aos EUA a convite do JVC Festival
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-085</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-085</field>
+<field name="date">950630</field>
+<text_pt>
 `Unbelievable'! Garotas de Hollywood dispensam a cama d'água e bóiam no próprio silicone! Rarará! 
 JOSÉ SIMÃO
  Da Equipe de Articulistas 
@@ -1496,9 +1496,9 @@ E vocês já repararam que hoje eu tô dando uma de Don Doca FHC. Alienado. Voei pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-086</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-086</field>
+<field name="date">950630</field>
+<text_pt>
 INÁCIO ARAUJO
 Da Redação 
 Após perder seu cavalo, um rancheiro (Scott) pega carona numa diligência onde viajam recém-casados. Na primeira parada, a diligência é assaltada. Enquanto o rancheiro e a mulher (Gates) são tomados como reféns pelos bandidos, o marido compromete-se a descolar dinheiro com o sogro milionário.
@@ -1508,9 +1508,9 @@ Não há sequer uma poesia exterior à matéria que se trabalha. Se a poesia se insi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-087</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-087</field>
+<field name="date">950630</field>
+<text_pt>
 Parlamentares e Paralamas do Sucesso mantêm disputa em torno do popularesco e do conflito de gerações 
 MARCELO COELHO
  Da equipe de articulistas 
@@ -1547,9 +1547,9 @@ Nem Maluf, hoje em dia, é "autêntico". Tivemos um progresso. Pena que os "rapper
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-088</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-088</field>
+<field name="date">950630</field>
+<text_pt>
 ELVIS CESAR BONASSA
  Da Reportagem Local 
 O secretário de Estado da Cultura, Marcos Mendonça, contratou quatro assessores por meio da Fundação Memorial da América Latina. Com esse subterfúgio, aumentou de seis para dez o número de assessores diretos no gabinete.
@@ -1567,9 +1567,9 @@ Sampaio Filho, outro caso, trabalha como assessor de marketing. É responsável pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-089</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-089</field>
+<field name="date">950630</field>
+<text_pt>
 PEDRO ALEXANDRE SANCHES
  Da Redação 
 O cantor e compositor carioca Jards Macalé, 52, faz três shows no Sesc Pompéia, de hoje a domingo, prometendo uma novidade: a inclusão de ``Terra Carioca", poema do cineasta Glauber Rocha musicado por ele.
@@ -1590,9 +1590,9 @@ Quanto: R$ 10
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-090</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-090</field>
+<field name="date">950630</field>
+<text_pt>
 Tempo mínimo de espera é de duas horas e meia 
 JOANA GELPI MARCONDES
  Da Redação 
@@ -1614,9 +1614,9 @@ A comprovação de que o público paulistano não costuma frequentar museus é a enor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-091</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-091</field>
+<field name="date">950630</field>
+<text_pt>
 O restaurante é um dos poucos na cidade a oferecer a gastronomia argentina, com seus churrascos e empanadas 
 JOSIMAR MELO
  Especial para a Folha 
@@ -1632,9 +1632,9 @@ Há pratos do dia que, como na Argentina, seguem inspiração européia (boeuf bourg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-092</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-092</field>
+<field name="date">950630</field>
+<text_pt>
  Como parte do lançamento das massas Martelli no Brasil, produzidas com tradição artesanal em Pisa, na Itália, o restaurante Roma Jardins (av. Cidade Jardim, 411, tel. 881-9445) oferece um menu-degustação do produto, no jantar, até 31 de agosto. São quatro pratos, com um copo de vinho italiano para cada um, ao preço de R$ 59,70 por pessoa.
 
  CAFÉ 
@@ -1645,9 +1645,9 @@ Há pratos do dia que, como na Argentina, seguem inspiração européia (boeuf bourg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-093</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-093</field>
+<field name="date">950630</field>
+<text_pt>
 JORGE CARRARA
  Especial para a Folha 
 Quando em 1970 comprou a casa de campo Mas de Daumas Gassac, localizada 30 quilômetros a noroeste de Montpellier, no sul da França, Aimé Guibert talvez não imaginasse que, além da casa de campo que procurava, tivesse também adquirido o berço do mais renomado vinho da região do Languedoc.
@@ -1663,9 +1663,9 @@ Os dois vinhos podem ser encontrados na Mistral Importadora (r. Amaral Gurgel, 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-094</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-094</field>
+<field name="date">950630</field>
+<text_pt>
 HAMILTON MELLÃO JR.
  Especial para a Folha 
 Estranhos esses cogumelos. Não realizam a fotossíntese, alimentam-se de material em decomposição e fazem a delícia dos gourmets desde priscas eras, mesmo com a sucessão de erros que custaram muitas vidas, já que, das 3.000 espécies existentes, cerca de dois terços são venenosos e 60 delas, absolutamente mortais.
@@ -1692,9 +1692,9 @@ HAMILTON MELLÃO JR. é proprietário do restaurante Mellão - Cucina d'Autore
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-095</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-095</field>
+<field name="date">950630</field>
+<text_pt>
  Dois bons portos da Taylor _uma das mais renomadas casas elaboradoras desses vinhos da região do Douro, norte de Portugal_ estão a bom preço (R$ 13,00) no Santa Luzia (al. Lorena, 1.471, tel. 883-5844). O Tawny tem aroma de leve caramelo e frutas secas, e o Ruby, mais frutado e encorpado, tem bom equilíbrio e final.
 
  MUDANÇA 1 
@@ -1720,9 +1720,9 @@ O novo Macul (50% Cabernet Sauvignon e 50% Merlot, envelhecido em barris de carv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-096</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-096</field>
+<field name="date">950630</field>
+<text_pt>
 O restaurante A Baiúca (r. André Fernandes, 160, tel. 853-7769, Itaim) se prepara para o inverno e inaugura um cardápio de sopas. Entre as opções disponíveis está a boulabaise, tradicional sopa francesa de peixes e frutos do mar. Também no elenco a de ostras, camarão e palmito, entre outras. Os preços variam entre R$ 7,50 e R$ 12,00.
 
  JAPÃO 
@@ -1736,9 +1736,9 @@ O crustáceo é a estrela do festival que o restaurante Fellini's (r. Batatais, 30
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-097</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-097</field>
+<field name="date">950630</field>
+<text_pt>
 ROSANGELA DE MOURA
 Free-lance para a Folhinha 
 Cinco desenhos novos no Cartoon Network, ``A Volta do Homem-Aranha", ``A Família Addams 2" e ``Bastidores de Batman Forever" são alguns programas que as TVs por assinatura vão exibir nas férias.
@@ -1755,16 +1755,16 @@ TVA: tel. (011) 829-8000; NET São Paulo: tel. (011) 816-6633; Multicanal: tel. (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-098</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-098</field>
+<field name="date">950630</field>
+<text_pt>
 Pocahontas é personagem da história dos Estados Unidos. Ela conseguiu manter a paz entre os colonizadores e os índios Powhatan. Pocahontas salvou a vida do capitão John Smith, mas não se casou com ele. Depois que o capitão voltou para a Inglaterra, em 1609, a relação entre os índios e os colonizadores ficou ruim. Pocahontas foi raptada por outro capitão. Ela virou católica e ganhou o nome de Rebecca. Nessa época, se apaixonou por John Rolfe e casou com ele. Pocahontas morreu de varíola em 1617.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950630-099</text_pt>
-<text_pt name="date">950630</text_pt>
-<text_pt name="text">
+<field name="id">FSP950630-099</field>
+<field name="date">950630</field>
+<text_pt>
 Aproveite as férias para fazer teatro. Entre os dias 3 e 7 de julho, acontece um curso no Piccolo Estúdio com o ator Claudio Saltini. Há expressão corporal, improvisação (representação sem ensaio) e jogos para quem tem entre 12 e 14 anos. O curso oferece 20 vagas e custa R$ 100,00. O Piccolo fica na rua Girassol, 323, tel. (011) 212-3459.
 </text_pt>
 </doc>

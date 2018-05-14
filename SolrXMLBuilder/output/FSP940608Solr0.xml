@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940608-001</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-001</field>
+<field name="date">940608</field>
+<text_pt>
 Brasil testará terceiro atacante
 O técnico Carlos Alberto Parreira decidiu testar a seleção brasileira com três ata
 cantes. O teste poderá ser feito hoje contra Honduras ou no domingo contra El Salvador, informam Fernando Rodrigues e Mário Magalhães. A seleção brasileira enfrenta Honduras às 22h (de Brasília) em San Diego (EUA), com TV.
@@ -12,9 +12,9 @@ O presidente da Fifa, João Havelange, disse que gostaria de ver mais um atacante
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-002</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-002</field>
+<field name="date">940608</field>
+<text_pt>
 Brasil testará terceiro atacante
 O técnico Parreira vai testar a seleção brasileira com três atacantes. O teste poderá ser feito hoje contra Honduras ou domingo contra El Salvador, informam Fernando Rodrigues e Mário Magalhães. A equipe enfrenta Honduras às 22h (de Brasília) em San Diego (EUA), com TV.
 Ao lado dos titulares Romário e Bebeto, Muller vai entrar no lugar de um dos jogadores do meio-campo (Mauro Silva, Dunga, Raí ou Zinho). Apesar da entrada do terceiro atacante, Parreira considera "suicídio" começar as partidas da Copa com mais de dois na frente.
@@ -23,9 +23,9 @@ Copa 94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-003</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-003</field>
+<field name="date">940608</field>
+<text_pt>
 Equilíbrio ameaçado
 Se parece cada vez mais consensual que a quebra da chamada inércia inflacionária, consubstanciada na troca de moeda, deverá num primeiro momento reduzir sensivelmente a inflação, é também consensual que esta só permanecerá baixa se houver uma mudança de fundo no estado das contas públicas. E, quanto a esse aspecto, há informações de que a meta de equilíbrio orçamentário enfrenta problemas e pressões inquietantes.
 É o caso, por exemplo, de diversas emendas ao Orçamento apresentadas no Congresso propondo a recomposição das verbas para investimentos de estatais, como informa hoje esta Folha. Não surpreendem, aliás, as suspeitas de que destinatários de recursos cortados estejam fazendo gestões em favor de tais emendas. Era até esperado.
@@ -35,9 +35,9 @@ Com os detalhes técnicos da conversão para a URV dominando cada vez mais as aten
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-004</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-004</field>
+<field name="date">940608</field>
+<text_pt>
 Prevenir é melhor
 A condução das medidas acessórias que acompanham a introdução de um novo plano econômico são sempre um importante indicador das suas chances de sucesso. Nesse sentido, se se efetivar nos próximos dias a redução de alíquotas de importação para alimentos e produtos de higiene e limpeza, o governo dará um passo positivo na direção de conter a elevação de preços dos bens de consumo básico, e colaborando para que se obtenha um maior grau de sucesso na atual tentativa de estabilização.
 Essa faixa de bens é aquela na qual provavelmente haverá o maior crescimento de demanda, pois esses produtos têm um grande peso na cesta de consumo das classes de mais baixa renda. Para essa faixa da população, com restrito acesso aos instrumentos financeiros, a queda da inflação implicará algum aumento de poder aquisitivo, já que os salários mantidos em dinheiro sofrerão menor desvalorização no decorrer de cada mês.
@@ -46,9 +46,9 @@ A condução acertada de providências que visem a adequar o ambiente de mercado ao
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-005</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-005</field>
+<field name="date">940608</field>
+<text_pt>
 Nem risonha nem franca
 Depois de muita delonga, o governo finalmente anunciou ontem as regras que vão reger a conversão das mensalidades escolares para a URV. A questão acabou ganhando considerável atenção nos últimos dias devido em boa parte à dificuldade do governo para chegar a uma decisão.
 A regra afinal anunciada reza que a mensalidade será convertida para a URV com base na média cobrada nos quatro meses entre novembro do ano passado e fevereiro deste ano. Repete, portanto, corretamente, a mesma norma adotada para os salários, o que deve expurgar eventuais aumentos que tenham sido praticados nos últimos meses de indefinição. Vale a ressalva, porém, de que os proprietários de escolas ameaçam recorrer à Justiça contra a decisão, preferindo uma média dos últimos quatro meses que incorpore as majorações feitas nesse período
@@ -58,9 +58,9 @@ O que mais chama a atenção no episódio, de todo modo, foi a maneira como ele foi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-006</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-006</field>
+<field name="date">940608</field>
+<text_pt>
 Omaha beach
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Seis de junho de 1944 &#150;eu estava no seminário. Pegara uma gripe e me mandaram para a enfermaria; podia transmitir a doença aos colegas de dormitório. Ainda bem: na enfermaria havia mordomias. Uma delas era o rádio do médico que ali dormia, o Pepe, filho de um espanhol fugido da Guerra Civil e que viera trabalhar na cozinha do seminário. Trouxera o filho, rapaz esforçado. O padre reitor pagou os estudos do garoto, que se formou em medicina e continuou morando conosco, com um quarto na enfermaria, onde atendia aos alunos doentes.
@@ -73,9 +73,9 @@ Eu pensei no gesto do Pepe envolvendo o universo como indicador do número de mor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-007</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-007</field>
+<field name="date">940608</field>
+<text_pt>
 Um tiro contra Lula
 Gilberto Dimenstein
 BRASÍLIA &#150; Com recursos dos bancos, algumas das mais criativas cabeças da publicidade brasileira preparam uma milionária (fala-se em no mínimo US$ 10 milhões) campanha não apenas para explicar o Plano Real, mas para difundir confiança nele. Os banqueiros não admitem oficialmente, mas, em conversas reservadas, fazem a tradução política: dar um tiro na candidatura Lula.
@@ -88,9 +88,9 @@ PS &#150; Há tempos não ouvia tamanho disparate. Novo integrante do comando da c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-008</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-008</field>
+<field name="date">940608</field>
+<text_pt>
 
 Desemprego e Eldorado
 Antonio Delfim Netto
@@ -105,9 +105,9 @@ Antonio Delfim Netto escreve às quartas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-009</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-009</field>
+<field name="date">940608</field>
+<text_pt>
 O Jegue
 Clóvis Rossi
 SÃO PAULO - Até que enfim a campanha eleitoral entrou no debate das questões nacionais realmente relevantes, graças ao candidato tucano-pefelista, Fernando Henrique Cardoso.
@@ -120,9 +120,9 @@ Consultei também a direção de Redação da Folha, que se prontificou a dedicar o p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-010</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-010</field>
+<field name="date">940608</field>
+<text_pt>
 As metamorfoses de Fernando Henrique
 ROGÉRIO CEZAR DE CERQUEIRA LEITE
 "Adaptabilidade" é um termo técnico que, em biologia, tanto quanto em psicologia ou sociologia, se refere à capacidade de um organismo vivo, ou de um indivíduo ou grupo, se ajustar a mudanças do meio ambiente.
@@ -155,9 +155,9 @@ ROGÉRIO CEZAR DE CERQUEIRA LEITE, 61, físico, é professor emérito da Unicamp (Un
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-011</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-011</field>
+<field name="date">940608</field>
+<text_pt>
 A OEA e a crise haitiana
 RICARDO SEITENFUS
 "Os conceitos ocidentais de representatividade, justiça e democracia são valores desconhecidos no Haiti" (Paulo Mendes de Carvalho, diplomata brasileiro falecido em serviço no Haiti, em 1993)
@@ -188,9 +188,9 @@ RICARDO ANTÔNIO SILVA SEITENFUS, 46, doutor em Relações Internacionais pelo Inst
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-012</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-012</field>
+<field name="date">940608</field>
+<text_pt>
 
 A mágica dos aumentos
 "Sugiro ao ministro Ricupero que para a conversão das despesas do trabalhador (aluguéis, escolas, planos de saúde, etc.), usar a mesma cartola de mágico que foi adotada para a conversão dos salários. O que não é justo perante Deus é converter o salário (única receita) do trabalhador por uma determinada regra ou mágica e, para as despesas, jogá-lo à sorte na arena."
@@ -232,9 +232,9 @@ O valor dos gastos federais com educação (US$ 6 bilhões) foi publicado incorreta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-013</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-013</field>
+<field name="date">940608</field>
+<text_pt>
 Que Bill Rhodes, representante dos bancos credores da dívida externa brasileira, fosse premiado por seus representados, seria compreensível. E justo, a julgar pelo peso dos desembolsos que o último acordo impõe ao Brasil. Mas que seja condecorado com a Ordem do Cruzeiro do Sul, isto exala uma subalternidade só encontrável nos paisetos mais rastaqueras. Rastejantes.
 Aflição em alta
 As aflições da candidatura Fernando Henrique deram um grande salto na manhã de ontem.
@@ -250,9 +250,9 @@ Além disso, atribuir a todo uso da palavra mulato um sentido ofensivo ou discrim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-014</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-014</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 O economista Marcos Cintra lança amanhã, às 19h30, no auditório da Folha, o livro "Tributação no Brasil e o Imposto Único", a-feira). Na ocasião, Cintra fará uma palestra sobre Imposto Único.
 Organizado pelo economista, o livro (Makron Books, 360 páginas, 24 URVs) reúne artigos de especialistas, como os ex-ministros Roberto Campos e Mário Henrique Simonsen, o jurista Ives Gandra Martins e o próprio Cintra, mais textos veiculados pela imprensa.
@@ -265,9 +265,9 @@ Os interessados em participar poderão retirar os convites na Folha (Al. Barão de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-015</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-015</field>
+<field name="date">940608</field>
+<text_pt>
 Candidato petista diz ainda que nenhuma criança ficará fora da escola e que vai demarcar terras indígenas
 CARLOS EDUARDO ALVES
 Enviado especial ao Espírito Santo
@@ -292,9 +292,9 @@ Lula encerra hoje sua campanha no Espírito Santo com comícios em Cachoeiro do It
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-016</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-016</field>
+<field name="date">940608</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Foi uma manifestação com três dezenas de carros-fortes, anunciou o Jornal Nacional. Um deles, como mostrou o SP Já, trazia um cartaz dizendo "morreu nosso companheiro". Falava de um assalto acontecido na madrugada. No momento em que eram feitas as imagens da concentração na Paulista, outro carro-forte, "por ironia", na expressão do Jornal Bandeirantes, estava sendo assaltado na zona sul. Em São Paulo.
@@ -307,9 +307,9 @@ E o grande golpe, o maior. Perguntado, obviamente, sobre a violência carioca e a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-017</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-017</field>
+<field name="date">940608</field>
+<text_pt>
 Do enviado especial ao Espírito Santo
 A campanha de Lula está ganhando o tom profissional. O candidato viaja com dados precisos sobre o local visitado e já conta com o luxo até há pouco impensável, como aviões bimotores.
 Ontem, Lula fez campanha no interior capixaba com sua comitiva utilizando-se de dois bimotores Sêneca e Baron. Segundo os organizadores da caravana petista, cada avião foi fretado por 740 URVs nos dois dias EM que ficarão com o candidato. O diretório do PT do Espírito Santo dividiu as despesas com a direção nacional do partido.
@@ -321,9 +321,9 @@ Graziano é chamado no PT de "cérebro das caravanas". Num eventual governo petist
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-018</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-018</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 A proposta econômica alternativa ao Plano Real que o PT elabora vai propor a diminuição das taxas juros, uma reforma tributária e uma nova legislação para conter os aumentos abusivos de preços.
 Esse projeto será apresentado pelos economistas do partido à Executiva Nacional do PT, na próxima sexta-feira.
@@ -336,9 +336,9 @@ Os economistas do partido acreditam que o plano vai gerar um conflito na distrib
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-019</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-019</field>
+<field name="date">940608</field>
+<text_pt>
 Candidato vai dizer que medidas precisam de três anos para serem implementadas e a estabilidade econômica obtida
 TALES FARIA  e GABRIELA WOLTHERS
 Da Sucursal de Brasília
@@ -358,9 +358,9 @@ A avaliação do grupo é de que, após o lançamento do Real, em 1º de julho, demora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-020</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-020</field>
+<field name="date">940608</field>
+<text_pt>
 Camionete dos metalúrgicos de São Paulo é flagrada com coladores de cartazes da campanha dos candidatos
 Da Reportagem Local e do "NP"
 O Sindicato dos Metalúrgicos de São Paulo transgrediu a legislação eleitoral ao usar ontem uma camionete de sua propriedade para fazer propaganda do candidato ao governo de São Paulo, Luiz Antônio de Medeiros (PP-PPR), e Esperidião Amin (PPR), candidato à Presidência.
@@ -377,9 +377,9 @@ O corregedor eleitoral Márcio Martins Bonilha disse ontem que, após verificar a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-021</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-021</field>
+<field name="date">940608</field>
+<text_pt>
 Da Sucursal de Brasília
 A lei 8.713, que regulamenta as eleições, dará muito trabalho às emissoras de TV, que terão de vigiar a própria programação, e aos ministros do TSE, incumbidos de punir "abusos".
 A lei ameaça interferir na programação das emissoras ao proibir críticas a candidatos ou partidos em novelas, filmes, minisséries ou qualquer outra programação.
@@ -391,18 +391,18 @@ A punição por "abusos" é suspensão da programação da emissora por no mínimo uma 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-022</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-022</field>
+<field name="date">940608</field>
+<text_pt>
 Do enviado especial a Belém (PA)
 Um boato de um atentado ao presidente Itamar Franco em Belém (PA) chegou aos jornais da cidade na madrugada de ontem.
 O chefe da segurança pessoal da Presidência em Belém, major Elso, disse que "não houve absolutamente nada". Wallace Peixoto, chefe da segurança do Hotel Hilton (onde Itamar se hospedou), e o coordenador de Segurança da PF, Néder Duarte, disseram não saber "de nada a respeito". 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-023</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-023</field>
+<field name="date">940608</field>
+<text_pt>
 Os bancos estão instruindo seus gerentes a reformular o atendimento nas agências.
 Em alguns, já começou o treinamento de funcionários para captar novos clientes, o que compensaria o esperado menor volume de aplicações com o real.
 
@@ -435,9 +435,9 @@ Para ele, o problema é que ao mesmo tempo há um rápido processo de modernização.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-024</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-024</field>
+<field name="date">940608</field>
+<text_pt>
 EDUARDO RIBEIRO CAPOBIANCO
 Nos últimos 12 meses, as concorrências públicas vêm se desenrolando em um clima de abertura. A Lei de Licitações e Contratos, sancionada há um ano pelo presidente Itamar Franco, contribuiu para que as licitações se realizem em clima de concorrência e liberdade de participação.
 Para tanto, foi decisivo um veto imposto em junho de 1993 pelo presidente, suprimindo do texto da lei a exigência de que uma empresa, para se habilitar a uma concorrência, tivesse que apresentar comprovação de haver realizado obra ou serviço semelhante, o chamado atestado de capacitação técnico-operacional.
@@ -471,25 +471,25 @@ EDUARDO RIBEIRO CAPOBIANCO, 43, é presidente do SindusCon-SP (Sindicato da Indús
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-025</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-025</field>
+<field name="date">940608</field>
+<text_pt>
 O índice de emprego em obras públicas no Estado de São Paulo, registrou um crescimento de 2,09% no mês de maio em relação a abril. Este índice representa a criação de 2.516 novos postos de trabalho. Com este resultado, o setor passou a empregar 122.745 trabalhadores diretos.
 De fevereiro a maio deste ano o setor teve aumento consecutivo do índice de emprego. O total das contratações no período chega a 6.891. A pesquisa do indice de empregos em obras públicas é realizada mensalmente pela Apeop (Associação Paulista de Empresários de Obras Públicas).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-026</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-026</field>
+<field name="date">940608</field>
+<text_pt>
 A indústria da construção civil fez 83 lançamentos de edifícios no primeiro quadrimestre do ano, no município de São Paulo, com aumento de 43,1% em relação a igual período de 1993 (58 lançamentos). O número foi apurado pela Embraesp (Empresa Brasileira de Estudos de Patrimônio).
 Só em abril, foram feitos 35 lançamentos, 29,6% mais que em março. Porém, houve incremento de 94,4% na comparação com igual mês de 93. O total de apartamentos registrados em abril (1.958) teve queda de 2,2% frente à soma de março, mas elevação de 97,4% sobre o mesmo mês de 93.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-027</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-027</field>
+<field name="date">940608</field>
+<text_pt>
 Porto Alegre foi a capital que registrou a maior elevação de preços do conjunto de produtos alimentícios essenciais em maio, com alta de 50,93%, contra 47,35% em abril. A maioria das catorze capitais pesquisadas apresentou variação de preços abaixo da do mês anterior.
 Segundo apurou o Dieese (Departamento Intersindical de Estatísiticas e Estudos Sócio Econômicos) outra capital que teve ritmo mais acelerado de alta em relação a abril foi Belém, com 45,51% (22,77% em abril). Só essas duas cidades e Florianópolis (45,88%) tiveram altas acima da URV: 44%.
 Além de registrar a maior variação, Porto Alegre foi a cidade em que o Dieese apurou o maior custo para a ração essencial mínima, onde o valor é de CR$ 110.521,99 e o trabalhador que ganha o salário mínimo comprometeu 98,60% de seu rendimento líquido para adquirir os alimentos básicos.
@@ -497,9 +497,9 @@ Com base no custo da cesta da capital gaúcha, o Dieese estimou que o mínimo para
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-028</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-028</field>
+<field name="date">940608</field>
+<text_pt>
 Uma das grandes inovações do pensamento econômico brasileiro foram as análises a respeito do papel da inflação na manutenção do dinamismo da economia. Os primeiros estudos foram desenvolvidos por Ignácio Rangel, brilhante economista do Banco Nacional do Desenvolvimento Econômico e Social (BNDES), morto recentemente.
 No fim de semana passado, Celso Furtado, outro dos pilares do pensamento econômico brasileiro, voltou a bater no tema.
 À luz da recuperação de temas como cidadania e controle do Estado, no entanto, é necessário reavaliar esta questão. 
@@ -519,9 +519,9 @@ Termina com Aluizio Pimenta: "Ele não é apenas construtor de país, mas de civili
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-029</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-029</field>
+<field name="date">940608</field>
+<text_pt>
 FERNANDO PAULINO NETO
 Da Sucursal do Rio
 O Rio de Janeiro terá em setembro o primeiro prédio de teleporto em funcionamento no centro da cidade.
@@ -537,9 +537,9 @@ Este primeiro edifício, de propriedade da Valia, tem 63 mil metros quadrados de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-030</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-030</field>
+<field name="date">940608</field>
+<text_pt>
 
 Da Reportagem Local
 A tarifa de telefone convertida para URV subiu 28% real, descontada a inflação, na segunda quinzena de maio em relação a igual período de abril.
@@ -561,9 +561,9 @@ O governo determinou que a mudança deverá ser feita até o final do mês. O critér
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-031</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-031</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 As oportunidades de captação de recursos no primeiro "pregão virtual" do mundo, a Nasdaq Stock Market, dos EUA, foram apresentadas ontem a empresas brasileiras por uma iniciativa do Banco Votorantim.
 A ocasião foi o seminário "Globalização do Mercado de Capitais", promovido pelo Banco Itamaraty e Bolsa de Valores de São Paulo.
@@ -577,9 +577,9 @@ A Telebrás, a Cemig e a Aracruz Celulose são algumas das empresas que já utiliza
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-032</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-032</field>
+<field name="date">940608</field>
+<text_pt>
 Começam negócios do índice urvizado da Bovespa no mercado futuro; Banco Central coloca LBCs de 28 dias
 Da Redação
 O ágio do dólar no paralelo foi ontem o maior do ano (1,24%). No dia 30 de dezembro de 93 estava em 1,27%.
@@ -626,9 +626,9 @@ O mercado futuro do índice da Bolsa paulista para junho fechou com 32.100 pontos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-033</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-033</field>
+<field name="date">940608</field>
+<text_pt>
 Fabricantes acusam Coréia de dumping; confecções discordam
 Da Reportagem Local
 O fim da sobretaxa provisória de 34% para importação de tecidos coreanos está provocando novo ataque dos fabricantes brasileiros contra o que classificam de dumping por parte da Coréia do Sul.
@@ -650,9 +650,9 @@ Os coreanos vendem o metro do tecido por cerca de US$ 0,80. Segundo os fabricant
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-034</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-034</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 Outros segmentos da indústria se reúnem em feiras paralelas à Fenit em São Paulo. O Salão Internacional de Brindes e Presentes, e o Salão Internacional de Papelaria e Material Escolar, que abriram ontem, devem gerar negócios de até US$ 250 milhões.
 O Salão Nacional de Bijuterias, Jóias em Prata e Acessórios de Moda, também inaugurado ontem, informa que deve negociar algo em torno de dois ou três meses de produção.
@@ -667,30 +667,30 @@ Entrada: portadores de convites ou profissionais que comprovem atuar na área.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-035</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-035</field>
+<field name="date">940608</field>
+<text_pt>
 Um carro-bomba explodiu ontem em Moscou, ferindo o empresário Boris Berezovsky, dono de uma das maiores revendedoras de automóveis da Rússia, e matando seu motorista. Outras nove pessoas ficaram feridas. Este é o último de uma série de ataques contra empresários e banqueiros que estaria ligada à guerra entre setores da máfia russa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-036</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-036</field>
+<field name="date">940608</field>
+<text_pt>
 A guerra civil no Iêmen já matou cerca de 60 mil pesssoas. A informação foi dada a um jornal saudita pelo primeiro-ministro sul-iemenita Haidar Abu Bakr al-Attas. De acordo com ele, o conflito, iniciado em 4 de maio, já produziu mais de cem mil refugiados iemenitas. O sul do Iêmen rompeu com o norte em 21 de maio, após quatro anos de unificação.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-037</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-037</field>
+<field name="date">940608</field>
+<text_pt>
 Enquanto equipes de resgate levavam os restos dos 160 mortos no desastre aéreo de anteontem na China para hospitais e funerárias, as autoridades chinesas tentavam ontem encontrar a razão do acidente. A análise da caixa-preta do avião revelou que o navegador havia relatado uma trepidação nas asas da aeronave pouco antes de sua queda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-038</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-038</field>
+<field name="date">940608</field>
+<text_pt>
 Presidente dos EUA diz no Parlamento francês que União Européia deve crescer para o leste
 Das agências internacionais
 O presidente norte-americano, Bill Clinton, prometeu em discurso na Assembléia Nacional francesa que os EUA vão manter seu engajamento na Europa.
@@ -704,9 +704,9 @@ Mitterrand mostrou-se mais cauteloso em relação a essa idéia e disse que outros 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-039</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-039</field>
+<field name="date">940608</field>
+<text_pt>
 Comissão investigará crimes no apartheid
 Dullah Omar, ministro da Justiça da África do Sul, anunciou ontem que planeja formar uma comissão para investigar as violações aos direitos humanos durante o apartheid. O governo também disse que não anistiará crimes raciais cometidos após 5 de dezembro de 93, data do início da transição democrática.
 
@@ -730,16 +730,16 @@ O Departamento de Estado norte-americano está estabelecendo um escritório para c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-040</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-040</field>
+<field name="date">940608</field>
+<text_pt>
 Representantes dos 34 países-membros da Organização dos Estados Americanos aprovaram ontem, em reunião em Belém, resolução para reforçar sanções contra o Haiti, informa Abnor Gondim, da Agência Folha. O país é governado por militares que depuseram o presidente Jean-Bertrand Aristide em setembro de 91. A maioria dos representantes da OEA se pronunciou ontem contra uma intervenção armada no país. Anteontem, Aristide pediu, em entrevista coletiva, ação para "combater o narcotráfico", que levaria segundo ele à queda dos golpistas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-041</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-041</field>
+<field name="date">940608</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 Mais um estudo divulgado ontem nos EUA sustenta que as pessoas com convívio estreito com fumantes sofrem um risco maior de terem câncer nos pulmões.
@@ -760,9 +760,9 @@ Além da AMA, a agência que regulamenta remédios e alimentos nos EUA também está 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-042</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-042</field>
+<field name="date">940608</field>
+<text_pt>
 Secretário inaugura viaduto em São Paulo
 O secretário de Vias Públicas de São Paulo, Reynaldo de Barros (foto), inaugurou ontem o viaduto Cassiano Gabus Mendes, que ligará Guaianases a São Miguel Paulista, na zona leste de São Paulo. A inauguração estava prevista para ser feita pelo Maluf, mas o prefeito, gripado, cancelou suas atividades ontem.
 
@@ -784,9 +784,9 @@ O trânsito na rodovia dos Trabalhadores, no trecho que vai do km 60 a 62 da pist
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-043</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-043</field>
+<field name="date">940608</field>
+<text_pt>
 Conversão para URV será feita pela média dos valores de novembro de 93 a fevereiro de 94
 Da Sucursal de Brasília
 As mensalidades escolares serão convertidas para URV, a partir de julho, pela média de novembro de 93 a fevereiro de 94. Elas passam a seguir o mesmo critério de conversão utilizado para os salários.
@@ -806,9 +806,9 @@ A conversão foi definida numa reunião entre Itamar e os ministros Rubens Ricuper
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-044</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-044</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 A proposta do governo federal em converter as tarifas de ônibus em URV pela média dos últimos quatro meses está sendo criticada pelas prefeituras.
 A conversão da tarifa foi determinada em portaria do Ministério da Fazenda publicada anteontem no "Diário Oficial da União".
@@ -825,9 +825,9 @@ Em São Paulo, a prefeitura ainda estuda a proposta de conversão. Ontem, era agua
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-045</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-045</field>
+<field name="date">940608</field>
+<text_pt>
 Estive com Claudia Raia na sexta. Ela me revelou que sonha ser dirigida por Pedro Almodóvar. Já imaginou que barato! A Claudia é a cara do Almodóvar! É ficar de dedos cruzados!
 
 Vestindo a Camisa
@@ -841,9 +841,9 @@ A revista "Sette", suplemento do jornal italiano "Corriere Della Sera", traz est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-046</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-046</field>
+<field name="date">940608</field>
+<text_pt>
 Os setores ligados ao turismo em Porto Alegre debateram ontem com os vereadores a utilidade e o melhor local para a instalação da Rua 24 Horas. A rua, assim como a criação de um sambódromo, têm sido motivo de muita polêmica na Câmara Municipal.
 
 Santa Catarina 1
@@ -857,9 +857,9 @@ A Susp (Secretaria de Urbanismo e Serviços Públicos) anunciou que pretende retir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-047</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-047</field>
+<field name="date">940608</field>
+<text_pt>
 A Estação Ecológica da UFMG recebe até sexta visitas de alunos de quatro escolas do 1º grau de Belo Horizonte. As visitas fazem parte da Semana do Meio Ambiente. Os alunos vão realizar uma caminhada ecológica e receberão informações sobre flora e fauna.
 
 SP Litoral
@@ -873,9 +873,9 @@ O peão José Arcesti Ragazzo, 28, morreu no domingo quando participava do Rodeio 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-048</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-048</field>
+<field name="date">940608</field>
+<text_pt>
 A Chesf (Companhia Hidrelétrica do São Francisco) está resgatando os animais silvestres que se encontram na área de 60 km2 do reservatório de Xingó. A área será inundada a partir do próximo dia 10. Cerca de mil animais já foram resgatados pela Chesf.
 
 Alagoas
@@ -889,9 +889,9 @@ Durante o último mês, 534 pontos de venda foram visitados pelos agentes sanitári
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-049</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-049</field>
+<field name="date">940608</field>
+<text_pt>
 A Vigilância Sanitária do Amazonas e as secretarias de Saúde do Peru e da Colômbia vão realizar um trabalho conjunto de prevenção ao cólera na região de fronteira. Os especialistas estão preocupados com a cheia dos rios, que pode acarretar aumento dos casos.
 
 Amazonas 2
@@ -905,9 +905,9 @@ O presidente da Associação Amazonense de Supermercados, Celso Assayag, descartou
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-050</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-050</field>
+<field name="date">940608</field>
+<text_pt>
 Goiânia conta agora com a Guarda Verde, um grupamento especial da Guarda Municipal que vai vigiar as áreas verdes da cidade. Os 16 guardas vão trabalhar fardados e armados. Segundo a prefeitura, eles vão orientar sobre a preservação do meio ambiente.
 
 Goiás 2
@@ -921,9 +921,9 @@ Foi lançado ontem, na Faculdade de Comunicação da Universidade Federal de Goiás,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-051</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-051</field>
+<field name="date">940608</field>
+<text_pt>
 ARNALDO MADEIRA
 Ao contrário do que supõe o secretário das Finanças do Município de São Paulo, Celso Roberto Pitta, não basta ter apenas "conhecimentos básicos de aritmética" para analisar o balanço da prefeitura relativo à 1993. É preciso dominar alguns conceitos. Do contrário, misturam-se alhos com bugalhos.
 O secretário, ao que parece, confunde "restos a pagar" com "despesas de exercícios anteriores". Restos a pagar são despesas orçamentárias empenhadas num exercício e pagas no seguinte. Despesas de exercícios anteriores são despesas de um exercício que são empenhadas no posterior.
@@ -940,9 +940,9 @@ ARNALDO MADEIRA, 54, é vereador pelo PSDB em São Paulo. Foi presidente da Câmara
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-052</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-052</field>
+<field name="date">940608</field>
+<text_pt>
 RONI LIMA
 Da Sucursal do Rio
 A Amazônia Legal (Estados do Norte do país e o oeste do Maranhão) vive hoje um processo de apenas migrações internas. A grande leva de migração para a região se deu de 1970 a 1980. Hoje é reduzido o número de pessoas de outras regiões do país que seguem para lá.
@@ -961,9 +961,9 @@ Ferreira criticou também os governos locais, que pensam suas políticas dentro de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-053</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-053</field>
+<field name="date">940608</field>
+<text_pt>
 13
 ... pessoas já morreram com meningite meningocócita este ano em Sergipe. A Secretaria de Saúde informou que até agora a doença atingiu 35 pessoas em 94. A secretaria iniciou campanha de alerta no Estado.
 
@@ -984,9 +984,9 @@ O nevoeiro que atingiu o Rio de Janeiro ontem de manhã fechou as pistas dos aero
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-054</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-054</field>
+<field name="date">940608</field>
+<text_pt>
 Da Reportagem Local
 A prefeitura inaugurou e entregou ao tráfego ontem o viaduto Cassiano Gabus Mendes, que liga Guaianases a São Miguel Paulista, na zona leste.
 A inauguração estava prevista para ser feita pelo prefeito Paulo Maluf, mas a obra acabou sendo entregue pelo secretário de Vias Públicas, Reynaldo de Barros.
@@ -997,9 +997,9 @@ O ator Tato Gabus Mendes, filho de Cassiano, participou da inauguração do viadut
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-055</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-055</field>
+<field name="date">940608</field>
+<text_pt>
 A Oficina de Menestréis está abrindo novas turmas para o curso de formação de atores, através da música, expressão corporal e exercícios de reflexo e ritmo. As aulas acontecen no Teatro Dias Gomes (rua Domingos de Moraes, 348, Vila Mariana), de 9 a 30 de julho. Informações pelo tel. 575-0881.
 
 BUDISMO
@@ -1009,9 +1009,9 @@ Correspondência para esta seção deve ser enviada para a alameda Barão de Limeira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-056</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-056</field>
+<field name="date">940608</field>
+<text_pt>
 O leitor Jorge Antonio Sá Barreto, residente na rua Monte Alegre, em Perdizes, afirma que sua filha, Adriana Siqueira de Sá Botelho, entrou com pedido de CPF na agência João Ramalho dos Correios no dia 29 de jeneiro e que até agora não recebeu o documento.
 Segundo Sá Barreto, o canhoto do pedido diz que se o documento não chegar em 40 dias, deve-se comparecer "à agência mais próxima de sua residência".
 Sá Barreto conta ainda que sua filha voltou a fazer o pedido em 28 de março, mas que "até hoje não recebeu nada".
@@ -1023,9 +1023,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-057</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-057</field>
+<field name="date">940608</field>
+<text_pt>
 A Polícia Federal prendeu ontem, no aeroporto de Salvador, a inglesa Davina Rose Ngozi Agbajoh, 32. Ela iria levar 1,6 kg de cocaína para Moscou. A droga foi adquirida em São Paulo e estava em dois pacotes colocados sob uma cinta abdominal.
 
 Polícia encontra ossadas humanas em poços no Rio
@@ -1039,9 +1039,9 @@ A polícia de Promissão (480 km a noroeste de São Paulo) anunciou ontem a prisão 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-058</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-058</field>
+<field name="date">940608</field>
+<text_pt>
 Da FT
 A Câmara Municipal aprovou ontem, por 31 votos a favor e 24 abstenções, a criação de 300 novos cargos no TCM (Tribunal de Contas do Município). Pelo projeto, metade desses cargos poderão ser preenchidos sem concurso.
 Os cinco conselheiros terão à disposição, entre outros, 30 novos assessores de gabinete, 30 assessores técnicos, 25 chefes de seção técnica, 19 chefes de seção, 12 diretores de divisão técnica, cinco chefes de gabinete e cinco diretores técnicos.
@@ -1051,9 +1051,9 @@ A Câmara aprovou ainda, com 39 votos a favor, a lei para recontratação de médico
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-059</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-059</field>
+<field name="date">940608</field>
+<text_pt>
 
 3,5m a 4,5 m de diâmetro
 5m de diâmetro
@@ -1142,16 +1142,16 @@ Telefone: 0800-128866
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-060</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-060</field>
+<field name="date">940608</field>
+<text_pt>
 A TVA não opera diretamente via cabo, mas vende sua programação para operadores de cabo de 11 Estados do país. No próximo mês, a empresa deve lançar a compressão digital de sinal. Essa tecnologia permite que vários canais sejam combinados no espaço hoje reservado para um único canal, proporcionando uma melhor qualidade de imagem, som e a multiplicação de canais disponíveis para assinantes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-061</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-061</field>
+<field name="date">940608</field>
+<text_pt>
 Transmissão a cabo é a melhor opção
 Da Reportagem Local
 Quem quiser captar canais internacionais tem hoje em São Paulo três opções - transmissão via cabo, via MMDS (sistema de transmissão por microondas) ou TV por assinatura (via parabólica).
@@ -1168,9 +1168,9 @@ ASSINATURA - A TVA não opera diretamente via cabo, mas vende sua programação par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-062</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-062</field>
+<field name="date">940608</field>
+<text_pt>
 Técnico deve colocar Muller no lugar de um dos jogadores do meio por, pelo menos, 45 minutos
 FERNANDO RODRIGUES e MÁRIO MAGALHÃES
 Enviados especiais a Los Gatos
@@ -1195,9 +1195,9 @@ LEIA MAIS sobre a Copa nas páginas 2 a 5 e 8
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-063</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-063</field>
+<field name="date">940608</field>
+<text_pt>
 ALBERTO HELENA JR.
 Na manhã luminosa, a entrevista coletiva de Parreira se desenrola preguiçosamente no cirquinho armado aqui na Villa Felice, em Los Gatos, concentração dos brasileiros.
 Num tom discreto, mas firme, soa uma nota dissonante: é Moraci Sant'Anna, nosso preparador físico, reclamando de um repórter a publicação de seu salário, segundo ele, muito acima do real (sem trocadilho).
@@ -1221,9 +1221,9 @@ Gérson acha que falta um jogador habilidoso e veloz, como Edílson, para levar a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-064</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-064</field>
+<field name="date">940608</field>
+<text_pt>
 Técnico mantém rodízio; Rocha e Jorginho estão cotados para jogo de hoje
 Dos enviados especiais
 O técnico Carlos Alberto Parreira disse ontem que não é necessário que um jogador tenha participado em Copas do Mundo para ser o capitão da equipe. Aumentou com isso a polêmica sobre quem deverá desempenhar essa função no Mundial dos Estados Unidos.
@@ -1242,9 +1242,9 @@ A segunda opção de Parreira é o lateral-direito Jorginho. Tanto Jorginho como Ri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-065</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-065</field>
+<field name="date">940608</field>
+<text_pt>
 Dos enviados especiais
 A seleção brasileira fará apenas mais um treino físico forte antes da suas estréia na Copa no dia 20 contra a Rússia.
 O treino será no dia 14 de junho, terça-feira. "Será a última vez que daremos ênfase à parte física em dois períodos do dia", disse o preparador físico da seleção, Moraci Sant'Anna.
@@ -1258,9 +1258,9 @@ Branco treina há uma semana em separado. Faz hidroginástica. Parreira quer coloc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-066</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-066</field>
+<field name="date">940608</field>
+<text_pt>
 
 *
 O sucesso de Berasategui e Mary Pierce no Aberto da França marca outro ponto a favor das decantadas academias norte-americanas de tênis. Pierce vem de muito trabalho com Nick Bolletieri e Berasategui é um produto da academia de Harry Hoppman, outro fabricante de campeões na ensolarada Flórida. 
@@ -1269,9 +1269,9 @@ Mais Berasategui. O vice-campeão causou alguma confusão entre os repórterers que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-067</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-067</field>
+<field name="date">940608</field>
+<text_pt>
 Seleção nacional de basquete aumentou sua chance de passar às semifinais; hoje enfrenta a China e amanhã a Espanha
 Da Reportagem Local
 Depois do sucesso na fase de classificação, a seleção brasileira está com boas chance de classificação para as semifinais do Mundial da Austrália com a vitória sobre Cuba, por 111 a 91, ontem.
@@ -1292,9 +1292,9 @@ O time chinês tem levado vantagem diante do Brasil. Conta com jogadoras rápidas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-068</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-068</field>
+<field name="date">940608</field>
+<text_pt>
 Diego Barragan, preparador físico da Colômbia, diz que recupera a energia sexual gasta com café e torradas
 Das agências internacionais
 O sexo e o álcool não preocupam o preparador físico da seleção da Colômbia, Diego Barragan. "Não me importo se os jogadores praticarem o ato sexual, nem se tomarem bebidas alcoólicas, nestes dias de folga. Isso não vai alterar o condicionamento físico de ninguém", disse.
@@ -1310,9 +1310,9 @@ A euforia e a tranquilidade do time contagiou a torcida. Segundo uma pesquisa re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-069</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-069</field>
+<field name="date">940608</field>
+<text_pt>
 Técnico mantém rodízio; Jorginho será o capitão do time contra Honduras
 Dos enviados especiais
 O técnico Carlos Alberto Parreira disse ontem que não é necessário que um jogador tenha participado em Copas do Mundo para ser o capitão da equipe. Aumentou com isso a polêmica sobre quem deverá desempenhar essa função no Mundial dos EUA.
@@ -1333,9 +1333,9 @@ Há duas razões principais para Parreira ter feito isso: 1) quer definitivamente 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-070</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-070</field>
+<field name="date">940608</field>
+<text_pt>
 Aos 24 anos, o ator de "Amor à Queima-Roupa" tenta abandonar os estigmas de garoto prodígio e rapaz malvado
 VERONICA CHAMBERS
 Da "Première"
@@ -1390,23 +1390,23 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-071</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-071</field>
+<field name="date">940608</field>
+<text_pt>
 O grupo editorial norte-americano Time cancelou seu projeto de lançar uma revista inteiramente dedicada a homossexuais masculinos e femininos. Segundo a empresa, "Tribe" (como a revista se chamaria) foi cancelada mais por problemas comerciais que editoriais.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-072</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-072</field>
+<field name="date">940608</field>
+<text_pt>
 O escritor e jornalista chileno Francisco Martorelli foi condenado a mil dias de prisão por ter escrito um livro sobre supostas orgias do ex-embaixador argentino Oscar Spinosa Melo na capital chilena. "Impunidad Diplomática", o livro, está proibido no Chile.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-073</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-073</field>
+<field name="date">940608</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 Saiu esta semana nos EUA o último livro escrito por Charles Bukowski pouco antes de sua morte, aos 73 anos, em março passado.
@@ -1428,9 +1428,9 @@ O escritor, identificado com a cultura beatnik, admitia somente ter sido inspira
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-074</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-074</field>
+<field name="date">940608</field>
+<text_pt>
 
 O nome do organizador do livro "Modernistas na Repartição" é Lauro Cavalcanti, e não Cardoso, como está neste artigo.ERRAMOS
 Obra reúne textos de modernistas no poder
@@ -1460,9 +1460,9 @@ Preço: 12,79 URVs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-075</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-075</field>
+<field name="date">940608</field>
+<text_pt>
 O astro norte-americano atua em filme de sucesso nos EUA e conta que tem pouco a ver com seus personagens
 BRUNA LOMBARDI
 Especial para a Folha
@@ -1505,9 +1505,9 @@ Mas alguém põe um gato no quarto. Quando o vê, você sai gritando, porque não sab
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-076</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-076</field>
+<field name="date">940608</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Deus fala conosco através de sinais. É uma linguagem individual, que requer fé e disciplina para ser totalmente absorvida.
@@ -1516,9 +1516,9 @@ Apesar de sempre ter sido governado pela lógica, resolveu &#150;num impulso&#150
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-077</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-077</field>
+<field name="date">940608</field>
+<text_pt>
 CLÁUDIA HOLLANDER
 Especial para a Folha
 Vênus, em Câncer, agora se opõe a Netuno e Urano, que estão em Capricórnio, assinalando uma fase em que deveremos agir com especial habilidade nos negócios e questões relativas às finanças, evitando sobretudo as transações que não forem inteiramente claras.
@@ -1527,9 +1527,9 @@ A partir do final da tarde, já estaremos sob a influência da Lua nova, que deton
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-078</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-078</field>
+<field name="date">940608</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 No extrato de uma crítica francesa, no programa da peça, "Señor Z" é citada como "um espetáculo inteligente, que dá ao teatro sua dimensão olímpica".
@@ -1557,9 +1557,9 @@ Onde: Teatro Ruth Escobar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-079</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-079</field>
+<field name="date">940608</field>
+<text_pt>
 EDUARDO SIMANTOB
 Da Redação
 Produtores culturais e empresas privadas não falam a mesma língua. Essa é, basicamente, a conclusão de uma pesquisa realizada entre março e maio deste ano pelo Sesc e Sebrae, com o objetivo de identificar os critérios de decisão sobre patrocínios culturais.
@@ -1574,9 +1574,9 @@ As leis Rouanet (federal) e Mendonça (municipal - SP) podem ser aplicadas com de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-080</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-080</field>
+<field name="date">940608</field>
+<text_pt>
 Deutsche Grammophon lança projeto ambicioso de cem CDs que integram a 'Nova Biblioteca de Música Clássica'
 ARTHUR NESTROVSKI
 Especial para a Folha
@@ -1612,9 +1612,9 @@ ARTHUR NESTROVSKI, é doutor em música e professor na pós-graduação em Comunicaçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-081</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-081</field>
+<field name="date">940608</field>
+<text_pt>
 O desenho mantém o controle de qualidade e atualidade dos estúdios Disney com seu ritmo de video game
 SERGIO AUGUSTO
 Da Sucursal do Rio
@@ -1634,9 +1634,9 @@ Distribuidora: Abril Vídeo (011/832-1555)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-082</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-082</field>
+<field name="date">940608</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 Há cineastas estrangeiros que se dão bem na América &#150;e Hollywood se fez, em grande parte, com o talento deles. Mas há diretores que, aparentemente, perdem o rumo quando se afastam de sua terra. Movem-se no cinema americano como uma criança deslumbrada com a Disneylândia.
@@ -1655,9 +1655,9 @@ Lançamento: Europa Home Video (tel. 011/579-6522)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-083</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-083</field>
+<field name="date">940608</field>
+<text_pt>
 Das regionais
 A comédia "The Super" mostra que a galeria de tipos engraçados do ator Joe Pesci é infindável. Desta vez, ele incorpora o proprietário de um edifício no Harlem, habitado por negros e hispânicos.
 Relaxado, Pesci não atende as reivindicações básicas dos moradores como luz e água. Por este desleixo, ele é levado a julgamento. Sua pena é viver 120 dias em um dos apartamentos do prédio. E é aí que a graça começa.
@@ -1673,9 +1673,9 @@ Distribuidora: Abril Vídeo (tel. 011/832-1555)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-084</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-084</field>
+<field name="date">940608</field>
+<text_pt>
 
 Bomba! DataSimão informa: se continuar esse bando de molengas o jogo hoje vai ser Onmoles X Onduras!
 JOSÉ SIMÃO
@@ -1689,9 +1689,9 @@ E o Pelé diz que brasileiro já sabe votar. Só não sabe em quem. Indecisos e inde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-085</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-085</field>
+<field name="date">940608</field>
+<text_pt>
 
 Diferentemente do que informa a legenda da foto deste artigo, o serviço telefônico não foi desativado na semana passada. A Telesp apenas anunciou sua desativação na semana passada. A foto mostra apenas uma atendente do serviço, também diferentemente do que a legenda informa. Por problemas técnicos, o antepenúltimo parágrafo saiu truncado. O correto seria: "E é claro que muita gente não ligou para o tele-sexo e termina tendo de pagar. Mas é claro, também, que muita gente ligou e diz não ter ligado".ERRAMOS
 Disque-erótico está além do bem e do mal
@@ -1730,9 +1730,9 @@ Nos dois casos, o moralismo e a pudicícia dominam. A verdadeira liberdade sexual
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-086</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-086</field>
+<field name="date">940608</field>
+<text_pt>
 CARLOS UCHÔA FAGUNDES JR.
 Especial para a Folha
 
@@ -1753,9 +1753,9 @@ E com esses recursos Marcelo Villares consegue abrir sua trilha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-087</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-087</field>
+<field name="date">940608</field>
+<text_pt>
 Multimídia pode acelerar aprendizado
 Os programas e jogos em CD-ROM com recursos multimídia são uma boa alternativa para se familiarizar com os micros. Os recursos lúdicos da multimídia (tecnologia que integra textos, sons e imagens no computador) e a facilidade de uso dos programas tornam o uso do micro mais agradável. Kits de CD-ROM custam a partir de US$ 600 no Brasil.
 
@@ -1773,9 +1773,9 @@ Aulas em casa têm preço padrão
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-088</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-088</field>
+<field name="date">940608</field>
+<text_pt>
 MARINA MORAES
 Especial para a Folha, de Nova York
 A primeira experiência da Blockbuster, maior rede de casas locadoras de vídeo do país, na área de informática não teve o sucesso esperado.
@@ -1792,9 +1792,9 @@ De acordo com especialistas, à exceção da geração que cresceu com os jogos eletr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-089</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-089</field>
+<field name="date">940608</field>
+<text_pt>
 (Marcelo da Cunha Gomes Leite, Belo Horizonte - MG)
 
 Resposta: A multimídia (tecnologia que integra textos, imagens e sons) está atraindo cada vez mais os usuários brasileiros. O mercado já dispõe de uma infinidade de títulos em CD-ROM, como enciclopédias, jogos, filmes e programas educativos, entre outros. Tais discos seguem o padrão "yellow book" (ISO-9.660), que também faz parte do padrão MPC (Multimedia PC), e são totalmente compatíveis com os drives de CD-ROM disponíveis no mercado.
@@ -1810,9 +1810,9 @@ Cartas para a seção Canal Aberto devem ser enviadas datilografadas para Folha de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-090</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-090</field>
+<field name="date">940608</field>
+<text_pt>
 A editora norte-americana de títulos em CD-ROM Compton's NewMedia anunciou parceria com a Intel, líder mundial de microprocessadores, para desenvolvimento conjunto de envio de dados dos produtos Compton's por infra-estrutura de cabos de modem para o microcomputador.
 As empresas mostraram ao público um protótipo do produto há duas semanas em Nova Orleans (EUA). Os CDs "Compton's Interactive Encyclopedia" e "The Sporting News Pro Football Guide" são os primeiros títulos que a empresa quer oferecer nesse sistema para o usuário final.
 Um dos desafios da Compton's é assegurar o recebimento de som, textos e imagens de vídeo de tela cheia para quem consultar dados em multimídia no micro, usando o sistema de cabos da Intel. A fabricante de chips está desenvolvendo uma tecnologia de transmissão de dados para microcomputadores.
@@ -1820,16 +1820,16 @@ A idéia é oferecer ao usuário acesso on line (simultâneo) a dados multimídia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-091</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-091</field>
+<field name="date">940608</field>
+<text_pt>
 A Safe Informática está vendendo uma nova linha de modem (equipamento que liga micro à linha telefônica). São dois modelos, que podem funcionar como fax, videotexto e correio eletrônico e trabalham a uma velocidade de 14.400 bps. Tel. (011) 227-7113.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-092</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-092</field>
+<field name="date">940608</field>
+<text_pt>
 A IBM reduziu o preço do subnotebook ThinkPad 500. O micro, um 486, vem com disco rígido de 85 Mbytes e sai de 3.150 URVs por 2.950 URVs. Esse preço também vale para compras a prazo em até 18 vezes. Tel. (0800) 11-1062.
 
 MultiSoluções faz desconto de 20%
@@ -1846,9 +1846,9 @@ A versão 12 do "AutoCAD" está com desconto até o final de julho. Quem comprar o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-093</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-093</field>
+<field name="date">940608</field>
+<text_pt>
 
 Usuários de Mac encontram nos EUA a versão 1.1 do "Lotus Organizer". Vem com diversas agendas, que podem ser personalizadas. Traz dispositivo de alarme para avisar compromissos marcados. Preço: US$ 149. Tel. (001-617) 253-9150.
 
@@ -1860,9 +1860,9 @@ Quem gosta de ciclismo, mas não quer sair da frente do seu Mac pode conferir o m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-094</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-094</field>
+<field name="date">940608</field>
+<text_pt>
 Ecologistas de carteirinha podem explorar o mundo das baleias no CD-ROM "In the Company of Whales". O programa é da Discovery Channel e traz um vídeo de 45 minutos com narrações de especialistas sobre o assunto. Preço: US$ 49,95. Tel. (001-301) 986-0444.
 
 Quem utiliza programas para criação de animações com imagens tridimensionais encontra nos EUA "Visual Reality for Windows". O programa da Visual Software permite criar efeitos de volume e luz em uma imagem. Preço: US$ 595. Tel. (001-818) 883-7900.
@@ -1875,16 +1875,16 @@ A Fujitsu lançou nos EUA uma impressora matricial de nove agulhas por US$ 299. A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-095</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-095</field>
+<field name="date">940608</field>
+<text_pt>
 A Intercase lança uma maleta resistente a impactos para transporte de notebooks. A maleta possui casco de poliestireno e forração interna em tecido aveludado. Custa cerca de US$ 110 e pode ser encontrada na City Micro's (011 872-8330) e na RPS (011 270-3400).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-096</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-096</field>
+<field name="date">940608</field>
+<text_pt>
 Free-lance para a Folha
 Quem não quer perder nenhuma informação sobre a Copa pode consultar pela CompuServe o BBS da Fifa (organização que controla o futebol mundial).
 Pelo micro, você pode encontrar a história das Copas e saber quais os times que foram para as finais na Copa de 1974, por exemplo.
@@ -1900,9 +1900,9 @@ Outros serviços, como tendências, tecnologia e lazer, também estarão representad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-097</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-097</field>
+<field name="date">940608</field>
+<text_pt>
 
 
 Find: comando usado para encontrar os serviços disponíveis na CompuServe. Quem tem Mac ou usa o programa "Windows" no seu PC pode acionar na tela a figura representada por uma lupa.
@@ -1919,9 +1919,9 @@ Perguntas e respostas: para responder a alguma pergunta em um fórum, use o coman
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-098</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-098</field>
+<field name="date">940608</field>
+<text_pt>
 Rede comercial de dados permite acesso a cerca de 2.000 tipos de serviços; usuário pode participar de fórum
 MARIJÔ ZILVETI
 Free-lance para a Folha
@@ -1939,9 +1939,9 @@ Empresas como a Spectrum HoloByte estão representadas na rede pelo Game Publishe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-099</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-099</field>
+<field name="date">940608</field>
+<text_pt>
 JOAQUIM TORRES
 Free-lance para a Folha
 Acompanhando as grandes facilidades, já amplamente constatadas, trazidas pelos microcomputadores, vêm os grandes problemas.
@@ -1969,9 +1969,9 @@ JOAQUIM TORRES é engenheiro de computação pelo ITA e operador do PersoCom BBS SP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-100</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-100</field>
+<field name="date">940608</field>
+<text_pt>
 
 Função: sistema CAD (2D e 3D)
 
@@ -2018,9 +2018,9 @@ Recursos: tipo e número de recursos/serviços básicos e especiais de que o sistem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-101</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-101</field>
+<field name="date">940608</field>
+<text_pt>
 Do Banco de Dados
 Um programa de OCR (sigla em inglês para optical character recognition, reconhecimento óptico de caracteres) serve para converter arquivos gravados como imagem em arquivos com formato de texto.
 Quando um texto é digitalizado por um scanner, o computador reconhece o resultado como uma imagem. Para ser utilizado, deve ser transformado em arquivo com formato de texto.
@@ -2038,9 +2038,9 @@ Aplicações profissionais do programa, isto é, grandes e constantes massas de tex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940608-102</text_pt>
-<text_pt name="date">940608</text_pt>
-<text_pt name="text">
+<field name="id">FSP940608-102</field>
+<field name="date">940608</field>
+<text_pt>
 Máquina com 3.000 chips é responsável por funcionamento de "videowall" equivalente a 81 TVs de 38 polegadas
 Free-lance para a Folha
 Um micro 386 e um equipamento com cerca de 3.000 chips serão os responsáveis pela transmissão dos jogos da Copa no vale do Anhangabaú. Os lances de cada jogada poderão ser conferidos por quem for ao centro de São Paulo.

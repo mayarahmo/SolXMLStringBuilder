@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP941002-001</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-001</field>
+<field name="date">941002</field>
+<text_pt>
 Amanhã votam quase 100 milhões de brasileiros. Milhares de candidatos submetem-se à prova de fogo da avaliação popular. Terminadas as campanhas, esgotadas as possibilidades de debate e persuasão, cada eleitor poderá travar, em meio à enorme quantidade de opções, propostas, siglas e promessas, um diálogo profundo e solitário com seu país e seu Estado.
 Talvez o eleitor possa inspirar-se, nesse diálogo instantâneo e fundamental, na própria campanha. Ao contrário de 1989, quando a polarização e o radicalismo, os incidentes e as paixões predominaram, em 1994 chega-se às urnas com menos turbulência. O impeachment de Collor, a caça aos anões do Orçamento, o plebiscito parlamentarismo X presidencialismo, as mobilizações contra a fome e o esforço pela revisão constitucional foram episódios políticos que, independentemente do maior ou menor sucesso de cada um, colocaram a sociedade num diálogo intenso consigo mesma.
 Também ressalta em 1994 o número bem menor de candidatos presidenciais em comparação a 1989, quando mais de 20 disputaram a preferência do eleitorado. Esse afunilamento pode ser visto igualmente como expressão de mudanças na legislação eleitoral, algum amadurecimento e, quem sabe, esclarecimento.
@@ -13,9 +13,9 @@ De qualquer forma, é preciso ter presente que tudo o que há de ruim poderá ser p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-002</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-002</field>
+<field name="date">941002</field>
+<text_pt>
 A economia consiste num esforço permanente para adequar desejos e possibilidades. O mais difícil, entretanto, talvez não seja tanto identificar os limites para a satisfação de cada desejo, mas conseguir ou mesmo saber escolher entre sonhos alternativos.
 Quando se trata de economia, todos sonham com a estabilidade dos preços, com a distribuição de renda e com o desenvolvimento econômico. Cada alternativa é não apenas factível como legítima em termos sociais, políticos e éticos. Mas dificilmente os três sonhos podem tornar-se realidade ao mesmo tempo.
 O Plano Real coloca como prioridade indiscutível a conquista da estabilidade de preços. A tremenda façanha eleitoral que se desenha em seguida ao plano apenas confirma o quão legítima é essa escolha.
@@ -35,9 +35,9 @@ Diz-se que querer é poder. Mas quem tudo quer, tudo perde.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-003</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-003</field>
+<field name="date">941002</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Véspera de eleição, não penso nos candidatos nem nos eleitores. Penso no cidadão chamado Itamar Franco, nascido num navio da Costeira em águas baianas mas com vida e carreira política em Juiz de Fora.
 Em 1989, foi candidato a vice-presidente na chapa de Collor. Conseguiu ser obscuro apesar de senador da República e prefeito da cidade onde viveu. A impressão que o eleitorado guardou, daquele ano, é que Collor disputava a eleição sozinho, sem necessidade de vice.
@@ -48,9 +48,9 @@ Assumiu então, com algum constrangimento, o curioso papel de Rainha da Inglaterr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-004</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-004</field>
+<field name="date">941002</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; O Datafolha revela hoje um fato histórico: o presidente Itamar Franco é o político brasileiro mais sortudo de que se tem notícia. Podem pesquisar nos livros &#150;duvido que encontrem exemplo que chegue a seus pés.
 Segundo a pesquisa, ele tem hoje 81% de aprovação dos brasileiros. O plano econômico de seu governo está quase no mesmo patamar: 75%. É uma taxa que, até para começo de mandato, seria alta.
@@ -63,9 +63,9 @@ A julgar pelas pesquisas, estamos prestes a assistir um fato histórico: não apen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-005</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-005</field>
+<field name="date">941002</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Depois o pessoal ainda fica bravo quando alguém diz que o Brasil não passa de uma imensa república bananeira. Em qualquer país apenas um pouquinho mais sério do que o Brasil, todo mundo leva em conta que qualquer procedimento judicial pode terminar com uma de duas hipóteses: absolvição ou condenação dos acusados.
 No Brasil, não. Tome-se o caso dos crimes eleitorais de que são acusados os dois principais candidatos à Presidência, Fernando Henrique Cardoso e Luiz Inácio Lula da Silva. O TSE adiou para depois do primeiro turno uma decisão a respeito, mas ninguém com um dedo de juízo acredita que qualquer um dos dois possa ser condenado.
@@ -79,9 +79,9 @@ Em qualquer país, uma situação dessas seria considerada kafkiana. No Brasil, nin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-006</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-006</field>
+<field name="date">941002</field>
+<text_pt>
 Antonio Ermírio de Moraes
 O leitor já conhece a agudez de raciocínio do meu amigo Matias, fazendeiro de médio porte do interior de São Paulo. Ele me ligou na quinta-feira para expressar sua alegria ao ver que, finalmente, um juiz de Brasília decretou o sequestro dos bens de um ex-deputado do PMDB da Bahia &#150;um dos anões do Orçamento. O seu comentário, porém, veio logo acompanhado de uma pergunta, bem no estilo do Matias: Mas, será que ele vai devolver toda a "grana" que usufruiu?
 A sua preocupação tem procedência, pois a lentidão da Justiça para chegar aos "finalmentes" deu a essa gente um bom tempo para transformar certos bens em dinheiro vivo depositado no Brasil ou exterior, em seu nome ou em nome de "laranjas".
@@ -95,9 +95,9 @@ Antonio Ermírio de Moraes escreve aos domingos nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-007</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-007</field>
+<field name="date">941002</field>
+<text_pt>
 Com mais semanas passará a anestesia momentânea da queda da inflação
 LUIZ INÁCIO LULA DA SILVA
 Amanhã mais de 90 milhões de brasileiros terão em suas mãos, por alguns instantes, o poder de decidir como será o Brasil nos próximos quatro anos.
@@ -124,9 +124,9 @@ LUIZ INÁCIO LULA DA SILVA, 48, é candidato à Presidência da República pela colig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-008</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-008</field>
+<field name="date">941002</field>
+<text_pt>
 O país não acumulou só mazelas durante a crise; está pronto para crescer
 FERNANDO HENRIQUE CARDOSO
 A campanha presidencial é uma oportunidade única para colocar no lugar algumas peças-chave que ajudam a entender o enorme quebra-cabeças que é a sociedade brasileira.
@@ -153,9 +153,9 @@ FERNANDO HENRIQUE CARDOSO, 63, sociólogo, é senador pelo PSDB de São Paulo e can
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-009</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-009</field>
+<field name="date">941002</field>
+<text_pt>
 "Tive uma agradável surpresa ao receber o exemplar do último domingo desta Folha, que anunciava o lançamento do `Dicionário Aurélio' em fascículos. Iniciativas como esta, além de contribuir decisivamente para o ensino e a valorização da língua, viabilizam o acesso aos bens culturais à grande parcela da população brasileira e não apenas a uma privilegiada elite."
 Olavo Batista Duarte Filho (Belo Horizonte, MG)
 
@@ -193,9 +193,9 @@ João Carlos Ferreira, do Conselho Regional de Serviço Social (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-010</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-010</field>
+<field name="date">941002</field>
+<text_pt>
 Após o movimento militar de 64, boa parte dos exilados brasileiros concentrou-se em Santiago, no Chile.
 Sem horizonte político imediato, decidiram estudar a realidade brasileira à distância. Assim nasceu o Seminário de Santiago.
 A cada sábado, sociólogos e economistas como Fernando Henrique Cardoso, Maria da Conceição Tavares, Francisco Weffort e Carlos Lessa, além de políticos como Almino Affonso, Paulo de Tarso e Plínio de Arruda Sampaio reuniam-se, por horas a fio, para debater os rumos do Brasil.
@@ -206,16 +206,16 @@ No caminho, referindo-se ao esforço dos colegas para demonstrarem capacidade int
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-011</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-011</field>
+<field name="date">941002</field>
+<text_pt>
 Mais de 900 pessoas morreram no naufrágio da balsa Estonia, terça-feira, na costa da Finlândia. O acidente foi provocado por entrada de água pela porta de embarque e desembarque dos carros no navio. As buscas às vítimas foram interrompidas na quarta. Havia poucas chances de sobreviver na água do mar Báltico, a menos de 10øC, com ventos de 90 km/h e ondas de dez metros de altura. A balsa transportava 1049 passageiros na linha entre Tallin (Estônia) e Estocolmo (Suécia). Os sobreviventes foram levados a hospitais suecos e finlandeses. O Estonia foi localizado anteontem a 80 m de profundidade na área do naufrágio.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-012</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-012</field>
+<field name="date">941002</field>
+<text_pt>
 Daqui a 48 horas, ou a partir do dia seguinte à votação, os preços dos produtos de consumo constante voltam a subir. Quem o diz não é um dos economistas do PT, mas o presidente da Associação Brasileira de Supermercados, Levy Nogueira, e o vice-presidente da Associação Paulista de Supermercados, Firmino Rodrigues Alves, com inesperável franqueza empresarial. Franqueza tão mais surpreendente quanto foge, apenas dois dias antes das eleições, à contenção &#150; verbal e dos preços &#150; combinada com a candidatura de Fernando Henrique Cardoso.
 Tranquilizados pelas pesquisas eleitorais, os marcadores dos preços, na verdade, não esperaram passar o 3 de outubro. O que Nogueira e Alves disseram, a rigor, é que a partir da semana que vem, os preços vão se acelerar mais. Porque já na semana agora encerrada os preços dos produtos básicos subiram 4% em São Paulo. Nos cinco dias de segunda a sexta, subiram quase três vezes mais do que a inflação de um mês pelo último IPC-r, o índice criado para o real.
 Por pequeno que seja, há um certo risco na ansiedade com que os donos dos preços retomam os seus hábitos. As pesquisas eleitorais prometem, mas não asseguram, a vitória do seu candidato no primeiro turno. Se, no entanto, isso não acontecer, a pressa dos preços, elevando-os antes de concluída a apuração, vai produzir seus efeitos no segundo turno contra o candidato do empresariado.
@@ -226,9 +226,9 @@ O procurador-geral Aristides Junqueira chega a aventar a possibilidade de perda 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-013</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-013</field>
+<field name="date">941002</field>
+<text_pt>
 Correção automática pelo IPC-r não constava da proposta original do plano
 CARLOS ALBERTO SARDENBERG
 Da Reportagem Local
@@ -248,9 +248,9 @@ Assim, por exemplo, as categorias com data-base de novembro a junho teriam reaju
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-014</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-014</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Não haverá pacote após as eleições. Mas, vencendo FHC, a equipe econômica se sentirá autorizada a avançar o Plano Real. Alguns desdobramentos mais prováveis:
 Taxa de câmbio -o dólar permanece mais ou menos como está. Pode subir um pouco, mas continuará barato. Dólar barato é forte estímulo à importação e ameaça a quem pretende elevar preço aproveitando aquecimento de consumo.
@@ -260,9 +260,9 @@ Esses desdobramentos estão nos projetos da equipe e seguem a lógica do plano. Só
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-015</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-015</field>
+<field name="date">941002</field>
+<text_pt>
 Ministro volta a dizer que preço do combustível cai
 ANTONIO CARLOS SEIDL
 Enviado especial a Madri
@@ -283,9 +283,9 @@ Ciro revelou que m seu encontro com Larry Summers, o sub-secretário do Tesouro d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-016</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-016</field>
+<field name="date">941002</field>
+<text_pt>
 VIVALDO DE SOUSA
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -303,9 +303,9 @@ Apesar de já estarem sendo discutidas, as mudanças ficaram para outubro porque, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-017</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-017</field>
+<field name="date">941002</field>
+<text_pt>
 Esta coluna, foi publicada com um erro de concordância: no terceiro parágrafo da terceira coluna, o adjetivo inebriadas deveria estar no masculino para concordar com alemães do leste.
 
 ERRAMOS
@@ -339,9 +339,9 @@ Ninguém, nenhum brasileiro tem o direito de desejar-lhe má sorte. Por via das dú
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-018</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-018</field>
+<field name="date">941002</field>
+<text_pt>
 O leitor terá percebido que sou meio dado a umas palavras que raramente aparecem em jornal e inteiramente avesso a outras que nunca deveriam aparecer nele. É que estou convencido de que o jornalismo brasileiro precisa urgentemente de um choque de português.
 Não, não é piada. Só que se escreve muito mal nas páginas que você paga para ler. As raras exceções que confirmam a regra estão na secura veraz de Janio de Freitas, no escracho revelador de José Simão, nos paradoxos iluminados de Marcelo Coelho &#150;para citar somente a prata da casa.
 A modo de um programa mínimo, ou minimalista, estou disposto a prestar o máximo de atenção a essas desprezadas miudezas. Alguém já disse que Deus está nos detalhes, mas prefiro uma variante mais ácida, ela também alemã: é o diabo que se esconde nos detalhes.
@@ -356,9 +356,9 @@ MARCELO LEITE é o ombudsman da Folha. O ombudsman tem mandato de um ano, renováv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-019</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-019</field>
+<field name="date">941002</field>
+<text_pt>
 Dicionários incorporam todo o tempo novas palavras e expressões
 Da Reportagem Local
 No próximo dia 10 de outubro, começa a circular o "Novo Dicionário Básico da Língua Portuguesa Folha/Aurélio". A obra em 19 fascículos, contém mais de 70 mil verbetes, entre os quais diversos neologismos. Uma das qualidades de um dicionário está em sua capacidade de assimilar as mudanças da língua.
@@ -375,9 +375,9 @@ Somente em 1813, Morais publicou uma edição da qual se reconhecia autor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-020</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-020</field>
+<field name="date">941002</field>
+<text_pt>
 RICARDO SEMLER
 De um jeito ou de outro, amanhã é dia de festa por ser a coma dos bandidões. Vade retro a fauna variada da história medieval da política brasileira.
 Tá certo que fauna nunca acaba, e por isso pintam no cenário os divertidos Enéas da vida. A política, não nos enganemos, precisa de gente assim, do mesmo jeito que as colunas sociais precisam de um Chiquinho Scarpa. Entertainment...
@@ -393,9 +393,9 @@ O problema do Lula é que ele não "orna" com a Presidência. Nisto cabe cara, roup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-021</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-021</field>
+<field name="date">941002</field>
+<text_pt>
 ITAMAR FRANCO
 "Nada se deixou de fazer em função das eleições; nada se fará depois apenas porque as eleições terão passado."
 O real faz três meses. Os brasileiros puderam testemunhar como se foi cumprindo a promessa da queda da inflação e como se foi consolidando a estabilidade. Como um sonho feito real, estamos vendo o Brasil recuperar o otimismo e alimentar uma pespectiva positiva à frente. Quaisquer que sejam os resultados das eleições, nos diversos níveis, os candidatos vitoriosos terão por tarefa não mais consertar uma economia em crise, mas sim consolidar a estabilidade e ampliar os benefícios que ela já vem trazendo, sobretudo aos mais pobres, aos que vivem de salário.
@@ -410,9 +410,9 @@ ITAMAR FRANCO, 63, é presidente da República
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-022</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-022</field>
+<field name="date">941002</field>
+<text_pt>
 Elvis Presley nasceu em Tupelo, no Estado norte-americano de Mississipi, e não em Memphis, como foi erroneamente informado. Elvis morreu em Memphis, no dia 16 de agosto de 1977, aos 42 anos. Viveu quase toda sua vida na cidade.
 
 ERRAMOS
@@ -429,9 +429,9 @@ Nesta cidade, em um antigo colégio reformado e transformado em laboratório super
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-023</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-023</field>
+<field name="date">941002</field>
+<text_pt>
 Iniciativa privada precisa investir na expansão de produção e mercados
 JOÃO PAULO DOS REIS VELLOSO
 A realização da pleito presidencial leva a uma reflexão sobre o nosso futuro econômico.
@@ -460,9 +460,9 @@ JOÃO PAULO DOS REIS VELLOSO, 63, é superintendente-geral do Instituto Nacional d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-024</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-024</field>
+<field name="date">941002</field>
+<text_pt>
 Os empregados eleitores que forem nomeados para compor as mesas receptoras, nas eleições de 1994, mediante comprovação expedida pela Justiça Eleitoral, serão dispensados do serviço no dia seguinte ao da eleição e ao do eventual segundo turno. (Fund.: artigo 21, lei 8.713/93)
 
 Contribuição previdenciária
@@ -486,9 +486,9 @@ As notas desta coluna foram fornecidas pela IOB-Informações Objetivas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-025</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-025</field>
+<field name="date">941002</field>
+<text_pt>
 ANTONIO KANDIR
 Chegamos à véspera das eleições de 3 de outubro. Há seis meses, para não dizer menos, quem poderia prever que o quadro eleitoral seria este, com FHC podendo tornar-se presidente da República sem necessidade de um segundo turno?
 Ninguém discute que a causa imediata da decolagem do candidato do PSDB rumo à liderança tenha sido o Plano Real. Tampouco cabe dúvida sobre sua importância na sustentação da candidatura tucana em patamar superior a 50% dos votos válidos. Mas não creio que o plano baste para explicar a grande convergência nacional que estamos assistindo em torno e sob a liderança de FHC.
@@ -509,9 +509,9 @@ ANTONIO KANDIR, 41, engenheiro, doutor em Economia, foi secretário de Política E
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-026</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-026</field>
+<field name="date">941002</field>
+<text_pt>
 Semana de 26 a 30 de setembro
 EM ALTA
 CHEQUES
@@ -526,9 +526,9 @@ Os preços no atacado caíram em média 0,89% na semana de 20 a 27 de setembro, seg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-027</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-027</field>
+<field name="date">941002</field>
+<text_pt>
 Os homens que comandam a especulação com feijão no Brasil cabem numa kombi. Se a Fazenda, a Receita ou a Polícia Federal quiser conhecê-los pessoalmente, é simples.
 Basta descer na Estação da Luz, em São Paulo, atravessar a Duque de Caixas, entrar na rua Mauá e dobrar na última à direita, a rua da Cantareira.
 Lá opera a famosa "Bolsinha", um foco especulativo com décadas de existência, que ainda não foi varrido do mapa pelos ventos da modernização.
@@ -547,9 +547,9 @@ Em outros tempos, uma das virtudes da magistratura, tanto na Justiça quanto no f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-028</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-028</field>
+<field name="date">941002</field>
+<text_pt>
 MARISTELA MAFEI
 Da Reportagem Local
 O grupo Brasmotor, dono da Brastemp e da Consul, volta às Bolsas de Valores pela segunda vez em menos de dois meses para tentar vender sua participação acionária na São Paulo Alpargatas.
@@ -569,9 +569,9 @@ Nessas situações, é praxe as empresas se pronunciarem somente depois de comunica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-029</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-029</field>
+<field name="date">941002</field>
+<text_pt>
 O êxito do Plano Real dependerá da capacidade de FHC de agir no momento propício, ou seja, enquanto é tempo
 EDUARDO GIANNETTI
 Especial para a Folha
@@ -594,9 +594,9 @@ EDUARDO GIANNETTI DA FONSECA, 37, é professor da Faculdade de Economia da USP e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-030</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-030</field>
+<field name="date">941002</field>
+<text_pt>
 JOSÉ ROBERTO CAMPOS
 Editor de Economia
 O novo governo assume em 95 ou após o resultado das urnas? Para a política econômica, feita sob medida para um candidato, a resposta é óbvia. A equipe que entrou no governo com um ministro da Fazenda sob risco, como qualquer outro no governo Itamar, é a mesma que conduziu a vitória de FHC e que dirigirá a transição.
@@ -613,9 +613,9 @@ Hoje, excepcionalmente, deixamos de publicar a coluna de LUIZ CARLOS MENDONÇA DE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-031</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-031</field>
+<field name="date">941002</field>
+<text_pt>
 Enfim, há a possibilidade de superação da profunda crise econômica que o país atravessa desde o fim dos anos 70
 ÁLVARO ANTÔNIO ZINI JR.
 Nesta segunda-feira teremos, por fim, a esperada eleição para presidente, Congresso e governadores. Sem dúvida, é uma dessas eleições capazes de marcar uma virada fundamental na história do país.
@@ -644,9 +644,9 @@ Atentar para as mudanças em curso, participar e influenciar no cenário internaci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-032</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-032</field>
+<field name="date">941002</field>
+<text_pt>
 DEMIAN FIOCCA
 Os excepcionais dividendos que o combate à inflação deram a FHC podem obscurecer a importância da agenda social em seu provável governo. Nesse sentido pesam não apenas as alianças conservadoras e os compromissos com grandes interesses privados, mas, também, por assim dizer, a própria lógica dos fatos.
 É natural que na administração de conflitos os maiores ônus recaiam sobre as partes mais fracas. Não é por acaso que a miséria, a desigualdade gritante e o descalabro nos serviços sociais persistem.
@@ -658,9 +658,9 @@ DEMIAN FIOCCA, 26, é economista e pós-graduando do curso de Economia da Universi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-033</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-033</field>
+<field name="date">941002</field>
+<text_pt>
 Uma lição a ser aprendida é que as autoridades devem evitar confissões parabólicas e declarações temerárias
 OSIRIS LOPES FILHO
 Especial para a Folha
@@ -688,9 +688,9 @@ OSIRIS DE AZEVEDO LOPES FILHO, 55, é professor de Direito Tributário e Financeir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-034</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-034</field>
+<field name="date">941002</field>
+<text_pt>
 As Bolsas de Valores não conseguiram liderar o ranking das aplicações financeiras em setembro.
 O Índice Bovespa registrou alta de apenas 2,90% no mês, perdendo para a renda fixa. O Índice Senn, do Rio, evoluiu 11,21%, mas não é um bom parâmetro.
 Os índices são muito concentrados em poucas ações de estatais, principalmente em São Paulo. Telebrás vale quase metade do Ibovespa. Mas os fundos de ações têm carteiras diversificadas e mostram que o Ibovespa reflete melhor o comportamento do mercado. Na média, subiram 2,42% até 29 de setembro.
@@ -699,9 +699,9 @@ A provável tributação pelo IOF não deve impedir a vinda de mais dólares para as 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-035</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-035</field>
+<field name="date">941002</field>
+<text_pt>
 MARCOS CINTRA
 "Somente após a grande revolução da informática, a idéia de um imposto único passou da utopia simplista a uma possibilidade prática..."
 Roberto Campos
@@ -717,9 +717,9 @@ MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE, 48, doutor em Economia pela Universidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-036</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-036</field>
+<field name="date">941002</field>
+<text_pt>
 Dados da Anbid mostram que os fundos de renda fixa tradicionais acumularam rentabilidade bruta de 2,42% até o último dia 29.
 Embora parcial, este balanço indica que devem ter fechado o mês com rentabilidade bem menor que o segmento de renda fixa, que ficou na faixa de 3% líquidos.
 Foi um comportamento atípico, explicado pela influência que a expectativa das eleições exerce sobre investidores nacionais e estrangeiros.
@@ -728,9 +728,9 @@ Por terem carteiras de papéis diversificadas e estratégias próprias de atuação n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-037</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-037</field>
+<field name="date">941002</field>
+<text_pt>
 As cotações das linhas telefônicas vendidas no mercado livre de São Paulo subiram 6,16%, em média, em setembro.
 Os dados baseiam-se em uma amostra de dez linhas pesquisadas pelo Datafolha. Todas subiram. A maior alta foi na Penha, com 10,92%, seguida por Santana, 10,11%, Guarani, 8,47%, e Alphaville, 7,11%. As menores altas foram registradas no Jaguaré, com 0,16%, e Ipiranga, com 3,56%.
 A linha mais cara, de Tiradentes, fora da amostra, encareceu 1,5%. Vale R$ 9.414.
@@ -738,9 +738,9 @@ LEIA MAIS sobre este mercado no caderno Tudo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-038</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-038</field>
+<field name="date">941002</field>
+<text_pt>
 Para proteger o Plano Real de desgaste por causa da retomada da inflação, governo terá de tomar medidas duras
 Da "Agência Dinheiro Vivo"
 O mercado financeiro encerrou a semana passada com duas certezas: 1) o candidato Fernando Henrique Cardoso ganha amanhã a Presidência da República, dispensando a existêncis de segundo turno; 2) se a equipe econômica do governo pretende salvar o Plano Real, medidas amargas terão de ser adotadas logo.
@@ -756,9 +756,9 @@ Se persistirem as pressões provenientes dos alimentos e do aluguel, a elevação t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-039</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-039</field>
+<field name="date">941002</field>
+<text_pt>
 Da "Agência Dinheiro Vivo"
 A tendência dos juros nominais é de alta. Por causa da inflação e porque se aproxima a data final para as novas regras do compulsório, dia 28, há maior pressão sobre as taxas. Assim, o contrato de capital de giro pré é a melhor opção de crédito.
 Pelas mesmas razões, conta garantida deve ser evitada: o custo nominal é maior porque outubro tem 19 dias úteis e setembro 21; os juros do giro pré estão fixos com base nessa variação. Já a conta garantida tem taxas flutuantes, acompanhando o CDI. Confirmada a alta da inflação, os juros sobem e encarecem o crédito.
@@ -767,9 +767,9 @@ Entre as opções de renda fixa, a pior é o CDB pré: o principal pecado é a defini
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-040</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-040</field>
+<field name="date">941002</field>
+<text_pt>
 Investidor mais conservador deve continuar na renda fixa porque os juros vão continuar acima da inflação
 GABRIEL J. DE CARVALHO
 Da Redação
@@ -788,9 +788,9 @@ Aplicações e resgates de fundos de ações são feitos no chamado D+1. A conversão 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-041</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-041</field>
+<field name="date">941002</field>
+<text_pt>
 Quem fez a declaração do Imposto de Renda até 1983, ano-base 82, pode ter um patrimônio em ações sem saber disto.
 Até aquela época, o contribuinte podia aplicar parte do imposto devido nos chamados Fundos 157.
 Estes fundos foram transformados ou incorporados em fundos mútuos de ações. As quotas foram liberadas para saque gradualmente, a partir de 1986. Desde janeiro de 94 estão todas liberadas.
@@ -800,9 +800,9 @@ Em São Paulo, a CVM informa pelo telefone 223-8211, ramais 224 ou 225. No Rio, p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-042</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-042</field>
+<field name="date">941002</field>
+<text_pt>
 Este é um dos riscos de perder o prazo nas tarifas públicas
 LUZ
 A multa é de 10%, cobrada na conta seguinte. Após o 11º dia de atraso, o consumidor fica sujeito ao corte do fornecimento. Para a religação é preciso pagar a dívida e uma taxa que varia de acordo com o sistema: monofásico, R$ 1,83; bifásico (onde se enquadra a maioria das residências), R$ 2,61; e trifásico, R$ 7,83.
@@ -816,9 +816,9 @@ Fontes: Eletropaulo, Telesp, Sabesp e Comgás
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-043</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-043</field>
+<field name="date">941002</field>
+<text_pt>
 Segurados do INSS (Instituto Nacional do Seguro Social) que se aposentarem este mês precisarão se contentar com um benefício de R$ 582,86, mesmo que a média dos salários-de-contribuição nos últimos 36 meses fique acima deste valor.
 No caso de segurados que contribuíram pelo valor máximo nos últimos 36 meses e já completaram o tempo de serviço exigido para a obtenção da aposentadoria integral, a média dos salários no período encosta em R$ 600.
 Cálculos preliminares, incluindo o IPC-r de 1,51% de setembro, indicam que a média chegará a R$ 597,79. A lei 8.213/91, entretanto, não permite que os salários-de-benefício superem o teto de R$ 582,86.
@@ -831,9 +831,9 @@ Mas, em qualquer situação, o teto do salário-de-benefício equivale a R$ 582,86, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-044</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-044</field>
+<field name="date">941002</field>
+<text_pt>
 Empresa exporta limpadores de pára-brisas para 63 países, mas trabalha para ampliar participação no exterior
 NELSON BLECHER
 Da Reportagem Local
@@ -844,9 +844,9 @@ Em entrevista à Folha, o presidente e o diretor industrial Azuma Yoshioka narram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-045</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-045</field>
+<field name="date">941002</field>
+<text_pt>
 Fundada em 1955 para produzir farol de bicicleta, a Dyna passou a fornecer, seis anos depois, sistemas de limpadores de pára-brisas para a nascente indústria automobilística, com tecnologia da Trico inglesa. A Dyna operou sob essa licença até 1979, quando rompeu o acordo de tecnologia que restringia as exportações.
 As vendas externas representam atualmente um terço do faturamento. Temos participação elevada, de 19%, no mercado de reposição de limpadores de pára-brisas na Alemanha e penetração em patamar semelhante na Grécia e Finlândia, por exemplo. A Volvo sueca, a Daf holandesa e a United Technologies, que produz veículos especiais nos EUA, figuram no portfolio de clientes, ao lado da maioria das montadoras que opera no país.
 Estamos trabalhando com afinco para obter, entre junho e setembro de 1995, o certificado de qualidade ISO 9000, que será indispensável para as empresas que quiserem continuar operando no mercado internacional. Estamos também aperfeiçoando uma série de procedimentos que foram fruto de uma reestruturação iniciada há seis anos, sob monitoração da consultoria Coopers &amp; Lybrand. ESTOQUES À MCDONALD'S 
@@ -877,9 +877,9 @@ Uma das novidades mais recentes foi uma radical mudança nas embalagens, que pass
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-046</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-046</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Nos próximos anos, as atividades empresariais deverão ser completamente diferentes do que são hoje. Qualidade, produtos, competitividade e comportamento do consumidor serão regidos por outros conceitos.
 O retrato de como será o novo mundo dos negócios foi montado por Victor Eduardo Báez, sócio da auditoria e consultoria Coopers &amp; Lybrand.
@@ -901,9 +901,9 @@ O respeito ao meio ambiente será uma necessidade e as empresas vão buscar trabal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-047</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-047</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 A série de palestras sobre "A Busca da Qualidade Total" prossegue excepcionalmente nesta terça, devido às eleições. Às 19h30, José Joaquim do Amaral Ferreira, diretor da Fundação Carlos Alberto Vanzolini, falará sobre "Como conseguir a ISO 9000".
 No dia 10 será a vez do diretor-geral da Rummler Brache Groupe no Brasil, Ricardo Amoroso, expor o tema "Reengenharia: transformando radicalmente as organizações".
@@ -912,9 +912,9 @@ O ciclo sobre qualidade ocorre sempre às 19h30, no auditório da Folha, à al. Bar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-048</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-048</field>
+<field name="date">941002</field>
+<text_pt>
 Esta é a conclusão de dois especialistas que analisaram as novas regras do IOF sobre as aplicações financeiras
 FIDEO MIYA
 Da Reportagem Local
@@ -937,9 +937,9 @@ Em suas simulações, Dutra constatou que, para juro e Ufir empatados em 1% ao mês
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-049</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-049</field>
+<field name="date">941002</field>
+<text_pt>
 JOÃO CARLOS DE OLIVEIRA
 Da Reportagem Local
 "Acredite no Brasil, mas usando os mesmos instrumentos do investidor estrangeiro."
@@ -963,9 +963,9 @@ O risco que se está comprando é o Brasil. Se o país der errado, o rendimento pod
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-050</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-050</field>
+<field name="date">941002</field>
+<text_pt>
 Muçulmanos e sérvios da Bósnia firmaram um acordo que prevê troca de prisioneiros, remoção médica de pessoas doentes e a movimentação livre de comboios de assistência humanitária. A informação foi divulgada ontem por Claire Grimes, uma porta-voz da ONU. 
 
 ONU quer segurança em campo ruandês 
@@ -988,9 +988,9 @@ A República de Palau &#150;ilha localizada no oceano Pacífico&#150; deixou ontem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-051</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-051</field>
+<field name="date">941002</field>
+<text_pt>
 Crescem os rumores de que as tropas americanas são tolerantes com o governo militar
 CLÁUDIO JULIO TOGNOLLI
 Enviado especial a Porto Príncipe
@@ -1008,9 +1008,9 @@ A próxima semana vai ser o teste para as declarações de Schrager. Militares fiéi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-052</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-052</field>
+<field name="date">941002</field>
+<text_pt>
 Do enviado especial
 A irmã Davina da Paz Cardoso, 57, está há sete anos no Haiti e já viu cinco golpes de Estado. A reportagem da Folha surpreendeu-a em uma de suas raras passagens por Porto Príncipe.
 Estava dando sinal de vida ao secretário José Soares Júnior, embaixador interino do Brasil no Haiti. "Acompanho de perto a trajetória da irmã e quando ela some, procuro-a pelo rádio", diz Soares.
@@ -1036,9 +1036,9 @@ Irmã Davina - Não. Ficar aqui é minha missão. Tenho certeza que o povo vai resis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-053</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-053</field>
+<field name="date">941002</field>
+<text_pt>
 De Washington
 Americanos fabricam os seus tênis em toda parte
 SALLY TISDALE
@@ -1063,9 +1063,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-054</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-054</field>
+<field name="date">941002</field>
+<text_pt>
 CARL WEISER
 Do "USA Today"
 Se o recém-lançado livro "No Ordinary Time" fosse escrito como grafitagem de muro, diria simplesmente: "Franklin ama Eleanor".
@@ -1087,9 +1087,9 @@ Enquanto Roosevelt concentrava suas atenções na guerra, Eleanor se concentrava n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-055</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-055</field>
+<field name="date">941002</field>
+<text_pt>
 The New York Times
 Informa, citando fontes do governo dos EUA, que as tropas no Haiti não estão agindo para manter a ordem porque o comando do Exército rejeitou envolver-se diretamente em ações policiais.
 
@@ -1104,9 +1104,9 @@ O jornal dirigido pelo filho do presidente iraquiano Saddam Hussein, Uday, diz q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-056</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-056</field>
+<field name="date">941002</field>
+<text_pt>
 Das agências internacionais
 A Procuradoria Geral da República mexicana negou anteontem à noite que Fernando Rodríguez Gonzáles tenha sido preso. Rodríguez é assessor do deputado Manuel Mu¤oz Rocha, do Partido Revolucionário Institucional (PRI), e teria hospedado o assassino do secretário-geral do partido.
 José Francisco Ruiz Massieu foi morto com um tiro na quarta-feira na cidade do México. Daniel Aguilar Trevi¤o, 28, foi preso em flagrante minutos depois.
@@ -1118,9 +1118,9 @@ O jornal "El Financiero" citou fontes do serviço secreto dos EUA dizendo que os 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-057</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-057</field>
+<field name="date">941002</field>
+<text_pt>
 O prefeito de Diadema, José Filippi (foto), do PT, anunciou que o município vai assumir os serviços de água e esgoto no prazo de 40 dias, através da Saned, empresa criada em 93 para substituir a Sabesp na cidade. Filippi disse que pretende reduzir as tarifas em 40%.
 
 O NÚMERO
@@ -1131,9 +1131,9 @@ A rua Juriti, em Moema (zona sul), está desde ontem com mão única no sentido ave
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-058</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-058</field>
+<field name="date">941002</field>
+<text_pt>
 Justiça de SP entende que diarista também deve ganhar décimo-terceiro e férias
 EUNICE NUNES
 Especial para a Folha
@@ -1153,9 +1153,9 @@ As mesmas recomendações aplicam-se às empregadas domésticas que trabalham por mê
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-059</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-059</field>
+<field name="date">941002</field>
+<text_pt>
 LUIZ FLÁVIO GOMES
 Enquanto os demais Estados continuam ancorados na apática, infundada e infértil discussão em torno da constitucionalidade da iniciativa legislativa sobre os juizados especiais previstos no art. 98, I, da CF, Mato Grosso do Sul, em primeiro lugar (pela lei 1.071/90), e, agora, também Mato Grosso (pela lei 6.176/93), já praticam, com indiscutível eficácia e aceitação social, particularmente no âmbito criminal, um verdadeiro e moderno modelo de Justiça participativa e resolutiva.
 Pode-se dizer que neste campo, como em tantos outros, mudou por completo o assim chamado epicentro da modernidade, do avanço e do progresso. Para quem está em São Paulo, por exemplo, já não é preciso cruzar o Atlântico para conhecer o que há de mais avançado e mais atual em termos de Justiça criminal: basta atravessar o rio Paraná!
@@ -1168,9 +1168,9 @@ LUIZ FLÁVIO GOMES, 36, juiz de direito em São Paulo, é mestre em direito penal p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-060</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-060</field>
+<field name="date">941002</field>
+<text_pt>
 WALTER CENEVIVA
 A advogada estava nitidamente aborrecida, manifestando até certa irritação, quando me disse em tom definitivo:
 "&#150; Nunca mais citarei esse sujeito!"
@@ -1184,9 +1184,9 @@ Há várias lições a tirar desses episódios. A primeira é a de que o homem público
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-061</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-061</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Até agora apenas o Corinthians manifestou publicamente interesse em comprar o Pacaembu. Entre os times grandes de São Paulo, o Corinthians é o único que não tem um estádio com capacidade para sediar jogos de competições importantes.
 O vice-presidente de futebol do clube, Romeu Tuma Júnior, disse que o Corinthians espera a aprovação da lei da privatização para fazer a proposta. "O Pacaembu tem tudo a ver com o Corinthians. Já sediou muitos jogos importantes do time e a torcida está acostumada com ele", disse Tuma Júnior.
@@ -1197,9 +1197,9 @@ Del Grande descartou a hipótese de o Palmeiras comprar o Pacaembu. "Não poderíam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-062</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-062</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 A venda do Pacaembu é questionada dentro da própria prefeitura. O secretário municipal de Esportes, Lazer e Recreação, José Eduardo Mesquita Pimenta &#150;a quem a administração do estádio está subordinada&#150;, diz que o problema dos prejuízos tem solução.
 Pimenta, 56, disse que no início do Campeonato Brasileiro, em agosto, a secretaria baixou portaria que faz cumprir um decreto anterior da prefeitura sobre a distribuição da arrecadação do estádio.
@@ -1213,9 +1213,9 @@ Para Bressane, "o estádio é deficitário por problemas administrativos".(ARF)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-063</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-063</field>
+<field name="date">941002</field>
+<text_pt>
 MAURICIO STYCER
 Da Reportagem Local
 Seguir os passos de Fernando Henrique por São Paulo, desde o momento em que a família Cardoso chegou do Rio pela primeira vez, em 1940, é procurar por várias cidades que não existem mais.
@@ -1241,9 +1241,9 @@ Em uma segunda ocasião, FHC se mudou quando a violência urbana bateu em sua port
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-064</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-064</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Em 1940, Fernando Henrique morou menos de um ano na rua Santa Adelaide, antes de voltar ao Rio. A sua primeira visão da cidade não poderia ter sido melhor.
 Ruazinha de dois quarteirões, que nasce na avenida Francisco Matarazzo e termina na rua Turiaçu, a Santa Adelaide (hoje Lincoln Albuquerque) conserva alguns belos casarões da época, amoreiras na calçada e moradores saudosos de uma época em que o ônibus da linha Lapa não passava por ali.
@@ -1251,9 +1251,9 @@ Ruazinha de dois quarteirões, que nasce na avenida Francisco Matarazzo e termina
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-065</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-065</field>
+<field name="date">941002</field>
+<text_pt>
 Em 1960, a rua foi rebatizada e passou a se chamar Lincoln Albuquerque. No início dos anos 70, em consequência da abertura do Minhocão, a pequena rua passou a integrar a rota de ônibus, acabando com a tranquilidade de quem mora lá
 1942/1948 - A família Cardoso volta a morar em São Paulo, agora na av. General Olímpio da Silveira, 136/2º andar, na Barra Funda
 Reformado e desfigurado pelos letreiros de uma revendedora de automóveis, o prédio hoje abriga um consórcio de veículos (foto). Do 2º andar, só vêem os carros que passam pelo Minhocão, a cinco metros de distância
@@ -1276,9 +1276,9 @@ Supervalorizado, Higienópolis hoje enfrenta a ameaça de construção de um shoppin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-066</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-066</field>
+<field name="date">941002</field>
+<text_pt>
 LUÍS EDUARDO LEAL
 Da Reportagem Local
 A São Paulo de Lula era a de todo imigrante nordestino pobre que chegava à cidade nos anos 50 &#150;vários dias no pau-de-arara até alcançar a estação ferroviária do Brás, na região central, em 1952.
@@ -1305,9 +1305,9 @@ Muitas casas, mesmo as mais caras, têm placas em que são oferecidos serviços de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-067</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-067</field>
+<field name="date">941002</field>
+<text_pt>
 Lula, os sete irmãos e a mãe, Eurídice, chegam em um pau-de-arara na estação do Brás (FOTO), em São Paulo, após viagem iniciada 13 dias antes em Garanhuns (PE). Seguem de táxi até Vicente de Carvalho, no Guarujá (Baixada Santista), onde Lula encontra o pai, Aristides.
 1953/54
 A família descobre que Aristides de Garanhuns com a prima de Eurídice, sua mulher. Eles se separam. Lula e "Frei" Chico, seu irmão mais velho, passam a vender amendoim e tapioca para ajudar a família. Alfabetização.
@@ -1352,9 +1352,9 @@ Lula já não frequenta mais a mercearia perto de sua casa, onde costumava tomar c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-068</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-068</field>
+<field name="date">941002</field>
+<text_pt>
 Dois anos depois, ex-comandante da PM adota número de mortos no Carandiru em campanha para Assembléia
 DANIEL CASTRO
 Da Reportagem Local
@@ -1375,9 +1375,9 @@ O governo do Estado proibiu a Folha de entrar na Casa de Detenção sobre o aniver
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-069</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-069</field>
+<field name="date">941002</field>
+<text_pt>
 MOACYR SCLIAR
 &#150; Esta história do rapaz que se apaixonou pela moça ao vê-la correr a maratona é muito romântica &#150;disse ela&#150;. Mas infelizmente não é a regra.
 &#150; Como é que você sabe? &#150; perguntei.
@@ -1397,9 +1397,9 @@ MOACYR SCLIAR
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-070</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-070</field>
+<field name="date">941002</field>
+<text_pt>
 VICTOR AGOSTINHO
 Enviado especial ao sul da Bahia
 Com alguma lábia e pouco dinheiro qualquer pessoa pode comprar animais silvestres no sul da bahia. Apesar de caça e comércio serem proibidos por lei federal &#150;crime inafiançável&#150;, a captura desses animais dentro das reservas faz parte do cotidiano da região.
@@ -1427,9 +1427,9 @@ Caminha diz que a partir desta semana o cenário de caminhões repletos de toras c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-071</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-071</field>
+<field name="date">941002</field>
+<text_pt>
 Do enviado especial
 Um levantamento feito pelo ornitólogo Dante Martins Teixeira, da Universidade Federal do Rio Janeiro, identificou a presença de 24 espécies de animais ameaçadas de extinção na reserva Vera Cruz, situada entre os municípios de Cabrália e Porto Seguro.
 A reserva tem 6.080 hectares (aproximadamente 6.080 campos de futebol) e pertence à Vera Cruz Florestal, uma empresa do grupo Odebrecht.
@@ -1445,9 +1445,9 @@ ERRAMOS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-072</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-072</field>
+<field name="date">941002</field>
+<text_pt>
 O Conselho Deliberativo do clube decidiu na noite de sexta-feira afastar José Eduardo Mesquita Pimenta (foto). Ele é acusado de assinar um contrato de cessão de imagem considerado prejudicial ao São Paulo.
 
 Federação examina nadadoras chinesas
@@ -1464,9 +1464,9 @@ O time foi comprado por Glen Taylor por US$ 88,5 milhões. A negociação, que incl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-073</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-073</field>
+<field name="date">941002</field>
+<text_pt>
 O Santos enfrenta o Flamengo, que, apesar de ser um time ainda em formação, tem uma garotada habilidosa
 ALBERTO HELENA JR.
 Da Equipe de Articulistas
@@ -1483,9 +1483,9 @@ Há tempos ouço o crepitar da fogueira acesa no Morumbi, onde serão incinerados o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-074</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-074</field>
+<field name="date">941002</field>
+<text_pt>
 Testes médicos e físicos são necessários para iniciar treinamento elaborado por especialistas para a Folha
 EDGARD ALVES
 Da Reportagem Local
@@ -1517,9 +1517,9 @@ Além dos atletas estrangeiros, o pelotão de elite (150 integrantes) contém os de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-075</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-075</field>
+<field name="date">941002</field>
+<text_pt>
 Grupo se encontra todas as manhãs
 Da Reportagem Local
 Simone e José Agostinho mudaram de vida. Deixaram o sedentarismo de lado e, desde abril, assumiram a corrida de corpo e alma.
@@ -1538,9 +1538,9 @@ A competição cresceu e acabou sendo oficializada pela Iaaf (Federação Internacio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-076</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-076</field>
+<field name="date">941002</field>
+<text_pt>
 OUTUBRO - O PRIMEIRO MÊS
 Estratégia - o consumo médio diário deve ser de 2.500 calorias &#150;60% de carboidrato (fornecedor de energia), 20% de gordura (também fornecedor de energia) e 20% de proteínas (fornecedor de tecidos, a massa muscular)
 Café da manhã - um copo de iogurte desnatado ou leite desnatado, batido com duas frutas; duas fatias de pão de forma ou um pão francês com queijo branco; uma colher de sobremesa de geléia
@@ -1576,9 +1576,9 @@ Fonte: nutricionista Alessandra Caviglia, da academia Cia Athletica de São Paulo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-077</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-077</field>
+<field name="date">941002</field>
+<text_pt>
 Este plano de treinamento, de três meses, foi preparado por Wanderlei de Oliveira, 34, diretor do Pão de Açúcar Club, maratonista e especialista na área.
 O programa envolve seis dias de treino por semana, sempre começando pela terça-feira.
 Locais fechados &#150;como parques e centros esportivos&#150; são as melhores opções. Correr nas ruas é perigoso por causa do trânsito.
@@ -1589,9 +1589,9 @@ Quarta semana: Abrir o dia com 10 min de caminhada, prosseguir com 30 min de cor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-078</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-078</field>
+<field name="date">941002</field>
+<text_pt>
 Primeira e segunda semanas:
 Na terça-feira - corrida de 6 km (em piso de grama) em ritmo confortável; quarta-feira - corrida de 6 km (terra) em ritmo confortável; quinta-feira - corrida de 8 km em percurso variável (subida, descida, asfalto, terra, grama).
 Na sexta-feira, para quebrar a rotina e diversificar uso de grupos musculares, o treino é optativo. Caso tenha bicicleta, pedalar durante 1 hora; pode-se fazer 1h de natação (no máximo).
@@ -1602,9 +1602,9 @@ Na terça-feira - corrida de 8 km (grama); quarta-feira - corrida de 12 km (percu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-079</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-079</field>
+<field name="date">941002</field>
+<text_pt>
 Primeira semana:
 Na terça-feira - cinco corridas de 100 m com passadas largas para oxigenar a musculatura e aumentar a frequência cardíaca, preparando o indivíduo para o esforço; dez corridas de 1min cada, intercalando ritmo forte e fraco; desaquecimento.
 Nos demais dias, a programação de corridas é a seguinte: quarta-feira - 8 km (grama) em ritmo confortável; quinta-feira - 12 km (percurso variável) em ritmo confortável; sexta-feira - academia; sábado - 14 km (asfalto e plano) em ritmo lento; e domingo - trote de 6 km (grama).
@@ -1615,9 +1615,9 @@ Na segunda-feira - 8 km (grama) em ritmo lento; terça-feira - dez corridas de 30
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-080</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-080</field>
+<field name="date">941002</field>
+<text_pt>
 Silvana de Fátima Oliveira Pinto, Macaé-RJ
 As embalagens podem ser classificadas em cinco tipos básicos: primária (quando seu objetivo é de proteção e preservação do produto, como por exemplo, garrafas, latas etc.); secundária (contém pequenos números de embalagens primárias, como as caixinhas para remédios); promocional (quando o principal objetivo é expor o produto enfatizando a mensagem de vendas, como os displays de iogurte); transporte (tem como finalidade o acondiconamento, a estocagem e o transporte dos produtos elaborados, como os sacos de papel, plástico, caixa de papelão, caixa de madeira etc.); manuseio (para facilitar o trabalho interno da empresa, sendo o produto efetivamente transportado para a embalagem final).
 O tipo de embalagem que você quer fabricar pode ser classificado como embalagem de transporte. A caixa de papelão para embalagem de transporte pode ser fabricada de diversas maneiras.
@@ -1630,9 +1630,9 @@ As cartas ao Balcão Folha-Sebrae devem ser enviadas para Caderno Tudo - al. Barã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-081</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-081</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 A atividade da micro e pequena indústria se manteve estável no mês de agosto em relação a julho. Segundo os Indicadores Folha-Sebrae, o uso da capacidade instalada ficou em 69% em agosto &#150;percentual igual ao de julho.
 Recife lidera o ranking com menor ociosidade (28%). O pior desempenho ficou com Salvador, onde a ociosidade entre as pequenas e microindústrias foi de 42%.
@@ -1646,23 +1646,23 @@ O projeto Indicadores Folha-Sebrae é uma realização de Gláucia Vasconcellos Vale
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-082</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-082</field>
+<field name="date">941002</field>
+<text_pt>
 A editora Bloomsbury acaba de publicar o novo livro de Nadine Gordimer (Nobel de Literatura em 1991). "None to Accompany Me" (Ninguém para me Acompanhar) é ambientado em sua natal África do Sul, depois das eleições que levaram Nelson Mandela ao poder.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-083</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-083</field>
+<field name="date">941002</field>
+<text_pt>
 Sophia Loren compareceu esta semana ao desfile de casacos de pele Annabella e ouviu o que não queria. "Sophia, aprenda com Brigitte Bardot", "você ganhou o Oscar da crueldade" e "o bolo de seus 60 anos verte sangue" foram frases gritadas por manifestantes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-084</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-084</field>
+<field name="date">941002</field>
+<text_pt>
 Gianfrancesco Guarnieri nasceu em 6 de agosto de 1934, em Milão (Itália). No ano seguinte sua família se mudou para o Brasil.
 Em 1955, ele funda o Teatro Paulista do Estudante, junto com Oduvaldo Vianna Filho, Beatriz Segall e Regina Helena.
 Em 1956, escreve sua primeira peça, "Eles Não Usam Black-Tie". Montada em 1958 pelo Teatro de Arena, a peça se transformou num marco da dramaturgia brasileira ao retratar os conflitos entre um líder sindical e seu filho, tendo como pano de fundo os conflitos sociais da época.
@@ -1671,9 +1671,9 @@ Suas duas últimas montagens foram "Pegando Fogo... Lá Fora" (88) e "Meu Nome É P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-085</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-085</field>
+<field name="date">941002</field>
+<text_pt>
 Hermann Tacasey, autor da gravura da capa e desta página, nasceu em São Paulo, em 1962. É professor de artes plásticas na Faap (Fundação Armando Álvares Penteado). Participa este ano 22ª Bienal Internacional de São Paulo.
 Mariannita Luzzati, que assina as ilustrações da peça sobre FHC, nasceu em São Paulo (SP), em 1963. Vive e trabalha em Londres. Foi vencedora do 1º Prêmio do Salão Nacional de Artes Plásticas de Brasília. Participa da 22ª Bienal.
 Niúra Belavinha, que ilustrou a peça sobre Lula, tem 33 anos e nasceu em Belo Horizonte (MG). Estudou arte na Fundação Guignard e escultura com Amilcar de Castro. Participa da 22ª Bienal.
@@ -1682,9 +1682,9 @@ José Spaniol, que ilustrou a peça sobre Enéas, nasceu em São Luís Gonzaga (RS), 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-086</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-086</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 A Folha vai realizar hoje, a partir das 16h30, a leitura das quatro peças teatrais publicadas neste número do "Mais!". O evento será aberto ao público e acontece no auditório do jornal, à al. Barão de Limeira, 425, 9º andar (zona central de São Paulo).
 A peça de Mauro Rasi sobre a derrota de FHC será lida pelo autor e pela atriz Vera Holtz. A de Gianfrancesco Guarnieri, sobre a queda de Brizola, será lida pelo autor, Caco Guarnieri, Marcelo Goés e Humberto Maiani (a confirmar).
@@ -1692,9 +1692,9 @@ Plínio Marcos lerá sua peça sobre a derrota de Enéas, acompanhado pelos atores O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-087</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-087</field>
+<field name="date">941002</field>
+<text_pt>
 Mauro Rasi nasceu em 1950 em Bauru (SP) e vive no Rio há 18 anos. Em 1963, assistiu a conferência de Sartre e Beauvoir em Araraquara (SP), que eram ciceronados por Fernando Henrique Cardoso.
 Sua primeira peça, "A Massagem", estreou em São Paulo, em 1971. Em 1973, montou "Ladies da Madrugada", estrelada por Patrício Bisso.
 Em 1987, a partir de "A Cerimônia do Adeus" (prêmio Molière de melhor autor teatral), Rasi rompeu com o "teatro besteirol", ao qual estivera ligado no início dos anos 80. Em 1989, montou "A Estrela do Lar "e, em 1992, "Baile de Máscaras" (pela qual recebeu quatro prêmios Molière). Por estas peças, recebeu ainda os prêmios Shell e Mambembe. Em 1993, estreou "Viagem a Forli".
@@ -1702,9 +1702,9 @@ Sua nova peça, "Pérola", estréia no próximo dia 6 de janeiro, no Rio, com a atri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-088</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-088</field>
+<field name="date">941002</field>
+<text_pt>
 MAURO RASI
 Especial para a Folha
 Vamos voltar para Paris; Sorbonne, aqui vou eu de novo...
@@ -1753,9 +1753,9 @@ FHC - (Grita) Eu sou ateu! Eu sou ateu! Ha, ha, ha, ha! Eu não acredito no Espír
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-089</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-089</field>
+<field name="date">941002</field>
+<text_pt>
 MAURO RASI
 Especial para a Folha
 Vocês, intelectuais, não valem nada... Quem é você, Fernando? Você ou Jean-Paul Sartre? Quem sabe eu sou a Simone de Beauvoir e não sei?
@@ -1836,9 +1836,9 @@ FHC - A bientôt.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-090</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-090</field>
+<field name="date">941002</field>
+<text_pt>
 A Artur Azevedo e a todos os "revisteiros" que tão bem entenderam este país, os autores dedicam esta "Revista em Quatro Quadros", um "Prólogo" e uma "Discreta Apoteose"
 por
 MARCOS CARUSO E JANDIRA MARTINI
@@ -2016,9 +2016,9 @@ Vem entrando na passarela de nuvens o "Bloco do Poder". Dona Ordem é a porta-ban
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-091</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-091</field>
+<field name="date">941002</field>
+<text_pt>
 MARCOS CARUSO E JANDIRA MARTINI
 Oi vira que vira, oi vira a casaca e vais te salvar! Qualquer probleminha, não perdes a linha: já bates à porta de outro partido
 Voto útil na cabeça! Lá vai Maria, Lá vai com as outras... Sobe o moço na pesquisa, E um já avisa: Votamos contra!
@@ -2191,9 +2191,9 @@ Lula assina e entrega pra Deus. A nuvem vai subindo, enquanto os querubins canta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-092</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-092</field>
+<field name="date">941002</field>
+<text_pt>
 Quarto na casa de campo do candidato à Presidência Leonel Brizola. Duas horas da madrugada. Em sua cama, Leonel tem um sono agitado, remexe-se, resmunga, enfia a cabeça debaixo do travesseiro
 por
 GIANFRANCESCO GUARNIERI
@@ -2265,9 +2265,9 @@ Gabriel - Bah!... Devagar com o andor, chefe; está ficando todo duro de novo!...
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-093</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-093</field>
+<field name="date">941002</field>
+<text_pt>
 GIANFRANCESCO GUARNIERI
 Vocês vão ver a festa é nos próximos quatro anos! Vão descobrir o que é mesmo o real! Vaquinhas de presépio!
 Leonel - (Dando-lhe uma potente cotovelada) Isso é jeito de falar? Estás exagerando, Gabriel!... Nunca mais vou te chamar de Gabi! Não mereces a xará que tens! Grosso! E o que é que tu entendes de anjos, hein, energúmeno?!... Vai, some daqui! Chega de massagem, não adiantou nada! Chispa, vai!
@@ -2315,9 +2315,9 @@ Gegê - Como, eu não sei!... Menos desse modo! Confiei no teu equilíbrio, bom sen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-094</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-094</field>
+<field name="date">941002</field>
+<text_pt>
 GIANFRANCESCO GUARNIERI
 Morto eu não estou! Morto não sente a raiva que estou sentindo; onde já se viu brigar por Lexotan, bater papo com defunto... Preciso dormir
 Leonel - Por... que... veio...?
@@ -2384,9 +2384,9 @@ Cai o pano.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-095</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-095</field>
+<field name="date">941002</field>
+<text_pt>
 Um mago está sentado na sua escrivaninha estudando um grande e grosso livro antigo. Por todos os cantos da sala vê-se velas, mapas astrológicos, mapas de mãos, caveiras, corujas e gatos empalhados, vidros com sapos e cobras. Há também um forno antigo e mais uma porção de badulaques mágicos
 Por
 PLÍNIO MARCOS
@@ -2492,9 +2492,9 @@ Mago - Quando o Senhor nosso Deus estava fazendo o mundo, demorou-se no Brasil. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-096</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-096</field>
+<field name="date">941002</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Não é minha intenção responder às ofensas de Sebastião Milaré, domingo passado neste caderno, em réplica à resenha que escrevi sobre seu livro, "Antunes Filho e a Dimensão Utópica".
@@ -2519,9 +2519,9 @@ Sem que houvesse maior concordância, entre todos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-097</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-097</field>
+<field name="date">941002</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 O guerreiro da luz conhece o silêncio que antecipa o combate importante.
@@ -2532,9 +2532,9 @@ Enquanto os outros conversam, o guerreiro se adestra no manejo da espada e prest
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-098</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-098</field>
+<field name="date">941002</field>
+<text_pt>
 O presidente Itamar Franco concedeu no dia 21 de setembro, em Brasília, medalhas e insígnias da Ordem Nacional do Mérito Científico a 45 cientistas brasileiros e estrangeiros. Foram contemplados cientistas que atuam no campo da biologia, ciências humanas, ciências da terra, física, matemática, química, tecnologia e administração de ciência e tecnologia.
 
 EUROPA 
@@ -2545,9 +2545,9 @@ Uma empresa britânica projetou uma casa de dois andares sobre esquis, para ser u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-099</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-099</field>
+<field name="date">941002</field>
+<text_pt>
 JOSÉ REIS
 Especial para a Folha
 A recuperação funcional do telescópio Hubble anunciada a 18 de dezembro último com a apresentação de fotografias perfeitas da galáxia M100 situada a 50 milhões de anos-luz da Terra, inaugurou a era da telescopia espacial, isto é, realizada mediante instrumentos instalados em pleno espaço. Como se sabe, o Hubble, logo depois de colocado no espaço, revelou vários defeitos.
@@ -2564,9 +2564,9 @@ O vidro fino é sujeito a várias deformações produzidas pelo calor, pelos ventos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-100</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-100</field>
+<field name="date">941002</field>
+<text_pt>
 Leandro Facco, 14, estudante, Fernandópolis, SP
 Arnaldo Mandel, do Departamento de Ciência da Computação da USP, responde:
 "`Vírus de computador' é um (pedaço de) programa que atua alterando as características de outros programas e criando cópias de si mesmo em discos e outros programas.
@@ -2585,9 +2585,9 @@ Correspondência para a seção "Sem Mistério" deve ser encaminhada à Editoria de C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-101</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-101</field>
+<field name="date">941002</field>
+<text_pt>
 A edição agosto da revista da SBPC (Sociedade Brasileira para o Progresso da Ciência) traz uma discussão sobre o corporativismo nas universidades brasileiras. Respondem a perguntas formuladas pela revista cientistas sociais como Paulo Sérgio Pinheiro, Renato Janine Riberito, Simon Schwartzman, entre outros.
 (18, 43-52)
 
@@ -2596,25 +2596,25 @@ Em citações científicas, convenciona-se que o primeiro número, em negrito, indic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-102</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-102</field>
+<field name="date">941002</field>
+<text_pt>
 Editorial na edição do dia 1º de setembro comenta pesquisa que indica que jovens pertencentes a grupos de risco da Aids, como homossexuais masculinos, não tomam precauções contra a infecção pelo vírus, mesmo conhecendo as formas de transmissão. O texto diz que a taxa de infecção entre homossexuais jovens está aumentando.
 (371, 2)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-103</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-103</field>
+<field name="date">941002</field>
+<text_pt>
 A edição de 9 de setembro traz artigo sobre vacinas que ativam reações imunes nas mucosas, que são membranas úmidas que revestem vários órgãos no corpo humano. O artigo compila 13 grupos dessas vacinas que estão sendo desenvolvidas contra o cólera, a gripe, diarréias, Aids, meningite, raiva e febre tifóide, por exemplo.
 (265, 1522-4)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-104</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-104</field>
+<field name="date">941002</field>
+<text_pt>
 Livro analisa a cartografia através da história do pensamento
 Variação artística de mapa feito em `formato T-O' de 1482
 MANUEL DA COSTA PINTO
@@ -2646,9 +2646,9 @@ O próprio título do livro, enfim, é uma referência a essa opção teórica. Afinal,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-105</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-105</field>
+<field name="date">941002</field>
+<text_pt>
 Variação artística de mapa feito em `formato T-O' de 1482
 Da Redação
 "The Image of the World" traz muitos exemplos de mapas em que a expressividade simbólica prevalece sobre o conteúdo científico.
@@ -2662,9 +2662,9 @@ Esse diálogo entre linguagens diversas, segundo Whitfield, servia para reiterar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-106</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-106</field>
+<field name="date">941002</field>
+<text_pt>
 Você fica cheio de dedos no cinema na hora de mandar o tagarela ao seu lado calar a boca? Não sabe como dizer à sogra que ela cozinha feito um pedreiro? Tem dúvidas se deve comer escargot com garfo e faca? Para saber como se comportar à mesa, à cama, no culto maçônico, na vida, escreva para Barbara Gancia.
 Pudicícia
 "Tenho um namorado ótimo, mas ele vive me tentando para irmos aos finalmentes e eu tenho medo. Você acha que devo entregar os pontos ou dar o fora no rapaz e procurar outro que case comigo logo após ter feito aquilo?"
@@ -2684,9 +2684,9 @@ Respondo sua pergunta com outra pergunta. Você sente mais emoção assistindo GPs 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-107</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-107</field>
+<field name="date">941002</field>
+<text_pt>
 Nem punk, nem grunge. Nenhum dos dois terremotos musicais foi capaz de acabar com esse tipo exótico chamado virtuose. Seus representantes são fáceis de identificar: tocam guitarra com a destreza de um pianista clássico, desprezam a música pop (que chamam de "comercial") e cultuam as interpretações apuradas do guitarrista Steve Vai.
 Frank Solari, 22, não é uma exceção. Para o guitarrista gaúcho, "é melhor ter um público de dez pessoas que entendam o trabalho do que mil que ouviram porque está na moda". Seu trabalho, na verdade, já é conhecido por bem mais que mil pessoas: em 1991, ele abriu os shows brasileiros de Bob Dylan &#150;de quem arrancou elogios. 
 No altar particular de Solari, estão os guitarristas Joe Satriani, Jimi Hendrix, e, é claro, Steve Vai. Quem ouve o CD de estréia (selo Dubas, distribuído pela Warner) percebe que ele está no caminho certo. Jazz rock, progressivo, new age e hard rock são executados com inegável competência.
@@ -2695,9 +2695,9 @@ Marisa Adán Gil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-108</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-108</field>
+<field name="date">941002</field>
+<text_pt>
 NEWS &amp; VIEWS
 Concorrência Parece inveja, mas são apenas negócios. Nem bem abriu sua loja em Londres, e Donna Karan já tem concorrente. E mulher. Mariuccia Madelli já está com sua Krizia devidamente instalada na Bond Street. E inaugura ainda este mês mais uma loja em Nova York, no número 769 da Madison Avenue.
 The Fab Five "As modelos ficaram conhecidas mesmo. Hoje em dia é possível falar em Linda, Cindy ou Naomi sem nem mencionar os sobrenomes. De todas, minhas preferidas são Tatjana Patitz, Nadja Auermann, Yasmin Lebon, Estelle Hallyday e Christy Turlington". Foi o que disse o ator Douph Lundgren, enquanto se divertia com a mulher e o irmão na praia, nos Hamptons.
@@ -2715,9 +2715,9 @@ O Amor Move Mason Depois de cinco anos de carreira nas passarelas de Paris, a no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-109</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-109</field>
+<field name="date">941002</field>
+<text_pt>
  Já quase na metade da ecológica década de 90, firma-se uma nova visão sobre os materiais naturais. Não é apenas um retorno às raízes. Eles permitem combinar a funcionalidade com a aproximação e a preservação das fontes da natureza. O design modifica-se para utilizar essa matéria-prima e tornar os produtos mais "quentes". A tendência não deixa de ser uma resposta aos arrogantes e artificiais anos 80.
 Daniela de Camaret
 
@@ -2740,9 +2740,9 @@ ONDE ENCONTRAR. A.N.A. Arte Nativa Aplicada: r. Dr. Mário Ferraz, 351, Itaim Bib
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-110</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-110</field>
+<field name="date">941002</field>
+<text_pt>
 Nenhuma mulher sai de casa sem ela. Pode funcionar como tábua de salvação ou paraíso particular &#150;depende da dona. Seja como for, é dentro dela que está a solução para a meia desfiada, a dor de cabeça, a unha quebrada ou até mesmo o encontro inesperado com o sexo oposto.
 A nécessaire, sabe-se, abriga aqueles itens que uma mulher pode precisar quando não está em casa. Muitas vezes, porém, contraria sua natureza e carrega o supérfluo -como um par de cílios postiços, por exemplo. Só as práticas sabem o valor de uma nécessaire pequena, básica. As precavidas vão querer mais: em sua bolsa, não faltam blush, pinça e perfume. Já as exageradas assumidas &#150;bem, essas se aprontam para a "viagem" com estoques de xampus, escovas e cremes. &#150;Marisa Adán Gil
 1 - Nécessaire básica
@@ -2757,9 +2757,9 @@ ONDE ENCONTRAR. Le Postiche: r. Oscar Freire, 672, Jardins, tel. 883-6015. Franc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-111</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-111</field>
+<field name="date">941002</field>
+<text_pt>
 Panacéia do bem, a camomila é amiga de bebês e blondies. O chá afoga cólica de recém-nascido e dores estomacais. Colocado no banho, reduz coceiras. Em compressas, descongestiona os olhos, elimina inchaços. Nos bochechos, aplaca aftas e gengivite. Um de seus segredos é o azuleno. Sólido extraído do óleo, é cicatrizante, antiinflamatório, antialérgico. O aroma da camomila é sedativo. Não bastasse, há 4.000 anos ela clareia cabelos. Mais: diz a lenda que chama dinheiro.
 Creme pós-barba com azuleno (esq.). O Boticário, R$ 7,65. À dir., hidratante (R$ 5,53) e gel pós-barba com mentol e camomila (R$ 6,34) da Cosmética Natural, à venda no Mercado Natural. A máscara suavizante (R$ 9,83) é Valmari
 O travesseiro aromático relaxa, combate a insônia e atua como sedativo. Dejavu, R$ 12. Ao lado, xampus Baby (R$ 3,10) e para clarear (R$ 3,73), da Farmaervas. Abaixo, sabonete líquido Tracta (Farmaervas, R$ 6,09) e sabonete de camomila Ubon (Alternativa, R$ 0,62)
@@ -2768,17 +2768,17 @@ ONDE ENCONTRAR. Alternativa: av. Cotovia, 912, Moema. Tel. 531-6748. Cetas: r. D
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-112</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-112</field>
+<field name="date">941002</field>
+<text_pt>
 Estréia amanhã "Forrest Gump", campeão de bilheteria nos EUA. Tom Hanks (foto) é Gump, homem com QI abaixo da média que enfrenta situações variadas &#150;do campeonato de futebol da escola à Guerra do Vietnã&#150; com extrema ingenuidade e se dá bem. A história americana dos anos 50, 60 e 70 serve de pano de fundo.
 Pág. 71.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-113</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-113</field>
+<field name="date">941002</field>
+<text_pt>
 Maria Montanarini nasceu e foi criada na Sicília. Na década de 50, após formar-se em letras, mudou-se para o Brasil. Aqui, casou-se e passou a dedicar-se à família. Essa dedicação incluía, porém, um interesse cada vez maior pela cozinha &#150;e um cuidado especial na criação de pratos novos.
 Em 1980, junto com duas irmãs, abriu o restaurante Il Garofano Rosso. Lá, colocou em prática todos os conhecimentos de forno e fogão adquiridos desde a infância. Foi lá também que montou o primeiro "festival da alcachofra", mostrando que era possível apresentar receitas inéditas e originais com o ingrediente.
 Desde 1987, é sócia-proprietária da Casa Europa &#150;onde continua promovendo todos os anos o seu festival. Agora, lança seu primeiro livro, tendo como tema sua velha conhecida, a alcachofra. São 65 receitas, onde se destacam idéias originais como a alcachofra em calda com creme chantilly, para ser servida como sobremesa.
@@ -2786,9 +2786,9 @@ Charlô WhatelyIl Carciofo - A Alcachofra. Editora Keila e Rosenfeld. Tel. 212-99
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-114</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-114</field>
+<field name="date">941002</field>
+<text_pt>
 Ingredientes: 6 alcachofras grandes, açúcar, 1 fava de baunilha, sumo de um limão, sal, chantilly.
 Preparo: limpe as alcachofras para ficar apenas com os fundos. Deixe de molho em água com limão. Depois, cozinhe em água fervente com sal e sumo de limão até que estejam al dente. Escorra e deixe secar bem em um pano limpo. Pese os fundos (para depois utilizar o mesmo peso de açúcar). Com água e o açúcar medido, faça uma calda rala. Junte a fava de baunilha e os fundos de alcachofras e deixe ferver. Retire do fogo e guarde a panela. No dia seguinte, volte ao fogo e ferva por mais 15 minutos. Repita essa operação por três dias. No terceiro dia, as alcachofras estarão prontas para serem servidas &#150;com um pouco de calda e creme de chantilly por cima. Pode-se também servir com calda de chocolate.
 
@@ -2798,16 +2798,16 @@ Preparo: lave as alcachofras, retirando as piores folhas. Corte os cabos e acert
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-115</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-115</field>
+<field name="date">941002</field>
+<text_pt>
 Existem bares e bares; pubs e pubs. Lá na Big Apple eu cresci dentro de bares do tipo irlandês. Existe alguma coisa especial em relação a um bar ou pub irlandês que abre a garganta. Uma garganta aberta é uma rua de mão dupla. Bebida boa e forte desce, frases brilhantes e arrojadas sobem. Não parece haver muitos irlandeses no Finnegan's, mas paira o espírito gaulês. Os brazucas se transformam em eloquentes contadores de histórias, que fariam James Joyce sorrir de satisfação. E as piadas, cara, as piadas irlandesas! Um exemplo: "A Irlanda é conhecida por seus laços de família estreitos. Paddy era um entre nove irmãos. Quando sua mulher de 40 anos foi mandada para o grande bar do céu, ele não derramou uma lágrima &#150;afinal, não era parente de sangue". Rarara, como diz meu irmão irlandês Simão. Você tem que ser vidente para saber quando o Finnegan's vai ter uma garrafa de uísque irlandês na prateleira, mas vale a pena esperar. &#150;David Drew ZinggFinnegan's. R. Cristiano Viana, 358, Pinheiros, zona oeste. Tel. 852-3232. Domingo a quarta: 18h/2h. Quinta a sábado: 18h/3h30. Consumação (quinta a sábado): R$ 7,50 (homem); R$ 2,50 (mulher). Cerveja: R$ 2,40.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-116</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-116</field>
+<field name="date">941002</field>
+<text_pt>
 Ao tentar descrever São Paulo em um jornal inglês, um repórter que cobria o GP de Fórmula 1 aqui comparou o romantismo da cidade ao de um cachorro morto. Lendo a reportagem, o publicitário Carlos Chiesa percebeu a péssima impressão que São Paulo passa para a maioria.
 Em um esforço para melhorar essa imagem, a Revista da Folha e o Clube de Criação de São Paulo, presidido por Chiesa,) promovem o "Prêmio Fachada". O objetivo é incentivar lojistas a encontrarem soluções para suas fachadas comerciais que não aumentem a poluição visual da cidade.
 "Em Londres ou Paris há lugares cheios de lojas e agradáveis. Por que isso não pode acontecer em São Paulo? Aqui, ninguém se preocupou em cuidar da estética da cidade", diz o publicitário.
@@ -2819,9 +2819,9 @@ Prêmio Fachada. Inscrições e informações: Clube de Criação de São Paulo: r. Trez
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-117</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-117</field>
+<field name="date">941002</field>
+<text_pt>
 Campeonato de futebol gay? Sim! O Rio sai na frente e abre inscrição para a segunda versão do Campeonato Brasileiro Troféu Jorge Emiliano de Futebol de Praia, que acontece no dia 31 de dezembro nas areias de Copacabana.
 A idéia é do carioca Flávio Alves, 24, presidente do "Caras &amp; Coroas", que formou um time de futebol reunindo rapazes que gostam de homens maduros. Tá explicado o nome do time?
 Flávio largou a farda de militar da Marinha para se dedicar às atividades do seu grupo. "O futebol é apenas uma delas", diz. Na agenda: o Mundialito de Futebol Gay, em julho de 1995, no Rio, durante o congresso da International Lesbian and Gay Association (ILGA). Fique de olho!
@@ -2830,31 +2830,31 @@ Times de São Paulo, do Rio e da Bahia já estão na disputa. Que tal inscrever o s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-118</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-118</field>
+<field name="date">941002</field>
+<text_pt>
 Aumente o volume. Os bons sons dos clubes e bailes podem estar em sua casa, no seu walkman. Aqui vão algumas gargantas de ouro e bandas descoladoras de quadris, mais as lojas onde há soul, jazz, rap e a fusão de tudo. Ligue-se! &#150;Sonia Fabiano Mó Better CDs. R. Nazaré Paulista, 438, Alto de Pinheiros, zona oeste. Tel. 62-0108. Segunda a sexta: 10h/21h. Sábado: 10h/19h. Preços: R$ 38 (CDs japoneses); R$ 26 (CDs europeus); R$ 20 (CDs americanos). Poster Som. Av. São João, 439, loja 28 (edifício Grandes Galerias), Centro. Tel. 220-1143. Segunda a sexta: 9h/20h. Sábado: 9h/16h. Preços: R$ 8 (LP nacional); R$ 25 (LP importado)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-119</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-119</field>
+<field name="date">941002</field>
+<text_pt>
 Crianças, água, café, chocolate. Com a impermeabilização, você pode diminuir os estragos que esses "agentes nocivos" causam a seus sofás e poltronas estofados em tecido. Apesar de não fazer milagres, a técnica ajuda a manter sofás e cadeiras em boas condições pelo dobro do tempo normal. É o que diz Paulo Roberto Stucchi, da Limpadora Paulo, empresa especializada em impermeabilizar estofados. "Se o móvel é usado todo dia, a proteção é eficiente por dois anos, em média", diz Stucchi. Mas a impermeabilização não substitui o cuidado usual, como não colocar os pés calçados sobre o tecido. Stucchi aconselha uma limpeza com um pano úmido uma vez por mês. &#150;Claudia GonçalvesLimpadora Paulo. Av. Aclimação, 145, Aclimação, zona sul. Tel. 277-0377. Segunda a domingo: 24 horas. Preço, em média: R$ 65 (impermeabilização de conjunto de estofados com cinco lugares). Outras empresas: Imper Spress. R. Otávio Passos, 9-A, Butantã, zona oeste. Tels. 210-7793 e 813-8042. Segunda a sexta: 8h/18h. Sábado: 8h/12h. Preços: R$ 74 (impermeabilização de estofados de cinco lugares). Aplicator. R. das Fiandeiras, 179, Vila Olímpia, zona sul. Tel. 280-3811. Segunda a sexta: 9h/18h. Preço: R$ 5,50 (emborrachamento, por metro quadrado).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-120</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-120</field>
+<field name="date">941002</field>
+<text_pt>
 É difícil imaginar o que teria levado Grace Giannoukas, uma comediante experiente, a um equívoco como "Os Dez Mandamentos do Jogo dos Sete Erros". Que ninguém se engane com a extensão do título da peça. Trata-se de obra limitada, quase amadora, não fosse pelas atrizes envolvidas. Uma, Luciene Adami, estrela de televisão. Outra, exatamente Grace Giannoukas, uma comediante na linha da americana Sandra Bernhard, agressiva, sarcástica. Pois nem ela nem Luciene Adami conseguem tirar graça da peça, feita de três esquetes pouco inspiradas, sobre o cotidiano de casais. São monólgos que partem de uma única idéia para estender-se, arrastar-se sem qualquer noção cômica, com tiradas como chamar um gato de Engels e com referências a Lorena Bobbit. Nada que sustente a interminável uma hora que dura o espetáculo. &#150;Nelson de Sá 
 Os Dez Mandamentos do Jogo dos Sete Erros. Com Cláudio Chakmati, Grace Gianoukas e Luciene Adami. Texto e direção: Antonio Rocco. Teatro Ruth Escobar, sala Myriam Muniz. R. dos Ingleses, 209, Bela Vista, região central. Tel. 289-2358. Quinta a sábado: 22h. Domingo: 21h. Ingressos: R$ 6.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-121</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-121</field>
+<field name="date">941002</field>
+<text_pt>
 Os guaches são a novidade que Paulo Monteiro mostra aos paulistanos antes da Bienal. O artista exercita um movimento novo: a introdução da cor no papel. Um olhar mais detido sobre a série de trabalhos aponta elementos de continuidade ou, ao menos, de aproximação entre os guaches recentes e os óleos, os desenhos, as esculturas. A linha, em geral negra, contorna a superfície, transbordando frequentemente os limites do papel ou da tela. No traço, insinua-se o mesmo gesto entrecortado, gago, que opera no limiar da figuração e da abstração. A cor entra para preencher o espaço criado pela linha.
 Em meio ao repertório cromático utilizado por Paulo Monteiro, chama a atenção a presença forte do cinza, que quebra o lugar-comum dos guaches: os tons esmaecidos, "aguados". Além da proximidade pela cor, outros pontos de contato podem ser percebidos. Entre eles, o gesto desengonçado de onde nasce, paradoxalmente, a estruturação.
 Fernanda Peixoto
@@ -2863,9 +2863,9 @@ Marília Rasuk Galeria de Arte. Av. Nove de Julho, 5.719, Itaim, zona oeste. Tel.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-122</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-122</field>
+<field name="date">941002</field>
+<text_pt>
 Para tudo há um tempo. Uma estação. Mais que uma metáfora bíblica, esse é o tema de "Forrest Gump", o mais novo filme de Robert Zemeckis. Um diretor que se move não através do tempo, mas da história.
 Foi assim em seu precioso "De Volta Para o Futuro", em que um garoto se aliava a um cientista para resgatar, no passado, o que poderia haver de melhor no futuro. Nos filmes de Zemeckis não há presente possível.
 Assim como em "Forrest Gump", a estranha história de um homem (Tom Hanks, brilhante) que possui a qualidade de não entender o mundo em que vive, por possuir uma capacidade mental abaixo da média. Se a afirmação parece contraditória (uma deficiência que se converte em qualidade), em Forrest consegue sentido. Porque é disso que ele constrói sua história. Ou a história.
@@ -2875,9 +2875,9 @@ Forrest Gump (idem). EUA, 1994. Estréia amanhã nos cines Ipiranga 1, Comodoro, M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-123</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-123</field>
+<field name="date">941002</field>
+<text_pt>
 Mais do que novas políticas, o Rio pede uma revolução cultural que enxugue o caldo de cultura da malandragem e da violência 
 Marcos Augusto Gonçalves
 Motivo de horror e fascínio para leitores de tragédias ou de apreensão sincera para os que acompanham sua crônica diária de violência, o Rio passou a encarnar o símbolo da degradação urbana e da insegurança no Brasil.
@@ -2897,9 +2897,9 @@ Ilustração: "Copacabana", 1985, fotografia de Marc Ferrez
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-124</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-124</field>
+<field name="date">941002</field>
+<text_pt>
 Aos 6 anos, Cláudia Raia era um patinho feio, mas subiu na passarela e virou top model mirim. Aos 9, torrou a verba do curso de inglês em um vestido de paetês. Aos 27, ela degusta o sucesso de "Nas Raias da Loucura" dançando, cantando e sapateando sobre a maldição do espelho 
 Era uma vez uma menina branca como a neve, com olhos e cabelos negros como a noite e lábios vermelhos como uma rosa. Seu nome era Maria Cláudia Mota Raia. Ao nascer, sua mãe, Odete Mota Raia, tinha 45 anos. "Não era mais tão paciente, como quando minha irmã mais velha, Holenca, nasceu."
 Cláudia Raia perdeu o pai aos 4 anos. Lembra dele com carinho. "Era um homem bonito, um superexecutivo, mesmo não sendo um artista, era fantástico. Quando meu pai morreu, mamãe já tinha uma academia de dança enorme, com dez filiais pelo interior de São Paulo. Empresária da dança e das artes. Disciplinada, superexigente, nunca mais se casou. Viveu para as filhas e para seu trabalho."
@@ -2910,9 +2910,9 @@ Menina, inconsciente de sua beleza, desenvolveu o talento. "Vou contar uma histó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-125</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-125</field>
+<field name="date">941002</field>
+<text_pt>
 Cosette Alves
 Uma semana depois, a escola de inglês ligou para a mãe de Cláudia, cobrando o pagamento do curso. "Minha mãe nem discutiu e deu aquele berro. `Cláudia, e o cheque?' Eu era ciniquíssima, dizia que tinha pago o curso, que não estava mentindo. Enfrentei a recepcionista da escola, ela insistia que eu não tinha pago. Eu negava. Se àquela altura eu confessasse, minha mãe se mataria! Aí... a recepcionista foi despedida. Foi horrível. Me senti muito culpada. Fui embora supertriste. Durante três dias roubei dinheiro da carteira de minha mãe. Paguei o curso e contei tudo para o diretor da escola. Pedi a ele, por favor, para a menina ser readmitida."
 A Branca de Neve é linda e boa, mas pode ser ambiciosa e fazer maldades. A diferença entre ela e a Rainha Malvada é que sente culpa e se arrepende.
@@ -2925,9 +2925,9 @@ Cláudia Raia se casou com Edson Celulari, acredita que serão felizes para sempre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-126</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-126</field>
+<field name="date">941002</field>
+<text_pt>
 Cosette Alves
 Cláudia explica: "O amor pode ser eterno se você encontra sua outra metade. Estou com o Edson acima da aproximação física. Toda pessoa tem sua metade perdida no mundo, ou no espaço. Alguns têm a sorte de encontrar, outros não. Minha união com o Edson é espiritual. Por minha causa, o Edson se iniciou no budismo e casamos numa cerimônia budista. O nosso casamento estava escrito na estrelas. O que mais amo nele é o caráter. Ele é bom, tem um coração enorme e me trata como uma princesa. Não tem receio de colocar seu lado romântico para fora. Ele não precisa provar machismo nenhum. Isto é o fundamental em um homem".
 Cena 3 - O final feliz
@@ -2944,9 +2944,9 @@ Cláudia Raia é uma atriz que tem ainda um enorme potencial a ser explorado. A Br
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-127</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-127</field>
+<field name="date">941002</field>
+<text_pt>
 MAÇÃ
 Você sonha quando dorme? "Às vezes. Tenho avisos. Tem um momento do show que é um sapateado na água. Aquilo foi um sonho meu"
 Pensa na morte? "A morte era muito complicada para mim. Achei que Deus tinha sido um sacana, tirou o meu pai quando eu era pequenininha. Depois me tornei budista, tudo ficou claro..."
@@ -2988,9 +2988,9 @@ Você se acha louca? "Insana, mas saudável"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-128</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-128</field>
+<field name="date">941002</field>
+<text_pt>
 Segundo o professor de mecânica Hans Ravache, esse barulho pode ser originário de um problema nas cruzetas do eixo cardã. O ideal é consultar um mecânico, que lhe dará mais informações. Se for constatado que o barulho é decorrente de uma avaria nos componentes, esses devem ser substituídos.
 
  "Na edição de 28 de agosto, Veículos publicou reportagem sobre o 2º Megacycle, no qual aparecia o estande da Hyosung. Gostaria de saber o nome de uma das motos que estavam lá. Queria também o nome da empresa que fabrica o Puma e ainda se a Miura é uma fábrica independente ou se foi absorvida por outra maior." (Otávio M. F. Morato - Jaú, SP) 
@@ -3022,18 +3022,18 @@ Envie sua carta para caderno Veículos, Redação, al. Barão de Limeira, 425, 4º an
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-129</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-129</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 As revendedoras Fiat retomam as solicitações de compra do Mille pelo sistema informatizado On-Line a partir de terça-feira. Os pedidos, que atingiram 27 mil, segundo a Fiat, serão feitos por computadores ligados diretamente com a fábrica. Com isso, será possível saber a data exata para a entrega.
 A demora na entrega varia de acordo com os equipamentos escolhidos e a cor.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-130</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-130</field>
+<field name="date">941002</field>
+<text_pt>
 A concessionária Caraigá, da Volkswagen, está parcelando em três vezes sem juros o pagamento dos serviços de assistência técnica. Um conjunto de embreagem para modelos com motores AE-1.600 e AP-1.600, por exemplo, custa R$ 120, ou três parcelas de R$ 40. No preço já está incluída a instalação. A Caraigá fica na avenida Ulysses Reis de Mattos, 100, Morumbi (zona sul de São Paulo), telefone (011) 844-6944.
  
 Blaupunkt vai lançar controlador de CDs
@@ -3045,9 +3045,9 @@ A fabricante de autopeças Varga equipa o sistema de freios do novo Gol, lançado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-131</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-131</field>
+<field name="date">941002</field>
+<text_pt>
 A autora de novelas Glória Perez (foto) ficou revoltada ao ler num jornal do Rio a versão contida no livro "O Que Não Passou nas Grades da TV" &#150;escrito por Guilherme de Pádua&#150; sobre a morte de sua filha, Daniella. Para ela, tudo é invenção do ator para tentar sair da cadeia como vítima no caso.
 
 Rômulo só quer cantar e nadar
@@ -3067,9 +3067,9 @@ Impressionado com a exuberância física da uma repórter que o entrevistou, Nílton
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-132</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-132</field>
+<field name="date">941002</field>
+<text_pt>
 MARCOS AUGUSTO GONÇALVES
 Editor da Revista da Folha
 "Nova York Contra o Crime" ("NYPD Blue"), que a Globo exibe aos domingos, depois do "Fantástico", é uma boa tentativa de atualização dos seriados de TV &#150;os famosos enlatados que conquistaram gerações de telemaníacos.
@@ -3081,9 +3081,9 @@ Com diálogos mais do que razoáveis, atuações convincentes (especialmente de Denn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-133</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-133</field>
+<field name="date">941002</field>
+<text_pt>
 "Casseta" grava programa no Japão
 Humoristas da trupe estiveram em São Paulo na semana passada satirizando a novela "A Viagem"
 IVAN FINOTTI
@@ -3105,9 +3105,9 @@ Temendo não encontrar mulheres bonitas, a produção contratou duas modelos para s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-134</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-134</field>
+<field name="date">941002</field>
+<text_pt>
 Do NP
 O ator Miguel Falabella, 37, está reclamando de trabalho desnecessário na novela "A Viagem". Para ele, os escritores não sabem poupar o elenco.
 "É uma novela muito cansativa de fazer. Tem cenários demais. A ação não é concentrada", diz Falabella.
@@ -3120,9 +3120,9 @@ Divergências à parte, Falabella não se diz chateado. "Não tenho medo de trabalho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-135</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-135</field>
+<field name="date">941002</field>
+<text_pt>
 A Globo põe em risco a paz de dentro de casa, fazendo novelas que incentivam a marginalidade, o poder e o sexo. As pessoas tomam isto como exemplo. Temos problemas demais e a Globo não faz nada para ajudar. Uma novela positiva causa bons efeitos. A emissora deveria pensar nisto e resgatar valores adormecidos.
 Yara Delsin V. Silva Fernandópolis, SP
 
@@ -3136,18 +3136,18 @@ Valéria Nagy São Paulo, SP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-136</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-136</field>
+<field name="date">941002</field>
+<text_pt>
 Na véspera das eleições gerais, a "Revista Banco Nacional de Cinema" coloca no ar vários filmes que tiveram como tema campanhas, eleições e candidatos na disputa pelo poder. Entre eles estão "Cidadão Kane" (foto), a obra-prima de Orson Welles, "Bob Roberts", de Tim Robbins, e os brasileiros "Pátria Amada" e "Sua Excelência, o Candidato".
 
 REVISTA BANCO NACIONAL DE CINEMA Manchete, 22h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-137</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-137</field>
+<field name="date">941002</field>
+<text_pt>
 Ciclo que homenageia a megera preferida do cinema americano, Bette Davis, morta há cinco anos. Serão exibidos cinco filmes de amanhã a sábado, com exceção de quinta-feira, sempre à 1h. Pela ordem: "Pérfida", "A Malvada", "Com a Maldade na Alma", "Mamãe Branca" e "As Baleias de Agosto". O primeiro filme do ciclo é de 1941; o último, de 1987.
 CINCO ANOS SEM BETTE Telecine, 1h.
 
@@ -3177,9 +3177,9 @@ E! FEATURES Superstation, 21h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-138</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-138</field>
+<field name="date">941002</field>
+<text_pt>
 Há um quê de "Carrie, a Estranha" requentado em "A Fúria", nessa história de um garoto com poderes paranormais raptado pelo sinistro John Cassavetes. É com a ajuda de Amy Irving (ela também paranormal) que Kirk Douglas vai atrás do filho. Mas, se "Carrie" tinha o fanatismo religioso como um de seus alvos, "A Fúria" retorna ao registro do humano. A presença de Cassavetes funciona como um sinal de mão dupla: ele é o formidável ator de "O Bebê de Rosemary", mas é também o notável diretor de filmes tão humanos que a realidade parece se criar apenas para eles. De Palma arma seu xadrez entre vários sentidos possíveis para chegar aonde quer: ao cinema, ao elo que ele cria entre o imaginário e algo irrecorrivelmente real. 
 (Inácio Araujo) 
 
@@ -3187,9 +3187,9 @@ A FÚRIA (The Fury). EUA, 1978, 117 min. Direção: Brian De Palma. Com Kirk Dougla
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-139</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-139</field>
+<field name="date">941002</field>
+<text_pt>
 "A Ambulância" é o tipo de filme que se vai ver esperando muito pouco. Já a história cheira a uma fraude grosseira, ou à inconsequência patológica. Pessoas ficam doentes na rua. Imediatamente, aparece uma ambulância para recolhê-las. Logo, o parente ou amigo vai ao hospital em busca de notícias. Surpresa: não há ninguém com esse nome por lá, nem em qualquer outro lugar. Mas é a partir desse fio de história (e com um pequeno orçamento) que Larry Cohen puxa habilmente os fios e cria uma atmosfera em que a angústia e o medo rivalizam com a horrível imagem da ambulância, sempre ali, sempre prestes a dar fim em alguém: um pesadelo modesto, é verdade, mas cheio de engenho e talento. 
 (IA) 
 
@@ -3197,9 +3197,9 @@ A AMBULÂNCIA (The Ambulance). EUA, 1990, 92 min. Direção: Larry Cohen. Com Eric 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-140</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-140</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 A revelação de que Gustavo (Kadu Moliterno) não era estéril vai agitar a novela "Pátria Minha" esta semana. Na terça, um exame de DNA feito com uma mecha de cabelo de Gustavo provará que Alice (Cláudia Abreu) era realmente sua filha. Alice passa a ser agora a única herdeira de Raul (Tarcísio Meira), um dos homens mais ricos do Brasil. Raul, no entanto, não se deixa abater. No sábado, diz a Lídia (Vera Fischer) que quer um filho para ter um novo herdeiro.
 
@@ -3210,9 +3210,9 @@ Esta semana, em "A Viagem", Diná (Cristiane Torloni) vai viajar no tempo e viver
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-141</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-141</field>
+<field name="date">941002</field>
+<text_pt>
 Abrindo espaço para o rock brasileiro, o "Peso Local" mostra amanhã trechos de shows e entrevistas com três bandas tupiniquins que cantam em inglês. São elas Pitbulls On Crack, Angra e Dr. Sin (foto). Hard rock e heavy metal são os estilos.
 Peso Local MTV, 17h.
 
@@ -3246,9 +3246,9 @@ Clássicos MTV especial - MTV, 17h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-142</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-142</field>
+<field name="date">941002</field>
+<text_pt>
 Gestão por processos revoluciona empresas e altera o perfil e o destino de seus funcionários
 DENISE CHRISPIM MARIN
 Da Reportagem Local
@@ -3273,9 +3273,9 @@ Na Promon Eletrônica, a reengenharia terceirizou a atividade de pelo menos 100 p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-143</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-143</field>
+<field name="date">941002</field>
+<text_pt>
 O que é
 Revisão total das premissas, estratégias e processos que compõem a operação de uma empresa. Os objetivos são a satisfação do cliente, interno ou externo, e a redução de custos
 Como acontece
@@ -3381,9 +3381,9 @@ Informações: (011) 575-1400
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-144</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-144</field>
+<field name="date">941002</field>
+<text_pt>
 RICARDO GANDOUR
 Editor de Suplementos
 Para o consultor norte-americano John Thompson, mudar o modo de trabalhar não quer dizer, necessariamente, demitir.
@@ -3405,9 +3405,9 @@ Thompson -Exato. 60% das principais empresas da América do Norte e Europa estão 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-145</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-145</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 O consultor norte-americano Thomas H. Davenport, especialista em tecnologia de informação, acredita que a reengenharia tende a valorizar os profissionais.
 Sócio do Center for Information Technology and Strategy da Ernst &amp; Young em Boston (EUA), Davenport esteve no último dia 21 em São Paulo no seminário "Além da Reengenharia - O Novo Mundo da Gestão por Processos", promovido pela TDC e Cincom. No intervalo, ele falou à Folha:
@@ -3424,76 +3424,76 @@ Davenport - Isso acontece, mas não precisa ser assim. Trata-se de um entendiment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-146</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-146</field>
+<field name="date">941002</field>
+<text_pt>
  A propriedade de um invento depende de sua natureza, da atividade da empresa e de sua relação com o contrato de trabalho. Pertencerá ao empregado ou prestador de serviços o invento ou aperfeiçoamento realizado sem relação com o contrato de trabalho ou prestação de serviços ou sem a utilização de recursos, dados, meios materiais, instalações ou equipamentos do empregador. Pertencerão ao empregador os inventos e aperfeiçoamentos realizados durante a vigência de contrato expressamente destinado à pesquisa, em que a atividade inventiva do empregado ou prestador de serviços seja prevista ou decorra da própria natureza da atividade contratada. O empregado pode realizar um invento decorrente tanto de sua contribuição pessoal como de recursos, dados, meios, materiais, instalações ou equipamentos do empregador. Nesse caso, salvo estipulação em contrário, o invento será de propriedade comum, em partes iguais, garantido ao empregador o direito exclusivo da licença de exploração e ao empregado a remuneração que for fixada. (Consultoria: Grupo IOB)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-147</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-147</field>
+<field name="date">941002</field>
+<text_pt>
 Peter Drucker e John Naisbitt, dois dos mais conhecidos especialistas internacionais em tendências de administração e negócios, falam dos EUA via satélite 3.000 a profissionais brasileiros no dia 17, em São Paulo. O tema é o cenário mundial contemporâneo, com base no qual os participantes refletirão sobre a evolução do Brasil nos próximos cinco anos. Informações: (011) 255-6655.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-148</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-148</field>
+<field name="date">941002</field>
+<text_pt>
 O Centro de Estudos Executivos da IBM Gávea, no Rio, inicia no dia 16 um programa de quatro semanas destinado a executivos gaúchos. O objetivo é desenvolver uma visão holística dos negócios e estimular troca de experiências, especialmente na área do Mercosul. A última semana será no Centro de Desenvolvimento Executivo da IBM em Palisades (EUA). Informações: (021) 271-3818.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-149</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-149</field>
+<field name="date">941002</field>
+<text_pt>
 Começam no dia 17 os cursos intensivos de inglês, espanhol e alemão do Senac (Serviço Nacional de Aprendizagem Comercial). Os programas duram até dezembro e as aulas são de 2h30, de segunda a quinta. Os interessados devem fazer um teste de avaliação. O curso de espanhol é o mais barato &#150;R$ 180,00. O de alemão custa R$ 255,00 e o de inglês, R$ 406. Informações: (011) 258-5388.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-150</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-150</field>
+<field name="date">941002</field>
+<text_pt>
 Com base em casos reais de profissionais que deixaram seus empregos, o livro "De Empregado a Empregador" (Editora STS, 139 págs., R$ xx,xx), explica as etapas que envolvem a criação de um negócio próprio. O trabalho, de Ricardo Xavier e Claudir Franciatto, é resultado do "Programa de Transição Profissional" desenvolvido pela Manager Assessoria em Recursos Humanos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-151</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-151</field>
+<field name="date">941002</field>
+<text_pt>
 Ana Cristina Coletti, 32, está assumindo o cargo de gerente de recursos humanos e qualidade da Sodexho do Brasil, empresa de origem francesa do ramo de alimentação coletiva. Ana Cristina é nutricionista e está na Sodexho desde 84. Começou como administradora de restaurante e, evoluindo em sua carreira, passou por treinamentos em diversas filiais no Brasil e no exterior.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-152</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-152</field>
+<field name="date">941002</field>
+<text_pt>
 O Banco Pontual acaba de contratar Vagner Quitério, 48, como vice-presidente de sua área internacional, em fase de expansão. Quitério especializou-se em administração financeira e de negócios na FGV e nos EUA, onde trabalhou vários anos como representante do Brasil em bancos norte-americanos. Anteriormente, ocupou o cargo de diretor-executivo do Banco Industrial e Comercial.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-153</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-153</field>
+<field name="date">941002</field>
+<text_pt>
 Business Week 
 De Nova York
 Os executivos devem se concentrar em fazer com que suas empresas sejam capazes de "criar" o futuro em suas áreas &#150;em vez de continuar demitindo para cortar custos. Essa é a tese de "Competing for the Future", dos pesquisadores Gary Hamel e C.K. Prahalad (Harvard Business School Press, 377 págs, US$ 24,95), que, segundo a "Business Week", tem tudo para se tornar um best-seller.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-154</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-154</field>
+<field name="date">941002</field>
+<text_pt>
 Time 
 De Nova York
 Várias universidades dos EUA estão detectando um movimento de recém-formados em direção ao exterior. Em Stanford, uma das mais conceituadas, 14% dos formados de 94 fizeram essa opção (6% em 89). Sudeste asiático, América Latina e Europa do Leste são as regiões mais procuradas. Os "imigrantes" trabalham para empresas dos EUA, para firmas locais ou montam negócios próprios.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-155</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-155</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Profissionais com longa experiência em cargos gerenciais e administrativos devem se preocupar, ao fazer o currículo, em mostrar a essência da carreira, resumindo suas conquistas e realizações.
 Muitos, no entanto, preferem descrever em detalhes toda sua trajetória educacional e profissional &#150;o que acaba deixando o currículo extenso e de difícil leitura.
@@ -3507,9 +3507,9 @@ Leitores podem enviar seus currículos, que serão selecionados exclusivamente par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-156</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-156</field>
+<field name="date">941002</field>
+<text_pt>
 Reestruturações nas empresas aumentam responsabilidades e aproximam perfil da secretária ao de um gerente
 JOSÉ VICENTE BERNARDO
 Da Reportagem Local
@@ -3525,9 +3525,9 @@ Segundo o Sinsesp (Sindicato das Secretárias do Estado de São Paulo), a média do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-157</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-157</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 A profissão de secretária tem sido, nas últimas décadas, eminentemente feminina. Nem sempre foi assim, e há sinais de que a proporção de homens ocupando o cargo tende a aumentar.
 Até a Primeira Guerra Mundial, não se admitiam mulheres em escritórios. Segundo o "Dicionário das Profissões", editado pelo CIEE (Centro de Integração Empresa-Escola), as guerras abriram as portas à profissionalização da mulher enquanto os homens combatiam no front.
@@ -3538,9 +3538,9 @@ Pesquisa feita em 93 pelo Senac (Serviço Nacional de Aprendizagem Comercial) rev
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-158</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-158</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Uma monografia sobre sua profissão rendeu a Ester Domiciano de Paula Marcondes, 38, uma viagem aos Estados Unidos e uma homenagem durante festa que reuniu mais de 2.000 secretárias no Olympia, em São Paulo, na última terça-feira. O prêmio foi entregue pelo ator Edson Celulari.
 Usando modelos japoneses de qualidade como ponto de partida, Ester mostrou, em sua dissertação, que "hoje estamos mais preocupadas em formar parcerias". Ela é secretária do gabinete da presidência da Eletropaulo há sete anos.
@@ -3555,9 +3555,9 @@ Qualidade total, mercado de trabalho e reengenharia serão debatidos a bordo de u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-159</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-159</field>
+<field name="date">941002</field>
+<text_pt>
 CLÁUDIA RIBEIRO MESQUITA
 Free-lance para a Folha
 A falta de bons chefes executivos de cozinha &#150;legitimamente brasileiros&#150; está movimentando a divisão de hotelaria e turismo do Senac (Serviço Nacional de Aprendizagem Comercial).
@@ -3580,9 +3580,9 @@ ONDE SABER MAIS: Centro de Estudos de Administração em Turismo e Hotelaria do Se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-160</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-160</field>
+<field name="date">941002</field>
+<text_pt>
 Velocidade de vendas média na região foi de 27,2%, segundo Datafolha; litoral registrou queda no índice
 Da Redação
 O ABCD registrou uma velocidade de vendas média de apartamentos novos de 27,2% em agosto, o segundo maior índice de comercialização do ano na região. Março continua com o recorde de 94 (34,5%). O litoral registra queda no índice, de 5,6% (julho) para 3,8%.
@@ -3599,9 +3599,9 @@ O balanço é um estudo do mercado de imóveis novos na cidade de São Paulo, ABCD e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-161</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-161</field>
+<field name="date">941002</field>
+<text_pt>
 Cubas para banheiro em peça única, tecido em Teflon, banheiras em acrílico e fechaduras em ouro.
 Esses são alguns dos produtos apresentados no 2º Salão do Produto/Arquitetura de Interiores, no Museu da Casa Brasileira, encerrado dia 25 em São Paulo.
 As fechaduras são feitas de latão e recobertas de ouro de 14 e 18 quilates, conforme a preferência do cliente, sob encomenda.
@@ -3615,16 +3615,16 @@ DuPont - tel. (011) 421-8282; Formatex - tel. (011) 280-7422; Modelle - tel. (01
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-162</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-162</field>
+<field name="date">941002</field>
+<text_pt>
 Resposta do arquiteto Rafael Perrone: "A residência de campo deverá ser implantada no sentido longitudinal do lote. O projeto foi concebido para ser executado em três etapas. Na primeira, com área de 110 m2, seria construída a parte composta pelo setor de serviços e a área das salas. Nessa fase, a área das salas será dividida através de portas de correr, criando-se dois dormitórios. Na segunda fase, com área de 72 m2, seria construído o bloco definitivo, que contém os três dormitórios. As portas divisórias seriam aproveitadas como caixilhos dos dormitórios executados nesta etapa. Na terceira fase, seria executada a cobertura da garagem, com área de 30 m2. A construção dos blocos deverá ser implantada em níveis que permitam a adequação ao ligeiro declive do lote e a superposição dos telhados, de forma a facilitar os acoplamentos das várias fases." 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-163</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-163</field>
+<field name="date">941002</field>
+<text_pt>
 WALDIR DE ARRUDA MIRANDA CARNEIRO
 Há controvérsia sobre a validade da proibição da transferência do contrato de locação
 O art. 13 da nossa atual Lei do Inquilinato, mantendo o tratamento do diploma anterior, estabeleceu que "a cessão da locação, a sublocação e o empréstimo do imóvel, total ou parcialmente, dependem de consentimento prévio e escrito do locador".
@@ -3641,9 +3641,9 @@ WALDIR DE ARRUDA MIRANDA CARNEIRO, 30, é advogado em São Paulo, especializado em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-164</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-164</field>
+<field name="date">941002</field>
+<text_pt>
 Nos últimos dois anos, as maiores reduções ocorreram em unidades de alto padrão, com quatro ou cinco quartos
 Da Reportagem Local
 A área dos apartamentos lançados em São Paulo fica um pouco menor a cada ano. Estudo do Datafolha mostra que as unidades de alto padrão &#150;com quatro e cinco quartos&#150; sofrerem as maiores reduções nos últimos dois anos.
@@ -3669,9 +3669,9 @@ Esse custo pode ser semelhante no caso de unidades de um ou três quartos, por ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-165</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-165</field>
+<field name="date">941002</field>
+<text_pt>
 Equipamentos como triturador de restos e armário com prateleira deslizante são dicas para "ampliar" ambiente
 Free-lance para a Folha
 Evitar ângulos retos, substituir cesto de lixo por triturador de restos importado e apelar para armários com prateleiras deslizantes.
@@ -3695,9 +3695,9 @@ Kitchen, av. Brig. Faria Lima, 1458, tel. (011) 813-6590
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-166</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-166</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 Dois meses após o início do horário eleitoral gratuito, 94,8 milhões de eleitores têm a chance de escolher amanhã o presidente que, a partir do 1º de janeiro, irá governar o Brasil pelos próximos quatro anos.
 Cada um dos candidatos que estão à frente nas pesquisas deu relevância a problemas evidentes da sociedade brasileira.
@@ -3707,9 +3707,9 @@ Se a tendência revelada nas pesquisas se concretizar, o eleitorado estará dando 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-167</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-167</field>
+<field name="date">941002</field>
+<text_pt>
 JUAN J. LINZ
 Eleições são um momento "ritual" de confiança e ilusão. É importante, entretanto, ter em mente os limites do que pode fazer a democracia. Não devemos gerar esperanças demais.
 Nem o Estado nem o presidente podem criar, da noite para o dia, funcionários e policiais honestos e competentes; na melhor das hipóteses, podem eliminar os desonestos e incompetentes. Podem criar oportunidades para os empresários, mas, se não houver empreendedores que assumam riscos, não haverá desenvolvimento econômico. Podem criar hospitais, mas não assegurar a preocupação dos médicos com pacientes.
@@ -3729,9 +3729,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-168</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-168</field>
+<field name="date">941002</field>
+<text_pt>
 Tucano diz que petistas estão "cutucando onça com vara curta" ao insinuarem financiamento do exterior
 LÚCIO VAZ
 Em São Paulo
@@ -3753,9 +3753,9 @@ FHC disse que não iria mais dar entrevistas devido à orientação do procurador-ge
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-169</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-169</field>
+<field name="date">941002</field>
+<text_pt>
 EVANDRO EBOLI
 Da Agência Folha, em Juiz de Fora
 O presidente Itamar Franco já escolheu quase todos os seus candidatos. Dos seis cargos em disputa, ele definiu cinco nomes. Falta o o presidente anunciar seu voto para a segunda vaga ao Senado.
@@ -3771,9 +3771,9 @@ O presidente manterá a tradição de votar às 16h30 em uma agência do Banco Real, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-170</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-170</field>
+<field name="date">941002</field>
+<text_pt>
 Segundo colaboradores, tucano continua ligado às teses do Cebrap, centro de produção intelectual esquerdista
 CLÓVIS ROSSI
 Da Reportagem Local
@@ -3804,9 +3804,9 @@ Agora, só o tempo dirá quem tem razão, se Sérgio Motta ou Thomas Skidmore.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-171</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-171</field>
+<field name="date">941002</field>
+<text_pt>
 Da Reportagem Local
 Caso confirme amanhã nas urnas a vantagem que lhe dão as pesquisas, o senador Fernando Henrique Cardoso terá de enfrentar, além dos desafios da Presidência, um de ordem pessoal: provar que o político não traiu o intelectual.
 Até entrar na corrida presidencial, selando alianças com PFL e PTB e obtendo de arrastão o apoio de todos os setores que vêem na vitória de Lula uma hecatombe política, FHC não vivia esse problema.
@@ -3833,9 +3833,9 @@ Como diz um de seus melhores amigos, até assumir a Fazenda, Fernando Henrique er
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-172</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-172</field>
+<field name="date">941002</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Bomba! Bomba! O Fernando Henrique acaba de me ligar dizendo que vai nomear o Enéas pra ministro do Trabalho. Rarará. Essa foi a grande revelação da semana: Enéa expulso do hospital por excesso de faltas (de parafuso). E eu já disse que se depender das promessas do Don Doca FHC e do Lula Lelé o Brasil vai exportar emprego. Nunca vi prometer tanto. Os Prometedores de Promessas!
@@ -3852,9 +3852,9 @@ Quem quer mudanças que procure o Expresso Já Vai!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-173</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-173</field>
+<field name="date">941002</field>
+<text_pt>
 Petista tende a deixar de concorrer a cargos majoritários, decepcionado com a reação do eleitorado de baixa escolaridade
 CARLOS EDUARDO ALVES
 Da Reportagem Local
@@ -3887,9 +3887,9 @@ As dificuldades diagnosticadas por Lula servem de alerta para o sindicalista que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-174</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-174</field>
+<field name="date">941002</field>
+<text_pt>
 
 Esta reportagem informa incorretamente que o candidato derrota do PT à Presidência, Luiz Inácio Lula da Silva, perdeu o dedo mínimo da mão direita em acidente. Lula perdeu o dedo mínimo da mão esquerda.ERRAMOS
 Preconceito persegue o petista
@@ -3918,9 +3918,9 @@ Preso por um lado aos compromissos com a mudança que o fizeram chegar até aqui, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-175</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-175</field>
+<field name="date">941002</field>
+<text_pt>
 Confira as idéias com as quais você mais simpatiza e escolha um candidato
 1. O que você gostaria que seu candidato fizesse no primeiro dia de governo?
 a. Um conjunto de medidas para estimular a criação de empregos
@@ -4037,9 +4037,9 @@ Obs.:as assessorias de Carlos Gomes (PRN) e Almirante Fortuna (PSC) não fornecer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-176</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-176</field>
+<field name="date">941002</field>
+<text_pt>
 CYNARA MENEZES
 Da Sucursal de Brasília
 Para vice, Darcy Ribeiro. Se este ano ficou provado que vice bom é o que não aparece, o companheiro de chapa do presidenciável Leonel Brizola (PDT) foi o melhor.
@@ -4060,9 +4060,9 @@ A julgar pelo desempenho dos demais, concorrem com Darcy Ribeiro ao título de me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-177</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-177</field>
+<field name="date">941002</field>
+<text_pt>
 Veja abaixo um resumo dos principais fatos no período e as imagens mais marcantes da corrida pela sucessão presidencial
 19 de abril de 1993 - Lula é o primeiro candidato a se lançar em campanha, com as "Caravanas da Cidadania". A primeira delas, de 19 de abril a 11 de maio, refaz seu trajeto de Garanhuns (PE), onde nasceu, à Baixada Santista (SP).
 21 de abril - Plebiscito sobre forma e sistema de governo, realizado em todo o país, decide manter a República (com 66% dos votos) e o presidencialismo (55,4%).
@@ -4104,9 +4104,9 @@ FHC usa a estrutura do Senado para sua campanha. Distribui agenda de viagem pelo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-178</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-178</field>
+<field name="date">941002</field>
+<text_pt>
 25 e 26 de julho - FHC supera Lula nas intenções de voto no segundo turno (47% a 40%), segundo o Datafolha.
 25 de julho - Quércia lança seu programa de governo em São Paulo. Faltam ao evento as principais lideranças peemedebistas.
 28 de julho - PT e os partidos que apóiam Lula definem a renúncia de Bisol e sua substituição pelo deputado federal Aloizio Mercadante. O novo vice afirma que só Lula poderá "viabilizar" o Real.
@@ -4146,9 +4146,9 @@ O governo intervém na negociação entre empresas e trabalhadores, alegando que o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-179</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-179</field>
+<field name="date">941002</field>
+<text_pt>
 Plano econômico faz inflação despencar, muda campanha eleitoral, une adversários e abafa a oposição
 ELEONORA DE LUCENA
 Secretária de Redação
@@ -4168,9 +4168,9 @@ São temas que ficaram de fora da campanha eleitoral. Por enquanto, só se fala em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-180</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-180</field>
+<field name="date">941002</field>
+<text_pt>
 A Popularidade do presidente é menor nos Estados onde o desempenho de Lula nas pesquisas é melhor
 De carona no Plano Real, o presidente Itamar Franco comemora hoje dois anos de governo em lua-de-mel com população. Ele está a apenas 90 dias de deixar o cargo..
 Pesquisa Datafolha realizada nos dias 27 e 28 de setembro, em todo o país, mostra que 32% consideram o governo Itamar "ótimo/bom" e 49% que classificam a gestão como "regular".
@@ -4189,9 +4189,9 @@ Em 93, num desabafo, disse que desejava que o 1º de janeiro da posse do novo pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-181</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-181</field>
+<field name="date">941002</field>
+<text_pt>
 Contando com os eleitos na esteira do Plano Real e cooptando adversários, tucano poderá governar sem oposição
 Da Reportagem Local
 Se o Plano Real terá ou não o mesmo destino do Plano Cruzado, é cedo para se saber. Mas, no plano eleitoral, o desfecho será virtualmente idêntico.
@@ -4215,9 +4215,9 @@ Mas Hélio Costa, seu candidato em Minas, tem feito o possível para levar FHC a s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-182</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-182</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 A participação das mulheres na vida política do país ainda é muito pequena. Embora sejam 49,5% do eleitorado, elas representam apenas 0,6% dos candidatos. São 791 candidatas num total de 11.964 inscritos.
 Os obstáculos para que as mulheres se lancem candidatas explicam a importância assumida pelos vínculos familiares. A candidata à Vice-Presidência de Esperidião Amin é a ex-prefeita de São Luís Gardênia Gonçalves, mulher do ex-senador João Castelo. Já a vice de Orestes Quércia é Iris de Araújo Resende, mulher do ex-governador Iris Resende.
@@ -4225,9 +4225,9 @@ Entre as que disputam os governos, Lúcia Vânia (GO) é mulher do ex-governador Ir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-183</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-183</field>
+<field name="date">941002</field>
+<text_pt>
 
 Este quadro omitiu os índices dos candidatos Eduardo Resstom (PSC), Brigadeiro Dutra (PRONA) e Ciro Moura (PRN) na pesquisa Datafolha divulgada ontem. Na simulação de urna, Resstom e Dutra aparecem com 1% cada um e Moura não foi citado. Na estimulada, cada um dos três candidatos aparece com 1% das intenções de voto.ERRAMOS
 Covas cai e SP pode ter segundo turno
@@ -4256,9 +4256,9 @@ A capital continua a ser o forte de Covas, onde atinge o índice de 49%. O pior d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941002-184</text_pt>
-<text_pt name="date">941002</text_pt>
-<text_pt name="text">
+<field name="id">FSP941002-184</field>
+<field name="date">941002</field>
+<text_pt>
 Da Redação
 A disputa pelo governo do Rio de Janeiro chega à boca da urna em empate técnico. Pesquisa realizada pelo Datafolha a três dias da eleição aponta vantagem de apenas um ponto porcentual em favor do candidato Marcello Alencar (PSDB), que tem 32% das intenções de voto, contra 31% de Anthony Garotinho (PDT).
 Na pesquisa espontânea &#150;na qual o eleitor não recebe o cartão com os nomes dos candidatos&#150;, Marcello lidera, também dentro da margem de erro: 25% a 22%. Na simulação de segundo turno, no entanto, o tucano venceria com mais folga: 48% a 40%.

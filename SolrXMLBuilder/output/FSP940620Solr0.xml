@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940620-001</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-001</field>
+<field name="date">940620</field>
+<text_pt>
 Técnico aposta na dupla Romário e Bebeto para vencer a Rússia hoje no jogo que considera o mais difícil
 MÁRIO MAGALHÃES e JOÃO MÁXIMO
 Enviados especiais a Los Gatos
@@ -15,9 +15,9 @@ Copa 94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-002</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-002</field>
+<field name="date">940620</field>
+<text_pt>
 A Câmara está prestes a votar projeto de lei permitindo a dedução, no Imposto de Renda, das doações às campanhas eleitorais. Se a matéria for aprovada &#150;o que parece provável, já que existe um acordo de lideranças nesse sentido&#150;, representará uma flagrante deturpação dos princípios que devem reger a concessão de benefícios fiscais.
 Não se trata, com efeito, de dinheiro que deixa de ir para o fisco para ser aplicado diretamente em obras e atividades de interesse público, como eventos culturais ou instituições de assistência social. Trata-se, isto sim, de dinheiro investido em opções políticas particulares &#150;sejam estas de empresas ou de pessoas físicas&#150;, e que portanto deve sair exclusivamente do bolso do próprio autor da opção.
 Deduzir do Imposto de Renda esse tipo de contribuição equivale a fazer o conjunto da sociedade pagar pela escolha político-partidária de alguns. Isso por si só já seria um atentado à justiça fiscal, uma agressão à idéia de igualdade entre os cidadãos e uma quebra do preceito de que cada indivíduo deve assumir os ônus de sua ação política.
@@ -28,9 +28,9 @@ Ainda há tempo para que os deputados percebam a gravidade da decisão e rejeitem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-003</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-003</field>
+<field name="date">940620</field>
+<text_pt>
 O Brasil estréia hoje na Copa do Mundo de futebol, nos Estados Unidos. A julgar pelo que ocorreu por ocasião dos campeonatos mundiais anteriores, o país deve praticamente parar para torcer por sua seleção.
 Que uma tal concentração de atenções e energias ocorra durante o par de horas que dura cada partida &#150;ressalvadas as atividades que, por serem essenciais, não podem parar&#150; é um fato essencialmente positivo. Revela, além de um saudável gosto pelo lúdico, que a auto-estima dos brasileiros, pelo menos nesse terreno, não está tão baixa quanto a interminável crise econômica e os desenganos políticos poderiam fazer supor.
 Há, contudo, que se evitar os exageros que também costumam ocorrer nesses períodos. Um país em que, tradicionalmente, a atividade econômica e o funcionamento das instituições se ressentem da grande quantidade de feriados &#150;eventualmente prolongados pela proximidade com o fim-de-semana&#150; não pode diminuir seu ritmo de trabalho ou suspender parte de suas atividades cotidianas em função de uma tal monomania.
@@ -39,9 +39,9 @@ Nada indica que haja uma relação direta entre a torcida pela seleção e a queda d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-004</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-004</field>
+<field name="date">940620</field>
+<text_pt>
 Inventar já é suficientemente misterioso. Reinventar, então, parece um desafio inconcebível, quanto mais se se trata de reinventar a instituição mais desacreditada e falida do século 20: o Estado. Entretanto, é precisamente com a proposta de "reinventar o governo" que o jornalista David Osborne e o consultor de administração pública Ted Gaebler, ambos norte-americanos, vêm empolgando a opinião pública.
 A originalidade da proposta começa pela ironia de defender uma "perestroika" nos EUA. Ao mesmo tempo, insere-se numa tradição crítica ao denunciar os vícios da burocratização da economia que, afinal, tornou-se célebre justamente pelo vigor de seus mercados e pelo dinamismo de suas empresas.
 A essência do que propõem é uma extensão do liberalismo dos anos 80, mas desviculado de qualquer compromisso com o conservadorismo tradicional. O aspecto positivo em relação ao liberalismo é a contínua valorização do espírito empreendedor como mola propulsora do progresso. O aspecto crítico frente a esse mesmo liberalismo é a valorização do governo, a insistência mesmo na necessidade do Estado. Nesse sentido, reinventar o governo &#150;à parte os esforços de privatização, combate à corrupção e desburocratização&#150; significa forçar o próprio Estado e os burocratas a se transformarem em agentes empreendedores.
@@ -50,9 +50,9 @@ As experiências do Leste Europeu e da Rússia mostram que a transição ao regime d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-005</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-005</field>
+<field name="date">940620</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; O presidente voltou a cobrar serviço de seus auxiliares. Deu o prazo de um mês para os preços caírem e a inflação baixar. É bastante vaga essa cobrança: a quem Itamar está cobrando? A ele mesmo? Ao mercado? Teve mais de um ano para fazer os preços baixarem e o máximo que conseguiu foi um plano que, até agora, fez exatamente o contrário.
 O ministro Ricupero garante que em julho ainda haverá aquilo que o ex-ministro Marcílio Moreira chamava de "soluços" inflacionários. Mas, depois de julho, conforme se lerá em portarias e decretos publicados no "Diário Oficial da União", a inflação acabará e &#150;ainda por decreto&#150; seremos felizes como naquele antigo bolero cantado pelo Pedro Vargas.
@@ -63,9 +63,9 @@ Itamar não é formado em direito nem em farmácia &#150;pelo menos não tenho notíc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-006</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-006</field>
+<field name="date">940620</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA &#150; Nós, brasileiros, somos coveiros das próprias obsessões. Veja, por exemplo, o problema da dinheirama que azeita a engrenagem das campanhas eleitorais.
 Depois de Collor e PC Farias, cobramos maior transparência. Súbito, nossa idéia fixa feneceu. Sem qualquer solenidade, como quem joga terra sobre um indigente, soterramos no inconsciente mais esta obsessão.
@@ -79,9 +79,9 @@ A propósito, os candidatos deveriam tomar a iniciativa. Embora não obrigue, a le
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-007</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-007</field>
+<field name="date">940620</field>
+<text_pt>
 Marcelo Beraba
 SÃO PAULO &#150; Várias candidaturas para o Congresso e para as assembléias estaduais já se transformaram em balcões de negociatas.
 A lei eleitoral, apesar de criada após o Collorgate e de sua gênese &#150;a eleição de 89&#150;, não vem sendo suficiente para impedir que isto aconteça.
@@ -97,9 +97,9 @@ Se não for feito algo muito rapidamente, corremos o risco de ter uma campanha ai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-008</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-008</field>
+<field name="date">940620</field>
+<text_pt>
 Florestan Fernandes
 Nada é mais revelador que o discurso de um candidato à Presidência. Ele pode esconder ou revelar o candidato &#150;sua integridade, sua devoção às causas que propõe, sua identidade com os que ouvem. O discurso também pode ser um ato de reciprocidade, apesar de a pessoa que fala ficar em um palanque e distante da maioria dos ouvintes.
 O discurso do dia 12 deste mês colocou Lula diante de uma massa compacta, calculada em 50 mil pessoas. Ele já perdeu os ares toscos do início da carreira. É competente no manejo da linguagem e da forma de compartilhar os sentimentos, estados de espírito e esperanças com aqueles que buscam em suas palavras razões para acreditar que não são párias rejeitados nem vítimas do "inferno da terra". Como João Batista, propaga acusações que fazem estremecer os que são puros ou perseguem a purificação. Como Cristo, oferece a outra face e prega aos "malditos da terra". Esse circuito esgota o substrato do seu compromisso íntimo com o populismo dos de baixo.
@@ -111,9 +111,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-009</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-009</field>
+<field name="date">940620</field>
+<text_pt>
 ÁLVARO VILLAÇA AZEVEDO
 Minha primeira preocupação, se eleito diretor da Faculdade de Direito do largo de São Francisco, é a de realizar uma administração aberta, transparente e democrática, consultando as bases, sempre que possível, aplicando a lei, com justiça, ouvindo, sempre, os interessados.
 A par da estrutura atual de funcionamento da faculdade, em que o diretor toma conhecimento dos problemas, no mais das vezes, por via indireta, após discussão nos departamentos, em que o corpo discente tem apenas um voto, tenho em mira a realização de reuniões mensais, com os representantes dos alunos e dos funcionários, para tentar resolver, com eles, as questões administrativas.
@@ -135,9 +135,9 @@ Tenha-se presente que não será fácil realizar grandes inovações, com as verbas o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-010</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-010</field>
+<field name="date">940620</field>
+<text_pt>
 DALMO DE ABREU DALLARI
 "O justo equilíbrio de uma faculdade de direito estará, por conseguinte, em saber elevar a mocidade ao plano mais alto, em que se debatem as idéias gerais e os princípios, sem olvido das exigências práticas com que se haverá de defrontar o futuro advogado."(Miguel Reale)
 
@@ -165,9 +165,9 @@ DALMO DE ABREU DALLARI, 62, advogado, é professor titular e candidato a diretor 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-011</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-011</field>
+<field name="date">940620</field>
+<text_pt>
 "Quero manifestar meu apoio ao professor Anibal Faundes, do Caism-Unicamp, por sua corajosa decisão de autorizar a realização de abortos na instituição que dirige, em casos de fetos malformados e sem chance de sobreviver. É preciso atualizar a lei que regulamenta a interrupção voluntária da gravidez, como fazem todos os países civilizados."
 Ennio Candotti, professor do Instituto de Física da Universidade Federal do Rio de Janeiro (Rio de Janeiro, RJ)
 
@@ -221,9 +221,9 @@ Roberval Borges Corrêa, diretor-regional da Empresa Brasileira de Correios e Tel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-012</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-012</field>
+<field name="date">940620</field>
+<text_pt>
 Lula - Passou o dia em casa. À noite, viajou para a África do Sul. Antes de embarcar, disse que seu governo será "maior do que o PT". pág.1-7
 
 FHC - Fez campanha no Ceará, acompanhado do candidato do PSDB ao governo do Estado, Tasso Jereissati e do atual governador, Ciro Gomes. Em Sobral, afirmou que este é o momento da virada. Encerrou o dia em Juazeiro do Norte. pág.1-6
@@ -237,9 +237,9 @@ Amin - Participou de torneio de tênis em Brasília. Visitou a cidade-satélite de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-013</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-013</field>
+<field name="date">940620</field>
+<text_pt>
 Campanha entra em ritmo de Copa; Lula visita Mandela
 Lula - Na semana da estréia do Brasil na Copa, o candidato do PT aproveita o marasmo local para uma viagem internacional. Ele se encontra hoje em Pretória com o presidente da África do Sul, Nelson Mandela. Amanhã, tem encontro com líderes da Cosato (central sindical sul-africana). Na quarta-feira, Lula presencia a abertura dos trabalhos da Assembléia Nacional Constituinte e se encontra com membros do novo governo. Na quinta e na sexta, Lula estará na Alemanha, onde será recebido por líderes do Partido Social-Democrata e pelo secretário de Estado de Relações Exteriores.
 
@@ -254,9 +254,9 @@ Obs.: As agendas dos candidatos são fornecidas por suas assessorias e estão suje
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-014</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-014</field>
+<field name="date">940620</field>
+<text_pt>
 Candidato informa que tem 50% da TV Princesa D'Oeste, de Campinas; ministério diz que não autorizou aquisição
 ELVIRA LOBATO
 Da Reportagem Local
@@ -273,9 +273,9 @@ Ele só pode pleitar a aquisição das ações após o presidente aprovar o pedido dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-015</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-015</field>
+<field name="date">940620</field>
+<text_pt>
 Medicamentos ficam na fila até cinco anos para obter registro; lei determina que resposta seja dada em 90 dias
 SÔNIA MOSSRI
 Da Sucursal de Brasília
@@ -294,9 +294,9 @@ Tanus disse que foi alertado sobre problemas no registro de medicamentos e, por 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-016</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-016</field>
+<field name="date">940620</field>
+<text_pt>
 Banco constatou saques nas cadernetas de poupança de pequenos investidores; dinheiro foi para o consumo
 RODNEY VERGILI
 Da Reportagem Local
@@ -312,9 +312,9 @@ Brandão manifesta confiança na estabilização da economia brasileira, afirmando q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-017</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-017</field>
+<field name="date">940620</field>
+<text_pt>
 (continuação)
 Folha - Qual é a sua avaliação do Plano Real e dos efeitos da queda da inflação sobre os lucros do sistema financeiro?
 Lázaro de Mello Brandão - Depois de décadas de inflação, põe-se em dúvida se a estabilidade interessa ao sistema financeiro. Temos que desmistificar essa história. É uma tolice enorme. Temos o exemplo dos países adiantados, em que os bancos ganham&#150; e ganham bem &#150;e são saudáveis num regime não-inflacionário. Podemos repetir o mesmo desempenho aqui, com muito mais segurança. Os bancos &#150;e particularmente o Bradesco&#150; têm perseguido o regime de estabilidade desde o Plano Cruzado, em 1986. Lá, nós verificamos que, mais cedo ou mais tarde, o Brasil teria que conviver com uma economia e uma moeda estáveis. Não só o Cruzado, como os outros planos que o sucederam, não funcionaram, inclusive os mais recentes &#150;Collor 1 e 2&#150; que foram até mais violentos. Não obstante, convergimos todo o trabalho para nos situarmos dentro de um período de estabilidade.
@@ -357,9 +357,9 @@ Brandão - Com base na experiência do Cruzado, os depósitos à vista devem se mult
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-018</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-018</field>
+<field name="date">940620</field>
+<text_pt>
 Nome: Lázaro de Mello Brandão
 Idade: 68 anos
 Local de nascimento: Itápolis (SP)
@@ -371,9 +371,9 @@ Hobby: leitura, filmes em vídeo e, nos fins-de-semana, viajar para sua fazenda e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-019</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-019</field>
+<field name="date">940620</field>
+<text_pt>
 Minas Gerais e Ceará foram favorecidos com a realocação de verbas feitas por Beni Veras, do Planejamento
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -395,9 +395,9 @@ Especificamente no caso de Sobral, o ministro argumentou que o município precisa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-020</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-020</field>
+<field name="date">940620</field>
+<text_pt>
 LILIANA LAVORATTI
 Da Sucursal de Brasília
 O governo vai aumentar o valor da URV (Unidade Real de Valor) até o final de junho, para neutralizar o efeito da aceleração dos preços deste mês na inflação de julho &#150;o primeiro mês da nova moeda.
@@ -413,9 +413,9 @@ O acompanhamento de preços da Fazenda identificou na última semana um movimento 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-021</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-021</field>
+<field name="date">940620</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG
 Enviado Especial a Brasília
 Os oito ministros da área econômica almoçam juntos hoje, no que será a primeira reunião de um comitê de acompanhamento do plano de estabilização.
@@ -435,9 +435,9 @@ Além disso, diz Veras, é preciso que todo o governo assuma com convicção o esfor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-022</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-022</field>
+<field name="date">940620</field>
+<text_pt>
 FERNANDO MOLICA
 Enviado especial a Barreiras (BA)
 O candidato do PDT à Presidência, Leonel Brizola, criticou a possibilidade de as doações aos partidos feitas em troca de bônus eleitorais serem abatidas do imposto de renda.
@@ -452,9 +452,9 @@ O repórter viajou a convite do PDT.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-023</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-023</field>
+<field name="date">940620</field>
+<text_pt>
 O candidato do PPR à Presidência, Esperidião Amin, disse ontem que o próximo presidente terá de baixar três medidas para "salvar" o Plano Real. A principal é garantir a revisão constitucional. Terá ainda de recuperar salários após um ano de congelamento e incentivar exportações, prejudicadas pelo câmbio congelado. Amin disse que Lula for eleito não cumprirá a meta de gerar oito milhões de empregos.
 
 ROCHA
@@ -463,9 +463,9 @@ classificou o Plano Real de "calote eleitoral", comeu pastel e tomou caldo de ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-024</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-024</field>
+<field name="date">940620</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Tem muita gente no Brasil tirando vantagem da Copa. O nacionalismo crescente, na véspera da estréia do Brasil, serviu até para lançar uma telenovela, das oito, na Globo. O título é "Pátria Minha", com um logotipo todo verde. Lembra a bandeira nacional.
@@ -481,9 +481,9 @@ Enquanto isso, enquanto corre a Copa, o país continua o mesmo. O Rio de Janeiro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-025</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-025</field>
+<field name="date">940620</field>
+<text_pt>
 Candidato elogia fato de Nelson Mandela ter convidado integrantes da minoria branca para compor ministério
 CLÁUDIA TREVISAN
 Da Reportagem Local
@@ -502,9 +502,9 @@ Lula disse que não dá importância à acusação de Leonel Brizola, de que seu patri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-026</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-026</field>
+<field name="date">940620</field>
+<text_pt>
 A 1ª Intermoda Brasil-Chile, que começa amanhã no Chile e vai até o dia 25 próximo, reunirá 60 empresas ligadas ao setor de vestuário, calçados, acessórios e equipamentos. O Brasil é o segundo maior fornecedor do Chile, com um total de 10,3% de suas importações. Entre as empresas brasileiras presentes estarão a Du Loren, De Millus, Loly Pop e Manhattan.
 
 Brasil Rio promove feira de alimentação
@@ -515,9 +515,9 @@ A TDB (Têxtil David Dobrow), fabricante de lycra, está investindo US$ 5 milhões 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-027</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-027</field>
+<field name="date">940620</field>
+<text_pt>
 JOÃO BOSCO LODI
 A revista "Forbes" estima que nas próximas décadas nos EUA US$ 6 trilhões serão transferidos em herança para a próxima geração de acionistas. Apesar dos 50 seminários sobre sucessão familiar hoje oferecidos por universidades e centros de treinamento, duvida-se que isso possa ter qualquer efeito prático para os sucessores.
 Segundo estudo da Prince Associates de Stratford, a grande maioria dos fundadores de empresas não acredita na competência dos filhos para dirigirem o negócio.
@@ -547,9 +547,9 @@ JOÃO BOSCO LODI, 59, é presidente da J.B. Lodi Consultoria e autor de "Fortaleci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-028</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-028</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 A coreana Samsung se prepara para entrar como fabricante de eletroeletrônicos no Brasil.
 A diretoria do grupo, na Coréia, decide até início de 1995, se constrói a Samsung Town (cidade da Samsung) em Santa Catarina.
@@ -567,9 +567,9 @@ Para os que não estão na garantia, a Samsung cobra o preço único de US$ 10. A pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-029</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-029</field>
+<field name="date">940620</field>
+<text_pt>
 A questão do liberalismo ou intervencionismo na atuação do Estado tem dois ângulos.
 No plano intelectual, resume-se a um embate em torno de idéias vagas, que quase nunca induzem à ação.
 Discute-se no vazio, numa polêmica cacete, sem nenhum travo de realidade, onde geralmente o máximo de esforço a que cada lado se permite é xingar o outro de neoliberal ou de intervencionista.
@@ -594,9 +594,9 @@ Genericamente e em tese, quem pode ser contra? Nem o prefeito Paulo Maluf.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-030</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-030</field>
+<field name="date">940620</field>
+<text_pt>
 Da Redação
 A URV (Unidade Real de Valor), embora anunciada em dezembro de 93, foi criada em 28/2/94, através de medida provisória.
 A MP foi reeditada duas vezes e, finalmente, aprovada em maio, sob a forma de projeto de lei de conversão, já que sofreu modificações no Congresso. Foi sancionado como lei 8.880, publicada no "Diário Oficial da União" de 28/5/94.
@@ -606,9 +606,9 @@ Contratos em cruzeiros reais também podem ser convertidos para URV nas mesmas ba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-031</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-031</field>
+<field name="date">940620</field>
+<text_pt>
 MARCELO CHERTO e MARCUS RIZZO
 Na última viagem que fizemos aos EUA, acompanhando os franqueadores-alunos da Franchising University, ficamos conhecendo uma nova franquia na área de informática: a PowerWare, que franqueia os chamados Power Software Centers.
 Trata-se de um esquema de franquia de máquinas como essa que aparece na ilustração, parecidas com um caixa eletrônico. Só que, em vez de grana, essas maquininhas se destinam à distribuição de softwares dos mais variados. Para ser exatos, o modelinho mais simples tem um "estoque" de mais de 10 mil diferentes programas, segundo os carinhas da empresa franqueadora. Na maioria, programas de "shareware".
@@ -624,9 +624,9 @@ MARCELO CHERTO e MARCUS RIZZO são diretores da Cherto &amp; Rizzo Franchising e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-032</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-032</field>
+<field name="date">940620</field>
+<text_pt>
 HELCIO EMERICH
 Duas conhecidas revistas femininas dos EUA decidiram que os anunciantes formam um público comprador como outro qualquer.
 Eles compram espaço e tempo na mídia impressa e eletrônica e, descoberta a obviedade, a "Working Woman" e a "Family Circle" desenvolveram campanhas dirigidas aos executivos de marketing e de comunicação das grandes corporações, procurando atingir, por tabela, também os profissionais de mídia das agências.
@@ -642,9 +642,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-033</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-033</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 O publicitário Nizan Guanaes, 36, presidente da agência paulista DM9 é o primeiro brasileiro convidado a ocupar a presidência do júri do Festival de Mídia Impressa (Press &amp; Poster), que começa hoje em Cannes.
 Em entrevista à Folha, Guanaes, criador das campanhas da cerveja Antarctica, afirma que a publicidade em jornais e revistas avançou mais no país em sofisticação do que os comerciais de TV.
@@ -675,9 +675,9 @@ Agora mesmo estamos criando peças para os Correios que serão veiculadas junto às
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-034</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-034</field>
+<field name="date">940620</field>
+<text_pt>
 Filmes sem veiculação podem comprometer o Brasil, alerta Olivetto
 NELSON BLECHER  
 Da Reportagem Local
@@ -701,9 +701,9 @@ Olivetto afirma que essa prática, considerada "desleal", foi disseminada em Cann
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-035</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-035</field>
+<field name="date">940620</field>
+<text_pt>
 Mercados futuros terão menor variação de preços e maior volume de negócios com a estabilização econômica
 RODNEY VERGILI
 Da Redação
@@ -726,30 +726,30 @@ A entidade está aguardando, também, autorização do Banco Central para promover s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-036</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-036</field>
+<field name="date">940620</field>
+<text_pt>
 Ataques com mísseis e artilharia de iemenitas do norte a Aden, no sul do país, mataram ontem 12 civis. O cerco à cidade dura quatro dias e o total é de 63 mortos, segundo os hospitais. Aviões do sul atacaram uma cidade do norte, segundo o governo nortista em Sanaa; 17 pessoas teriam morrido. O governo autoproclamado do sul negou o ataque.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-037</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-037</field>
+<field name="date">940620</field>
+<text_pt>
 Sete corpos foram resgatados de uma fábrica de tecidos chinesa ontem, elevando o número de mortos para 24. Os trabalhadores haviam sido enviados para retirar equipamentos depois de um incêndio na fábrica, sem vítimas. Ficaram presos devido às chuvas torrenciais na província de Guangdong, no sul, que provocaram enchentes em várias áreas, com mais 400 vítimas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-038</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-038</field>
+<field name="date">940620</field>
+<text_pt>
 Centenas de muçulmanos xiitas libaneses comemoraram ontem a morte do neto do Profeta Mohammad há mais de 1.300 anos, derramando seu próprio sangue, na cidade de Nabatiyeh. O ritual contrariou instruções dos líderes xiitas do país, banindo a tortura auto-infligida para lamentar Iman Hussein, patrono da seita xiita, morto numa batalha em Karbala em 680.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-039</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-039</field>
+<field name="date">940620</field>
+<text_pt>
 Da Redação
 O tratado que concluiu a guerra entre China e Japão, nos anos de 1894 e 1895, reconheceu a independência da Coréia. Em 1910 o Japão anexou a Coréia, sob o nome de Chosun.
 A ocupação japonesa se estendeu até 1945. Com a derrtoa do Japão na Segunda Guerra Mundial, na conferência de Potsdam (1945) o 38º paralelo passou a dividir o país em duas regiões, correspondentes às zonas de ocupação soviética e norte-americana.
@@ -765,9 +765,9 @@ Em 1988, estudantes pedindo a reunificação entraram em choque com a polícia na C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-040</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-040</field>
+<field name="date">940620</field>
+<text_pt>
 
 Rocard deixa direçãodo Partido Socialista
 O ex-primeiro-ministro francês Michel Rocard renunciou ontem à direção do Partido Socialista, depois de um voto de desconfiança do Conselho Nacional por causa do mau desempenho nas eleições ao Parlamento Europeu.
@@ -791,9 +791,9 @@ Cinco católicos foram assassinados a tiros, sábado à noite, enquanto assistiam o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-041</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-041</field>
+<field name="date">940620</field>
+<text_pt>
 De Washington
 Projetos brasileiros são citados diversas vezes de maneira positiva ao longo do relatório sobre desenvolvimento do Banco Mundial.
 O Prosanear (Programa de Água e Saneamento para Populações Urbanadas de Baixa Renda), que está investindo US$ 100 milhões para beneficiar 800 mil pessoas em 11 municípios do país, é um deles.
@@ -809,9 +809,9 @@ Curitiba, no Paraná, também recebe referência elogiosa do Banco Mundial por caus
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-042</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-042</field>
+<field name="date">940620</field>
+<text_pt>
 Das agências internacionais
 O segundo turno das eleições presidenciais na Colômbia transcorreu em relativa calma, ontem. Embora não tenham sido divulgadas cifras, estima-se que o comparecimento será pequeno.
 Entre as razões apontadas para a falta de interesse está a derrota da seleção colombiana para romena, no sábado. O frio na capital Bogotá também foi responsabilizado.
@@ -824,9 +824,9 @@ No primeiro turno, o nível de abstenção alcançou 66%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-043</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-043</field>
+<field name="date">940620</field>
+<text_pt>
 Médico dá palestra sobre Aids na Folha
 O infectologista Caio Rosenthal (foto), realiza às 19h30 de amanhã, no auditório da Folha, a segunda palestra da série "Aids em exame". Ele falará sobre o avanço da doença entre as mulheres. Os interessados poderão retirar os convites a partir das 18h da terça na al. Barão de Limeira, 425, nos Campos Elíseos (centro de São Paulo).
 
@@ -844,9 +844,9 @@ O desempregado Oziel Ferreira dos Santos, 23, é acusado de ter mutilado com os d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-044</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-044</field>
+<field name="date">940620</field>
+<text_pt>
 HC de São Paulo cria projeto para idosos
 O Hospital das Clínicas de São Paulo (foto) criou o Projeto Terceira Idade. O objetivo é estudar e oferecer atendimento médico e psicológico a pessoas com mais de 60 anos. O ambulatório do projeto funciona às segundas-feiras. Informações pelo telefone 853-2811.
 
@@ -874,9 +874,9 @@ O centro de diagnósticos do Profert (Programa de Reprodução Assistida) está com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-045</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-045</field>
+<field name="date">940620</field>
+<text_pt>
 Sociedade Brasileira de Cirurgia Plástica pede que médicos orientem pacientes sobre pedido de indenização
 Da Reportagem Local
 A Sociedade Brasileira de Cirurgia Plástica quer "colocar um fim" na polêmica criada em torno das próteses de silicone. Munir Curi, presidente nacional da entidade, está solicitando aos cirurgiões associados que informem e orientem suas pacientes.
@@ -892,9 +892,9 @@ Segundo o Procon &#150;órgão de defesa do consumidor&#150; mulheres que tiveram 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-046</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-046</field>
+<field name="date">940620</field>
+<text_pt>
 WALTER CENEVIVA
 Da equipe de articulistas
 A alternativa entre mercado e humanidade perpassa o trabalho de Wolfgang Reeder no estudo "A moral da economia de mercado", que o Centro de Estudos da Fundação Konrad Adenauer está distribuindo, em temário que inclui aspectos jurídicos.
@@ -913,9 +913,9 @@ A saída da 10ª edição mostra que a obra representou, ao longo dos últimos vinte 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-047</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-047</field>
+<field name="date">940620</field>
+<text_pt>
 
 GEORGE WASHINGTON CUNHA
 Alô, você! Milhões de pessoas assistirão ao vivo e pela TV os jogos da Copa do Mundo 94. Vamos ao tetra ou voltaremos como campeões morais?
@@ -937,9 +937,9 @@ GEORGE WASHINGTON CUNHA, 49, é diretor farmacêutico do Instituto do Coração do H
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-048</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-048</field>
+<field name="date">940620</field>
+<text_pt>
 LUIS HENRIQUE AMARAL
 Da Reportagem Local
 A Prefeitura de São Paulo promete que em 1996 estará resolvido um dos problemas mais graves da cidade: o que fazer com as 12 mil toneladas de lixo produzidas diariamente por seus habitantes.
@@ -956,9 +956,9 @@ sobre as usinas de lixo à pág. 3-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-049</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-049</field>
+<field name="date">940620</field>
+<text_pt>
 O leitor Rosemiro Tenorio Cavalcanti reclama do procedimento de uma das funcionárias da agência Artur Alvim do Banespa.
 Segundo Rosemiro, a funcionária teria se recusado a efetuar dois depósitos em cheque de sua filha para a agência Tatuapé. Ele diz que o fato ocorreu nos dias 3 de março e 5 de abril deste ano.
 "Eu gostaria de saber se essa minoria de funcionários recebe orientação para dificultar a vida dos clientes idosos, ou agem por conta própria, contrariando as normas regulamentadas no desempenho de suas funções", diz.
@@ -970,9 +970,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-050</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-050</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 Além das três usinas de incineração, a prefeitura vai construir outras duas usinas de compostagem, sistema que transforma o lixo orgânico em adubo.
 Para isso, foi comprada um terreno no Parque Anhanguera (zona oeste) onde elas serão instaladas a um preço ainda não determinado.
@@ -986,9 +986,9 @@ Segundo o secretário Reynaldo de Barros, a solução mais barata para o lixo de Sã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-051</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-051</field>
+<field name="date">940620</field>
+<text_pt>
 Do Banco de Dados
 A Organização Mundial de Saúde (OMS) estima que existam hoje três ratos para cada habitante do planeta. Seriam então 15 bilhões de ratos espalhados pela Terra.
 No entanto, a OMS admite ser quase impossível calcular com precisão a população e a velocidade de proliferação desses animais.
@@ -1002,9 +1002,9 @@ No Brasil, o último registro de mortes ocorreu em 1987, na Paraíba. Outra doença
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-052</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-052</field>
+<field name="date">940620</field>
+<text_pt>
 
 Esta reportagem deixou de informar que o jogador Mauro Silva também faz sua estréia em Copas do Mundo no jogo contra a Rússia, ao lado de Márcio Santos, Leonardo, Zinho e Raí.
 
@@ -1024,9 +1024,9 @@ O Brasil é o terceiro tricamepeão mundial a estrear nos EUA. A Itália perdeu par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-053</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-053</field>
+<field name="date">940620</field>
+<text_pt>
 JOHAN CRUYFF
 Especial para a Folha
 Dizem que a Fifa está muito interessada em cuidar do espetáculo e que, por isso, introduziu uma série de regras para ajudar o futebol ofensivo.
@@ -1044,9 +1044,9 @@ Por isso, repito o início deste comentário. Se querem ver um futebol espetacular
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-054</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-054</field>
+<field name="date">940620</field>
+<text_pt>
 TELÊ SANTANA
 A seleção brasileira que entra em campo hoje é aquela em que mais acredito, das 24 que disputam esta Copa. Confio nela, em primeiro lugar, por seus próprios méritos. Tem jogadores de alto nível técnico, o ambiente entre eles é bom, estão todos motivados e, pelo que vi até aqui, contam com uma arma mortal que os outros não têm sabido usar: as jogadas de linha de fundo.
 Para falar a verdade, o único jogo de que gostei até agora foi Romênia x Colômbia. Não se iludam com a Romênia: tem bom goleiro, defesa segura, sabe sair no contra-ataque e tem dois talentosos homens de frente, Dumitrescu e Hagi.
@@ -1061,9 +1061,9 @@ Telê Santana, 62, é técnico do São Paulo. Sua coluna na Copa sai cinco vezes por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-055</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-055</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Nova York
 A análise estatística de duas pelejas da Copa estão provando que: a) são cada vez mais diminutas as chances de finalização dentro da grande área; e b) em compensação, os meio-campistas estão cada vez mais atirando de longe.
 Aconteceu assim nos prélios de Irlanda 1 x Itália 0 e de Romênia 3 x Colômbia 1.
@@ -1075,9 +1075,9 @@ Nesse cenário, será interessante examinar, hoje, o comportamento do Brasil, que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-056</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-056</field>
+<field name="date">940620</field>
+<text_pt>
 Atacante fica cinco dias fora dos treinos, corre pouco mas diz não sentir mais dores na coxa da perna direita
 Do enviado a Los Gatos
 O atacante Romário de Souza Faria, 28, treinou pouco na semana passada. Ficou cinco dias parado. Falou pouco. Discutiu com jornalistas brasileiros.
@@ -1102,9 +1102,9 @@ Aproveitou para dizer do que mais gostou nos EUA até agora. "Gosto do calor. Est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-057</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-057</field>
+<field name="date">940620</field>
+<text_pt>
 ALBERTO HELENA JR.
 Em Los Gatos
 Brasil a Rússia têm um caso recente. Isso, claro, medindo-se o tempo pelo tempo da história do futebol, que é quase igual o geológico.
@@ -1128,9 +1128,9 @@ Alberto Helena Jr., 52, é colunista da Folha. Sua coluna na Copa é diária.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-058</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-058</field>
+<field name="date">940620</field>
+<text_pt>
 JOÃO MÁXIMO
 Enviado especial a Los Gatos
 Nos últimos doze meses muita gente pode ter apostado que cedo ou tarde Raí perderia o lugar quase privilegiado que Parreira lhe dera na seleção. De titular abslouto e de capitão. Pois nem mesmo nos piores momentos, quando chegou a ser barrado no Paris Saint-Germanin, temeu que isso acontecesse.
@@ -1147,9 +1147,9 @@ Raí - Não há motivo para temer. Aqui, não há briga por posições.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-059</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-059</field>
+<field name="date">940620</field>
+<text_pt>
 JOÃO MÁXIMO
 Leonardo vai estrear em Copa do Mundo no lugar de um jogador que Parreira sempre considerou dos mais importantes entre seus titulare: Branco. As condições físicas do titular abriram para o reserva um espaço que ele pretende ocupar até a final: "Trabalhei muito para ser titular. Meu currículo me escalou."
 
@@ -1165,9 +1165,9 @@ Leonardo - Não sei dos outros. Nós vamos vencer os russos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-060</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-060</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Los Gatos
 Márcio Santos não desconhece que Ricardo Gomes era o favorito de Parreira para ser o zagueiro esquerdo da seleção. Mas, achando-se "um predestinado", diz que sempre soube que seria o titular: "Também não era o número um, ano passado, e entrei em dez dos sete jogos das eliminatórias".
 
@@ -1181,9 +1181,9 @@ Mário Santos - Muito bem. Aquele friozinho que, dizem, a gente sente na barriga,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-061</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-061</field>
+<field name="date">940620</field>
+<text_pt>
 Técnico da Rússia recebe a Folha para entrevista na concentração e elogia os brasileiros Bebeto e Romário
 FERNANDO RODRIGUES
 Enviado especial a Santa Cruz
@@ -1212,9 +1212,9 @@ Sadyrin - Não estamos preocupados. Tudo o que se faz nos Estados Unidos é da mel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-062</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-062</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Santa Cruz
 A seleção russa de futebol está hospedada no hotel Chaminade, em Santa Cruz (cerca de 100 km ao sul de San Francisco). O hotel fica no topo de uma montanha. Está cercado por seguranças.
 A reportagem da Folha tinha marcado com o técnico Pavel Sadyrin uma entrevista para as 9h30 da manhã de sexta-feira.
@@ -1225,9 +1225,9 @@ A viagem até o estádio de Stanford, onde será realizado o jogo de hoje, demora c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-063</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-063</field>
+<field name="date">940620</field>
+<text_pt>
 DAVID DREW ZINGG
 Em Nova York
 Os resultados de uma pesquisa divulgada ontem pela revista "Time" e pela CNN mostram que a Gringolândia está realmente virando gay -ou pelo menos, que a cada dia que passa é mais tolerante com gays e lésbicas.
@@ -1245,9 +1245,9 @@ Tradução de Clara Allain.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-064</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-064</field>
+<field name="date">940620</field>
+<text_pt>
 Especial para a Folha
 Nós temos que torcer para que o futebol sul-americano, africano e até mesmo o futebol asiático surre o futebol europeu. Só assim salvaremos a Copa do Mundo de sua falência inevitável.
 Por que se dependermos de espetáculos como o que foi proporcionado por Itália e Irlanda por exemplo, na próxima Copa não serão só os americanos que desistirão desse esporte, mas o resto do mundo também.
@@ -1265,9 +1265,9 @@ Marcelo Fromer e Nando Reis são integrantes da banda Titãs. A sua coluna na Copa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-065</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-065</field>
+<field name="date">940620</field>
+<text_pt>
 Torcida irlandesa celebra nos bares de Nova York, com muita música e cerveja, a vitória sobre a Itália
 SÍLVIO LANCELLOTTI
 Enviado especial a Nova York
@@ -1287,9 +1287,9 @@ Nenhum deles imaginava a onda esmeralda que se deitaria sobre Nova York e Nova J
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-066</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-066</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Nova York
 Arrigo Sacchi, o mister da "Squadra Azzurra", conseguiu um bom motivo para dormir tranquilo na noite de sábado. Apesar da derrota diante da Irlanda, a Itália ainda tem muitas chances de passar à segunda fase da Copa, contra a Noruega e o México. Melhor, a Itália já está praticamente livre de uma terrível preocupação -enfrentar a poderosa Alemanha na etapa das quartas-de-final.
 Na companhia fidelíssima dos seus assessores principais, os subs Pietro Carmignani e Carlo Ancelotti, mais o preparador atlético e seu sósia Vincenzo Pincolini, o treinador desfrutou o café-da-manhã do domingo ao lado de um punhado de simulações.
@@ -1300,9 +1300,9 @@ Trabalho, mesmo, teve o psicólogo da delegação, o barbudo Renzo Vianello, que se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-067</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-067</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Nova York
 Por aclamação, o congresso da Fifa reelegeu o brasileiro João Havelange para o seu sexto mandato na presidência da entidade. Continuam fervilhantes, todavia, as intrigas nos bastidores da hoje multiempresa que cuida do futebol no universo.
 De um lado, Havelange, realinhado com o suíço Joseph Blatter, que tentou, meses atrás, um golpe de estado contra o patrão. Na oposição, o vice-presidente Antonio Matarrese, já em campanha plena para suceder Havelange no congresso a se realizar na França, em 1998.
@@ -1313,9 +1313,9 @@ Inesperadamente, a reunião da Fifa em Chicago, na última semana, confirmou Kolos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-068</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-068</field>
+<field name="date">940620</field>
+<text_pt>
 De Washington
 Nem o calor de 35 graus centígrados, nem o apoio barulhento da sua torcida, que ocupou mais de 90% dos 53 mil lugares do estádio RFK ontem em Washington, impediram a derrota do México para a Noruega por um a zero.
 O jogo só não terminou empatado porque os mexicanos tiveram muito pouca sorte em lance decisivo aos 45 minutos do segundo tempo.
@@ -1331,9 +1331,9 @@ O gol da Noruega aconteceu aos 39 minutos e meio, quando Kjetil Rekdal se aprove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-069</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-069</field>
+<field name="date">940620</field>
+<text_pt>
 Holandeses enfrentam hoje a Arábia Saudita, uma das mais fracas equipes da Copa; polícia teme violência da torcida
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -1359,9 +1359,9 @@ A única outra atração do time saudita é o técnico, o ex-jogador argentino Jorge 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-070</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-070</field>
+<field name="date">940620</field>
+<text_pt>
 Do enviado a Nova York
 Nenhuma outra delegação chegou à Copa dos EUA com mais dinheiro na sua bagagem do que a seleção da Arábia Saudita.
 Em vez de viajar até Washington D.C. num avião de carreira, a equipe dos petrodólares achou mais confortável contratar o Boeing 727 dos New York Yankees do beisebol.
@@ -1373,9 +1373,9 @@ O excelente Winter, um dos amigos de Gullit na equipe, foi relegado à reserva po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-071</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-071</field>
+<field name="date">940620</field>
+<text_pt>
 Das agências internacionais
 O técnico da Arábia Saudita, Jorge Solari, se diz confiante no desempenho da equipe. Afirmou que sua seleção será "a surpresa do Mundial".
 Essa foi uma das poucas entrevistas do argentino Solari, que mantém toda a equipe afastada da imprensa.
@@ -1389,9 +1389,9 @@ Em sua preparação, os árabes jogaram duas partidas em casa contra o Chile, que t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-072</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-072</field>
+<field name="date">940620</field>
+<text_pt>
 De Washington
 Os holandeses conquistaram na década de 70 a fama, merecida, de jogadores talentosos e criativos.
 Nesta Copa do Mundo, vão tentar fazer melhor do que nas duas anteriores, apesar da ausência de Gullit e Van Basten.
@@ -1402,9 +1402,9 @@ Só lá é que o "futebol total" que ele pretende mostrar que ainda está vivo, na t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-073</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-073</field>
+<field name="date">940620</field>
+<text_pt>
 Marroquinos furam defesa belga, mandam duas bolas no travessão, mas não conseguem fazer gol de empate
 Da Reportagem Local
 Os erros da defesa do Marrocos e os travessões do estádio Citrus Bowl, em Orlando, garantiram a vitória por 1 x 0 da Bélgica, na abertura do grupo F da Copa dos EUA. Os marroquinos equilibraram o jogo e ainda tiveram maior volume ofensivo.
@@ -1421,9 +1421,9 @@ No fim, Marrocos fez entrar Samade, mas o gol não saiu. (MD)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-074</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-074</field>
+<field name="date">940620</field>
+<text_pt>
 A partida inaugural da Copa, entre Alemanha e Bolívia, foi vista pela TV por 20 milhões de alemães, batendo o recorde de público do país. 66,8% dos aparelhos de TV da Alemanha sintinizaram a partida.
 
 Rei Hassan liga todo dia para seleção do Marrocos
@@ -1434,9 +1434,9 @@ Os noruegueses por pouco não ficaram sem as imagens da partida de ontem da Norue
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-075</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-075</field>
+<field name="date">940620</field>
+<text_pt>
 Embora nascido nos EUA, o meio-campista John Harkes, um dos mais importantes jogadores da seleção americana, não fala mais o idioma de seu país. Ele mora na Inglaterra, onde atua pelo Derby County. Lá absorveu um sotaque hilariante, ironizado pelos seus companheiros de equipe. No time, Harkes é chamado de "o ET".
 Sílvio Lancellotti, de Nova York
 
@@ -1452,9 +1452,9 @@ Sílvio Lancellotti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-076</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-076</field>
+<field name="date">940620</field>
+<text_pt>
 O maior público para um jogo de futebol em Dallas foi no jogo entre Coréia do Sul e Espanha. Segundo a Fifa, 56.247 pessoas viram a partida no Cotton Bowl, com capacidade para 63.998 pessoas. O recorde anterior para futebol na cidade era do jogo amistoso entre EUA e Bolívia, com 26.835 espectadores. 
 
 Ronaldo e Roger Milla podem virar história
@@ -1462,9 +1462,9 @@ Se os dois forem escalados, Ronaldo, 17, do Brasil, e Roger Milla, 42, de Camarõ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-077</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-077</field>
+<field name="date">940620</field>
+<text_pt>
 CIDA SANTOS
 A seleção brasileira recomeça hoje no Rio os treinos para a fase final da Liga de olho na Copa do Mundo. Às 17h, o time dá uma parada para ver outro Brasil entrar em campo para enfrentar a Rússia.
 No futebol, os russos estão tomando até pílulas de cosmonautas e causam certa apreensão em dia de estréia. Já no vôlei, pelo menos nos últimos tempos, a Rússia não tem mais assustado os brasileiros.
@@ -1481,9 +1481,9 @@ E, novamente, a velha pergunta volta a rondar as cabeças: quem vai ganhar esse j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-078</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-078</field>
+<field name="date">940620</field>
+<text_pt>
 Em termos de público, o Brasil é campeão na Liga Mundial. Nos 12 jogos da fase de classificação, 134.630 torcedores foram aos ginásios ver a seleção, o que representa uma média de 11.219 pessoas por partida. O recorde do torneio foram os dois confrontos contra a Grécia em Belo Horizonte, que reuniram 52 mil torcedores.
 *
 Mais números. O Brasil aparece como o time que marcou o set com a menor pontuação da 1ª fase da Liga: venceu os EUA por 15 a 0 no primeiro jogo no Rio. O set com maior pontuação também é da seleção: 17 a 16 no 2º jogo contra a Grécia em Belo Horizonte.
@@ -1494,9 +1494,9 @@ Quem diria: a seleção com pior campanha na Liga foi a dos Estados Unidos. Em 12 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-079</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-079</field>
+<field name="date">940620</field>
+<text_pt>
 Delegado da Interpol anuncia hoje as primeiras conclusões do inquérito
 CLAUDIO JULIO TOGNOLLI
 Da Reportagem Local
@@ -1515,9 +1515,9 @@ Tuma Jr. foi nomeado pela Interpol como encarregado especial de acompanhar as in
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-080</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-080</field>
+<field name="date">940620</field>
+<text_pt>
 Hoje contra a Rússia, treinador vai tentar realizar a promessa de mostrar uma seleção sólida e compacta
 Da Reportagem Local
 O técnico Carlos Alberto Parreira terá hoje a chance de provar que tem nas mãos uma seleção compacta, sólida e segura, como tem insistido em dizer.
@@ -1531,9 +1531,9 @@ Na defesa, também há problemas. Até a contusão de Ricardo Gomes, era falha a cob
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-081</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-081</field>
+<field name="date">940620</field>
+<text_pt>
 Individuais
 SERGIO NICULITCHEFF - A exposição reúne 15 pinturas recentes em acrílico sobre tela e papel e diversos formatos. A mostra segue para a galeria Ruta-Correa, em Freiburg (Alemanha) em novembro deste ano.
 Adriana Penteado Escritório de Arte (r. Peixoto Gomide, 1.503, tel. 881-1012). De seg a sex das 13 às 18h, sáb das 11h às 14h. Até 9 de julho. Preço das obras: de US$ 400 a US$ 1.500.
@@ -1584,9 +1584,9 @@ Instituto Cultural Itaú/Centro de Informática e Cultura (av. Paulista, 2.424, te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-082</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-082</field>
+<field name="date">940620</field>
+<text_pt>
 O jornalista Ryszard Kapuscinski, que já testemunhou 27 revoluções e golpes de Estado, lança 'Imperium' no Brasil
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1619,9 +1619,9 @@ LEIA MAIS sobre o escritor Kapuscinski à pág. 5-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-083</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-083</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 "Imperium" (1993) é um exemplo do "patchwork" literário que caracteriza o trabalho de Ryszard Kapuscinski. Uma literatura que pode ser reportagem, romance, conto, ensaio e poema ao mesmo tempo &#150;e que teve na revista inglesa "Granta" seu principal divulgador nos anos 80.
 O livro começa com a experiência da infância do autor, nascido numa região paupérrima da Polônia, hoje território da Belarus, narrando o contato do menino com a guerra e o exército soviético.
@@ -1634,23 +1634,23 @@ Uma intuição que lhe permite criar, a partir do desprezado (e muitas vezes despr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-084</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-084</field>
+<field name="date">940620</field>
+<text_pt>
 Este ano, a belga Dinant quer deixar de ser conhecida apenas por seus biscoitos. Vai aproveitar o centenário de morte de seu filho ilustre, Adolphe Sax, para promover a cidade através de concertos e festivais de jazz. Como o nome já diz, Sax é o inventor do saxofone.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-085</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-085</field>
+<field name="date">940620</field>
+<text_pt>
 E Collette não ficou por aí. Sobre a top Naomi Campbell, disse: "Animais a assustam e a fascinam. Ela evita usar jóias com a ficura de cachorro ou cobra". Mas o melhor foi sobre Sandra Bernhard. "Ela é muito criativa. Eu vejo o Brasil e crianças", disse a adivinha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-086</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-086</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 Ryszard Kapuscinski escreveu a maioria de seus livros no limite do perigo &#150;arriscando a própria vida. Com isso, rompeu os limites dos gêneros literários, criando uma prosa forte cuja classificação ainda não é das mais claras.
 
@@ -1671,9 +1671,9 @@ Kapuscinski - É verdade. Conrad é um dos meus autores preferidos. Mas ele estava
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-087</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-087</field>
+<field name="date">940620</field>
+<text_pt>
 Das agências internacionais
 O diretor Woody Allen, depois de meses de procura, conseguiu um distribuidor para seu novo filme nos EUA, "Bullets Over Broadway", já finalizado. A Miramax, subsidiária da Disney, comprou os direitos do filme.
 Os recentes escândalos envolvendo o diretor fizeram com que as distribuidoras se afastassem. "A atitude de Hollywood não nos interessa. Estamos falando de um gênio cômico", disse Harvey Weinstein, da Miramax.
@@ -1681,9 +1681,9 @@ Os recentes escândalos envolvendo o diretor fizeram com que as distribuidoras se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-088</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-088</field>
+<field name="date">940620</field>
+<text_pt>
 Assinantes enfrentam demora na recepção dos sinais; operadoras afirmam que situação está se normalizando
 JOÃO BATISTA NATALI
 Da Reportagem Local
@@ -1711,9 +1711,9 @@ O que coletaram, até agora, não cobre um décimo desses valores, afirmam os dois 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-089</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-089</field>
+<field name="date">940620</field>
+<text_pt>
 JOÃO BATISTA NATALI
 Da Reportagem Local
 Qualquer tentativa de popularização do repertório lírico é muitíssimo bem-vinda. Isso vale para a Polygram e sua coleção "Bom e Barato", com CDs em reedição.
@@ -1738,9 +1738,9 @@ Quanto: 18 URVs (cada CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-090</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-090</field>
+<field name="date">940620</field>
+<text_pt>
 THE FLINTSTONES
 Trilha (BMG)
 O CD com a trilha sonora precede o lançamento do filme, baseado no clássico desenho animado. Entre as 13 faixas, participações das bandas The BC-52's, Big Audio Dynamite, US3, Screaming Blue Messiahs, Was Not Was, Stereo MC's e Shakespeare Sister &amp; The Holy Ghost.
@@ -1767,9 +1767,9 @@ Coletânea de música junina brasileira dos anos 30. Mário Reis canta o raro samba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-091</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-091</field>
+<field name="date">940620</field>
+<text_pt>
 Da Reportagem Local
 O consumidor de CDs eruditos tem poucas opções econômicas. As gravadoras dão preferência à importação na área, o que torna o preço muitas vezes inacessível, chegando a até 30 URVs.
 O selo Paulus e a BMG Ariola aproveitam a lacuna e apostam no lançamento de títulos clássicos de boa qualidade a preços razoáveis, que vão de 12 a 13 URVs.
@@ -1785,9 +1785,9 @@ O pianista Amaral Vieira segue a aventura de lançar a integral de Liszt. "Obras 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-092</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-092</field>
+<field name="date">940620</field>
+<text_pt>
 A "Edição Ópera Estatal de Viena" traz doze dos 48 CDs previstos de gravações feitas entre 1933 e 1942
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
@@ -1817,9 +1817,9 @@ Onde: pedidos de assinaturas de toda a coleção podem ser feitos à Koch Internati
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-093</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-093</field>
+<field name="date">940620</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Às vezes somos possuídos por uma sensação de tristeza que não conseguimos controlar. Não importa o lugar onde estamos &#150;no trabalho, junto da pessoa a quem amamos, numa festa&#150;, mas, sem qualquer explicação, o mundo perde seu colorido, e a vida esconde sua magia.
@@ -1828,9 +1828,9 @@ Em breve, nossos olhos voltam a brilhar. E, a partir daí, se não perdemos mais o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-094</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-094</field>
+<field name="date">940620</field>
+<text_pt>
 A falta do quarteto americano Yellow Jacket, que cancelou sua apresentação, não prejudicou a animação
 CARLOS CALADO
 Enviado especial a Aruba
@@ -1850,9 +1850,9 @@ O jornalista CARLOS CALADO viaja a convite da Aruba Tourism Authority e da Vasp.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-095</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-095</field>
+<field name="date">940620</field>
+<text_pt>
 AMIR LABAKI
 Enviado especial a Vila do Conde (Portugal)
 A atriz francesa Solveig Dommartin ("Asas do Desejo"), ex-musa de Wim Wenders, tenta reiniciar sua carreira depois de dois anos de separação do cineasta que a revelou. Dommartin começa a gravar no próximo mês seu primeiro disco solo, que conterá letras especialmente escritas para ela por diretores como Jim Jarmusch, Claire Denis e o próprio Wenders.
@@ -1874,9 +1874,9 @@ O crítico AMIR LABAKI está em Vila do Conde como membro do júri internacional.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-096</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-096</field>
+<field name="date">940620</field>
+<text_pt>
 A minissérie da Rede Globo conseguiu expressar a butalidade e a crueza das relações do Brasil imperial
 ESTHER HAMBURGER
 Especial para a Folha
@@ -1896,9 +1896,9 @@ E apesar de gravada e editada como um todo antes de ir ao ar, configurando uma "
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-097</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-097</field>
+<field name="date">940620</field>
+<text_pt>
 Da Redação
 
 Filme: Não Tenho Troco
@@ -1919,9 +1919,9 @@ Hoje a coluna de JOSÉ SIMÃO está publicada no caderno "Copa 94"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-098</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-098</field>
+<field name="date">940620</field>
+<text_pt>
 A Dijon está lançando cuecas femininas. Feitas em algodão 100% puro, as cuecas saem da máquina como uma peça única, sem costuras laterais. São produzidas pela Malharia Continental &#150;uma das 30 licenciadas pela Dijon&#150; que importou da Itália uma máquina computadorizada para a produção.
 
 Monizac faz meias para esportistas
@@ -1938,9 +1938,9 @@ A Victorinox Ag., fabricante de canivetes na Suíça, inaugurou a filial Victorino
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-099</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-099</field>
+<field name="date">940620</field>
+<text_pt>
 Da Redação
 Apostando na segmentação do mercado, a Água de Cheiro vai lançar em setembro a linha Top Line. Serão três perfumes femininos sofisticados.
 "Estamos investindo em um mercado com maior poder aquisitivo", revela Elizabeth Pimenta.
@@ -1952,9 +1952,9 @@ Para o ano que vem, Pimenta planeja vender até 120 mil unidades. "O novo perfume
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-100</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-100</field>
+<field name="date">940620</field>
+<text_pt>
 Especial para a Folha
 Mais de 100 mil jovens americanos, membros de organizações religiosas, prometem não fazer sexo antes do casamento, informa Fernando Canzian, correspondente da Folha em Nova York. Falar o quê!?
 O reverendo Richard Ross, fundador do movimento, espera que os adolescentes de hoje sejam menos promíscuos que os do passado. O lema da campanha: "True Love Waits" (amor de verdade espera). Espera o quê!?
@@ -1970,9 +1970,9 @@ Segundo a Bíblia, Jesus, com sede no deserto, ao encontrar duas mulheres que car
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-101</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-101</field>
+<field name="date">940620</field>
+<text_pt>
 seguem-se nove assinaturas
 São José dos Campos, SP
 Já é fato comprovado que o Folhateen não sabe manter o nível alto quando fala de sexo. Qualquer um que leia com frequência as seções de Marcelo Rubens Paiva e Rosely Sayão pode confirmar. Nesta última segunda-feira, no entanto, o Folhateen se superou, batendo todos os recordes de baixeza. O artigo de Marcelo Paiva é, para ser sucinto, nojento. Não sabemos onde o articulista estava com a cabeça para escrever tudo aquilo. Rosely Sayão também não ficou atrás, usando termos que só imaginávamos ouvir de seres que não possuem massa cinzenta. Tudo isso num dia só (6 de junho). O Folhateen deve pensar que todos os seus leitores são indivíduos completamente depravados, que não pensam em outra coisa a não ser sexo, que ignoram completamente aquilo que se convencionou chamar "moral e bons costumes". Sabemos que muitos leitores do Folhateen têm as características citadas, mas também há gente (no sentido pleno da palavra) que lê o caderno. Pessoas decentes que não esperam tanta baixeza em um jornal decente como a Folha. Sabemos que esta carta não será publicada. A Folha raramente publica críticas ao jornal. Este é um aviso, para que as páginas do Folhateen parem de ter como única utilidade embrulhar os dejetos orgânicos dos nossos animais de estimação.
@@ -1995,9 +1995,9 @@ Escreva para o Folhateen: al. Barão de Limeira, 425, 4º andar, São Paulo, SP, CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-102</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-102</field>
+<field name="date">940620</field>
+<text_pt>
 se reúnem na sexta-feira, dia 24, a partir das 21h, no Piazito's Bar (rua Inácio Pereira da Rocha, 520, Pinheiros, zona oeste de São Paulo, tel. 011/814-4577) para homenagear o ídolo, que estaria completando 49 anos no próximo dia 28. Preço: CR$ 5.000,00.
 
 TEST DRIVE 
@@ -2020,9 +2020,9 @@ RITUAIS ÍNTIMOS: PAISAGENS BIOGRÁFICAS DE JOHN BLAKEMORE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-103</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-103</field>
+<field name="date">940620</field>
+<text_pt>
 ROSELY SAYÃO
 Especial para a Folha
 "Tenho 18 anos e faço parte de um grupo de rap com vários componentes. Nesse grupo tem duas minas: uma delas é a mina do meu camarada e a outra é a minha mina. Só que a mina do meu camarada quer transar comigo. O que faço? Transo ou não transo? Estou na dúvida."
@@ -2039,9 +2039,9 @@ ROSELY SAYÃO, 43, é psicóloga. Se você tem dúvidas sobre sexo escreva para o Fol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-104</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-104</field>
+<field name="date">940620</field>
+<text_pt>
 ESTELA ALCANTARA
 Especial para a Folha
 crédito:  Fotos Bel Pedrosa/Folha Imagem
@@ -2051,9 +2051,9 @@ ESTELA ALCANTARA, 28, é estilista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-105</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-105</field>
+<field name="date">940620</field>
+<text_pt>
 Da Redação
 A PUC-SP (Pontifícia Universidade Católica de São Paulo) anunciou mudanças no vestibular 95. A principal delas é o fim da necessidade de optar por cursos de mesma unidade ou carreira.
 Haverá quatro opções. "Queremos privilegiar a formação geral do aluno", diz a coordenadora do exame, Regina Denigres.
@@ -2066,9 +2066,9 @@ BIBLIOGRAFIA OBRIGATÓRIA
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-106</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-106</field>
+<field name="date">940620</field>
+<text_pt>
 Monolito - O maior monolito (monumento feito de um só bloco de pedra) exposto do mundo é o Ayers Rock, com 348 m de altura (um edifício de 116 andares). Fica em uma planíceie desértica no território do Norte, na Austrália e a cidade mais próxima é Alice Springs, 400 km a nordeste.
 Recife - O maior do mundo é a Grande Barreira de Recifes, no litoral de Queensland, no nordeste da Austrália, com 2.027 km de extensão. Um recife é um uma faixa de pedra perto da costa, dentro da água. Normalmente são baixos ou até submersos. 
 Atol - O maior atol (recife de coral) do mundo é o Kwajalein, localizado nas Ilhas Marshall, na região central do Pacífico. Tem 283 km de extensão e forma uma lagoa de 2.850 km2 de área.
@@ -2114,9 +2114,9 @@ Fonte: Guiness - O Livro dos Recordes 1994
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-107</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-107</field>
+<field name="date">940620</field>
+<text_pt>
 1 - Praia mais extensa - A praia do Cassino, no Rio Grande do Sul, tem 245 km de extensão (três vezes e meia a distância entre São Paulo e Santos)
 
 2 - Ilha - A maior ilha marítima é a de São Sebastião (onde fica Ilhabela), no litoral norte de São Paulo com 346 km quadrados de área e 142 km de costa. A maior oceânica  (mais distante do continente) é de Fernando de Noronha, no nordeste do país, com 16,9 km quadrados de área
@@ -2139,9 +2139,9 @@ Fonte: Guiness - O Livro dos Recordes 1994
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-108</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-108</field>
+<field name="date">940620</field>
+<text_pt>
 Maior baía em extensão costeira - A baía de Hudson, no norte do Canadá, tem 12.268 km de extensão de linha costeira (equivalente a 85 baías de Guanabara) e área de 1.233.000 km2. Uma baía é uma entrada do mar na terra por uma passagem estreita que se alarga depois, diferente do golfo, que tem uma abertura larga.
 
 Maior golfo - É o golfo do México, com 1.544.000 km2 de área e 5.000 km de extensão de costa. Começa no cabo Sable, na Flórida (EUA) e vai até cabo Catoche, no México.
@@ -2208,9 +2208,9 @@ Arquipélago - O maior arquipélago do mundo é o agrupamento das mais de 13 mil il
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-109</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-109</field>
+<field name="date">940620</field>
+<text_pt>
 1 - O lago mais famoso - Loch Ness é o lago mais famoso do mundo, além de ser o mais extenso e volumoso da Grã-Bretanha. É uma das maiores atrações turísticas da Escócia devido às famosas aparições de Nessie, o monstro do lago, que teria sido visto pela primeira vez por um monge irlândes no ano de 565. Recentemente, expedições científicas munidas de sonar registraram um ser vivo de mais de seis metros de comprimento que pode se mover em alta velocidade. A lenda atrai ao lago cerca de 160 mil turistas por ano
 
 2 - Mergulho arriscado - O recorde de profundidade para a desaconselhável e perigosa atividade de mergulho sem equipamento é de 107 m obtido por Angela Bandini da Itália, em um cabo marcado próximo à ilha de Elba (Itália) a 3 de outubro de 1989. Ela ficou dois minutos e 46 segundos sob a água
@@ -2226,9 +2226,9 @@ Arquipélago - O maior arquipélago do mundo é o agrupamento das mais de 13 mil il
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-110</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-110</field>
+<field name="date">940620</field>
+<text_pt>
 1 - O maior - O oceano Pacífico ocupa uma área de mais de 166.241.000 km quadrados (quase dez vezes o território da Rússia). Ele corresponde a 45,9% dos oceanos do mundo (que ocupam 70,98% da superfície total da terra)
 
 2 - Profundidade - O ponto mais profundo de todos os oceanos fica na fossa Mariana, no Pacífico, profundidade de 10.924 m (pouco mais de quatro vezes a extensão da av. Paulista). Se uma bola de aço de 1 kg fosse largada ali, demoraria 64 minutos para alcançar o fundo
@@ -2250,9 +2250,9 @@ ATLÂNTICO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-111</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-111</field>
+<field name="date">940620</field>
+<text_pt>
 Free-lance para a Folha
 Os primeiros hackers brasileiros surgiram em 82, não por acaso, na mesma época em que as grandes companhias começavam a implantar sistemas de rede.
 Com o equipamento que tinham na época, os primeiros PCs e Apples, com programas para simular terminais remotos, num furgão ou numa Kombi, estacionavam junto a um telefone público como se fossem fazer reparos.
@@ -2265,9 +2265,9 @@ Segundo ele, "os únicos que se deram mal com a brincadeira foram os que esperava
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-112</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-112</field>
+<field name="date">940620</field>
+<text_pt>
 ANDRÉ FORASTIERI
 Especial para a Folha
 A Water Brothers estreou oficialmente este ano, mas está fazendo bastante força para se tornar a maior promotora de shows internacionais do país.
@@ -2289,9 +2289,9 @@ ANDRÉ FORASTIERI, 28, é editor da revista "General".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940620-113</text_pt>
-<text_pt name="date">940620</text_pt>
-<text_pt name="text">
+<field name="id">FSP940620-113</field>
+<field name="date">940620</field>
+<text_pt>
 A tribo zulu, única monarquia tribal do mundo, é formada por seis milhões de pessoas. É o maior grupo étnico da África do Sul, com fortes ímpetos nacionalistas.
 Durante a vigência do apartheid, em que a minoria branca do país governou, a maioria dos zulus viviam na "pátria" de KwaZulu, ou Zululândia, onde foi adquirindo forma a atual violência que afeta esta região da África do Sul. Os homens zulus emigraram para trabalhar nas minas de ouro ou nos canaviais que circundam a província de Natal.
 A nova constituição sul-africana, que aboliu as diferenças raciais, incorporou a Zululândia a uma província maior. Rebatizada KwaZulu/Natal, a província estende-se das planícies do interior até a costa do Oceano Índico.

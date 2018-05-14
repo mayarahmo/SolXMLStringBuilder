@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950101-001</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-001</field>
+<field name="date">950101</field>
+<text_pt>
 Datafolha revela que 70% esperam governo ótimo ou bom; Collor teve 71% antes de assumir a Presidência 
 O sociólogo Fernando Henrique Cardoso, 63, toma possa hoje às 16h30 no Congresso como o 38º presidente do Brasil. Eleito em 3 de outubro com 34,3 milhões de votos, 54,28% dos válidos, FHC sucede a Itamar Augusto Cautiero Franco, 63, de quem foi ministro das Relações Exteriores e da Fazenda.
 O Datafolha revela que 79% apóiam o real, moeda lançada pela equipe de FHC. Para 70%, seu governo será ótimo ou bom. Em 90, 71% tinham a mesma expectativa em relação a Fernando Collor.
@@ -11,9 +11,9 @@ O programa de FHC definiu como prioridades a manutenção do real e as reformas na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-002</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-002</field>
+<field name="date">950101</field>
+<text_pt>
 Novo comandante do barco Brasil, Fernando Henrique Cardoso será, ao menos nos primeiros tempos de sua gestão, um presidente em busca de uma âncora mais sólida na qual apoiar a estabilização da economia, por ele mesmo iniciada como ministro da Fazenda.
 O novo titular da Pasta, Pedro Malan, já avisou, em entrevista concedida a esta Folha: "Uma política de estabilização não pode estar baseada só em câmbio e em política monetária austera".
 Ora, é exatamente na sobrevalorização do real em relação ao dólar e em uma austeridade monetária, ainda que apenas relativa, que se ancora hoje o Plano Real.
@@ -35,9 +35,9 @@ Seria um triste epitáfio para uma carreira até aqui vitoriosa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-003</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-003</field>
+<field name="date">950101</field>
+<text_pt>
 A idéia do futuro ministro da Justiça, Nelson Jobim, de alterar a legislação antidrogas brasileira para diferenciar melhor consumidores de traficantes é de fato interessante. Pode-se até mesmo dizer que chega relativamente tarde ao Brasil.
 Países como Espanha e Holanda e mesmo alguns Estados dos EUA já toleram o consumo pessoal de determinadas drogas. No Brasil, contudo, uma pessoa que porte quantidades ínfimas de substância estupefaciente pode ser condenada a até 15 anos de reclusão.
 É evidente que um único dia na cadeia &#150;o que não dizer de 15 anos&#150; só vai agravar ainda mais a situação psicológica de alguém já suficientemente abalado para ter cedido ao vício.
@@ -50,9 +50,9 @@ Enfim, trata-se de uma discussão complexa em que muitos prós e contras têm de se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-004</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-004</field>
+<field name="date">950101</field>
+<text_pt>
 Clóvis Rossi 
 SÃO PAULO &#150; Para servir de mensagem de Ano Novo, retiro do baú dos guardados poema de Jorge Luís Borges, enviado pelo eterno moleque travesso Carlito Maia, junto com tantos outros escritos. O mesmo poema foi o tema do cartão de Natal do sindicalista Luiz Antônio Medeiros.
 Serve para o leitor, mas gostaria que, pelo menos desta vez, também o presidente da República lesse o recado.
@@ -64,9 +64,9 @@ Se, como é mais provável, o presidente não ler ou der de ombros, fique o leitor 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-005</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-005</field>
+<field name="date">950101</field>
+<text_pt>
 Gilberto Dimenstein 
 BRASÍLIA &#150; Fernando Henrique Cardoso assume hoje a Presidência com uma ótima notícia: 70% dos brasileiros, segundo pesquisa Datafolha, acreditam que ele vai fazer um governo ótimo ou bom. Conta com esmagadora confiança do país, o que lhe dá força para executar as reformas. A pesquisa traz, porém, uma advertência: o Fernando que iniciou seu mandato presidencial, em 1990, tinha os mesmos níveis de otimismo. Todos sabem como acabou.
 Opinião pública é volúvel, sempre atenta a resultados concretos. Isso, na prática, significa melhores níveis de emprego, salário, educação, saúde, lazer. Fernando Henrique recebe uma população eufórica.
@@ -78,9 +78,9 @@ Cito, aqui, apenas um detalhe entre milhares de exemplos sobre o efeito da paixã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-006</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-006</field>
+<field name="date">950101</field>
+<text_pt>
 Carlos Heitor Cony 
 RIO DE JANEIRO &#150; Já acreditei em Deus mas sempre me recusei a acreditar em Papai Noel. Nada contra o bom velhinho. Apenas suspeitava de sua bondade, achava cretina a sua disponibilidade. Em compensação, acreditei em coisa mais fantástica do que Deus e Papai Noel.
 Não lembro quem me contou, talvez um tio, um vizinho, talvez a lembrança confusa de primeiras leituras. O fato é que, no dia 31 de dezembro, eu me esforçava para ficar acordado e ver, no céu em cima de minha cabeça, a mudança do ano. Garantiram-me que, à meia-noite em ponto, surgiria um velho muito magro e descarnado, caindo aos pedaços, velho de apenas 365 dias mas alquebrado como se carregasse nas costas 365 séculos. Esse velho traria uma faixa, como as misses e os presidentes da República que se empossam. Na faixa, o número do ano que chegava ao fim.
@@ -91,9 +91,9 @@ Neste final de ano, abri o champanhe de sempre, fumei um Monte Cristo e nem tive
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-007</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-007</field>
+<field name="date">950101</field>
+<text_pt>
 Antonio Ermírio de Moraes 
 O ano de 1994 nos trouxe algumas boas lições. Relato aqui três delas, aparentemente desconexas mas, na realidade, muito relacionadas entre si.
 1) Acabo de ler um relatório que revela um desperdício de alimentos no Brasil de quase US$ 2,5 bilhões decorrente de mau armazenamento e transporte inadequado de arroz, feijão, milho, soja, trigo, hortaliças e frutas. É lamentável ver isso acontecer num país em que tanta gente passa fome por falta de acesso ao que comer.
@@ -107,9 +107,9 @@ Antonio Ermírio de Moraes escreve aos domingos nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-008</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-008</field>
+<field name="date">950101</field>
+<text_pt>
 Não me ocorreu a idéia, nos anos 60, de que FHC estava prometido para um "destino nacional" 
 Contrariando uma visão preconceituosa, eis um intelectual que chegou ao mais alto cargo político 
 GÉRARD LEBRUN 
@@ -128,9 +128,9 @@ Ayrton Senna; Fascinação; Boas festas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-009</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-009</field>
+<field name="date">950101</field>
+<text_pt>
 "Como cidadão, pagador de impostos e fiel cumpridor dos meus deveres, julgo-me no direito de, se um dia vier a necessitar, receber uma transfusão de sangue segura. Parabenizo este jornal por levar ao conhecimento da população a batalha que vem sendo travada por médicos que honram o código de ética e, acima de tudo, manifestam respeito pelo cidadão comum, como é o caso do professor Dalton Chamone."
 Carlos Henrique Knapp (São Paulo, SP)
  
@@ -174,9 +174,9 @@ A Folha agradece e retribui as mensagens de boas festas que recebeu de: Pirelli;
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-010</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-010</field>
+<field name="date">950101</field>
+<text_pt>
 Itamar estava em Washington para um encontro com Bill Clinton. Como não fala inglês, precisou de um intérprete durante a reunião de dez minutos.
 Ao sair da Casa Branca, foi abordado por uma jornalista da CNN, que, em espanhol, pedia sua opinião sobre a absolvição de Collor pelo STF.
 Sem jeito, mas bem-humorado, Itamar disse que só falava "um poquito" de espanhol. E arriscou:
@@ -189,16 +189,16 @@ Itamar estava acompanhado de alguns assessores, mas ninguém o ajudava a se desve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-011</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-011</field>
+<field name="date">950101</field>
+<text_pt>
 A Folha, em editorial na quarta-feira sob o título "Chega de roubalheira", comenta a apresentação do relatório final da Comissão Especial de Investigação (CEI) sobre suspeitas de irregularidades no Executivo. O editorial afirma que é razoável imaginar que o relatório não revele mais que a "ponta do iceberg", mas que oferece um mapa inicial da corrupção na administração pública. "No caso dos transportes, por exemplo, um dos setores mais visados no relatório, o sobrepreço médio na construção de estradas, segundo a CEI, é de 40%", diz o editorial. "O próximo governo será então posto à prova desde o seu início, com o desafio de mostrar, com celeridade e ações concretas, se vai ou não compactuar com o binômio corrupção-impunidade que há tanto sangra o país".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-012</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-012</field>
+<field name="date">950101</field>
+<text_pt>
 ANTONIO CARLOS SEIDL
  Da Reportagem Local 
 O ano de 1995 será de "ou vai ou racha" para a indústria brasileira. Exposta à abertura comercial, ela reivindica, para sobreviver, a redução das condições de desigualdade com os importados.
@@ -217,9 +217,9 @@ Carlos Eduardo Uchôa Fagundes, presidente do sindicato do setor de iluminação, n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-013</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-013</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 O empresariado industrial paulista descarta a hipótese do início de um período de recessão econômica em janeiro.
 Eles apostam em uma taxa de crescimento anual entre um nível moderado de, no mínimo, 5% até um patamar de 8% em 95.
@@ -235,9 +235,9 @@ Tripodo prevê um crescimento de 5% em 95, uma taxa, diz, "muito boa" para a cons
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-014</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-014</field>
+<field name="date">950101</field>
+<text_pt>
 RICARDO SEMLER 
 Ufa. Todo final de ano tem cara de ufa. Este ano foi do Itamar. Dizem que o homem é sortudo mesmo. Há os que acreditam que a influência dele no rumo das coisas foi idêntica à sua interferência no tetra. Mas é sacanagem reduzi-lo a isto.
 Gozaram bastante quando ele assumiu e eu fiz profissão de fé no efeito mineirinho. Sempre achei que o Brasil precisava de uma transição suave, de um estilo low-profile e de um endereçamento genérico na direção do sério-leve.
@@ -254,9 +254,9 @@ Começa a raiar um ano novo, com ar de novo. Para os coitados que têm de comparec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-015</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-015</field>
+<field name="date">950101</field>
+<text_pt>
 MARCELO LEITE 
 Responda rápido: em que dia começa o século 21? Se pensou 1º de janeiro de 2000, errou. O próximo milênio começa daqui a exatos seis anos, e não cinco. Ou seja, no primeiro dia de 2001.
 É simples, como explicou minha colega Gina Lubrano, ombudsman do jornal norte-americano "The San Diego Union-Tribune", em coluna recente.
@@ -295,9 +295,9 @@ Resumo da ópera: o bom dos números, em sua clareza e distinção (para voltar a De
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-016</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-016</field>
+<field name="date">950101</field>
+<text_pt>
 Louve-se a boa intenção do redator. Provavelmente, acreditou que estava evitando um erro de concordância. Sem dó, cravou o acento circunflexo da terceira pessoa do plural do verbo "ter", fazendo-o concordar com "coisas" (é a única explicação que encontro para tamanho escorregão).
 São muitos erros em um só. Para começar, "ter" não pode ser usado no sentido de "haver", neste caso. Esse uso já está consagrado na linguagem coloquial, invadiu mesmo a música popular ("Tem dias que a gente se sente / Como quem partiu ou morreu"), mas escrever isso em jornal já é demais.
 Depois, mesmo que o emprego fosse legítimo, a concordância estaria errada, por dois motivos.
@@ -309,9 +309,9 @@ MARCELO LEITE é o ombudsman da Folha. O ombudsman tem mandato de um ano, renováv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-017</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-017</field>
+<field name="date">950101</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
  De Washington 
 A American Telephone and Telegraph Company, que em breve vai mudar seu nome formal para a sigla com que ficou conhecida nos 130 países em que opera &#150;AT&amp;T&#150;, tem grandes planos para o Brasil, onde atualmente tem 400 empregados e escritórios em São Paulo, Rio e Brasília.
@@ -343,9 +343,9 @@ Pelson - Se o Brasil abrir o seu mercado, nós estamos preparados para investir s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-018</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-018</field>
+<field name="date">950101</field>
+<text_pt>
 O espetáculo multimídia, com cinco grupos internacionais de teatro, não empolgou o público anteontem 
 CRISTINA GRILLO 
 Da Sucursal do Rio 
@@ -360,9 +360,9 @@ Os acrobatas do grupo argentino De La Guarda fizeram sucesso ao atravessar os 23
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-019</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-019</field>
+<field name="date">950101</field>
+<text_pt>
 A Tecnologia Bancária &#150;do Bamerindus, Nacional e Unibanco&#150; informa que o pagamento de contas através de cartão magnético &#150;cheque eletrônico&#150; está crescendo a uma taxa média de 10% ao mês. Segundo a empresa, a Telesp prepara-se para disponibilizar no serviço de Teletexto, através do Banco Interativo de Serviços, a possibilidade de utilização do cheque eletrônico a partir de um microcomputador. 
 
 Banco Fenícia se une a Laffer Canto 
@@ -373,9 +373,9 @@ A Carbex vai investir US$ 1 milhão em 1995 nas áreas industrial e comercial no d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-020</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-020</field>
+<field name="date">950101</field>
+<text_pt>
 JOEL MENDES RENNÓ 
 Para vencer a batalha do petróleo, vencemos a batalha da ciência e da tecnologia 
 Ultimamente os temas petróleo e Petrobrás têm merecido maior atenção dos meios de comunicação e muitos são induzidos a crer que greves e demais fatos noticiados sobre a estatal constituem pontos de interesse prioritário. No entanto, vale considerar outros aspectos, estes sim muito importantes, os quais, embora não apresentem o mesmo potencial jornalístico de assuntos polêmicos, constituem na verdade as bases para a elaboração de um projeto nacional.
@@ -406,9 +406,9 @@ JOEL MENDES RENNÓ, 56, engenheiro, é presidente da Petrobrás.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-021</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-021</field>
+<field name="date">950101</field>
+<text_pt>
 ANTONIO KANDIR 
 Cheguei ao México em plena crise cambial. Dizer que havia grande irritação contra o governo é "dourar a pílula". Assisti a uma mistura de raiva e decepção que demandaria mais espaço e talento literário para descrever com um mínimo de exatidão. Essa triste experiência reforçou-me algumas convicções antigas e me fez refletir sobre que lições se poderia extrair do episódio. A primeira das lições diz respeito ao erro de origem da experiência mexicana; as demais são relativas ao manejo da crise propriamente dito.
 Lição 1: A âncora cambial não compensa. Ancorar o processo de estabilização no câmbio é uma estratégia que pode render frutos a curto e médio prazos, mas que encerra riscos incontroláveis a prazo mais longo. Pior, como procurei ressaltar em artigo nesta coluna ("Estabilização sem Atalhos Enganosos", 11/12), a ancoragem cambial, dadas as distorções que se vão acumulando, sobretudo em economias pouco abertas, impõe, mais à frente, um ajuste fiscal com custos sociais e econômicos muito elevados.
@@ -421,9 +421,9 @@ ANTONIO KANDIR, 41, engenheiro, doutor em Economia, é deputado federal eleito pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-022</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-022</field>
+<field name="date">950101</field>
+<text_pt>
 ÁLVARO ANTÔNIO ZINI JR. 
 "Na sua viagem para Ítaca deseje que sua jornada seja longa, cheia de aventuras, plena de descobertas. Lestrigãos, Ciclopes, o irado Poseidon &#150; não os tema: você nunca os encontrará em seu caminho, conquanto seus pensamentos voem alto, conquanto uma fina excitação incendeie seu espírito e seu corpo. Lestrigãos, Ciclopes, o feroz Poseidon &#150; você não os encontrará, a menos que os traga em suas entranhas, a menos que sua alma os coloque ante de si." C. Cavafy (Ithaca, 1910)
 
@@ -453,9 +453,9 @@ O que o exemplo mexicano vem ensinar é que há algumas noções básicas de equilíbr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-023</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-023</field>
+<field name="date">950101</field>
+<text_pt>
 No plano pessoal, Itamar Franco talvez tenha sido o mais desequilibrado presidente que este país já teve. Impulsivo, detalhista, desinformado, com parca capacidade de discernimento, tanto em relação a fatos quanto a pessoas, e uma necessidade quase doentia de auto-afirmação, tudo indicava que seu interinado produziria uma hecatombe nacional.
 Suas virtudes &#150;de homem simples, bem-intencionado, menos afeito a práticas fisiológicas e ao uso da máquina do Estado que a maioria dos políticos&#150; pareciam insuficientes para contrabalançar seus vícios de temperamento.
 Num autêntico desafio à teoria das probabilidades, errou praticamente todas as vezes que precisou tomar uma decisão. Com exceção de uma: a indicação de Fernando Henrique Cardoso para o Ministério da Fazenda.
@@ -477,9 +477,9 @@ Fora do governo, não haverá uma só pessoa que não lhe deseje felicidades.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-024</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-024</field>
+<field name="date">950101</field>
+<text_pt>
 Preço reduzido determina estoques do varejo, lançamentos e importações 
 Da Reportagem Local 
 A indústria e o comércio já têm planos traçados para conquistar os consumidores de renda mais baixa e ampliar os negócios este ano.
@@ -510,9 +510,9 @@ Segundo ela, a sua loja reduziu preço porque está trabalhando com volume maior d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-025</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-025</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 A perda de poder aquisitivo da classe média após o Plano Real foi parcialmente recuperada por quem teve data-base a partir de agosto. Se o reajuste salarial ocorreu em dezembro, o trabalhador ficou até mesmo com uma "sobra" para gastar ou poupar.
 Quem teve data-base antes, entretanto, já deve estar com o orçamento mais apertado. É que, no correr deste ano, irão vencendo os prazos de congelamento dos contratos, de 12 meses a partir da conversão para URV ou real.
@@ -535,9 +535,9 @@ Os valores de planos e seguros-saúde estão congelados por 12 meses desde a conve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-026</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-026</field>
+<field name="date">950101</field>
+<text_pt>
 Preocupação é pagar impostos e adiar outros gastos 
 Da Reportagem Local 
 A classe média deve frear o consumo durante o mês de janeiro para colocar em ordem suas finanças, depois dos excessos de fim de ano.
@@ -551,9 +551,9 @@ Outro fantasma que ronda a classe média são as notícias que começam a surgir de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-027</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-027</field>
+<field name="date">950101</field>
+<text_pt>
 DEMIAN FIOCCA 
 A ruína da estabilização mexicana e a situação extremamente delicada da Argentina mostram que a valorização do câmbio e a abertura agressiva das importações são políticas de integração internacional inconsistentes. Uma estabilização duradoura depende de um rigoroso ajuste fiscal e de uma rota de equilíbrio no setor externo.
 A intervenção no Banespa e no Banerj mostrou quão pequena é a consciência de que os déficits públicos não podem ser permanentes e quão longe chegou o endividamento irresponsável dos governos estaduais. Brizola pelo menos investiu em educação. Fleury, nem isso.
@@ -564,9 +564,9 @@ DEMIAN FIOCCA, 26, é economista e pós-graduando do curso de Economia da Universi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-028</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-028</field>
+<field name="date">950101</field>
+<text_pt>
 MARCOS CINTRA 
 Diferentemente do que se imagina, o Brasil corre risco de estar na mesma trajetória do México. É evidente que o Brasil não acumulou déficit comercial de US$ 18 bilhões; e nem perdeu três quartas partes de suas reservas, que naquele país caíram em alguns dias de US$ 24 bilhões para US$ 6,5 bilhões. O risco não é imediato.
 México, Argentina e Brasil avançaram na estabilização ancorados no câmbio. Mas esqueceram dos fundamentos da estabilidade econômica, ao não complementarem a política cambial com mudanças no regime monetário e fiscal.
@@ -582,9 +582,9 @@ MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE, 48, doutor em Economia pela Universidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-029</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-029</field>
+<field name="date">950101</field>
+<text_pt>
 Demonstrar a força do desastre do México pode ser nossa única esperança de abortar a "morte anunciada" 
 MARIA DA CONCEIÇÃO TAVARES 
 JOSÉ CARLOS MIRANDA 
@@ -623,9 +623,9 @@ JOSÉ CARLOS MIRANDA, 44, é diretor do Centro de Relações Econômicas Internaciona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-030</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-030</field>
+<field name="date">950101</field>
+<text_pt>
 Os fundões tradicionais (FAFs) fecharam dezembro com rentabilidade média estimada de 2,70%, já descontado o IR de 5% sobre o rendimento nominal bruto, mas sem considerar o IOF que incide sobre os resgates até 15 dias úteis.
 Já a rentabilidade bruta estimada dos fundos de renda fixa de curto prazo (novos fundões, criados em junho de 1994) é de 3,24%. Ela cai para 3,12% líquidos para as aplicações de 31 dias que forem resgatadas no próximo dia 2 por causa da tributação que combina o IR e IOF.
 A valorização diária das quotas dos 15 maiores fundões tradicionais estava em 0,1087%, na média, enquanto a dos fundos de curto prazo era de 0,1233%.
@@ -633,9 +633,9 @@ A rentabilidade líquida das aplicações de curto prazo feitas a partir do próximo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-031</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-031</field>
+<field name="date">950101</field>
+<text_pt>
 LUIZ CARLOS MENDONÇA DE BARROS 
 Nesta última coluna de 94 gostaria de chamar a atenção do leitor da Folha para uma lição que este fim de ano reservou a nós brasileiros. A crise mexicana destes últimos dias e a situação de nossa economia no apagar de 94 resgatam o nome do Brasil nos mercados financeiros internacionais. O sucesso do Plano Real, com uma inflação de apenas 0,8% em dezembro em um sistema de liberdade de preços, é hoje incontestável. Nos principais jornais do Primeiro Mundo têm sido constante as afirmações de analistas financeiros aconselhando os investidores a trocar seus investimentos mexicanos por alternativas nos mercados brasileiros. Apesar das incertezas que ainda temos pela frente são ressaltadas as condições políticas e econômicas favoráveis de nosso país.
 Durante anos o México era considerado o paradigma do sucesso de recuperação econômica no mundo em desenvolvimento. E o Brasil o oposto, um exemplo de bagunça, de descalabro administrativo e confusão política. Escapava destes analistas do senso comum as diferenças fundamentais entre estes dois países, principalmente quanto à situação política.
@@ -646,17 +646,17 @@ LUIZ CARLOS MENDONÇA DE BARROS, 51, engenheiro, é diretor do Banco Matrix S/A e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-032</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-032</field>
+<field name="date">950101</field>
+<text_pt>
 O cenário de curto prazo indica a manutenção do clima de turbulência nas Bolsas de Valores, com as intervenções do Banco Central no Banespa e no Banerj. Elas se somam ao impacto negativo da crise mexicana sobre os investimentos estrangeiros nas bolsas latino-americanas.
 Na última semana do ano, o Índice Bovespa registrou alta de apenas 0,06%, mas acumula desvalorização de 6,49% em dezembro e de 20,60% nos últimos três meses. O Índice Senn, da Bolsa de Valores do Rio, subiu 2,73% na semana mas fechou o mês com queda de 3,50%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-033</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-033</field>
+<field name="date">950101</field>
+<text_pt>
 O presente de Natal do povo brasileiro é a transformação para melhor do país; que 95 traga esta realização 
 OSIRIS LOPES FILHO 
 Especial para a Folha 
@@ -679,9 +679,9 @@ OSIRIS DE AZEVEDO LOPES FILHO, 55, é professor de Direito Tributário e Financeir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-034</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-034</field>
+<field name="date">950101</field>
+<text_pt>
 Inquilino e proprietário devem analisar cuidadosamente o contrato para saber se vale a pena enfrentar a ação judicial 
 Da Reportagem Local 
 A partir de amanhã, qualquer proprietário pode ingressar na Justiça com uma ação revisional do valor do aluguel. É o que determina a MP do Real.
@@ -701,9 +701,9 @@ Lembre-se ainda que, após o acordo, o aluguel ficará congelado por um ano. Assim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-035</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-035</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 Os acordos entre inquilinos e proprietários devem crescer este mês, para evitar a ação revisional prevista na MP do Real.
 Se for esse o seu caso, não se esqueça de fazer um aditamento (adendo) ao contrato, com o novo valor de aluguel, a mudança da data de reajuste e, se possível, a prorrogação do prazo da locação.
@@ -714,9 +714,9 @@ Como não há um aditamento com essas novas regras no contrato, o proprietário pod
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-036</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-036</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 Passado o período de festas, a dona-de-casa deve ficar atenta para mais uma despesa. É que o governo decidiu na semana passada pagar um abono de R$ 15,00 para quem ganha salário mínimo.
 Com a medida, que é válida a partir deste mês, nenhum trabalhador no país pode receber salário inferior a R$ 85,00 (US$ 100).
@@ -726,9 +726,9 @@ Mas atenção. Só tem direito ao abono quem ganha um salário mínimo em dezembro. S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-037</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-037</field>
+<field name="date">950101</field>
+<text_pt>
 Uma cerimônia marca hoje em Genebra o início das atividades da OMC (Organização Mundial de Comércio), sucessora do Gatt (Acordo Geral de Tarifas e Comércio). O irlandês Peter Sutherland, presidente do Gatt, fica interinamente à frente da OMC. Não há consenso sobre o titular e existem três candidatos: Renato Ruggiero (Itália), Carlos Salinas de Gortari (México) e Kim Sul-chu (Coréia do Sul). 
 
 Reeleição de Clinton divide americanos 
@@ -748,9 +748,9 @@ Tabitha Barker, 106, vai entrar na faculdade este ano. Ela se inscreveu no curso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-038</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-038</field>
+<field name="date">950101</field>
+<text_pt>
 Braço político do Exército Republicano Irlandês rejeita plebiscito só na Irlanda do Norte 
 ROGÉRIO SIMÕES 
 Enviado especial à Irlanda do Norte 
@@ -787,9 +787,9 @@ McGuinness - Isso vai depender do Sinn Fein. Provavelmente, nesta época eu já es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-039</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-039</field>
+<field name="date">950101</field>
+<text_pt>
 1992 - O líder do SDLP, John Hume, se reúne em sigilo com o líder do Sinn Fein, Gerry Adams.
 Outubro de 1993 - Hume informa o governo da República sobre as negociações e exige do governo britânico uma resposta à sua iniciativa. Dez pessoas morrem em atentado do IRA em Belfast. Adams condena publicamente o ataque. Sete pessoas morrem em ataque unionista em Londonderry.
 Novembro de 1993 - Em seu discurso anual a rainha Elizabeth coloca o processo de paz na Irlanda do Norte como prioridade.
@@ -805,9 +805,9 @@ Setembro de 94 - Governo retira a proibição de membros do Sinn Fein falarem em r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-040</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-040</field>
+<field name="date">950101</field>
+<text_pt>
 SÔNIA MOSSRI
 De Buenos Aires
 As investigações do governo argentino sobre dois atentados, no período de dois anos, a entidades judaicas na Argentina permanecem na estaca zero. Por que será que tanto a Polícia Federal, o serviço de inteligência e a Justiça patinam sobre pistas falsas?
@@ -827,9 +827,9 @@ Outra tese do governo questionada é a atribuição do atentado à Amia ao grupo rad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-041</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-041</field>
+<field name="date">950101</field>
+<text_pt>
 GILSON SCHWARTZ 
 Da Equipe de Articulistas 
 Nas últimas semanas colocamos em discussão a idéia de âncora cambial e de mercados emergentes, sugerindo, contra a corrente, que a euforia com os casos que se vendia como sucesso exige cautela redobrada. O terremoto mexicano confirmou os piores temores.
@@ -847,9 +847,9 @@ No Brasil, indagado há algumas semanas sobre quais seriam, afinal, as regras do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-042</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-042</field>
+<field name="date">950101</field>
+<text_pt>
 Do enviado especial a Israel 
 O processo de paz Israel-palestinos estancou, diz Ahmed Tibi, assessor especial de Iasser Arafat para as conversações de paz e assuntos israelenses. Segundo ele, Israel não quer cumprir parte do acordo, especialmente a redistribuição de tropas da Cisjordânia.
 Tibi diz que o nível de vida dos palestinos não melhorou desde o acordo de paz. E, se persistir o impasse no diálogo, a Intifada (revolta nos territórios ocupados) pode ser retomada.
@@ -897,9 +897,9 @@ Tibi - Eu telefonei para ele daqui. Ele disse:  Obrigado, obrigado. Obrigado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-043</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-043</field>
+<field name="date">950101</field>
+<text_pt>
 DAVID COHEN 
 Enviado especial a Israel 
 O processo de paz árabe-israelense enfrenta em 1995 sua mais dura prova: a realidade.
@@ -929,9 +929,9 @@ O jornalista David Cohen viajou a convite do governo israelense.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-044</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-044</field>
+<field name="date">950101</field>
+<text_pt>
 Não devolver 
 O slogan mais visto em toda Israel é  Aam im a Golan", O Povo com o Golã. Segundo pesquisas de opinião, a grande maioria dos israelenses é contra a devolução da região conquistada à Síria em 1967.
 
@@ -971,9 +971,9 @@ Israel tem cerca de 5,4 milhões de habitantes, 4,4 milhões judeus. Nos últimos c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-045</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-045</field>
+<field name="date">950101</field>
+<text_pt>
 Trabalhistas - São o partido majoritário na coalizão de governo do premiê Yitzhak Rabin. O grande rival de Rabin na liderança do partido é o chanceler Shimon Peres, maior impulsionador do processo de paz.
 
 Likud - Bloco que governou o país até 92, iniciou as conversações de Madri, mas bloqueou avanços com posições intransigentes. Questiona o acordo de paz.
@@ -997,9 +997,9 @@ ESL - Exército do Sul do Líbano, milícia montada por Israel durante a guerra civ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-046</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-046</field>
+<field name="date">950101</field>
+<text_pt>
 Precondições
 &#150; A crise do bloco socialista, no final dos anos 80, se reflete na decadência das ideologias pan-arabistas e se fortalece o pragmatismo nacional (progressos regionais passam a ser mais importantes do que objetivos históricos de construir uma só nação árabe).
 &#150; Com o fim da Guerra Fria, os grupos mais radicais perdem apoio soviético e governos árabes perdem esperança de solução militar para o conflito com Israel, sendo levados ao jogo político.
@@ -1023,9 +1023,9 @@ Líbano &#150; O Líbano exige que Israel desocupe a faixa de até 12 km de profund
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-047</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-047</field>
+<field name="date">950101</field>
+<text_pt>
 ALESSANDRA BLANCO 
 PATRICIA DECIA 
 Da Reportagem Local 
@@ -1047,9 +1047,9 @@ Sobre os melhores anos nas páginas 4 e 5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-048</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-048</field>
+<field name="date">950101</field>
+<text_pt>
 Integração aduaneira com Argentina, Uruguai e Paraguai faz taxa cair para 16% 
 EUNICE NUNES 
 Especial para a Folha 
@@ -1069,9 +1069,9 @@ O projeto de lei tem 13 artigos. Além de dar ao programa de computador a mesma p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-049</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-049</field>
+<field name="date">950101</field>
+<text_pt>
 Especial para a Folha
 Os países do Mercosul não têm normas comuns no campo dos direitos do consumidor. O Brasil tem o Código de Defesa do Consumidor, considerado um dos mais modernos e avançados do mundo. A Argentina tem uma lei aprovada em 1994, mas que é menos ampla e rigorosa do que a brasileira. Paraguai e Uruguai não têm leis de proteção do consumidor.
 "Faltam normas conjuntas, com regras mínimas sobre comercialização e segurança do consumidor a serem seguidas pelos quatro membros do Mercosul", diz Arystóbulo Freitas, advogado especialista em relações de consumo.
@@ -1081,9 +1081,9 @@ A solução é a doação de normas supranacionais que deverão ser absorvidas pelo di
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-050</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-050</field>
+<field name="date">950101</field>
+<text_pt>
 Especial para a Folha
 Há três maneiras possíveis para resolver controvérsias surgidas entre Brasil, Argentina, Uruguai e Paraguai, os países do Mercosul.
 A primeira dá-se através de negociações diretas entre os envolvidos na questão. No geral, este procedimento não poderá ultrapassar o prazo de 15 dias, contados da data em que um dos países houver suscitado o conflito.
@@ -1094,9 +1094,9 @@ O tribunal será composto por três árbitros e sua decisão será dada por escrito n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-051</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-051</field>
+<field name="date">950101</field>
+<text_pt>
 ALMIR PAZZIANOTTO PINTO 
 
 "Não fomos capazes de desenvolver mecanismos minimamente eficientes de conciliação e arbitragem" 
@@ -1117,9 +1117,9 @@ Almir Pazzianotto Pinto, 58, é ministro do Tribunal Superior do Trabalho (TST). 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-052</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-052</field>
+<field name="date">950101</field>
+<text_pt>
 WALTER CENEVIVA 
 Da Equipe de Articulistas 
 Pode parecer inacreditável, mas o ano de 1994 mostrou que a medida provisória é pior que o decreto-lei. Menos prática, pois seria eficaz num país cujos deputados e senadores pudessem cumprir, com presteza e qualidade, a difícil missão de legislar. Não é o caso do Brasil, como se evidenciou nos seis anos de vigência da Carta de 88.
@@ -1133,9 +1133,9 @@ O ano começa, porém, com otimismo. Será bom que os impulsos de revisão se esprai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-053</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-053</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 Pessoas que tiveram vidas mais do que excitantes, como Sophia Loren e Caetano Veloso, elegeram como o melhor de suas vidas momentos que acontecem com quase todo mundo: o nascimento dos filhos.
 A reprodução da espécie ficou em primeiro lugar na enquete, tendo sido citada por 12 entrevistados. Para Desmond Morris, 66, biólogo inglês, autor do best-seller "O macaco nu", o medo da morte explica o apego à maternidade. "Instintivamente, através das crianças, nos sentimos estranhamente imortais. Isso dá um prazer muito grande", disse Morris à Folha, por telefone, de Oxford.
@@ -1152,25 +1152,25 @@ O conselho, portanto, para quem for participar da enquete é tentar fazer um bala
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-054</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-054</field>
+<field name="date">950101</field>
+<text_pt>
 
 ZÉLIA GATTAI, 78, escritora - "É muito difícil escolher. Em 45, conheci Jorge, meu primeiro filho nasceu em 41, os outros dois filhos nasceram em 47 e 51. Todos estes anos foram maravilhosos. O melhor réveillon foi em 52, quando passamos no Kremlin. Havia escritores, artistas e músicos de toda parte do mundo no palácio. O baile nos grandes salões me impressionou muito."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-055</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-055</field>
+<field name="date">950101</field>
+<text_pt>
 
 GUILLERMO CABRERA INFANTE, 65, escritor cubano - "1958. Conheci a atriz Miriam Gomes, compilei meu primeiro livro (Asi en la paz como en la guerra), escrevi o conto En el gran ecbó, nasceu minha filha Carola e Batista Fulgêncio (presidente na época) fugiu de Cuba. Estava cheio de ilusões democráticas."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-056</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-056</field>
+<field name="date">950101</field>
+<text_pt>
 
 ALBERT EINSTEIN (1879-1955): Tarefa árdua indicar o ano mais feliz na vida de Einstein, a personalidade-síntese deste século. Não há consenso mesmo entre biógrafos. Depoimentos pessoais apenas revelam pistas. Por exemplo: Einstein admitiu que foi feliz em 1896, aos 17 anos, quando frequentou a escola da província de Aarau, Suíça. Lá, encontrou a liberdade que nunca teve no rígido sistema alemão. Era de se esperar que em 1905, ano da publicação de sua Teoria da Relatividade e outros dois trabalhos geniais, tenha sido o mais feliz. O mesmo vale para 1919, comprovação da Teoria da Relatividade Geral. Ou 1921, quando ganhou o Nobel. Mas um trecho sutil de "Einstein lived here" de Abraham Pais (Oxford University Press, 1994) pode contar a mais forte evidência (ainda que subjetiva) do ano &#150;e até do momento&#150; mais feliz na vida dele. Próximo à morte, em 55, ele recebeu a visita-reconciliação de seu filho mais velho, Hans Albert, então professor da Universidade da Califórnia. Talvez aí Einstein tenha se redimido de suas "inabilidades" como marido e pai. "Viver em harmonia duradoura com uma mulher foi uma tarefa na qual falhei desgraçadamente por duas vezes", disse ele certa vez. Como pai, não foi melhor. Não há indícios de que tenha sequer conhecido sua primeira filha, Lieserl, nascida antes do casamento formal com Mileva Maric. Eduard, seu filho mais novo, não mereceu maior atenção: esquizofrênico, perambulou entre clínicas até sua morte em 1965 em um centro psiquiátrico na Suíça. Hans Albert era, de certa forma, a redenção para o Einstein pai e marido. Era também pelo menos parte do testemunho de muitos momentos felizes do Einstein cientista, cidadão e pacifista. Depois do encontro, o maior cientista deste século com certeza morreu mais feliz &#150;e enfim totalmente em paz. (por Cássio Leite Vieira, Especial para a Folha)
 
@@ -1182,17 +1182,17 @@ SIGMUND FREUD (1856-1939) - "1899 porque ele terminou e mais tarde (em novembro)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-057</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-057</field>
+<field name="date">950101</field>
+<text_pt>
 
 RUBENS BARRICHELLO, 22, piloto de Fórmula 1 - "1990 porque foi o ano em que corri na Fórmula Opel e me sagrei campeão. Foi um ano muito difícil, meu primeiro na Europa, com apenas 17 anos e sem ainda falar bem o idioma. Senti muita solidão e saudade da família, que eu apenas conseguia esquecer quando estava pilotando."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-058</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-058</field>
+<field name="date">950101</field>
+<text_pt>
 ELVIRA LOBATO 
 Enviada especial ao Japão 
 Os brasileiros descendentes de japoneses, que deixaram o país com suas famílias para trabalhar no Japão, estão enfrentando um problema novo: ensinar o português para as crianças que desaprenderam a língua e não conseguem se comunicar com os pais.
@@ -1214,9 +1214,9 @@ A repórter Elvira Lobato viajou ao Japão a convite da NEC do Brasil.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-059</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-059</field>
+<field name="date">950101</field>
+<text_pt>
 Da enviada especial 
 Rapidamente, os brasileiros que vivem em Hamamatsu estão criando uma estrutura de serviços para atender a própria comunidade.
 Nos últimos quatro anos, surgiram cinco restaurantes, quatro mercados e até uma danceteria, chamada Cristal, onde só se fala do Brasil.
@@ -1234,9 +1234,9 @@ O posto de serviço passou a funcionar como uma espécie de consulado e ponto de e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-060</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-060</field>
+<field name="date">950101</field>
+<text_pt>
 MOACYR SCLIAR 
 Em briga de marido e mulher ninguém deve se meter, era o que ele ouvia desde pequeno. Mas era um conselho que não podia seguir.
 Em primeiro lugar, porque era policial. E como policial não podia permitir que casais brigassem. Outros guardiães da lei não pensavam assim; que se arrebentem, se matem, diziam, se morrerem não tem importância, são baderneiros a menos para incomodar.
@@ -1249,9 +1249,9 @@ Isto era o que ele ia dizer, antes que a faca do homem o atingisse na garganta. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-061</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-061</field>
+<field name="date">950101</field>
+<text_pt>
 Escolha de presidente sociólogo aumentou procura pelas ciências sociais nos vestibulares depois das eleições 
 AURELIANO BIANCARELLI 
 Da Reportagem Local 
@@ -1272,9 +1272,9 @@ A escola mantém hoje os cursos de Sociologia, Biblioteconomia, Documentação e Mu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-062</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-062</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 Os novos candidatos a sociólogo dizem que a intenção de fazer o curso é anterior à ascensão de FHC. Anterior mesmo ao fenômeno Betinho-Herbert de Souza, sociólogo que ganhou notoriedade à frente da campanha contra a fome.
 O corretor de seguros Jonas Gonçalves, 32, que se inscreveu na Escola de Sociologia e Política, diz que "foi apenas coincidência". "Eu já pensava nisso há dois anos." Ele acha, no entanto, que um sociólogo na presidência pode "animar o curso e até o mercado".
@@ -1285,9 +1285,9 @@ Silva diz que seu interesse pela sociologia surgiu na periferia, onde mora. "Vej
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-063</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-063</field>
+<field name="date">950101</field>
+<text_pt>
 FERNANDA DA ESCÓSSIA 
 Da Sucursal do Rio 
 A casa oficial do carioca Fernando Henrique Cardoso no Rio de Janeiro é um palacete que foi palco de alguns dos mais agitados acontecimentos da política brasileira nos últimos 40 anos.
@@ -1312,9 +1312,9 @@ O administrador do palácio, Francisco Farias, anima-se com a idéia de ter um pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-064</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-064</field>
+<field name="date">950101</field>
+<text_pt>
 Esportes terá R$ 20 milhões para gastar em 1995, menos que o gabinete da Presidência 
 MÁRCIA MARQUES 
 Da Sucursal de Brasília 
@@ -1339,9 +1339,9 @@ Outra parcela dos recursos em esportes tem sido destinada para os deficientes, s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-065</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-065</field>
+<field name="date">950101</field>
+<text_pt>
 Leitor fica indignado com meu artigo sobre a nomeação de Pelé para ministro extraordinário dos Esportes 
 ALBERTO HELENA JR. 
 Da Equipe de Articulistas 
@@ -1361,9 +1361,9 @@ Alberto Helena Jr. escreve aos domingos, segundas e quartas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-066</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-066</field>
+<field name="date">950101</field>
+<text_pt>
 ANDRÉ FONTENELLE
 De Paris  
 JOSÉ HENRIQUE MARIANTE 
@@ -1391,9 +1391,9 @@ Os organizadores já foram avisados que guerrilheiros podem interferir na prova e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-067</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-067</field>
+<field name="date">950101</field>
+<text_pt>
 A editora Morrow acaba de publicar "Deadly Sins", volume com oito ensaios sobre os sete pecados capitais escritos por Thomas Pynchon, Mary Gordon, John Updike, William Trevor, Gore Vidal, Richard Howard, A. S. Byatt e Joyce Carol Oarwa. Sete desses oito artigos sobre as mais variadas debilidades morais humanas já haviam sido publicados pelo "The New York Times Book Review".
 
 Ator Tom Hanks é eleito artista do ano 
@@ -1407,9 +1407,9 @@ A top model Kate Moss vai seguir os passos de suas companheiras Naomi Campbell e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-068</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-068</field>
+<field name="date">950101</field>
+<text_pt>
 Da Redação 
 1995 é o ano Erico Verissimo. Duas datas &#150;os 90 anos de seu nascimento e os 20 de sua morte&#150; motivam uma série de eventos em sua homenagem, a partir do Rio Grande do Sul, estado onde nasceu o autor de "Incidente em Antares".
 O principal deles ocorrerá em setembro, com a edição, pela primeira vez no Brasil, de "Brazilian Literature: An Outline" (Literatura Brasileira: Um Esboço), publicado nos Estados Unidos em 1945. O livro traz as aulas que Verissimo deu nos EUA.
@@ -1423,9 +1423,9 @@ As homenagens a Erico Verissimo propiciam a rediscussão de seu lugar na literatu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-069</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-069</field>
+<field name="date">950101</field>
+<text_pt>
 S. Paulo, 15,1,942
 Verissimo:
 Venho agradecer o último livro. Que presente de fim de ano você fez ao país! Mas acho que só quem morou anos na América pode dar o devido valor a tão linda realização. Eu considero os Estados Unidos como uma dessas famosas composições musicais que são impostas a todos os grandes executantes afim de tirar a prova dos noves fora do seu valor real, a rapsódia húngara de Lizt (sic), certas fugas de Bach. Se o bicho não revela excepcional habilidade, naufraga. O grande tema do mundo hoje, para todos os artistas, é a Rapsódia Americana, dos grandes gênios da música política, George Washington e Abe Lincoln. E você, meu arquiamado Verissimo, a executou como ninguém.
@@ -1443,9 +1443,9 @@ Monteiro Lobato
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-070</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-070</field>
+<field name="date">950101</field>
+<text_pt>
 
 Rio, 27.9.37
 Prezado Erico,
@@ -1467,9 +1467,9 @@ Lucio Cardoso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-071</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-071</field>
+<field name="date">950101</field>
+<text_pt>
 Rio, 11 de agosto de 1964
 Meu caro Erico Verissimo:
 Por motivo de saúde (falta de), de ausência daqui, e porque estive semanas sem vir à Academia, só hoje foi que me alegrou a surpresa de receber sua carta de 28 de junho. De verdade. Pois, veja, há também equívocos que valem a pena. Este, por exemplo, que você explica e desfaz, do "Correio da Manhã", do Mello Alvarenga, do nosso "Grande Sertão: Veredas". Sem ele, eu não teria agora o prêmio de suas linhas, tão cordiais e simpáticas. Muito, muito obrigado.
@@ -1481,9 +1481,9 @@ Guimarães Rosa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-072</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-072</field>
+<field name="date">950101</field>
+<text_pt>
 Rio, 23 de julho de 1935
 Meu caro Erico Verissimo,
 Recebi ontem "Caminhos Cruzados" e nesses dias vou começar a ler o seu livro que a crítica vem elogiando. Muito agradeço. Não lhe posso agora mandar, como desejava, o meu "Calunga" pois a livraria editora enviou para o Rio uma pequena remessa já esgotada. Desta remessa, o meu amigo Estevão Cruz me deu dez exemplares apenas. É possível que ainda esta semana tenha alguns exemplares para distribuição: então lhe remeterei um. Estão dadas as desculpas. Agora lhe peço um obséquio: fazer com que o nosso comum amigo Bertaso (1) não deixe como atualmente a praça do Rio sem meus livros. Já se foi também a remessa de "Tempo e Eternidade" com a mesma rapidez da de "Calunga"!
@@ -1497,23 +1497,23 @@ Jorge de Lima
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-073</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-073</field>
+<field name="date">950101</field>
+<text_pt>
 Monteiro Lobato, José Bento (1882-1948) - Escritor paulista, autor de "Urupês" (1918), entre outros. Foi o criador da literatura infantil brasileira. Entre 1921 e 1931, viveu nos EUA, tornando-se um apaixonado "americanófilo". A estadia no país lhe rendeu o livro "América".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-074</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-074</field>
+<field name="date">950101</field>
+<text_pt>
  Uma das mais extensas correspondência dos arquivos de Erico Verissimo é a do escritor norte-americano John dos Passos (1896- 1970). Verissimo e Dos Passos se conheceram nos anos 40, quando o escritor gaúcho foi dar aulas nos EUA. Um dos mais destacados escritores dos EUA na primeira metade do século, Dos Passos tinha como tema a degeneração do  sonho americano. É autor de  1919 (1932). Descendente de portugueses, publicou em 69  The Portugal Story (A História de Portugal).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-075</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-075</field>
+<field name="date">950101</field>
+<text_pt>
 Spence's Point
 Westmoreland, Virginia
 9 de julho de 1959
@@ -1528,9 +1528,9 @@ John Dos Passos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-076</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-076</field>
+<field name="date">950101</field>
+<text_pt>
 Westmoreland, Va 22577
 22 de dezembro de 1967
 dia mais curto do ano
@@ -1549,9 +1549,9 @@ Anticlímax: os 20 milhões de liras ainda não chegaram ao meu banco. Você acha qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-077</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-077</field>
+<field name="date">950101</field>
+<text_pt>
 Westmoreland, Virginia, 22577, USA
 16 de janeiro de 1967
 Querido Érico,
@@ -1565,9 +1565,9 @@ Dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-078</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-078</field>
+<field name="date">950101</field>
+<text_pt>
 Westmoreland, Virginia
 22577 USA
 19 de maio de 1970
@@ -1584,9 +1584,9 @@ Dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-079</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-079</field>
+<field name="date">950101</field>
+<text_pt>
 Westmoreland, Va 22877
 (na verdade ainda estou em Baltimore e não retornarei à Virginia antes da volta de Lucy em 10 de dezembro)
 Querido Érico,
@@ -1601,9 +1601,9 @@ Dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-080</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-080</field>
+<field name="date">950101</field>
+<text_pt>
 Siga o caminho do escritor nas versões de um trecho de 'O Prisioneiro' 
 É evidente a preocupação do escritor em alinhar forma e narrativa 
 MÁRCIA IVANA DE LIMA E SILVA 
@@ -1626,9 +1626,9 @@ MÁRCIA IVANA DE LIMA E SILVA é pesquisadora do Acervo Literário de Erico Verissi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-081</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-081</field>
+<field name="date">950101</field>
+<text_pt>
 ARTHUR NESTROVSKI 
 Especial para a Folha 
 Para um adolescente metido em livros, Porto Alegre, naquela época, era a cidade dele. Não só pelo prestígio literário, mas também pela postura corajosa e nobre de resistência à ditadura. Eu era muito pequeno para conversar com ele sobre essas coisas. Não sei até que ponto tinha ideais políticos bem definidos. Mas tenho gravado na memória um ideal humano, que ele defendia com as palavras e representava, melhor do que quase qualquer outro, com a própria vida.
@@ -1641,9 +1641,9 @@ ARTHUR NESTROVSKI é professor na pós-graduação em Comunicação da Pontifícia Univ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-082</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-082</field>
+<field name="date">950101</field>
+<text_pt>
 Além de seu trabalho como tradutor, mais conhecido, o intelectual teve forte presença na cultura do Brasil 
 ROSANA J. CANDELORO 
 Especial para a Folha 
@@ -1673,9 +1673,9 @@ As crônicas mantêm uma veia estilística inconfundível, domínio invejável da líng
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-083</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-083</field>
+<field name="date">950101</field>
+<text_pt>
 26 de novembro de 1976
 Prezado senhor Caro,
 Agradeço-lhe pela carta, que só recebi agora porque nas últimas semanas estava viajando.
@@ -1689,9 +1689,9 @@ Elias Canetti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-084</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-084</field>
+<field name="date">950101</field>
+<text_pt>
 20 de dezembro de 1976
 Prezado Senhor Caro,
 Muito obrigado pela carta. O que o senhor escreve sobre problemas de tradução evidentemente me interessa muito. Infelizmente nada sei de português, um idioma que mal conheço. Apesar disso, desejo, por ocasião de sua tradução do "Auto da Fé", iniciar-me nessa língua.
@@ -1704,9 +1704,9 @@ Traduções de ANDRÉ CARONE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-085</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-085</field>
+<field name="date">950101</field>
+<text_pt>
 De figura quixotesca de um balcão de livraria, Caro passa a integrar a memória cultural do país, que em 95 fará jus a 60 anos de serviços à cultura 
 Continuação da pág. 6-7
 Há nelas, fatalmente, um profundo pesar que palpita, o lado silencioso de um filho que foi privado da melodia da língua materna, por quase 25 anos &#150;até voltar a Berlim como turista. Do ponto de vista formal, entretanto, os textos de Caro apresentam um empolamento que causa estranheza, dada sua condição de dicionarista.
@@ -1738,9 +1738,9 @@ ROSANA J. CANDELORO é professora no ensino superior na área de filosofia e mestr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-086</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-086</field>
+<field name="date">950101</field>
+<text_pt>
 Da Redação 
 A parte em papel do acervo Herbert Caro &#150;reunindo cartas, artigos, fotos, documentos pessoais, etc&#150; foi doada ao Instituto Cultural Judaico Marc Chagall, de Porto Alegre, e encontra-se em início de catalogação.
 É do instituto também o mais longo depoimento dado pelo tradutor. Faz parte dos arquivos de história oral organizados por Sandra Lemchen Moscovich, que é a coordenadora do Departamento de Memória Judaica do Marc Chagall.
@@ -1748,9 +1748,9 @@ O instituto, que foi fundado em 1985, é constituído de várias câmaras &#150;de m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-087</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-087</field>
+<field name="date">950101</field>
+<text_pt>
 Washington, Agosto.3.1953
 Amigo Caro:
 São 10 da noite e estou escutando Bach no meu high fidelity, que é uma combinação assim:
@@ -1774,9 +1774,9 @@ Erico
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-088</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-088</field>
+<field name="date">950101</field>
+<text_pt>
 1906 - Nasce Herbert Moritz Caro em Berlim, em 16 de outubro
 1930 - Doutor em direito pela Universidade Ruperto-Carola, Heidelberg
 1933 - É proibido de exercer a advocacia por ser judeu. É destituído do cargo de diretor da Federação Alemã de Tênis de Mesa, após ter jogado seis anos na seleção alemã
@@ -1802,9 +1802,9 @@ Erico
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-089</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-089</field>
+<field name="date">950101</field>
+<text_pt>
 Os médicos brasileiros têm produzido mais artigos científicos que seus colegas de outros países latino-americanos &#150;5.590, contra 4.535 do México, 3.147 da Argentina ou 4.371 do Chile. O índice de citações varia de 1,72 por artigo chileno para 2,92 para artigo brasileiro. Apesar disso, os artigos mais citados entre os maiores produtores de ciência da região são os dos venezuelanos: 4.56 citações por artigo.
 
 GENÉTICA 
@@ -1816,9 +1816,9 @@ Mais uma vez os brasileiros produzem mais com menor qualidade: foram 1.233 artig
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-090</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-090</field>
+<field name="date">950101</field>
+<text_pt>
 Cientistas publicaram muito pouco nas principais revistas científicas em 1994 
 RICARDO BONALUME NETO 
 Especial para a Folha 
@@ -1836,9 +1836,9 @@ Mesmo assim há o problema da qualidade: os artigos de brasileiros são consistent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-091</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-091</field>
+<field name="date">950101</field>
+<text_pt>
 JOSÉ REIS 
 Especial para a Folha 
 Na reunião de novembro último da Sociedade de Neurociência em Miami (EUA), que entre outros assuntos tratou do possível papel da serotonina na agressão e no suicídio, veio à baila um massacre ocorrido em 1989 em Kentucky.
@@ -1855,9 +1855,9 @@ De todos os fatos apresentados na reunião de Miami se depreende que a biopsiquia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-092</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-092</field>
+<field name="date">950101</field>
+<text_pt>
 Simone Sampaio de Souza, 15, São Paulo, SP
 Maria Regina Alcântara, do Instituto de Química da USP, responde:
 Mesmo sendo o hidrogênio um gás inflamável e o oxigênio um gás comburente, a água não pega fogo porque ela é uma substância completamente diferente das duas primeiras, com propriedades bastante distintas.
@@ -1871,9 +1871,9 @@ Correspondência para a seção "Sem Mistério" deve ser encaminhada à Editoria de C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-093</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-093</field>
+<field name="date">950101</field>
+<text_pt>
 Bronzeado da pele é resultado de suicídio coletivo de células para proteger organismo de câncer 
 Bronzeamento nunca é sadio, mesmo com a aplicação de filtros solares 
 Pesquisa pode levar a pomada que bronzeia sem danos do ultravioleta 
@@ -1941,9 +1941,9 @@ As pessoas poderiam usá-la durante uma semana, ficar bronzeadas antes do verão e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-094</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-094</field>
+<field name="date">950101</field>
+<text_pt>
 'Arquivo móvel' pode revelar um pouco da personalidade e dos trejeitos do profissional 
 DENISE CHRISPIM MARIN 
 Da Reportagem Local 
@@ -1962,9 +1962,9 @@ Segundo ela, é possível fazer uma apreciação preliminar de um profissional apena
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-095</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-095</field>
+<field name="date">950101</field>
+<text_pt>
 Considera-se noturno o trabalho executado das 22h de um dia às 5h do dia seguinte. Para compensar o incômodo do trabalho realizado nesse período, a legislação prevê um adicional de 20% a cada 52 minutos e 30 segundos, calculados sobre o valor da hora normal (diurna). A hora de trabalho noturno é, portanto, reduzida se comparada à hora normal.
 A carga de trabalho permitida para o período noturno não pode ultrapassar oito horas diárias e 44 horas semanais.
 Estudos mostram que a alternância de horários de trabalho é ainda mais prejudicial ao organismo humano. Por isso, a legislação prevê que a jornada para quem trabalha em turnos ininterruptos de revezamento seja de seis horas.
@@ -1974,9 +1974,9 @@ O empregado com jornada reduzida para seis horas também faz jus ao adicional de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-096</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-096</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 Os títulos que o autor do currículo escolhe para cada item podem valorizar ou "derrubar" o esforço feito na redação dos objetivos e experiências profissionais.
 O engenheiro Fábio Mauricio Corrêa elaborou um bom currículo, segundo a consultora em recursos humanos Eliane Pires, da Andersen Consulting. Alguns pontos, no entanto, podem ser melhorados.
@@ -1992,9 +1992,9 @@ Leitores podem enviar seus currículos, que serão selecionados exclusivamente par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-097</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-097</field>
+<field name="date">950101</field>
+<text_pt>
 O número de ofertas de empregos para executivos em 94 cresceu 36% em relação ao ano passado, segundo pesquisa de oportunidades de recolocação da consultoria Laerte Cordeiro e Associados. O levantamento é realizado com base em anúncios publicados nos principais jornais de São Paulo.
 Durante 94, os executivos mais procurados foram os de marketing/vendas, que responderam por 45% dos anúncios. Em seguida, vieram os das áreas de produção (23%) e de administração/finanças/controle (19%).
 A pesquisa também apontou que o cargo mais requisitado pelas empresas foi o de gerente de vendas. A indústria continua a ser a maior recrutadora, responsável por 72% das ofertas de emprego.
@@ -2002,51 +2002,51 @@ Em dezembro, particularmente, a oferta de emprego para executivos foi de 142 &#1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-098</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-098</field>
+<field name="date">950101</field>
+<text_pt>
 Pesquisa de opinião realizada durante o 3º Encontro da Associação Brasileira de Logística (Aslog) revelou que "há um forte indicativo do mercado para a formação de alianças entre clientes e fornecedores". Segundo Kamal Nahas, presidente da Aslog, o objetivo foi "avaliar o grau de utilização de serviços logísticos e o impacto potencial do negócio". 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-099</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-099</field>
+<field name="date">950101</field>
+<text_pt>
 Pesquisa da Vale Refeição em 768 restaurantes de 30 cidades, em novembro, apontou aumento de 7,4% no preço das refeições à "la carte" e dos pratos executivos. O crescimento foi de 4,5% no valor de sanduíches e de pratos comerciais. O preço das refeições na região da av. Paulista, centro de São Paulo, variou de R$ 4,29 a R$ 18,77. No centro do Rio, elas oscilaram entre R$ 2,81 e R$ 16,88.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-100</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-100</field>
+<field name="date">950101</field>
+<text_pt>
 É cada dia mais comum incentivar o funcionário a produzir mais e a superar metas. Segundo Gisele Lima, da Mark Up Incentive Marketing, a premiação por resultados cresceu 20% em 94. Hoje, ela atinge quase todos segmentos da economia nacional: agrário, automotivo, beleza e financeiro, além de fabricantes de brinquedos, eletrônicos, construtoras, editoras e empresas jornalísticas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-101</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-101</field>
+<field name="date">950101</field>
+<text_pt>
 Quem espera aprender idiomas ou reforçar sua fluência durante as férias pode se valer dos cursos oferecidos por algumas escolas de São Paulo. A União Cultural Brasil-Estados Unidos &#150;(011) 885-1022&#150; abriu matrícula para cursos de inglês de verão. As escolas CCAA -(011) 914-9444&#150; também vão manter cursos intensivos de inglês, para todos os níveis, e de iniciação ao espanhol. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-102</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-102</field>
+<field name="date">950101</field>
+<text_pt>
 A Leo Madeiras &amp; Ferragens firmou parceria com o Senai para promover cursos de aperfeiçoamento para seus clientes preferenciais &#150;os marceneiros. Os cursos oferecidos são "Preparação e Acabamento com Verniz", "Colagem e Acabamento para Fórmica e Lâmina de Madeira" e "Colocação de Portas". A empresa responde por 50% do custo das inscrições. Informações: (011) 227-8500.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-103</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-103</field>
+<field name="date">950101</field>
+<text_pt>
 A partir do dia 9 de janeiro, nenhum funcionário da Calçados Sândalo poderá fumar nas dependências da empresa. A proibição ocorre depois de cinco anos de campanhas de conscientização e da criação de áreas para fumantes, os "fumódromos", que também serão extintas. Atualmente, 10% dos 700 funcionários da Sândalo fumam. Juntos, consomem cerca de 70 maços de cigarros por dia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-104</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-104</field>
+<field name="date">950101</field>
+<text_pt>
 (Fernando Moreira de Oliveira, Guarujá, SP)
 
 Seguem os endereços de algumas empresas em São Paulo que mantêm programas de estágio:
@@ -2076,27 +2076,27 @@ A rede de lojas Bob's é empresa brasileira de capital holandês e pertence à hold
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-105</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-105</field>
+<field name="date">950101</field>
+<text_pt>
 De Nova York 
 Empresas dos EUA aderem às 'células' 
 Um estudo sobre tecnologia de produção industrial com 1.042 empresas norte-americanas mostra que elas estão adotando o sistema de produção em células &#150;todas as pessoas de uma equipe são capazes de exercer todas as funções. Cerca de 75% das fábricas com cem ou mais funcionários estão organizadas dessa maneira. Gigantes japonesas, como Mazda, Toyota e Sony, aderiram ao sistema.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-106</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-106</field>
+<field name="date">950101</field>
+<text_pt>
 De Nova York 
 Inflação preocupa trabalhador chinês 
 Manter os trabalhadores calmos tornou-se prioridade na China. O motivo da inquietação é o crescimento da inflação. Em outubro de 94, os preços estavam 27% mais altos que em outubro de 93, e não há um plano de ataque "compreensível" ao problema. Muitas empresas estatais &#150;como a Anshan, com 400 mil empregados&#150; estão perigosamente perdendo dinheiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-107</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-107</field>
+<field name="date">950101</field>
+<text_pt>
 Via Verde já está recrutando engenheiros civis, agrônomos, técnicos, contatos publicitários, jardineiros e ajudantes 
 Da Reportagem Local Um projeto que prevê a plantação de 1 milhão de árvores nas ruas de São Paulo deve criar cerca de 1.300 empregos diretos para engenheiros civis, agrônomos, técnicos, contatos publicitários, estagiários (em engenharia), jardineiros, ajudantes e serventes.
 Lançado oficialmente em setembro de 1994, o projeto "1 Milhão de Árvores" foi elaborado pela empresa Via Verde Comunicação Visual em parceria com a Secretaria Municipal do Meio Ambiente.
@@ -2112,9 +2112,9 @@ Projetos semelhantes estão previstos para Fortaleza e Maceió.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-108</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-108</field>
+<field name="date">950101</field>
+<text_pt>
 ALEX SPILLIUS 
 Do "Independent"
 Você tem esquecido coisas importantes? Se a resposta é sim, bem-vindo ao clube. A perda de memória está se tornando um importante fator de ansiedade entre os trabalhadores nos anos 90.
@@ -2136,9 +2136,9 @@ Tradução de GLADYS WIEZEL
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-109</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-109</field>
+<field name="date">950101</field>
+<text_pt>
 Do "Independent" 
 O Centro de Pesquisas Rank Xerox está desenvolvendo o "parctab", computador de mão que exibe recados para lembrar seu usuário de qualquer tipo de compromisso. O equipamento deve chegar ao mercado nos próximos cinco anos.
 O "parctab" poderá, por exemplo, ser programado para lembrar seu usuário de comprar uma garrafa de vinho no supermercado que fica no caminho para a sua casa. O computador reagirá a um sensor e apresentará a mensagem programada.
@@ -2147,9 +2147,9 @@ Outro exemplo: quando o funcionário da contabilidade &#150;com quem você precisa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-110</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-110</field>
+<field name="date">950101</field>
+<text_pt>
 Cinco empresários de sucesso revelam em que atividade investiriam se tivessem que começar tudo de novo 
 INÊS CASTELO 
 Editora do Tudo 
@@ -2162,9 +2162,9 @@ Leia em seguida que destino teriam os últimos US$ 50 mil desses empresários.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-111</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-111</field>
+<field name="date">950101</field>
+<text_pt>
 Manoel Magili Mark - Barroso, MG
 
 Um representante comercial é mais que um vendedor. Ele é o elo de ligação entre o produtor e o cliente. Assume a responsabilidade pelo produto que comercializa e acompanha todo o processo de venda, desde o pedido até a entrega do produto ao cliente.
@@ -2180,9 +2180,9 @@ As cartas ao Balcão Folha-Sebrae devem ser enviadas para Caderno Tudo - al. Barã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-112</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-112</field>
+<field name="date">950101</field>
+<text_pt>
 NELSON ROCCO 
 Da Reportagem Local 
 Um dos sistemas empresariais que mais cresce no mundo &#150;o de franquias&#150; ganhou legislação própria: a lei nº 8.955, sancionada pelo presidente Itamar Franco, em dezembro.
@@ -2205,9 +2205,9 @@ Os benefícios oferecidos pelo franqueador, como supervisão, treinamento do franq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-113</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-113</field>
+<field name="date">950101</field>
+<text_pt>
 Da Redação 
 Os testes do caderno Veículos são realizados em pista de asfalto totalmente plana e reta, ao nível do mar.
 Os carros são submetidos inicialmente à aferição do velocímetro. A checagem garante a execução das medições de desempenho a partir de informações reais, sem as frequentes distorções causadas por erros do instrumento do carro (encontrados em todos os modelos, sem exceção até agora, e geralmente variam entre 2% e 15%).
@@ -2217,9 +2217,9 @@ A média de consumo publicada considera 60% de percurso urbano e 40% de trecho ro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-114</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-114</field>
+<field name="date">950101</field>
+<text_pt>
 A Senna Import, representante oficial da alemã Audi no Brasil, ocupa o primeiro lugar em vendas entre as 200 importadoras da marca no mundo. A empresa foi eleita melhor importadora Audi no mundo na 2ª Convenção de Importadores da marca. A Senna Import comercializou em sete meses 1.500 unidades.
 
 3.4 
@@ -2227,9 +2227,9 @@ A Senna Import, representante oficial da alemã Audi no Brasil, ocupa o primeiro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-115</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-115</field>
+<field name="date">950101</field>
+<text_pt>
 "Em dezembro de 1993, adquiri um Tempra na concessionária Firenze. No período de dois meses foi necessário levar o carro seis vezes para reparo, sem que os principais problemas tenham sido sanados. Seguindo orientação da Fiat, deixei o veículo três vezes na concessionária Fercoi. Como esta não conseguiu resolver todos os problemas, levei o carro por mais três vezes na revenda Autosole. Os problemas existentes desde o início ainda persistem." 
 (Ricardo de Jesus Torres - São Paulo, SP) 
 
@@ -2267,9 +2267,9 @@ Envie sua carta para caderno Veículos, Redação, al. Barão de Limeira, 425, 4º an
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-116</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-116</field>
+<field name="date">950101</field>
+<text_pt>
 Para reduzir custos e melhorar a distribuição, as redes Asia Motors e Daihatsu vão trabalhar em conjunto. A partir deste mês, as revendas Daihatsu devem começar a vender modelos coreanos;
 em fevereiro, a rede Asia comercializará carros da Daihatsu.
 
@@ -2297,9 +2297,9 @@ A Volkswagen ocupa o primeiro lugar em vendas na Europa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-117</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-117</field>
+<field name="date">950101</field>
+<text_pt>
 LUCIANO SOMENZARI 
 Da Reportagem Local
 A falta constante de "populares" nacionais fez o consumidor ficar mais atento a alternativas de similares importados. O japonês Suzuki Swift Hatch 1.0 avaliado por Veículos é uma delas.
@@ -2323,9 +2323,9 @@ Além dos "populares" nacionais cobrados com ágio, o Suzuki Swift 1.0 disputa mer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-118</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-118</field>
+<field name="date">950101</field>
+<text_pt>
 Da Redação 
 Apresentada no último Salão do Automóvel (em São Paulo, novembro passado) e no Salão de Paris um mês antes, a Ferrari 512M chega para substituir a lendária Testarossa (cabeça vermelha, uma alusão à cor dos cabeçotes do motor de doze cilindros do modelo).
 Desenhada pelo estúdio italiano de Sergio Pininfarina, a nova Ferrari tem motor V12 central derivado do usado na Fórmula 1 e carroceria construída inteiramente em alumínio.
@@ -2339,9 +2339,9 @@ O carro possui tanque de combustível duplo em alumínio, com capacidade para 110 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-119</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-119</field>
+<field name="date">950101</field>
+<text_pt>
 Em regiões tradicionais, 70% dos proprietários de imóveis novos são antigos moradores, dizem construtores 
 Da Agência Folha 
 Ligações afetivas com família e vizinhança e a proximidade com o trabalho. Esses fatores criaram uma característica marcante nos compradores de imóveis novos em São Paulo: a fidelidade ao bairro.
@@ -2360,9 +2360,9 @@ Para Ana Maria Heyden, diretora da imobiliária Lindenberg, da construtora Adolph
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-120</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-120</field>
+<field name="date">950101</field>
+<text_pt>
 Da Agência Folha 
 A qualidade do ar em Santana é um dos pontos fortes do bairro. De acordo com um levantamento feito pela Cetesb, o nível de poluição foi considerado inadequado em menos de um dia do ano passado (0,8%). Em Cerqueira César, essa média chegou a 25.6%.
 "É um dos lugares menos poluídos da cidade", afirma a moradora Odete Ackel, 61. A família dela chegou a Santana no início do século, quando o avô montou sua primeira loja no bairro.
@@ -2371,9 +2371,9 @@ Segundo a moradora, há um certo clima de cidade do interior, outra característic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-121</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-121</field>
+<field name="date">950101</field>
+<text_pt>
 Índice de comercialização de apartamentos foi de 7,1% em novembro, após ter alcançado 11,4% no mês anterior 
 Da Redação 
 O mercado de venda de imóveis novos no litoral de São Paulo pisou no freio em novembro. Depois de um outubro, que acenava com um verão de bons negócios registrando velocidade de vendas média de 11,4%, fechou o mês com índice mais modesto: 7,1%.
@@ -2392,9 +2392,9 @@ O balanço é um estudo do mercado de imóveis novos no litoral e região do ABCD, b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-122</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-122</field>
+<field name="date">950101</field>
+<text_pt>
 WALDIR DE ARRUDA MIRANDA CARNEIRO 
 Com a implantação do Plano Real, surgiram muitas dificuldades concernentes à conversão dos aluguéis, antes estabelecida em cruzeiros reais.
 O mecanismo de conversão era complexo, as variáveis numerosas e a incompreensão sobre o sistema não se limitava aos destinatários da norma, mas afligia, também, os seus próprios elaboradores.
@@ -2409,9 +2409,9 @@ WALDIR DE ARRUDA MIRANDA CARNEIRO, 30, é advogado em São Paulo, e autor de "Teor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-123</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-123</field>
+<field name="date">950101</field>
+<text_pt>
 "Moro em um sobrado geminado, estilo colonial, onde pretendo fazer uma cobertura para garagem, sem que ela escureça o imóvel ou deixe a sala muito abafada. A frente da garagem deve ser de alvenaria, com um portão de correr. Gostaria também de diminuir a sala de estar, para aumentar a área do escritório, transformando-o em uma sala de TV. Ocasionalmente esse cômodo ainda poderá ser usado como quarto de hóspedes"
 (Rosa Guimarães, 53, dona de casa, Osasco-SP)
 
@@ -2419,9 +2419,9 @@ Resposta do arquiteto Marcelo Katsuki, 27: "A garagem em alvenaria possui cobert
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-124</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-124</field>
+<field name="date">950101</field>
+<text_pt>
 O m2 construído de apartamentos com vista para o parque Ibirapuera chega a custar R$ 2.200 na região 
 CARMEN BARCELLOS 
 Da Reportagem Local 
@@ -2439,9 +2439,9 @@ No miolo do bairro, o comércio se restringe a panificadoras e pequenas lojas. Na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-125</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-125</field>
+<field name="date">950101</field>
+<text_pt>
 A estudante Daniela Cristina Lombardi Villarino Campos, 14, pergunta: "Como faço para me corresponder com Letícia Spiller?"
 Cartas para a atriz carioca Letícia Spiller, 21, devem ser enviadas para: Rede Globo, Departamento de Elenco, rua Pacheco Leão, 320, loja D, CEP. 22.460-030, Rio de Janeiro, RJ. Antes de interpretar a personagem Babalu, da novela global "Quatro Por Quatro", Letícia foi paquita no extinto "Xou da Xuxa" e fez a personagem Anitra na peça "Peer Gynt", dirigida por Moacyr Goés.
 
@@ -2461,9 +2461,9 @@ Para se corresponder com o zagueiro e meio-campista Leonardo Nascimento de Araúj
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-126</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-126</field>
+<field name="date">950101</field>
+<text_pt>
 "Estou inaugurando uma loja nos Jardins e gostaria de contratar alguns funcionários singulares, tipo: um homossexual discreto, um negro maravilhoso que não tenha 'CC', uma japonesa exótica ou um macho que usa brinco. Só não servem os que são fichados no Carandiru. Me passa esses contatos, Barbara, ou então me informa de onde vêm esses estranhos personagens que a gente vê em lojas e bares badalados."
 "Debora", S.P.
 
@@ -2493,9 +2493,9 @@ Resista até a morte. Sogra só é mansa em porta-retrato.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-127</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-127</field>
+<field name="date">950101</field>
+<text_pt>
 Na última semana da 22ª Bienal de São Paulo, a artista "de esquerda" Ida Natalia, 24, testou sua tática de guerrilha, driblou a segurança do Ibirapuera e expôs ali, clandestinamente, sua obra alijada do "sistema". Com etiqueta igual às dos trabalhos oficiais. E perto de Leda Catunda.
 Como nos 60, a "intervenção" foi fotografada para a posteridade. Há provas, portanto, de que o serviço da moça atraiu olhares de visitantes. E o de fiscais. Segundo o curador, Nelson Aguilar, houve outras "instalações" do tipo, providencialmente desmanchadas por monitores. "É como aparecer num filme em cena de multidão ou dar tchauzinho na TV", disse.
 "Cem Títulos" são cópias coloridas de fotos de um cão esmagado, arrematadas com a frase "O melhor amigo do homem" (partida ao meio, como o bicho). "A intrusão denuncia esse shopping center das artes, o critério de seleção e a fetichização das obras", diz Ida Natalia.
@@ -2505,16 +2505,16 @@ A guerrilheira do xerox é criação do diretor Antonio Rocco, 33, que estréia dia 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-128</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-128</field>
+<field name="date">950101</field>
+<text_pt>
 Citado por Fernando Henrique Cardoso em sua primeira entrevista coletiva depois da eleição, Caetano Veloso fala sobre suas utopias para o país, diz que considera "auspicioso" o encontro de São Paulo com o Brasil, diz que as leis da cidadania não devem abolir o "jeitinho" e proclama-se um príncipe no reino vitorioso da música popular
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-129</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-129</field>
+<field name="date">950101</field>
+<text_pt>
 Na véspera, ele e Gilberto Gil fizeram o último show da turnê "Tropicália Duo" &#150;iniciada na Europa e encerrada no célebre Teatro Castro Alves. Nos camarins, já de bermuda e sandália, comentava discretamente com uma amiga o telefonema que recebera de Fernando Henrique Cardoso, convidando-o para a posse de hoje. Não sabia ainda se seria possível ir a Brasília.
 O presidente tem destinado a Caetano Veloso um tratamento muito especial. Citou-o já em sua primeira entrevista coletiva, após as eleições, como uma espécie de intérprete da originalidade cultural brasileira e de suas perspectivas de afirmação no mundo.
 Encarnação de um programa que pretende imprimir racionalidade à economia e à vida pública nacionais, Fernando Henrique aparentemente deixou-se seduzir pelo tom visionário de seu famoso eleitor, que meses antes formulara, diante de uma platéia reunida no Museu de Arte Moderna do Rio, uma sugestiva utopia sobre o Brasil &#150;publicada, em versão reduzida, pelo caderno "Mais!", no dia 25 de setembro, na Folha. Guindado ao topo do poder político, o príncipe da sociologia estendeu a mão ao príncipe do monte Parnaso da música popular.
@@ -2537,9 +2537,9 @@ Mas eu sou, na verdade, Zorba, o grego. Estive este ano me apresentando na Europ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-130</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-130</field>
+<field name="date">950101</field>
+<text_pt>
 &#150;Você teme que o êxito do projeto de integração do Brasil à atual globalização capitalista tenha como contrapartida de seus eventuais benefícios uma institucionalização das relações sociais, inter-raciais e interpessoais à la americana?
 &#150;Eu acho que a gente deveria ser sagaz, astuto o suficiente para se utilizar do que essas coisas podem nos trazer para mitigar as escandalosas injustiças que se dão no nível social, sem nos expormos demasiadamente aos efeitos colaterais de que os norte-americanos dão mostras. Caso dessas supercompartimentalizações dos grupos. Parece que se botaram os direitos demasiadamente à frente ou acima das pessoas no modelo americano. Há algo de um gosto puritano brutal em tudo isso. Mas que dificilmente se repetiria aqui, já de início por não termos essa tradição puritana.
 Resumindo, eu acho que o Brasil pode se utilizar de uma capacidade mínima que ele tem para a cidadania para impor seu estilo próprio. Mas no fundo, quando eu vejo Jorge Amado dizendo que o fim do "jeitinho" não seria bom, eu concordo com ele... Eu não gosto dessa fetichização da cidadania como uma panacéia. Essa coisa de que o Brasil não presta por que não tem isso, mas pode vir a ter e então vai se salvar. Eu acho que o Brasil presta como é. O Brasil é interessante por que é ele.
@@ -2558,9 +2558,9 @@ Eu tenho desejo de utilizar. Eu acho que esses idiotas da objetividade trabalham
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-131</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-131</field>
+<field name="date">950101</field>
+<text_pt>
 Por Claudia Gonçalves
 
 Com 1,90 m de altura, 37 anos e o nome artístico de "Falcão", o cearense Marcondes Falcão Maia é hoje o cantor e compositor brega mais cult do Brasil. Seu estilo debochado e escatológico agrada roqueiros e troianos. O segredo do sucesso são versões em "inglês nordestino" de pérolas do repertório nacional, como "Eu Não Sou Cachorro Não" (virou "I'm not Dog No") e "Fuscão Preto" ("Black People Car")
@@ -2582,9 +2582,9 @@ Com 1,90 m de altura, 37 anos e o nome artístico de "Falcão", o cearense Marcond
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-132</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-132</field>
+<field name="date">950101</field>
+<text_pt>
 &#150;Porque a maioria do povo brasileiro é brega, inclusive os que se dizem chiques. Fiz uma pesquisa na minha agência Data Falcon e concluí que o Brasil é onde tem mais brega e corno por metro quadrado. Tenho que atingir esse público, que é muito carente e discriminado.
 &#150;Você gosta de ser chamado de brega?
 &#150;Claro. O Brasil é genuinamente brega e eu sou um brasileiro genuíno. Mas eu sou um brega cult. Não um brega autêntico.
@@ -2607,9 +2607,9 @@ Com 1,90 m de altura, 37 anos e o nome artístico de "Falcão", o cearense Marcond
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-133</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-133</field>
+<field name="date">950101</field>
+<text_pt>
 Já que você não vai mesmo seguir aquela sábia recomendação de todos os verões &#151; não tomar sol entre 10h e 16h &#151;, o jeito é se proteger ao máximo antes de encarar praia ou piscina.
 Quem tem pele clara e está começando a se bronzear deve escolher um filtro com fator de proteção entre os níveis 30 e 40, diminuindo gradualmente. As morenas podem arriscar um pouco mais, começando com o 15. Em qualquer um dos dois casos, porém, o certo é correr para o guarda-sol no horário fatídico.
 Sol no rosto, nunca; recorra a chapéus ou viseiras. Produtos especiais para o rosto (e lábios) também são úteis, especialmente para quem tem a pele oleosa (alguns protetores agravam o problema). Óculos escuros (só os que filtram os raios ultravioletas) são companhia indispensável.
@@ -2619,9 +2619,9 @@ Crianças e idosos são casos à parte. Donos de peles mais sensíveis e hábitos men
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-134</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-134</field>
+<field name="date">950101</field>
+<text_pt>
 Quem quer pegar aquela cor sem perder tempo pode estar se arriscando - os especialistas não são unânimes neste ponto. Segundo a dermatologista Ana Claudia Schor, produtos que prometem bronzeamento rápido são inofensivos, desde que contenham protetores solares. Seu único efeito seria estimular a produção de melanina (pigmento natural da pele). Outro dermatologista, Aurélio Ancona, aponta um possível perigo: segundo ele, esses produtos provocam uma sensibilização maior da pele. Ela ficaria, assim, mais exposta à ação nociva dos raios ultravioleta - que vai de queimaduras a câncer de pele (a longo prazo). Se desistir do bronzeador, você pode pelo menos tentar ficar com uma cor mais uniforme: basta trocar as longas horas de moleza na areia por uma boa caminhada pela praia.
 
 ONDE ENCONTRAR: O Boticário: shopping Iguatemi, loja Y-17, Jardins, zona sul, tel. 211-4440; shopping Eldorado, loja 384, segundo piso, Pinheiros, zona oeste, Tel. 814-8364. Farmaervas: r. Pamplona, 1.739, Jardins, zona sul, Tels. 887-4667 ou 0800-12-2911. Natura: tel. 0800-11-5566. Céu Carmesim: r. Paes de Araujo, 163, Itaim Bibi, zona oeste. Tel. 881-2171. Suil: shopping Center Norte, loja 244, Santana, zona norte, Tel. 290-9398. Yves Rocher: tel. 0800-13-0013. Drogaria D.B.: R. Cardoso de Almeida, 695, Perdizes, zona oeste, Tel. 864-3011.
@@ -2646,9 +2646,9 @@ BRONZEADORES
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-135</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-135</field>
+<field name="date">950101</field>
+<text_pt>
 Ela entra em qualquer trama. De vime, junco, palha, taquara, cipó ou macu, chega no Natal, carregada de presentes e delícias. Sempre útil, atravessa o Ano Novo armazenando desde flores até roupa suja. Trançada e transada, vai da praia ao campo sem deixar de ser urbana.
 &#150;Daniela de Camaret
 
@@ -2670,9 +2670,9 @@ ONDE ENCONTRAR: Armando Cerello Cestas e Arte: r. Dr. Mário Ferraz, 402, Itaim B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-136</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-136</field>
+<field name="date">950101</field>
+<text_pt>
 Santas Rodinhas! Antes só rolavam no escritório, agora colocam ordem na casa. Você cansou da mesmice na disposição dos móveis? Rodinha neles! A família resolve ouvir som, ver TV e jogar videogame ao mesmo tempo e no mesmo ambiente? Dá-lhe rodinha! A cada empurrão, as redondas criam um novo espaço e, ainda, restauram a paz doméstica
 &#150; Daniela de Camaret
 
@@ -2690,17 +2690,17 @@ ONDE ENCONTRAR: Esther Giobbi: r. Padre Manoel Chaves, 92, Jardins, zona sul, Te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-137</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-137</field>
+<field name="date">950101</field>
+<text_pt>
 Sopra de Paris um novo conceito de androginia. Protagonista, o terno mistura os gêneros e (mal) disfarça formas opulentas sob tecidos masculinos. Nostálgico, o dito-cujo pinta como fundamental. Cheio de história, revive décadas. Todo sintético, banca o moderno e vira high-tech
 &#150;Patricia Carta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-138</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-138</field>
+<field name="date">950101</field>
+<text_pt>
 Quem ainda não aderiu à máquina três sabe o quanto custa manter a cabeleira limpa, cheirosa e esvoaçante o tempo inteiro. Cabelos compridos só precisam de dois dias sem água, xampu, creme rinse e escova para começar a adquirir aquele perigoso aspecto "molhado" &#150;atestado de oleosidade. Mas nem sempre é possível encaixar uma sessão de lava-seca-penteia em um dia de trabalho infernal, correria desesperada e compromisso com hora marcada. Que tal, em um caso assim, queimar a etapa água &#150;e ganhar preciosa meia-hora na operação?
 É essa, precisamente, a promessa por trás do rótulo do Dry Shampoo, produto alemão que a Marinage/Algemarin está importando para o Brasil. Segundo as instruções, basta aplicar o xampu no cabelo seco e escová-lo. O químico se encarrega de absorver a "gordura supérflua" do cabelo. Na escovação, vão-se o xampu e a sujeira.
 A modelo Fabiana Kanan, da agência L'Equipe, testou o xampu seco para a Revista da Folha e matou a charada: "Isto parece o truque do talco da vovó", disse, referindo-se ao velho expediente de desengordurar os cabelos com talco em pó, completando o serviço com a escova. Leia, a seguir, o resultado do teste.
@@ -2712,9 +2712,9 @@ ONDE ENCONTRAR: Marinage Algemarin (tel. 283-1100 e 0800-130066). Preço: R$ 13,7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-139</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-139</field>
+<field name="date">950101</field>
+<text_pt>
 Marcos Augusto Gonçalves 
 
 O futebol brasileiro tem sido vitorioso não por causa de seus dirigentes, mas quase sempre apesar deles 
@@ -2730,9 +2730,9 @@ Marcos Augusto Gonçalves é editor da Revista da Folha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-140</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-140</field>
+<field name="date">950101</field>
+<text_pt>
 Quem esperar por um filme de ação tipo "Speed" não precisa nem passar na porta do cinema: esse não é o público de "Através das Oliveiras" (foto à esq.), do diretor Abbas Kiarostami. Mas quem tiver tempo (interior) para relaxar, ver e ouvir perceberá que está diante de um dos maiores cineastas vivos.
 No enredo, um cineasta procura, entre habitantes do norte do Irã, atores para seu novo filme. A região foi devastada há alguns anos por um terremoto. O personagem encontra um rapaz e uma moça apaixonados um pelo outro.
 Mas sobre seu amor pesa um interdito: ela é letrada e rica (isto é, tem uma casa); ele é analfabeto e pobre (perdeu a casa no terremoto). A família da moça proíbe o casamento. Ela não se dirige ao rapaz durante a filmagem. Ele, ao contrário, lhe diz coisas belíssimas.
@@ -2743,9 +2743,9 @@ Através das Oliveiras (Through the Olive Trees. Irã, 1994). Direção: Abbas Kiaro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-141</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-141</field>
+<field name="date">950101</field>
+<text_pt>
 Não é bem um restaurante, o Dansk Corner. São apenas duas mesas, para quem prefere comer lá. Mas comer lá, embora possível, não é sua principal função. A casa nasceu, há um mês, como um delivery, um restaurante para entregas na região.
 O cardápio é de fast food, com força nos sanduíches abertos, típicos da Escandinávia. São grandes canapés, montados sobre uma fina fatia de pão preto ou branco, com os ingredientes da smorgasbord (a mesa de frios dos países nórdicos).
 O resultado é uma refeição leve, saborosa e bonita. Os pratos foram criados pelo chef islandês Jakob Jakobson, que conta com passagem de três anos pela centenária sanduicheria de Ida Davidsen, na Dinamarca.
@@ -2756,9 +2756,9 @@ Dansk Corner. R. Baltazar Fernandes, 108, Morumbi, zona sul. Tels. 531-9733 e 54
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-142</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-142</field>
+<field name="date">950101</field>
+<text_pt>
 A exposição retrospectiva de Antonio Dias mostra 27 telas e 12 papéis, datados desde 1977. Ele expõe na Europa desde 1965. Talvez o mais internacional dos artistas brasileiros, é especial. Ele se diz estrangeiro, lá e cá. "Eu desconfio do quadro."
 Um pintor que não gosta de pintar, cuja técnica "escarnece de si própria. E esta ironia atinge tanto o criador, quanto a obra e o seu consumo". Tem a astúcia do sujeito consciente de seu objeto.
 Sua obra tem uma unidade de pensamento, uma liga alquímica-visual rara, na qual o ato de fazer se confunde com a fisiologia do olhar.
@@ -2770,9 +2770,9 @@ Antonio Dias. Paço das Artes. Av. da Universidade, 1, Cidade Universitária. Tel.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-143</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-143</field>
+<field name="date">950101</field>
+<text_pt>
 Era o que faltava. Estão abertas as inscrições para o concurso de beleza negra promovido pela agência de modelos New Company. A final será no descolado Balafon, no dia 10 de março de 1995. Para se inscrever, basta aparecer na agência ou no Balafon levando duas fotos (uma em close, outra de corpo inteiro). Lá, o candidato preenche uma ficha com dados pessoais e paga taxa de R$ 3.
 O mercado brasileiro de modelos, escravo de um único padrão de beleza, não chega a consumir nem 10% do potencial de negros. Foi pensando nisso &#150;e muito mais&#150; que a ex-modelo Rita de Cassia Santos, 32, montou a New Company, responsável pela realização deste concurso. É uma grande oportunidade para quem quer trilhar os caminhos de moda, publicidade ou cinema &#150;e um incentivo à beleza universal. Good trip. &#150;Sonia Fabiano
 
@@ -2780,16 +2780,16 @@ New Company. Av. Rio Branco, 1.704, Campos Elíseos, região central. Tel. 222-141
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-144</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-144</field>
+<field name="date">950101</field>
+<text_pt>
 Marcos Palmeira (foto), Marcos Winter e Ilya São Paulo são os protagonistas de "Irmãos Coragem", novela das seis que estréia amanhã na Globo. O remake da obra de Janete Clair, exibida originalmente em 1970, é marcado por uma linguagem cinematográfica.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-145</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-145</field>
+<field name="date">950101</field>
+<text_pt>
 Arlete Montenegro não é Fernanda 
 Ao contrário do que foi publicado na última edição do TV Folha, Arlete Montenegro não é o nome da atriz Fernanda Montenegro &#150; que se chama Arlette Pinheiro Monteiro Torres. ERRAMOS
 Travesso descansa nos EUA 
@@ -2812,9 +2812,9 @@ A atriz Vera Fischer que se cuide. É crescente o mau humor de diretores da Globo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-146</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-146</field>
+<field name="date">950101</field>
+<text_pt>
 Estou chocada com a falta de respeito com a qual o jornal da CNT/Gazeta tratou uma manifestação de hare krishnas em São Paulo. Ao assistir a esse jornal no dia 21 de dezembro, às 20h45, foi com surpresa que vi o repórter se referir à passeata dos hare krishnas pela paz como "uma manifestação de carecas exigindo mais cabelo". Não é porque essa é uma religião de pouca representatividade que ela deve receber um tratamento menos respeitoso que qualquer outra. Falo isso como cristã. É lamentável que um noticiário que deveria informar imparcialmente consiga, ao mesmo tempo, não informar e não ser imparcial.
 
 Denise Cristina S. Perrotti São Paulo, SP  
@@ -2826,9 +2826,9 @@ Gilvete da Silva Lemos São Bernardo do Campo, SP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-147</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-147</field>
+<field name="date">950101</field>
+<text_pt>
 DALMO MAGNO DEFENSOR 
 Especial para o TV Folha 
 Planos econômicos sempre começam com o ministro da Fazenda em rede nacional de TV, sisudo, anunciando as medidas como se estivesse mobilizando tropas e convocando reservistas para expulsar o inimigo do solo pátrio.
@@ -2840,9 +2840,9 @@ No plano Collor, afinal, a unanimidade. Enquanto a ministra provava por alfa mai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-148</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-148</field>
+<field name="date">950101</field>
+<text_pt>
 por cento dos paulistanos com nível superior de escolaridade forneceram respostas incorretas quando inquiridos pelo Datafolha sobre qual série de TV gostariam de rever. Esse índice de erro cai para 36% entre os paulistanos com até segundo grau e 28% entre os que cursaram apenas o primeiro grau. 
 
 9º 
@@ -2853,16 +2853,16 @@ por cento foi o índice médio de televisores ligados na Grande São Paulo na faixa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-149</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-149</field>
+<field name="date">950101</field>
+<text_pt>
 No dia da posse de Fernando Henrique Cardoso como presidente da República, a Cultura exibe o especial "FHC - A Trajetória de um Presidente". A emissora mostra a posse a partir das 16h. As redes Manchete e Bandeirantes começam antes, exibindo flashes a partir de 11h e 14h30, respectivamente. A Globo entra às 16h25.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-150</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-150</field>
+<field name="date">950101</field>
+<text_pt>
 Estréia amanhã às 18h o remake de um dos maiores sucessos de audiência de Janete Clair nos anos 70 
 RONI LIMA 
 Da Sucursal do Rio 
@@ -2884,9 +2884,9 @@ Suzana Faini &#150;que na primeira versão viveu Cema e agora é Dalva&#150; faz c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-151</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-151</field>
+<field name="date">950101</field>
+<text_pt>
 Da Redação 
 Não foi por acaso que a Globo escolheu "Irmãos Coragem" para comemorar seus 30 anos e, de quebra, tentar revitalizar sua faixa das seis.
 Exibida entre 29 de julho de 1970 a 15 de julho de 1971, a novela é representativa do período no qual a emissora carioca tomou a liderança absoluta da audiência e da passagem do cetro de rainha das novelas de Glória Magadan para Janete Clair.
@@ -2897,27 +2897,27 @@ A cidade cenográfica foi destruída em meio à novela por um temporal. Na trama, C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-152</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-152</field>
+<field name="date">950101</field>
+<text_pt>
 O cinema moderno começa, oficialmente, com "Cidadão Kane". Menos pela famosa utilização da profundidade de campo, ou pelos ângulos inesperados, ou pelos planos-sequência, ou pela narrativa em "flash back". Na verdade, o que faz de "Kane" um monumento é a dimensão da dúvida. À certeza plácida do classicismo, Orson Welles substituiu a pergunta: o que é um homem? E demonstrou que conhecer este homem era impossível. Quanto mais entramos na história de Charles Foster Kane, o magnata da imprensa, mais ele nos escapa, ao mesmo tempo em que a questão suscitada &#150;o que é o cinema?&#150; se torna mais presente. Num dia cheio de filmes significativos, "Kane" é, de longe, o que mais conta. Os outros são decorrência. (IA)
 
 CIDADÃO KANE (Citizen Kane). EUA, 1941, 119 min. Direção: Orson Welles. Com Orson Welles, Joseph Cotten. P&amp;B. Legendado. Na Cultura.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-153</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-153</field>
+<field name="date">950101</field>
+<text_pt>
 Jonathan Demme estava longe de ficar famoso, ganhar Oscar e tudo mais, quando fez este filme, talvez o mais delicado de sua carreira. Janet Margolin é uma jovem judia que busca vingar-se dos descendentes que causaram a desgraça de uma antepassada. Roy Scheider é uma de suas vítimas. Mas esses seres que tudo leva à oposição, apaixonam-se. Se tudo até ali era estranho, a paixão tornará as coisas ainda mais estranhas. O que anunciava um giro de 180o, desdobra-se: é toda a volta, os 360o que se deixam ver, ao longo de uma busca em que a dor se insinua a cada passo. É o tipo de filme bom para quebrar o pescoço de alguém menos talentoso. Mas perfeito para dar a real dimensão de um cineasta. E, no caso, de seus atores. (IA).
 
 O ABRAÇO DA MORTE (The Last Embrace). EUA, 1979, 103 min. Direção: Jonathan Demme. Com Roy Scheider, Janet Margolin. Na Globo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-154</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-154</field>
+<field name="date">950101</field>
+<text_pt>
 Mario Vargas Llosa está no centro do "Roda Viva" desta semana. Em programa previamente gravado, o escritor peruano fala sobre sua infância na cidade de Piura, sobre sua candidatura à Presidência de seu país e sobre "O Peixe na Água", seu mais recente livro, inspirado em sua incursão pela política.
 RODA VIVA  Cultura, 22h30.
 
@@ -2955,9 +2955,9 @@ OS VIKINGS  Cultura, 21h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-155</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-155</field>
+<field name="date">950101</field>
+<text_pt>
 JOSIAS DE SOUZA 
 Diretor-executivo da Sucursal de Brasília 
 Fernando Henrique Cardoso, 63, toma posse hoje, às 16h30, como o novo presidente do Brasil em meio a uma atmosfera de grande otimismo, que obscurece até mesmo a ascensão dos 27 novos governadores que também chegam ao poder ungidos pela maior eleição a que o país assistiu.
@@ -2977,9 +2977,9 @@ Além do desafio econômico, terá pela frente o conjunto de problemas representado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-156</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-156</field>
+<field name="date">950101</field>
+<text_pt>
 1931
 Nasce em casa,  no Rio,  a  18 de junho. Seu pai, Leônidas Cardoso, era coronel do Exército. Aos oito anos, sua família se transfere para São Paulo. Em 1946, é eleito diretor-geral do grêmio estudantil do Colégio São Paulo. No ano seguinte, é escolhido vice-presidente do grêmio e em 1948 volta a ser diretor-geral
 
@@ -3006,9 +3006,9 @@ Assume o Ministério da Fazenda em maio. Cria o Fundo Social de Emergência e coor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-157</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-157</field>
+<field name="date">950101</field>
+<text_pt>
 Presidente eleito fez lista de convidados especiais, decidiu promover o show de música e escolheu artistas 
 Da Sucursal de Brasília 
 Fernando Henrique Cardoso cuidou pessoalmente de vários detalhes de sua posse hoje, como uma lista de 17 convidados especiais, todos estrangeiros.
@@ -3038,9 +3038,9 @@ A última cerimônia terá caráter ecumênico, desprezado nas posses anteriores. Est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-158</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-158</field>
+<field name="date">950101</field>
+<text_pt>
 FERNANDO RODRIGUES 
 Enviado especial a Brasília 
 Dos 114 países representados na cerimônia de posse, 51 decidiram escalar seus embaixadores em Brasília para cumprimentar FHC. 
@@ -3060,9 +3060,9 @@ Dos representantes do G-7, FHC pretende conceder audiências separadas amanhã par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-159</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-159</field>
+<field name="date">950101</field>
+<text_pt>
 LILIANA LAVORATTI;  VIVALDO DE SOUZA 
 Da Sucursal de Brasília 
 A principal preocupação da equipe econômica nos primeiros meses do próximo governo é aumentar a arrecadação e reduzir os gastos públicos para que o Plano Real deixe de se sustentar na política cambial, que deverá sofrer ajustes graduais.
@@ -3080,9 +3080,9 @@ O problema de saneamento financeiro dos bancos estaduais já começou a ser resolv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-160</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-160</field>
+<field name="date">950101</field>
+<text_pt>
 JOSÉ ROBERTO DE TOLEDO 
 Enviado especial a Brasília 
 FERNANDO GODINHO 
@@ -3102,9 +3102,9 @@ O Orçamento/95 foi reajustado em 20% (por conta da inflação). Mas Giomi afirma q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-161</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-161</field>
+<field name="date">950101</field>
+<text_pt>
 Problema do presidente eleito será conciliar interesses dos partidos aliados 
 LUCIO VAZ;  EUMANO SILVA 
 Da Sucursal de Brasília 
@@ -3127,9 +3127,9 @@ O futuro presidente também terá de atender a interesses de parlamentares que se 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-162</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-162</field>
+<field name="date">950101</field>
+<text_pt>
 Novo chefe da Casa Civil diz que o fim de algumas pastas e a reforma do Estado começam a ser debatidos na sexta 
 Há, no governo, o compromisso de que o Estado deve ser reduzido ao tamanho necessário 
 Da Sucursal de Brasília 
@@ -3175,9 +3175,9 @@ Carvalho &#150; Quem está decidindo efetivamente as coisas básicas é o president
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-163</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-163</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 O futuro chefe da Casa Civil, Clóvis Carvalho, tem ligações com a iniciativa privada. Após trabalhar no governo de Franco Montoro (1983-1987), como secretário de Planejamento de São Paulo, foi vice-presidente de Recursos Humanos do Grupo Villares.
 Amigo de José Serra, o novo ministro do Planejamento, Carvalho foi responsável por um projeto de reestruturação iniciado na Villares em 1990. O enxugamento que fez na empresa resultou na demissão de aproximadamente metade dos 23 mil funcionários da empresa.
@@ -3186,9 +3186,9 @@ Carvalho também é amigo do presidente eleito. Fernando Henrique fez questão de l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-164</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-164</field>
+<field name="date">950101</field>
+<text_pt>
 Da Sucursal de Brasília 
 Fernando Henrique Cardoso herdará problemas que o próprio Itamar Franco admite estar deixando para seu sucessor: crise dos hospitais conveniados ao SUS (Sistema Único de Saúde) e uma dívida social que ele tentou amenizar com o abono de R$ 15 em janeiro para quem ganha salário mínimo e aposentados.
 Além disso, ao assumir o cargo, FHC terá de prosseguir o processo iniciado no governo Itamar de concessão da isonomia salarial aos servidores do Executivo e punir os responsáveis pela corrupção em contratos do Ministério dos Transportes com empreiteiras.
@@ -3203,9 +3203,9 @@ Na questão isonomia, Itamar deixou para seu sucessor na Presidência da República
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-165</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-165</field>
+<field name="date">950101</field>
+<text_pt>
 Datafolha mostra que 70% dos brasileiros esperam do tucano uma gestão ótima/boa, como esperavam de Collor em 90  
 CLÓVIS ROSSI 
 Da Reportagem Local 
@@ -3229,9 +3229,9 @@ A direção do Datafolha é exercida pelos sociólogos Antônio Manuel Teixeira Mende
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-166</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-166</field>
+<field name="date">950101</field>
+<text_pt>
 SILVANA DE FREITAS;  WILLIAM FRANÇA 
 Da Sucursal de Brasília 
 A metade dos ministros do governo Itamar Franco deve permanecer no governo Fernando Henrique Cardoso &#150;seja no mesmo cargo, em outro ministério, como presidente de estatal ou em missão no exterior.
@@ -3256,9 +3256,9 @@ Colaborou EVANDRO EBOLI, da Agência Folha em Juiz de Fora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950101-167</text_pt>
-<text_pt name="date">950101</text_pt>
-<text_pt name="text">
+<field name="id">FSP950101-167</field>
+<field name="date">950101</field>
+<text_pt>
 Da Reportagem Local 
 O tucano Mário Covas assume hoje o governo de São Paulo preocupado em recuperar as finanças do Estado, que tem hoje uma dívida de R$ 31 bilhões.
 A partir de amanhã, Covas comanda uma "drástica" redução de gastos -como define o futuro secretário da Fazenda, Yoshiaki Nakano.

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP941006-001</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-001</field>
+<field name="date">941006</field>
+<text_pt>
 Os altíssimos índices de votos em branco e nulos nestas eleições merecem uma reflexão mais detida. Com efeito, de acordo com os primeiros resultados oficiais, os sufrágios em branco e nulos para a Presidência, o cargo mais importante do país, somam mais de 16%. No primeiro turno da eleição de 89, esse número foi de apenas 5,67%.
 No caso das eleições para os governos estaduais, o total de votos em branco e nulos supera em quatro Estados os dados ao primeiro colocado. Em outros oito os brancos e nulos ficam em segundo lugar. Imagine-se o que virá das votações para os cargos proporcionais.
 Cumpre tentar analisar as razões desse fenômeno. A primeira e mais evidente delas parece ser a própria complexidade dessas eleições para uma população cujo grau de instrução é para a maioria muito baixo.
@@ -16,9 +16,9 @@ Também seria útil adotar o chamado voto distrital misto. Esse tipo de regime ele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-002</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-002</field>
+<field name="date">941006</field>
+<text_pt>
 As informações divulgadas hoje por esta Folha de que o futuro governo planeja implantar o contrato coletivo de trabalho são animadoras. Se for efetivamente implantada, essa fórmula acena com a possibilidade de avanços importantes para a economia brasileira.
 Tais contratos, como se sabe, resultam de negociação entre trabalhadores e empregadores e, além da questão salarial, devem abranger também aspectos como, por exemplo, produtividade, nível de emprego, condições de trabalho, solução de disputas e treinamento. Podem ser firmados no âmbito de uma empresa, de grupos de empresas ou de categorias. Substituem parte da legislação, reduzindo muito a ingerência do Estado e da Justiça do Trabalho nas relações trabalhistas.
 Um efeito particularmente importante dessa mudança, num país que luta para estabilizar sua moeda, é o de pôr fim a mecanismos oficiais de indexação que disseminam automaticamente para todo o país oscilações ocorridas às vezes apenas em certos setores ou regiões.
@@ -28,9 +28,9 @@ Essa soma de dinamismo com realismo é positiva para todos, ainda mais num mundo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-003</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-003</field>
+<field name="date">941006</field>
+<text_pt>
 Nas últimas duas semanas os preços de alimentos, no atacado e depois no varejo, passaram a exibir uma tendência de alta. O ministro da Fazenda, Ciro Gomes, já admite que em outubro a inflação ficará em pelo menos 2%, praticamente o dobro de setembro. E a cesta básica superou nos últimos dias a marca dos R$ 100, ameaçando retornar aos níveis de antes do Plano Real.
 São más notícias. Há pelo menos duas atitudes possíveis diante delas. Uma é partir para medidas compensatórias. Outra é deixar o tempo passar e ir, como se diz, ``empurrando com a barriga''.
 O governo parece disposto a lançar iniciativas que se contraponham às pressões inflacionárias. A redução no preço dos combustíveis é uma, a desburocratização das importações é outra. Ao mesmo tempo, o ministro Ciro Gomes declara-se seduzido pela idéia de mais à frente talvez excluir dos índices os aumentos exagerados. É a tese de que a inflação tem um ``miolo'' ou núcleo em oposição a fenômenos superficiais ou passageiros que não deveriam ser automaticamente incorporados ao índice oficial &#150;como na célebre inflação do chuchu.
@@ -39,9 +39,9 @@ A inflação de outubro é real. A política econômica está diante de um desafio con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-004</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-004</field>
+<field name="date">941006</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Procurava um filme suportável para o fim de noite, passeei pelos canais &#150;quase todos com mesas-redondas sobre as eleições. O que há de cientista político na praça é uma invasão. Pererecando de um para outro canal, ouvi uma palavra que me imobilizou: ``impeachment''. Não, não se tratava do impedimento de Collor, mas de um possível impedimento de Fernando Henrique, que ainda nem está eleito oficialmente.
 Tentei prestar atenção aos argumentos invocados, mas havia perdido o início do raciocínio. O que entendi foi o seguinte: a opinião pública perdeu a inocência. Depois do episódio Collor, ela sabe que pode pressionar Congresso, mídia e Judiciário.
@@ -52,9 +52,9 @@ Bem, eu estava cansado e talvez tenha ouvido mais do que realmente foi dito. Com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-005</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-005</field>
+<field name="date">941006</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; ``Esse sujeito não pode virar governador de São Paulo'', disse FHC de seu refúgio, numa conversa telefônica com um assessor. No caso, o ``sujeito'' tem nome: Francisco Rossi, possível candidato de Mário Covas no segundo turno, mais conhecido nacionalmente pelo hino religioso ``Segura na mão de Deus''. É a primeira dor de cabeça do futuro presidente.
 A opinião de FHC sobre Rossi é a pior possível, por sua exploração barata da religião. Mas tem dúvidas sobre até onde e como poderia ajudar o correligionário. Por isso está a ponto de rezar com a intensidade de um Rossi para que Covas ganhe o governo de São Paulo no primeiro turno. FHC gostaria de aproveitar o tempo para montar seu governo, preparar planos administrativos e encaminhar projetos no Congresso. Ao mesmo tempo, gostaria de cultivar a imagem de magistrado.
@@ -66,9 +66,9 @@ PS &#150; Por falar em tiroteio, o documento secreto que orientou a campanha de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-006</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-006</field>
+<field name="date">941006</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; Já se esperava uma altíssima porcentagem de votos em branco e nulos para as eleições legislativas (Congresso Nacional e Assembléias Legislativas). Mas estão explodindo também os votos nulos e brancos para os governos estaduais, sem contar o fato de que cerca de um terço do eleitorado simplesmente se omitiu na votação presidencial (somando abstenção e votos brancos e nulos).
 Há, é claro, fatores técnico-episódicos que ajudam a explicar o fenômeno. O cientista político José Álvaro Moisés cita um deles: o ``terrorismo'' feito pelas autoridades eleitorais às vésperas do pleito, acenando com filas que invadiriam a madrugada. Muita gente pode ter desistido de votar por isso.
@@ -81,9 +81,9 @@ Se os eleitos de agora continuarem com essa política do avestruz, é possível que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-007</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-007</field>
+<field name="date">941006</field>
+<text_pt>
 Otavio Frias Filho
 Não sei se alguém ainda se lembra de Francelino Pereira. Numa reviravolta típica da política, ele acaba de ressurgir do vácuo para cair sentado numa cadeira de senador por Minas Gerais.
 Pereira foi um dos bonecos de ventríloquo mais apagados do regime militar, e quem reclama, com razão, do tédio democrático, é porque não sabe ou não se recorda de como o tédio pode ser pior.
@@ -103,9 +103,9 @@ Otavio Frias Filho escreve às quintas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-008</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-008</field>
+<field name="date">941006</field>
+<text_pt>
 
 Este artigo saiu com a primeira frase do penúltimo parágrafo truncada. A versão correta é: "É claro que o nível de renda mínima garantida (ligeiramente acima do salário mínimo vigente, de R$ 70,00, na variante de maior valor da proposta) é triste, mas sabiamente baixo".ERRAMOS
 Uma utopia realista para o Brasil de hoje
@@ -139,9 +139,9 @@ Tradução de Álvaro de Vita.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-009</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-009</field>
+<field name="date">941006</field>
+<text_pt>
 É papel do movimento sindical conquistar a cidadania em todos os seus aspectos
 VICENTE PAULO DA SILVA
 Já se foi o tempo em que a Aids representava um problema restrito à medicina e à saúde pública. Com um portador do vírus HIV em cada 3.000 brasileiros, a Aids é um desafio para toda a sociedade. Por atingir especialmente o indivíduo em sua idade produtiva e reprodutiva, é um desafio ainda maior para trabalhadores e empresários.
@@ -162,9 +162,9 @@ VICENTE PAULO DA SILVA, 38, é presidente da Central Única dos Trabalhadores (CUT
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-010</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-010</field>
+<field name="date">941006</field>
+<text_pt>
 ``Matéria do caderno Supereleição (5/10) faz diversas afirmações improcedentes. O adiamento da reunião do Diretório Nacional do PT não foi uma tentativa de `abafar a explosão da crise'. A reunião foi adiada pelo simples fato de que as apurações estão transcorrendo lentamente e neste fim-de-semana ainda não teremos os resultados de todos os Estados. A partir desses resultados, o objetivo de nosso diretório é fazer um balanço franco, corajoso e fraternal dos nossos avanços &#150;que não serão pequenos&#150; e dos nossos erros, limites e dificuldades. É uma distorção injustificada dizer que os líderes do PT querem barrar os radicais, como afirma o título da matéria. Declarei ao repórter que pretendo viajar o país para fortalecer o partido nos Estados e ampliar nossa inserção social. Também disse que considero necessário dotar o PT de uma nova cultura política, onde inclusive a atual forma de organização das tendências possa vir a ser superada. Isso nada tem a ver com busca de culpados, como quer sugerir o repórter. Mesmo porque jamais encontrarão em mim qualquer disposição de procurar bodes expiatórios em nosso partido, onde as responsabilidades são assumidas solidária e coletivamente. Uma das lições que podemos tirar deste processo eleitoral é que o aprofundamento da democracia exige uma mudança de atitude da imprensa. Quem sabe após as eleições ela possa realizar uma auto-avaliação tão franca e corajosa como a que nós faremos.''
 Aloizio Mercadante, deputado federal e candidato a vice-presidente de Luiz Inácio Lula da Silva (São Paulo, SP)
 Nota da Redação &#150; A Folha mantém as informações publicadas.
@@ -198,9 +198,9 @@ Resposta da jornalista Junia Nogueira de Sá &#150; O leitor relaciona inverdades
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-011</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-011</field>
+<field name="date">941006</field>
+<text_pt>
 Dicionário 'Folha/Aurélio' traz centenas de neologismos e brasileirismos
 Da Reportagem Local
 O ``Novo Dicionário Básico da Língua Portuguesa Folha / Aurélio'', que começa a circular na próxima segunda-feira, tem cinco sinônimos para ``sumiço'': ``desaparecimento, extravio, descaminho; sumição e sumidura''.
@@ -213,9 +213,9 @@ O ``Folha / Aurélio'' tem mais de 70 mil verbetes, entre os quais centenas de ne
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-012</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-012</field>
+<field name="date">941006</field>
+<text_pt>
 Da Sucursal de Brasília
 O TCU (Tribunal de Contas da União) isentou a Fundação Roberto Marinho de responsabilidade nas supostas irregularidades apontadas em convênios assinados com o Ministério da Educação e o Ibama (Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis).
 As supostas irregularidades foram apontadas primeiro pela CPI (Comissão Parlamentar de Inquérito) do Orçamento.
@@ -231,9 +231,9 @@ A decisão dos ministros do TCU, acolhendo o voto do relator, foi unânime e rápid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-013</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-013</field>
+<field name="date">941006</field>
+<text_pt>
 INÁCIO MUZZI
 Do Painel, em Brasília
 Recomposto na semana passada, após ter parte dos pareceres roubados, já está na mesa do ministro da Fazenda, Ciro Gomes, o processo que vai obrigar o governo a decidir se banca ou não os prejuízos de aproximadamente US$ 1 bilhão da Construtora Mendes Júnior no Iraque.
@@ -252,9 +252,9 @@ A Procuradoria da Fazenda, a Consultoria Jurídica da Seplan e a Advocacia Geral 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-014</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-014</field>
+<field name="date">941006</field>
+<text_pt>
 Presidente suspende demissões; desconto de horas paradas será em duas vezes
 WILLIAM FRANÇA
 Enviado especial a Juiz de Fora
@@ -278,9 +278,9 @@ Foi Ciro Gomes quem deu a resposta: ``Nós temos que fazer uma corrente''. Vicent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-015</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-015</field>
+<field name="date">941006</field>
+<text_pt>
 Da Redação
 O presidente Itamar age ao sabor do acaso &#150;e contra seus ministros e o TST&#150; e Vicentinho age ao sabor de suas conveniências pessoais.
 Vicentinho acaba de comandar a greve dos metalúrgicos do ABC, que foi até o fim e driblou a lei salarial. Descobriu um ``momento delicado'' para intervir &#150;talvez porque se tratasse de uma paralisação no setor estatal, que tem forte peso na CUT&#150; e correu a aceitar um acordo que sacramenta a política oficial para salários.
@@ -289,9 +289,9 @@ O líder da CUT conclama os petroleiros a aceitarem nas negociações com o Estado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-016</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-016</field>
+<field name="date">941006</field>
+<text_pt>
 Com 36 dias de antecedência, e antes mesmo de entregues as propostas das construtoras, a Folha registrou a que seria dada como vencedora &#150;o que aconteceu ontem&#150; na concorrência para a construção de quatro prédios encomendados pelo Tribunal de Justiça do Estado do Rio, recuperação estrutural de dois já existentes e reforma de todos os utilizados pelo Judiciário fluminense. O conjunto de obras está sendo contratado por R$ 47,471 milhões, ou US$ 55,850 milhões.
 Os comprometidos com o desvirtuamento da concorrência fiscalizaram em vão os anúncios classificados dos jornais. O nome da vencedora foi publicado aqui mesmo, em nota sobre a própria concorrência, em 31 de agosto. Dizia que, ``embora o expressivo valor que (o Tribunal) se dispõe a pagar, equivalente a US$ 50 milhões, e seja muito grande o número das construtoras capazes de fazer as obras, relativamente poucas se dispuseram a concorrer. O interesse inicial foi numeroso, mas logo sobrevieram as desistências sucessivas. As acusações ao edital são muitas''.
 No último parágrafo, a nota observara que ``uma coisa é certa: se empreiteiras recusam, geralmente encontraram nebulosidades''. A coisa certa era o nome da vencedora da futura concorrência, bastando unir as iniciais de cada palavra da frase: s-e-r-g-e-n.
@@ -305,9 +305,9 @@ Repare bem: Sérgio Motta, o sócio de Fernando Henrique Cardoso, é PC Farias de c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-017</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-017</field>
+<field name="date">941006</field>
+<text_pt>
 Gustavo Pissardo diz que não sabe por que baleou os pais, a irmã e avós paternos; advogado alega insanidade
 ISNAR TELES
 Da Folha Vale
@@ -327,9 +327,9 @@ LEIA MAIS sobre o crime à pág. 9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-018</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-018</field>
+<field name="date">941006</field>
+<text_pt>
 Da Folha Vale
 Os amigos e vizinhos de Gustavo Pissardo dizem que ele era uma pessoa ``quieta''.
 Segundo o mecânico de manutenção da GM Paulo Renato, amigo da família há mais de 20 anos, Gustavo não apresentava sinais de desequilíbrio e sempre foi um ``bom rapaz''.
@@ -342,9 +342,9 @@ Sua mãe, que preferiu não dizer o nome, disse que ela estava muito abalada com o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-019</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-019</field>
+<field name="date">941006</field>
+<text_pt>
 Da Folha Vale
 O irmão de Gustavo, Adriano Pissardo, disse ontem, quando deixava a delegacia, que perdoava o irmão pelo que ele fez. Adriano, que é jogador profissional de basquete, disse que não sabia explicar os motivos que teriam levado o irmão a matar seus avós, pais e irmã.
 Folha - Você sabe os motivos que levaram o Gustavo a matar seus pais?
@@ -354,9 +354,9 @@ Adriano - Eu quero ajudá-lo a se recuperar. Não tenho porque odiá-lo. Eu o perdô
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-020</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-020</field>
+<field name="date">941006</field>
+<text_pt>
  Sindicatos de empresas de transporte de carga do Rio e de São Paulo estão denunciando que cargas roubadas nos dois Estados estão sendo revendidas no mercado legal. Os transportadores assinaram ontem com a Fenaseg (Federação Nacional de Seguradoras), no Rio, um acordo para prevenir e combater os roubos.
 
 ASSALTOS
@@ -367,9 +367,9 @@ CAMELÔS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-021</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-021</field>
+<field name="date">941006</field>
+<text_pt>
 Das agências internacionais
 Pesquisadores anunciaram ter encontrado pela primeira vez uma evidência de que a suscetibilidade a infecções tem vínculos genéticos (hereditários). A pesquisa está descrita em um artigo na revista científica }Nature de hoje.
 Os médicos estudaram cerca de mil crianças em Gâmbia, África, um terço das quais tinha malária cerebral.
@@ -382,9 +382,9 @@ Um dos pesquisadores envolvidos, Dominic Kwiatkowski, declara que não será surpr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-022</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-022</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Representantes da sociedade civil &#150;entre eles médicos e empresários&#150; lançam hoje às 19h, no Hotel Brasilton, em São Paulo, o Instituto para o Desenvolvimento da Saúde. 
 ``O objetivo dessa ONG (organização não-governamental) é desenvolver estudos e projetos para diferentes níveis de governo'', disse Raul Cutait, ex-secretário municipal da Saúde de São Paulo e um dos organizadores do instituto.
@@ -394,9 +394,9 @@ No dia 14, o instituto promove com o Banco Mundial um seminário para discutir o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-023</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-023</field>
+<field name="date">941006</field>
+<text_pt>
 Da Redação
 O delegado do Tesouro Nacional no Estado de São Paulo, José Mauro Gomes, preso na terça-feira à noite pela Polícia Federal por não cumprir determinação judicial, foi libertado ontem às 19h10.
 O advogado Eduardo Piza Gomes de Mello entrou com pedido de arbitramento de fiança na 4ª Vara Criminal Federal. A fiança foi fixada em R$ 125,00, pagos pelo advogado. Gomes estava preso na PF em São Paulo por não ter cumprido uma decisão judicial.
@@ -407,9 +407,9 @@ Ontem pela manhã o delegado recebeu a visita do senador Eduardo Suplicy (PT/SP).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-024</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-024</field>
+<field name="date">941006</field>
+<text_pt>
 Presidente pede estudos para baratear também telefone, energia elétrica e correios
 WILLIAM FRANÇA
 Enviado especial a Juiz de Fora
@@ -431,16 +431,16 @@ Colaborou a Reportagem Local
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-025</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-025</field>
+<field name="date">941006</field>
+<text_pt>
  Números da Associação das Administradoras de Bens de Imóveis e Condomínios de São Paulo mostram que os aluguéis de apartamentos subiram 7% e das casas, 12% em setembro. Segundo a Aabic, os imóveis que puxaram esta alta foram as quitinetes, apartamentos de um quarto e casas de dois dormitórios. Para a associação, este aumento ocorreu pela falta de oferta.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-026</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-026</field>
+<field name="date">941006</field>
+<text_pt>
 CLAUDIO DE MOURA CASTRO
 Não há como evitar a conclusão de que o nosso peão é menos produtivo que o norte-americano
 Cena um (zona rural, próxima a Chatanooga) &#150; As razões de minha presença naquela ravina no sul do Estados Unidos eram as menos científicas possíveis, pois participava de um festival de asa-delta. Diante do pé-de-vento matinal, só restava ficar bestando no campo de pouso.
@@ -467,27 +467,27 @@ CLAUDIO DE MOURA CASTRO, 55, é doutor em economia pela Universidade de Vanderbil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-027</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-027</field>
+<field name="date">941006</field>
+<text_pt>
 Número de lançamentos cresce 189,4%
 Foram lançados em agosto na cidade de São Paulo 55 edifícios. O resultado é 189,4% superior ao registrado em julho, quando foram feitos 19 lançamentos. Comparado com o mesmo mês de 93, o aumento é de 96,43%. Os dados são da Embraesp (Empresa Brasileira de Estudos de Patrimônio).
 O total de apartamentos lançados no mês foi de 3.464. Em relação ao mês anterior, quando foram entregues 1.388 unidades, o aumento é de 149,6%. Comparado com o mesmo mês do ano passado (3.371 lançamentos), a quantidade de apartamentos residenciais lançados tem acréscimo de 2,76%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-028</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-028</field>
+<field name="date">941006</field>
+<text_pt>
 Nível de emprego cai 4,7% em setembro
 No mês de setembro, foram dispensados 5.686 trabalhadores em obras públicas no Estado de São Paulo. Com isso, o índice de emprego do setor caiu 4,7% em comparação ao mês anterior. Os dados foram divulgados pela Apeop (Associação Paulista de Empresários de Obras Públicas).
 No acumulado de janeiro a setembro, o índice de emprego no setor de obras públicas teve queda de 1,95%, com saldo de 2.288 demissões. O nível de empregos diretos do setor, em setembro, é da ordem de 115,3 mil empregos diretos, contra 121 mil em agosto e 117 mil em setembro de 93.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-029</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-029</field>
+<field name="date">941006</field>
+<text_pt>
 Volume de vendas externas aumenta 31,2% em agosto
 As exportações brasileiras de café em agosto (1,68 milhão de sacas de 60 kg) subiram 31,2% contra os 1,28 milhão de sacas exportadas em julho. O total exportado em 12 meses chega a 17,96 milhões de sacas (11,4% a mais que os 16,12 milhões de sacas exportadas no período anterior).
 Os dados são da Febec (Federação Brasileira dos Exportadores de Café). Os dados mostram avanço de 84% na receita gerada com exportação do produto no período de setembro/93 a agosto/94 (US$ 1,75 bilhão), em relação aos US$ 950,15 milhões do período anterior (setembro/92 a agosto/93).
@@ -496,9 +496,9 @@ Das 12,77 milhões de sacas de café tipo arábica exportadas entre set/93 e ago/94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-030</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-030</field>
+<field name="date">941006</field>
+<text_pt>
 Para não se transmutar rapidamente em "ceariliense" &#150;filho de ferrabrás cearense com amanuense brasiliano&#150; o ministro da Fazenda, Ciro Gomes, deveria cuidar de falar menos e agir mais. "Canalhices", "um cadáver por dia", "prendo e arrebento"  já fazem parte da antologia nacional do papo-furado.
 Há uma especulação pesada com feijão. Existem na praça 700 mil toneladas de estoques, mais que suficiente para garantir o consumo nacional (de 250 mil toneladas mensais) enquanto não vem a nova safra. Portanto, o que ocorre é caso de polícia, não de mercado. Uma chave de braço e esses especuladores abrem o bico e serão obrigados a desovar o feijão em dois tempos.
 O segundo ponto essencial é a questão do ágio nos carros populares.
@@ -511,9 +511,9 @@ Aumentando novamente os tributos, trocar-se-ia esse dinheiro da contravenção por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-031</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-031</field>
+<field name="date">941006</field>
+<text_pt>
 Dólar comercial cai para R$ 0,847; BC mantém a projeção de taxa do over em 3,59% para outubro
 Da Redação
 Os índices das Bolsas de Valores registraram baixas expressivas ontem.
@@ -555,30 +555,30 @@ O índice Bovespa no mercado futuro para outubro fechou a 53.000 pontos e de 57.5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-032</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-032</field>
+<field name="date">941006</field>
+<text_pt>
 O diretor-geral da Organização Mundial da Saúde, Hiroshi Nakajima, deve chegar amanhã à Índia para avaliar pessoalmente a extensão da peste pneumônica no país. O Ministério da Saúde da Índia disse ontem que a epidemia da doença não está se expandindo e deve ser controlada até meados da próxima semana. A peste pneumônica já matou 52 pessoas no país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-033</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-033</field>
+<field name="date">941006</field>
+<text_pt>
 A defesa do ex-jogador de futebol americano O. J. Simpson sofreu ontem derrota quando o juiz Lance Ito indeferiu pedido para suprimir evidências obtidas pela polícia na casa dele. Simpson é acusado do homicídio da ex-mulher e um amigo dela. Sua ex-cunhada, Denise Brown, disse: ``Se O. J. é tão inocente, porque eles querem suprimir todas as evidências?''.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-034</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-034</field>
+<field name="date">941006</field>
+<text_pt>
 Gennadi Ziuganov, líder do Partido Comunista Russo, disse ontem que sua agremiação não participará do governo de Boris Ieltsin. O presidente da Rússia havia dito ontem que aceitaria a participação de comunistas. ``Os comunistas vêem a atual política do presidente e o atual governo como desastrosos para o país e nunca irá apoiá-los'', disse Ziuganov.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-035</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-035</field>
+<field name="date">941006</field>
+<text_pt>
 
 Nota publicada nesta edição identifica erroneamente como o autor de um livro sobre o papa João 23 como sendo seu neto. Marco Roncalli é sobrinho-neto de João 23.ERRAMOS
 Kim Jong-il é o novo líder norte-coreano 
@@ -609,9 +609,9 @@ Um avião da Aeroflot, companhia russa, aterrissou ontem em Belgrado, capital da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-036</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-036</field>
+<field name="date">941006</field>
+<text_pt>
 A Rússia e o comitê de bancos credores privados chegaram a um acordo preliminar ontem para reescalonar a dívida de US$ 24 bilhões, segundo o primeiro-ministro Aleksandr Shokhin.
 O acordo inclui pagamentos em atraso este ano e ainda US$ 500 milhões referentes a juros não pagos em 92 e 93. A dívida externa total da Rússia é de cerca de US$ 90 bilhões.
 O comunicado oficial foi assinado pelo primeiro-ministro russo e o banqueiro alemão encarregado da negociação pelas instituições financeiras privadas, Christian Vontz, e anunciado durante a reunião do FMI e Banco Mundial, que se realiza em Madri.
@@ -620,9 +620,9 @@ O entendimento preliminar ``abre o caminho para um acordo de reestruturação que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-037</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-037</field>
+<field name="date">941006</field>
+<text_pt>
 Especial para a Folha
 A Ordem do Templo do Sol afirma ser descendente direta da Ordem dos Templários da Idade Média, mas cerca de dez grupos reivindicam atualmente a mesma descendência.
 Um desses grupos, fundado em 1952, é a Ordem Renovada do Templo, da qual Luc Jouret tornou-se grão-mestre alguns anos depois, antes de ser excluído.
@@ -642,9 +642,9 @@ A TV suíça entrevistou os irmãos de Alberto Giacobino, proprietário da fazenda d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-038</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-038</field>
+<field name="date">941006</field>
+<text_pt>
 Especial para a Folha, de Berna
 O suposto líder da seita Ordem do Templo Solar, Luc Jouret, 47, nasceu na África, é de origem suíça e tem um passaporte canadense. Formou-se em medicina na Universidade Livre de Bruxelas, especializou-se em homeopatia e trabalhou na Bélgica e na França.
 Desde o início dos anos 80 fundou várias associações e clubes de esoterismo na Suíça, França e Canadá. Esses clubes (denominados Amanta e Arcádia) serviam de iniciação à Ordem Cavalheiresca Internacional Tradição Solar ou Ordem do Templo do Sol. 
@@ -653,9 +653,9 @@ O médico dava conferências e entrevistas geralmente muito frequentadas. Ex-adept
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-039</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-039</field>
+<field name="date">941006</field>
+<text_pt>
 19 de novembro de 1978 
  Guiana - Liderados pelo norte-americano Jim Jones, 912 membros da seita Templo do Povo se matam ao ingerir uma bebida com cianureto. Dias antes, membros da seita haviam matado cinco pessoas, inclusive um deputado americano que investigava o grupo.
 29 de agosto de 1987 
@@ -669,9 +669,9 @@ Vietnã - Liderados pelo cego Ca Van Liem, os 53 habitantes da localidade de Ta H
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-040</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-040</field>
+<field name="date">941006</field>
+<text_pt>
 O prefeito de São Paulo, Paulo Maluf (foto), regulamenta hoje a lei que obriga bares e boates da cidade a terem proteção acústica. A lei é de autoria do vereador Roberto Trípoli (PV) e foi aprovada pela Câmara Municipal no dia 12 de abril. Bares e casas noturnas sem proteção acústica poderão ser fechados.
 
 O NÚMERO
@@ -688,9 +688,9 @@ A dependência química no ambiente de trabalho será o tema da discussão entre esp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-041</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-041</field>
+<field name="date">941006</field>
+<text_pt>
 
 Saíram trocadas as legendas das fotos do Colégio Palmares e da mãe de um aluno.ERRAMOS
 Escola adota 'semana do saco cheio'
@@ -714,9 +714,9 @@ As exceções estão principalmente entre os alunos que estão se preparando para o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-042</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-042</field>
+<field name="date">941006</field>
+<text_pt>
 A Câmara de Vereadores de Sorocaba já está estudando a proposta de orçamento do município para 1995. O proposta de orçamento, estimado em R$ 162 milhões, foi enviada à Câmara na semana passada pelo prefeito Paulo Mendes (PMDB).
 
 SP Interior 2
@@ -736,9 +736,9 @@ Shoppings centers de Ribeirão Preto e região começam suas promoções para o Dia d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-043</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-043</field>
+<field name="date">941006</field>
+<text_pt>
 A Prefeitura de Goiânia promove amanhã o 4º Concurso Nacional de Bandas e Fanfarras, em comemoração ao 61º aniversário da cidade. As apresentações estão marcadas para as 9h na praça Cívica. Os três primeiros colocados receberão prêmios em dinheiro.
 
 Goiás 2
@@ -752,9 +752,9 @@ O prefeito de Campo Grande, Juvêncio César da Fonseca (PMDB), afirmou que o gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-044</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-044</field>
+<field name="date">941006</field>
+<text_pt>
 BERNARDO FROES
 No início da semana passada, a notícia da morte de Helenita, esposa do ex-jogador Dario Pereyra, por complicações após uma cirurgia do tipo lipoaspiração espantou e provocou muitas discussões a respeito deste procedimento.
 Anualmente, no Brasil, algumas dezenas de milhares de cirurgias plásticas são efetuadas, proporcionando aos pacientes bem-estar físico e psicológico que, no mundo desenvolvido e moderno, não podem ser considerados supérfluos. Afinal, a adequação da pessoa com sua auto-imagem e sua integração social têm um peso considerável na busca, a que todos têm direito, da própria felicidade.
@@ -772,9 +772,9 @@ Bernardo Froes, 32, cirurgião plástico, é professor do Departamento de Técnica C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-045</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-045</field>
+<field name="date">941006</field>
+<text_pt>
 A Sudene, com sede em Recife, está informando os governadores da região que as verbas do Orçamento da União de 1995 para obras hídricas terão um corte. O Programa de Fortalecimento da Infra-Estrutura Hídrica do Nordeste receberá R$ 15,7 milhões.
 
 Bahia 1
@@ -800,9 +800,9 @@ A Universidade Federal da Paraíba está se propondo a arborizar São José de Espin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-046</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-046</field>
+<field name="date">941006</field>
+<text_pt>
 A Polícia Militar do Amazonas recapturou na madrugada de ontem mais três presos que fugiram anteontem da Penitenciária do Estado. Dos 26 detentos que tentaram a fuga, 16 foram recapturados e um foi morto a tiros pela PM. Os presos denunciam superlotação.
 
 Roraima 1
@@ -816,9 +816,9 @@ O líder indígena Davi Ianomami enviou carta à Funai acusando um missionário da s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-047</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-047</field>
+<field name="date">941006</field>
+<text_pt>
 ADELSON BARBOSA
 Da Agência Folha, em João Pessoa
 O ministro da Saúde, Henrique Santillo, disse ao secretário de Saúde da Paraíba, Edmilson Motta, que o Brasil recebe até o final do mês o Certificado Internacional de Erradicação da Poliomielite (paralisia infantil), a ser entregue pela Organização Panamericana de Saúde.
@@ -827,9 +827,9 @@ O último caso de pólio no Brasil foi registrado há cinco anos no município de So
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-048</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-048</field>
+<field name="date">941006</field>
+<text_pt>
 O eclipse total do Sol em 3 de novembro &#150;o último deste século&#150; poderá ser visto na região de Foz do Iguaçu e em todo o Paraná. Em Foz, o Sol deve ficar totalmente oculto. No restante do Estado, deve ficar 90% encoberto. Cientistas de vários países irão à cidade para observar o fenômeno.
 
 Paraná 2
@@ -855,9 +855,9 @@ O 2º Curso Internacional de Cirurgia Plástica acontece amanhã e depois em Porto 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-049</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-049</field>
+<field name="date">941006</field>
+<text_pt>
 Da Agência Folha, em Manaus
 A transferência do bicheiro carioca Ailton Guimarães Jorge, o ``capitão Guimarães'', na quarta-feira da semana passada, do Rio para Manaus (AM), levantou a suspeita do secretário de Segurança Pública do Amazonas, Mauro Marques, de um possível plano de fuga do contraventor.
 A remoção foi determinada pelo juiz da 2ª Vara Criminal de Manaus, Affimar Cabo Verde. O bicheiro foi escoltado pelo delegado da Delegacia de Vigilância e Capturas de Manaus, Mariolino Brito dos Santos. O secretário Mauro Marques foi informado da transferência do bicheiro anteontem.
@@ -870,9 +870,9 @@ Marques admite que esse fato reforça a hipótese da tentativa de fuga. O delegado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-050</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-050</field>
+<field name="date">941006</field>
+<text_pt>
 Da Sucursal do Rio
 O ator Paulo César Pereio afirmou que foi bem tratado em sua temporada de uma semana na prisão. Preso no dia 28 e liberado anteontem por não ter pago a pensão alimentícia de dois filhos, ele disse não ter mágoa da ex-mulher, a atriz Cissa Guimarães.
 Isolado dos demais 106 presos que lotam as celas da 19ª Delegacia Policial, na Tijuca (zona norte do Rio), Pereio disse que não foi difícil ficar na cadeia. Ele contou que procurou passar o tempo lendo. A seguir trechos de sua entrevista:
@@ -890,9 +890,9 @@ Pereio - Não posso estar magoado com a Cissa. Eu fui o culpado, não me defendi. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-051</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-051</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 A Vila Formosa comemora 71 anos com programação de eventos entre os dias 8 e 16 de outubro. As comemorações começam no sábado, às 9h30, com celebração de missa na Igreja Nossa Senhora do Sagrado Coração. Entre as 9h e as 21h, no sábado, haverá uma feira de artesanato e comidas típicas na praça Dr. Sampaio Vidal.
 A feira de artesanato continuará montada até o encerramento das comemorações, no dia 16. No domingo, dia 9, a festa continua com solenidades e desfiles a partir das 9h. Às 19h, nova missa será celebrada na Igreja Presbiteriana, na rua Arapoca.
@@ -904,9 +904,9 @@ Festividades dos 71 anos de Vila Formosa &#150; entre os dias 8 e 16 de outubro 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-052</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-052</field>
+<field name="date">941006</field>
+<text_pt>
 Vidal Varella Filho conta que se inscreveu no programa de milhagem Varig-Rio Sul e reclama do atendimento que recebeu da Varig.
 ``Fiz a inscrição no Smiles da Varig em julho deste ano e até hoje não recebi nenhuma informação sobre minha inscrição. Ao telefonar para a Varig fui informado de que o prazo para o registro de dados e entrega do cartão era de 21 dias. O prazo está vencido, mas o funcionário disse que a empresa está enfrentando problemas devido ao grande número de inscrições'', conta o reclamante.
 Resposta
@@ -915,9 +915,9 @@ Guedes Filho diz ainda que a Varig vem desenvolvendo e mantendo um programa perm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-053</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-053</field>
+<field name="date">941006</field>
+<text_pt>
 A beneficiária Hilda Szegeri diz ter requerido sua aposentadoria em dezembro de 91 e quer saber do INSS o que aconteceu. ``Até agora não obtive nenhuma informação.''
 Resposta
 A Superintendência Estadual do INSS informa que, segundo seus dados cadastrais, o número de benefício fornecido, 55.598.375-7, pertence a outro segurado.
@@ -927,9 +927,9 @@ Cartas para ``A Cidade é Sua/Via São Paulo'' devem ser enviadas para a Editoria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-054</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-054</field>
+<field name="date">941006</field>
+<text_pt>
 Vistoria só foi feita após incêndio que destruiu totalmente o cine Iguatemi; shopping voltou a funcionar ontem
 Da Reportagem Local
 O Contru (Departamento de Controle e Uso de Imóveis), ligado à Prefeitura de São Paulo, interditou ontem pela manhã três lojas do Shopping Center Iguatemi que não possuiam sistema de alarme contra incêndios e chuveiros automáticos de combate ao fogo.
@@ -943,9 +943,9 @@ O shopping foi reaberto ontem às 11h40. O laudo com as causas do incêndio ocorri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-055</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-055</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 O Contru (Departamento de Controle e Uso de Imóveis) entrou ontem com representação contra o Crea (Conselho Regional de Engenharia e Arquitetura) para punir a engenheira Laura Artássio.
 A engenheira Laura Artássio foi procurada ontem à tarde pela reportagem. Ninguém atendia ao telefone em sua casa.
@@ -959,9 +959,9 @@ A gerência geral do Shopping Center Iguatemi também não quis informar qual o fat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-056</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-056</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 A Associação Viva o Centro quer a criação de shopping centers populares ou ``pop shoppings'' como forma de resolver os problemas causados pelo crescimento do número de vendedores ambulantes em áreas públicas de São Paulo.
 A proposta faz parte do documento intitulado ``Camelôs'', divulgado na semana passada, em que a associação pretende chamar a atenção e propor soluções para o problema dos vendedores ambulantes na cidade.
@@ -976,9 +976,9 @@ O vereador Bruno Feder (PPR), autor do projeto, disse estar indignado com as crí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-057</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-057</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Moradores do bairro do Pacaembu se encontraram anteontem com o secretário municipal de Planejamento, Paulo Roberto Richter, para discutir a possível privatização do estádio do Pacaembu.
 No encontro, que teve a participação da Associação de Moradores e Amigos dos Bairros do Pacaembu e Perdizes e do Movimento Justiça para Todos, Richter expôs as idéias da prefeitura para a venda.
@@ -991,9 +991,9 @@ Novo encontro entre moradores e prefeitura deve ser marcado para discutir o assu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-058</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-058</field>
+<field name="date">941006</field>
+<text_pt>
 Evento inclui exibição de 30 clássicos e exposição interativa de máquinas antigas do cinema
 ANA BEATRIZ BRISOLA
 Da Redação
@@ -1017,9 +1017,9 @@ Os prédios desta nova sede da cinemateca, que se transferiu para lá no final de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-059</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-059</field>
+<field name="date">941006</field>
+<text_pt>
 Da Redação
 Tânia Savietto, diretora da Cinemateca Brasileira, diz quais são os planos para o futuro do local: "Pretendemos criar aqui um centro cultural de artes visuais".
 Para alcançar esse objetivo, "o mais importante é conseguir patrocínio para restaurar. O que virá dentro é mais simples."
@@ -1031,9 +1031,9 @@ Segundo a diretora, são 150 mil latas de filme, aproximadamente 50 mil títulos, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-060</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-060</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Os leitores do Classiline estão respondendo a anúncios publicados em edições anteriores com novas inserções na própria seção.
 Hoje, na subseção "Homem procura mulher", um homem de "42 anos, grisalho, olhos azuis, universitário, casado", quer receber um telefonema da "ruiva da CP 1450 (Classiline) de 15/09".
@@ -1044,9 +1044,9 @@ O Classiline, um serviço inédito no país, garante sigilo total a quem anuncia e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-061</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-061</field>
+<field name="date">941006</field>
+<text_pt>
 SOBE
  EUA - A entrada de Fortune e Ctvrtlik deu um equilíbrio maior à equipe, principalmente no passe. O ataque permanece irregular. É o único time invicto no Mundial.
 DESCE
@@ -1066,9 +1066,9 @@ CUBA - Após a Liga Mundial, o time melhorou ainda mais na recepção, dividida ent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-062</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-062</field>
+<field name="date">941006</field>
+<text_pt>
 
 Todos os brasileiros que disputam o WCT confirmaram presença. Além do surfe, a organização armou shows com as bandas Chico Science &amp; Nação Zumbi e Mascavo Roots.
 
@@ -1080,9 +1080,9 @@ O havaiano Rusty Keaulana, 28, filho de uma lenda viva do surfe, Buffalo Keaulan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-063</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-063</field>
+<field name="date">941006</field>
+<text_pt>
 Suposto ex-presidente são-paulino pede US$ 150 mil pela venda de jogador
 Da Reportagem Local
 Tornou-se pública ontem a gravação de uma suposta conversa entre o empresário Francisco Monteiro, o Todé, e o ex-presidente do São Paulo José Eduardo Mesquita Pimenta. Nessa conversa, Pimenta teria negociado para si uma comissão sobre a venda do passe do atacante Mário Tilico.
@@ -1097,9 +1097,9 @@ O caso de Pimenta será julgado pelo Conselho Deliberativo do clube. O ex-dirigen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-064</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-064</field>
+<field name="date">941006</field>
+<text_pt>
 Festival de cinema e vídeo, que começa semana que vem no MIS, traz produções independentes de 14 países
 Da Redação
 Começa na próxima terça-feira no Museu da Imagem e do Som (MIS - av. Europa, 158, Jardins, zona oeste de São Paulo) a segunda edição do Mix Brasil - Festival de Manifestações das Sexualidades. Trata-se de uma mostra de filmes e vídeos, mais exposições de fotografia e artes plásticas abordando temas homossexuais.
@@ -1115,9 +1115,9 @@ Segundo a organização do evento, o público do ano passado foi estimado em cerca 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-065</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-065</field>
+<field name="date">941006</field>
+<text_pt>
 GUTO BARRA
 Da Redação
 Radicada em Nova York há 13 anos, a cineasta e videomaker Tania Cypriano, 31, chega ao Brasil na próxima semana como convidada do Mix Brasil. Desde que ganhou o prêmio de melhor curta-metragem em Gramado com seu filme ``Viva Eu'', Tania vem se especializando em festivais sobre Aids.
@@ -1140,9 +1140,9 @@ Tania - Acho importante que o filme seja voltado para uma audiência internaciona
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-066</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-066</field>
+<field name="date">941006</field>
+<text_pt>
 EDUARDO SIMANTOB
 Da Redação
 Há oito anos longe do Brasil, o fotógrafo Marcelo Krasilcic, 25, é um dos destaques do 2º Mix Brasil, onde expõe uma série de fotos enfocando cenas cotidianas da comunidade gay de Nova York, onde vive.
@@ -1168,9 +1168,9 @@ Krasilcic - Eu acho que trazer qualquer assunto controverso à tona já acostuma o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-067</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-067</field>
+<field name="date">941006</field>
+<text_pt>
 
 A estilista alemã Jil Sander foi incorretamente qualificada como "o estilista alemão" nesta coluna.ERRAMOS
 MONDO DA MODA
@@ -1178,30 +1178,30 @@ O estilista alemão Jil Sander foi ovacionado anteontem em Milão durante a aprese
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-068</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-068</field>
+<field name="date">941006</field>
+<text_pt>
 A revista inglesa ``Empire'' e a norte-americana ``Film Threat'' colocaram a boca no trombone. Muitas das geniais sequências de ``Cães de Aluguel'' foram copiadas &#150;e muito&#150; de um desconhecido filme de Hong Kong, ``City on Fire'', do diretor Ringo Lam.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-069</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-069</field>
+<field name="date">941006</field>
+<text_pt>
 ``O diretor Quentin Tarantino deveria pelo menos ter mencionado isso nas entrevistas que concedeu'', disse a imprensa italiana. Ainda aproveitou a deixa para dizer que todo o novo cinema norte-americano bebe no violento mundo do cinema ``noir'' oriental.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-070</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-070</field>
+<field name="date">941006</field>
+<text_pt>
 Termina no dia 1º de novembro o prazo de inscrições para o Oscar de melhor filme estrangeiro. Os interessados deverão ter estreado em seu país de origem entre 1º de novembro de 1993 e 31 de outubro de 1994. Os cinco classificados serão divulgados em 14 de fevereiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-071</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-071</field>
+<field name="date">941006</field>
+<text_pt>
 O compositor, que está finalizando um novo livro, tem seu romance ``Estorvo'' lançado por uma editora alemã
 JOSÉ GERALDO COUTO
 Enviado especial a Frankfurt
@@ -1223,9 +1223,9 @@ Chico - Acho que, dos presidentes da história do Brasil, ele é o que tem a melho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-072</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-072</field>
+<field name="date">941006</field>
+<text_pt>
 Do enviado especial a Frankfurt
 Para Paulo Coelho, num futuro próximo todas as pessoas terão poder interior suficiente não apenas para fazer ventar como também para mudar o mundo. Pelo menos foi o que ele disse na entrevista coletiva que concedeu ontem de manhã, na Feira de Frankfurt.
 O mago e escritor está na feira principalmente para divulgar seu novo livro, ``À Margem do Rio Piedra Eu Sentei e Chorei'', que está sendo negociado com vários países, incluindo Japão (onde ``O Alquimista'' sai em novembro) e China.
@@ -1238,9 +1238,9 @@ Novos projetos, por enquanto, nem pensar. ``Até março do ano que vem, quando faç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-073</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-073</field>
+<field name="date">941006</field>
+<text_pt>
 Da Redação
 Mostra: Mobiliário Baraúna
 Onde: Museu da Casa Brasileira (av. Brigadeiro Faria Lima, 774, tel. 011/210-2564, zona oeste de São Paulo)
@@ -1254,9 +1254,9 @@ A Marcenaria Baraúna produz ainda a cadeira Frei Egídio e o conjunto de mesa e b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-074</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-074</field>
+<field name="date">941006</field>
+<text_pt>
 Marcada pelos problemas de produção, a versão de 1926 do épico, dirigida por Fred Niblo, é teatral e arrastada
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
@@ -1279,9 +1279,9 @@ Lançamento: Continental (tel. 011/284-9479)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-075</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-075</field>
+<field name="date">941006</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 Há na Itália pelo menos desde o neo-realismo uma invejável tradição de cinema urgente, empenhado em registrar e tentar compreender os acontecimentos sociais e políticos correntes.
@@ -1300,9 +1300,9 @@ Lançamento: Cannes Home Vídeo (tel. 011/579-6522)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-076</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-076</field>
+<field name="date">941006</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 O cineasta Ruy Guerra me contou que, certa noite, conversava com amigos em uma casa no interior de Moçambique. O país estava uma guerra &#150;faltava tudo, desde gasolina até iluminação. Para passar o tempo, começaram a falar sobre o que gostariam de comer. Cada um foi dizendo seu prato preferido, até que chegou a vez de Ruy. ``Eu gostaria de comer uma maçã'', disse, sabendo que era impossível encontrar frutas.
@@ -1311,9 +1311,9 @@ Coincidência? Bem, isso seria uma palavra muito pobre para explicar essa históri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-077</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-077</field>
+<field name="date">941006</field>
+<text_pt>
 Jornais americanos se dividem entre 'costeleta de porco' (sérios), `feijão' (locais) e `rabo de porco' (sensacionalistas)
 DAVID DREW ZINGG
 Em Miami
@@ -1350,9 +1350,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-078</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-078</field>
+<field name="date">941006</field>
+<text_pt>
 A cantora americana inicia sua megaturnê este mês
 EVA JOORY
 Da Reportagem Local
@@ -1373,9 +1373,9 @@ Contando momentos íntimos de sua vida, os livros misturam ficção e realidade, co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-079</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-079</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Quem tem filho sabe: viajar com crianças não é uma tarefa fácil. Mas isso não é motivo para deixá-las em casa. Pequenos detalhes, como escolher um roteiro adequado, ajudam a evitar grandes transtornos. No mês da criança, Turismo traz um roteiro pelos principais parques de diversões do Brasil, Europa, Japão e EUA. Mostra ainda as promoções dos hotéis especializados em dar férias aos filhos &#150;e principalmente para os pais.
 LEIA MAIS
@@ -1383,9 +1383,9 @@ Sobre viajar com crianças nas págs. 6-2 a 6-17.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-080</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-080</field>
+<field name="date">941006</field>
+<text_pt>
  
 Na hora de arrumar as malas, não esqueça dos brinquedos, `nécessaire' e remédios; muita roupa nunca é excesso
 SIMONE GALIB
@@ -1399,9 +1399,9 @@ MOCHILAS E ACESSÓRIOS - Artbox, shoppings Eldorado, Ibirapuera e Plaza Sul; Sput
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-081</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-081</field>
+<field name="date">941006</field>
+<text_pt>
  
 PATRÍCIA TRUDES DA VEIGA
 Da Reportagem Local
@@ -1413,9 +1413,9 @@ A alimentação também merece atenção. Para um bom sono, modere açúcar, gordura e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-082</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-082</field>
+<field name="date">941006</field>
+<text_pt>
 Há cadeiras para bebês, trocadores e área para carrinhos
 Da Reportagem Local
 O trem é um dos veículos mais divertidos para o viajante infantil &#150;nunca falta espaço nem janelas panorâmicas. Ainda mais na Finlândia onde, em algumas linhas, como de Helsinque a Tampere, há um vagão especialmente projetado para o transporte de famílias.
@@ -1429,9 +1429,9 @@ O preço é o mesmo do de um bilhete de segunda classe.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-083</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-083</field>
+<field name="date">941006</field>
+<text_pt>
 Beach Park, Playcenter e Beto Carrero, os maiores parques brasileiros, trazem mais novidades em outubro
 Da Reportagem Local
 Outubro é um mês de novidades nos principais parques de diversão espalhados de norte a sul do país.
@@ -1443,9 +1443,9 @@ PLAYCENTER PERNAMBUCO - Centro de Convenções Olinda (PE), tel. (081) 427-1111.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-084</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-084</field>
+<field name="date">941006</field>
+<text_pt>
  
 Roteiro inclui de abelhas a dinossauros, passando por um parque lúdico com instrumentos musicais gigantes
 Da Reportagem Local
@@ -1468,9 +1468,9 @@ Zoológico &#150; A mais nova atração é a serpente descendente da piton asiática 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-085</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-085</field>
+<field name="date">941006</field>
+<text_pt>
 O Hotel Fazenda Arvoredo, em Barra do Piraí (RJ), oferece atividades especiais para a Semana da Criança. Para o dia 12 está programada uma caça ao tesouro na minifloresta do hotel, além de colheita de mel e festival de refrigerantes. O pacote de 14 a 16 de outubro custa R$ 180 para o casal e inclui pensão completa. Crianças de três a cinco anos pagam R$ 36, de seis a 10 anos, R$ 54. Reservas pelo telefone: (021) 240-7539.
 
 Campeonato de peteca no dia 12 no Vila Forte 
@@ -1484,9 +1484,9 @@ O hotel-fazenda Sonho Dourado, em Cachoeira Paulista (SP), não vai cobrar diária
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-086</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-086</field>
+<field name="date">941006</field>
+<text_pt>
 De dia, tem pesca de siri, safári, labirinto d'água, castelo de areia; de noite, palhaços, mágicos e até sinuquinha
 Free-lance para a Folha
 Pescaria de siri, oficina de circo, palhaços, shows de fantoches, piquenique, gincanas, passeios e até um restaurante infantil. Com essas atrações, os hotéis de lazer procuram cativar as crianças e dar aos pais férias mais sossegadas.
@@ -1504,9 +1504,9 @@ RESERVAS - HOTEL AMOARAS: (081) 436-1331; CLUB MED: (011) 816-7311; INTERMARES: 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-087</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-087</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Pensar em levar crianças ao Pantanal Mato-Grossense pode assustar os pais à primeira vista. Mas a região, uma das mais ricas em fauna e flora do país, amplia sua estrutura para o turismo, oferecendo hospedagem segura e confortável.
 Um bom exemplo é o Refúgio Ecológico Caiman, a 36 km de Miranda, sul do Pantanal, recomendado para crianças acima de três anos. Nessa imensa fazenda de gado vivem 250 espécies de aves, 90 de mamíferos, 50 de répteis e 260 de peixes. Há passeios a cavalo e safáris fotográficos.
@@ -1515,9 +1515,9 @@ QUANTO CUSTA: A Ambiental (tel. 011-814-6191) tem um programa de quatro dias (sa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-088</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-088</field>
+<field name="date">941006</field>
+<text_pt>
 Ratinho ganha parada exclusiva na Disney; conheça as novidades do maior parque de diversões do mundo
 EDSON FRANCO
 Da Reportagem Local
@@ -1528,9 +1528,9 @@ O que não cai na Disney é a popularidade de Mickey. Ele ganhou um desfile diário
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-089</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-089</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Devido ao seu calor de três desertos, Orlando vê seus parques aquáticos lotarem diariamente. Com poucas diferenças, eles disputam público usando criatividade nos escorregadores molhados.
 O parque Wet'n Wild se gaba de ter o mais veloz escorregador do mundo. É o ``Der Stuka'', uma queda de 50 m na vertical.
@@ -1541,9 +1541,9 @@ WET'N WILD, 6.200 International Drive. Preços: US$ 22,21 (adultos) e US$ 19,03 (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-090</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-090</field>
+<field name="date">941006</field>
+<text_pt>
 `Monsieur' Mickey é anfitrião na Eurodisney; Parque Asterix é uma brincadeira na Gália; Futuroscope é só cinema
 Da Reportagem Local
 A França é escala obrigatória para quem viaja pela Europa com crianças a bordo. Três dias são suficientes para conhecer os melhores endereços: Eurodisney, parque Asterix e Futuroscope.
@@ -1555,9 +1555,9 @@ O Futuroscope (Poitiers, 330 km de Paris; adultos 135 FF, crianças 100 FF) é uma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-091</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-091</field>
+<field name="date">941006</field>
+<text_pt>
  
 Da Rússia a Nova York, passando pelo mar do Caribe, crianças escolhem viagens insólitas e até sofisticadas
 Da Reportagem Local
@@ -1574,9 +1574,9 @@ Mas ele diz que gostaria mesmo de voltar a Nova York. Eduardo passou quase uma s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-092</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-092</field>
+<field name="date">941006</field>
+<text_pt>
 A alternativa de hospedagem mais barata são os campings, com diárias entre US$ 10 e US$ 25 por pessoa
 Free-lance para a Folha
 O cenário de montanhas ao redor do lago de Lucerna tem um pouco de tudo o que se pode chamar de típico da Suíça: vilarejos ao redor de torres de igrejas com picos cobertos de neve, ao fundo; encostas pontilhadas de casinhas com flores na janela; veleiros e cisnes ondulando a paisagem refletida na superfície da água.
@@ -1594,9 +1594,9 @@ Mas a principal vantagem é o preço das diárias, entre US$ 10 e US$ 25, cobrados 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-093</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-093</field>
+<field name="date">941006</field>
+<text_pt>
 O ITA (Instituto Tecnológico de Aeronáutica) inscreve até 18 de outubro. A inscrição poderá ser feita pessoalmente ou pelo correio.
 É preciso ter nacionalidade brasileira, ser solteiro e do sexo masculino, ter concluído ou estar concluindo o segundo grau e não ter 24 anos ou mais no dia 31 de dezembro deste ano.
 Há exames nas seguintes cidades: São Paulo, São José dos Campos, Belém (PA), Belo Horizonte (MG), Brasília, Campinas, Canoas (RS), Curitiba (PR), Fortaleza (CE), Recife (PE), Ribeirão Preto, Rio de Janeiro, Salvador (BA) e Vitória (ES).
@@ -1619,9 +1619,9 @@ O IME fica à praça General Tibúrcio, 80, Bairro da Urca (zona sul do Rio de Jane
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-094</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-094</field>
+<field name="date">941006</field>
+<text_pt>
 ``Gostaria de saber o valor da mensalidade do curso de ciências econômicas e a relação candidato/vaga na seguinte faculdade: Faap e algumas informações sobre o mercado de trabalho.''
 Rogério de Assis Rodrigues (Sorocaba, SP)
 Um economista pode trabalhar na área de comércio internacional, no planejamento de medidas econômicas, finanças públicas, recursos humanos etc. O valor da mensalidade na Faap (Fundação Armando Álvares Penteado) é R$ 159,72 e a relação candidato/vaga é 7.
@@ -1653,9 +1653,9 @@ Para os dois cursos a relação/vaga foi 2,0.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-095</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-095</field>
+<field name="date">941006</field>
+<text_pt>
 VERA LÚCIA DA C. ANTUNES
 Especial para a Folha
 Em geografia é fundamental que o vestibulando saiba relacionar os fatos que estão ocorrendo no dia-a-dia com a sua formação geográfica, tendo o cuidado de situá-los nos mapas.
@@ -1670,9 +1670,9 @@ VERA LÚCIA DA COSTA ANTUNES é coordenadora de geografia do curso e colégio Objet
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-096</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-096</field>
+<field name="date">941006</field>
+<text_pt>
 Profissão exige equipe com engenheiros, arquitetos, geólogos e geógrafos
 MARIANA SCALZO
 Da Reportagem Local
@@ -1689,9 +1689,9 @@ Está sendo criado mais um curso no país, com vestibular em 96, na Universidade F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-097</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-097</field>
+<field name="date">941006</field>
+<text_pt>
 ENGENHARIA CARTOGRÁFICA
 Áreas de atuação: levantamento de informações para a produção de mapas, execução de mapas e plantas, trabalho em banco de dados para prefeituras para ajudar no planejamento urbano.
 Salário: R$ 540,00 (piso)
@@ -1722,9 +1722,9 @@ Regulamentação: lei 4.706 de 23/6/1962. Para exercer a profissão é necessário re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-098</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-098</field>
+<field name="date">941006</field>
+<text_pt>
 Allan Ricardo Schinkai, 18, faz cursinho no Objetivo e vai prestar engenharia cartográfica na Unesp: ``Resolvi fazer o curso este ano. Queria um curso de engenharia em que pudesse trabalhar em campo. Também descobri que tenho facilidade para desenho.
 Já li sobre o curso no manual da Unesp e no `Guia dos Estudante'. Não sei direito sobre o meu futuro profissional, o guia da Unesp diz que o mercado de trabalho está em expansão.
 Quando me formar, gostaria de tentar um emprego na Marinha, para fazer mapas de navegação, ou abrir uma empresa de cartografia.
@@ -1732,9 +1732,9 @@ Estou um pouco apreensivo com o vestibular, é muita pressão. O medo de não passa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-099</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-099</field>
+<field name="date">941006</field>
+<text_pt>
 CLÓVIS ROSSI
 Da Reportagem Local
 O virtual presidente eleito, Fernando Henrique Cardoso, vai propor substituir a indexação salarial pela introdução do contrato coletivo de trabalho como uma das primeiras medidas de sua gestão.
@@ -1760,9 +1760,9 @@ Mas ficará incumbido também de elaborar propostas para a legislação infra-consti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-100</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-100</field>
+<field name="date">941006</field>
+<text_pt>
 LUIZ CAVERSAN
 Diretor da Sucursal do Rio
 O sociólogo Herbert de Souza, o Betinho, coordenador da Ação da Cidadania Contra a Miséria Pela Vida, disse ontem que está se preparando para ``pegar no pé presidencial''. Ele quer que o novo governo priorize o combate à miséria no país.
@@ -1776,9 +1776,9 @@ Betinho alerta que, se no México o governo gastou em um ano US$ 4 bilhões para a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-101</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-101</field>
+<field name="date">941006</field>
+<text_pt>
 Prefeito de Porto Alegre quer que partido revise suas teses
 CARLOS ALBERTO DE SOUZA
 Da Agência Folha, em Porto Alegre
@@ -1795,9 +1795,9 @@ O prefeito da capital gaúcha, que no início da campanha defendeu uma aliança do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-102</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-102</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 O PT decidiu tentar recompor as relações com Leonel Brizola, o líder do PDT, olhando para o segundo turno das eleições estaduais.
 Na prática, o PT vai pedir apoio para Olívio Dutra, o candidato petista no Rio Grande do Sul, se este for ao segundo turno contra Antônio Britto (PMDB), em troca do respaldo petista a Anthony Garotinho, o pedetista que disputará no Rio contra Marcello Alencar (PSDB).
@@ -1814,9 +1814,9 @@ Por fim, o partido decidiu não desativar a comissão que elaborou o programa de g
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-103</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-103</field>
+<field name="date">941006</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Assessores de Covas ``ainda acreditam que o tucano possa vencer as eleições no primeiro turno''. Sonham com os votos que vêm do interior, ``onde o candidato vem obtendo desempenho melhor do que o esperado''.
@@ -1834,9 +1834,9 @@ No Jornal Bandeirantes, veio a explicação. Estão dizendo a verdade. No momento a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-104</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-104</field>
+<field name="date">941006</field>
+<text_pt>
 De Londres
 Eleição favorece América do Sul
 A virtual eleição de Fernando Henrique Cardoso teve grande destaque ontem na imprensa britânica.
@@ -1848,9 +1848,9 @@ Também em editorial, o ``The Guardian'' apontou erros de Lula. ``Ele subestimou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-105</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-105</field>
+<field name="date">941006</field>
+<text_pt>
 Candidato do PDT fala em `moralização' da política e aposta que vai ao 2º turno contra Mario Covas
 CLÁUDIA TREVISAN
 Da Reportagem Local
@@ -1866,9 +1866,9 @@ O candidato disse que as pesquisas estavam ``equivocadas'' e que o Datafolha foi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-106</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-106</field>
+<field name="date">941006</field>
+<text_pt>
 LUIZ FRANCISCO
 Da Agência Folha, em Salvador
 Os três candidatos que decidiram fazer oposição ao candidato do PFL ao governo baiano, Paulo Souto, em caso de segundo turno, começaram suas carreiras políticas apoiados pelo ex-governador Antonio Carlos Magalhães (PFL). Souto tem o apoio de ACM.
@@ -1879,9 +1879,9 @@ O ex-governador Nilo Coelho (PMDB), candidato ao governo pela coligação ``Marcha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-107</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-107</field>
+<field name="date">941006</field>
+<text_pt>
 PT, PDT e PSDB crescem mais
 Da Reportagem Local
 O PFL é o maior derrotado das eleições estaduais de 1994, pelo menos de acordo com o cômputo oficial até 19h: não elege um único governador no primeiro turno e vai ao segundo turno, com certeza, em somente três Estados.
@@ -1902,9 +1902,9 @@ O PPR do prefeito paulistano Paulo Maluf recupera-se do desastre de 1990, ano em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-108</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-108</field>
+<field name="date">941006</field>
+<text_pt>
 Eduardo Azeredo, que pode passar para o 2º turno, diz que cúpula do partido `não acreditou' na sua candidatura
 PAULO PEIXOTO
 Da Agência Folha, em Belo Horizonte
@@ -1920,9 +1920,9 @@ Agora espera-se um apoio decidido do presidente eleito. Ontem às 12h20, Azeredo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-109</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-109</field>
+<field name="date">941006</field>
+<text_pt>
 Da Reportagem Local
 Os votos em branco ou anulados foram a maioria nas eleições para governadores de quatro Estados e ficaram em segundo lugar em outros sete, entre eles São Paulo.
 A avalanche de votos brancos e nulos, que se esperava para a eleição dos legisladores, acabou se espalhando também para a escolha de governadores.
@@ -1941,9 +1941,9 @@ Mas emenda: ``Estamos perto da última chance, para tal, sob pena não de um golpe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-110</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-110</field>
+<field name="date">941006</field>
+<text_pt>
 Cédula única ampliou taxa de brancos e nulos
 Da Redação
 A adoção da ``cédula única de votação'' (a que usamos hoje) aumentou o número de votos brancos e nulos. Ela foi introduzida pela primeira vez nas eleições presidenciais de 1955. Como se tratava de uma eleição isolada, com apenas quatro candidatos, a elevação da taxa (de 4,3% em 1950 para 5,2% em 1955) não chegou a ser notada.
@@ -1958,9 +1958,9 @@ A partir de 1986, a proliferação de partidos e candidatos torna-se um complicado
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-111</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-111</field>
+<field name="date">941006</field>
+<text_pt>
 A segunda vaga ao Senado pela Bahia está sendo disputada voto a voto pelos candidatos do PSDB, Waldir Pires, e do PFL, Waldeck Ornelas.
 De acordo com os resultados conhecidos até agora, o ex-governador Antônio Carlos Magalhães (PFL) é o único nome já confirmado para representar a Bahia no Senado.
 ACM tem registrado entre 35% e 38% dos votos, de acordo com boletim divulgado ontem à tarde pelo TRE com 6,29% do total.
@@ -1985,9 +1985,9 @@ Adolfo (510 km a noroeste de São Paulo), por exemplo, teve 789 votos brancos e n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-112</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-112</field>
+<field name="date">941006</field>
+<text_pt>
 CLÓVIS ROSSI
 Da Reportagem Local
 O virtual presidente eleito, Fernando Henrique Cardoso, vai propor substituir a indexação salarial pela introdução do contrato coletivo de trabalho como uma das primeiras medidas de sua gestão.
@@ -2013,9 +2013,9 @@ Colaborou Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-113</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-113</field>
+<field name="date">941006</field>
+<text_pt>
 LUIZ MALAVOLTA
 Da Agência Folha, em Pardinho (SP)
 O refúgio de FHC e sua família foi descoberto ontem em Pardinho (203 km a oeste de SP). Desde a tarde de segunda-feira, FHC, mulher, filhos e netos estavam hospedados na Fazenda Bela Vista, em Pardinho, cidade com 10 mil habitantes, na região de Botucatu.
@@ -2032,9 +2032,9 @@ Colaboraram TALES FARIA, enviado especial a Pardinho, e Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-114</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-114</field>
+<field name="date">941006</field>
+<text_pt>
 Da Agência Folha,  em Florianópolis
 Santa Catarina foi o primeiro Estado a encerrar a apuração destas eleições.
 Os resultados finais foram divulgados às 20h55 de ontem. O candidato do PSDB, Fernando Henrique Cardoso, teve 28,79% (788.918) dos votos, seguido de Lula que fez 23,02% (630.849). Amin, que nasceu no Estado, ficou em terceiro lugar com 18,88% (517.317). Foram apurados 3,2 milhões de votos.
@@ -2042,9 +2042,9 @@ O TRE atribui a rapidez da apuração ao aumento do número de juntas apuradoras no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941006-115</text_pt>
-<text_pt name="date">941006</text_pt>
-<text_pt name="text">
+<field name="id">FSP941006-115</field>
+<field name="date">941006</field>
+<text_pt>
 A segunda vaga ao Senado pela Bahia está sendo disputada voto a voto pelos candidatos do PSDB, Waldir Pires, e do PFL, Waldeck Ornelas.
 De acordo com os resultados conhecidos até agora, o ex-governador Antônio Carlos Magalhães (PFL) é o único nome já confirmado para representar a Bahia no Senado.
 ACM tem 33,10% dos votos, de acordo com boletim divulgado ontem às 22h31 pelo TRE (Tribunal Regional Eleitoral). Pires vem em segundo, com 22,01%, e Ornelas em terceiro, com 21,63%.

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950827-001</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-001</field>
+<field name="date">950827</field>
+<text_pt>
 A história do Estado moderno sempre foi, também, a história das lutas pelas liberdades civis e, portanto, das conquistas da sociedade contra o próprio Estado.
 Infelizmente, o governo brasileiro tem falado muito em reforma do Estado, mas na prática tem parecido maior a vontade política de fortalecer o Estado contra a sociedade.
 Na semana passada essa gula tornou-se explícita. O governo deseja flexibilizar as regras para a instituição de empréstimos compulsórios e para a quebra do sigilo bancário, no cerne mesmo da reforma fiscal.
@@ -17,9 +17,9 @@ Já se comparou o Estado a monstros, gigantes, leviatãs e elefantes. São metáfora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-002</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-002</field>
+<field name="date">950827</field>
+<text_pt>
 O novo sistema proposto para o ingresso na Universidade de Brasília, pelo qual reservam-se 25% de suas vagas a alunos do Distrito Federal que obtiveram as melhores médias nos exames finais de cada série do 2º grau, aponta para algumas mudanças importantes na mentalidade com que se aborda o problema dos vestibulares para as universidades no Brasil.
 O processo de avaliação proposto prioriza sobretudo o processo de aprendizagem do aluno ao longo dos últimos três anos de sua história escolar e não apenas seu preparo no momento em que os exames vestibulares são aplicados, como no sistema atual. Evita-se assim que o estudante fique exposto a interferências psicológicas imprevisíveis e estimula-se-o a que ele próprio valorize seu esforço de aprendizagem ao longo dos anos.
 É estranho porém que apenas os alunos de Brasília possam ter acesso ao novo sistema de avaliação. Corre-se o risco de vetar candidatos melhor qualificados que os locais. A restrição só se justificaria pelo caráter experimental da iniciativa.
@@ -27,9 +27,9 @@ Além disso é importante que inicialmente se conserve o sistema misto para o aces
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-003</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-003</field>
+<field name="date">950827</field>
+<text_pt>
 No Brasil, qualquer projeto que envolva governo, obras e empresários é sempre por definição suspeito. Mas, como acreditar que todos estão o tempo todo tramando contra a população faz mal à alma, conceda-se o benefício da dúvida.
 As empresas com escritórios na avenida Luiz Carlos Berrini, na zona sul de São Paulo, uma das mais valorizadas da cidade, decidiram doar à prefeitura um terreno numa área próxima onde irão construir 950 apartamentos para a remoção de parcela da população de uma favela naquela avenida. A remoção, segundo o secretário municipal de Habitação, Lair Krahenbuhl, ocorreria de qualquer forma porque a área será desapropriada para a construção de uma nova avenida.
 Como os imóveis comerciais da Berrini serão bastante valorizados com a remoção da favela, nada mais justo do que os escritórios repassarem ao menos parte do que ganharão para a área social, que anda tão esquecida no Brasil.
@@ -39,9 +39,9 @@ O fosso que separa as classes mais abastadas dos miseráveis tornou-se tão profun
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-004</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-004</field>
+<field name="date">950827</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO _ Se a manifestação contra a recessão realizada quinta-feira em São Bernardo do Campo tivesse sido marcada para outra cidade, alcançaria idêntico volume?
 Suspeito que a resposta a essa pergunta determinará boa parte da temperatura política e, em certa medida, também da econômica daqui até o final do ano.
@@ -56,9 +56,9 @@ Em tempo: não sei a resposta para a pergunta que abre o texto, até porque já dis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-005</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-005</field>
+<field name="date">950827</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA _ Em ``O Segundo Sexo", Simone de Beauvoir anotou: ``Foi pelo trabalho que a mulher transpôs, em grande parte, a distância que a separava do macho. É só o trabalho que pode garantir-lhe uma liberdade concreta".
 As mulheres passaram os últimos anos reivindicando igualdade social e econômica em relação ao homem. À custa de muito suor, avançou-se muito desde as primeiras fogueiras de sutiãs.
@@ -73,9 +73,9 @@ Em setembro, a proposta será levada à Conferência Mundial da Mulher, na China. S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-006</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-006</field>
+<field name="date">950827</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ Não tenho certeza, mas acho que desde Homero garantem que a literatura acabou. Pulando de Homero ao Bill Gates, a morte da letra impressa parece decretada pelo computador. No mundo novo e admirável que está em curso não haverá espaço para a curtição solitária da linguagem, dos mitos e lendas que nos chegaram por meio das palavras. A tecla ``delete" fará o copidesque final dos textos: o que não for vantagem e eficiência dança.
 Daí a minha surpresa ao ler o livro de Heloísa Seixas, ``Pente de Vênus". Pelo pouco que sei de sua biografia ainda curta ela tem alguns anos de jornalismo e trabalha atualmente em um escritório das Nações Unidas. Excelente representante de uma geração asséptica, que se desvincula da letra, do verbo.
@@ -86,9 +86,9 @@ Por mais eficiente que seja a linguagem audiovisual, haverá sempre uma Heloísa S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-007</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-007</field>
+<field name="date">950827</field>
+<text_pt>
 Antonio Ermírio de Moraes
 Você sabia que os aposentados do Poder Legislativo ganham, em média, R$ 3.620 mensais? E que 70% dos aposentados do INSS ganham R$ 100 por mês?
 Você sabia que os aposentados do Poder Judiciário ganham, em média, R$ 3.660 por mês enquanto os do Poder Executivo ganham R$ 540? E você sabia que os aposentados do INSS que mais ganham recebem R$ 500 por mês?
@@ -108,9 +108,9 @@ Antonio Ermírio de Moraes escreve aos domingos nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-008</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-008</field>
+<field name="date">950827</field>
+<text_pt>
 Não é possível continuar como se os clubes não fossem co-responsáveis quando sabemos que são
 PELÉ
 Se a torcida do meu Santos cometer um ato de violência, o clube deve ser punido por isso. Hoje, o CBDF (Código Brasileiro Disciplinar de Futebol) só prevê punição aos clubes nos casos em que um ato da torcida influa no resultado do jogo, e é preciso ampliar a abrangência dessa punição.
@@ -130,9 +130,9 @@ EDSON ARANTES DO NASCIMENTO (PELÉ), 54, empresário, é ministro extraordinário do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-009</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-009</field>
+<field name="date">950827</field>
+<text_pt>
 O Brasil apresenta, para a Alemanha, a clara potencialidade de uma parceria estratégica
 CELSO LAFER
 A visita do presidente Fernando Henrique Cardoso à Alemanha, em setembro, tem suscitado substancioso debate. A importância do tema leva-me a alinhar algumas observações sobre a matéria. Começo com o óbvio. O relacionamento político entre Brasil e Alemanha parte de um denso relacionamento econômico.
@@ -159,9 +159,9 @@ CELSO LAFER, 54, professor titular da Faculdade de Direito da USP (Universidade 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-010</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-010</field>
+<field name="date">950827</field>
+<text_pt>
 ``FHC dispara agora contra aposentados. Estranho que, em um país cuja pirâmide etária está em expansão _poucos idosos e muitos jovens_, os aposentados já constituam problema. Alguma coisa deve estar tremendamente errada e, se há casos violentos de distorção na concessão de benefícios, que não se responsabilize o conjunto de trabalhadores aposentados. O problema real está sim na taxa pequena de população empregada e, portanto, contribuinte, e nas distorções do sistema de arrecadação. Os remédios para ambas as coisas FHC conhece."
 Mayda A. Zanirak (Assis, SP)
 
@@ -194,9 +194,9 @@ Valteir Pereira dos Santos (Campo Grande, MS)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-011</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-011</field>
+<field name="date">950827</field>
+<text_pt>
 ROBERTO CAMPOS
 
 "Não empreste nem peça emprestado; quem empresta perde o amigo e o dinheiro; quem pede emprestado está ferrado."
@@ -229,9 +229,9 @@ ROBERTO CAMPOS, 77, economista e diplomata, é deputado federal pelo PPR do Rio d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-012</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-012</field>
+<field name="date">950827</field>
+<text_pt>
 
 JATENE - O ministro da Saúde, Adib Jatene, disse em Curitiba (PR) que a CMF (Contribuição sobre Movimentação Financeira) não será um tributo permanente. Segundo Jatene, o imposto funcionaria como uma ação emergencial para salvar a saúde pública até que o governo realize as reformas estruturais.
 
@@ -241,9 +241,9 @@ PC do B - O PC do B realiza hoje em Brasília, a partir das 9h, sua 8ª Conferênci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-013</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-013</field>
+<field name="date">950827</field>
+<text_pt>
 Governo enviou reformas tributária e administrativa
 RUI NOGUEIRA
 Coordenador de Produção da Sucursal de Brasília
@@ -263,9 +263,9 @@ Enquanto o senador Antônio Carlos Magalhães (PFL-BA) admitiu que é acionista do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-014</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-014</field>
+<field name="date">950827</field>
+<text_pt>
 
 PT. O ex-deputado José Dirceu foi eleito presidente do partido em encontro nacional no fim-de-semana passado. A escolha foi tumultada por discurso de César Benjamin, um dos fundadores do PT, que criticou a doação de recursos feita por empreiteira à campanha de Dirceu ao governo de SP.
 
@@ -281,9 +281,9 @@ GRAMADO. O filme ``A Felicidade É...", dos diretores Cecílio Neto, José Pedro Go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-015</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-015</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação
 Uma briga entre torcedores do São Paulo e do Palmeiras no domingo passado deixou 102 pessoas feridas, 22 das quais policiais. O confronto ocorreu na decisão da Supercopa de Juniores, no Pacaembu.
 O conflito começou quando torcedores do Palmeiras foram a local reservado aos do São Paulo para provocá-los, em comemoração à vitória por 1 a 0.
@@ -293,17 +293,17 @@ O presidente da torcida Mancha Verde (Palmeiras), Paulo Serdan, foi indiciado na
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-016</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-016</field>
+<field name="date">950827</field>
+<text_pt>
 No editorial ``Deterioração", publicado na sexta-feira, a Folha apontou os sinais de rápida deterioração da popularidade do governo FHC, tomando como exemplo a manifestação ocorrida em São Bernardo.
 Embora se trate de reduto ``do movimento sindical mais bem organizado do país" e ao mesmo tempo dos ``maiores geradores de empregos diretos e indiretos do país", ``o ruído da rua, ouvido em São Bernardo, não é por certo o único", afirma o texto, lembrando o descontentamento que há entre empresários e agricultores. Por fim, o editorial indaga ``se outras são bernardos não surgirão no caminho" a médio prazo, ``minando ainda mais" o governo FHC.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-017</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-017</field>
+<field name="date">950827</field>
+<text_pt>
 MARCELO LEITE
 Compare as duas belas fotografias ao lado. Na primeira, de 13 de novembro de 1994, a torcida organizada corintiana Gaviões da Fiel dá um show coreográfico inofensivo. Na outra, tomada no último dia 20, palmeirenses e são-paulinos se entregam a uma erupção neandertalesca de violência, capaz de envergonhar todo aquele obrigado a compartilhar com essa gente a mesma espécie animal.
 Animal no mau sentido, que fique claro, já que desse mundo estranho do futebol vem também a acepção calorosa do adjetivo. Todo jogo é uma sublimação de comportamentos violentos, embates viris. Ainda assim, é difícil de compreender um campo em que, para saudar a elegância apolínea de um drible à Edmundo, se desentala um berro pré-histórico: "Animaaal!"
@@ -340,9 +340,9 @@ Por falar em ACM: agora na muda, o combativo senador vai conseguindo tudo o que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-018</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-018</field>
+<field name="date">950827</field>
+<text_pt>
 Para o leitor não pensar que só a Folha confunde milhões com bilhões, tomo um exemplo de seu concorrente paulista, "O Estado de S.Paulo".
 Quase caí duro quando li o título no alto da pág. A-7 de anteontem: "Tribunal de Contas aprova corte de R$ 4 bilhões no próprio orçamento". Antes mesmo de ler o texto da notícia, desconfiei.
 Dito e feito. Logo no primeiro período do "lide" (parágrafo de abertura da notícia) a cifra astronômica se esfarinhava. Eram só R$ 4 milhões, mil vezes menos. Diferença pouca, um "b" no lugar de um "m".
@@ -355,9 +355,9 @@ MARCELO LEITE é o ombudsman da Folha. O ombudsman tem mandato de um ano, renováv
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-019</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-019</field>
+<field name="date">950827</field>
+<text_pt>
 Oito procuradores da República, e é possível que a esta altura o número seja maior, demitiram-se dos seus cargos de procuradores regionais do Trabalho no Distrito Federal, São Paulo, Rio Grande do Sul, Minas, Pernambuco, Santa Catarina, Mato Grosso do Sul e Alagoas. O gesto é em reação ao mais recente desmando de Geraldo Brindeiro, o nomeado por Fernando Henrique Cardoso para substituir Aristides Junqueira como procurador-geral da República.
 A crise que implode a Procuradoria é grave por dois aspectos principais. O mérito maior de Aristides Junqueira foi tirar a Procuradoria do limbo e devolver-lhe a natureza, perdida desde muito tempo, de instituição incumbida de defender a ordem jurídica, o regime democrático e os legítimos interesses sociais e individuais. Os resultados práticos, judiciais, não foram, é verdade, plenamente satisfatórios, ou porque evitados pelos altos tribunais tão problemáticos, ou por falhas da Procuradoria mesma.
 Foi um grande avanço, porém, que essa instituição deixasse de estar a serviço dos poderosos do dia e se voltasse para suas responsabilidades constitucionais. Isto levou à difusão, e aí o segundo aspecto positivo, do sentimento de que há a quem recorrer contra as transgressões da lei e da moralidade pelo governo e pelo Legislativo. Tal sentimento, se ainda existe, é por desinformação. Não tem mais razão de ser.
@@ -368,9 +368,9 @@ A Procuradoria Geral da República não tem procurador-geral. No lugar, tem um pol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-020</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-020</field>
+<field name="date">950827</field>
+<text_pt>
 Presidente do Banco de Boston diz que fim da discriminação contra o capital estrangeiro pode atrair até US$ 3 bilhões
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -396,9 +396,9 @@ Para ele, a situação é similar no caso dos investimentos estrangeiros. O Brasil,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-021</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-021</field>
+<field name="date">950827</field>
+<text_pt>
 Dirigente da maior entidade de direitos humanos do continente defende investigação sobre circunstâncias das mortes
 EMANUEL NERI
 Da Reportagem Local
@@ -419,9 +419,9 @@ Para ele, a Justiça Militar tem de estar circunscrita aos delitos militares, "ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-022</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-022</field>
+<field name="date">950827</field>
+<text_pt>
 Permissão para que estrangeiros controlassem empresas jornalísticas atrairia capital externo, dizem investidores
 Da Reportagem Local
 Investimento de até US$ 1 bilhão seria canalizado para a mídia no Brasil no prazo de dois a três anos caso não houvesse impedimento legal à associação de empresas de comunicação nacionais com o capital estrangeiro.
@@ -450,9 +450,9 @@ sobre a expectativa de ingresso de capital estrangeiro nos meios de comunicação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-023</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-023</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local
 Está na Constituição brasileira o principal impedimento para a entrada de capital estrangeiro nas empresas jornalísticas.
 O assunto está espalhado em vários trechos do texto constitucional, que foi redigido e promulgado em 1988.
@@ -465,9 +465,9 @@ Parágrafo 2º - A participação referida no parágrafo anterior só se efetuará atra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-024</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-024</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local
 Empresários de comunicação brasileiros consultados pela Folha são, em maior ou menor grau, favoráveis à entrada de capital estrangeiro no setor.
 A Folha entrevistou executivos de empresas de comunicação. Há os que defendem a abertura total e os que pedem alguma limitação. Ninguém declarou ser contrário à abertura do mercado.
@@ -490,9 +490,9 @@ Colaboraram a Agência Folha, em Curitiba, e a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-025</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-025</field>
+<field name="date">950827</field>
+<text_pt>
 Três quartos do território dos kalungas, no qual vivem há 250 anos, foram tomados por grileiros de terra
 MARIO CESAR CARVALHO
 Enviado especial ao Vão de Almas
@@ -527,9 +527,9 @@ Leia textos, veja fotos e ouça a música dos kalungas na Internet. O endereço da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-026</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-026</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial
 As professoras dos kalungas têm um regime especial de trabalho para suportar o isolamento: ficam na escola durante dois meses e nos dois meses seguintes voltam para uma das cidades próximas.
 ``Ninguém aguenta ficar aqui o ano inteiro", diz Maria de Fátima Tebas, 22, uma das quatro professoras da Escola Estadual Reunida Kalunga 2. O Estado mantém outras duas escolas na região. As professoras ganham R$ 300,00 ao mês.
@@ -541,9 +541,9 @@ Baiocchi diz que não há preconceito algum em chamar um kalunga de ``negão". ``É 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-027</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-027</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial
 A antropóloga Mari Baiocchi, 61, é considerada uma kalunga pelos kalungas. Chegou à região em 82, demorou seis anos para conhecê-la e escreve um livro sobre o remanescente de quilombo.
 Sua atividade não é apenas teórica. Foi a principal ativista para o tombamento da área. Dirige na Universidade Federal de Goiás o projeto ``Kalunga - Povo da Terra", que desenvolve pesquisas na áreas de saúde, educação, direito agrário e história do quilombo.
@@ -561,9 +561,9 @@ Baiocchi - Não. Eles são cidadãos como qualquer brasileiro. Se forem tratados co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-028</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-028</field>
+<field name="date">950827</field>
+<text_pt>
 Revólver - É o primeiro bem que um kalunga compra quando tem dinheiro e o presente predileto dos meninos. Nos cinco dias de festas do Império, que reuniu 1.500 pessoas há duas semanas, a polícia não registrou nenhuma agressão nem furtos. ``Eles compram revólver para dar tiros para o alto. Usam como se fosse rojão", diz o soldado Milton Santos, 32, da cidade de Teresina de Goiás.
 
 Casamento na fogueira - Padre só aparece no Vão de Almas uma ou duas vezes por ano. Os que não querem esperar são casados em volta de uma fogueira por uma espécie de sacerdote kalunga. Quem não casa na fogueira não pode ficar junto nas festas.
@@ -577,9 +577,9 @@ Cabelo liso - A moda de alisar as carapinhas chegou aos kalungas. Helena Rodrigu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-029</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-029</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação
 Antropólogo, ensaísta, romancista e senador, Darcy Ribeiro, 72, estréia amanhã como colunista da Folha.
 Vai escrever às segundas-feiras, na página 1-2, ocupando espaço que desde junho de 1989 era do sociólogo Florestan Fernandes, morto no dia 10 passado.
@@ -595,9 +595,9 @@ O livro atingiu em um mês a lista dos dez mais vendidos entre obras de não-ficçã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-030</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-030</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação
 Além da coluna semanal na Folha, Darcy Ribeiro dedica-se ao projeto de um novo livro. Revê 800 páginas de anotações de um diário que fez em 1949 e 1950, durante expedições a aldeias dos índios kaapor, na divisa do Pará com o Maranhão. Pretende concluí-lo no ano que vem. Bem-humorado, ri da doença que sofre: ``Meu câncer não é dos que matam não, só incomoda." A seguir, leia trechos da entrevista que concedeu à Folha.
 (Plínio Fraga)
@@ -613,9 +613,9 @@ Darcy - Fiz um check-up nesta semana e estou bem. Câncer é muito chato. Mas pior
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-031</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-031</field>
+<field name="date">950827</field>
+<text_pt>
 Liquidações e intervenções em bancos com dificuldades geram rombo equivalente a três vezes o orçamento habitacional
 GUSTAVO PATÚ
 Da Sucursal de Brasília
@@ -643,9 +643,9 @@ O casuísmo mais recente ainda não completou uma semana. Após a intervenção no Ec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-032</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-032</field>
+<field name="date">950827</field>
+<text_pt>
 As principais intervenções nos últimos 20 anos
 
 Banco Halles (74)
@@ -668,9 +668,9 @@ Era o 13.' maior banco privado do país e só conseguia operar com a ajuda do Banr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-033</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-033</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal de Brasília
 O modelo de intervenção federal hoje aplicado no Banespa e em mais quatro bancos estaduais foi condenado pelo presidente do Banco Central, Gustavo Loyola, em documento de 93, quando ocupou o cargo pela primeira vez.
 Loyola chamou o Raet (Regime de Administração Especial Temporária) de ``pretenso bálsamo milagroso", em referência à idéia de manter bancos em crise abertos com suporte do BC.
@@ -683,9 +683,9 @@ Hoje vive uma situação paradoxal: o governador Mário Covas (PSDB-SP) pressiona p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-034</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-034</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal de Brasília
 A legislação do sistema financeiro prevê três modalidades de regimes especiais do Banco Central sobre bancos em crise financeira: a liquidação extrajudicial, a intervenção e o Raet (regime de administração especial temporária).
 A liquidação é o mais rigoroso: o banco é fechado e seus ativos _bens, imóveis e créditos_ são vendidos para pagar o que for possível aos credores. As despesas da liquidação adiantadas pelo BC são as primeiras a serem pagas, seguidas dos passivos trabalhistas.
@@ -695,9 +695,9 @@ O Raet não afeta diretamente os depositantes. O banco continua a operar sob admi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-035</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-035</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal de Brasília
 A intervenção do BC, em junho de 83, na financeira Coroa-Crédito Financiamento e Investimento, do grupo Coroa-Brastel, transformou-se em uma novela de tribunal sem epílogo até hoje.
 O caso foi parar na Justiça em junho de 1985, quando o então procurador-geral da República, Sepúlveda Pertence, denunciou no STF (Supremo Tribunal Federal) os ministros Delfim Netto (Planejamento), Ernane Galvêas (Fazenda) e o empresário Assis Paim, dono do grupo Coroa-Brastel.
@@ -707,9 +707,9 @@ O caso foi a julgamento em 94. A denúncia contra Galvêas foi rejeitada. Já a acu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-036</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-036</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal de Brasília
 O rombo do Econômico será um dos cinco maiores já incluídos na contabilidade do Banco Central, a não ser que apareçam compradores dispostos a ter prejuízos.
 O buraco de R$ 3,3 bilhões do banco só tem comparação, na história recente do país, com os dos grupos Comind e Auxiliar e o do Banco Sulbrasileiro, hoje estatizado com o nome de Meridional.
@@ -721,9 +721,9 @@ O prejuízo, porém, será maior quanto mais durar a intervenção. O BC ainda não sa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-037</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-037</field>
+<field name="date">950827</field>
+<text_pt>
 De Washington
 O embaixador do Brasil em Washington, Paulo Tarso Flecha de Lima, já está se comunicando por bilhetes, depois de ter passado por uma cirurgia cerebral.
 O médico Robert Martuza considerou esse e outros comportamentos do paciente como "sinais muito encorajadores".
@@ -732,9 +732,9 @@ Ontem chegaram os filhos do embaixador, Paulo, Luiz Antonio, João Pedro e Isabel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-038</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-038</field>
+<field name="date">950827</field>
+<text_pt>
 O senador Antônio Carlos Magalhães (PFL-BA) disse que ``o governo passou a adotar uma posição mais aberta, maleável, e está admitindo rever sua posição" a respeito do Banco Econômico. Segundo ACM, FHC e o Banco Central estão vendo que é mais caro manter a intervenção do que reabrir o banco.
 
 Para general, militares são vistos como 'vilões'
@@ -748,9 +748,9 @@ Três homens foram mortos na madrugada de ontem em São Miguel Paulista (zona lest
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-039</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-039</field>
+<field name="date">950827</field>
+<text_pt>
 JAIME SPITZCOVSKY 
 De Pequim 
 A 4ª Conferência Mundial da Mulher, de 4 a 15 de setembro, vai receber delegações de 185 países para discutir problemas globais, mas acabará jogando mais luz sobre a discriminação enfrentada pelas chinesas, por elas serem as anfitriãs do evento.
@@ -776,9 +776,9 @@ No trabalho, as mulheres chinesas também sofrem discriminação. "A formulação leg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-040</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-040</field>
+<field name="date">950827</field>
+<text_pt>
 De Pequim 
 Pequim se maquiou para a Conferência Mundial da Mulher. Pontos de ônibus foram repintados, moradores receberam orientação para arrumar seus terraços e a polícia tem ordem para evitar expressões "grosseiras e para parar carros sujos, obrigando os motoristas a lavá-los na hora.
 O dono do carro sujo também será multado em 20 yuans (US$ 2,40), além de ter a dor de cabeça de procurar água e sabão para lavar o veículo imediatamente.
@@ -793,9 +793,9 @@ Funcionários do aeroporto também têm instrução para manter um permanente sorriso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-041</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-041</field>
+<field name="date">950827</field>
+<text_pt>
 De Pequim 
 Embora a situação da mulher na China aponte um mar de problemas, avanços ocorreram desde a instalação do poder comunista, em 1949.
 No regime anterior, tanto no império como na república, iniciada em 1911, havia a prática generalizada de barrar as mulheres da escola e do mercado de trabalho.
@@ -810,9 +810,9 @@ O "China Daily" estima que menos de 10% das pessoas com "poder de decisão" no go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-042</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-042</field>
+<field name="date">950827</field>
+<text_pt>
 De Pequim 
 As autoridades comunistas chinesas, que governam com mão de ferro e proíbem manifestações pró-democracia, temem protestos das participantes da conferência e do encontro de ONGs.
 Para evitar "desordem", reforçaram o policiamento, prenderam dissidentes e aumentaram estoque de lençóis brancos, que serão jogados sobre quem tentar tirar a roupa em plena rua.
@@ -827,9 +827,9 @@ Segundo o jornal "Beijing Daily", 16 prostitutas foram recentemente enviadas a c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-043</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-043</field>
+<field name="date">950827</field>
+<text_pt>
 A organização e a realização do encontro de ONGs custaram 250 milhões de yuans (cerca de US$ 30 milhões), segundo Cai Jinxi, funcionário do distrito de Huairou. O governo chinês teria oferecido 100 milhões e quatro bancos estatais teriam se juntado para emprestar 150 milhões. Não foram divulgados gastos com a conferência.
  
 Para a invasão de mulheres, a China alugou 230 banheiros móveis de Hong Kong, 100 para a Conferência da ONU e 130 para Huairou. Mais 100 banheiros móveis estão sendo feitos em Pequim para uso no encontro das ONGs.
@@ -844,9 +844,9 @@ Tong Zeng, líder de um grupo que auxilia chinesas que foram escravas sexuais dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-044</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-044</field>
+<field name="date">950827</field>
+<text_pt>
 Nilza Iraci Silva faz parte da delegação brasileira 
 FERNANDA SCALZO 
 Da Reportagem Local 
@@ -862,9 +862,9 @@ Segundo Nilza, as mulheres negras ainda têm muito a conquistar mesmo dentro dos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-045</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-045</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 A presidente do Conselho Nacional dos Direitos da Mulher, Rosiska Darcy de Oliveira, 51, é casada há 27 anos e se sente sobrecarregada e dividida entre a militância e as tarefas domésticas.
 Rosiska não tem filhos e recebe ajuda de uma pessoa em sua casa. ``Ainda sou eu que decido muita coisa. Não porque meu marido se recuse, mas porque tenho prazer nas coisas da vida privada."
@@ -877,9 +877,9 @@ Da conferência de Pequim, ela não espera menos: ``Essa conferência vai assinar u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-046</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-046</field>
+<field name="date">950827</field>
+<text_pt>
 A norte-americana Naomi Wolf propõe boicotes e acúmulo de dinheiro para conseguir ascensão política 
 SASKIA REILLY 
 Da Coordenação do "World Media"
@@ -908,9 +908,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-047</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-047</field>
+<field name="date">950827</field>
+<text_pt>
 Do "World Media"
 A poeta, romancista e contista norte-americana Alice Walker, 51, tem um histórico de desafiar as tradições e inspirar transformações. Nascida em uma família de meeiros no sul dos Estados Unidos, ela confrontou-se com racismo, ignorância e ódio. Buscou refúgio tornando-se escritora.
 Seus livros mais famosos, "A Cor Púrpura" e "Possessing the Secret of Joy" (Possuir o Segredo do Prazer) tratam da opressão sofrida por mulheres e negros na sociedade norte-americana. Ela dá apoio à Conferência da Mulher.
@@ -927,9 +927,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-048</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-048</field>
+<field name="date">950827</field>
+<text_pt>
 MARCOS AUGUSTO GONÇALVES 
 Editor de Domingo 
 Um novo e grave problema aflige este já tão aflito país. Não bastassem os prejuízos do Econômico, a inadimplência e os juros, ficamos sabendo que as múmias do Museu Nacional, no Rio, foram encharcadas pela chuva!
@@ -950,9 +950,9 @@ Se os economistas de Brasília fizerem com as múmias o que fizeram com o bolso do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-049</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-049</field>
+<field name="date">950827</field>
+<text_pt>
 MARIA ERCILIA 
 Da Reportagem Local 
 A Conferência Mundial da Mulher gerou uma teia de informação bem-organizada e de fácil consulta na Internet. É possível obter na rede tanto a informação e os press-releases oficiais (http: //www.undp.org/ wcw/daw1.htm) da ONU quanto dicas de sobrevivência na China e bastidores do encontro. A página da ONU será atualizada diariamente durante a conferência.
@@ -964,9 +964,9 @@ A ``newsletter" Women on the Move (gopher.undp.org:70/00 /unconfs/women/pim/move
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-050</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-050</field>
+<field name="date">950827</field>
+<text_pt>
 O advogado do ex-oficial nazista Erich Priebke disse que seu cliente aceita extradição para a Alemanha. Ele foi preso novamente anteontem na Argentina, a pedido dos alemães. 
 
 Madre Teresa comemora aniversário em Calcutá 
@@ -980,9 +980,9 @@ Pelo menos 50 guerrilheiros separatistas e sete policiais do Sri Lanka morreram 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-051</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-051</field>
+<field name="date">950827</field>
+<text_pt>
 O auto-proclamado presidente da Krajina sérvia dá mostras que ainda está vivo com seu nacionalismo 
 TONY BARBER 
 Do "The Independent"
@@ -995,9 +995,9 @@ Na sexta passada, ainda refugiado em Banja Luka. Martic apelou ao secretário-ger
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-052</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-052</field>
+<field name="date">950827</field>
+<text_pt>
 De Londres 
 Cresce apoio a candidatos independentes nos EUA
 RUPERT CORNWELL  
@@ -1019,9 +1019,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-053</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-053</field>
+<field name="date">950827</field>
+<text_pt>
 Leia a seguir alguns destaques da imprensa internacional:
 
 The New York Times
@@ -1035,9 +1035,9 @@ Diz que o ex-ministro da Defesa da Colômbia Fernando Botero Zea foi proibido de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-054</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-054</field>
+<field name="date">950827</field>
+<text_pt>
 Pelo menos 36 pessoas morreram e 16 desapareceram nas chuvas torrenciais que continuaram a cair ontem na Coréia do Sul, pelo quarto dia consecutivo. As duas últimas vítimas confirmadas foram duas pessoas soterradas por um deslizamento de terra na Província de Kyongsang (sudeste). Uma mulher de 40 anos morreu quando seu caminhão foi derrubado pela força das águas. As chuvas são causadas pela proximidade do tufão Janis.
 
 Palestinos condenam 2 membros do Hamas 
@@ -1057,9 +1057,9 @@ Cinco pessoas morreram e três ficaram gravemente feridas devido à explosão de 50
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-055</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-055</field>
+<field name="date">950827</field>
+<text_pt>
 Milan Martic, autoproclamado presidente do território sérvio na Croácia, dá mostras que ainda está ativo
 TONY BARBER 
 Do "The Independent"
@@ -1075,9 +1075,9 @@ O apelo foi inútil, porque, na realidade, Martic é um rebelde deposto e fugitivo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-056</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-056</field>
+<field name="date">950827</field>
+<text_pt>
 Sérvios dizem que foram atacados pela Croácia, que promete retomar a região; Tudjman admite barbárie na Krajina
 Das agências internacionais
 Durou poucas horas um cessar-fogo que começou ontem na Eslavônia Oriental, região da Croácia sob domínio sérvio. O Exército sérvio disse ter sido atacado pelos croatas, com armas leves, na aldeia de Sarvas, por volta de 10h (horário de Brasília). A trégua havia sido iniciada às 7h. A ONU não confirmou o ataque contra os sérvios.
@@ -1090,16 +1090,16 @@ O líder Radovan Karadzic teria sido submetido a interrogatórios secretos na últi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-057</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-057</field>
+<field name="date">950827</field>
+<text_pt>
 O Banco Noroeste deve abrir mais três agências e totalizar 90 agências até o final deste ano. A instituição atua no mercado de pessoas físicas (com renda mensal superior a R$ 5 mil) e pequenas e médias empresas. Carlos Montone, diretor-gerente do banco, diz que a instituição está investindo US$ 20 milhões em informática este ano e pretende manter o quadro de 5 mil funcionários, sendo que 20% deles voltados à venda de produtos da instituição financeira. O Noroeste teve lucro líquido de R$ 63 milhões no primeiro semestre deste ano, o que correspondeu a um retorno sobre o patrimônio líquido (recursos próprios) de 19,5%. A média foi de 8,3%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-058</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-058</field>
+<field name="date">950827</field>
+<text_pt>
 Para governo, tendência agora é de reaquecimento; Pastore alerta para déficit público
 JOÃO CARLOS DE OLIVEIRA
 Da Reportagem Local
@@ -1118,9 +1118,9 @@ sobre injeção de dinheiro nas págs. 4 e 9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-059</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-059</field>
+<field name="date">950827</field>
+<text_pt>
 SÉRGIO RIBEIRO DA COSTA WERLAND 
 Problemas como o ocorrido com o Banco Econômico não são uma exclusividade brasileira. Em anos recentes, o sistema financeiro no mundo tem sofrido com as consequências da má administração de instituições financeiras. As soluções adotadas nos outros países têm, porém, um ponto em comum: banco grande não é liquidado.
 Os exemplos são abundantes: nos EUA, na década passada, o Continental Illinois; na França, o Credit Lyonnais, um banco estatal, tem problemas comparáveis aos do Banespa; no Japão e no México, os grandes bancos enfrentam uma onda de inadimplência; na Argentina, mesmo no auge da crise do início do ano, houve liquidação de bancos pequenos, mas o Banco Central agiu de forma a preservar bancos grandes, fundindo-os; na Inglaterra, o Barings foi vendido por uma libra.
@@ -1155,9 +1155,9 @@ SÉRGIO RIBEIRO DA COSTA WERLANG, 36, doutor em Economia pela Universidade de Pri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-060</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-060</field>
+<field name="date">950827</field>
+<text_pt>
 GILSON SCHWARTZ 
 Da equipe de articulistas 
 Aconteceu no auditório da Folha, na última sexta-feira, o 5º Encontro Brasileiro de Estudos sobre Japão e Pacífico.
@@ -1179,9 +1179,9 @@ Parece assim que a indiferença é mútua e as possibilidades de construir um novo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-061</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-061</field>
+<field name="date">950827</field>
+<text_pt>
 Engana-se quem imaginar que o afrouxamento do compulsório melhorará a crise de liquidez do sistema. O dinheiro que o Banco Central está injetando na economia destina-se unicamente a melhorar a liquidez de instituições financeiras maiores, impedindo a ampliação da crise financeira.
 O dinheiro bate no caixa do banco, e lá permanece. De um lado, porque os bancos não pretendem emprestar dinheiro a instituições menores, através do mercado de Certificados de Depósitos Interbancários (CDI). De outro, porque não se arriscam a emprestar para clientes, com medo da inadimplência. O dinheiro fica entre bancos.
 Trata-se de um jogo arriscado por parte do Banco Central. Se esse circuito não for ampliado, aumentará o número de pequenas instituições sujeitas a problemas sérios de liquidez. No atual clima de paroxismo, cada pequena instituição liquidada produzirá um tremor muitas vezes maior do que o seu rombo.
@@ -1201,9 +1201,9 @@ A coluna correu o risco de descrever uma realidade que estava por vir. Acredita 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-062</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-062</field>
+<field name="date">950827</field>
+<text_pt>
 ANTONIO KANDIR 
 O governo encaminhou na semana passada ao Congresso a parte inicial de sua proposta de reforma tributária. Frise-se o inicial, uma vez que a reforma tributária não se limitará ao apresentado na última semana, quer porque falta o Executivo encaminhar novas medidas (notadamente os projetos de lei relativos ao IRPJ e IRPF), quer porque o Congresso terá papel ativo nesse processo.
 Complexa em sua engenharia política, dada a necessidade de ser neutra quanto à repartição de receitas entre a União, Estados e municípios, ela é muito importante para o desenvolvimento do país nos anos à frente. Aprovada, os investimentos produtivos receberão estímulo poderoso e o país ganhará impulso adicional em sua trajetória de crescimento.
@@ -1223,9 +1223,9 @@ ANTONIO KANDIR, 42, engenheiro, doutor em Economia, é deputado federal (PSDB-SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-063</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-063</field>
+<field name="date">950827</field>
+<text_pt>
 Taxas de juro elevadas atraíram US$ 12 bilhões em capital estrangeiro 
 Da Reportagem Local 
 Desde julho, a oferta de dinheiro tem crescido. É o resultado de duas ações do governo.
@@ -1253,9 +1253,9 @@ Ele lembra, porém, que o próprio aumento da procura por títulos públicos pode aj
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-064</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-064</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 Os negócios de um dia entre bancos com títulos privados (CDI) estão pagando um juro menor do que os feitos com títulos públicos (over-Selic). A razão: desconfiança ou, como preferem os operadores do mercado, risco de crédito.
 Na prática, como só tem acesso ao crédito no CDI banco que tem a ``ficha limpa" (com menor risco), o juro cobrado é também menor.
@@ -1273,9 +1273,9 @@ Até o dia 18, os fundos de investimento do Bradesco, Real, Itaú, Banco do Brasil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-065</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-065</field>
+<field name="date">950827</field>
+<text_pt>
 MARIA DA CONCEIÇÃO TAVARES 
 Para além das manifestações mais imediatamente perceptíveis _um verdadeiro e deprimente festival de maracutaias, pusilanimidade, mistificação e falta de ética_, o episódio do Banco Econômico expressa, com riqueza de detalhes, a natureza da grave crise institucional em que vem se debatendo o país.
 Essa enésima crise de nossa história republicana desenvolve-se, nesta conjuntura particular, como parte do processo de implantação ``tardia" no Brasil das propostas neoliberais consubstanciadas nas políticas econômicas das coligações conservadoras que, com um discurso autoproclamado modernizante, assumem o poder, particularmente a partir da administração Collor.
@@ -1301,9 +1301,9 @@ MARIA DA CONCEIÇÃO TAVARES, 65, economista, é professora emérita da Universidade
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-066</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-066</field>
+<field name="date">950827</field>
+<text_pt>
 FERNANDO RODRIGUES 
 Da Reportagem Local 
 Um ano depois de sair da cadeira de ministro da Fazenda, Rubens Ricupero, 58, se prepara para assumir o mais alto posto já ocupado por um brasileiro na burocracia internacional da Organização das Nações Unidas (ONU).
@@ -1337,9 +1337,9 @@ Ricupero - As idéias me parecem corretas, inclusive a de permitir um imposto com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-067</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-067</field>
+<field name="date">950827</field>
+<text_pt>
 Fiesp teme que demissões nas montadoras criem "efeito cascata" e vê no aperto do crédito a raiz do atual desaquecimento industrial
 ANTONIO CARLOS SEIDL 
 Da Reportagem Local 
@@ -1363,9 +1363,9 @@ Piva não culpa, porém, o governo FHC pela lentidão das reformas e do ajuste fisc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-068</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-068</field>
+<field name="date">950827</field>
+<text_pt>
 ARTHUR PEREIRA FILHO 
 Da Reportagem Local 
 A queda nas vendas e os elevados estoques de carros não devem provocar, a curto prazo, mais demissões nas montadoras.
@@ -1385,9 +1385,9 @@ A Volks, conta Jorge, optou por renegociar com fornecedores, captar recursos no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-069</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-069</field>
+<field name="date">950827</field>
+<text_pt>
 DEMIAN FIOCCA 
 A sonegação é o item principal da presente estrutura tributária. A própria Receita Federal estima que se perdem cerca de 50% do que por lei deveria estar nos cofres públicos. É mais do que qualquer imposto que exista ou deixe de existir. E isso ocorre por opção política.
 Em maio de 93, quando da nomeação de Osiris Lopes Filho para chefiar a Receita, Janio de Freitas informava nesta Folha que parlamentares ligados ao PFL, a Maluf e a Sarney pressionaram o então presidente Itamar contra sua indicação.
@@ -1399,9 +1399,9 @@ DEMIAN FIOCCA, 27, é economista e pós-graduando do curso de Economia da Universi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-070</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-070</field>
+<field name="date">950827</field>
+<text_pt>
 FERNANDO MONTERO 
 O caso do Banco Econômico suscita especulações precipitadas sobre a possibilidade de uma corrida bancária. Os esforços do BC para instrumentalizar uma operação de salvamento de depósitos, aliados à restituição de uma parcela importante dos compulsórios bancários, diminuem o risco da disseminação de tensões.
 Mesmo longe de uma corrida sobre depósitos, o episódio lembra que essa é uma ameaça latente para qualquer banco e/ou sistema bancário fracionário, i.e., com menos de 100% dos depósitos em caixa. É a confiança do público que mantém o sistema em pé, uma vez que as instituições não guardam nos cofres todo o dinheiro depositado nelas e, por conseguinte, não podem honrar esses depósitos imediatamente à demanda dos seus clientes.
@@ -1424,9 +1424,9 @@ Hoje, excepcionalmente, ÁLVARO ANTÔNIO ZINI JR. não escreve nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-071</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-071</field>
+<field name="date">950827</field>
+<text_pt>
 LUIZ CARLOS MENDONÇA DE BARROS 
 Em minha opinião _opinião de engenheiro com 28 anos de trabalho como analista no mercado financeiro_, a forma mais correta de se avaliar o estoque da dívida pública federal sujeita às taxas de juros do mercado é considerar o volume de títulos do Tesouro em mãos do setor privado _em março deste ano R$ 40,9 bilhões_ e o passivo não-monetário ajustado do Banco Central _R$ 42 bilhões na mesma data.
 No passivo não-monetário do BC estão incluídos os títulos de sua responsabilidade _excluídos os utilizados na operação de troca de lastro com os Estados_ e os compulsórios das instituições financeiras _excluído o relativo aos depósitos à vista dos bancos comerciais e que faz parte da chamada base monetária.
@@ -1441,9 +1441,9 @@ LUIZ CARLOS MENDONÇA DE BARROS, 52, engenheiro, é diretor do Banco Matrix S/A e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-072</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-072</field>
+<field name="date">950827</field>
+<text_pt>
 Microsoft entrega 40 mil cópias a distribuidores e já tem nova remessa 
 RODOLFO LUCENA 
 Editor de Informática 
@@ -1465,9 +1465,9 @@ A BraSoftware do shopping Ibirapuera (zona sul de São Paulo) vendeu 1.600 cópias
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-073</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-073</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação
 A euforia em relação ao ``Windows 95" não parece ter contaminado empresas ouvidas pela Folha nos primeiros dias de comercialização do produto.
 A General Motors, por exemplo, não deverá instalar o programa neste ano.
@@ -1482,9 +1482,9 @@ Nos EUA, pesquisa com 109 executivos da área de informática divulgada pelo jorna
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-074</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-074</field>
+<field name="date">950827</field>
+<text_pt>
 A assessoria de empresa da Tropcom informou incorretamente o preço do "Windows 95". O preço correto é R$ 129, diferentemente do que foi publicado à pág. 6-5 (Informática) de hoje e à pág. 2-8 (Dinheiro) de 27/8.ERRAMOS
 Programa custa mais caro no país  
 Da Reportagem Local 
@@ -1500,9 +1500,9 @@ O ``Windows 95" é um programa que aciona os comandos do computador. Sem ele, a m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-075</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-075</field>
+<field name="date">950827</field>
+<text_pt>
 OSIRIS LOPES FILHO 
 Não pude assistir à entrevista do presidente FHC, por ocasião da apresentação do projeto de reforma tributária a ser encaminhado ao Congresso. Realmente, lamento não ter visto o desempenho do presidente, pois o considero imbatível no discurso coloquial. Oratória de voz intimista, macia, sem arroubos de construção estilística ou de grandiloquência tonitruante.
 A lógica do desenvolvimento dessas falas presidenciais realmente é convincente. Às vezes me sinto desconfortável por não absorver integralmente a racionalidade do discurso presidencial.
@@ -1523,9 +1523,9 @@ OSIRIS DE AZEVEDO LOPES FILHO, 55, advogado, é professor de Direito Tributário e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-076</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-076</field>
+<field name="date">950827</field>
+<text_pt>
 MARCOS CINTRA 
 A proposta de "reforma" tributária do governo é uma piada de mau gosto. Tem três componentes principais. Faz uma faxina no sistema gerado pela Constituição de 88; esboça uma tímida reforma para 1998; e coloca dois bodes em nossa casa.
 A faxina é bem-vinda. Introduz alterações normativas no sistema tributário nacional, fazendo ajustes e correções para evitar distorções como, por exemplo, a emergente guerra fiscal entre Estados e municípios, e atenua a tributação das exportações, da cesta básica e dos bens de capital.
@@ -1553,9 +1553,9 @@ MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE, 49, doutor em Economia pela Universidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-077</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-077</field>
+<field name="date">950827</field>
+<text_pt>
 Os rendimentos pagos ou creditados por condomínios a profissionais liberais, trabalhadores autônomos e empreiteiros de obras (desde que sejam pessoas físicas), como remuneração por serviços prestados ao condomínio sem vínculo empregatício com a fonte pagadora, não estão sujeitos à retenção do Imposto de Renda na fonte. (Fund.: ato declaratório CST nº 29/86)
 
 Prêmios
@@ -1577,9 +1577,9 @@ As notas desta coluna são fornecidas pela IOB-Informações Objetivas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-078</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-078</field>
+<field name="date">950827</field>
+<text_pt>
 BC desmonta estrutura de compulsórios; bancos se defendem da inadimplência 
 Da "Agência Dinheiro Vivo"
 O Banco Central apressou na semana passada o desmanche da estrutura de recolhimentos compulsórios, reinjetando na economia cerca de R$ 3 bilhões, que não devem ir para operações de crédito.
@@ -1593,9 +1593,9 @@ O mercado futuro prevê para o mês que vem um CDI ligeiramente acima de 3,4%. Mas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-079</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-079</field>
+<field name="date">950827</field>
+<text_pt>
 Da "Agência Dinheiro Vivo"
 A instabilidade política na Argentina está mexendo com o mercado de câmbio no Brasil. Pressiona sobretudo os preços do dólar flutuante. Desde terça-feira passada a alta no flutuante é alimentada pela acentuada procura por dólar na fronteira com a Argentina.
 A demanda oscila conforme a intensidade dos boatos sobre uma eventual queda do ministro da Economia daquele país, Domingo Cavallo. A operação de vender dólar cabo ou flutuante na divisa é vantajosa para os bancos.
@@ -1605,9 +1605,9 @@ A crise argentina não poderia vir em pior hora para os bancos que desejam captar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-080</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-080</field>
+<field name="date">950827</field>
+<text_pt>
 VERÔNICA SINISCALCHI 
 Da Reportagem Local 
 A Alcoa Alumínio S.A., empresa de origem norte-americana, encerrou o ciclo de palestras sobre ``A Busca da Qualidade Total", promovido pela Folha desde maio de 94.
@@ -1629,9 +1629,9 @@ Começou com uma capacidade de 30 mil toneladas anuais de alumínio e 65 mil de al
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-081</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-081</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação 
 O ciclo ``A Busca da Qualidade Total" será encerrado amanhã com um debate sobre ``Caminhos da Qualidade".
 Participarão da mesa: Geraldo Caravantes, professor de pós-graduação em administração da Universidade Federal do Rio Grande do Sul; Flávio Augusto Picchi, diretor da Picchi Consultoria; Francisco Starke Rodrigues, sócio-diretor da Trevisan Consultores; e Luiz Tavares de Carvalho, gerente da área de fabricação de eixos da Mercedes-Benz do Brasil.
@@ -1639,9 +1639,9 @@ A palestra será às 19h30, no auditório da Folha, al. Barão de Limeira, 425, 9º a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-082</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-082</field>
+<field name="date">950827</field>
+<text_pt>
 Depósitos em setembro podem ter rentabilidade do FIF de 90 dias e saque diário 
 GABRIEL J. DE CARVALHO 
 Da Redação 
@@ -1664,9 +1664,9 @@ A partir de outubro, na hora de uma despesa, diz Santalucia, o ideal será dar pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-083</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-083</field>
+<field name="date">950827</field>
+<text_pt>
 Novos fundos de curto prazo renderão abaixo da inflação 
 Da Redação 
 A partir de outubro, os novos fundos de curto prazo vão render abaixo da inflação e o investidor médio precisará aprender a fazer fluxo de caixa.
@@ -1676,9 +1676,9 @@ Santalucia prevê que o dólar continuará subindo abaixo dos juros e vê nos fundos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-084</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-084</field>
+<field name="date">950827</field>
+<text_pt>
 Como se previa, o aumento do redutor da TR de 1% para 1,2% desde 1º de agosto fez com que a poupança perdesse para os fundos de investimento neste mês em termos de rentabilidade média, com exceção dos de curto prazo.
 Em julho, a poupança só perdeu para o CDB de grande investidor no segmento de renda fixa. Este mês, a poupança cairá no ranking.
 A caderneta do dia 1º deverá render 3,1175%, contra 3,46% líquidos do CDB (ajustado de 22 para 23 dias úteis, para efeito de comparação), 3,26% na média dos fundos de commodities e 3,28% na dos fundos de renda fixa.
@@ -1691,9 +1691,9 @@ O mercado espera, do Banco Central, alguma mudança nas regras dos FIFs para evit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-085</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-085</field>
+<field name="date">950827</field>
+<text_pt>
 Com mercado paralisado fica mais fácil encontrar um negócio vantajoso 
 VERA BUENO DE AZEVEDO 
 Da Reportagem Local 
@@ -1721,9 +1721,9 @@ Assim, embora pareça contraditório, a paciência é um requisito fundamental para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-086</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-086</field>
+<field name="date">950827</field>
+<text_pt>
 Os lançamentos de novos prédios praticamente pararam após a edição da medida provisória 1.053, em julho passado.
 É que a MP proibiu as construtoras e incorporadoras de cobrarem, no reajuste anual das prestações, a diferença entre o indexador previsto no contrato e o custo real da obra: o chamado ``resíduo".
 ``Hoje, as empresas só estão vendendo imóveis remanescentes de lançamentos, que já estão prontos, ou em fase final de obras, quando o custo está definido e não há risco de altas inesperadas nos materiais e mão-de-obra", diz Sérgio Ferrador, vice-presidente do Secovi (sindicato da habitação).
@@ -1736,9 +1736,9 @@ Num negócio direto entre duas pessoas, uma saída legal para o pagamento parcelad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-087</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-087</field>
+<field name="date">950827</field>
+<text_pt>
 Foi cassada a liminar concedida por um juiz federal de Mato Grosso contra o uso da TR na atualização dos saldos devedores dos financiamentos do SFH.
 A liminar havia sido concedida em ação civil pública (vale para todos os mutuários) proposta pelo Ministério Público daquele Estado. No lugar da TR seria usado o INPC (índice de inflação), o que daria uma correção mais baixa, favorável, portanto, aos mutuários.
 Isso mostra que essa questão continua polêmica. Embora o Supremo Tribunal Federal tenha julgado a TR inconstitucional no âmbito do SFH, a alegação da Caixa Econômica Federal e demais bancos é que os contratos prevêem a correção dos saldos pelo mesmo índice da poupança (de onde saem os recursos dos financiamentos).
@@ -1747,9 +1747,9 @@ Para mutuários cujo contrato tem a cobertura do FCVS (Fundo de Compensação de Va
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-088</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-088</field>
+<field name="date">950827</field>
+<text_pt>
 Quem está inadimplente (com pagamentos em atraso) também tem direitos, garantidos pelo Código de Defesa do Consumidor (lei nº 8.078/90).
 O artigo 42 determina que ``na cobrança de débitos, o consumidor inadimplente não será exposto a ridículo, nem será submetido a qualquer tipo de constrangimento ou ameaça".
 Já o artigo 71 estabelece que quem ``utilizar, na cobrança de dívidas, de ameaça, coação, constrangimento físico ou moral, afirmações falsas, incorretas ou enganosas ou de qualquer outro procedimento que exponha o consumidor, injustificadamente, a ridículo ou interfira com seu trabalho, descanso ou lazer" fica sujeito ao pagamento de multa e detenção de três meses a um ano.
@@ -1758,9 +1758,9 @@ O credor só pode usar os meios legais existentes. Ou seja, entrar na Justiça com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-089</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-089</field>
+<field name="date">950827</field>
+<text_pt>
 Mas apenas 28% dos paulistanos acreditam que a maioria da população vá deixar o veículo na garagem 
 VICTOR AGOSTINHO 
 PATRICIA DECIA 
@@ -1789,18 +1789,18 @@ Sobre o rodízio nas páginas 2 e 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-090</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-090</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 A pesquisa do Datafolha, realizada na última segunda, ouviu 660 pessoas em São Paulo. É um levantamento estatístico por amostragem estratificada por sexo, idade e classificação socioeconômica.
 A direção Datafolha é exercida pelos sociólogos Antonio Manuel Teixeira Mendes e Gustavo Venturi, tendo como assistentes Mauro Francisco Paulino e a estatística Renata Nunes Cesar. A direção comercial é de Eneida Nogueira e Silva. A coordenação e análise dos trabalhos foi de Luciana Chong. O planejamento da amostra foi feito por Teresinha Peret.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-091</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-091</field>
+<field name="date">950827</field>
+<text_pt>
 Se adesão ao programa do governo for total, cerca de 850 mil carros deverão deixar de circular na cidade 
 Da Reportagem Local 
 Cerca de 850 mil carros deverão ficar fora de circulação diariamente se a adesão ao rodízio proposto pela Secretaria do Meio Ambiente for total.
@@ -1823,9 +1823,9 @@ Nos cinco dias da operação foram multados 12.528 veículos. Em 94, quando só havi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-092</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-092</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 O ônibus foi escolhido pela maioria das pessoas que pretendem aderir ao rodízio de carros como meio de transporte para os dias de teste. Segundo pesquisa do Datafolha, 75% dos entrevistados devem se locomover de ônibus na próxima semana.
 A São Paulo Transportes, empresa que gerencia os ônibus da cidade, vai aumentar a frota em circulação a partir de segunda-feira, no chamado horário ``entrepico", das 8h às 16h.
@@ -1838,9 +1838,9 @@ As placas nas laterais dos ônibus trazem um resumo do itinerário com as principa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-093</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-093</field>
+<field name="date">950827</field>
+<text_pt>
 Elas usam planos e estratégias complexas para alcançar seu objeto de desejo, os mais variados tipos de homens 
 "Se faço alguém se sentir rei, gosto de me sentir rainha. Quero ser absoluta na relação"
 PAULO SAMPAIO 
@@ -1866,9 +1866,9 @@ Cristina está no meio de uma operação-resgate, mas tem muitas histórias isoladas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-094</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-094</field>
+<field name="date">950827</field>
+<text_pt>
 Desde o meu primeiro namorado _um cara quase 15 anos mais velho_, eu nunca fui escolhida: prefiro escolher. Sempre joguei para ganhar. No caso desse cara, ele tinha outra namorada, mas eu esperei um ano até conseguir.
 Comecei a frequentar a casa dele com um amigo comum que era a fim de mim. Quando já estava mais íntima, ele me convidou para sair. Apesar das mil fantasias que eu fazia sobre aquele apartamento, ele me levou para vacinar o cachorro. Mesmo assim, aproveitei um sinal fechado na avenida Brasil para lascar um beijo nele.
 Namoramos um tempão. Depois disso, tive muitos outros amantes, de diretor de teatro a político. Sempre embarquei com tudo nas histórias. Quando namorei o diretor de marketing de uma empresa de bebida, fiz curso de coquetelaria e me diplomei ``bar tender".
@@ -1882,9 +1882,9 @@ PERLA NAHUM, 42, é promoter
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-095</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-095</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 As opiniões se dividem quando se trata de lenços de seda amarrados no pescoço ou na cintura. Uns dão a dica a favor, outros, contra.
 O costureiro Guilherme Guimarães, preferido da embaixatriz Lúcia Flecha de Lima, dá o seu voto favorável.
@@ -1900,9 +1900,9 @@ Ele completa, com uma outra opção:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-096</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-096</field>
+<field name="date">950827</field>
+<text_pt>
 JAIRO BOUER 
 Especial para a Folha 
 Pessoas que receberam transfusões de sangue antes de 1991 podem ter se contaminado com a hepatite C _causada por um vírus que demora décadas para se manifestar e que, em alguns casos, leva à ``falência" total do fígado.
@@ -1923,9 +1923,9 @@ Na doença crônica, o vírus destrói lentamente as células do fígado. O órgão deix
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-097</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-097</field>
+<field name="date">950827</field>
+<text_pt>
 O ministro Adib Jatene, da Saúde (foto), está distribuindo relatório aos deputados federais em sua campanha para aprovação da CMF (Contribuição sobre Movimentação Financeira), mostrando que os atuais recursos são insuficientes para o cumprimento de programas prioritários na área da saúde pública.
 
 A FRASE
@@ -1947,9 +1947,9 @@ O retorno de um paciente ao trabalho, após sofrer uma cirurgia, varia segundo o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-098</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-098</field>
+<field name="date">950827</field>
+<text_pt>
 Famosos dizem que teriam problemas se ganhassem prêmio de R$ 40 milhões e não saberiam como gastar o dinheiro 
 Da Reportagem Local 
 Amanhã é o sorteio da Supersena acumulada, que vai dar mais de R$ 40 milhões de prêmio. Dinheiro suficiente para fazer mil vezes a volta ao mundo (o pacote mais exclusivo do mercado custa R$ 40 mil). A Folha perguntou a três personalidades como elas gastariam o dinheiro.
@@ -1963,9 +1963,9 @@ O secretário estadual do Meio Ambiente, Fábio Feldmann, é o único cujo sonho cer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-099</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-099</field>
+<field name="date">950827</field>
+<text_pt>
 MAURICIO STYCER 
 Da Reportagem Local 
 O urologista mineiro Luiz Otavio Torres apresentou no 3º Congresso Latino-Americano de Impotência Sexual, encerrado há uma semana em São Paulo, duas notícias que interessam de perto a homens e mulheres.
@@ -1982,9 +1982,9 @@ Conseguiu. ``A pesquisa mostra que existe muito folclore. As pessoas falam de pê
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-100</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-100</field>
+<field name="date">950827</field>
+<text_pt>
 Até 300 escoteiros vão participar da orientação aos motoristas que saírem de carro durante os dias do rodízio 
 Da Reportagem Local 
 Cerca de mil pessoas vão trabalhar na fiscalização e orientação do rodízio que começa amanhã em 39 cidades (Região Metropolitana de São Paulo).
@@ -1996,18 +1996,18 @@ Zulauf decretou que a partir de amanhã só guarda carro na garagem da secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-101</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-101</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 O empresário Paulo Maluhy vai escolher em qual dia irá aderir ao rodízio. Ele tem dois carros, mas vai usar táxi uma vez na semana. A decisão foi tomada com protestos.
 ``Por que não proíbem anúncios de automóveis na TV?". Outra possibilidade, segundo ele, seria o Estado ou a prefeitura subsidiar metade do preço do automóvel. ``Paguei 100% para usar o carro todo dia. Se tivesse pago 50%, usaria dia sim, dia não." Maluhy diz que vai aderir por ``espírito de solidariedade" a uma problema sobre o qual não tem culpa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-102</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-102</field>
+<field name="date">950827</field>
+<text_pt>
 Sindicato diz que frota de 35 mil carros é suficiente para atender usuários e recomenda que não se pague por fora 
 Da Reportagem Local 
 O Sindicato dos Taxistas estima que a procura por táxis deve aumentar 20% a partir de amanhã.
@@ -2031,9 +2031,9 @@ Para ela, a solução definitiva é uma campanha que enfoque mais educação no trâns
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-103</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-103</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial 
 Peão brasileiro de maior prestígio nos EUA, Adriano Moraes, 25, campeão mundial no ano passado pela PBR (Professional Bull Riders), gosta de ser chamado de caubói de Cristo.
 Moraes mora há um ano e meio nos EUA, onde disputa provas em touro pelo torneio profissional americano.
@@ -2059,9 +2059,9 @@ Moraes - Não e nem quero. Quero ter uma vida digna, do jeito que eu tenho. Não p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-104</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-104</field>
+<field name="date">950827</field>
+<text_pt>
 Famosos dizem que teriam problemas se ganhassem prêmio de R$ 40 milhões e não saberiam como gastar o dinheiro 
 Da Reportagem Local 
 Amanhã é o sorteio da Supersena acumulada, que vai dar mais de R$ 40 milhões de prêmio. Dinheiro suficiente para fazer mil vezes a volta ao mundo (o pacote mais exclusivo do mercado custa R$ 40 mil). A Folha perguntou a três personalidades como elas gastariam o dinheiro.
@@ -2076,9 +2076,9 @@ O secretário estadual do Meio Ambiente, Fábio Feldmann, é o único cujo sonho cer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-105</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-105</field>
+<field name="date">950827</field>
+<text_pt>
 Espero que a partir de amanhã possamos conversar sobre futebol, afinal a bola anda rolando por aí, né? 
 ALBERTO HELENA JR. 
 Da Equipe de Articulistas 
@@ -2099,9 +2099,9 @@ Alberto Helena Jr. escreve aos domingos, segundas e quartas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-106</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-106</field>
+<field name="date">950827</field>
+<text_pt>
 SÍLVIO LANCELLOTTI 
 Começa hoje, debaixo de muitas dúvidas e de inúmeras polêmicas, o Campeonato Italiano 95-96. As dúvidas são financeiras. As polêmicas, políticas.
 De fato, apesar da sua invejável organização, o ``calcio" atravessa momento de nervosa transição.
@@ -2116,9 +2116,9 @@ Pena, para o resto do mundo, que não poderá vê-los. No acordo com Berlusconi, in
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-107</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-107</field>
+<field name="date">950827</field>
+<text_pt>
 Outro problema sério que a federação peninsular espera solucionar é a questão das arbitragens: dos 36 mediadores em ação na temporada de 94/95, 6 foram sumariamente encostados pelo designador Paolo Casarin. Mais dez estão sob suspeição de caráter. Numa certa noite de meados de agosto, os dez fugiram do centro de Sportilia, onde faziam um curso compulsório de atualização.
  
 Paralelamente, dos 36, exatos 19 não ultrapassaram os índices mínimos de preparo físico que a federação da Bota exige dos seus mediadores. Um deles, o internacional siciliano Angelo Amendolia, humilhado publicamente por Casarin, se demitiu e arregaçou as suas mágoas com uma entrevista explosiva aos jornais, acusando o designador de ``proteger os seus amigos pessoais".
@@ -2127,9 +2127,9 @@ Amendolia também denunciou um fato inacreditável: Casarin estaria interceptando 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-108</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-108</field>
+<field name="date">950827</field>
+<text_pt>
 O professor do Departamento de Educação Física e Esportes da PUC Ronaldo Ferreira Negrão ilumina o debate sobre os acontecimentos do domingo passado no Pacaembu.
 Ele pergunta qual é a diferença entre os conflitos causados pelos grupos religiosos, racistas e de torcedores organizados. E responde que não há diferença.
 Todos têm uma concepção totalitária. Uns lutam por seu deus, outros por sua cor e os últimos transformam seus times em algo sagrado, o que os impede de reconhecer qualquer cor que não seja a de seus clubes.
@@ -2144,9 +2144,9 @@ Em resumo, não se acabará com a violência sem mudar a estrutura do futebol.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-109</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-109</field>
+<field name="date">950827</field>
+<text_pt>
 Inspetor-chefe faz reservas ao plano da Federação Paulista de Futebol 
 OTÁVIO DIAS 
 De Londres 
@@ -2179,9 +2179,9 @@ Drew - Isso pode aumentar a violência fora dos estádios. As pessoas não poderão 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-110</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-110</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 Quatro medidas antiviolência já foram adotadas pela Federação Paulista de Futebol e pela PM depois da batalha entre palmeirenses e são-paulinos do último domingo.
 Faixas e bandeiras com os símbolos das torcidas organizadas já estão proibidas nos estádios paulistas. Também foi vetada a entrada nos estádios de torcedores com camiseta das torcidas organizadas.
@@ -2193,9 +2193,9 @@ Como pena alternativa, a lei incluiria até proibir torcedores violentos de entra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-111</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-111</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal do Rio e da Folha Sudeste 
 O Flamengo, com seis titulares novos para o Brasileiro, preparou uma grande festa para hoje, na estréia oficial do atacante Edmundo. 
 A festa seria no Maracanã, mas o clube do Rio terá de realizá-la no estádio de seu rival: o Vasco.
@@ -2215,9 +2215,9 @@ Globosat/GNT, 17h, ao vivo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-112</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-112</field>
+<field name="date">950827</field>
+<text_pt>
 Após 18 anos na seleção brasileira de basquete, o ala planeja passar a camisa 14 a Rogério em Atlanta-96 
 EDGARD ALVES
 Enviado especial a Neuquén (Argentina) 
@@ -2250,9 +2250,9 @@ Rogério - Psicologicamente, sim. Tenho treinado firme.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-113</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-113</field>
+<field name="date">950827</field>
+<text_pt>
 JOSÉ HENRIQUE MARIANTE 
 Enviado especial a Spa (Bélgica) 
 Em treino fora do comum, Gerhard Berger (Ferrari) assegurou ontem a pole para o GP da Bélgica, em Spa, que acontece hoje.
@@ -2268,9 +2268,9 @@ Globo, ao vivo, às 9h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-114</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-114</field>
+<field name="date">950827</field>
+<text_pt>
 Ponto de ebulição
 Ele se diz um apaixonado por diabo, mulher e bruxa. Mas Carlos Roberto Figueiredo Nogueira, 45 anos, só pensa mesmo naquilo _bruxaria. Professor de história medieval na USP, começou no auge dos anos de chumbo _e do nascimento de cultos e ordens esotéricos. Ao mesmo tempo que militava, queria entender a busca do homem pelo tal outro mundo. Aos 30 anos, largou a politicagem e caiu de boca nas asas de morcego, dentes de rato e outras iguarias do gênero _em livros. Agora doutor no assunto, comemora o lançamento do seu ``O Nascimento da Bruxaria", pela editora Imaginário. Xô, urubu!
 *
@@ -2305,9 +2305,9 @@ Só abrindo para ver.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-115</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-115</field>
+<field name="date">950827</field>
+<text_pt>
 Preferido por vários brasileiros de passagem por Nova York, o hotel Regency ganha novo restaurante _com toque quatro estrelas.
 *
 O responsável pelo novo point _ainda sem nome_ é o chef francês _da Alsácia_ Jean-Georges Vongerichten, mago da fusão das cozinhas francesa e asiática _e dono do Vong, outro point de descolados da cidade.
@@ -2328,9 +2328,9 @@ Nova starlet da marca _no lugar de Caroline de Mônaco, que era uma espécie de co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-116</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-116</field>
+<field name="date">950827</field>
+<text_pt>
 Fields, perfeccionista do excesso, exerce a arte da extravagância, desce pelo precipício até aquele ponto do qual sem ajuda não é mais possível voltar 
 HAROLD BLOOM 
 Especial para a Folha  
@@ -2354,9 +2354,9 @@ Tradução de ARTHUR NESTROVSKI
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-117</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-117</field>
+<field name="date">950827</field>
+<text_pt>
 O `menino rebelde' e o `menino mimado' (segundo Sganzerla) encontram-se no Rio para um diálogo sobre seus filmes 
 Enviado especial ao Rio 
 A convite da Folha, reuniram-se no Rio os diretores Rogério Sganzerla e Júlio Bressane para um diálogo sobre o cinema. Havia pelo menos dois anos que estes amigos não se encontravam. No final dos anos 60, os dois lideraram um dos movimentos mais fecundos e transformadores do cinema do país, em torno da produtora Belair e a partir de filmes como ``O Bandido da Luz Vermelha" (de Sganzerla, 1968) e ``Um Anjo Nasceu" (de Bressane, 1969).
@@ -2368,9 +2368,9 @@ Sganzerla, 49, e Bressane, 49, já não cabem na imagem de furiosos transgressores
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-118</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-118</field>
+<field name="date">950827</field>
+<text_pt>
 Por que fazer cinema _e afinal o que é o cinema? Foram estas as questões iniciais propostas pela Folha para o diálogo de Júlio Bressane com Rogério Sganzerla.
 Por impossível que seja concluir sobre a razão do cinema, por si só as questões definem o lugar de onde falam estes dois diretores. Um lugar em tudo diverso daquele onde transitam hoje, unânimes, boa parte dos realizadores. A nenhum dos dois, em nenhum momento, cinema sugere indústria, comércio ou entretenimento. Cinema é, para início de conversa, prazer, exploração de limites, autoconhecimento, reprodução de processos mentais.
  
@@ -2397,9 +2397,9 @@ Bressane - Eu não conhecia a formulação do Resnais, mas é este o conceito: a ima
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-119</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-119</field>
+<field name="date">950827</field>
+<text_pt>
 O Cinema Novo são três filmes, diz Bressane 
 Do enviado especial ao Rio 
 A seguir, Bressane e Sganzerla conversam sobre Glauber Rocha e o Cinema Novo. Inicialmente influenciados pelo movimento, ao darem início à produção da Belair, os diretores romperam com os cinemanovistas. A ruptura aprofundou-se com a instalação da Embrafilme e a adoção por vários membros do Cinema Novo de um modelo industrial de que Sganzerla e Bressane discordavam.
@@ -2424,9 +2424,9 @@ Bressane - O cinema brasileiro está a uma distância abissal das novas tecnologia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-120</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-120</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial ao Rio 
 ``A música brasileira é mais que o cinema: é um tesouro mundial", afirma Rogério Sganzerla no trecho a seguir de seu diálogo com Júlio Bressane, que acaba de realizar ``O Mandarim", baseado na vida do cantor Mário Reis. Do filme, participam alguns dos principais compositores brasileiros, como Gilberto Gil e Chico Buarque.
 Para os dois diretores, a música é que oferece o exemplo de liberdade e integridade que o cinema merece copiar. ``Para você conseguir chegar a essa liberdade formal aspirada pelo cinema, é fundamental estar atento à música", diz Sganzerla, que também comenta sua próxima produção, ``Tudo É Brasil". O filme é o último de uma trilogia do diretor sobre a vinda de Orson Welles ao país em 42 para as filmagens de ``It's All True", que nunca foi terminado.
@@ -2453,9 +2453,9 @@ Bressane - Isso é brasileiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-121</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-121</field>
+<field name="date">950827</field>
+<text_pt>
 Sganzerla e Bressane contam como se conheceram nos anos 60 
 Do enviado especial ao Rio 
 ``Em vez de ser um `enfant terrible' (menino rebelde), como eu era considerado, por ser solto na cidade, você era o `enfant gâté' (menino mimado)", conta o catarinense Sganzerla sobre suas impressões de Bressane antes de conhecê-lo pessoalmente. ``Você vinha com a aura do gênio", diz o carioca Bressane.
@@ -2495,9 +2495,9 @@ Sganzerla - A alteridade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-122</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-122</field>
+<field name="date">950827</field>
+<text_pt>
 Júlio Eduardo Bressane de Azevedo nasceu em 1946, no Rio, onde mora.
 Formou-se à época do Cinema Novo. Foi assistente de direção de Walter Lima Jr. em &#147;Menino de Engenho&#148; e co-produtor de &#147;Memórias de Helena&#148;, de David Neves.
 Dirigiu os documentários &#147;Lima Barreto: Trajetória&#148; e &#147;Bethânia Bem de Perto&#148;, ambos em 1966.
@@ -2537,9 +2537,9 @@ Os filmes
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-123</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-123</field>
+<field name="date">950827</field>
+<text_pt>
 Livro lançado na França homenageia os cem anos do cinema com compilação de cem filmes invisíveis, obras que morreram antes de nascer; Gide, Sartre, Babel e Burroughs estão entre os autores tratados 
 Orson Welles, em tudo glutão, namorou vários clássicos, além de ``Ulisses" 
 SÉRGIO AUGUSTO 
@@ -2561,9 +2561,9 @@ A primeira lhe tomou quase dez anos e começou com a casual descoberta de vários 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-124</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-124</field>
+<field name="date">950827</field>
+<text_pt>
  "Horóscopo, ou Ninguém Escapa do estino
 Argumento do escritor francês André Gide (1869-1951) para o diretor Marc Allégret. Escrito em 28, é a história de um náufrago que encontra uma enigmática mulher numa ilha. A relação dos dois acaba dando errado "porque assim previu um astrólogo.
 - "Balseiro
@@ -2590,9 +2590,9 @@ John Ford abandonaria o projeto de filmar obra de T.E. Lawrence (1888-1935), que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-125</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-125</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação 
 É do diretor russo Serguei Eisenstein, esse titã do cinema (nas palavras do historiador Georges Sadoul), uma das ambições mais desmedidas da sétima arte: filmar ``O Capital", de Karl Marx.
 Durante décadas, desde a morte de Eisenstein em 1948, aos 50 anos, supuseram historiadores que o projeto era estritamente anedótico. Até que, em 1973, a revista soviética ``Iskousstvo Kino" publicou, pela primeira vez, as anotações do diário de Eisenstein que mostravam a elaboração persistente da idéia.
@@ -2627,9 +2627,9 @@ Tradução de JOSÉ MARCOS MACEDO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-126</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-126</field>
+<field name="date">950827</field>
+<text_pt>
 Da Sucursal do Rio 
 James Cain, Dostoievski, Lampedusa, Maupassant, Camus, Thomas Mann, D'Annunzio foram alguns dos autores adaptados à tela por Luchino Visconti (1906-1976). Por pouco não filmou também Robert Musil (``Os Desatinos do Jovem Toerless", com Helmut Berger, por volta de 1964), Raymond Radiguet (``O Baile do Conde d'Orgel", recém-traduzido no Brasil) e Thomas Mann (não apenas foi um dos que se candidataram a rodar ``A Montanha Mágica", como também pensou em adaptar ``José e Seus Irmãos" para um dos episódios de ``A Bíblia", que Dino De Laurentis preferiu produzir depois, sob as ordens de John Huston).
 Seu projeto mais ambicioso, envolvendo uma obra literária, foi ``Em Busca do Tempo Perdido", de Marcel Proust, que começou a adaptar no final dos anos 60. Chegou a fazer algumas locações em Paris e na Normandia, nos primeiros meses de 1971, mas desentendeu-se com a produtora Nicole Stéphane, e o projeto foi abandonado. 
@@ -2640,9 +2640,9 @@ Em 1972, Joseph Losey (1909-1984) encomendou uma adaptação da mesma obra ao dram
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-127</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-127</field>
+<field name="date">950827</field>
+<text_pt>
 34. Casa do barão de Charlus - interior - noite.
 (...)
 O barão não se levanta, não estende a mão, nem responde à saudação de Marcel.
@@ -2673,9 +2673,9 @@ Tradução de MANUEL DA COSTA PINTO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-128</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-128</field>
+<field name="date">950827</field>
+<text_pt>
 Uma foto do escritor e militar inglês T.E Lawrence publicada à pág. 5-9 (Mais!) de 27/8 foi identificada erroneamente como sendo do escritor D.H. Lawrence.ERRAMOS
 Os filmes invisíveis 
 "O Médico e o Monstro"
@@ -2716,9 +2716,9 @@ Fellini acalentou durante décadas a idéia de transpor esse romance do escritor t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-129</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-129</field>
+<field name="date">950827</field>
+<text_pt>
 A maioria dos diretores do país participou da saga do não-filmado 
 AMIR LABAKI 
 Da Equipe de Articulistas 
@@ -2748,9 +2748,9 @@ Tudo pronto, locações escolhidas, o produtor Civelli indeniza Person e cancela s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-130</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-130</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação 
 Leia a seguir um trecho do roteiro de Luís Sérgio Person para ``A Hora dos Ruminantes", filme nunca realizado, a partir do romance de J.J. Veiga  
 
@@ -2801,9 +2801,9 @@ A voz do cantor comenta: ``A gente de Marinema é pacífica e sabe acolher quem qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-131</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-131</field>
+<field name="date">950827</field>
+<text_pt>
 Joaquim Pedro de Andrade queria filmar a obra de Gilberto Freyre 
 Da Redação 
 A seguir, três trechos do roteiro preparado pelo diretor Joaquim Pedro de Andrade para o filme ``Casa Grande e Senzala", baseado na obra de Gilberto Freyre, que ele não chegou a rodar.
@@ -2852,9 +2852,9 @@ Pe. Manuel - (Fulminando-o com os olhos): Recolha-se à sua cela.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-132</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-132</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação 
 Leia, a seguir, trechos do roteiro de ``Vida Mansa", de Joaquim Pedro de Andrade. O texto, inédito, é de 1984.
 
@@ -2909,9 +2909,9 @@ Xavier deposita Inês, praticamente desmaiada, ao lado de Marina. (...)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-133</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-133</field>
+<field name="date">950827</field>
+<text_pt>
 Modesto Carone, crítico literário e escritor
 ``Gostaria de assistir `Grande Sertão: Veredas', de Guimarães Rosa. A escolha é fácil. É um clássico brasileiro. Escolheria John Ford para dirigi-lo. A obra representa um mundo desaparecido, tema caro ao diretor americano. Ele cuidou muito bem de temas como esse em seus faroestes."
 Antunes Filho, diretor de teatro
@@ -2933,9 +2933,9 @@ Fernanda Torres, atriz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-134</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-134</field>
+<field name="date">950827</field>
+<text_pt>
 ``O Mundo de Sofia" e ``Era dos Extremos" são novidades entre os mais vendidos 
 Da Redação 
 O escritor Paulo Coelho não aparece pela primeira vez na lista dos livros mais vendidos do Mais!. Ela é publicada desde agosto de 94 e é a mais confiável do mercado (leia texto abaixo).
@@ -2951,9 +2951,9 @@ Na categoria não-ficção, aparece ``Era dos Extremos", a história do ``breve" séc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-135</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-135</field>
+<field name="date">950827</field>
+<text_pt>
 A editora Nova Alexandria adquiriu os direitos de tradução e publicação do livro ``O Renascimento Italiano - Cultura e Sociedade na Itália", uma das principais obras do historiador inglês Peter Burke (foto). Na obra, Burke estuda a obra e a vida de grandes artesões, pintores, arquitetos e escritores italianos para analisar esta sociedade entre os séculos 14 e 15.
 
 FILOSOFIA
@@ -2967,9 +2967,9 @@ Acontece em São Paulo, nos dias 1, 2 e 3 de setembro, o encontro ``O Império da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-136</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-136</field>
+<field name="date">950827</field>
+<text_pt>
 ANTONIO CANDIDO 
 Quando a minha geração estava na escola primária, a palavra "nacionalismo" tinha conotação diferente da de hoje. Nos livros de leitura e na orientação das famílias, correspondia em primeiro lugar a um orgulho patriótico de fundo militarista, nutrido de expulsão dos franceses, guerra holandesa e sobretudo do Paraguai. Em segundo lugar vinha a extraordinária grandeza do país, com o território imenso, o maior rio do mundo, as paisagens mais belas, a amenidade do clima. No Brasil não havia frios nem calores demasiados, a terra era invariavelmente fértil, oferecendo um campo fácil e amigo ao homem, generoso e trabalhador. Finalmente, não havia aqui preconceitos de raça nem religião, todos viviam em fraternidade, sem lutas nem violências, e ninguém conhecia fome, pois só quem não quisesse trabalhar passaria necessidade. O famoso livro do conde Afonso Celso, ``Por Que Me Ufano do Meu País" (1900), exprimia no grau de máxima exaltação e máxima ingenuidade essa visão tola e perigosa, que só mais tarde seria ironizada com o nome de ufanismo.
 Nós, meninos, ainda sentíamos os últimos contragolpes da Campanha Nacionalista dos anos da Primeira Grande Guerra, quando homens como Olavo Bilac (autor da letra do ``Hino à Bandeira") lideravam movimentos cívicos a favor do serviço militar obrigatório e da instrução também compulsória (num país onde não se criavam escolas e os fazendeiros proibiam os trabalhadores de aprenderem a ler). Os tiros de guerra, fundados então, alinhavam os moços fardados de cáqui, entoando hinos exaltantes: "Nós somos da pátria a guarda,/ Fiéis soldados por ela amada", advertindo no fim: ``A paz queremos com fervor,/ A guerra só nos causa dor,/ Porém, se a Pátria amada/ For um dia ultrajada,/ Lutaremos com valor".
@@ -2992,9 +2992,9 @@ Ficando no caso paulista, que conheço melhor, aproveito para lembrar de que mane
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-137</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-137</field>
+<field name="date">950827</field>
+<text_pt>
 Nacionalismo é uma palavra arraigada na pulsação da sociedade 
 Nacionalismo tinha, pois, um primeiro significado, digamos positivo, que exprimia o patriotismo normal e correspondia ao grande esforço de conhecer o país. Mas quando apelava para palavras como "brasilidade, começava a se alterar e adquirir o sentido negativo de conservadorismo político, social e cultural; de sentimento antipopular e simpatia pelas soluções do autoritarismo de direita. Por isso, era palavra suspeita aos democratas mais consequentes e a toda a esquerda. Com os seus toques de xenofobia, patriotada, autoritarismo e saudosismo, era um conceito e uma posição que desejavam prolongar o passado e usá-lo para envenenar o presente, opondo-se a concepções mais humanas, isto é, às que miravam o futuro e procuravam pensar os problemas da sociedade além do âmbito das nações, como o socialismo, mais atento ao conceito de luta das classes e de solidariedade internacional dos trabalhadores, do que aos estados nacionais se afirmando com vontade de poderio.
 Eis senão quando, no começo dos anos 40, a meca dos socialistas daquele tempo, a União Soviética, sente a ameaça e depois sofre a invasão alemã. Sob este impacto, começou a revalorizar o seu passado, os seus heróis nacionais (alguns dos quais execrados até então), tornando-os protagonistas de filmes patrióticos: Alexandre Nevski, Ivan, o Terrível, Pedro, o Grande, Kutuzof. Ao mesmo tempo pôs-se a cultuar a bandeira, o solo sagrado, e a verberar, não o inimigo de classe, mas o "inimigo tradicional, que vinha das planícies ocidentais _niemetz, cavaleiro teutônico, nazista. O hino internacional dos trabalhadores cedeu lugar a hinos patrióticos, e Stalin recebeu como designativo obrigatório o de "guia genial dos povos (da URSS). Sob o impacto da guerra, ressurgiu assim por toda a parte a ideologia nacionalista extremada, como mecanismo de luta e sobrevivência. E isto influiu no comportamento das esquerdas.
@@ -3009,9 +3009,9 @@ Ficando no terreno cultural, alguns lembretes. Se entendermos por nacionalismo a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-138</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-138</field>
+<field name="date">950827</field>
+<text_pt>
 PAULO COELHO 
 Colunista da Folha 
 Nasrudin passou o outono inteiro semeando e preparando seu jardim. As flores se abriram na primavera e Nasrudin reparou em alguns dentes-de-leão, que não havia plantado.
@@ -3022,9 +3022,9 @@ Nasrudin os arrancou. Mas o pólen já estava espalhado e outros tornaram a cresce
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-139</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-139</field>
+<field name="date">950827</field>
+<text_pt>
 Método usado para medir radiação de ossos de Hiroshima é adaptado à arqueologia 
 PAULO FERNANDO SILVESTRE JR. 
 Da Reportagem Local 
@@ -3041,9 +3041,9 @@ O cientista brasileiro fez questão de ressaltar o aspecto pacífico da pesquisa. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-140</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-140</field>
+<field name="date">950827</field>
+<text_pt>
 JOSÉ REIS 
 Especial para a Folha 
 Vacinas atenuadas são as em que o micróbio é desprovido de parte da virulência, conservando, porém, seu poder antigênico, isto é, sua capacidade de despertar reação imune específica no hospedeiro. As primeiras vacinas descobertas e usadas eram atenuadas.
@@ -3059,9 +3059,9 @@ Aquele hemofílico não possui parte do gene "nef em seu HIV, o que leva o pesquis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-141</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-141</field>
+<field name="date">950827</field>
+<text_pt>
 José Edivanilson Nascimento, 28, estudante, São Paulo, SP
 Glaucius Oliva, do Instituto de Física da USP de São Carlos,responde:
 "A Teoria da Relatividade Restrita, proposta por Albert Einstein em 1905, baseia-se em duas hipóteses ou postulados, que posteriormente obtiveram confirmação experimental: a inexistência de um referencial absoluto no Universo e a constância da velocidade da luz, independentemente do movimento da fonte ou do observador.
@@ -3074,43 +3074,43 @@ Correspondência para a seção "Sem Mistério deve ser encaminhada à Editoria de Ci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-142</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-142</field>
+<field name="date">950827</field>
+<text_pt>
 A edição de junho traz na capa estudo que sugere que indivíduos que sofrem do tipo mais comum de alcoolismo podem ser diferenciados de outros alcoólatras e de pessoas saudáveis por uma deficiência de dopamina. Essa deficiência é similar à observada em pacientes com mal de Parkinson. (1, 7, 623-4)
 ENTENDA A REFERÊNCIA 
 Nas citações científicas, o primeiro número, em negrito, indica o volume. O último dá a página. "Nature (337, 601) quer dizer pág. 601 do volume 337. Quando a numeração da página muda no mesmo volume, esta seção cita o nº da edição.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-143</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-143</field>
+<field name="date">950827</field>
+<text_pt>
 A edição do dia 13 de julho traz reportagem sobre poeira cósmica encontrada no fundo de oceanos na Terra. Essa poeira seria resultado da queda de micrometeoritos, que produziram grandes concentrações de hélio nos sedimentos dos oceanos primitivos. A revista informa que cientistas descobriram recentemente que a idade do hélio encontrado pode chegar até a 70 milhões de anos, muito mais do que se esperava.
 (376, 6536, 153-6)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-144</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-144</field>
+<field name="date">950827</field>
+<text_pt>
 Editorial da edição do dia 10 de agosto trata da questão de transplantes de rins, obtidos não só de pessoas vivas, mas também de fontes antes desprezadas, como de cônjuges. O editorial explica que essa ampliação do campo de doadores possíveis se deve à dificuldade de se conseguir o órgão. (333, 6, 379-80)
 ONDE ENCONTRAR 
 Números recentes de revistas importadas de ciências podem ser encontrados em várias bancas da cidade de São Paulo, como Cidade Jardim (tel. 212-7121), Jardins (tel. 282-5143) e Vilaboim (tel. 67-2107).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-145</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-145</field>
+<field name="date">950827</field>
+<text_pt>
 A edição de 14 de julho traz reportagem de capa sobre experimento realizado por pesquisadores da Universidade do Colorado (EUA) que conseguiram reproduzir experimentalmente a teoria de Bose-Einstein, esfriando átomos de rubídio até a temperatura mais baixa já conseguida pelo homem. O condensado resultante não se assemelha a nenhum dos outros estados da matéria, podendo ser considerado um estado totalmente novo.
 (269, 5221, 182-3)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-146</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-146</field>
+<field name="date">950827</field>
+<text_pt>
 Psiquiatras espanhóis chegaram à conclusão de que o casamento é bom para a saúde mental de homens. Isso acontece porque, segundo os cientistas, os homens são mais frágeis afetivamente que as mulheres. O matrimônio aparentemente não influenciaria as mulheres da mesma forma. 
 
 CASAMENTO 2 
@@ -3121,9 +3121,9 @@ As autoridades da Cidade do México reconheceram que a cidade está afundando. Seg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-147</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-147</field>
+<field name="date">950827</field>
+<text_pt>
 Instituto Nacional de Pesquisas Espaciais mantém cientistas 365 dias por ano no continente gelado 
 Continente é um dos pontos mais próprios para o estudo do espaço 
 RICARDO BONALUME NETO 
@@ -3161,9 +3161,9 @@ O repórter Ricardo Bonalume Neto viajou a convite do Proantar (Programa Antártic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-148</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-148</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial 
 O Instituto Nacional de Pesquisas Espaciais (Inpe) desenvolve seis projetos diferentes de pesquisa na Estação Antártica Comandante Ferraz, dentro de sua área básica de atuação, as ciências espaciais e da atmosfera. Cada um tem, no mínimo, dois experimentos.
 Além dos estudos da ionosfera, de René Medrano, existem pesquisas em geomagnetismo, coordenadas por José Marques da Costa. Alberto Setzer cuida da meteorologia. Ênio Bueno Pereira estuda a radiatividade atmosférica e aerossóis (partículas suspensas no ar).
@@ -3182,9 +3182,9 @@ Além do Inpe, várias outras instituições de pesquisa brasileiras utilizam a Esta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-149</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-149</field>
+<field name="date">950827</field>
+<text_pt>
 Do enviado especial 
 Havia um senador e sua mulher, um deputado federal, oficiais generais e oficiais superiores da Marinha e Aeronáutica a bordo do avião de transporte Hercules C-130H que foi levar à Antártida o pesquisador René Medrano, há algumas semanas.
 Mas, de certo modo, ele era a pessoa mais importante a bordo do avião da FAB.
@@ -3198,9 +3198,9 @@ O C-130 faz escala em Punta Arenas, sul do Chile, antes de cruzar o mar até a An
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-150</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-150</field>
+<field name="date">950827</field>
+<text_pt>
 Acompanhe a tabela com preços de ingressos de cinema e de estacionamentos em vários pontos da cidade 
 HELOÍSA BOURROUL 
 Free-lance para a Folha  
@@ -3219,9 +3219,9 @@ O estacionamento grátis do shopping Eldorado é um alívio para quem chega a pagar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-151</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-151</field>
+<field name="date">950827</field>
+<text_pt>
 Cantora recupera sons medievais 
 Da Redação 
 A cantora Fortuna leva a musicalidade dos judeus sefaraditas para o Ibirapuera, em show gratuito hoje. ``Recupero um momento histórico que tem sua atualidade na mensagem de harmonia dos povos."
@@ -3239,9 +3239,9 @@ Onde: parque Ibirapuera
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-152</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-152</field>
+<field name="date">950827</field>
+<text_pt>
 Comprometimento dos funcionários com os negócios também cresce 
 Da Redação 
 Programas de qualidade total estão mudando a ``cara" de muitas micro e pequenas empresas.
@@ -3264,9 +3264,9 @@ Salários adicionais, como prêmio pelas contribuições nos resultados, eram pagos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-153</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-153</field>
+<field name="date">950827</field>
+<text_pt>
 Regiany Picchi Barufaldi - Jundiaí, SP
 
 Para iniciar o negócio, o empresário poderá produzir 50 toneladas por mês de plástico PEBD (baixa densidade) moído. O investimento na fábrica fica em cerca de R$ 120 mil.
@@ -3286,9 +3286,9 @@ As cartas ao Balcão Folha-Sebrae devem ser enviadas para o caderno Tudo - al. Ba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-154</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-154</field>
+<field name="date">950827</field>
+<text_pt>
 Compactos e automatizados, equipamentos abrem novos campos para o micro ou pequeno empresário 
 Da Reportagem Local 
 A alta tecnologia chega ao pequeno investidor. Máquinas de última geração, que podem ser instaladas dentro de casa ou no escritório, permitem a diversificação de atividades ou o início de um novo _e promissor_ negócio.
@@ -3319,9 +3319,9 @@ Brasportex - tel. (011) 581-7422; Gutemberg Máquinas - (011) 224-8688; Impressor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-155</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-155</field>
+<field name="date">950827</field>
+<text_pt>
 A nova tecnologia muda rumo de carreiras 
 Da Reportagem Local 
 O acesso à tecnologia mais sofisticada permite a diversificação de negócios. Flávio Mesa Simon, 46, que era geólogo de petróleo, mudou radicalmente de profissão e abriu há oito meses, com mais três sócios (todos de áreas diferentes), a Via Print, uma gráfica de conveniência em São Paulo.
@@ -3336,9 +3336,9 @@ Marcelo diz estar otimista com o novo negócio. ``Tenho amigos que começaram com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-156</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-156</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 A nova tecnologia também facilita a vida dos proprietários de bares, hotéis e restaurantes, e de quem lida com culinária.
 Uma máquina recém-lançada agiliza o trabalho dos bufês e o das pessoas que fazem salgadinhos por encomenda.
@@ -3356,9 +3356,9 @@ ONDE ENCONTRAR
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-157</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-157</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local 
 Quem busca alternativas para um novo negócio, ou quer diversificar o seu, encontrará bons subsídios no 4º Salão Internacional de Pequenas Máquinas, Grandes Negócios, que acontecerá entre 12 e 16 de setembro no pavilhão azul do Expo Center Norte (SP).
 Cerca de 250 expositores ocuparão mais de 8.000 m2 para mostrar, em ``show-room", cerca de 50 soluções em máquinas simples, práticas e de baixo custo.
@@ -3376,9 +3376,9 @@ Lemos Britto Congressos e Feiras - tel. (011) 253-2133.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-158</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-158</field>
+<field name="date">950827</field>
+<text_pt>
 Elas pisam em terrenos que eram só dos homens e exercem funções de motorista, co-piloto, portuário e metalúrgico 
 CARLA ARANHA SCHTRUK 
 Da Reportagem Local 
@@ -3396,9 +3396,9 @@ Na aviação, o preconceito também existe. A co-piloto Marina Deluqui, 29, diz que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-159</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-159</field>
+<field name="date">950827</field>
+<text_pt>
 A Constituição de 1988 garante estabilidade à empregada gestante desde a confirmação da gravidez até cinco meses após o parto.
 Mas o texto que determina essa garantia refere-se à ``empregada gestante". Para que as domésticas fizessem jus à garantia, o dispositivo deveria incluí-las expressamente, ou seja, citar como beneficiado pela estabilidade ``a empregada gestante, inclusive as domésticas".
 Na forma atual do texto, a empregada doméstica tem direito à garantia de emprego apenas durante os 120 dias de licença, que são previstos pela legislação.
@@ -3409,9 +3409,9 @@ Consultoria: Grupo IOB
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-160</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-160</field>
+<field name="date">950827</field>
+<text_pt>
 INADEQUADO - Segundo Sandra Guedes, sócia-diretora da Mariaca &amp; Associates, o currículo do leitor José Everaldo Maciel de Medeiros é muito extenso _tem seis páginas. ``O ideal é ter no máximo três. Uma página inteira é perdida com o dizer `curriculum vitae', ilustração e o nome do candidato. Ele deveria eliminá-la."
 
 A
@@ -3532,27 +3532,27 @@ Leitores podem enviar seus currículos, que serão selecionados exclusivamente par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-161</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-161</field>
+<field name="date">950827</field>
+<text_pt>
 De Nova York 
 Toyota anuncia corte de despesas 
 Hiroshi Okuda, 62, é o novo presidente da Toyota no Japão. Segundo ele, seu projeto na empresa é ambicioso: ``Sacudir tudo e balançar estruturas". No cargo há apenas uma semana, Okuda já anunciou quais serão as principais medidas que irá adotar: um drástico corte nas despesas e investimento maciço na área de vendas. Mas demissões de funcionários não estão previstas. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-162</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-162</field>
+<field name="date">950827</field>
+<text_pt>
 De Paris 
 Mais franceses ganham benefícios 
 Aumentou o número de franceses desempregados beneficiados por programas e fundos especiais de ajuda do governo. A conclusão é do Ministério do Trabalho da França, divulgada em estudo recentemente apresentado à imprensa. Segundo aponta o relatório, receberam algum benefício governamental aproximadamente 2,4 milhões de pessoas em 1994 _contra 2,2 milhões em 1993.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-163</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-163</field>
+<field name="date">950827</field>
+<text_pt>
 Hortência, a ``Rainha do Basquete", recebeu de uma fábrica de bicicletas o primeiro dinheirinho na carreira de jogadora, encerrada há três meses.
 ``A Caloi deu ajuda de custo. Era de família pobre, precisava de dinheiro para comprar tênis e pagar as passagens de ônibus", conta Hortência, que na época tinha 13 ou 14 anos.
 Tratava-se de um projeto chamado ``Adote um Atleta", promovido pela Secretaria Municipal de Esportes, em parceria com várias empresas.
@@ -3567,9 +3567,9 @@ Hortência de Fátima Marcari Oliva, 35, começou sua carreira em 74. Estrela da se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-164</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-164</field>
+<field name="date">950827</field>
+<text_pt>
 Gostaria de saber se tenho estabilidade no emprego, pois o manual da CLT (Consolidação das Leis do Trabalho) diz que o funcionário com mais de dez anos na função não pode ser demitido."
 Mateus Teixeira Cavalcante (Embu-Guaçu, SP)
 
@@ -3586,9 +3586,9 @@ O valor corresponde, então, a um salário por ano ou fração igual ou superior a s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-165</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-165</field>
+<field name="date">950827</field>
+<text_pt>
 Empresas querem gastar R$ 8 milhões para tirar favelados da região, que pode se tornar a mais cara de SP
 RODRIGO AMARAL 
 Da Reportagem Local 
@@ -3610,17 +3610,17 @@ sobre a remoção da favela na página 9-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-166</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-166</field>
+<field name="date">950827</field>
+<text_pt>
 O comerciante de arte e colecionador Fabio Cimino, 33, tem em seu apartamento em São Paulo mobiliário ``art nouveau" (início do século), ``art déco" (anos 30), dos anos 50 e arte contemporânea.
 Como artistas prediletos, escolheu Leonilson, Antonio Dias, Piza, Barsotti, Sérgio Camargo, Mira Schendel e o norte-americano Peter Schuiff. O apartamento, decorado com obras de arte e pouco mobiliário, reflete a qualidade de sua coleção: editada e minimalista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-167</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-167</field>
+<field name="date">950827</field>
+<text_pt>
 Da Redação 
 As vendas de apartamentos novos em São Paulo despencaram em julho. A velocidade de comercialização foi de 4,6%, a taxa mais baixa desde janeiro de 94, segundo pesquisa mensal do Datafolha.
 Em junho, a velocidade de vendas foi 7,5%. A queda se deve à confusão causada no mercado pela Medida Provisória 1.053, que proibiu a cobrança do resíduo inflacionário nos contratos novos.
@@ -3630,9 +3630,9 @@ O balanço é um estudo do mercado de imóveis novos e residenciais na cidade de Sã
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-168</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-168</field>
+<field name="date">950827</field>
+<text_pt>
 WALDIR DE ARRUDA MIRANDA CARNEIRO 
 O resíduo inflacionário, que pode ocorrer nos contratos de execução sucessiva ou diferida, consiste na diferença entre prestações pecuniárias estabelecidas contratualmente como reajustáveis em periodicidade menor que a anual e os valores dessas mesmas prestações pagos sem a incidência dos referidos reajustes, por força das normas do Plano Real.
 Após a edição da segunda fase do Plano Real, surgiram diversas indagações acerca da cobrança do chamado resíduo inflacionário diante do disposto no parágrafo 3º do artigo 2º da MP (medida provisória) 1.053, de 30/6/95.
@@ -3651,9 +3651,9 @@ WALDIR DE ARRUDA MIRANDA CARNEIRO, 31, é advogado em São Paulo, autor de ``Teori
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-169</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-169</field>
+<field name="date">950827</field>
+<text_pt>
 (Antônio Carlos Costa, aposentado, Santo André - SP).
 
 Resposta do arquiteto Marcelo Katsuki, 28: ``O projeto sugere a criação de um segundo pavimento para abrigar dois dormitórios e um banheiro. Assim, é possível reformar a edícula sem estragar o gramado. A varanda não deve ser ampliada para não prejudicar a abertura dos cômodos já existentes.
@@ -3662,9 +3662,9 @@ A obra deverá ser executada em alvenaria de tijolos, com piso em laje pré-moldad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-170</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-170</field>
+<field name="date">950827</field>
+<text_pt>
 Mania norte-americana, os hot rods e street rods usam mecânica atual adaptada a modelos fora de linha 
 MARCELO TADEU LIA 
 Da Reportagem Local 
@@ -3686,9 +3686,9 @@ sobre hot rods e street rods na pág. 14
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-171</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-171</field>
+<field name="date">950827</field>
+<text_pt>
 (Nilo Fiorini - Campinas, SP) 
 
 A Folha enviou cópia da carta à Asia Motors do Brasil, no dia 26 de junho. Depois de insistentes pedidos de resposta, a Asia informou que não vai se pronunciar.
@@ -3726,9 +3726,9 @@ Envie sua carta para Folha, Redação, al. Barão de Limeira, 425, 4º andar, CEP 01
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-172</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-172</field>
+<field name="date">950827</field>
+<text_pt>
 Da Reportagem Local* 
 O grupo Emme, de origem italiana, pretende instalar em Pindamonhangaba (140 km a nordeste de São Paulo) dentro de dois meses uma fábrica de carros.
 Segundo o representante do grupo no país, Sílvio Casanova, a fábrica vai produzir três modelos Lotus _marca britânica. A produção dos protótipos deve começar em outubro.
@@ -3742,9 +3742,9 @@ Segundo Gandini, há outras duas Lotus _a Racing, que inclui a equipe que disputa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-173</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-173</field>
+<field name="date">950827</field>
+<text_pt>
 Programas especiais de computador usados pela fábrica sueca Volvo em simuladores de direção permitem ao motorista ``dirigir" um carro em situações bem próximas das reais sem correr riscos. Quando o motorista olha para um dos lados, por exemplo, vê a paisagem correspondente à de uma estrada verdadeira antes usada nos testes.
 
 Jipe para 7 pessoas chega ao mercado 
@@ -3764,9 +3764,9 @@ A Fiat está financiando toda sua linha 0 km em planos de até 24 meses. É o novo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-174</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-174</field>
+<field name="date">950827</field>
+<text_pt>
 MARIA REGINA ALMEIDA
 Da Folha Vale 
 A Volkswagen prepara o lançamento da nova Parati para o próximo mês. A empresa está mantendo em sigilo detalhes sobre o novo modelo, que tem frente igual à do novo Gol.
@@ -3780,16 +3780,16 @@ O novo modelo vai aumentar para cinco as versões do novo Gol disponíveis no merc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-175</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-175</field>
+<field name="date">950827</field>
+<text_pt>
 Petrônio Gontijo, afastado da TV desde "Pátria Minha", onde viveu o mimado Murilo Henrique, volta à telinha. Gontijo fará uma participação na série "Confissões de Adolescente", exibida na Bandeirantes. Será o namorado de Diana, personagem de Maria Mariana.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-176</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-176</field>
+<field name="date">950827</field>
+<text_pt>
 LÚCIA CRISTINA DE BARROS 
 Da Revista da Folha 
 Depois de ir à bancarrota duas vezes com restaurantes, ele foi parar por acaso na frente das câmeras _ensinando culinária.
@@ -3813,90 +3813,90 @@ Perguntado sobre quem convidaria para um jantar formal, revela suas influências:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-177</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-177</field>
+<field name="date">950827</field>
+<text_pt>
 O programa "O Mundo de Kiri Te Kanawa" mostra trechos famosos de óperas que compõe o repertório da soprano (no canto lírico, a voz feminina mais aguda) neo-zelandesa. As árias _entremeadas por comentários de Kanawa_ foram retiradas de apresentações no Covent Garden (de Londres), no teatro Scala (de Milão) e na arena de Verona. Acompanham Kanawa, entre outros, Placido Domingo, José Carreras e Vladimir Atantov.
 
 O MUNDO DE KIRI TE KANAWA  Multishow, 21h30.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-178</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-178</field>
+<field name="date">950827</field>
+<text_pt>
 O julgamento do ex-jogador de futebol americano e ator O.J. Simpson (acusado de matar a mulher e seu suposto amante) não faz sucesso apenas na rede de notícias CNN _que acompanha diariamente o caso, desde o princípio. O Telecine leva ao ar um telefilme produzido no ano passado sobre o caso. Dirigido por Jerrold Freeman, tem no elenco Bobby Hosea e Jessica Tuck. A defesa de Simpson tentou, em vão, vetar a exibição do filme na TV norte-americana.
 
 O CASO O.J. SIMPSON  Telecine, 21h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-179</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-179</field>
+<field name="date">950827</field>
+<text_pt>
 Os bastidores de "O Juiz" (atualmente em cartaz no Brasil) são a atração do programa "E! Features" _que vai ao ar semanalmente pela Superstation. Inspirado em um personagem inglês de histórias em quadrinhos (Judge Dredd), o filme mostra a atuação de um policial com licença para matar em um violento futuro. Para o papel-título foi escalado o truculento Sylvester Stallone (de "Rocky, o Lutador"). A direção é de Danny Cannon.
 
 E! FEATURES  Superstation, 20h30.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-180</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-180</field>
+<field name="date">950827</field>
+<text_pt>
 A HBO mostra o filme inédito "O Jardim Secreto". Dirigido pela polonesa Agnieska Holland, ele se inspira em romance homônimo da escritora inglesa radicada nos EUA Frances Hodgson Burnett (1849-1924). Uma garota (Kate Maberly) vai viver no castelo do tio (na Inglaterra) após a morte de seus pais. Sua vida, monótona, se transforma após a descoberta de um primo _que vive enclausurado_ e de um luxuriante jardim secreto.
 
 O JARDIM SECRETO  HBO, 20h30; HBO 2, 2h30.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-181</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-181</field>
+<field name="date">950827</field>
+<text_pt>
 Amanhã, a Cultura mostra a segunda e última parte do documentário sobre o astro norte-americano Spencer Tracy. O programa mostra o trabalho e a vida do ator, lembrados pela amiga e atriz Katherine Hepburn. Tracy fez 74 filmes e ganhou dois Oscars: em 1937, por "Marujo Intrépido", e em 1938, por "Com os Braços Abertos". Seu último trabalho foi "Adivinhe Quem Vem Para Jantar", em 1967, que terminou 15 dias antes de morrer.
 
 O LEGADO DE SPENCER TRACY  Cultura, 0h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-182</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-182</field>
+<field name="date">950827</field>
+<text_pt>
 Ná Ozzetti, cantora da geração de músicos paulistanos do final dos anos 70, apresenta o show "Canto Em Qualquer Canto". Ná começou sua carreira no Grupo Rumo. Lançou seu primeiro trabalho solo em 1988. O especial traz depoimentos da cantora sobre sua carreira e as músicas de seu último disco. No repertório estão "Rancho Fundo", "Já Passou", "Os Alquimistas Estão Chegando" e "Mar e Lua", entre outras composições de sua autoria.
 
 ESPECIAL NÁ OZZETTI  Cultura, 17h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-183</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-183</field>
+<field name="date">950827</field>
+<text_pt>
 O especial mostra o primeiro disco solo do cantor e compositor Paulinho Moska: "Pensar É Fazer Música". Moska começou sua carreira no grupo Inimigos do Rei. No programa, o cantor fala sobre a base de seu trabalho, a nova tendência da música brasileira, o resgate de compositores da velha guarda e a universalidade da MPB. Moska canta algumas composições suas como "Nada para colher no Jardim", "Admiração" e "Qualquer Outro Amor".
 
 PENSAR É FAZER MÚSICA  Cultura, 23h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-184</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-184</field>
+<field name="date">950827</field>
+<text_pt>
 A Cultura exibe o segundo episódio da série "Clip'Art" que mostra de que modo artistas como Salvador Dali, Van Gogh, Bizet, Fritz Lang, Eisenstein e Charles Chaplin trataram temas como o amor, o medo, a loucura, a fantasia e o humor. A série é voltada para o público jovem. Neste sábado, "Natureza" mostra que, desde os primórdios do homem até a Idade Média, a natureza inspirou admiração e respeito. O programa revela o tratamento do tema nas pinturas místicas de Bosch, nos escritos de Marinetti e nos quadros de Boccioni.
 
 CLIP'ART  Cultura, 20h30.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-185</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-185</field>
+<field name="date">950827</field>
+<text_pt>
 O "Bem Brasil" transmite ao vivo o show do grupo de rock carioca Barão Vermelho, no Sesc Interlagos, em São Paulo. O Barão Vermelho foi formado em 1981 e tinha o compositor Cazuza como vocalista. Agora o grupo é formado por Roberto Frejat (voz e guitarra), Guto Goffi (bateria), Fernando Magalhães (guitarra), Rodrigo (baixo) e Maurício Barros (teclados). No show, o grupo apresenta "Meus Bons Amigos", "Declare Guerra", "Daqui Por Diante", "Bete Balanço", "Para o Dia Nascer Feliz", entre outros sucessos.
 
 BEM BRASIL  Cultura, 11h.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-186</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-186</field>
+<field name="date">950827</field>
+<text_pt>
 Sam Raimi é o primo mais pop e alucinado dos irmãos Coen, de quem é amigo e colaborador. No primeiro "Uma Noite Alucinante", fez uma versão irônica, barata e ágil do gênero terror. Na sequência, parodiou seu próprio filme. O terceiro transporta o herói atrapalhado Ash (o brilhante canastrão Bruce Campbell, seu sócio) para um passado remoto. Ash enfrenta um exército de mortos armado de uma serra elétrica. O "trash" inteligente de Raimi rima humor e horror com perícia e câmeras vertiginosas.
 (Bia Abramo)
 
@@ -3904,9 +3904,9 @@ UMA NOITE ALUCINANTE 3 (Army of Darkness). EUA, 1993, 83 min. Direção: Sam Raimi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-187</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-187</field>
+<field name="date">950827</field>
+<text_pt>
 "Vidas Secas" é um épico da miséria, tendo por herói Fabiano, o camponês que, além de explorado e usurpado, é expulso da terra pela seca nordestina. O êxodo em direção ao sul, à água, através de uma paisagem desértica, é acompanhado pela fiel cadela. Nelson Pereira dos Santos observa os gestos, os movimentos, o calado sofrimento de seus personagens. Não julga, não aprova, não condena nada, mas coloca em relevo a grandeza dessa travessia, dessa experiência muito brasileira do homem pobre contra a adversidade. 
 (IA)
 
@@ -3914,9 +3914,9 @@ VIDAS SECAS. Cultura, 22h30. Brasil, 1963, 101 min. Direção: Nelson Pereira dos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-188</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-188</field>
+<field name="date">950827</field>
+<text_pt>
 Tenho 14 anos e quero fazer um reclamação. A Manchete lançou um CD dos "Cavaleiros do Zodíaco" e, agora, ela põe essas músicas chatas, que dão azia, no meio do desenho, tirando as maravilhosas músicas de fundo originais.
 Elaine Cecília Gatto
 Votuporanga, SP
@@ -3933,9 +3933,9 @@ Caçapava, SP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-189</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-189</field>
+<field name="date">950827</field>
+<text_pt>
 DALMO MAGNO DEFENSOR 
 Especial para a Folha 
 Tirante os jogos transmitidos ao vivo, o prato esportivo mais saboroso da TV é o "Cartão Verde", da Cultura.
@@ -3958,9 +3958,9 @@ Em resumo, o "Cartão" é feito para aficionados "cool" _ que demandam informação,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-190</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-190</field>
+<field name="date">950827</field>
+<text_pt>
 SÉRGIO DÁVILA 
 Da Revista da Folha 
 Começou na hora, ganhou público e é bem-vindo o "SBT Repórter", programa jornalístico semanal que a emissora estreou na última terça-feira, às 22h30.
@@ -3975,9 +3975,9 @@ Quando suas perguntas são factuais, o resultado é mais informação. Mas quando o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-191</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-191</field>
+<field name="date">950827</field>
+<text_pt>
 "Gostaria de obter o telefone do consultório do médico que deu entrevista para o `Globo Repórter', falando de um novo método contra o ronco." O pedido é da odontopediatra Ana Ultimura Shiguematsu.
 O médico entrevistado pelo programa "Globo Repórter" foi José Antônio Pinto. Ele falou sobre uma cirurgia com raio laser, nova técnica na luta contra esse problema. O especialista pode ser contatado pelo telefone de seu consultório: (011) 573-1970. 
 
@@ -4009,9 +4009,9 @@ O locutor esportivo Luciano do Valle recebe cartas no endereço da TV Bandeirante
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-192</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-192</field>
+<field name="date">950827</field>
+<text_pt>
 "A mãe e a irmã de meu namorado fazem de tudo para infernizar minha vida. Já chegaram até a me enviar cartas anônimas e a telefonar para meu trabalho usando o nome Maria de Fátima _que é uma aliada das duas e ama meu namorado. Na semana passada fui à casa dele e a mãe fez um escândalo. O resultado é que meu namorado e eu brigamos muito por culpa dessa história. Acho que a situação só vai melhorar se eu me casar com ele."
 Fabiana Vilar de Barros, SP.
 
@@ -4041,9 +4041,9 @@ A rigor, presume-se que os imortais já consumiram milhares de saquinhos de chá e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-193</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-193</field>
+<field name="date">950827</field>
+<text_pt>
 Que na nossa cabeça pequena caiba o mundo todo, eis a exigência absurda. A 7ª Bienal Internacional do Livro do Rio de Janeiro, que termina hoje, deixa as perguntas de sempre. Quantos livros existem no mundo? Por que se escreve tanto?
 Foram 125 mil títulos expostos. Na última Feira do Livro de Frankfurt (das maiores do mundo), em 1994, na Alemanha, foram quase 322 mil, sendo que 90 mil eram de livros novos. Também os espaços são imensos. No Rio, 24 mil m². Em Frankfurt, 131.408 m², um labirinto de pisos, corredores, escadas e esteiras rolantes.
 Em Frankfurt, foi possível não abrir um único livro. A trabalho no local, cruzei os corredores como quem, alheio, está sendo levado pela mão. O estardalhaço era o mesmo das feiras de rua, dos mercados públicos de qualquer cidade.
@@ -4060,9 +4060,9 @@ Vaidade pura, ostentação. A precondição para ler bons livros é não ler livros ru
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-194</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-194</field>
+<field name="date">950827</field>
+<text_pt>
 Vai ser uma festa. No palco, Herbert Vianna, Djavan, Frejat e, com um pouco de sorte, Caetano Veloso. Comandando tudo, o cantor argentino Fito Paez, 32 _o mesmo que criou "Trac Trac", sucesso dos Paralamas. 
 Na próxima quarta, dia 30, Fito (diminutivo de Rodolfo) lança no Palace seu terceiro álbum, "Circo Beat" (há um show antes, no dia 28, em Porto Alegre). É seu retorno ao Brasil depois de participar, em 94, do festival M2000 (que percorreu Santos, Rio e Florianópolis).
 Nesse meio tempo, criou laços com os músicos brasileiros, encantados com sua mistura de pop, rock, balada e tango. O último disco tem vocais de Caetano e Herbert, seus "padrinhos" por aqui. "A participação deles é fraternal e muito valente", diz Fito. "Música em espanhol é complicado no Brasil."
@@ -4073,18 +4073,18 @@ Marisa Adán Gil
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-195</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-195</field>
+<field name="date">950827</field>
+<text_pt>
 por Cosette Alves
 Um dos oficiais da resistência do governo no episódio Banco Central versus Banco Econômico, Gustavo Franco chegou ao Copacabana Palace, no Rio, às 18h em ponto. Chovia e o dia estava cinza. Parecia São Paulo. A iluminação da sala onde estávamos era péssima, igual ao dia.
 Cumprimentos formais. Eu lhe ofereci um uísque, que aceitou na hora. Comecei me desculpando, não pretendia que a entrevista fosse à meia-luz. Ao contrário: com a ajuda dele, eu ambicionava fazer um trabalho luminoso e esclarecedor. Queria deixá-lo à vontade, mas na verdade quem não estava à vontade era eu.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-196</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-196</field>
+<field name="date">950827</field>
+<text_pt>
 por Cosette Alves
 
 "Tenho uma relação tensa com os hipócritas e são muitos quando você está no governo"
@@ -4109,9 +4109,9 @@ Gustavo Franco falou pouco do passado. Seu presente é tão intenso que o resto es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-197</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-197</field>
+<field name="date">950827</field>
+<text_pt>
 por Cosette Alves
 
 Seu grande sonho é a melhoria do sistema educacional brasileiro.
@@ -4130,16 +4130,16 @@ Segundo Gustavo Franco, faltou competência na época de Collor, para fazer a aber
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-198</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-198</field>
+<field name="date">950827</field>
+<text_pt>
 "A Casa da Moeda trouxe as provas das cédulas novas com motivos que eles já tinham gravados. Na nota de cem reais, apareceu um peixe de rio, um tucunaré. Achei absurdo. Tinha que ser um que homenageasse a caça submarina nacional. Arrumei a foto de uma garoupa e um dos artistas criou a garoupa da nota: um animal de peso, tipicamente brasileiro."
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-199</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-199</field>
+<field name="date">950827</field>
+<text_pt>
 
 Ficção 
 Se pudesse mudar o mundo, Gustavo Franco o dividiria em países de 2 milhões de pessoas. O mundo seria composto de pequenos países. Sua teoria é de que isso resolveria problemas ideológicos e militares.
@@ -4153,9 +4153,9 @@ O diretor do BC fala desses momentos com um entusiasmo contagiante. "A experiênc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-200</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-200</field>
+<field name="date">950827</field>
+<text_pt>
 
 Fogueira das vaidades 
 Gustavo Franco me parece ser alguém que tem consciência de que o grande perigo da vida pública é a ilusão do sucesso. Me passou a impressão que seu hábito de mergulhar no mar, aliás um de seus esportes prediletos, o estimula e encoraja a mergulhar fundo e sem medo dentro de si mesmo. Seu universo de introspecção é muito amplo.
@@ -4166,9 +4166,9 @@ Disse que uma pessoa comum que chega a Brasília começa a se impressionar quando 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-201</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-201</field>
+<field name="date">950827</field>
+<text_pt>
 Quando começou o Plano Real, Gustavo Franco foi a favor da desvalorização do dólar em relação ao real. Ele mesmo explica por que:
 "Quando o plano começou, em julho, a nova política cambial garantiu uma mudança de paradigma no setor externo. Antes, havia várias coisas já obsoletas do ponto de vista conceitual. Uma delas: a idéia de auto-suficiência (em que o ideal é que o país não precise importar nada). O Brasil não tem que ser auto-suficiente em coisa nenhuma, isso não é conversa de Escola Superior de Guerra, não de gente que pensa a economia a sério.
 "Vínhamos perseguindo a auto-suficiência. Tínhamos importações iguais a 4%, 5% do PIB (Produto Interno Bruto, soma dos produtos e serviços criados no país), o que é um escândalo para uma economia como a brasileira, está errado. Ao mesmo tempo em que o nível de importação era minúsculo, as exportações não eram nada brilhantes.
@@ -4178,9 +4178,9 @@ Quando começou o Plano Real, Gustavo Franco foi a favor da desvalorização do dól
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-202</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-202</field>
+<field name="date">950827</field>
+<text_pt>
 Desenvolver regras de coexistência e tolerância é até o aspecto bonito. O mais complicado é o comércio. A disposição para o comércio exige fraqueza de convicções. Tudo se passa como o processo da Justiça do Trabalho: um pede zero, o outro pede mil, e se faz o acordo por 500.
 "Todo o aspecto ideológico, intelectual, moral, se traduz num comércio: quanto custa, o que levo, o que você me dá. Quando você mercantiliza essas pequenas abstrações precisa ter estômago. Acho que não tenho. Essas áreas cinzentas e negras na política são enormes."
 Gustavo Franco tem um lado altruísta: diz que talvez não se negasse a servir o país como político. Mas adora a vida no Executivo, em que não se pedem dele grandes coisas do ponto de vista da política.
@@ -4207,9 +4207,9 @@ Ele ouvia a cada momento: a desgraça vem no mês que vem. "As profecias eram as p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-203</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-203</field>
+<field name="date">950827</field>
+<text_pt>
 NOME: Gustavo Henrique de Barroso Franco 
 APELIDO: "Guta, mas já está em desuso" 
 DATA DE NASCIMENTO: 10.4.56 
@@ -4238,9 +4238,9 @@ E O QUE MAIS DETESTA EM SI MESMO E NOS OUTROS? "Presunção, arrogância"
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-204</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-204</field>
+<field name="date">950827</field>
+<text_pt>
 por Ana Ban
 Nos 70, Ozzy Osbourne entrou para a história do rock com a banda Black Sabbath. Nos 80, virou folclore ao matar um morcego a dentadas durante um show. Nos 90, aos 46, esse inglês batizado John Michael Osbourne jura ter trocado álcool e drogas por ginástica. Hoje, o pai do heavy metal _estilo de rock com influência de blues, guitarras distorcidas e bateria pesada_ está confuso diante dos novos gêneros musicais. Só escuta "música velha" e ainda faz muito barulho _tanto que teve que mudar-se para uma fazenda, sem vizinhos. Nesta sua segunda passagem pelo Brasil (a primeira foi há dez anos, no Rock in Rio), ele promete transformar-se em uma "criatura da noite" quando subir ao palco no sábado, 2 de setembro, encabeçando o elenco do Philips Monsters of Rock, no estádio do Pacaembu, em São Paulo. No dia 6, ele canta no Metropolitan, Rio. Ozzy falou à Revista da Folha por telefone, de um quarto de hotel em Los Angeles, onde ensaiava para uma grande turnê pela América Latina. Aproveitou para esclarecer que nunca foi satanista, "apenas insano".  
 
@@ -4268,9 +4268,9 @@ O que aconteceu no período entre "No Rest for the Wicked" (álbum de 1988) e "No 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-205</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-205</field>
+<field name="date">950827</field>
+<text_pt>
 
 Foi uma fase de recuperação. Percebi que as drogas e o álcool estavam destruindo o meu corpo, era hora de parar. Agora não bebo mais, não uso drogas, faço exercícios todos os dias. Ainda tenho muito pela frente. 
 Depois de anos nos EUA, você voltou para a Inglaterra, para morar em uma fazenda. Por quê? 
@@ -4290,9 +4290,9 @@ Quanto mais enlouquecida a platéia ficar, mais enlouquecido fico. Quero que todo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-206</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-206</field>
+<field name="date">950827</field>
+<text_pt>
 Com a desculpa do verão, a rapaziada se anima e mostra o corpo. Todos os descolados de Milão apostam nas transparências. De D&amp;G, em seu look moderno feito à base de camisetinhas coladas, a Ferre, com seu dégradé de cinza reforçado pela superposição de tela. Passando, é claro, pelo latino de Katherine Hamnett, arrasador.
 P.C.
 
@@ -4306,9 +4306,9 @@ FERRE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-207</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-207</field>
+<field name="date">950827</field>
+<text_pt>
 Já pensou o chanceler Helmut Kohl balançando as banhas no batuque tecno?
 A Parada do Amor, realizada há pouco em Berlim, ameaça tornar-se o maior espetáculo da Terra. Neste ano, juntou 200 mil pessoas, procedentes de todos os continentes.
 Os participantes desfilam nas ruas de uma região delimitada da cidade, dentro e em torno de trios elétricos. O som é tecno, se dança a 150 batidas por minuto. Ninguém fica quieto na presença do tchacatchacatchaca bumbumbum.
@@ -4328,9 +4328,9 @@ Ilustração: Nido da Mangueira veste "Parangolé Capa 1/1964", de Hélio Oiticica; 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-208</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-208</field>
+<field name="date">950827</field>
+<text_pt>
 A paixão pelos brinquedos uniu as empresárias e artistas plásticas Dulce Vainer e Vivien von Siegert. As duas são sócias no escritório Harrepio, de criação de produtos e consultoria.
 O que não falta é know-how. Dulce, desenhista e gravadora, foi uma das fundadoras da Infantaria, renomada loja de brinquedos alternativos, onde ficou cinco anos. Vivien, artista plástica formada em História da Arte, aproveitou seus dois anos na Áustria para empreender vasta pesquisa sobre objetos lúdicos.
 No Harrepio, o trabalho é feito por encomenda. "O cliente chega com a idéia e a gente desenvolve uma linha que se adapte às suas necessidades", diz Dulce. Quem mais procura o escritório hoje são empresas e escolas. Elas também criam linhas para creches e deficientes físicos.
@@ -4342,9 +4342,9 @@ Cristina Zahar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-209</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-209</field>
+<field name="date">950827</field>
+<text_pt>
 O que é verdadeiro? Assinatura, material, procedência ou visual? Onça custa mais barato do que vaca. Vidro é tão bonito quanto resina. O persa não engana ninguém, mas o Ray Ban talvez. Martini ou Contini? De rótulos iguais, produzem um dia seguinte bem diferente. O barato sai caro. A imitação pode ser melhor que o original. O verdadeiro é falso, e o falso é verdadeiramente falso. Decifre se quiser, ou puder.  
 J.P.
 
@@ -4379,9 +4379,9 @@ Bella Golzer: r. Bela Cintra, 1.833, tel. 853-8094.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-210</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-210</field>
+<field name="date">950827</field>
+<text_pt>
 Tablescape (paisagem da mesa, em inglês), é a vista predileta da decoração. Já deu muita capa de revista. Feita de elementos úteis ou meramente decorativos, vale tudo neste escapismo elegante, neste cenário particular, nesta tradução da alma. Masculina ou feminina. Arrumada ou bagunçada. Simétrica ou assimétrica. Minimalista ou rococó. Esse conjunto de elementos nada gratuito foi feito para mostrar que a beleza é mais importante do que a inteligência, porque ela não precisa se provar. 
 João Pedrosa
 
@@ -4399,9 +4399,9 @@ Utile Futile (vaso e luminária): r. da Consolação, 3.350, tel. 853-4427. Antiquá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-211</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-211</field>
+<field name="date">950827</field>
+<text_pt>
 Monstros do rock tomam o Pacaembu
 A versão brasileira do festival inglês de rock pesado, em Castle Donington, ganha sua segunda edição no próximo sábado, dia 2. Com transmissão pela Internet, sobem ao palco Ozzy Osbourne, Alice Cooper (foto), Faith No More, Megadeth e outras cinco atrações, em mais de 12 horas de shows.
 
@@ -4412,9 +4412,9 @@ ingressos para shows... tudo vai até a porta de sua casa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-212</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-212</field>
+<field name="date">950827</field>
+<text_pt>
 Sabe aquele frango de rotisseria que quebra o galho de muita gente? Aquele que vem inteiro ou cortado, já com a farofa acoplada, abafada num saquinho branco sem logotipo? Esqueça.
 O frango é a ave mais presente nos cardápios de todo o mundo, em pratos variados. Pode ser assado, refogado, frito, empanado, com gengibre, com queijo, com páprica, com estrogonofe, ao molho pardo, na cerveja, ao vinho, na canja, ao "curry", com mel, com "shoyu", defumado, com estrogonofe _só não pode ser comido cru.
 Se a rotisseria já não o satisfaz mais, coragem! Existem receitas simples capazes de fazer o seu frango ficar especial.  
@@ -4429,9 +4429,9 @@ tire a pele das coxas/sobrecoxas do frango. Lave e escorra bem. Passe sal nos pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-213</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-213</field>
+<field name="date">950827</field>
+<text_pt>
 Um balcão de frios para montar sanduíches. Mesas nuas de madeira escura. Portas altas abertas para a rua. Um cenário que busca lembrar o dos botequins.
 O Quinta do Mandioca, instalado onde ficava o Rose Bombom, é um bar-restaurante que busca mais as refências do empório brasileiro que as do american bar. As referências culturais são escancaradamente evidenciadas na paisagem e, à mesa, têm boa presença.
 A comida _um sucesso no almoço_ é ligeira, mas funciona. O serviço é um aperto só, definitivamente mais para bar que restaurante.  
@@ -4441,9 +4441,9 @@ Quinta do Mandioca. R. Oscar Freire, 726, Jardins. Tel. 64-4999. Domingo a terça
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-214</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-214</field>
+<field name="date">950827</field>
+<text_pt>
 Em 1936, um turco comprou o hotel Elysée, em Nova York, e deu início a mais uma das lendas da cidade. O Monkey Bar, no hotel, com papel de parede zebrado, dry martinis e macacos de bronze atraía celebridades. Marlon Brando se registrou no hotel como Patrick Jaipur. Wladimir Horowitz morou lá com dois pianos.
 Agora o lugar foi remodelado e os famosos estão de volta (Woody Allen deu uma festa de aniversário lá para sua Jennifer, Soon-Yi).
 Não há lugar igual em Sampa, mas para ver como o poder bebe seus enormes dry martinis, tente o bar do Fasano.  
@@ -4453,9 +4453,9 @@ The Monkey Bar. 60 East 54th st., Nova York. Tel. (001) 212-838-2600. Fasano. R.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-215</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-215</field>
+<field name="date">950827</field>
+<text_pt>
 E quem disse que no Brasil não tem tecno? Tem sim, tchau tchau. E vamos aproveitar pra parar de chamar tecno _e dance music em geral_ de ``bate-estaca" e ``tum-tum-tum". Que já virou clichê.
 Bom, pra quem como eu não consegue ver nada dos shows do Hell's, melhor adquirir o CD do Habitants, uma dupla de meninos aparentemente do bem. O disco chama Habitants mesmo e saiu pela Cri du Chat. Não, não, eu ainda não estou ouvindo tecno em casa. Só nos chill-outs, claro. 
 Erika Palomino
@@ -4464,9 +4464,9 @@ Habitants. Muzik Alternative Music: al. Jaú, 1.512, Jardins. Tel. 282-7077. Segu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-216</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-216</field>
+<field name="date">950827</field>
+<text_pt>
 Passista da Rosas de Ouro, ele é azul, rosa e branco no Carnaval, mas na vida é negro e amarelo. No último ano de fisioterapia, Edvaldo da Cruz é um líder do "quilombo holístico", centro de massagens. O porquê do termo: "Aqui se defende liberdade".
 Mestre em seitai (técnica japonesa de manipulação de coluna), tem 15 anos de medicina oriental. Tratou de colunas colunáveis, como a de Victor Fasano.
 Às vezes sente na pele não um, mas dois preconceitos. Gente que vai à massagem querendo velhinho japonês e acha negro jovem. "Estranham, mas tiro de letra."
@@ -4475,9 +4475,9 @@ Núcleo Holos. Travessa Dona Paula, 114, tel. 255-7817. Segunda a sábado a partir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-217</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-217</field>
+<field name="date">950827</field>
+<text_pt>
 Quem ainda não fez 13 anos, tem muita criatividade na cabeça e uma câmera paterna na mão já tem aonde testar o talento.
 Até o final do mês estão abertas as incrições para a edição mirim do tradicional (para grandes) Festival do Minuto, que é organizado pela Agência Observatório.
 O Festival do Minuto Kids tem tema livre. A exigência, claro, é criar um vídeo de até um minuto. Também não é possível exagerar na concisão: a obra deve ter no mínimo um segundo de duração.
@@ -4490,9 +4490,9 @@ Festival do Minuto Kids. Inscrições: Agência Observatório, r. Professor Rubião M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-218</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-218</field>
+<field name="date">950827</field>
+<text_pt>
 Os veterinários são unânimes. Pulga só acaba mesmo com dupla ação: no ambiente e no animal. Por isso, não se iluda com novos produtos. Eles ajudam no combate à pulga, mas, se a casa não for desinfectada, esqueça.
 "Como as pulgas ficam até dois anos incubadas, o primeiro passo é dedetizar o ambiente", ensina o veterinário Fernando Patitucci.
 Depois, é preciso tratar o animal. Há desde sabonetes, xampus e coleiras até produtos como Pulfim, Program e Frontline. O Pulfim é um líquido tóxico que deve ser posto na nuca do bicho. Em contato com o sangue do animal, a pulga morre. O Program é um anticoncepcional para pulgas. Problema: os dois causam reações alérgicas. Já o Frontline é um spray inflamável que deve ser aplicado no pêlo do bichinho. Mas atenção: não adquira produtos sem orientação veterinária.  
@@ -4502,9 +4502,9 @@ Fernando Patitucci. Av. dos Imarés, 1.106, Indianópolis. Tel. 531-3131. Preços: 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-219</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-219</field>
+<field name="date">950827</field>
+<text_pt>
 Os vinte primeiros leitores que escreverem para a Revista da Folha - coluna Vídeo ganham o vídeo "No Quarter Unledded". A fita, oferecida pela Warner e pela Revista da Folha, mostra show acústico feito em 94 pelos ex-Led Zeppelin Robert Plant e Jimmy Page. No repertório, hits do Led como "Kashmir" e "Thank You".
 As cartas devem ser enviadas por correio ao endereço abaixo. A lista dos ganhadores sai na coluna "Vídeo daqui a duas edições, no dia 10 de setembro. Na segunda-feira seguinte à publicação dos nomes, os vídeos estarão à disposição na portaria do jornal. 
 
@@ -4512,16 +4512,16 @@ Revista da Folha - coluna Vídeo. Al. Barão de Limeira, 425, 8º andar, Campos Elí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-220</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-220</field>
+<field name="date">950827</field>
+<text_pt>
 Pedir pizza em casa já é rotina em São Paulo. Mas você sabia que pode fazer exames, massagem ou ginástica sem ter que enfrentar trânsito ou ficar horas na sala de espera? A Revista da Folha fez um levantamento exclusivo de serviços e produtos que podem ser solicitados por telefone e que são entregues em domicílio, na maior mordomia. Supermercado, feira, banco, cabeleireiro, ingressos para shows, quase tudo pode ser "delivery". Experimente. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950827-221</text_pt>
-<text_pt name="date">950827</text_pt>
-<text_pt name="text">
+<field name="id">FSP950827-221</field>
+<field name="date">950827</field>
+<text_pt>
 Quem tem obra de arte em papel sabe o desespero que bate quando começam a aparecer problemas. Os mais comuns são mofo (causado por excesso de umidade), ferrugem (em geral proveniente de limpeza do vidro da moldura com palha de aço), acidez (que ataca obras montadas em suporte ácido) e colas inadequadas (não neutras).
 Sofia Haberland, restauradora há 25 anos, avalia que 90% das obras são recuperáveis. Mas o melhor ainda é prevenir: 1) procure um moldureiro que tenha know-how na montagem de obras em papel; 2) exija a colocação de um papel-filtro atrás da obra e um passe-partout de puro algodão; 3) coloque afastadores (de cortiça ou feltro) nos quatro cantos da moldura para permitir a circulação do ar entre o quadro e a parede; 4) evite excesso de luz natural ou artificial.  
 Lúcia Cristina de Barros

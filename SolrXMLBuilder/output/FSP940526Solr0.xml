@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940526-001</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-001</field>
+<field name="date">940526</field>
+<text_pt>
 O Banco Central anunciou alterações em aplicações prefixadas. A medida prepara mudanças na poupança a partir de junho e a transição para o real.
 A partir de hoje, CDBs, RDBs e letras de câmbio prefixados terão prazo estendido de 30 para 90 dias. O limite dos CDBs vinculados à TR será reduzido de 90 para 30 dias.
 O objetivo é evitar comparações entre o rendimento dos CDBs prefixados e as taxas da poupança. A dificuldade de avaliar agora a inflação a partir de julho fará variar os juros do CDB, que até junho servirá para o cálculo da TR, a taxa da poupança. A mudança favorece as cadernetas, porque a TR passa a ser calculada pela taxa para grandes aplicações.
@@ -12,9 +12,9 @@ Dinheiro
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-002</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-002</field>
+<field name="date">940526</field>
+<text_pt>
 Banco Central muda prazo de aplicações e evita revelar taxa de juros com a nova moeda
 GUSTAVO PATÚ
 Da Sucursal de Brasília
@@ -33,9 +33,9 @@ Eles acreditam que fundos _como os de renda fixa e commodities_ serão os preferi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-003</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-003</field>
+<field name="date">940526</field>
+<text_pt>
 Uma blitz da Receita Federal e a operação padrão dos auditores, anunciada para começar hoje, pode tumultuar a fronteira entre o Brasil e o Paraguai. A operação visa coibir o contrabando e conta com 50 técnicos e fiscais de outros Estados. A operação padrão consiste na fiscalização de todas as pessoas (no aeroporto) e carros na fronteira.
 
 Perícia da Previdência cancela benefícios
@@ -49,9 +49,9 @@ A Compaq desbancou IBM e Apple e assumiu a liderança do mercado mundial de compu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-004</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-004</field>
+<field name="date">940526</field>
+<text_pt>
 Dagmar Cupaiolo, do Sindicato da Indústria de Café de São Paulo, estima que, se em um mês forem leiloadas mais 600 mil sacas de café do estoque estratégico do governo, o preço do produto ao consumidor _que tem subido mais do que a inflação_ cai entre 10% e 20%, em dólar.
 
 Sem compromisso
@@ -122,9 +122,9 @@ Distribuidores de vídeo estimam perda anual acima de US$ 110 milhões com a falsi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-005</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-005</field>
+<field name="date">940526</field>
+<text_pt>
 DANILO DE SOUZA DIAS e ADRIANO PIRES RODRIGUES
 Os recentes desdobramentos envolvendo o novo modelo institucional do setor elétrico brasileiro parecem sugerir a adoção de uma fórmula flexibilizadora e engenhosa que, a princípio, objetivaria driblar as principais limitações legais e contextuais que, até agora, vêm impedido a entrada do setor no programa de privatizações do governo federal.
 De fato, a enorme reação corporativa frente a mudanças, a presença, até pouquíssimo tempo, no Ministério das Minas e Energia, do "grupo mineiro", altamente reativo e refratário a quaisquer alterações no "status quo" e a inércia do processo legislativo, no que tange à aprovação de uma lei de concessões regulamentando o artigo 175 da Constituição, foram fatores mais do que suficientes para obstar, até aqui, transformações no marco legal e institucional do setor.
@@ -146,9 +146,9 @@ Os autores são professores do Programa de Planejamento Energético da Coordenação
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-006</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-006</field>
+<field name="date">940526</field>
+<text_pt>
 ENIR SEVERINO DA SILVA
 Ao apagar das luzes, o governo federal anuncia o adiamento da proposta de privatização do setor elétrico. Segundo a Comissão Diretora do Programa Nacional de Desestatização, devido à complexidade do processo, a privatização não sairá este ano. O Executivo concluiu que caso as empresas de energia fossem vendidas aleatoriamente, isso poderia resultar em falta de eletricidade nas regiões onde às companhias distribuidoras não são lucrativas.
 A estratégia a ser adotada agora pelo governo é a divisão do setor em três áreas distintas: geração, transmissão e distribuição de energia que passariam a ser coordenadas por uma nova autarquia ou empresa. Esta estatal seria responsável pelas funções de planejamento e coordenação do sistema elétrico, incluindo a tarefa de fixar tarifas.
@@ -166,9 +166,9 @@ ENIR SEVERINO DA SILVA, 45, é presidente do Sindicato dos Eletricitários de São 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-007</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-007</field>
+<field name="date">940526</field>
+<text_pt>
 209) Tenho um plano de saúde cuja soma dos recibos pagos é de 5.914 Ufirs (Unidade Fiscal de Referência). Entretanto, a empresa informou que os pagamentos efetuados foram de 9.870 Ufirs. Qual valor devo declarar? A.Z. (Paraíso - SP)
 Informe o valor efetivamente pago, de acordo com os documentos disponíveis.
 
@@ -185,9 +185,9 @@ As respostas às dúvidas dos leitores serão dadas pelos técnicos da consultoria I
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-008</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-008</field>
+<field name="date">940526</field>
+<text_pt>
 A Bolsa de Mercadorias e Futuros começa a dar novo impulso aos negócios com produtos agropecuários no mercado futuro. Amanhã inicia a negociação com boi gordo e já estão sendo acertados os detalhes de um novo contrato de soja.
 A BM&amp;F, quinta maior bolsa de futuros do mundo, se firmou desde a sua fundação, em 1986, no mercado financeiro, apesar de o país ser um grande produtor agrícola.
 A função do mercado futuro é o de se garantir preços futuros para uma determinada mercadoria. Dois participantes do mercado _que podem ser, por exemplo, um pecuarista e um frigorífico_ se dispõem a comercializar arroba de boi gordo a um determinado preço para a entrega do produto em uma data futura.
@@ -196,25 +196,25 @@ O novo contrato de boi terá seu valor atrelado ao dólar e os negócios serão feit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-009</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-009</field>
+<field name="date">940526</field>
+<text_pt>
 O IPCA (Índice de Preço ao Consumidor Amplo) de Belo Horizonte foi de 46,05% na terceira quadrissemana de maio. O resultado é 0,12 ponto percentual superior à taxa da segunda quadrissemana (45,93%). O índice mede os gastos das famílias com renda de 1 a 40 salários mínimos.
 O IPCR (Índice de Preço ao Consumidor Restrito) também esteve estável no período, com variação de 44,94% na terceira quadrissemana. A pesquisa é feita pelo Ipead (Instituto de Pesquisas Econômicas, Administrativas e Contábeis). O cafezinho, a maior alta, subiu 69,72%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-010</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-010</field>
+<field name="date">940526</field>
+<text_pt>
 O número de imóveis residenciais disponíveis em abril diminui e a procura por locações aumentou. Como resultado, o mercado teve uma elevação em URV de 4,36% nos preços. Os imóveis mais procurados foram os apartamentos de dois dormitórios. As maiores ofertas foram os de três e quatro dormitórios.
 Um dos motivos da queda na oferta de imóveis para locação, foi a noticía de que o governo federal pretendia interferir no mercado de locações no momento da troca da moeda. As locadoras tiveram uma retração significativa retirando seus imóveis em ofertas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-011</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-011</field>
+<field name="date">940526</field>
+<text_pt>
 O deputado Nelson Jobim (PMDB-RS) tem um compromisso com a cidadania: o de não permitir a perpetuação do poder constituinte nas mãos de parlamentares e partidos políticos. Em seu relatório, o deputado procurou expurgar a constituição de todo o vezo corporativista. Conferiu na prática a impossibilidade, devido ao sistema político vigente.
 Podem-se procurar mil e uma razões para o fracasso da revisão. Pode-se até alegar que ao centralizar os trabalhos, o deputado Jobim tirou os méritos de autoria das emendas, desestimulou nossos desprendidos parlamentares a prosseguirem com a revisão.
 Todos os argumentos apenas confirmam a disfuncionalidade do sistema político representativo atual. E inúmeros episódios ocorridos ao longo da revisão, até contra as propostas do relator, demonstram claramente que os políticos constituem-se em uma classe à parte, atuando em bloco quando se trata de administrar seus próprios interesses. É só conferir a votação sobre fidelidade partidária, voto obrigatório e quetais.
@@ -234,9 +234,9 @@ Na coluna retrasada, os dados sobre aumento de frota e de pessoal em 1990, refer
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-012</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-012</field>
+<field name="date">940526</field>
+<text_pt>
 Ganho do investidor vai aumentar com mudança no cálculo da TR
 JOÃO CARLOS DE OLIVEIRA
 Da Reportagem Local
@@ -264,9 +264,9 @@ Por isto, o fundo de commodities (que permitem saque diário após a carência de 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-013</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-013</field>
+<field name="date">940526</field>
+<text_pt>
 Poupador ganha, mas taxa acima da inflação para estimular poupança vai aumentar dívida de mutuários
 VIVALDO DE SOUSA
 Da Sucursal de Brasília
@@ -283,9 +283,9 @@ A mudança no cálculo da TR será a partir de 1º de junho. Em vez de prefixada, co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-014</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-014</field>
+<field name="date">940526</field>
+<text_pt>
 Repasse de reajuste salarial é defasado
 Da Sucursal de Brasília
 O diretor de Normas do Banco Central, Cláudio Mauch, confirmou ontem que as regras para prestações e dívidas da casa própria serão mantidas após a criação do real.
@@ -297,9 +297,9 @@ Nos contratos do PCR (Plano de Comprometimento de Renda), as prestações são reaj
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-015</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-015</field>
+<field name="date">940526</field>
+<text_pt>
 Banco Central orienta mercado para praticar operações pós-fixadas; leilões acalmam mercado cambial
 Da Redação
 As Bolsas de Valores estiveram agitadas ontem. O índice da Bolsa paulista subiu 8,1% e o da congênere carioca (Senn) valorizou-se 7,9%. Houve aumento também no volume de negócios.
@@ -343,9 +343,9 @@ O índice futuro do índice da Bolsa paulista para junho fechou com 29.900 pontos,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-016</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-016</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal de Brasília
 O diretor de Normas do Banco Central, Claúdio Ness Mauch, anunciou ontem à noite que a TR (Taxa Referencial) já será calculada com base na média dos juros pagos diariamente no CDI (mercado interbancário) a partir do próximo dia 30.
 No caso da caderneta de poupança, o que valerá não será a TR do dia 30, e sim a do dia 1º. Por causa do mês de fevereiro não existem contas de poupança com aniversário nos dias 29, 30 ou 31 de cada mês. Sempre que alguém abre conta nesses dias, o aniversário é transferido para o dia 1º.
@@ -357,9 +357,9 @@ Não fosse esse recuo, haveria problemas para calcular a TR de hoje. Como a resol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-017</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-017</field>
+<field name="date">940526</field>
+<text_pt>
 Está em curso uma ofensiva sindical sem precedentes no setor público. O momento não poderia ser mais delicado: às vésperas de um plano de estabilização que pretende desindexar salários por 12 meses. Particularmente agressiva, a ofensiva no setor público tem dado margem a episódios menos tranquilos, como quando houve os exercícios militares na Praça dos Três Poderes, ou nas repetidas vezes em que se acionou o Supremo Tribunal Federal. Param universidades, pára a Previdência, prosseguem as operações "tartaruga" na Polícia Federal. E o presidente, mais uma vez, vai ao centro da cena para tentar evitar reajustes incompatíveis com o Plano Real e que foram propostos _pasme_ por ninguém menos que seu próprio ministro da Administração, Romildo Canhim.
 Há duas hipóteses. Uma é o ministro encontrar-se numa situação em que, já não conseguindo administrar a Administração, faz-se porta-voz de demandas inadministráveis. Nesse caso, o impasse não tardará a repetir-se. Outra hipótese, mais otimista mas nem por isso menos arriscada, é o ministro ter adiantado uma proposta favorável aos servidores como forma de legitimar-se como negociador.
 Nesse caso, faz sentido criar-se uma Comissão que venha a formular uma política de reforma administrativa. São inegáveis as assimetrias na estrutura de vencimentos dos servidores. Mas é igualmente evidente que esses desequilíbrios, como tantos outros no setor público e na economia brasileira, não podem ser resolvidos de imediato.
@@ -368,9 +368,9 @@ Do ponto de vista político, entretanto, a equação não é tão simples. Fazer refor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-018</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-018</field>
+<field name="date">940526</field>
+<text_pt>
 Candidatos a vice-presidente costumam contar muito pouco em eleições, chegando frequentemente a passar em branco, desconhecidos do eleitorado, por toda a campanha. A experiência brasileira recente, no entanto, é contundente ao ressaltar a importância de que os nomes escolhidos como coadjuvantes nas chapas para o Planalto sejam levados em consideração no momento do voto. E, nesse sentido, o cenário que se descortina até agora não é nada animador quanto à eventualidade de o presidente escolhido não terminar seu mandato.
 A escolha dos candidatos a vice no país de fato parece só acentuar o cálculo eleitoreiro que é igualmente a base de escolha dos titulares de cada chapa. Mais do que buscar um nome capaz de dar continuidade ao programa do titular no caso do impedimento temporário ou definitivo deste, as indicações buscam uma suposta capacidade de compensar eventuais deficiências eleitorais do cabeça de chapa.
 Assim é que postulantes ao Planalto buscam companheiros de outros Estados, de outros partidos, de outro sexo, de outro grupo religioso _predicados que, por si só, ficam longe de assegurar um bom sucessor de presidente. É curioso, aliás, que essa lógica tenha ensejado o que pode ser considerado um avanço no país: a existência de duas mulheres candidatas a vice. Mesmo que a escolha deva-se em boa parte ao mero fato de serem mulheres, isso nunca ocorreu.
@@ -379,9 +379,9 @@ O pior de tudo é que a própria natureza do cargo de vice reduziu-o a mera moeda 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-019</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-019</field>
+<field name="date">940526</field>
+<text_pt>
 Aos deuses se permite quase tudo, até que digam inconveniências ou que se comportem inadequadamente. Mesmo quando são deuses de carne e osso, como alguns que o sucesso no esporte ou nas artes eleva acima dos mortais comuns.
 Romário de Souza Faria, o jogador da seleção brasileira, parece sentir-se parte desse universo seleto. Age como se fosse diferente _e melhor_ que os demais jogadores.
 É verdade que parte da responsabilidade é da mídia e do público, que louvaram Romário após ter ele marcado os dois gols que asseguraram a classificação do Brasil para a Copa, na partida contra o Uruguai.
@@ -393,9 +393,9 @@ Não há como escapar a uma realidade inexorável: cabe ao técnico escalar o time. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-020</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-020</field>
+<field name="date">940526</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO _ Não tivesse visto na televisão, até duvidaria que Luiz Inácio Lula da Silva, candidato presidencial do PT, tivesse mesmo recorrido ao argumento que utilizou anteontem para o uso de equipamentos dos sindicatos em suas aparições de campanha.
 Lula disse que tal uso é "contra a lei", mas que a "classe trabalhadora" é a favor desse método e, portanto, dane-se a lei.
@@ -411,9 +411,9 @@ Esse tipo de raciocínio, aliás, já foi usado para justificar nefandos crimes pol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-021</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-021</field>
+<field name="date">940526</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA _ O passado é uma espécie de espinha temporã que se insinua no rosto do presente. Não sei se compreendem. Mas, quando menos se espera, o passado irrompe nos dias correntes, marcando a cara do presente púbere, numa repetição sem fim. Daí dizer-se que a história se repete.
 É por temer as acnes do tempo que me atrevo a pedir aos leitores que rezem. Juntem as mãos, senhoras e senhores, e façam suas preces. Orem pela saúde do próximo presidente da República.
@@ -427,9 +427,9 @@ Minha vontade é sair de esquina em esquina aos gritos: "Não deixem de rezar". Ao
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-022</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-022</field>
+<field name="date">940526</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ É um episódio definitivamente menor, mas esclarecedor dos corações e mentes dos petistas. A assembléia está acima da lei _é mais ou menos isso o que a arrogância (injustificável) de Lula quis dizer, colocando a decisão de qualquer assembléia acima da lei e da sociedade.
 O carro de som é irrelevante. Pessoalmente, acho que qualquer sindicato pode emprestar seus equipamentos a quem bem entender, para campanhas eleitorais, esportivas, sociais, carnavalescas, não importa. Não vejo motivo para impugnar uma candidatura presidencial por tão pouco crime.
@@ -440,9 +440,9 @@ Acredito que Lula vá cair na real, exatamente quando concentrar seu discurso no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-023</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-023</field>
+<field name="date">940526</field>
+<text_pt>
 Hélio Schwartsman
 O conflito entre a lei e a justiça _entre o legal e o legítimo_ sempre esteve entre as preocupações humanas. As grandes tragédias gregas, por exemplo, nada mais são do que a expressão desse conflito. Édipo transgrediu a lei ao matar o pai, Laio, e ao deitar-se com sua mãe, Jocasta. Ainda que não tivesse a menor idéia do que estivesse fazendo, era culpado e foi punido. Acabou arrancando os próprios olhos. É justo? Parece claro que não. Mas a lei é a lei, e é a sua transgressão, ainda que inconsciente, que transforma Édipo num herói, em alguém de certa forma superior a seus semelhantes por ter sofrido injustamente.
 Tem-se daí que mesmo as primeiras comunidades humanas _a lenda de Édipo é mencionada em Homero, remontando, provavelmente, a uma tradição oral pré-histórica_, já intuíam a noção da necessidade de uma lei _humana ou divina_ que fosse capaz de manter a ordem, ainda que, por vezes, cometesse injustiças. Ainda na Grécia, pode-se mencionar o caso do grande filósofo Sócrates, que, condenado injustamente à morte, recusa-se a fugir da prisão _todo o esquema havia sido acertado por seus amigos_ porque considerava que a lei deveria ser cumprida.
@@ -457,9 +457,9 @@ Hélio Schwartsman é editor de Opinião da Folha. Hoje, excepcionalmente, deixamos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-024</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-024</field>
+<field name="date">940526</field>
+<text_pt>
 Os salários não poderão ser incompatíveis como equilíbrio financeiro das universidades
 HÉLIO NOGUEIRA DA CRUZ
 O andamento das negociações salariais das universidades estaduais paulistas demonstra as dificuldades de equacionamento dos salários em um país com altíssima taxa de inflação, à beira de um programa de estabilização e em um ano de grande densidade eleitoral. A grande volatilidade do panorama econômico conflita com a necessidade de parâmetros mais estáveis para os salários.
@@ -487,9 +487,9 @@ HÉLIO NOGUEIRA DA CRUZ, 44, é professor titular do Departamento de Economia da F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-025</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-025</field>
+<field name="date">940526</field>
+<text_pt>
 Por erro de digitação, a porcentagem 85% foi trocada por 65% neste artigo. A frase correta é: "Talvez porque nos EUA, onde o feminismo tem atuado como o sindicato das mulheres, elas atinjam 85% do salário de um homem pelo exercíicio do mesmo trabalho. Bem distante da realidade brasileira, na qual a mulher ganha 55% do salário do homem".ERRAMOS
 O sindicato das mulheres
 A sociedade ainda não percebeu as mudanças provocadas pela mulher no mercado de trabalho
@@ -519,9 +519,9 @@ ROSE MARIE MURARO, 63, é escritora e diretora da Editora Rosa dos Tempos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-026</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-026</field>
+<field name="date">940526</field>
+<text_pt>
 
 "Considerando-me autorizado pelas críticas que recebi da Folha quando estava no exercício de vários mandatos legislativos e pela certeza que tenho de que entre os articulistas desse jornal não se encontram fãs incondicionais dos candidatos do meu partido, o PMDB, quero louvar a isenção e o espírito de brasilidade contidos nos textos de jornalistas conceituados como: Clóvis Rossi, Josias de Souza, Gilberto Dimenstein e Janio de Freitas, dentre outros. Esses profissionais abordam em seus trabalhos, com lucidez e imparcialidade, desde as flagrantes incoerências promovidas por tucanos e petistas, ao combate ao monstro maior que é a corrupção. Para isso, não são poupadas as administrações públicas de qualquer partido. Chega a ser incômoda, mas necessária para a nossa sociedade, a iniciativa desses jornalistas, quando, através de nítidos e irretocáveis artigos, avivam a lembrança dos desmemoriados, que se envolvem no `faça o que digo, mas não faça o que faço'. A Folha prestaria mais um relevante serviço ao horrorizado povo brasileiro se buscasse, ainda mais, informações sobre as constantes violações da lei 8.666, que rege as licitações e contratos públicos, hoje uma das legislações menos cumpridas neste país, utilizando-se o artifício das prorrogações contratuais."
 Del Bosco Amaral (Santos, SP)
@@ -564,9 +564,9 @@ João Carlos Schleder (São Bernardo do Campo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-027</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-027</field>
+<field name="date">940526</field>
+<text_pt>
 O advogado Raul Barbosa marcou sua biografia pelos quatro anos que governou o Ceará nos anos 50. Foi uma administração revolucionária, cujo principal fruto foi a consolidação do Banco do Nordeste. Concluído o mandato, Barbosa aceitou um convite do Bando Interamericano de Desenvolvimento para assumir a diretoria do órgão para o Brasil.
 Em Washington, Barbosa adotou o comportamento de falar em público sempre com um charuto na boca. Fez algumas palestras e explanações assim, até que a equipe de tradutores decidiu pedir socorro. Um representante dos funcionários bateu à porta do principal assessor de Barbosa:
 _ Diga por favor ao sr. Barbosa que abandone o charuto antes de falar. Nós não estamos entendendo nada.
@@ -575,9 +575,9 @@ _ Meu caro, deixe como está. Eu não falo muito bem inglês, francês e espanhol e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-028</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-028</field>
+<field name="date">940526</field>
+<text_pt>
 A cúpula da campanha de FHC avaliou que foi um desastre o enfrentamento do candidato com fotógrafos. Sem perder tempo, adversários espalhavam, brincando, que o tucano queria, na verdade, privacidade para tingir o cabelo.
 
 Dando o exemplo
@@ -603,9 +603,9 @@ A direção nacional do PL decidiu intervir no diretório do partido no Mato Grosso
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-029</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-029</field>
+<field name="date">940526</field>
+<text_pt>
 Itamar e o Ministério da Administração crêem, diferentemente da Fazenda, que os gastos com pessoal estejam superestimados em US$ 4 bi. Daí a idéia de aumentar o salário dos servidores.
 
 Reação tucana
@@ -641,9 +641,9 @@ _ Somos avacalhados lá fora pois nos avacalhamos aqui dentro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-030</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-030</field>
+<field name="date">940526</field>
+<text_pt>
 Da Redação
 O juiz eleitoral de São Bernardo do Campo, Alex Tadeu Monteiro Vilenozki, determinou ontem a instauração de inquérito para apurar o uso do carro de som do Sindicato dos Metalúrgicos do ABCD em comícios do PT. A informação foi dada pelo juiz ao "TJ Brasil" do SBT.
 Vilenozki determinou também que a Polícia Militar impeça a utilização de equipamentos de sindicatos em comícios eleitorais.
@@ -652,9 +652,9 @@ A iniciativa do juiz atende ao pedido do corregedor regional eleitoral, Márcio M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-031</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-031</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente da CUT (Central Única dos Trabalhadores), Vicente Paulo da Silva, o Vicentinho, afirmou ontem que todos os candidatos à Presidência poderão usar o carro de som do sindicato. A legislação eleitoral proíbe.
 Para Vicentinho, Lula não feriu a legislação, pois ele foi convidado pela assembléia de trabalhadores para usar o carro de som.
@@ -666,9 +666,9 @@ Segundo Vicentinho, estes candidatos poderão levar "alguns cascudos" dos trabalh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-032</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-032</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal de Brasília
 O candidato do PSDB à Presidência, Fernando Henrique Cardoso, já escolheu as cinco prioridades de seu programa de governo _emprego, agricultura, segurança, saúde e educação.
 Para fixar esses cinco pontos na memória do eleitor, os tucanos decidiram que a marca da campanha será uma mão espalmada. Em cada dedo, estará destacada cada uma das propostas.
@@ -677,9 +677,9 @@ Emprego, por exemplo, também demonstraria uma preocupação com a necessidade de s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-033</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-033</field>
+<field name="date">940526</field>
+<text_pt>
 TALES FARIA
 GABRIELA WOLTHERS
 Da Sucursal de Brasília
@@ -697,9 +697,9 @@ Ontem, FHC almoçou com o presidente do PP, Àlvaro Dias, candidato ao governo do 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-034</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-034</field>
+<field name="date">940526</field>
+<text_pt>
 SÔNIA MOSSRI
 Da Sucursal de Brasília
 O candidato da aliança PSDB_PFL à Presidência, Fernando Henrique Cardoso, telefonou para o presidente Itamar Franco para desaconselhar a concessão de reajuste para o funcionalismo público federal antes da criação do real, em 1 de julho.
@@ -716,9 +716,9 @@ A intervenção de FHC foi considerada decisiva para evitar a concessão do reajust
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-035</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-035</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal de Brasília
 A discussão do reajuste dos salários do funcionalismo foi retomada anteontem pelo presidente Itamar Franco.
 Depois de uma reunião, à noite, como os ministros da Fazenda, Rubens Ricupero, da Administração Federal, Romildo Canhim, e do Estado Maior das Forças Armadas, Arnaldo Leite Pereira (Estado Maior das Forças Armadas), Itamar repassou para a área econômica a definição de um índice de reajuste para os servidores.
@@ -729,9 +729,9 @@ Neste caso, o argumento seria o impacto do reajuste sobre as contas públicas e, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-036</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-036</field>
+<field name="date">940526</field>
+<text_pt>
 Dois dos quatro debatedores consideram assembléia revisora exclusiva constitucional; dois dizem que não
 CLÁUDIA TREVISAN
 Da Reportagem Local
@@ -750,9 +750,9 @@ O debate foi realizado na quinta-feira passada e teve a mediação do advogado Wal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-037</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-037</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 A Folha promove hoje, às 19h30, o debate "A revisão exclusiva é necessária?".
 Participam quatro representantes da sociedade civil: Adib Jatene, diretor da Faculdade de Medicina da USP (Universidade de São Paulo) e ex-ministro da Saúde; José Augusto Guilhon Albuquerque, professor do departamento de Ciência Política da USP; Vicente Paulo da Silva, presidente da CUT (Central Única dos Trabalhadores); e Emerson Kapaz, coordenador do PNBE (Pensamento Nacional das Bases Empresariais).
@@ -766,9 +766,9 @@ A tese enfrenta resistências: a maioria dos parlamentares não acredita que o Con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-038</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-038</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 Tércio Sampaio Ferraz Júnior e Fábio Konder Comparato usaram argumenos jurídicos e políticos para defender a assembléia revisora exclusiva.
 Na opinião dos dois professores, o Congresso não possui isenção para aprovar mudanças necessárias no sistema político brasileiro.
@@ -792,9 +792,9 @@ Comparato acredita que a eleição direta dos membros de uma assembléia revisora e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-039</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-039</field>
+<field name="date">940526</field>
+<text_pt>
 Proposta abrange próximos presidente e governadores; ainda há divergências quanto aos atuais prefeitos
 Da Sucursal de Brasília
 Lideranças do Congresso Nacional estão elaborando uma emenda constitucional para permitir a reeleição do presidente da República e dos governadores a serem eleitos este ano. A votação seria após a revisão, já que a proposta de reeleição foi rejeitada pelo Congresso revisor.
@@ -811,18 +811,18 @@ Calculam que o primeiro ano seria de acomodação no cargo e o último de preocupaç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-040</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-040</field>
+<field name="date">940526</field>
+<text_pt>
 De Nova York
 O ex-secretário de Estado americano, Henry Kissinger, disse ontem que o ingresso de capital estrangeiro no Brasil pode diminuir caso Luiz Inácio Lula da Silva (PT) seja eleito presidente.
 Kissinger participou de almoço com cem investidores convidados pela corretora Merrill Lynch para analisar investimentos na América Latina. Segundo um participante, Kissinger disse que a proposta do PT de reduzir privatizações contraria a expectativa dos investidores.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-041</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-041</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 O delegado corregedor de Polícia Civil de São Paulo, Ruy Mello, disse ontem que foi apreendida uma agenda com nomes de policiais. A agenda teria sido encontrada com Expedito Peloso, o bicheiro conhecido por "Mineiro", durante uma blitz da polícia.
 A agenda traria 130 nomes. O único completo disse Mello, é o do diretor da Divisão de Informática, Cláudio Gobetti. "Só revelamos o nome de Gobetti pois é o único que aparece completo", disse o delegado corregedor.
@@ -831,9 +831,9 @@ Gobetti poderá ter seu sigilo bancário quebrado, afirmou Mello. Nunca falei com 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-042</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-042</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal de Brasília
 O Ministério da Fazenda avalia, reservadamente, que o anúncio de breves remarcações nos supermercados, feito segunda-feira pelo empresário Abílio Diniz, teve o objetivo de estimular vendas.
 Para a área técnica da Fazenda, Diniz, dono da rede de supermercados Pão de Açucar, acabou provocando uma corrida preventiva aos supermercados.
@@ -844,38 +844,38 @@ Colaborou a Reportagem Local e a Agência Folha, em Porto Alegre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-043</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-043</field>
+<field name="date">940526</field>
+<text_pt>
 
 PSORÍASE - Um paciente recebendo tratamento contra psoríase, uma doença crônica de pele, quase pegou fogo enquento fumava. Segundo médicos da Universidade de Michigan, nos EUA, surgiram chamas no peito do paciente, um homem de 46 anos. O paciente apagou-as imediatamente. Um artigo na última edição da revista "New England Journey of Medicine" relata que o paciente recebia um tratamento à base de extrato de alcatrão que continha até 15% de álcool.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-044</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-044</field>
+<field name="date">940526</field>
+<text_pt>
 Representantes dos EUA e do Egito se reuniram ontem no Cairo para negociar um cessar-fogo para a guerra no Iêmen. O governo egípcio afirma estar em contato com autoridades do Iêmen e de outros países árabes. Ontem, foram enterradas vítimas do ataque de míssil Scud a Sanaa (a capital do país, no norte), que matou 15 pessoas e feriu mais de 80 anteontem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-045</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-045</field>
+<field name="date">940526</field>
+<text_pt>
 Dezenas de jovens israelenses foram ontem à frente do Knesset, o Parlamento de Israel, protestar contra a falta de notícias sobre soldados desaparecidos em ações no Líbano. Todos vestiam uniformes militares. Na semana passada, Israel sequestrou o líder guerrilheiro libanês Mustafá Dirani para obter mais informações sobre o paradeiro dos soldados israelenses.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-046</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-046</field>
+<field name="date">940526</field>
+<text_pt>
 A Rússia afirmou ontem que quer "ligações especiais" com a Otan. Mas membros da aliança militar ocidental disseram que a Rússia não vai poder interferir em sua independência. Anteontem, o ministro russo da Defesa, Pavel Gratchov, anunciou que seu país vai entrar para a "Parceria pela Paz" _plano de cooperação que não dá status de membro definitivo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-047</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-047</field>
+<field name="date">940526</field>
+<text_pt>
 Com seu filho de cinco meses no colo, Denise Bulger (foto) levou ontem ao Ministério do Interior do Reino Unido 280 mil assinaturas de pessoas pedindo prisão perpétua para os dois garotos de 11 anos que mataram seu filho James, 2, no ano passado.
 
 Número de mortos em Mina é desconhecido
@@ -898,9 +898,9 @@ O secretário-geral da ONU disse que, se sua saúde permitir, vai concorrer à reel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-048</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-048</field>
+<field name="date">940526</field>
+<text_pt>
 NADJIA BOUZEGHRANE
 Do "El Watan"
 Djamal Eddine Bencheikh, professor de literatura árabe no Collège de France, oferece sua leitura do drama vivido pela Argélia hoje, fazendo frequentes incursões no passado da França e do Magreb (norte da África).
@@ -934,9 +934,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-049</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-049</field>
+<field name="date">940526</field>
+<text_pt>
 TAHAR DJAOUT
 Da "Ruptures"
 Tendo em vista a situação de crise profunda que a Argélia vive e que atrapalha qualquer perspectiva de futuro, será que a salvação não residiria numa escolha resoluta, a escolha que arrancaria a Argélia das trevas para impulsioná-la em direção à luz do dia?
@@ -948,9 +948,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-050</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-050</field>
+<field name="date">940526</field>
+<text_pt>
 O professor de inglês Humberto Mello, 34 (foto), é o autor do livro "Viver Bem em Tempos de Aids", que acaba de ser lançado pela Editora da Anta Casa (tel. 011-572.1206). Mello relata experiências de portadores do HIV, fala de terapias alternativas, alimentação e sexualidade. É membro do GIV (Grupo de Incentivo à Vida) de São Paulo.
 
 O NÚMERO
@@ -967,9 +967,9 @@ Três praias de Ilhabela foram atingidas ontem pelo óleo que vazou do oleoduto da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-051</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-051</field>
+<field name="date">940526</field>
+<text_pt>
 A Escola de Veterinária da Universidade Federal de Goiás vai promover no sábado um curso de fenação dentro do projeto "Dia de Campo". Com cinco etapas, o curso vai mostrar o processo de produção e uso do feno na alimentação animal. Tel. (062) 205-1200.
 
 Mato Grosso do Sul 1
@@ -983,9 +983,9 @@ Três pessoas foram presas em flagrante anteontem por uma equipe da Pua (Policiam
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-052</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-052</field>
+<field name="date">940526</field>
+<text_pt>
 ANTENOR CHICARINO
 O Consema (Conselho Estadual do Meio Ambiente) aprecia hoje o parecer sobre o Eia/Rima (Estudo e Relatório de Impacto Ambiental), sobre a construção da Hidrelétrica de Tijuco Alto, no Vale do Ribeira. É preciso alertar a opinião pública para a catástrofe que esta obra pode acarretar.
 A modernidade alardeada pelo empresariado brasileiro não é assimilada por um dos seus líderes exponenciais. A tentativa do empresário Antônio Ermírio de Moraes de construir barragens na região demonstra com clareza que ele encara a avaliação ambiental como mero procedimento burocrático que atrasa seu empreendimento.
@@ -1001,9 +1001,9 @@ ANTENOR CHICARINO, 41, é deputado estadual pelo PT em São Paulo e membro efetivo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-053</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-053</field>
+<field name="date">940526</field>
+<text_pt>
 Termina hoje em Belo Horizonte o 11º Congresso Mineiro de Municípios. O evento, que teve início na terça, teve como tema a "Autonomia Municipal". O encontro foi promovido pelo Governo Estadual e organizado pela Associação Mineira dos Municípios.
 
 SP Litoral 1
@@ -1023,9 +1023,9 @@ As irradiações das antenas de telefonia celular de Campinas não oferecem riscos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-054</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-054</field>
+<field name="date">940526</field>
+<text_pt>
 A Polícia do Paraná apresentou anteontem, em Curitiba, uma quadrilha especializada em assaltos a bancos e carros fortes. Nove homens foram presos. Segundo a polícia, eles se preparavam para um assalto a banco em Campinas (SP). 
 
 Paraná 2
@@ -1039,9 +1039,9 @@ Mergulhadores do Corpo de Bombeiros procuram desde domingo os pescadores Luiz Ac
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-055</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-055</field>
+<field name="date">940526</field>
+<text_pt>
 Os motoristas das empresas de transporte por fretamento que atuam no Distrito Industrial de Manaus não devem entrar em greve, como estava previsto no início da semana. O Sindicato dos Rodoviários aprovou o aumento real de salário de 26,98%.
 
 Amazonas 2
@@ -1067,9 +1067,9 @@ O juiz Geraldo da Luz, da 1ª Pretoria Criminal, mandou publicar no Diário Oficia
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-056</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-056</field>
+<field name="date">940526</field>
+<text_pt>
 Quinze técnicos da Divisão de Vigilância Sanitária e da Fundação Nacional de Saúde estão com as atividades de prevenção ao cólera no interior da Paraíba paralisadas desde a última semana. O motivo da paralisação é a quebra do único existente para o serviço.
 
 Paraíba
@@ -1095,9 +1095,9 @@ O secretário de Saúde de Alagoas, Rosivaldo Queiroz, lançou esta semana uma camp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-057</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-057</field>
+<field name="date">940526</field>
+<text_pt>
 DANIELA PINHEIRO
 Da Sucursal de Brasília
 O Itamaraty considerou um "anacronismo" a decisão do governo americano de restringir os vistos a no máximo três meses, a partir do dia 18 de julho.
@@ -1116,9 +1116,9 @@ Em 93, o montante arrecadado com vistos foi de US$ 20 milhões. Isso corresponde 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-058</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-058</field>
+<field name="date">940526</field>
+<text_pt>
 Suspeitos fariam parte de quadrilha que faz ligação Bolívia-Europa; 12,5 kg de cocaína são apreendidos
 Da Reportagem Local
 A polícia apreendeu anteontem, às 22h, 12,5 quilos de cocaína e prendeu oito acusados de fazerem parte de uma quadrilha de traficantes que compra cocaína na Bolívia para vendê-la na Europa.
@@ -1135,9 +1135,9 @@ O delegado não soube informar para qual país da Europa a cocaína seria vendida. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-059</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-059</field>
+<field name="date">940526</field>
+<text_pt>
 Do enviado especial
 Como sempre em disputas ambientais, confrontam-se no caso de Tijuco Alto duas concepções opostas de desenvolvimento.
 De um lado, a visão de que danos ambientais e sociais são o preço a pagar pela expansão. Para gerar empregos, ecossistemas e pequenos grupos podem sofrer.
@@ -1158,9 +1158,9 @@ Tudo isso para gerar energia elétrica destinada a produzir alumínio para exporta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-060</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-060</field>
+<field name="date">940526</field>
+<text_pt>
 Do enviado especial
 Uma das comunidades que vai desaparecer com a construção de barragens no Ribeira de Iguape é Ivaporunduva. Ali vivem 85 famílias descendentes de escravos, um dos últimos remanescentes de quilombos do Estado de São Paulo.
 Eles estão ali desde 1650, diz o líder João Rodrigues da Silva, 33. Eram negros foragidos durante o ciclo do ouro do século 17.
@@ -1171,9 +1171,9 @@ A Constituição Federal também protege os remanescentes de quilombos. Pelo artigo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-061</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-061</field>
+<field name="date">940526</field>
+<text_pt>
 Da FT
 Cerca de 110 mil pessoas ficarem sem ônibus ontem no Jardim D'Abril (zona oeste). Os motoristas da Viação Castro, que faz a maioria das linhas na região, entraram em greve desde as 3h de ontem. Apenas 30% da frota circulou. A empresa espera que a situação se normalize hoje.
 Durante toda a manhã, grevistas impediram os motoristas de trabalhar, segundo a direção da empresa. Cerca de 20 ônibus foram depredados, de acordo com a Viação Castro, mas o prejuízo não havia sido calculado até o final da tarde.
@@ -1185,9 +1185,9 @@ O prefeito Paulo Maluf afirmou que o aumentos de salário implicaria aumento real
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-062</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-062</field>
+<field name="date">940526</field>
+<text_pt>
 Saiba onde encontrar grapa, arak, kirsch e saquê, destilados fortes e típicos de Euroa e Ásia
 Da Reportagem Local
 Sem sair de São Paulo, há como dar a volta ao mundo pelos restaurantes étnicos da cidade saboreando suas bebidas típicas - desde as já assimiladas saquê ( Japão) e jerez (Espanha) até a impronunciável egri bikaveree (Hungria).
@@ -1213,9 +1213,9 @@ O produto nacional, a caninha também é boa alternativa para espantar o frio. A c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-063</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-063</field>
+<field name="date">940526</field>
+<text_pt>
 Treinador da seleção brasileira diz que time fez uma corrente "que não se romperá"
 JOÃO MÁXIMO
 Da Sucursal do Rio
@@ -1235,9 +1235,9 @@ O goleiro Taffarel será o número 1, seguido de Jorginho (2), Ricardo Rocha (3), 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-064</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-064</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal do Rio
 O tremor de terra, ontem, em Los Angeles, não preocupou nem Parreira nem Zagalo. Um e outro preferiram rebater a notícia com pensamentos positivos.
 "Como sou otimista, viajo com a certeza de que, nos próximos dois meses, não haverá terremoto na Califórnia", disse Parreira.
@@ -1250,9 +1250,9 @@ Parreira acredita que pensamento positivos ajudam. Zagalo acha que a recíproca é
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-065</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-065</field>
+<field name="date">940526</field>
+<text_pt>
 Equipe possui defesa compacta
 JOHAN CRUYFF
 Especial para a Folha
@@ -1272,9 +1272,9 @@ O holandês Johan Cruyff, técnico do Barcelona, tetracampeão espanhol, escreve às
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-066</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-066</field>
+<field name="date">940526</field>
+<text_pt>
 JAIRO DO SANTOS
 Especial para a Folha
 A Coréia do Sul tem como seu objetivo maior alcançar a segunda fase da Copa do Mundo, o que ainda não conseguiu.
@@ -1293,9 +1293,9 @@ Jairo dos Santos, 48, trabalha como observador para a seleção brasileira desde a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-067</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-067</field>
+<field name="date">940526</field>
+<text_pt>
 CARLOS SARLI
 Infelizmente o profissionalismo é o destino de todo esportista amador. O garoto começa apaixonado por seu ídolo e vai pegar onda, escalar paredes, saltar de pára-quedas ou jogar futebol. Desenvolve e aprimora técnicas, exercita os músculos e se realiza em uma competição sadia.
 Acompanhando o 15º Mundial de Surfe Amador, na semana passada, no Rio de Janeiro, vi jovens entusiasmados pondo sangue e garra para se desenvolverem e conquistarem pontos para si mesmos e para suas equipes _os seus países.
@@ -1311,9 +1311,9 @@ Triste sina essa carreira meteórica atrás da ilusão. Bem melhor seria, chegar ao
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-068</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-068</field>
+<field name="date">940526</field>
+<text_pt>
 
 
 Fernando Aguirre é argentino, mora nos Estados Unidos e tem uma marca com nome brasileiro. "Big boss" da Reef Brazil, Aguirre assumiu na semana passada o comando da ISA (International Surfing Association), entidade responsável pelo surfe amador mundial. Se ele conduzir a entidade tão bem quanto a produção de suas sandálias, famosas no mundo todo, ponto para o surfe.
@@ -1322,9 +1322,9 @@ Fábio Gouveia está com a pilha toda no Japão. O paraibano arretado ficou em segu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-069</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-069</field>
+<field name="date">940526</field>
+<text_pt>
 Eleito melhor desta temporada, pivô garante estava melhor no ano passado
 Das agências internacionais
 O pivô Hakeem Olajuwon, do Houston Rockets, eleito como o melhor jogador da temporada e como o melhor jogador defensivo do ano, disse que os prêmios não mudam sua maneira de pensar.
@@ -1341,9 +1341,9 @@ Os dois times voltariam a se enfrentar ontem em Houston. No intervalo, David Ste
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-070</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-070</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 A seleção brasileira masculina de vôlei fez ontem à tarde seu primeiro treino no ginásio do Mineirinho (zona norte de Belo Horizonte), onde enfrenta no próximo fim-de-semana a Grécia pela quarta rodada da Liga Mundial/94.
 José Roberto Guimarães, ao ser indagado sobre o porquê de, apesar de o time contar com astros como Giovane, Tande e Maurício, não enfrenta problemas como os de seu colega Carlos Alberto Parreira, com Romário, o técnico disse: "No vôlei não existem estrelas. Todos são uma grandeza só".
@@ -1359,9 +1359,9 @@ As jogadoras da seleção estão dispensadas até este domingo, quando se reapresent
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-071</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-071</field>
+<field name="date">940526</field>
+<text_pt>
 Curva Repsol
 a área de escape e a caixa de brita (pedras que ajudam a parar os carros) foram ampliadas na saída da curva. Pneus foram colocados antes do muro de proteção
 Chicane Nissan
@@ -1375,9 +1375,9 @@ o circuito conta com caminhos para ambulâncias e carros de socorro interna e ext
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-072</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-072</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal do Rio
 A surpresa do embarque da seleção, ontem, no Rio, foi o fato de Romário ter sido o primeiro da delegação a chegar ao aeroporto, não tanto por ser um habitual retardatário, mas por ter passado em claro, numa reunião de amigos, toda a noite anterior.
 A reunião, num terreno da Barra Tijuca (zona sul), começou com um jogo de futebol do qual ele foi o juiz e acabou com uma festa de despedida. O jogador só chegou em casa às 7h.
@@ -1389,9 +1389,9 @@ Já o lateral Branco comentou com os jornalistas os três quilos perdidos: "Se con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-073</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-073</field>
+<field name="date">940526</field>
+<text_pt>
 Amanhã se comemora o centenário do nascimento do escritor Dashiell Hammett, autor de "O Falcão Maltês"
 RUY CASTRO
 Especial para a Folha
@@ -1406,30 +1406,30 @@ sobre Dashiell Hammett à pág. 5-3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-074</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-074</field>
+<field name="date">940526</field>
+<text_pt>
 A MCA/Universal anunciou que as vendas de brinquedos, livros, roupas e games ligados ao "blockbuster" "Parque dos Dinossauros" já atingiram US$ 1 bilhão. O lançamento em vídeo do filme está marcado para 4 de outubro. Nos EUA, a fita custará US$ 24,98.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-075</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-075</field>
+<field name="date">940526</field>
+<text_pt>
 O prédio de número 254 west na 54 street, em Manhattan, conhecido por ter abrigado nos anos 70 e 80 a mítica casa noturna Studio 54, será leiloado. O evento será no hotel Waldorf Astoria, em NY, dia 21 de junho. Quem quiser, que separe cerca de US$ 5 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-076</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-076</field>
+<field name="date">940526</field>
+<text_pt>
 Assim como Schiffer, Barbra Streisand quer entrar na luta contra a Aids. Pediu a Larry Kramer a adaptação para a tela de sua peça "The Normal Heart". Além de dirigir o filme, Barbra será Linda Laubenstein, doutora que iniciou o tratamento de aidéticos em NY.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-077</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-077</field>
+<field name="date">940526</field>
+<text_pt>
 Experiência como detetive deu ao autor uma visão realista e crua do mundo da bandidagem
 Especial para a Folha
 Durante a temporada em que trabalhou como detetive na Pinkerton, Hammett viajara pelo país e privara com pessoas com quem nem sempre se convive em sociedade: punguistas, traficantes, contrabandistas, ladrões de banco. Todas as mulheres com quem cruzara durante o expediente pareciam ser vigaristas, prostitutas e até chefes de quadrilhas.
@@ -1446,9 +1446,9 @@ Quando morreu, em 1961, Hammett tornara-se tão "clássico" quanto Conan Doyle, o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-078</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-078</field>
+<field name="date">940526</field>
+<text_pt>
 Especial para a Folha
 Para refazer o roteiro de "O Falcão Maltês" em San Francisco, o ponto de referência é a Union Square, perto de Chinatown.
 A dois quarteirões da praça, quase na esquina de Bush Street com Stockton Street, há uma ruazinha sem saída, Burritt Street, onde os peritos em Dashiell Hammett afixaram uma placa: "Milles Archer foi morto aqui". Archer é o sócio de Sam Spade, assassinado logo no começo do livro.
@@ -1460,9 +1460,9 @@ O território de "O Falcão Maltês" não é dos mais recomendáveis atualmente. É mel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-079</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-079</field>
+<field name="date">940526</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 O presidente dos EUA, Bill Clinton, parou sua limusine na Connecticut Avenue em Washington no ano passado, entrou em uma das lojas da rede Mystery Books e comprou três novelas de detetives.
@@ -1482,9 +1482,9 @@ Uma outra explicação plausível para o fato de os seguidores de Hammett não terem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-080</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-080</field>
+<field name="date">940526</field>
+<text_pt>
 SERGIO AUGUSTO
 Da Sucursal do Rio
 Dashiell Hammett não foi a maior glória literária da América, mas talvez tenha sido a maior glória literária de Hollywood. Mesmo sem deter o recorde de romances e contos adaptados ao cinema, nem o de produção de roteiros. Nenhum outro escritor, contudo, ganhou na tela mais intérpretes do que ele. Três ao todo: Jason Robards em "Julia", Frederic Forrest no biográfico "Hammett, Mistério em Chinatown", e James Coburn (disfarçado como Hamilton Nash) no telefilme "The Dain Curse".
@@ -1501,9 +1501,9 @@ Hammett inventou ainda um gordo ("fat man"), este sim protagonista de uma série 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-081</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-081</field>
+<field name="date">940526</field>
+<text_pt>
 ANA FRANCISCA PONZIO
 Especial para a Folha
 O Ballet Stagium, com o espetáculo "Paulistânia", e "Carmina Burana", peça do grupo teatral polonês Gardzienice, são as estréias de hoje do 4º Festival Internacional de Artes Cênicas.
@@ -1527,9 +1527,9 @@ Através desses temas medievais, o grupo Gardzienice cria imagens alegóricas sobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-082</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-082</field>
+<field name="date">940526</field>
+<text_pt>
 Ronnie Earl e Robben Ford, que tocam hoje no festival, afirmam que blues não parou de se transformar
 MARCEL PLASSE
 Free-lance para a Folha
@@ -1552,9 +1552,9 @@ Após tocar com artistas tão diferentes quanto Joni Mitchell, Kiss e Miles Davis,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-083</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-083</field>
+<field name="date">940526</field>
+<text_pt>
 Das Regionais
 O guitarrista e cantor norte-americano Lonnie Brooks é a principal atração no próximo sábado do Nescafé &amp; Blues, no Palace. É a primeira apresentação do músico no Brasil.
 Autodidata, Brooks só começou a tocar guitarra aos 22 anos. Com uma infância ligada à música, o guitarrista costumava ouvir estilos como o country, o zydeco - fusão de blues e country com uma pitada de música francesa - e o então emergente rock'n'roll.
@@ -1579,9 +1579,9 @@ Brooks - Posso tocar até duas horas. Depende da reação da platéia. No Brasil, eu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-084</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-084</field>
+<field name="date">940526</field>
+<text_pt>
 O filme de Schlondorff, baseado no livro "Homo Faber", de Max Frisch, encena tragédia existencialista
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1607,9 +1607,9 @@ Distribuidora: Paris Vídeo Filmes (tel. 011/864-3155)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-085</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-085</field>
+<field name="date">940526</field>
+<text_pt>
 Da Redação
 Buster Keaton faz a média de uma gag por minuto em seus "Amores de um Colegial". Nada mal. Ainda mais quando se considera que seu humor tinha uma natureza quase oposta à de Chaplin, por exemplo.
 Em Chaplin, o humor depende dele, de sua figura, de seus gestos. O personagem de Keaton, ao contrário, se dispõe no espaço, na relação que se tece entre as coisas e pessoas em cena e, mesmo, entre estas e a câmera.
@@ -1630,9 +1630,9 @@ Distribuição: International Classics (tel. 011/285-5599)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-086</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-086</field>
+<field name="date">940526</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 "Kalifornia", em seus melhores momentos, é um envolvente filme de ação.
@@ -1652,9 +1652,9 @@ Lançamento: Europa Home Video (tel. 011/579-6522)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-087</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-087</field>
+<field name="date">940526</field>
+<text_pt>
 Filme é estréia do diretor Rodriguez
 EDSON FRANCO
 Das Regionais
@@ -1675,9 +1675,9 @@ Distribuidora: LK-Tel (tel. 011/825-5766)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-088</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-088</field>
+<field name="date">940526</field>
+<text_pt>
 Da Redação
 Morreu ontem em São Paulo, aos 75 anos, o produtor cinematográfico Oswaldo Massaini, ganhador da Palma de Ouro no Festival de Cannes de 1962, com o filme "O Pagador de Promessas", dirigido por Anselmo Duarte.
 Massaini morreu às 5h30 da manhã no Hospital Osvaldo Cruz. Seu corpo foi velado a partir de 12h no MIS (av. Europa, 158, Jardins, zona Oeste). O enterro será hoje às 9h no Cemitério São Paulo.
@@ -1692,9 +1692,9 @@ Massaini foi um produtor tradicional, que controlava o processo de realização ta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-089</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-089</field>
+<field name="date">940526</field>
+<text_pt>
 Escoceses misturam o gargarejo predileto de tio Dave com substâncias heréticas como Coca-Cola e 7-Up
 DAVID DREW ZINGG
 Em São PauloJackie se foi, deixando sua imagem congelada no tempo. Como fotógrafo, eu dei minha minúscula contribuição para ajudar a construir a imagem da única princesa da Gringolândia. Quando Jack Kennedy foi morto, Jackie entrou em retiro. As imagens que sempre vêm à mente são as de uma jovem deusa envolta em mistério.
@@ -1745,9 +1745,9 @@ Tradução de Clara Allain
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-090</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-090</field>
+<field name="date">940526</field>
+<text_pt>
 ERIKA PALOMINO
 Colunista da Folha
 Quem acompanhou o circuito dos desfiles de lançamento das coleções de outono-inverno em São Paulo já está careca de saber: o prata é um dos pontos obrigatórios da moda nesta estação.
@@ -1758,9 +1758,9 @@ Medo de adquirir seu modelo prata e encarnar um fashion victim tardio, enchendo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-091</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-091</field>
+<field name="date">940526</field>
+<text_pt>
 Da Redação
 Jacqueline Bouvier Kennedy Onassis não passou para a história apenas como uma primeira-dama americana. Fez parte do imaginário de três décadas, lançou moda, virou ícone do mundo pop. Jackie foi enterrada na segunda-feira nos EUA, mas sua imagem está cristalizada na memória deste século. Seja na obra de Andy Warhol, no clube noturno mais moderno de Nova York, o Jackie 60, e até nos figurinos de Ilka Tibiriçá, a personagem de Cassia Kiss em "Fera Ferida".
 Falando em termos de moda, especificamente, Coco Chanel um dia disse que Jackie Kennedy era "a mulher mais mal-vestida de todo o mundo". Coisas de Mademoiselle.
@@ -1771,9 +1771,9 @@ Criticada por usar pouco os estilistas americanos, Jackie lançou o então inciant
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-092</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-092</field>
+<field name="date">940526</field>
+<text_pt>
 cineasta, 23 anos
 Foi aos 13 anos que Cristiano Metri decidiu ser cineasta. Ainda inexperiente, comprou uma filmadora Super 8 e trabalhou com animação.
 No ano passado, inscreveu-se no Festival do Minuto com "Eva Jones", filme que contava a história de uma lavadeira que comia sabão. Ganhou o prêmio do júri popular e a atenção do meio.
@@ -1782,9 +1782,9 @@ Cristiano diz que não gosta de pensar nas dificuldades de fazer cinema. Se defin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-093</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-093</field>
+<field name="date">940526</field>
+<text_pt>
 Da Sucursal do Rio
 Se Ary Barroso foi o rei do samba-exaltação, em que trono devemos pôr o também mineiro Alcir Pires Vermelho?
 Para o historiador de música popular Jairo Severiano, há que se dividir o reino entre os dois. Concordo. E decerto hão de concordar todos aqueles que já ouviram o mesmo Chico Alves da "Aquarela do Brasil" cantar "Onde o Céu Azul É Mais Azul", uma das obras-primas do gênero.
@@ -1796,9 +1796,9 @@ Grande melodista, Alcir meteu-se até a compor bolero. Apesar da letra cretina, c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-094</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-094</field>
+<field name="date">940526</field>
+<text_pt>
 
 E se o Otávio Mesquita continuar engordando vai ter que mudar o nome do programa para "Pernil". Rarará!
 JOSÉ SIMÃO
@@ -1811,9 +1811,9 @@ E a única coisa moderna do Quércia é ser conterrâneo do Clinton _Little Rock, Pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-095</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-095</field>
+<field name="date">940526</field>
+<text_pt>
 Meredith Monk e Vozes Búlgaras são atrações do Festival de Campos
 Da Reportagem Local
 Em julho você poderá ouvir a orquestra sinfônica polonesa da cidade de Katowice, a compositora norte-americana Meredith Monk e o grupo vocal O Mistério das Vozes Búlgaras.
@@ -1832,9 +1832,9 @@ A maioria dos concertistas participa também de alguma atividade didática. O fest
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-096</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-096</field>
+<field name="date">940526</field>
+<text_pt>
 
 Da Reportagem Local
 A Secretaria de Estado da Cultura oferece este ano 600 bolsas para o festival. As bolsas incluem transporte (São Paulo-Campos do Jordão), alojamento e alimentação.
@@ -1848,9 +1848,9 @@ O prazo para as incrições termina no próximo dia 6.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-097</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-097</field>
+<field name="date">940526</field>
+<text_pt>
 
 O maestro alemão Wolfgang Sawallisch deve reger peças difíceis, como a 'Quarta Sinfonia' de Bruckner
 JOÃO BATISTA NATALI
@@ -1874,9 +1874,9 @@ Sawallisch assume para ser "heavy" em todos os aspectos. A conferir com o repert
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-098</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-098</field>
+<field name="date">940526</field>
+<text_pt>
 PATRÍCIA TRUDES DA VEIGA
 Enviada especial ao Caribe mexicano
 Chegou a vez do mar do Caribe. Depois da Disney e do centro de Miami, os brasileiros invadiram as águas azuis do golfo do México. Um dos roteiros mais procurados _Key West-Cancún-Cozumel_ custa US$ 789 (CR$ 1,3 milhão) no transatlântico Seaward. A bordo, muita mordomia e uma comelança desvairada (são seis refeições por dia); no mar, corais e peixes coloridos a perder de vista; em terra, visitas-relâmpago às ruínas maias e toltecas. Nada é perfeito.
@@ -1885,9 +1885,9 @@ PATRÍCIA TRUDES DA VEIGA, editora-interina de Turismo, viajou no Seaward a convi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-099</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-099</field>
+<field name="date">940526</field>
+<text_pt>
 ANA LÚCIA BUSCH
 Enviada especial ao Caribe norte-americano
 Os EUA provam que o Caribe não se resume a praias e ruínas. Nas Ilhas Virgens, areias brancas e mar cristalino são só uma parte do paraíso americano. Shoppings têm preços até 40% menores que no restante do país. O comércio fecha às 17h. A opção é voltar às praias e assistir shows típicos, que terminam às 23h. A noite é para dormir.
@@ -1899,9 +1899,9 @@ ANA LÚCIA BUSCH, editora dos Regionais, viajou a convite da ITR Representações T
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-100</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-100</field>
+<field name="date">940526</field>
+<text_pt>
 Música bahamense vai tomar conta das ruas de Coconut Grove; bairro é ponto de partida para o melhor da cidade
 Da enviada especial a Miami (EUA)
 Goombay, anunciado como um dos maiores festivais de herança negra da América, promete sacudir Miami em junho. A festa bahamense, com danças de rua, celebra a ligação de Miami com o Caribe.
@@ -1921,9 +1921,9 @@ Seus 70 aposentos são decorados com mobiliário barroco, pinturas e tapeçarias re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-101</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-101</field>
+<field name="date">940526</field>
+<text_pt>
 Da enviada especial ao Caribe mexicano
 Ela já foi porto seguro de piratas e foras da lei; seus recifes e bancos de areia provocaram incontáveis naufrágios e enriqueceram alguns espertos ilhéus; no século passado, viu sua economia crescer assustadoramente com a pesca de esponjas-do-mar e com a produção das fábricas de charutos cubanos.
 Key West, um século depois, descobriu no turismo uma altíssima fonte de renda. A ilha mais ao sul dos EUA, com apenas seis quilômetros de comprimento e três quilômetros de largura, passou a ser a primeira escala para os cruzeiros marítimos que partem de Miami rumo ao golfo do México.
@@ -1933,9 +1933,9 @@ Para conhecer um pouco da ilha o melhor é passear a pé. As casas, em tons pastéi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-102</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-102</field>
+<field name="date">940526</field>
+<text_pt>
 Os sítios arqueológicos, bem fora do perímetro urbano, são uma das maiores heranças das civilizações maia e tolteca
 Da enviada especial ao Caribe mexicano
 Há 20 anos, Cancún era apenas um pequeno e primitivo povoado de pescadores no extremo oeste do golfo do México. Inacessível, guardava a sete chaves seu maior tesouro: uma água azul-turquesa maravilhosamente selvagem.
@@ -1949,9 +1949,9 @@ Só de lá é possível ter uma nocão da dimensão desse conjunto dos séculos 600-900
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-103</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-103</field>
+<field name="date">940526</field>
+<text_pt>
 Seaward vai a Key West, Cancún e Cozumel
 Da enviada especial
 Quem viaja pelas águas do golfo do México tem a nítida sensação de que são as ilhas que, inesperadamente, vêm de encontro ao transatlântico.
@@ -1968,9 +1968,9 @@ Seaward - Reservas no Brasil na Sailway, telefones (011) 259-4466 (021) 240-6700
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-104</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-104</field>
+<field name="date">940526</field>
+<text_pt>
 Seguindo-se pelo vale do rio que banha a cidade, chega-se a pacatas cidades famosas pelas lojas de antiguidades
 ANDREW GREENLEES
 Em Cold Spring
@@ -1991,9 +1991,9 @@ Os moradores locais não deixam de fazer propaganda da tranquilidade e beleza da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-105</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-105</field>
+<field name="date">940526</field>
+<text_pt>
 Em Cold Spring
 Quase toda cidade do nordeste americano tem uma história que envolve George Washington, herói da independência dos Estados Unidos e primeiro presidente do país.
 Ele acampou ali, hospedou-se em casa da região, tinha algum parente entre os moradores, deu nome a algum lugar. Enfim, no que depende da tradição de cada lugarejo, Washington passou por ali.
@@ -2007,9 +2007,9 @@ Os preços nos dois hotéis variam de US$ 80 (CR$ 134 mil) a US$ 120 (CR$ 202 mil)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-106</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-106</field>
+<field name="date">940526</field>
+<text_pt>
 Em Tarrytown
 Para conhecer alguns dos pontos mais belos e interessantes do vale do rio Hudson é indispensável percorrê-lo de barco.
 Do porto de Nova York, saem excursões que duram cerca de sete horas, com guias que vão apontando os pontos de interesse.
@@ -2027,9 +2027,9 @@ Existe ainda a opção de se fazer uma visita a Kykuit, casa de verão da família R
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-107</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-107</field>
+<field name="date">940526</field>
+<text_pt>
 Reforma terá um custo total de US$ 1,1 bilhão; nova ala, Richelieu, aumentou a área em cerca de 21,5 mil m2
 FEDERICO MENGOZZI
 Free-lance para a Folha
@@ -2047,9 +2047,9 @@ Visitar o Louvre ficou mais fácil. Já resistir ao que o Louvre oferece ficou bem
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-108</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-108</field>
+<field name="date">940526</field>
+<text_pt>
 Free-lance para a Folha
 "La Gioconda" é o mais famoso ícone de um museu repleto deles.
 Do meio sorriso da Mona Lisa, pintado por Leonardo da Vinci de 1503 a 1507, ao meio sorriso do escriba esculpido em calcário por um anônimo artista egípcio da Quarta Dinastia, o visitante tem muito para ver e tudo para sorrir.
@@ -2066,9 +2066,9 @@ Vá ao café, folheie os livros de arte, escolha um objeto para presente, almoce n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-109</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-109</field>
+<field name="date">940526</field>
+<text_pt>
 Free-lance para a Folha
 É preciso ter fôlego de sete gatos para acompanhar a programação mensal do Museu do Louvre.
 Em junho, por exemplo, a agenda de conferências e palestras da instituição aborda assuntos como a atualidade arqueológica do mundo antigo, a cartografia medieval e o circuito de arte Flandres-Itália-França.
@@ -2083,9 +2083,9 @@ Entre os temas, a visão da beleza no cotidiano, iniciação à escrita cuneiforme e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-110</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-110</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 Aproveitando a proximidade da Copa do Mundo, a Victori Paging, que opera no Brasil a marca Teletrim, começou esta semana a vender assinaturas do Skytel, primeiro '' pager'' de cobertura internacional do país. O "pager' é uma espécie de bip eletrônico que recebe mensagens escritas.
 Com esse aparelho, será possível receber mensagens nos EUA, Canadá, México, Ilhas Virgens, Havaí, Bermudas, Bahamas, Porto Rico, Argentina, Cingapura, Hong Kong e Malásia.
@@ -2100,9 +2100,9 @@ Conversões pelo dólar - turismo a CR$ 1.680,00.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-111</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-111</field>
+<field name="date">940526</field>
+<text_pt>
 Estão previstos mais de 50 shows, concursos culinários, esportivos e de dança
 Free-lance para a Folha
 A 4ª Festa Nacional do Pinhão, que acontece na cidade de Lages, no planalto catarinense, no período de 1º a 12 de junho, tem o objetivo de resgatar a cultura da região e promover intercâmbio cultural com o restante do Estado e do país.
@@ -2123,9 +2123,9 @@ No ano passado, mais de 300 mil pessoas participaram da festa, e consumiram cerc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-112</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-112</field>
+<field name="date">940526</field>
+<text_pt>
 Roteiros custam de US$ 2.150 a US$ 4.900, incluindo hotel, refeições, aulas e aluguel de equipamentos de esqui
 Da Reportagem Local
 Um pouco mais distantes dos brasileiros, as pistas chilenas são, em compensação, mais próximas da capital do país, Santiago.
@@ -2159,9 +2159,9 @@ Conversões pelo dólar-turismo (pacotes) a CR$ 1.680,00 e pelo dólar-Iata (passag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-113</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-113</field>
+<field name="date">940526</field>
+<text_pt>
 A temporada começa em julho, mas as agências já vendem roteiros para Bariloche, Chapelco e Las Leñas
 Da Reportagem Local
 A temporada de esqui na América do Sul começa no início de julho, e, para os interessados, é bom começar a reservar seu lugar.
@@ -2205,9 +2205,9 @@ Conversões pelo dólar-turismo (pacotes) a CR$ 1.680,00 e pelo dólar-Iata (passag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-114</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-114</field>
+<field name="date">940526</field>
+<text_pt>
 Quem planeja viajar para vários países deve providenciar o visto com 40 dias de antecedência; veja as exigências
 Da Reportagem Local
 A não-exigência de vistos de entrada para os turistas brasileiros no exterior nem sempre significa que não haverá problemas. Na Europa ocidental, com exceção da França, basta apresentar o passaporte e a passagem aérea com a volta marcada, mas isso não impede, em alguns casos, obstáculos nos departamentos de imigração.
@@ -2224,9 +2224,9 @@ Essa regra se aplica principalmente aos Estados Unidos, que deverá receber este 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-115</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-115</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 A obtenção de vistos pode representar para o turista mais que um mero entrave burocrático. Dependendo do roteiro escolhido, os vistos passam a pesar significativamente no orçamento de viagem.
 Um "tour" pelos países da antiga "Cortina de Ferro", no Leste europeu, por exemplo, pode custar, só em vistos, US$ 400 (CR$ 672,00 mil), ou seja, mais de um terço de um bilhete São Paulo-Moscou, que custa US$ 1.050 (CR$ 1,7 milhão) pela Aeroflot.
@@ -2242,9 +2242,9 @@ Conversões de vistos pelo dólar-turismo a CR$ 1.680,00 e URV a CR$ 1.725,31; pas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940526-116</text_pt>
-<text_pt name="date">940526</text_pt>
-<text_pt name="text">
+<field name="id">FSP940526-116</field>
+<field name="date">940526</field>
+<text_pt>
 Da Reportagem Local
 A partir do dia 18 de julho, os consulados americanos no Brasil mudam a sistemática para a cobrança de vistos. Uma nova tabela com valores de US$ 20 a US$ 100 (CR$ 33,6 mil a CR$ 168 mil) entra em vigor.
 Além disso, diminuem os prazos de validade. Os vistos para turistas serão gratuitos, mas têm valor apenas por três meses. Vistos para viagens de negócio e lazer passam a custar US$ 60, também com prazo de 90 dias.

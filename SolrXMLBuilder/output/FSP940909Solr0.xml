@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940909-001</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-001</field>
+<field name="date">940909</field>
+<text_pt>
 O governo do Ceará pagou passagens para militantes e assessores do PSDB para a convenção que escolheu, em maio, Fernando Henrique Cardoso candidato à Presidência. A despesa somou o equivalente a R$ 6.700. O ministro Ciro Gomes (Fazenda) governava o Estado.
 Documentos e cópias de cheques obtidos pela Folha revelam que as despesas foram pagas pela Secretaria de Governo.
 O secretário de Governo do Ceará, Francisco da Silveira Fortuna, negou que o pagamento tivesse essa finalidade.
@@ -11,9 +11,9 @@ A legislação eleitoral proíbe o uso de recursos de governos em campanhas.Superel
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-002</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-002</field>
+<field name="date">940909</field>
+<text_pt>
 Apesar das declarações desencontradas da equipe econômica sobre a possível redução das alíquotas de importação, parece claro que o governo federal cogita utilizar também esse intrumento para conter os preços internos.
 A disponibilidade de produtos importados teria o efeito de impedir os fabricantes nacionais de elevarem seus preços. É o que os economistas chamam de choque de oferta, para contrabalançar os efeitos de um aumento do consumo.
 A abertura da economia à concorrência externa é um processo saudável e deve ser perseguido, pois força a modernização e a busca de maior produtividade por parte das empresas nacionais.
@@ -24,9 +24,9 @@ A política tarifária demanda sem dúvida uma ação planejada do governo. Não para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-003</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-003</field>
+<field name="date">940909</field>
+<text_pt>
 As notícias de que o aumento do compulsório veio agravar ainda mais as dificuldades por que passam os bancos estaduais no país colocam em evidência a necessidade de que o problema comece afinal a ser enfrentado com coragem e determinação. Essa situação, de fato, já vem se arrastando há tempos e poderá acabar cobrando um custo muito alto do cidadão.
 Em meio a todo o labirinto de números que são sempre levantados acerca desse tema, há na verdade duas questões que se sobressaem. A primeira sem dúvida refere-se a como sanear tais instituições. E a segunda, diretamente relacionada à anterior, trata da relação incestuosa &#150;para dizer o menos&#150; que os governos estaduais têm com seus bancos.
 De nada adiantaria tentar recuperar essas instituições se os Estados puderem sempre voltar a recorrer ao seu socorro para financiar gastos. E isso tende a prosseguir enquanto a gestão dos bancos pautar-se por injunções políticas, por sua vez inevitáveis quando é o governo estadual que indica a direção desses bancos.
@@ -36,9 +36,9 @@ Um meio de realmente desvincular as instituições estaduais da esfera política é 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-004</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-004</field>
+<field name="date">940909</field>
+<text_pt>
 Por que, afinal, a poluição se faz sentir tanto neste inverno? Em que pesem fatores climáticos desfavoráveis, como a estiagem e a falta de ventos, há que se indagar se o atual conjunto de ações antipoluição é minimamente satisfatório, tendo em vista os estados de atenção atestados na Grande São Paulo e o estado de emergência decretado em Cubatão. Narinas e olhos irritados insistem em afirmar que não.
 A poluição não pode continuar a ser vista como uma espécie de sujeira que possa ser escondida debaixo do tapete. Ela representa um elevado custo social que envolve questões delicadas (embora de difícil mensuração), como danos causados à saúde das pessoas, e deve ser combatida de modo preventivo.
 No caso das grandes cidades, o grande aumento da frota de carros é problema estrutural. A curtíssimo prazo, há que se exercer uma rígida fiscalização da emissão de poluentes de veículos automotores. Mas solução definitiva é oferecer um transporte coletivo de qualidade. Essa meta de longo prazo deve sair do plano das declarações de intenção e ser perseguida de fato.
@@ -48,9 +48,9 @@ A soma desses sinais alimenta suspeitas de uma situação que caminha para um desc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-005</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-005</field>
+<field name="date">940909</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A intelectualidade tucana perdeu completamente o rumo, em seu afã de ganhar a eleição. O artigo de José Augusto Guilhon Albuquerque publicado ontem nesta Folha parece o equivalente impresso das parabólicas confissões de Rubens Ricupero.
 Escreve o tucano: "Uma autoridade monetária que tenha 'escrúpulos' em divulgar expectativas reais de inflação baixa, porque antes não divulgou expectativas duvidosas de inflação alta, não tem condições morais de exercer o poder".
@@ -65,9 +65,9 @@ Torcer por algum candidato é justo e até necessário. Mas não dá a ninguém o dire
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-006</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-006</field>
+<field name="date">940909</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Pesquisas reservadas que chegavam ontem ao comitê de Fernando Henrique Cardoso indicavam que, até aqui, o episódio da parabólica não alterou a tendência das eleições. Os números mostram o candidato tucano distante 20 pontos de Luiz Inácio Lula da Silva, o que lhe garantiria a vitória no primeiro turno. Há, porém, uma má notícia para os tucanos.
 A má notícia são as pesquisas que investigam o sentimento dos eleitores. A imensa maioria não mudou a intenção de voto; está mais desconfiada e insegura com o real. Está mais sensível às acusações de que o plano seria eleitoreiro, capaz de se esfacelar logo depois de abertas as urnas.
@@ -79,9 +79,9 @@ PS &#150; Continuava ontem a se espalhar pelo Paraná propaganda anti-semita cont
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-007</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-007</field>
+<field name="date">940909</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Comemorei o Dia da Pátria numa tarefa cívica: impossibilitado de arrumar o país, tratei de arrumar papéis no meu escritório. Numa pasta de recortes encontrei o programa da Aliança Liberal, lançado em 1930. Os jornais do dia, já entulhados na cesta, traziam as intenções programáticas do PSDB, que um de seus teóricos admitiu serem genéricas para não descontentar os aliados.
 De 1930 a 1994 são "alguma coisa como" 64 anos, se a tabuada que decorei na "Aritmética Elementar FTD" continua em vigor. De lá para cá tivemos Getúlio, Dutra, Getúlio outra vez, JK, Jânio, Jango, os governos militares, Sarney, Collor e Itamar se, tal como no caso da tabuada, memória desta vida se consente.
@@ -91,9 +91,9 @@ Numa gentil mistura de esperteza e previdência, o PSDB não abordou a questão da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-008</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-008</field>
+<field name="date">940909</field>
+<text_pt>
 Quero dar o meu testemunho sobre o ex-ministro Rubens Ricupero. Ele foi vítima de uma cilada humana e eletrônica. Muito já se escreveu sobre o episódio, colocado no devido lugar, como no brilhante artigo de Evandro Carlos de Andrade.
 Conheci o Ricupero, escolhido por Tancredo Neves para trabalhar como assessor da Presidência. Trazia a bagagem de um diplomata culto, de um caráter a toda prova, de um trabalhador infatigável e de um profissional que tinha atravessado todo o período dos presidentes militares sem abandonar seu espírito crítico, com uma visão cristã de social-democracia. Com a morte de Tancredo, chamei-o e ofereci-lhe a chefia da Assessoria Especial, reestruturada e, basicamente, com o meu gosto pela política externa, a ele atribuindo o acompanhamento das ações no setor.
 Lá, Ricupero confirmou seu grande conceito. Foi possível desfrutar, na rotina do trabalho diário, do prazer da conversa erudita, sábia e humana, que enriquecia os despachos com a discussão sobre literatura, história, economia, administração e todos os ramos do conhecimento. Sua formação religiosa nos aproximava mais ainda. Era e sempre foi um servidor do país, com grande espírito público e correção moral. Jamais, em sua vida privada ou pública, houve qualquer deslize.
@@ -107,9 +107,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-009</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-009</field>
+<field name="date">940909</field>
+<text_pt>
 A melhor forma de combater a fome e a miséria é uma boa político econômica
 HERBERT DE SOUZA
 É intenção do candidato Fernando Henrique Cardoso, se eleito presidente, patrocinar uma campanha contra a fome inspirada nas ações governamentais do México e na campanha brasileira. As propostas de FHC merecem reflexão. Existem mais diferenças entre o México e o Brasil do que a palavra solidariedade, muito usada lá e cá, pode fazer supor. E, pelo menos por aqui, é preciso saber separar o trigo governamental, estocado nos armazéns, do pão da solidariedade da sociedade civil.
@@ -127,9 +127,9 @@ HERBERT DE SOUZA, 58, é secretário-executivo do Ibase (Instituto Brasileiro de A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-010</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-010</field>
+<field name="date">940909</field>
+<text_pt>
 A causa da maioria
 FABIO FELDMANN
 Hélio Jaguaribe não é bobo nem ingênuo. Veja-se seu alentado currículo como cientista político que era até respeitado no passado. De uns tempos para cá, deu de aproveitar intensivamente as chances da vida para agradar a determinadas platéias e interlocutores.
@@ -155,9 +155,9 @@ FABIO FELDMANN, 39, é deputado federal pelo PSDB de São Paulo e presidente da Fu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-011</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-011</field>
+<field name="date">940909</field>
+<text_pt>
 "Gostaríamos de parabenizar a Folha pela cobertura séria e direta que tem dado ao 'escândalo Ricupero', não participando da manipulação da opinião pública feita pelos principais canais de mídia. O 'Estado de S. Paulo' tem vergonhosamente agido desta forma, distorcendo palavras e frases da conversa do ex-ministro Ricupero, visando distanciar o escândalo da candidatura FHC, participando assim de uma gigantesca campanha para eleger 'mais um Fernando'. Esperamos que a Folha continue neutra, como um meio de comunicação sério deve agir."
 Edgard Leonardo Piccino, coordenador de divulgação do Diretório Acadêmico "XVI de Março" da Unesp (Rio Claro, SP)
 
@@ -203,9 +203,9 @@ Ilan Frajhof Levacov (Rio de Janeiro, RJ)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-012</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-012</field>
+<field name="date">940909</field>
+<text_pt>
 Países querem discutir nos EUA formas de financiar o desenvolvimento
 OSCAR PILAGALLO
 Enviado especial ao Rio
@@ -226,9 +226,9 @@ A cúpula termina amanhã. Depois de mais uma rodada de debates pela manhã, haverá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-013</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-013</field>
+<field name="date">940909</field>
+<text_pt>
 Da Sucursal do Rio
 Três tanques do Exército estão desde ontem com as miras dos canhões dirigidas ao complexo de favelas da Maré, trajeto entre a base aérea do Galeão e o hotel Glória (zona sul), onde se hospedam os presidentes que participam da 8ª Cúpula do Grupo do Rio.
 Caminhões, jipes e 300 militares policiam a Linha Vermelha e favelas próximas. A Marinha e a Aeronáutica ajudam na segurança. Lanchas circulam nas margens das ilhas do Governador e do Fundão.
@@ -238,9 +238,9 @@ A Folha apurou que 5.000 militares atuam na segurança do encontro. Destes, 64 no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-014</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-014</field>
+<field name="date">940909</field>
+<text_pt>
 Da Sucursal do Rio
 O palácio do Itamaraty recebe hoje os chefes de Estado em jantar oferecido pelo presidente Itamar.
 Segundo a diplomata Lúcia Rebouças, o barão do Rio Branco, ministro das Relações Exteriores de 1902 a 1912, projetou internacionalmente a diplomacia brasileira, com ajuda de recepções sofisticadas no palácio.
@@ -250,9 +250,9 @@ Com a República, o palácio foi vendido para sediar o novo governo. Em 1898, o go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-015</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-015</field>
+<field name="date">940909</field>
+<text_pt>
 Não há diferença maior entre o atual sistema de governar por medidas provisórias sucessivamente reeditadas e o sistema de decretos do regime militar brasileiro e dos regimes autoritários em geral.
 Daqui a precisamente um mês, completa-se um ano que o Congresso está paralisado por vontade própria. Se alguém propusesse o seu fechamento, o que é que se responderia, além do vago "é preferível um mau Congresso aberto do que o ter fechado". Argumento hoje tão anêmico, que exigiria prodígios de esforço para enfrentar a demonstração de que o Congresso não está exatamente aberto, já que não funciona, embora não esteja fechado.
 Em setembro ainda não há Orçamento aprovado para este ano. O Congresso ainda não o votou. É verdade que parte do atraso foi provocado deliberadamente pela equipe econômica. O então ministro Fernando Henrique Cardoso só entregou o projeto de Orçamento ao Congresso, que o devia votar até 31 de dezembro, 48 horas antes do prazo. Depois, retirou-se duas vezes para alterações, sem outra finalidade verdadeira senão a de provocar mais atraso.
@@ -268,9 +268,9 @@ Não me lembro de nada parecido, nem nos tempos em que Stanislaw Ponte Preta orga
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-016</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-016</field>
+<field name="date">940909</field>
+<text_pt>
 Da Redação
 O juiz  da 3ª Vara da Justica Federal de São Paulo, André Nabarrete Neto, aceitou denúncia do Ministério Público contra o empresário Flávio Maluf, filho do prefeito Paulo Maluf, por sonegação fiscal.
 Flávio será processado sob acusação de ter omitido da Receita Federal movimentações financeiras referentes aos repasses que recebeu, em 1992, da empresa Paubrasil, do pianista João Carlos Martins, que arrecadou ilegalmente mais de US$ 19 milhões para as campanhas eleitorais de Maluf em 1990 e 1992.
@@ -278,9 +278,9 @@ O empresário deverá ser interrogado no dia 6 de outubro. A Polícia Federal e a P
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-017</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-017</field>
+<field name="date">940909</field>
+<text_pt>
 Da Sucursal de Brasília
 O novo ministro da Fazenda, Ciro Gomes, defendeu ontem na cerimônia de transmissão de cargo uma ampla reforma constitucional como medida adicional ao Plano Real para promover a justiça social.
 Ciro disse à Folha que não pretende alterar o valor do salário mínimo &#150;R$ 70 a partir deste mês&#150; e que a isonomia salarial dos servidores públicos vai incluir somente os reajustes que estão fixados.
@@ -292,9 +292,9 @@ A continuidade ao programa de privatização e a política monetária dentro dos lim
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-018</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-018</field>
+<field name="date">940909</field>
+<text_pt>
 Estudo da Fiesp indica aumento do volume de dinheiro aplicado pelo setor na melhoria da produtividade
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -315,9 +315,9 @@ Em seu estudo, publicado, esta semana, pela revista "Notícias", da Fiesp, Lanzan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-019</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-019</field>
+<field name="date">940909</field>
+<text_pt>
 Congresso precisa renovar concessão
 Da enviada especial ao Rio
 e da Sucursal do Rio
@@ -334,9 +334,9 @@ O livro entregue a Itamar Franco apresenta os principais resultados de uma pesqu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-020</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-020</field>
+<field name="date">940909</field>
+<text_pt>
 Do enviado especial ao Rio
 O Chile inicia hoje as negociações para ingressar no Mercosul ciente de que um dos maiores obstáculos a sua plena associação está longe de ser ultrapassado.
 O governo chileno considera sua política de comércio exterior incompatível com as do Mercosul.
@@ -347,18 +347,18 @@ As discussões estarão centradas na proposta de se criar um intercâmbio de livre 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-021</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-021</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 O juiz Willian Lima Cabral, da 34ª vara trabalhista de São Paulo, marcou para o próximo dia 16 audiência de conciliação entre a chapa 1 (CUT pela Base) e a chapa 2 (Articulação e Corrente Sindical Classista) no Sindicato dos Motoristas de São Paulo.
 A informação é de Osvaldo Francisco Ramos, o Juruna, diretor do sindicato. Desde o dia 9 de agosto, existem duas comissões eleitorais na entidade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-022</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-022</field>
+<field name="date">940909</field>
+<text_pt>
 Dois estudos fornecem uma explicação sobre por que alguns portadores sobrevivem sem desenvolver a doença
 CLÁUDIO CSILLAG
 Editor-assistente de Ciência
@@ -395,9 +395,9 @@ A outra abordagem é tentar descobrir por que algumas formas de HIV são menos agr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-023</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-023</field>
+<field name="date">940909</field>
+<text_pt>
 Consumo de macarrão aumenta 30% com a nova moeda e agiliza os negócios no setor
 MARISTELA MAFEI
 Da Reportagem Local
@@ -420,16 +420,16 @@ Desde então o grupo comprou quatro fábricas de queijo e de leite pasteurizado ju
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-024</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-024</field>
+<field name="date">940909</field>
+<text_pt>
 Entrou em funcionamento o serviço telefônico "Disque preços baixos". O serviço é uma parceria entre a Sunab e o Movimento da Cidadania Contra Aumento Abusivo de Preços. Elaborado pelo movimento, o serviço informa gratuitamente os lugares onde comprar produtos da ceta básica com produtos mais baratos. A Sunab entrega diariamente ao movimento uma pesquisa de 40 itens que compõem a cesta básica feita em 18 supermercados do município de São Paulo. O telefone do "Disque preços baixos" é (011) 274-4190.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-025</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-025</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 O aquecimento das vendas nos últimos dois meses fez com que o empresário carioca Arthur Sendas desengavetasse antigo projeto de construção de shopping center, hipermercado e conjunto residencial em área do grupo localizada na Via Dutra, no final da Linha Vermelha.
 O grupo Sendas entra com o terreno &#150;de 154 mil metros quadrados&#150;, e o Nacional Iguatemi Empreendimentos, dono de shoppings centers no Nordeste e sócio de Tasso Jereissati no Iguatemi de São Paulo, com os recursos para bancar o empreendimento.
@@ -440,9 +440,9 @@ São Paulo deve ganhar, também até o final do ano, loja da Wal&#150;Mart, a maior
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-026</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-026</field>
+<field name="date">940909</field>
+<text_pt>
 A "Gazeta Mercantil" publicará balanço anual (exercício encerrado em 31 de maio) com prejuízo líquido de R$ 25,3 milhões.
 Segundo a empresa, o resultado ainda não reflete o aporte de US$ 23 milhões dos fundos de pensão.
 
@@ -480,9 +480,9 @@ Bresser Pereira cita Ricupero, ao dizer &#150;sobre o Plano Real&#150; que "aind
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-027</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-027</field>
+<field name="date">940909</field>
+<text_pt>
 EVANDRO B. MILET
 Inicialmente entendida como mais uma barreira não tarifária criada pelos europeus, as normas ISO 9000 definiram uma maneira simples e prática &#150;daí o seu sucesso&#150; de geração de confiança entre clientes e fornecedores. Um certo terrorismo inicial pregava que a União Européia proibiria a entrada de produtos sem a certificação.
 A coisa é mais sutil. O próprio mercado é que passa a exigir a certificação como elemento de tranquilidade no relacionamento com fornecedores de origens diversas e, muitas vezes, distantes desse mundo globalizado.
@@ -502,9 +502,9 @@ EVANDRO B. MILET, 44, é presidente da MCG-Qualidade e Consultoria. Foi president
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-028</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-028</field>
+<field name="date">940909</field>
+<text_pt>
 HAMILTON CAIO GOUVEA
 Acostumados com a alimentação preparada por nosso avós, que sempre nos deram refeições de qualidade, sem que fossem necessárias complicações administrativas ou técnicas modernas, falar em qualidade de alimentação parece redundância.
 Analisando todos os ingredientes usados por nossos avós, veremos que o preparo continha alguns segredos importantes, tais como carinho, dedicação e uma experiência de muitos anos. Se acrescentar a isso o fato de que a refeição coletiva tem de ser a mesma para centenas de comensais atendidos em um restaurante industrial, pode-se imaginar que qualidade em alimentação tem um certo grau de complexidade.
@@ -528,9 +528,9 @@ HAMILTON CAIO GOUVEA, 32, é gerente de marketing da Sodexho do Brasil. Foi geren
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-029</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-029</field>
+<field name="date">940909</field>
+<text_pt>
 A cesta básica para o paulistano custava ontem R$ 96,33. Comparada com o valor médio de terça&#150;feira, quando valia R$ 96,80, a cesta apresentou redução de 0,49%. A pesquisa é feita pelo Procon em convênio com o Dieese em 70 supermercados da cidade de São Paulo.
 Dos três grupos que compõem a cesta, dois tiveram queda de custo. A alimentação caiu 0,62% e limpeza 0,86%. O item higiene pessoal teve alta de 1,17%. No mês todos os grupos têm redução. As maiores são registradas nos produtos de higiene pessoal (-2,25%) e alimentação (-1,44%).
 Até ontem a cesta acumulava queda de 1,40%. Dos 68 produtos pesquisados, 36 tiveram queda, 11 subiram e 21 permaneceram estáveis. As maiores altas foram registradas na salsicha avulsa, 1,60%, café papel laminado Seleto, 0,85% e carne de primeira patinho, 0,63%.
@@ -538,25 +538,25 @@ Entre as maiores quedas registradas estão o arroz tipo 2, 1,56%, leite em pó int
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-030</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-030</field>
+<field name="date">940909</field>
+<text_pt>
 Com a estabilidade da economia, o brasileiro está usando menos cheque em seus pagamentos. Em julho, o primeiro mês do real, foram compensados 296 milhões de cheques, número 21,36% abaixo dos 376,5 milhões de junho. Em relação à média de janeiro a dezembro de 1993, a queda é de 19,4%. Os dados são da Serasa (Centralização de Serviços dos Bancos) que informou, ainda, que a insolvência dos usuários de cheques continua baixa. Segundo a empresa, de cada dez mil cheques compensados, apenas 11 foram devolvidos. Em julho, o número de cheques sem fundos apresentados pela segunda vez foi de 325,77 mil.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-031</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-031</field>
+<field name="date">940909</field>
+<text_pt>
 O número de consultas sobre pessoas jurídicas em agosto subiu 44,5%, em comparação com o mês de julho. A média diária teve aumento de 31,9%. De janeiro a agosto deste ano, as consultas registram alta de 12,1%. Os dados são da SCI (Serviço de Segurança ao Crédito e Informações).
 Em relação a agosto de 93, quando foram feitas 300,3 mil consultas, o crescimento é ainda maior, 53,7%. A média diária teve elevação de 46,9%. Nos quatro primeiros dias deste mês as consultas aumentaram 5,5% em relação a agosto. Para o SCI o resultado continua mostrando aumento.
 ICV do Dieese sobe 2,8% para quem ganha até 30 mínimos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-032</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-032</field>
+<field name="date">940909</field>
+<text_pt>
 Montadoras comercializam em agosto 46.271 unidades; produção de veículos chega a 149,8 mil e bate recorde
 ARTHUR PEREIRA FILHO
 Da Reportagem Local
@@ -583,9 +583,9 @@ A importação, segundo ele, não é eficiente no combate ao ágio, porque os carros 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-033</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-033</field>
+<field name="date">940909</field>
+<text_pt>
 Diferença para a cotação de venda do BC, de US$ 1,00 por R$ 1,00, é de 12,2%; Bolsas da Valores sobem
 Da Reportagem Local
 O dólar comercial (exportações e importações) atingiu ontem a mais baixa cotação desde a entrada em vigor do real e rompeu a barreira dos R$ 0,88.
@@ -629,9 +629,9 @@ O índice Bovespa no mercado futuro para outubro fechou a 55.300 pontos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-034</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-034</field>
+<field name="date">940909</field>
+<text_pt>
 Faturamento real cresce 22% e preços caem 0,94% em relação a julho; bens duráveis faturam 43% a mais
 NEIVALDO JOSÉ GERALDO
 Da Redação
@@ -650,9 +650,9 @@ Para o grupo não duráveis (produtos que balizam o desempenho dos supermercados) 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-035</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-035</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 O TRF (Tribunal Regional Federal) da 3ª Região (SP/MS) manteve a liminar da Justiça Federal em São Paulo que derruba o artigo 38 da lei nº 8.880/94, que criou a URV (Unidade Real de Valor).
 A decisão de manter a liminar é do juiz José Antonio de Andrade Martins, relator da segunda sessão do TRF, ao julgar, no dia 6 deste mês, o pedido de liminar solicitado pela União.
@@ -670,9 +670,9 @@ Assim, o governo quer pagar (no caso dos bancos) pelo menor índice (4,33%), mas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-036</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-036</field>
+<field name="date">940909</field>
+<text_pt>
 LILIANA LAVORATTI
 Da Sucursal de Brasília
 A Receita Federal está investigando no Brasil inteiro o comércio ilegal de equipamentos de informática importados com isenção de impostos por escolas, empresas e entidades filantrópicas.
@@ -685,9 +685,9 @@ A importação com isenção de II e IPI &#150;alíquotas de 30% e 12%&#150; só é aut
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-037</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-037</field>
+<field name="date">940909</field>
+<text_pt>
 FIDEO MIYA
 Da Reportagem Local
 O coordenador de tributação da Receita Federal, Aristófanes Fontoura de Holanda, informou ontem à noite que a proposta de mudança no cálculo do IOF das aplicações financeiras será submetida hoje à aprovação do ministro Ciro Gomes, da Fazenda.
@@ -701,31 +701,31 @@ Ele explicou que, na fórmula, as aplicações são distribuídas por faixas de prazo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-038</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-038</field>
+<field name="date">940909</field>
+<text_pt>
 O enviado especial da ONU a Ruanda afirmou ontem que tropas do governo deposto se preparam para reiniciar a guerra civil e soldados hutus já entraram no país com armas. "Os sinais de guerra de guerrilha começam a aparecer", diz um memorando de Shaharyar Khan. Em Nova York, a ONU disse que a situação ainda não é grave e os hutus serão desarmados.
 Jihad faz ataque a Arafat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-039</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-039</field>
+<field name="date">940909</field>
+<text_pt>
 O grupo extremista Jihad chamou o líder palestino Iasser Arafat de "criminoso" por causa da prisão de 48 militantes do grupo em conexão com o assassinato de um soldado israelense no território de Gaza. Mulheres palestinas fizeram um protesto diante da prisão de Gaza. No sul do Líbano, um soldado israelense foi morto por guerrilheiros muçulmanos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-040</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-040</field>
+<field name="date">940909</field>
+<text_pt>
 Aviões da empresa australiana Qantas foram pintados em estilo aborígine. O objetivo da mudança é, segundo a empresa, divulgar a arte a a cultura australianas em outros países. Os aborígines são os habitantes nativos da Austrália. A nova pintura, chamada pela empresa de "a obra de arte mais rápida do mundo", é intitulada "Canguru Sonhando".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-041</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-041</field>
+<field name="date">940909</field>
+<text_pt>
 Delegações discordam sobre como gastar, quanto gastar e quem deve pagar a conta
 Das agências internacionais
 Dinheiro passou a ser o assunto principal no quarto dia da Conferência Internacional Sobre População e Desenvolvimento da ONU que se realiza no Cairo, Egito. Várias delegações passaram o dia de ontem discutindo se há dinheiro suficiente para o plano de ação que se discute, se o dinheiro está sendo bem empregado ou se a divisão da conta entre países ricos e pobres está bem feita.
@@ -740,9 +740,9 @@ Os EUA e a União Européia, respondendo a críticas de que o Terceiro Mundo não po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-042</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-042</field>
+<field name="date">940909</field>
+<text_pt>
 EUA, Canadá, Suíça e Áustria se opõem a falar em direito à reunificação de famílias de imigrantes. Nicolas Biegman, vice-diretor da conferência, acha que haverá acordo com "princípio" em vez de "direito". "A diferença é que, se você tem um direito pode ir às autoridades competentes", explicou.
 Parceria
 Um grupo de dez países do Terceiro Mundo anunciou a criação da Parceria do Desenvolvimento e da População. México, Colômbia, Egito, Indonésia, Marrocos Tunísia, Tailândia, Bangladesh, Quênia e Zimbábue tiveram êxito no controle populacional e querem dividir sua experiência.
@@ -753,9 +753,9 @@ Organizações feministas dos EUA distribuíram panfleto e recolheram assinaturas p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-043</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-043</field>
+<field name="date">940909</field>
+<text_pt>
 HÉLIO SCHWARTSMAN
 Enviado especial ao Cairo
 Delegados à Conferência Internacional Sobre População e Desenvolvimento acreditam que conseguirão chegar a um consenso sobre os pontos mais polêmicos em discussão.
@@ -771,17 +771,17 @@ O Jornalista HÉLIO SCHWARTSMAN viaja a convite do Fundo de População da ONU.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-044</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-044</field>
+<field name="date">940909</field>
+<text_pt>
 A segunda maior rede varejista norte-americana, a Kmart Corporation, anunciou ontem que vai fechar 110 lojas e demitir 6.000 pessoas, incluindo 650 gerentes, durante os próximos dois anos.
 O objetivo é recuperar níveis de venda e lucro. A Kmart Corp. tem mais de 4.000 estabelecimentos varejistas nos EUA (Kmart, Builders Square, Borders e Waldenbooks, The Sports Authority e OfficeMax) e lojas em Porto Rico, Ilhas Virgens, Canadá e países do leste europeu e joint ventures no México e Cingapura.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-045</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-045</field>
+<field name="date">940909</field>
+<text_pt>
 A China formalizou a prisão de Tong Yi, 26, secretária de Wei Jingsheng, o mais conhecido dissidente pró-democracia do país (ambos na foto, feita em janeiro). Os dois estão detidos desde abril. Wei havia sido libertado em setembro de 1993, após 14 anos e meio na prisão. Tong é acusada de falsificação. 
 
 A FRASE 
@@ -804,9 +804,9 @@ Funcionários do palácio de Buckingham disseram que estudam processar jornais bri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-046</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-046</field>
+<field name="date">940909</field>
+<text_pt>
 O presidente dos EUA vai começar campanha para convencer americanos da necessidade de invadir o país
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -823,9 +823,9 @@ Em Porto-Príncipe, capital do Haiti, milhares de pessoas saíram ontem em passeat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-047</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-047</field>
+<field name="date">940909</field>
+<text_pt>
 A China formalizou a prisão de Tong Yi, 26, secretária de Wei Jingsheng, o mais conhecido dissidente pró-democracia do país (ambos na foto). Os dois estão detidos desde abril. 
 A FRASE 
 "Acho que sim, mas talvez esteja errado. Não me resta muito tempo." (François Mitterrand, presidente da França, indagado se vai até o fim do mandato, em maio de 95, em entrevista ao "Le Figaro". Ele tem câncer.) 
@@ -851,9 +851,9 @@ PROVA DE AMOR
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-048</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-048</field>
+<field name="date">940909</field>
+<text_pt>
 "Aids &#150; Amores, Transtornos e Desgraças" é o nome do livro que os infectologistas Vicente Amato Neto (foto) e Jacyr Pasternak acabam de lançar. Além de artigos sobre vários aspectos da doença, o livro traz informações sobre formas de transmissão e terapêutica (123 páginas, R$ 10,50, editora Pioneira, tel. (011) 858-3199).
 
 O NÚMERO 
@@ -871,9 +871,9 @@ Hoje é o último dia de validade para os bilhetes M-10 (múltiplo para dez viagens
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-049</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-049</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 A Secretaria Estadual do Meio Ambiente mantém um serviço de prevenção e combate a queimadas chamado "Operação Mata Fogo".
 A operação é realizada entre junho e outubro, meses em que chove pouco. Os avisos dos incêndios chegam através do "Disque Mata Fogo", da aviação civil, ou pelo satélite meteorológico NOAA.
@@ -884,9 +884,9 @@ Disque Mata Fogo: 0800-120051.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-050</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-050</field>
+<field name="date">940909</field>
+<text_pt>
 ALCINETTE DAMASCENO
 Free-lance para a Folha
 A extensão das queimadas no Acre este ano deverá superar 60 mil hectares de florestas, de acordo com as previsões mais otimistas de órgãos como o Instituto do Meio Ambiente do Acre (Imac) e Ibama (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis).
@@ -904,9 +904,9 @@ Nos últimos anos, várias madeireiras que atuavam no sul do Pará se transferiram 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-051</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-051</field>
+<field name="date">940909</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha
 Qualquer ser com um mínimo de rodagem na vida sairá para lá de aliviado de "Eu Sei que Vou te Amar", peça escrita por Arnaldo Jabor que estreou no Teatro Ruth Escobar na última terça.
@@ -924,9 +924,9 @@ Afinal, paixão é tudo igual. Só muda de endereço.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-052</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-052</field>
+<field name="date">940909</field>
+<text_pt>
 Com amigos como os que tem José Serra, quem precisa de inimigos. No próximo dia 13, o comitê do candidato a senador pelo PSDB organiza no clube Pinheiros uma festa para arrecadar fundos para sua campanha. Sinta o teor do texto que vem impresso no convite: "Sabe o que está faltando na campanha do Serra? Festa! Nós, os amigos do Serra, decidimos resolver esse problema. E realizar a grande festa da arrancada para a vitória..." Pode?
 Traseiro 
 Não poderia ser mais apropriada a sigla da Associação dos Docentes da Universidade de Brasília que, do alto de seu puritanismo, tentou impedir Rubens Ricupero de continuar a dar aula na universidade. A associação de docentes também é conhecida por ADUnB. Que vem a ser um singelo anagrama da palavra bunda.
@@ -935,9 +935,9 @@ Fausto Silva certamente iria adorar. A pequena Giulia Alcantara Machado, filha d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-053</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-053</field>
+<field name="date">940909</field>
+<text_pt>
 A Igreja das Necessidades, no bairro de Santo Antônio de Lisboa, em Florianópolis, recebeu de volta uma pia batismal feita em madeira de lei, retirada há cerca de seis meses para ser restaurada. A pia, segundo os restauradores da prefeitura, tem mais de cem anos.
 Santa Catarina 2
 A Polícia Militar de Rodeio, no Vale do Itajaí, apreendeu anteontem um carregamento com 8 m3 de madeira. Segundo a polícia, a madeira teria sido extraída ilegalmente de uma área de Mata Atlântica. O motorista do caminhão foi multado em R$ 800,00.
@@ -948,9 +948,9 @@ O evento reunirá dez cientistas estrangeiros, que farão uma avaliação dos result
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-054</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-054</field>
+<field name="date">940909</field>
+<text_pt>
 A Cesp (Companhia Energética de São Paulo) colocou em operação a terceira turbina da Usina Hidrelétrica de Taquaruçu, no rio Paranapanema, em Sandovalina. A turbina vai produzir cem megawatts, energia que abateceria uma região com 250 mil habitantes.
 
 SP interior 2
@@ -963,9 +963,9 @@ Estão abertas as inscrições para o 5º Encontro de Pessoas Portadoras de Deficiên
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-055</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-055</field>
+<field name="date">940909</field>
+<text_pt>
 A Embrapa (Empresa Brasileira de Pesquisa Agropecuária) de Corumbá estará recebendo, de 12 a 23 deste mês, as inscrições para um concurso público. O objetivo é formar um cadastro de reserva de pessoal. Os aprovados serão convocados conforme o número de vagas.
 Mato Grosso do Sul 2
 Para os cargos de pesquisador 2, com salário de R$ 1.083,54, podem concorrer aqueles que tiverem mestrado em socioeconômia, imunologia em pastagens naturais, nutrição animal, zootecnia, ecologia e manejo de fauna, manejo de pesca e impacto ambiental. Informações pelo telefone (067) 231-1430.
@@ -976,9 +976,9 @@ A Secretaria Estadual da Saúde iniciou esta semana um curso de capacitação para 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-056</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-056</field>
+<field name="date">940909</field>
+<text_pt>
 A Delegacia Regional do Trabalho não constatou casos de trabalho escravo nas fazendas visitadas no sul do Pará desde o mês passado. Os casos foram denunciados pela Comissão Pastoral da Terra, entidade ligada à Igreja Católica que levanta problemas agrários.
 Pará 2
 O superintendente do Ibama no Pará, José Gadelha, informou que o número de queimadas vem diminuindo a cada ano na Amazônia. De acordo com ele, este ano foram registrados 31 mil pontos de incêndio, contra os 60 mil focos verificados no ano passado.
@@ -989,9 +989,9 @@ A Delegacia da Receita Federal em Roraima vai realizar, nos próximos dias 23 e 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-057</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-057</field>
+<field name="date">940909</field>
+<text_pt>
 Cerca de 500 advogados já se inscreveram no concurso para promotor da Justiça que será realizado no próximo mês. O Ministério Público da Bahia oferece 60 vagas, distribuídas em vários municípios. As inscrições terminam no próximo dia 12 deste mês.
 Sergipe
 A Emdagro (Empresa de Desenvolvimento Agropecuário de Sergipe) detectou este ano 24 focos de febre aftosa contra 164 em 93. A empresa atribui a queda à intensa fiscalização realizada por seus 17 veterinários e 90 guardas sanitários que estão atuando no interior.
@@ -1002,9 +1002,9 @@ Um surto de febre aftosa está atacando os filhotes de cabras e ovelhas no interi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-058</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-058</field>
+<field name="date">940909</field>
+<text_pt>
 BRUNO FEDER
 O vereador Arnaldo Madeira escreve artigo neste espaço da Folha (31/08) para incitar a Câmara Municipal de São Paulo a mais um confronto com o Executivo. É bom lembrar que foi de sua autoria o projeto de lei retirando do Executivo a função de aprovar as "operações interligadas", que permitem aos empreendedores imobiliários ultrapassar os limites de zoneamento municipal em troca da construção de casas populares.
 Na divisão entre os poderes estabelecida pela Constituição, ao Legislativo cabe aprovar diretrizes e ao Executivo administrar de acordo com as diretrizes aprovadas. Ao estabelecer que a Câmara deve dar a última palavra sobre qual prédio pode ser objeto de uma operação interligada, o vereador invade a esfera do Executivo, prejudicando a parcela da população que necessita de moradia digna.
@@ -1018,9 +1018,9 @@ BRUNO FEDER, 39, é vereador pelo PPR em São Paulo e líder do governo na Câmara M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-059</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-059</field>
+<field name="date">940909</field>
+<text_pt>
 CAROLINA CHAGAS
 Da Reportagem Local
 Os paulistanos que separam o lixo de acordo com os manuais de reciclagem e depositam nos contêineres coloridos espalhados pela cidade fazem um trabalho inútil. Os caminhões da prefeitura que recolhem o lixo misturam todo o material selecionado em caçambas abertas que são levadas para o Centro de Triagem de Pinheiros.
@@ -1034,9 +1034,9 @@ Com a ajuda do motorista, e do guincho munk do caminhão, o funcionário derramou 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-060</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-060</field>
+<field name="date">940909</field>
+<text_pt>
 "Aids &#150; Amores, Transtornos e Desgraças" é o nome do livro que os infectologistas Vicente Amato Neto (foto) e Jacyr Pasternak acabam de lançar. Além de artigos sobre vários aspectos da doença, o livro traz informações sobre formas de transmissão e terapêutica (123 páginas, R$ 10,50, editora Pioneira, tel. (011) 858-3199).
 
 O NÚMERO 0
@@ -1056,9 +1056,9 @@ Um caminhão bateu ontem em quatro Kombis paradas na rua Miguel Angelo La Pena, e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-061</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-061</field>
+<field name="date">940909</field>
+<text_pt>
 A leitora Maria Lucila Moreira de Melo, moradora no bairro Sumaré (zona oeste), reclama do atendimento no banco Banespa.
 "Toda a vez que preciso utilizar os serviços desse banco, sinto-me agredida e desrespeitada. No dia 19 de julho, tive a infelicidade de precisar ir ao Banespa, na agência da avenida Ibirapuera, e demorei 45 minutos para ser atendida, pois, às 12h30, só havia um caixa atendendo", diz Maria Lucila.
 "O prejuízo que sofremos com a perda do horário de almoço, atraso no trabalho, além do desgaste físico e emocional, não é ressarcido, não temos a quem apelar."
@@ -1069,9 +1069,9 @@ Ainda segundo a assessoria, no horário citado pela reclamante a agência dispunha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-062</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-062</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 O juiz Vanderley Sebastião Fernandes, da 6ª Vara da Fazenda Pública, concedeu liminar ontem suspendendo os efeitos da lei municipal que anistia os imóveis irregulares construídos em região de mananciais.
 A decisão do juiz foi consequência de uma ação civil pública movida por promotores das varas de Habitação e Urbanismo e do Meio Ambiente do Ministério Público Estadual.
@@ -1085,9 +1085,9 @@ A assessoria de imprensa da Secretaria Municipal da Habitação informou ontem que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-063</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-063</field>
+<field name="date">940909</field>
+<text_pt>
 LUIS HENRIQUE AMARAL
 Da Reportagem Local
 A Procuradoria Geral da República abriu investigação para averiguar a legalidade da terceirização dos hospitais públicos municipais por parte da prefeitura.
@@ -1103,9 +1103,9 @@ Ontem, o secretário Raia afirmou que a prefeitura não vai privatizar nenhum hosp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-064</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-064</field>
+<field name="date">940909</field>
+<text_pt>
 WILLIAM FRANÇA
 Da Sucursal de Brasília
 O governo reeditou ontem à tarde, sem alterações, o texto da MP (medida provisória) que estabelece as regras para as mensalidades escolares. A MP deve ser publicada no "Diário Oficial" de hoje, com o número 612.
@@ -1118,9 +1118,9 @@ Mais tarde, no Rio de Janeiro, onde se encontra o presidente Itamar Franco, o se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-065</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-065</field>
+<field name="date">940909</field>
+<text_pt>
 WILLIAM FRANÇA
 Da Sucursal de Brasília
 O homicídio praticado por grupo de extermínio e o homicídio qualificado (praticado por motivo fútil, com tortura ou sob traição) passam agora a ser considerados crimes hediondos.
@@ -1139,9 +1139,9 @@ A emenda proposta pelas três mães foi aprovada pela Câmara e pelo Senado em temp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-066</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-066</field>
+<field name="date">940909</field>
+<text_pt>
 Sesc Itaquera inaugura dia 17 espaço infantil com instrumentos musicais e animais de até 15 metros
 Da Reportagem Local
 O Sesc Itaquera inaugura no dia 17 um parque de diversões com esculturas gigantes para crianças.
@@ -1159,45 +1159,45 @@ Sesc Itaquera &#150; av. Projetada, 1.000, Itaquera, tel.944-7272; de quarta a d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-067</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-067</field>
+<field name="date">940909</field>
+<text_pt>
 O Jardim Botânico promove aos domingos visitas monitoradas pelo parque. Os grupos são formados por, no máximo, 40 pessoas. O roteiro das caminhadas inclui um passeio em trilhas pelo interior da mata e uma visita ao Museu Botânico e às estufas para cultivo de mudas. Informações sobre horários pelo tel. 584-6300.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-068</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-068</field>
+<field name="date">940909</field>
+<text_pt>
 A ExpoSaurus, na av. Otto Baumgart, ao lado do Lar Center, tem réplicas de dinossauros, um mini museu de história natural e uma lojinha com "dinoprodutos". Para ver o tiranossauro, o tigre-de-dente-de-sabre e outros, a entrada custa R$ 3,50 (para crianças) e R$ 5 (adultos). Informações pelo tel. 262-5022.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-069</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-069</field>
+<field name="date">940909</field>
+<text_pt>
 A Spiritware, evento beneficente que une dança, música, expressão corporal, gastronomia e xamanismo, acontece nos dias 17 e 18 na pça. João Ademar de Almeida Prado, 33, em frente ao Jóquei Clube. Especialistas coordenarão as atividades. O convite (de R$ 35 a R$ 40) permite usufruir todas as atrações.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-070</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-070</field>
+<field name="date">940909</field>
+<text_pt>
 A Feira de Pequenos e Médios Animais do parque da Água Funda (na av. Miguel Estéfano, 3.031) vai expor cerca de 200 gatos de várias raças. O evento, que acontece nos dias 10 e 11, das 9h às 19h, terá gatos especialmente trazidos da Argentina e de outros Estados. Serão premiados os melhores exemplares de cada raça.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-071</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-071</field>
+<field name="date">940909</field>
+<text_pt>
 A Gibiteca Municipal Henfil, na rua Sena Madureira, 298, próximo à estação Vila Mariana do Metrô, promove, nos dias 20, 23, 27 e 30 de setembro e 4 e 7 de outubro, das 17h às 20h, um curso para ensinar "O que são quadrinhos". O número de vagas é limitado e as inscrições podem ser feitas na própria gibiteca.
 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-072</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-072</field>
+<field name="date">940909</field>
+<text_pt>
 O atacante corintiano fala da fama conquistada após a Copa dos EUA e do assédio da torcida
 WILSON BALDINI JR.
 Da Reportagem Local
@@ -1245,9 +1245,9 @@ Viola - Não (risos). Ainda tenho que ajudar muito minha família, antes de pensar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-073</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-073</field>
+<field name="date">940909</field>
+<text_pt>
 O diário 'Corriere dello Sport' noticiou ontem que um dos quatro estrangeiros sairá do time, seguindo orientação do técnico Carlo Mazzone. O zagueiro, caso saia, afirmou que não terá dificuldades para encontrar outro clube.
 
 América do Sul quer cinco das 32 vagas 
@@ -1267,9 +1267,9 @@ Devido à tentativa de agressão ao árbitro Oscar Roberto de Godoy, no jogo em que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-074</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-074</field>
+<field name="date">940909</field>
+<text_pt>
 O Brasil tem que jogar o futebol participativo, no qual todos os atletas desempenham múltiplas funções em campo
 WANDERLEY LUXEMBURGO
 Especial para a Folha
@@ -1297,9 +1297,9 @@ WANDERLEY LUXEMBURGO é técnico do Palmeiras
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-075</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-075</field>
+<field name="date">940909</field>
+<text_pt>
 O Continente quer mesmo impactar o resto da Terra. Até o final da eliminatória, em novembro de 95, haverá outras dez suprr-quartas com um maremoto de cotejos &#150;e, sem dúvida, no correr do temo e depois do afunilamento dos candidatos às 15 vagas na fase final do Euro, a média de público vai aumentar. A Uefa, a entidade que organiza o futebol por lá,pretende que a média dos 15 privilegiados seja superior à cota dos 45.000, excelente num torneio tão extensivo e tão abrangente.
 Por que tanta ambição? Razões políticas,lógico. Embora não pareça e embora não se perceba, são cada vez mais aguçadas e mais fogosas as brigas pelo poder nos bastidores do futebol internacional. Uefa batalha para garantir o máximo de vagas na Copa da França/98 &#150;e para diminuir o espaço de manobra da tropa de choque do brasileiro João Havelange, o presidente da Fifa desde 1974.
 No dia 28 de outubro, em Nova York, uma reunião da Fifa decidirá o formato da Copa da França, a distribuição de 32 vagas pelas várias regiões do globo. Com sete nações qualificadas entre oito das quartas-de-final dos EUA-94, com 48 disputantes no seu Euro, o Velho Continente se considera com direito a exigir no mínimo a metade das vagas disponíveis para 98 &#150;ou, 16 em 32.
@@ -1308,9 +1308,9 @@ Figura crucial no equilíbrio dessa guerra é o secretário-geral da entidade,e o s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-076</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-076</field>
+<field name="date">940909</field>
+<text_pt>
 
 A Juventus de Turim está furiosa com Roberto Baggio. Perdoou o craque por ter jogado, machucadíssimo, a final da Copa dos EUA. Não desculpa, todavia, o fato de Baggio ter esticado as suas férias de caçador de aves selvagens da Argentina &#150;em vez de realizar os tratamentos de recuperação da contusão. Agora, por causa da recidiva de uma distensão, Baggio deve ficar 30 dias sem jogar.
 
@@ -1320,9 +1320,9 @@ A jovem Eslovênia conseguiu, na quarta-feira, o resultado mais glorioso da histó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-077</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-077</field>
+<field name="date">940909</field>
+<text_pt>
 
 As equipes titulares
 Brasil
@@ -1354,9 +1354,9 @@ Fique de olho: A atacante Mireya Luis, 27 anos e 1,75m, é o fator de desequilíbr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-078</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-078</field>
+<field name="date">940909</field>
+<text_pt>
 Representante oficial de Cuba na mostra diz que a falta de luz é um problema mais grave do que a censura
 MARIO CESAR CARVALHO
 Da Reportagem Local
@@ -1399,9 +1399,9 @@ Fui influenciado pela arte povera italiana, por Vito Acconci, mas gosto muito do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-079</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-079</field>
+<field name="date">940909</field>
+<text_pt>
 DANIEL PIZA
 Da Reportagem Local
 Barcos, peixes, ilhas, fronteiras. Esses são alguns dos elementos recorrentes na arte de José Bedia, 35, artista cubano que vive em Miami (EUA). Foi por causa da censura e da falta de condições materiais que ele decidiu deixar seu país em 1991.
@@ -1435,16 +1435,16 @@ Bedia - Com certeza.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-080</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-080</field>
+<field name="date">940909</field>
+<text_pt>
 A editora Viking Press anunciou que o escritor Stephen King decidiu ir ao encontro de seus fãs e partirá em viagem para promover seu novo livro, "Insomnia". Percorrerá neste outono americano dez cidades do pais, sempre sobre sua possante Harley-Davidson.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-081</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-081</field>
+<field name="date">940909</field>
+<text_pt>
 Rede Bandeirantes e fundação americana fecham acordo para produzir nova versão do programa infantil
 ARMANDO ANTENORE
 Da Reportagem Local
@@ -1463,9 +1463,9 @@ A Bandeirantes pretende iniciar a produção do infantil em janeiro de 95. Por nor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-082</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-082</field>
+<field name="date">940909</field>
+<text_pt>
 E atenção: não é mais no Ursa Maior, que (atenção 2) sofreu o desligamento de todo o seu staff original. Uma síndrome de Sra. Krawitz.
 Agora as fofinhas do trio de promoters Platino Blonde fazem suas festas às quartas (e não mais às terças), no Galpão Paparazzi (r. da Consolação, 3.046). Assim já preparam o babado fortíssimo que deverá ser o Samantha Santa, a próxima casa do promoter Nenê (ex-Krawitz). A data de abertura está prometida para dia 28 DESTE MÊS!!! Alguém acredita?
 
@@ -1473,9 +1473,9 @@ Não é só de lá para cá. O multiman Pazetto produz e edita material para publicar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-083</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-083</field>
+<field name="date">940909</field>
+<text_pt>
 E agora algumas notinhas de moda para irritar quem acha que esta coluna deve ser só mundinho (bocejos). Assim, os eventos da semana são:
 
 Segunda-feira tem desfile entre as carteiras do anfiteatro do colégio Sion para mostrar o neoglamour de Reinaldo Lourenço e as luxuosas cores de Gloria Coelho. A direção é da dupla Paulo e Patricia Ramalho, com cantoria de Madalena Bernardes e trilha do iugoslavo Mitar Subotic. O mesmo que assusta os kriptos com os "efeitos sonoros" dos desfiles de Alexandre Herchcovitch. Subotic também leva o aposto de marido da cantora Taciana (ex-Gang 90). É dele aliás a produção do disco que ela solta no próximo mês.
@@ -1486,9 +1486,9 @@ A quarta-feira começa já de manhã com o brunch de Clô Horozco. Reforce o make at
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-084</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-084</field>
+<field name="date">940909</field>
+<text_pt>
 E tem essa tal casa nova de Ricardo Amaral no Rio (onde mais, esta semana?), o Metropolitan. Eles forçam os convidados ao constrangimento de atravessar um shopping center uó, enquanto o público dzarm do shopping confere e aponta para os modelos (roupas, entenda-se) dos finos e para os artistas, que lá tem muitos.
 
 Na inauguração, com o show da Diana Ross, teve de tudo. O que incluía os astros de "A Viagem" (até a Diná e o Alexandre), o Wando (ele existe mesmo) e os tops da decadente burguesia carioca. Incluiu também o tal professor Julio Lopes apalpando a barriga de miss Ross.
@@ -1497,9 +1497,9 @@ Ainda: desista de marcar encontro com alguém lá dentro. É gigantesco. E cuidado 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-085</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-085</field>
+<field name="date">940909</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Continuo hoje a lista iniciada há um mês com os livros sérios a respeito da busca espiritual.
@@ -1509,9 +1509,9 @@ Continuo hoje a lista iniciada há um mês com os livros sérios a respeito da busc
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-086</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-086</field>
+<field name="date">940909</field>
+<text_pt>
 Escrito por uma 'ghost writer', o romance 'Swan' conta a 'vida dura' e 'os punhais nas costas' na vida das modelos
 SÉRGIO MALBERGIER
 De Londres
@@ -1531,26 +1531,26 @@ O investimento compensou. Hoje, Naomi ganha cerca de US$ 20 mil por dia de traba
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-087</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-087</field>
+<field name="date">940909</field>
+<text_pt>
 Das agências internacionais
 O cineasta britânico Terence Young, conhecido principalmente pela direção dos primeiros filmes de James Bond, morreu anteontem em Cannes, na França, após um ataque cardíaco. Estava com 79 anos de idade.
 Ao longo de sua carreira, Young dirigiu 37 filmes, sendo que os três mais populares foram os de James Bond ("Moscou Contra 007", "007 Contra o Satânico Dr. No" e "007 Contra a Chantagem Atômica"), todos protagonizados por Sean Connery e baseados em livros de Ian Fleming.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-088</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-088</field>
+<field name="date">940909</field>
+<text_pt>
 
 RUSHDIE - O escritor indo-britânico Salman Rushdie presidirá a inauguração do Parlamento Internacional de Escritores, que acontece no final do mês em Lisboa. A reunião deste ano é a primeira do parlamento, fundado por intelectuais que reclamam a "autonomia da literatura ante os poderes político-econômicos".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-089</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-089</field>
+<field name="date">940909</field>
+<text_pt>
 Atriz se dá melhor do que Alec Baldwin num filme que explora mais a ação do que aspectos sociais do enredo
 INÁCIO ARAUJO
 Crítico de Cinema
@@ -1576,9 +1576,9 @@ Mas há algo de inesperado e especial nela, neste filme: Kim está ficando muito p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-090</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-090</field>
+<field name="date">940909</field>
+<text_pt>
 Da Redação
 A 6ª edição da Mostra Banco Nacional de Cinema, em cartaz na cidade desde a última terça-feira prossegue até quinta-feira, dia 15. Os interessados devem ficar atentos às alterações feitas na programação.
 Para o fim-de-semana as sessões de "Sereias" e "Prato Feito" foram canceladas . Em seu lugar, foram programadas novas sessões do último filme de Ang Lee, "Comer Beber Viver" (dia 11, às 14h, na sala 3, e às 19h30, na sala 1 do Espaço Banco Nacional de Cinema, r. Augusta 1.475, Cerqueira César). Aqui, o mesmo diretor de "Banquete de Casamento" brinca com a inversão de valores em sua Taiwan natal, onde as mulheres trabalham e os homens cuidam da cozinha.
@@ -1588,9 +1588,9 @@ Na sala Cinemateca (r. Fradique Coutinho, 361, Pinheiros) a retrospectiva Roger 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-091</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-091</field>
+<field name="date">940909</field>
+<text_pt>
 Nos contos de "Sanatório", o escritor transforma os fenômenos naturais em verdadeiros acontecimentos
 MARCELO COELHO
 Da Equipe de Articulistas
@@ -1616,9 +1616,9 @@ Bruno Schulz é um visionário, como Rimbaud. Vale a pena mergulhar nas suas aluci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-092</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-092</field>
+<field name="date">940909</field>
+<text_pt>
 O compositor baiano mostra versões de 'Asa Branca' e 'Trem das Onze' no Memorial da América Latina
 Da Redação
 
@@ -1636,9 +1636,9 @@ E, como afirmou o crítico americano Gene Santoro, "a música de Tom Zé é cativant
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-093</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-093</field>
+<field name="date">940909</field>
+<text_pt>
 Qualidade dos ingredientes não resolve a falta de personalidade de locais como o Aragosta, instalado no Hilton
 JOSIMAR MELO
 Especial para a Folha
@@ -1653,9 +1653,9 @@ Receitas que fogem do óbvio mostram a busca da novidade, como o linguado ao aniz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-094</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-094</field>
+<field name="date">940909</field>
+<text_pt>
 
 COISA FINA 1 - Quando acabam de ser produzidos, os queijos (com exceção dos frescos) passam por períodos de maturação em condições de temperatura e umidade que variam para cada tipo. Na França, este período é chamado de "affinage" e é supervisionado por "affineurs", como Jacques Vernier (dos queijos Boursault), que vem ao Brasil este mês.
 
@@ -1664,9 +1664,9 @@ COISA FINA 2 - Em São Paulo, Jacques Vernier dará aulas sobre queijos entre 20 e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-095</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-095</field>
+<field name="date">940909</field>
+<text_pt>
 NINA HORTA
 Especial para a Folha
 O Saint Antony's College, na Universidade de Oxford (Inglaterra), realiza de hoje a domingo o encontro anual de um bando de cozinheiros acadêmicos, historiadores, nutricionistas, sociólogos, botânicos, escritores, livreiros e muitos outros interessados em comida.
@@ -1688,9 +1688,9 @@ Despreparo total para enfrentar os dodos ingleses, mas a sorte já está lançada. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-096</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-096</field>
+<field name="date">940909</field>
+<text_pt>
 
 BIBLIOTECA 1 - A editora Objetiva acaba de lançar a coleção "A Culinária Light do Vigilantes do Peso", formada por fascículos dedicados às aves, massas, doces e frutos do mar. Em cada um deles, cerca de 60 receitas promovem um regime balanceado e à base de produtos do país. Cada exemplar custa R$ 11,80.
 
@@ -1701,9 +1701,9 @@ FESTIVAL - O Club Transatlântico (r. José Serra, 130, atrás do Carrefour da Marg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-097</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-097</field>
+<field name="date">940909</field>
+<text_pt>
 SÉRGIO KRASELIS
 Da Reportagem Local
 As garotas da seleção brasileira de vôlei podem ser campeãs de um torneio mundial neste fim-de-semana.
@@ -1716,16 +1716,16 @@ Outra jogadora muito legal é a atacante Virna, que está entre as três melhores d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-098</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-098</field>
+<field name="date">940909</field>
+<text_pt>
 A Perdigão está dando um curso de culinária para crianças que tem entre 4 e 10 anos. Durante as aulas, que acontecem dias 27, 28, 29 e 30, é possível aprender como preparar lanches fáceis de fazer e rápidos de comer. O curso infantil foi reservado para escolas. As inscrições são feitas pelo telefone 268-3613.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-099</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-099</field>
+<field name="date">940909</field>
+<text_pt>
 Os instrumentos musicais são divididos em três grandes famílias: sopro, percussão e cordas.
 CORDAS
 Violão - Feito a partir do alaúde. Os primeiros violões eram mais estreitos e menores. Tinham quatro cordas duplas. Hoje em dia, os violões têm seis cordas de náilon.
@@ -1748,9 +1748,9 @@ Xilofone - É feito de madeira. O metalofone é feito de metal. Outros insturmento
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-100</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-100</field>
+<field name="date">940909</field>
+<text_pt>
 XICO SÁ
 Da Reportagem Local
 PAULO MOTA
@@ -1770,9 +1770,9 @@ Os cheques que pagaram as despesas com a convenção foram assinados por Alfredo d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-101</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-101</field>
+<field name="date">940909</field>
+<text_pt>
 Da Redação
 Os presidenciáveis, através de seus assessores, recuaram ontem do compromisso assumido desde 14 de junho com a Folha e a Rede Cultura e desistiram de comparecer a um debate nos dias 29 e 30 de setembro, alegando como pretexto compromissos de campanha.
 Como alternativa, os dois veículos propuseram, na reunião realizada ontem com as assessorias, que o debate fosse transferido para os dias 25 e 26 de setembro.
@@ -1793,16 +1793,16 @@ Pela proposta da Folha e da Cultura, os quatro primeiros colocados na pesquisa D
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-102</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-102</field>
+<field name="date">940909</field>
+<text_pt>
 O uso de reservas cambiais para importar maquinário e financiar obras de infra-estrutura, proposto pelos tucanos, sofreu restrições. O presidente da Fiesp, Carlos Eduardo Moreira Ferreira, defendeu o investimento na indústria nacional. O presidente da CNI, Mário Amato, não se entusiasmou com a idéia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-103</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-103</field>
+<field name="date">940909</field>
+<text_pt>
 FHC
 Passou o dia em Brasília. Pela manhã, gravou horário eleitoral. À tarde, participou da cerimônia oficial de transmissão do cargo de ministro da Fazenda. Rebateu as declarações do governador paulista, Luiz Antonio Fleury Filho, sobre o uso da máquina em seu favor, dizendo que elas são "infantis".
 pág. 3 
@@ -1817,9 +1817,9 @@ Permaneceu no Rio. À noite, inaugurou comitê eleitoral em Jacarepaguá, na zona o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-104</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-104</field>
+<field name="date">940909</field>
+<text_pt>
 Lula
 Faz campanha na Bahia. Sai de São Paulo às 9h, em direção a Teixeira de Freitas (BA), onde chega às 11h. Faz comício na cidade às 11h30. Às 13h, vai para Vitória da Conquista (BA), onde dá coletiva às 13h30 e faz novo comício às 16h. Às 18h, vai para Ilhéus (BA), onde faz concentração às 19h. Às 20h30, vai para Itabuna (BA), onde tem comício às 21h.
 
@@ -1834,9 +1834,9 @@ Pela manhã, grava programa eleitoral em São Paulo. Viaja para o Paraná no fim da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-105</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-105</field>
+<field name="date">940909</field>
+<text_pt>
 ANDREW GREENLEES
 Do Painel
 Na reta final da campanha presidencial, a prioridade da campanha de Fernando Henrique Cardoso (PSDB) é atrair novamente os votos de eleitores que se afastaram por conta do caso Ricupero. A estratégia tucana, mais do que nunca, é apontar o Plano Real como a saída mais palpável para a crise econômica.
@@ -1847,9 +1847,9 @@ Nos médios centros urbanos, foi de seis pontos o crescimento na avaliação positi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-106</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-106</field>
+<field name="date">940909</field>
+<text_pt>
 MAURICIO PULS
 Da Redação
 A pesquisa realizada pelo Datafolha no último dia 5 de setembro revelou que, após o episódio envolvendo o ex-ministro Rubens Ricupero, o candidato Fernando Henrique Cardoso teve uma queda sensível em alguns segmentos sociais &#150;a qual, por atingir setores minoritários, não se refletiu, pelo menos até o momento, numa queda no conjunto do eleitorado nacional.
@@ -1866,9 +1866,9 @@ A coluna MARGEM DE ERRO é publicada às sextas-feiras.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-107</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-107</field>
+<field name="date">940909</field>
+<text_pt>
 Candidato rejeita pressão de aliado, que disse que Ciro Gomes tem lugar assegurado em eventual governo tucano
 GABRIELA WOLTHERS
 Da Sucursal de Brasília
@@ -1890,9 +1890,9 @@ O presidente da Fiesp (Federação das Indústrias do Estado de São Paulo), Carlos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-108</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-108</field>
+<field name="date">940909</field>
+<text_pt>
 GUSTAVO PATÚ
 Da Sucursal de Brasília
 A proposta de gastar as reservas cambiais do país em financiamentos para importação de maquinário e obras de infra-estrutura, do programa de Fernando Henrique Cardoso (PSDB-PFL-PTB), não agradou lideranças empresariais.
@@ -1908,9 +1908,9 @@ Colaborou a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-109</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-109</field>
+<field name="date">940909</field>
+<text_pt>
 CARLOS MAGNO DE NARDI
 Da Reportagem Local
 O assessor parlamentar do PSDB, Sebastião Farias, e o secretário nacional de Saneamento, Antonio Perosa, acusaram ontem o governador Luiz Antonio Fleury Filho de participar de uma articulação para impedir a eleição do candidato tucano Mário Covas.
@@ -1930,9 +1930,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-110</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-110</field>
+<field name="date">940909</field>
+<text_pt>
 Da Agência Folha, em Porto Alegre
 O presidente do Tribunal Superior Eleitoral, Sepúlveda Pertence, não tem certeza se haverá possibilidade de analisar todas as representações contra candidatos antes das eleições de 3 de outubro.
 "Apenas posso dizer que o ministro Scartezzini (Flaquer Scartezzini, corregedor-geral-eleitoral) pretende dar a maior velocidade possível, se a instrução de algum caso mais complexo não impedir, para ter tudo isso resolvido antes do pleito", disse Sepúlveda Pertence ontem em Porto Alegre.
@@ -1941,9 +1941,9 @@ Sobre a liminar deferida anteontem pelo TSE proibindo a veiculação da conversa d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-111</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-111</field>
+<field name="date">940909</field>
+<text_pt>
 Da Sucursal de Brasília
 Luiz Inácio Lula da Silva, do PT, denunciou ontem o comprometimento da safra agrícola de 1994 pelo atraso na liberação de recursos para o plantio.
 O Ministério da Agricultura confirmou o atraso e teme um desabastecimento de produtos agrícolas no início do próximo ano.
@@ -1960,9 +1960,9 @@ Quércia tenta usar CUT em campanha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-112</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-112</field>
+<field name="date">940909</field>
+<text_pt>
 JOÃO BATISTA NATALI
 Da Reportagem Local
 Jair Meneguelli, 47, foi presidente nacional da CUT (Central Única dos Trabalhadores) entre 1983 e 1994 e agora disputa, pelo PT, uma das cadeiras da Câmara dos Deputados.
@@ -1992,9 +1992,9 @@ Meneguelli - Se houver o compromisso de cada deputado ou governante de mudar est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-113</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-113</field>
+<field name="date">940909</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Bomba! Bomba! Ciro Gomes assume! O quê?! O Ciro Gomes assumiu? O Quércia vai adorar! Rarará! Já até tá chamando o Ciro de odalisca da catinga. Pra mim isso é elogio, gritou uma amiga minha. Isso é briga de cowboy. Porque o Ciro Gomes parece saído de faroeste americano! Marlboro de palha versus fumo de rolo! E em todas as placas de todas estradas paulistas tá escrito "Quércia Vem Aí". Só se for a pé e dizendo Meu Nome é Orestes! Rarará! E duas coisas eu não quero que vençam nunca: o Enéas e o meu desodorante. Rarará. O resto é lucro. Já imaginou se no dia da eleição sai o Ibope "Venceu o desodorante". Rarará!
@@ -2004,9 +2004,9 @@ Tá pior que o Montoro quando inaugurou a Bienal: "Espero que a Bienal se realize
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-114</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-114</field>
+<field name="date">940909</field>
+<text_pt>
 Da Reportagem Local
 O Coletivo de Intelectuais pela Transparência nas Eleições convidou entidades internacionais de direitos civis para acompanhar a campanha eleitoral, como foi feito no México e África do Sul.
 Na reunião de ontem do coletivo, também foi decidida a convocação de entidades civis para o "Ato pelas eleições limpas", marcado para a próxima quinta-feira, dia 15, na Faculdade de Direito da USP, no Largo de São Francisco.
@@ -2024,9 +2024,9 @@ Entre os intelectuais que formaram o coletivo estão a filósofa Marilena Chaui, o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-115</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-115</field>
+<field name="date">940909</field>
+<text_pt>
 Candidato rejeita pressão de aliado, que disse que Ciro Gomes tem lugar assegurado em eventual governo tucano
 GABRIELA WOLTHERS
 Da Sucursal de Brasília
@@ -2046,9 +2046,9 @@ Como os carros estavam a uma certa distância, Ciro Gomes foi forçado a colocar p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-116</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-116</field>
+<field name="date">940909</field>
+<text_pt>
 FERNANDO MOLICA
 Da Sucursal do Rio
 As acusações de uso da máquina do governo federal em benefício da candidatura do PSDB à Presidência fizeram com que PT, PMDB e PDT decidissem, no Rio, atuar em conjunto para viabilizar suas ações na Justiça Eleitoral.
@@ -2065,9 +2065,9 @@ Os três partidos decidiram manter uma "vigília permanente" e promover outras reu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940909-117</text_pt>
-<text_pt name="date">940909</text_pt>
-<text_pt name="text">
+<field name="id">FSP940909-117</field>
+<field name="date">940909</field>
+<text_pt>
 Da Sucursal de Brasília
 Luiz Inácio Lula da Silva, do PT, denunciou ontem o comprometimento da safra agrícola de 1995 pelo atraso na liberação de recursos para o plantio.
 O Ministério da Agricultura confirmou o atraso e teme um desabastecimento de produtos agrícolas no início do próximo ano.

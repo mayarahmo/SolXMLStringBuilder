@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940805-001</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-001</field>
+<field name="date">940805</field>
+<text_pt>
 Flávio Rocha (esq.), ao lado da mulher, Ana Cristina, e do candidato a deputado Marcos Cintra (PL-SP), discute com fiscais da Receita no aeroporto de Brasília após seu avião particular ser retido para revista. O presidenciável do PL, que vinha de São Paulo, se disse perseguido. "Fazem isso porque vou acabar com a máfia da arrecadação de impostos."
 PÁG. Esp. 3
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-002</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-002</field>
+<field name="date">940805</field>
+<text_pt>
 Censos são uma espécie de retrato do país. No caso do Brasil, essa assertiva adquire um perverso duplo sentido. Para além dos números nada abonadores revelados pela pesquisa, o censo de 1991 carrega consigo uma história de falta de planejamento, ineficiência e fraude.
 Para começar, a pesquisa deveria ter sido realizada e seus números parciais deveriam ter sido divulgados em 1990, sob pena de comprometimento da série histórica, que era feita de dez em dez anos. O trabalho de campo só foi realizado em 91. O IBGE só revelou de forma sistemática os dados parciais anteontem, 3 de agosto de 94. Quase meia década de atraso, portanto.
 Pior, os dados relativos ao Estado do Pará tiveram de ser desconsiderados por suspeitas de fraude. Municípios e Estados têm interesse em "superfaturar" sua população para reivindicar mais verbas e mais cadeiras na Câmara.
@@ -22,9 +22,9 @@ Como se vê, o Brasil caminhou um pouco na chamada década perdida. Mas muito meno
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-003</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-003</field>
+<field name="date">940805</field>
+<text_pt>
 Clóvis Rossi
 PORTO ALEGRE &#150; Veterano de muitas batalhas eleitorais, o senador Pedro Simon (PMDB-RS), líder do governo no Senado, começa a acreditar que o chamado voto útil desta vez será aplicado já no primeiro turno do pleito presidencial.
 Normalmente, o voto útil ocorre ou em eleições de um só turno ou na segunda rodada dos pleitos com dois turnos. Na eleição presidencial anterior (1989), o voto útil foi no segundo turno. Os partidários dos candidatos eliminados na primeira votação tiveram que escolher o que consideravam o menor de dois males, já que o "bom", o seu próprio candidato, ficara de fora.
@@ -37,9 +37,9 @@ Por tudo isso, Simon acredita que a eleição pode até definir-se no primeiro turn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-004</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-004</field>
+<field name="date">940805</field>
+<text_pt>
 José Sarney
 O subdesenvolvimento político é tão nocivo quanto o subdesenvolvimento econômico. Ele atrasa os países, destrói as instituições, impede que elas se implantem e se consolidem, porque é um processo de auto-realização dos baixos processos eleitorais e políticos.
 Uma das suas faces mais visíveis é a do processo eleitoral. As democracias vivem constantemente na busca de aperfeiçoá-lo. No Brasil, este lado tem sido dramático, vive de avanços e recuos.
@@ -60,9 +60,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-005</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-005</field>
+<field name="date">940805</field>
+<text_pt>
 
 Luiz Caversan
 RIO DE JANEIRO &#150; Representantes do movimento Viva Rio, liderados pelos presidentes da Associação Comercial e Federação do Comércio, estiveram ontem com o prefeito César Maia e com o governador Nilo Batista.
@@ -78,9 +78,9 @@ O governador Nilo Batista é sabidamente homem comprometido com a Justiça e o res
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-006</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-006</field>
+<field name="date">940805</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Há tempos não ouvia um argumento tão idiota &#150;aliás, compromete a inteligência de seus autores. Para defenderem Marco Maciel, atacado por suas vinculações militares, dirigentes do PFL resolveram agredir o general Osvaldo Oliva, pai de Aloizio Mercadante, vice do PT.
 Ao se referir as vinculações de Maciel com a ditadura, o presidente do PFL, Jorge Bornhausen, atacou: "Sobre esse assunto, o PT deve consultar o general Oliva". É algo parecido a exigir de Bornhausen que explique as altas taxas de juros só porque seu irmão Roberto é banqueiro.
@@ -93,9 +93,9 @@ PS &#150; Nem tudo está perdido. Se Fernando Henrique ganhar, ele talvez tenha a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-007</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-007</field>
+<field name="date">940805</field>
+<text_pt>
 A lista das maiores e melhores empresas do país que acaba de ser divulgada pela Fundação Getúlio Vargas constitui quase que uma lição acerca das relações entre o poder público e a economia no Brasil.
 Chama a atenção, desde logo, a gigantesca presença que o Estado brasileiro e suas múltiplas ramificações têm na atividade produtiva. Dentre as 15 maiores empresas do país, por exemplo, dez são estatais e outras quatro o foram até há pouco. Só uma é de origem privada.
 É uma mostra impressionante do grau de dependência da economia do país em relação ao setor estatal. E isso, note-se, num momento em que esse tipo de relação público-privado não encontra qualquer justificativa &#150;ainda que no passado possa ter encontrado.
@@ -107,9 +107,9 @@ A lição dificilmente poderia ser mais clara.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-008</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-008</field>
+<field name="date">940805</field>
+<text_pt>
 Como era de se esperar, os vícios de uma economia que durante mais de uma década operou com mecanismos generalizados de indexação não desaparecem facilmente.
 A naturalidade com que certos Estados e municípios voltaram a indexar seus impostos é a mais clara e mais aberrante evidência da incoerência daqueles que se dizem a favor da estabilização, mas, distorcidamente, continuam a ver no atrelamento aos índices de preços a garantia de suas próprias receitas.
 A justificativa apresentada, de que a desindexação causaria perdas de arrecadação e favorecimento aos pagadores em débito, pode servir para qualquer setor da economia.
@@ -121,9 +121,9 @@ Cultura na qual o sucesso de uma atividade empresarial esteja baseado na produti
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-009</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-009</field>
+<field name="date">940805</field>
+<text_pt>
 O Plano Real é um dos fatos mais importantes nos últimos tempos da política externa do país
 RUBENS RICUPERO
 Uma comparação entre os planos econômicos do Brasil e da Argentina mostra muitas semelhanças e muitas diferenças na condução do processo de estabilização em cada um dos países.
@@ -150,9 +150,9 @@ RUBENS RICUPERO, 56, é ministro da Fazenda. Foi ministro do Meio Ambiente e da A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-010</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-010</field>
+<field name="date">940805</field>
+<text_pt>
 A utopia nos mostra o melhor caminho para dissipar o mundo de sombras da cultura
 SÉRGIO MAMBERTI
 "Não me assente o senhor por beócio. Uma coisa é por idéias arranjadas, outra é lidar com país de pessoas, de carne e sangue, de mil-e-tantas misérias... Tanta gente &#150;dá susto se saber&#150; e nenhum se sossega: todos nascendo, crescendo, se casando, querendo colocação de emprego, comida, saúde, riqueza, ser importante, querendo chuva e negócios bons... (...) Viver é muito perigoso...""Grande Sertões: Veredas", João Guimarães Rosa²
@@ -177,9 +177,9 @@ SÉRGIO MAMBERTI, 55, ator, diretor teatral e promotor cultural, é coordenador da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-011</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-011</field>
+<field name="date">940805</field>
+<text_pt>
 "Em seu artigo 'Vendem-se candidatos' (4/07), Otavio Frias Filho traça um perfil realista da campanha eleitoral. Vivemos um momento em que candidatos tentam impressionar os eleitores com propostas mirabolantes e artifícios fantasmagóricos, sabendo que depois das urnas haverá a ressaca, com um previsível divórcio entre o discurso e a ação. Que as lições de 1989, quando um aventureiro narcisista nos legou um saldo de descrédito moral e político, sirvam de exemplo para nossa incauta população votante."
 Ronaldo Caggiano (Brasília, DF)
 
@@ -245,9 +245,9 @@ Claudio Guardabassi (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-012</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-012</field>
+<field name="date">940805</field>
+<text_pt>
 Barros Munhoz (PMDB) mandou imprimir e está distribuindo como material de campanha seu perfil realizado pela "Revista da Folha". O candidato ao governo paulista foi autorizado a usar a reportagem, mas é de sua inteira responsabilidade a reprodução e distribuição da mesma.
 
 Série
@@ -278,9 +278,9 @@ De Maurílio Ferreira Lima (PSDB-PE), sobre os ataques do PT a Marco Maciel, por 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-013</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-013</field>
+<field name="date">940805</field>
+<text_pt>
 Pesquisador estuda por que os cartógrafos localizavam o Éden no Brasil
 MARIO CESAR CARVALHO 
 Da Reportagem Local
@@ -304,9 +304,9 @@ O mito do paraíso brasileiro precisa ser comparado com mitos similares que surgi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-014</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-014</field>
+<field name="date">940805</field>
+<text_pt>
 Livro foi lançado pelo 'New York Times' nos EUA, onde custa US$ 30
 Da Reportagem Local
 A Folha do próximo dia 14 circula com um presente inédito no Brasil. Dentro do jornal o leitor encontrará o primeiro fascículo e a capa dura de um atlas lançado nos Estados Unidos pelo jornal "New York Times".
@@ -326,9 +326,9 @@ Explicação de 367 termos num dicionário geográfico.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-015</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-015</field>
+<field name="date">940805</field>
+<text_pt>
 ITAMAR FRANCO
 A condução da política externa brasileira tem sua fonte de inspiração nos interesses permanentes do Estado brasileiro. Nossa atuação diplomática possui dinâmica própria, baseada na Lei Magna do país e em tradição jurídica fielmente observada.
 No plano internacional, o Brasil age dentro dos limites definidos na Constituição Federal, de cuja elaboração participei como senador, na plena convicção de minha fé democrática. O artigo 4º da Constituição estabelece os princípios que regem as nossas relações internacionais, dentre os quais destaco a autodeterminação dos povos, não-intervenção, igualdade entre os Estados, defesa da paz e solução pacífica dos conflitos.
@@ -349,9 +349,9 @@ Permito-me citar, a propósito, o que disse, há 11 anos, o então governador Tancr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-016</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-016</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 A juíza Selene Maria de Almeida, da 4ª Vara da Justiça Federal, em Brasília, manteve ontem a liminar que suspende a concorrência para a escolha de empresas que farão o projeto de engenharia do programa de irrigação do Nordeste, através do bombeamento das águas do rio São Francisco.
 O projeto é do Ministério da Integração Regional e é contestado na Justiça pela empresa Gepel Consultoria e Engenharia, do Rio.
@@ -363,9 +363,9 @@ Segundo o ministro Aluízio Alves, devem ser desapropriados cerca de um milhão de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-017</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-017</field>
+<field name="date">940805</field>
+<text_pt>
 Presidente descarta aumento de tarifa pública; Ricupero afirma que governo tem 'arsenal' para combater altas
 SÔNIA MOSSRI
 Enviada especial a Buenos Aires
@@ -386,9 +386,9 @@ Colaborou a Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-018</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-018</field>
+<field name="date">940805</field>
+<text_pt>
 Enviada especial a Buenos Aires
 Os governos argentino e brasileiro concordaram em dar proteção maior aos produtos do Uruguai para permitir o acerto em torno do Mercosul e não adiar a reunião presidencial de cúpula, que começou ontem em Buenos Aires.
 O ministro brasileiro das Relações Exteriores, Celso Amorim, disse que o Uuguai terá até o ano 2001 para aumentar o índice de nacionalização dos seus produtos que circularão no Mercosul &#150;união aduaneira entre Brasil, Uruguai, Paraguai e Argentina que inicia-se em 1. de janeiro de 1995.
@@ -399,9 +399,9 @@ O Brasil terá tratamento especial para vinhos. Os vinhos dos outros países do Me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-019</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-019</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 A Promotoria de Defesa dos Direitos do Consumidor do Distrito Federal vai encaminhar à Justiça, na próxima terça-feira, ações civis públicas contra 11 supermercados de Brasília sob a acusação de aumento abusivo de preço. Será pedida a prisão preventiva dos donos e gerentes das lojas destes supermercados com base na Lei Antitruste e na Lei do Colarinho Branco.
 O autor das ações é o promotor Antônio Ezequiel de Araújo Neto, o mesmo que fez o pedido de prisão preventiva dos acionistas e do gerente do Makro Atacadista no mês passado.
@@ -412,9 +412,9 @@ Foi indicado o assessor econômico Regis Tércio Ramos para falar em nome da entid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-020</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-020</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 A Promotoria de Defesa dos Direitos do Consumidor do Distrito Federal vai encaminhar à Justiça, na próxima terça-feira, ações civis públicas contra 11 supermercados de Brasília sob a acusação de aumento abusivo de preço. Será pedida a prisão preventiva dos donos e gerentes das lojas destes supermercados com base na Lei Antitruste e na Lei do Colarinho Branco.
 O autor das ações é o promotor Antônio Ezequiel de Araújo Neto, o mesmo que fez o pedido de prisão preventiva dos acionistas e do gerente do Makro mês passado.
@@ -425,9 +425,9 @@ Seu assessor econômico Regis Tércio Ramos falaria pela entidade. Procurado, sua 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-021</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-021</field>
+<field name="date">940805</field>
+<text_pt>
 O ministro Alexis Stepanenko (Minas e Energia) ameaçou ontem cortar o ponto dos petroleiros, caso eles iniciem uma greve em setembro, quando estarão em data-base. Os petroleiros reivindicam aumento real de 100%.
 
 Associação dos juízes gaúchos faz 50 anos
@@ -438,9 +438,9 @@ O relator da MP (medida provisória) do real, senador José Fogaça (PMDB-RS), diss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-022</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-022</field>
+<field name="date">940805</field>
+<text_pt>
 1) Os partidos vendem aos empresários um lote de bônus com deságio &#150;por um custo abaixo do valor real. Exemplo: por um pacote de R$ 140 mil em bônus, cobra-se apenas R$ 70 mil. 
 2) O partido registra a venda como doação para a campanha. É um bom negócio para o partido por um simples fato: está recebendo um dinheiro que não chegaria aos seus cofres se não fizesse a "promoção" do deságio.
 3)Na hora de prestar contas ao TSE, o partido apresenta notas fiscais "frias" para cobrir a diferença do deságio da venda do bônus. As notas apresentam despesas fictícias com aluguel de carros, compra de cartazes etc.
@@ -452,9 +452,9 @@ O relator da MP (medida provisória) do real, senador José Fogaça (PMDB-RS), diss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-023</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-023</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 A reportagem da Folha comprou do PL (Partido Liberal) um lote de R$ 140 mil em bônus eleitorais em troca de um cheque de apenas R$ 70 mil. 
 O negócio comprova a existência de de um mercado paralelo formado por partidos para a venda ilegal, com deságio (desconto) de bônus eleitorais.
@@ -480,9 +480,9 @@ Colaboraram VICENTE DUARTE NETO, da Redação, e Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-024</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-024</field>
+<field name="date">940805</field>
+<text_pt>
 JOSÉ ROBERTO DE TOLEDO
 Editor do Painel
 Os principais motivos de rejeição a Lula &#150;não tem estudo (9%) e não tem competência (8%)&#150; se concentram no Sul e Sudeste, nas capitais e grandes municípios, e nos eleitores com mais escolaridade e maior renda familiar.
@@ -493,9 +493,9 @@ Na reta final da campanha, Lula vai centrar fogo nos maiores colégios eleitorais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-025</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-025</field>
+<field name="date">940805</field>
+<text_pt>
 ANTONIO MANUEL TEIXEIRA MENDES
 Diretor-executivo do Datafolha
 Os observadores mais atentos dos resultados das pesquisas eleitorais sabem que o apoio a Fernando Henrique Cardoso (PSDB) é maior entre eleitores de maior renda e maior escolaridade, ou seja, quanto mais instruído e mais bem remunerado o eleitor, maior a inclinação por sua candidatura.
@@ -512,9 +512,9 @@ ANTONIO MANUEL TEIXEIRA MENDES, 36, escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-026</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-026</field>
+<field name="date">940805</field>
+<text_pt>
 Reportagem da Folha faz dez ligações para o PL a fim de concretizar a negociação com os bônus eleitorais
 Da Reportagem Local
 A Folha realizou dez telefonemas para concretizar a negociação da compra de bônus eleitorais. A seguir, os principais trechos das conversações entre a reportagem e o comando de campanha do PL:
@@ -607,9 +607,9 @@ Novamente de um orelhão, repórter informa que, caso não possa comparecer pessoal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-027</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-027</field>
+<field name="date">940805</field>
+<text_pt>
 LUÍS FRANCISCO CARVALHO Fº   
 Da equipe de articulistas
 Eleição ainda é uma forma de lavagem de dinheiro. A reportagem da Folha mostra que a lei eleitoral é falha. A idéia dos bônus emitidos pelo Ministério da Fazenda não passa de um engodo. Os bônus servem para deixar rastro, mas não asseguram a transparência das doações.
@@ -620,9 +620,9 @@ O caso revelado hoje é exemplar, põe em cheque a credibilidade do processo eleit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-028</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-028</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 O candidato do PL à Presidência, Flávio Rocha, ficou preso no aeroporto de Brasília por mais de uma hora e meia para que seu avião particular fosse revistado ontem pela Receita Federal.
 Rocha ficou indignado com os fiscais por seu jatinho ter sido, segundo ele, "o único" a ter a bagagem inspecionada. "Isso é perseguição. Outros dois aviões pousaram e foram liberados", disse.
@@ -636,9 +636,9 @@ A Receita deu início ontem à Operação Padrão nos aeroportos de todo país. Depois
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-029</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-029</field>
+<field name="date">940805</field>
+<text_pt>
 Para o senador, aceitação de denúncia de estelionado contra Quércia hoje pelo STJ inviabiliza candidatura peemedebista
 CLÓVIS ROSSI   
 Enviado especial a Porto Alegre
@@ -661,9 +661,9 @@ Sobre Quércia às págs. 6 e 7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-030</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-030</field>
+<field name="date">940805</field>
+<text_pt>
 NELSON DE SÁ   
 Da Reportagem Local
 Não é de agora que o Jornal da Globo, editado em São Paulo por Lillian Witte Fibe, tromba com o departamento de informação e propaganda, por assim dizer, da Globo. Fora os confrontos com Alexandre Garcia, houve outros, mais recentes, como no caso da muamba, que o telejornal tratou de "o vôo da alegria".
@@ -679,9 +679,9 @@ Foi uma hora fora do ar, devido à representação de Lula. Depois, mais uma hora c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-031</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-031</field>
+<field name="date">940805</field>
+<text_pt>
 O Tribunal Regional Eleitoral do Amazonas vai consultar o Tribunal Superior Eleitoral sobre a possibilidade de regionalizar o horário gratuito de rádio e TV. Houve reclamações dos partidos por causa do horário de transmissão &#150;uma hora mais cedo do que no restante do país em função do fuso horário.
 
 Família disputa as eleições pelo Prona
@@ -689,16 +689,16 @@ O Prona está apresentando na disputa pelo voto dos cearenses uma chapa formada p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-032</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-032</field>
+<field name="date">940805</field>
+<text_pt>
 O deputado federal Ricardo Murad (PSD), 38, candidato ao governo do Maranhão, disse ontem no horário eleitoral que a máquina do Estado nos últimos 30 anos foi colocada a serviço dos interesses da família Sarney. Murad é cunhado de Fernando e Roseana, filhos do ex-presidente José Sarney .
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-033</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-033</field>
+<field name="date">940805</field>
+<text_pt>
 O candidato do PSDB à Assembléia Legislativa do Rio Grande do Norte, Luiz Rebouças, prometeu ontem construir, caso seja eleito, um "discoporto" para receber discos voadores. Autor do livro "Ovni, um ET diferente", Rebouças disse que será "um gênio brasileiro na Assembléia (Legislativa)".
 
 Coligação usa "tema da vitória" na TV
@@ -706,16 +706,16 @@ A coligação sergipana Frente Socialista Libertária, formada pelo PV, PSTU e PCB,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-034</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-034</field>
+<field name="date">940805</field>
+<text_pt>
 Na impossibilidade de mostrar cenas externas, o PFL usou artifícios para divulgar no horário eleitoral as obras feitas no governo de Antônio Carlos Magalhães. Os partidários do ex-governador usaram uma torneira para lembrar as ligações de água e uma lâmpada para a energia elétrica.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-035</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-035</field>
+<field name="date">940805</field>
+<text_pt>
 Adolescentes de São José do Rio Preto (SP) estão deixando de lado atividades do dia-a-dia para assistir o horário gratuito na TV. A estudante Daniela Berto Daher, 18, diz que adiantou em uma hora sua aula de ginástica para conseguir assistir o programa político. Ela diz que já deu "boas risadas" com alguns candidatos.
 
 Figueiredo vai pedir votos para Cruz
@@ -723,9 +723,9 @@ Presidente da República de 1979 a 1985, o general João Figueiredo se prepara par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-036</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-036</field>
+<field name="date">940805</field>
+<text_pt>
 A idéia de lançar o senador José Paulo Bisol (PSB-RS) à reeleição encontrou resistência ontem em uma reunião da Frente Popular, liderada pelo PT gaúcho. Bisol, retirado da chapa de Lula, substituiria Fúlvio Petracco, o atual candidato. Ele manifestou disposição de abrir mão da candidatura em favor de Bisol.
 
 PT deverá receber advertência do TRE
@@ -733,9 +733,9 @@ O PT do Paraná deve sofrer uma advertência do TRE (Tribunal Regional Eleitoral) 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-037</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-037</field>
+<field name="date">940805</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Agora eu sou da filosofia: coligô, aguentô! Pergunta pra deixar tucano constrangido: "E o vice, como tem passado?" Passado?! Diz que o Marco Maciel tem dois amores: a Dita e a Dura. Rarrá. Aliás, com que fita métrica Médici uma girafa?
@@ -749,9 +749,9 @@ Acorda Brasil! Que eu vou dormir.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-038</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-038</field>
+<field name="date">940805</field>
+<text_pt>
 
 ORESTES QUÉRCIA 
 Governador paulista entre 1987 e 1991. Candidato do PMDB à Presidência. Responsável direto pelas importações, através de protocolo firmado com o cônsul de Israel em São Paulo, em 1988. Responsabilizou escalões inferiores das secretarias de governo pela compra dos equipamentos. Disse ser vítima de "calúnias".
@@ -791,9 +791,9 @@ Reitor da USP na época das importações. Em dezembro de 1990, às vesperas de o go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-039</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-039</field>
+<field name="date">940805</field>
+<text_pt>
 Do enviado especial a Brasília
 Orestes Quércia é acusado de estelionato, delito tipificado no artigo 171 do Código Penal.
 O subprocurador Paulo Sollberger sustenta que foi do ex-governador a iniciativa de adquirir os equipamentos israelenses superfaturados.
@@ -803,9 +803,9 @@ O protocolo foi utilizado para iludir os funcionários estaduais, levando-os a su
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-040</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-040</field>
+<field name="date">940805</field>
+<text_pt>
 Do enviado especial a Brasília
 O advogado Arnaldo Malheiros Filho sustenta que a denúncia não imputa a Orestes Quércia qualquer delito, muito menos um estelionato. Diz que em nenhum momento a denúncia apresenta uma única ordem de Quércia no sentido de que se procedesse as importações.
 Malheiros Filho afirma que o ex-governador não sabia o que foi comprado, quanto valia e quanto foi pago. E o protocolo internacional não é hipótese legal de dispensa de licitação.
@@ -815,9 +815,9 @@ Afirma que, em seus despachos, Quércia não "indicou" que os bens a serem adquiri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-041</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-041</field>
+<field name="date">940805</field>
+<text_pt>
 O governador paulista Orestes Quércia firma Protocolo de Cooperação Técnica, Científica e Tecnológica com o então cônsul de Israel em São Paulo, Tzvi Chazan.
 São firmados contratos para importação de equipamentos israelenses para universidades paulistas e para a polícia, todos com intermediação da Trace Trading Company, de Arie Halpern, e sem licitação. Os contratos chegam a US$ 310 milhões.
 
@@ -887,9 +887,9 @@ O STJ marca para o dia 5 sessão da Corte Especial para decidir se aceita ou não 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-042</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-042</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal do Rio
 O procurador Adolpho Lerner, relator do processo da extinta CGI (Comissão Geral de Investigação), disse ontem à Folha que a comissão que investigou Orestes Quércia "se convenceu da existência de enriquecimento ilícito"por parte do atual candidato do PMDB.
 Lerner, hoje procurador junto à 4ª Câmara Criminal do Tribunal de Justiça do Rio, disse que a CGI propôs ao então presidente Ernesto Geisel (74 a 79) confiscar os bens de Quércia, senador pelo MDB.
@@ -898,9 +898,9 @@ Anteontem, em depoimento à Justiça, o general Luiz Sellmann, vice-presidente da 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-043</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-043</field>
+<field name="date">940805</field>
+<text_pt>
 A atriz Regina Duarte (esq.) pede apoio a FHC e é aplaudida por Ruth Escobar (centro) e observada por Ruth Cardoso 
 FERNANDO DE BARROS E SILVA
 Da Reportagem Local
@@ -926,9 +926,9 @@ Colaborou JOYCE PASCOWITCH
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-044</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-044</field>
+<field name="date">940805</field>
+<text_pt>
 XICO SÁ
 Da Reportagem Local
 A reportagem da Folha comprou da campanha de Flávio Rocha, candidato à Presidência pelo PL (Partido Liberal), um lote de R$ 140 mil em bônus eleitorais em troca de um cheque de R$ 70 mil. 
@@ -956,9 +956,9 @@ aobre a compra de bônus à pag.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-045</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-045</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 Flávio Rocha disse que não há "fundamento" na acusação de venda irregular de bônus eleitoral pelo seu comitê. Rocha afirmou desconhecer a venda. "Jamais admitiria uma coisa dessas. Nossa campanha é correta. Estou sempre denunciando a corrupção fiscal porque o meu passado me autoriza".
 Segundo o candidato, nunca suas empresas foram autuadas por irregularidades fiscais. Rocha disse não saber quem poderia ser beneficiado com a venda irregular do bônus eleitoral.
@@ -968,9 +968,9 @@ O candidato afirmou que vai apurar a denúncia. "Toda a contabilidade da campanha
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-046</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-046</field>
+<field name="date">940805</field>
+<text_pt>
 Reportagem da Folha faz dez ligações para o PL a fim de concretizar a negociação com os bônus eleitorais
 Da Reportagem Local
 A Folha realizou dez telefonemas para concretizar a negociação da compra de bônus eleitorais. A seguir, os principais trechos das conversações entre a reportagem e o comando de campanha do PL:
@@ -1068,9 +1068,9 @@ Novamente de um orelhão, repórter informa que, caso não possa comparecer pessoal
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-047</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-047</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal de Brasília
 A compra de bônus eleitorais a preços inferiores ao valor de face pode ser um bom negócio para empresários desonestos.
 Pelo menos três razões tornam o ilícito atraente. A primeira delas é a possibilidade de "lavagem de dinheiro" obtido ilegalmente.
@@ -1081,9 +1081,9 @@ Há, por último, um projeto de lei no Congresso que prevê o desconto de doações e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-048</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-048</field>
+<field name="date">940805</field>
+<text_pt>
 Para o senador, aceitação de denúncia de estelionado contra Quércia hoje pelo STJ inviabiliza candidatura peemedebista
 CLÓVIS ROSSI   
 Enviado especial a Porto Alegre
@@ -1105,9 +1105,9 @@ Sobre Quércia às págs. 6 e 7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-049</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-049</field>
+<field name="date">940805</field>
+<text_pt>
 RAQUEL ULHÔA
 Da Sucursal de Brasília
 Diante da queda da candidatura de Lula nas pesquisas de opinião, a Frente Brasil Popular (PT, PSB, PSTU, PV, PCB, PPS e PC do B) decidiu reforçar a campanha nos Estados onde há mais dificuldades.
@@ -1123,16 +1123,16 @@ A Frente formalizou ontem no Tribunal Superior Eleitoral a troca do senador José
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-050</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-050</field>
+<field name="date">940805</field>
+<text_pt>
 "Assassino é para ser operado no cérebro. Aprontou, operou. Basta lei nova. Farei isso em Brasília", prometeu o candidato a federal Diaulas Vidigal (PL&#150;SP) no horário eleitoral. Uma cirurgia no cérebro, a lobotomia, foi praticada pelo médico português Egas Moniz (1874-1955) e reduz doentes mentais à inconsciência.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-051</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-051</field>
+<field name="date">940805</field>
+<text_pt>
 GILBERTO DIMENSTEIN
 Diretor da Sucursal de Brasília
 Apesar do otimismo que manifesta em suas aparições públicas, o candidato do PMDB à Presidência, Orestes Quércia, começa a dar os primeiros sinais de fraqueza.
@@ -1156,16 +1156,16 @@ Colaboraram JOSIAS DE SOUZA, RAQUEL ULHÔA e GABRIELA WOLTHERS, da Sucursal de Br
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-052</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-052</field>
+<field name="date">940805</field>
+<text_pt>
 O governador de São Paulo, Luiz Antonio Fleury Filho, anunciou que a arecadação no Estado caiu 12% em julho, em comparação com junho. Em relação a julho do ano passado, a queda foi de 10%. Segundo o governador, historicamente o governo do Estado investe de US$ 90 a US$ 100 milhões por mês. Em julho o investimento foi de US$ 15 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-053</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-053</field>
+<field name="date">940805</field>
+<text_pt>
 A projeção do risco-país nos próximos seis meses, calculado pelo boletim "Risco Brasil", foi reduzido. A queda foi de 63 pontos (projeção do início do ano) para 57. O boletim, distribuído pela Boucinhas &amp; Campos, utiliza escala de 0 a 90 pontos, na qual 70 indica o ponto crítico.
 
 Ambiente favorável
@@ -1201,9 +1201,9 @@ A comissão alemã para fusão e monopólios analisa até o próximo mês a aprovação d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-054</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-054</field>
+<field name="date">940805</field>
+<text_pt>
 GESNER OLIVEIRA; ROBERTO PADOVANI
 Excesso de regulamentação é uma herança indesejável se se quer modernizar o país e voltar a crescer
 Em artigo nesta Folha de 15/07/94, o professor Francisco de Assis Machado Reis manifestou-se contrário à autorização contida na MP 542 do Plano Real de venda de medicamentos anódinos em supermercados, armazéns, empórios e lojas de conveniências. A legislação vigente até a MP 542 permitia a venda apenas em farmácias.
@@ -1235,9 +1235,9 @@ ROBERTO PADOVANI, 27, economista, é assessor da Secretaria de Política Econômica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-055</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-055</field>
+<field name="date">940805</field>
+<text_pt>
 O preço médio da cesta básica continua caindo na cidade de São Paulo. Ontem, era de R$ 99,80, 0,47% a menos que na quarta-feira, quando custava R$ 100,27. Desde o final de julho, o preço da cesta vem apresentando quedas diárias consecutivas, segundo a pesquisa do Procon em convênio com o Dieese.
 Ontem, o valor da cesta voltou a ficar abaixo dos R$ 100,00. A última vez que isto ocorreu foi em 24 de junho, quando custava 99,96 URVs (Unidade Real de Valor). A queda acumulada em agosto é de 2,09%. Em julho, a cesta teve redução de 4,20%.
 Dos três grupos que compõem a cesta, todos tiveram queda de preços ontem. O item limpeza caiu 1,42% (2,61% no mês), enquanto higiene pessoal teve redução de 1,21% no dia (3,02% no mês). Os alimentos caíram 0,27% ontem e 2,09% no mês.
@@ -1245,25 +1245,25 @@ Entre os produtos com os maiores aumentos ontem estiveram: sabão em barra Rio, 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-056</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-056</field>
+<field name="date">940805</field>
+<text_pt>
 O volume total de ouro negociado na BM&amp;F (Bolsa de Mercadorias &amp; Futuros) em julho foi de 36,9 toneladas. Comparado com o mês de junho, quando foram negociadas 54,1 t, o resultado é 31,8% inferior. A média diária comercializada foi de 1,85 t, 28,29% inferior à do mês anterior.
 O resultado de julho apresenta redução de 68,89% sobre o mesmo mês do ano passado. De janeiro a julho deste ano foram negociadas na BM&amp;F 385,9 mil toneladas do metal. Comparado com o mesmo período de 93, quando foram negociadas 872,6 mil toneladas, a queda é de 55,78%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-057</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-057</field>
+<field name="date">940805</field>
+<text_pt>
 As exportações de café dos países membros da OIC (Organização Internacional do Café) alcançaram 6,1 milhões de sacas de 60 quilos em junho, com queda de 1,3% sobre igual mês de 93. O dados foram divulgados ontem, em Londres, pela OIC, e comprovam a redução na oferta do produto.
 No acumulado de julho de 93 a junho deste ano as exportações mundiais de café (71,96 milhões de sacas) baixaram 7,6% em relação ao mesmo período de 92/93, segundo a OIC. O Brasil liderou as vendas, que somaram 18,18 milhões de sacas. A Colômbia veio a seguir (12,26 milhões de sacas).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-058</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-058</field>
+<field name="date">940805</field>
+<text_pt>
 As exportações brasileiras de minério de ferro e seus concentrados somaram US$ 1,07 bilhão no primeiro semestre, 1,45% mais que em igual período de 93, segundo a Secretaria de Comércio Exterior. Com a queda dos preços, o incremento na receita foi obtido com o aumento das vendas físicas.
 Nos últimos três anos, tomando como base o primeiro semestre, o país teve que elevar em 22,6% suas exportações físicas para manter o retorno cambial acima de um bilhão de dólares. A desaceleração nas economias dos países desenvolvidos tem provocado redução nos preços do minério de ferro.
 Para compensar a retração do Japão (que adquire anualmente cerca de um terço do minério brasileiro) e da Europa, o Brasil abriu novos mercados, como o da China. O preço da tonelada de minério para exportação está em US$ 17,2. Há cinco anos valia US$ 23. No Brasil, vale US$ 7,32.
@@ -1271,9 +1271,9 @@ O mercado interno elevou as compras de minério no primeiro semestre. Só a Compan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-059</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-059</field>
+<field name="date">940805</field>
+<text_pt>
 Em entrevista ao jornal "Gente", da Rádio Bandeirantes, o ex-governador baiano Antônio Carlos Magalhães declarou-se contrário à privatização da Telebrás.
 O álibi é tão falso quanto batido: apenas uma estatal seria capaz de implantar a telefonia nos grotões do país. A intenção oculta não podia ser mais clara: há muito, o setor de telecomunicações transformou-se na área mais loteada da administração pública. E quem inaugurou este estilo foi o próprio ACM.
 Os episódios da mudança de controle da NEC, da impressão das listas telefônicas do Rio de Janeiro, o leilão de concessões públicas de rádios e televisões, em sua gestão à frente do Ministério das Comunicações, ainda hoje se constituem nos exemplos máximos de uma época política que qualquer cidadão de bem desejaria ver varrida da memória do país.
@@ -1291,9 +1291,9 @@ Dedicasse 10% de seu tempo e de sua imaginação a trabalhar reformas efetivas, co
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-060</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-060</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 Para chegar a um lucro líquido de 2,5% sobre o faturamento bruto, os supermercados têm que cobrar, na média, preços 53,85% acima dos que constam na nota fiscal emitida pelo fornecedor.
 A conclusão está em trabalho entregue ontem pela Abras (Associação Brasileira dos Supermercados) a José Milton Dallari, secretário especial do Ministério da Fazenda, dentro da estratégia dos supermercados em investir na imagem de que são apenas "repassadores" de preços.
@@ -1307,9 +1307,9 @@ Dessa margem são descontadas despesas operacionais, chegando-se a um lucro líqui
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-061</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-061</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 Manter até o final do ano o valor da consulta médica acertado entre empresas de seguro-saúde, de medicina de grupo, de administração de planos de saúde e médicos foi a proposta feita ontem pelo governo a representantes do setor.
 Segundo José Milton Dallari, assessor do Ministério da Fazenda, durante esse período o governo se comprometeria a revisar a legislação dos convênios médicos e das empresas de medicina de grupo.
@@ -1321,9 +1321,9 @@ Nelson de Abreu Pinto, presidente do Sindicato de Hotéis, Restaurantes, Bares e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-062</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-062</field>
+<field name="date">940805</field>
+<text_pt>
 Proximidade de vencimento de opções e futuro deixa investidores inseguros; dólar comercial mantém estabilidade
 Da Redação
 As Bolsas de Valores estão sem definição de tendência no curto prazo, por causa do vencimento do mercado de opções na Bolsa paulista no próximo dia 15 e de índice futuro (no dia 17).
@@ -1372,9 +1372,9 @@ O índice Bovespa futuro fechou a 46.000 para outubro, correspondendo com expecta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-063</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-063</field>
+<field name="date">940805</field>
+<text_pt>
 Caixa Econômica Federal e bancos cobram 53,89% de diferença do IRSM de mutuários com data-base em julho
 GABRIEL J. DE CARVALHO
 Da Redação
@@ -1395,9 +1395,9 @@ Em contratos assinados a partir de julho de 87, acima de 2.500 UPFs, a consequên
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-064</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-064</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 A indústria automobilística colocou no mercado, em julho, 38.318 carros "populares", 47,6% do total de automóveis vendidos no período.
 O resultado é novo recorde de produção e de vendas. Em junho, a participação dos "populares" no mercado chegou a 46,6%.
@@ -1406,9 +1406,9 @@ A produção da indústria em julho atingiu 138.817 unidades, 5,4% a mais do que em
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-065</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-065</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal do Rio e da Reportagem Local
 O Secovi (sindicato das administradoras de imóveis do Rio) entrou ontem no STF (Supremo Tribunal Federal) com um pedido de liminar contra a fórmula da correção dos aluguéis pela média, adotada na Medida Provisória 566.
 O presidente do sindicato, Georges Masset, disse que fórmula é inconstitucional.
@@ -1422,9 +1422,9 @@ Na segunda-feira, apenas o posto central do Procon atendeu 875 pessoas preocupad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-066</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-066</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal do Rio
 O balanço da Souza Cruz, que lidera com 76,6% o mercado nacional de cigarros, revelou um prejuízo de R$ 7,3 milhões, contra o lucro de R$ 89 milhões registrado no mesmo período do ano passado.
 Para o presidente da Souza Cruz, Antônio Monteiro de Castro, a saída para a "situação difícil" é um acordo com o governo que reduza os impostos sobre o produto. As discussões, iniciadas em 93, estão sem solução.
@@ -1433,9 +1433,9 @@ Segundo a empresa, no primeiro semestre deste ano houve uma redução de 20,2% no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-067</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-067</field>
+<field name="date">940805</field>
+<text_pt>
 Os 160 expositores da mostra da indústria de cosméticos estimam vendas de US$ 150 milhões até a próxima segunda-feira. São esperados cerca de 60 mil visitantes. A Cosmética'94 acontece no Parque Anhembi (zona norte de SP) e é aberta ao público.
 
 Prefeitura paulista corrige a UFM  
@@ -1448,30 +1448,30 @@ Cólera cessa entre ruandeses
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-068</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-068</field>
+<field name="date">940805</field>
+<text_pt>
 A ONU disse ontem que terminou a epidemia de cólera nos campos de refugiados que abrigam ruandeses no Zaire. Segundo a organização, a taxa de mortalidade nos campos caiu para cerca de 500, mas teme-se que a disenteria possa causar um novo aumento. Uma média de 2.000 refugiados por dia está saindo dos campos do Zaire em direção à Ruanda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-069</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-069</field>
+<field name="date">940805</field>
+<text_pt>
 Elizabeth, a rainha-mãe do Reino Unido, completou ontem 94 anos. A data foi marcada por salvas de tiro no Hyde Park e na Torre de Londres. A mãe da rainha Elizabeth 2ª é considerada a figura mais popular da família real britânica. De origem plebéia, se casou em 1923 com George, então duque de York, que se tornou rei após a abdicação de Eduardo 8º.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-070</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-070</field>
+<field name="date">940805</field>
+<text_pt>
 Cerca de 2.000 muçulmanos radicais fizeram manifestação ontem em Bangladesh pedindo a morte de Taslima Nasrin. Taslima responde a processo por ofender os muçulmanos. Ela disse em entrevista que o Corão precisa ser "totalmente revisto". Taslima apareceu anteontem e foi solta sob fiança. Ela estava escondida desde 4 de junho e desapareceu novamente.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-071</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-071</field>
+<field name="date">940805</field>
+<text_pt>
 Ex-premiê italiano Spadolini morre aos 69
 O ex-premiê italiano Giovanni Spadolini (foto) morreu ontem em Roma aos 69 anos. Historiador e jornalista, começou na política em 1972, pelo Partido Republicano e foi duas vezes primeiro-ministro e presidente do Senado até o começo de 1994. A causa da morte não foi revelada.
 
@@ -1495,9 +1495,9 @@ Recomeçam hoje em Genebra (Suíça) conversações entre Coréia do Norte e EUA sobre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-072</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-072</field>
+<field name="date">940805</field>
+<text_pt>
 Das agências internacionais
 O empresário Nassib Haddad vai ser investigado pelo juiz encarregado do caso da bomba que destruiu a sede de duas instituições judaicas em Buenos Aires no dia 18.
 Haddad comprou uma tonelada de amonal, explosivo usado no atentado, poucas semanas antes do ataque que matou 96 pessoas e deixou cerca de 230 feridos.
@@ -1513,9 +1513,9 @@ A Justiça só conta como mortos os 85 cadáveres identificados. O grupo de america
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-073</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-073</field>
+<field name="date">940805</field>
+<text_pt>
 JUAN JESUS AZNAREZ   
 Do El País, em Buenos Aires
 O anti-semitismo encabeçado por bandidos a cavalo desapareceu de cena, mas os judeus argentinos temem que o terror ative outros ódios ou rancores.
@@ -1533,9 +1533,9 @@ Radicais fazem conferência no Reino Unido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-074</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-074</field>
+<field name="date">940805</field>
+<text_pt>
 De Londres
 O governo britânico disse que não tem como impedir uma conferência internacional programada para domingo por um grupo radical islâmico que defende o extermínio dos judeus.
 A conferência, no estádio de Wembley (Londres), deve atrair cerca de 12 mil pessoas. Ela é organizada formalmente pela Organização da Unidade Muçulmana, mas está sendo controlada de fato pelo grupo Hizb ut Tahir.
@@ -1546,9 +1546,9 @@ A polícia disse que ficará vigilante para impedir a entrada de extremistas estra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-075</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-075</field>
+<field name="date">940805</field>
+<text_pt>
 Ex-premiê italiano Spadolini morre aos 69
 O ex-premiê italiano Giovanni Spadolini (foto) morreu ontem em Roma aos 69 anos. Historiador e jornalista, começou na política em 1972, pelo Partido Republicano e foi duas vezes primeiro-ministro e presidente do Senado até o começo de 1994. A causa da morte não foi revelada.
 
@@ -1572,9 +1572,9 @@ O Estado norte-americano de Arkansas executou três homens por injeção letal na n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-076</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-076</field>
+<field name="date">940805</field>
+<text_pt>
 As polícias militares dos Estados não pretendem discutir agora, em período pré-eleitoral, as propostas de desmilitarização das PMs, segundo o relações-públicas da PM baiana, tenente-coronel Siegfrid Keysselt. Ele se referiu aos projetos do senador Pedro Simon (PMDB-RS) e do deputado federal Hélio Bicudo (foto), do PT de São Paulo. A PM baiana está recepcionando em Salvador 60 oficiais que participam de uma reunião de comandantes-gerais.
 
 4.4...graus Celsius foi a temperatura mínima ontem em Caçador, no interior de Santa Catarina. Em São Joaquim, a temperatura mínima atingiu -2,2oC. No Paraná, Irati registrou durante a madrugada -2oC e Curitiba, 1,6oC. No Rio Grande do Sul, a mínima foi de 1,1oC, em Bom Jesus.
@@ -1591,9 +1591,9 @@ Números sorteados11, 12, 57, 59 e 69Prêmio da quinaR$ 572.577,33
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-077</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-077</field>
+<field name="date">940805</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha
 Em minhas pesquisas antropológicas pelos bueiros higiênicos da cidade, tais como as galerias de arte da Vila Madalena e o inferninho Cha Cha Cha, constatei o surgimento de uma nova casta sem eira nem beira. Trata-se dos ascetas do consumo, uma turma que apela a qualquer recurso para suprir o vácuo anímico.
@@ -1610,9 +1610,9 @@ Quem salvou a pátria foi o agitador cultural Arnaldo Waligora, que foi embora no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-078</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-078</field>
+<field name="date">940805</field>
+<text_pt>
 Um novo adesivo está causando sensação em São Paulo. Cheio de convicção, o provocativo colante tem sido flagrado nos vidros de carros de eleitores petistas. Diz o seguinte: "Eu não voto em Fernandos". Só para contrariar, Fernandos e eleitores de FHC deveriam retaliar com outro adesivo, que daria uma resposta à altura: "Eu não ando de Chevette nem de Brasília". Afinal, guerra é guerra.
 
 Dádiva
@@ -1623,9 +1623,9 @@ A Bloomingdales deve estar se sentindo intimidada pelo banheiro de Michael Jacks
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-079</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-079</field>
+<field name="date">940805</field>
+<text_pt>
 O município de Maringá registrou, no último final de semana, três casos de meningite meningocócica, com uma morte. A Secretaria Municipal de Saúde determinou estado de alerta para a prevenção da doença. Este ano foram registrados 13 casos da doença no município.
 
 Paraná 2
@@ -1639,9 +1639,9 @@ A Prefeitura de Porto Alegre assinou protocolo com o governo federal e a Univers
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-080</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-080</field>
+<field name="date">940805</field>
+<text_pt>
 O Coral Ars Nova, da UFMG (Universidade Federal de Minas Gerais) promove de hoje a domingo, em Belo Horizonte, Itabirito, Mariana e Sabará, o Festival Nacional de Corais. O evento comemora os 35 anos de atividades do coral Ars Nova.
 
 SP Interior 1
@@ -1655,9 +1655,9 @@ Os moradores da rua Anália Pereira, no bairro Itapeva, em Votorantim, construíra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-081</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-081</field>
+<field name="date">940805</field>
+<text_pt>
 As três empresas de transporte coletivo urbano de Campo Grande vão passar a emitir passe-troco no valor de R$ 0,01. Essa foi a solução encontrada por patrões e empregados para solucionar o problema da falta de moedas.
 
 Mato Grosso do Sul 2
@@ -1671,9 +1671,9 @@ A Polícia Florestal do Estado apreendeu 3.900 palanques e lascas de aroeira, dur
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-082</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-082</field>
+<field name="date">940805</field>
+<text_pt>
 A Fundação Pró-Tamar e a empresa de auditoria Arthur Andersen assinaram um convênio para prestação de serviços na área de consultoria empresarial. O projeto deverá ser desenvolvido em três meses. O Tamar cuida da preservação das tartarugas marinhas.
 
 Sergipe
@@ -1687,9 +1687,9 @@ O Corpo de Bombeiros de Fortaleza está registrando uma média de cem pedidos por 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-083</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-083</field>
+<field name="date">940805</field>
+<text_pt>
 O Ministério Público do Pará denunciou, anteontem, três engenheiros civis como responsáveis pelo desabamento do edifício Raimundo Farias, no centro de Belém. A tragédia ocorreu no dia 13 de agosto de 87 e matou 37 operários que trabalhavam no local.
 
 Pará 2
@@ -1703,9 +1703,9 @@ A Agência Emaús, do Centro de Defesa do Menor, divulgou relatório elaborado sobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-084</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-084</field>
+<field name="date">940805</field>
+<text_pt>
 ARSELINO TATTO
 Em artigo publicado na Folha na edição de 21 de julho, Edis Milaré, secretário do Meio Ambiente do Estado de São Paulo, acabou carregando em demasia nas cores e perdeu uma boa oportunidade de traçar um perfil correto da problemática dos mananciais.
 Na verdade, a solução para o problema passa necessariamente por doses reforçadas de sensatez e ponderação. Estes foram os parâmetros que nortearam os legisladores municipais a derrubar o veto que impedia a regularização de edificações em áreas de mananciais.
@@ -1722,9 +1722,9 @@ ARSELINO TATTO, 38, é vereador pelo PT e líder do partido na Câmara Municipal de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-085</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-085</field>
+<field name="date">940805</field>
+<text_pt>
 RONI LIMA
 Da Sucursal do Rio
 O promotor da 2ª Vara da Infância e da Juventude, Márcio Mothé Fernandes, 27, pediu ontem à DPCA (Divisão de Proteção à Criança e ao Adolescente) a detenção de M.B.F., 17, acusado de participar do assassinato do ex-diretor do Banco Central José Carlos Madeira Serrano, 64.
@@ -1743,9 +1743,9 @@ Segundo ele, Ferreira, que é cabo da Marinha, sumiu de sua casa, em Nova Iguaçu,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-086</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-086</field>
+<field name="date">940805</field>
+<text_pt>
 Da Agência Folha, em Manaus
 O comerciário João Garcia de Carvalho, 31, é acusado de ter incendiado o Fiat de sua sogra, em Manaus (AM). Ele culpa a sogra pelo fim de seu casamento com Keite Anne dos Santos Carvalho.
 Segundo o vigia Miracildo da Silva Melo, Carvalho estava bebendo cerveja com alguns amigos na madrugada de anteontem. Ele teria deixado a mesa do bar e se dirigido ao Fiat 147 da sogra Ana Maria dos Santos Monteiro, estacionado a cem metros do local.
@@ -1756,9 +1756,9 @@ Ele declarou na delegacia que havia se separado da mulher porque sua sogra inter
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-087</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-087</field>
+<field name="date">940805</field>
+<text_pt>
 ARI CIPOLA
 Da Agência Folha, em Maceió
 A Polícia Federal e o Juizado de Menores de Maceió procuravam ontem os pais biológicos dos nove bebês encontrados anteontem em um cativeiro em Maceió (AL).
@@ -1774,9 +1774,9 @@ Segundo ele, das nove crianças encontradas pela PF, ele era responsável por três
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-088</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-088</field>
+<field name="date">940805</field>
+<text_pt>
 FERNANDO CANZIAN
 De Nova York
 Um grupo de saúde pública norte-americano entrou ontem com uma ação na Justiça para proibir que continuem sendo comercializadas uma das últimas alternativas para implantes em seios femininos.
@@ -1790,9 +1790,9 @@ A FDA também já autorizou estudos para testar o uso de triglicerídeos, uma gordu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-089</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-089</field>
+<field name="date">940805</field>
+<text_pt>
 O prefeito de São Paulo, Paulo Maluf, adiou para segunda-feira a assinatura do projeto que prevê a cessão de um terreno público para a construção do Instituto do Fígado. A cerimônia da assinatura deveria ter ocorrido ontem. A idéia da construção do instituto é do secretário municipal da Saúde, Silvano Raia (foto).
 
 Arquiteto é demitido por invadir imóvel
@@ -1813,9 +1813,9 @@ Números sorteados11, 12, 57, 59 e 69Prêmio da quinaR$ 572.577,33
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-090</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-090</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 Cerca de 40 pessoas, representando 25 entidades de apoio a portadores de Aids, fizeram um protesto ontem na Câmara Municipal para pressionar os vereadores a vetarem o decreto do prefeito Paulo Maluf que proíbe a contratação no funcionalismo municipal de portadores de doenças que possam causar "incapacidade futura".
 O decreto regula os exames médicos para a contratação de servidores. No primeiro parágrafo, ele determina que o candidato não pode ter "patologia, com perspectiva presente, de incapacidade futura".
@@ -1828,31 +1828,31 @@ A prefeitura diz que o decreto visa defender o dinheiro público, evitando aposen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-091</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-091</field>
+<field name="date">940805</field>
+<text_pt>
 Cerca de 900 mil pessoas com mais de 50 anos devem ser examinadas nos próximos dias 6 e 7 em 60 pontos do país como parte da Campanha Nacional de Reabilitação Visual do Idoso. Coordenada pelo Conselho Brasileiro de Oftalmologia (CBO) e pela Associação Médica Brasileira (AMB), a campanha pretende recuperar gratuitamente a visão de cerca de 12 mil pessoas carentes. Os portadores de cegueira (que tenham apenas 20% de visão) terão o problema diagnosticado por médicos que trabalharão voluntariamente no projeto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-092</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-092</field>
+<field name="date">940805</field>
+<text_pt>
 Hoje, Dia Nacional da Saúde, a Associação Paulista de Medicina (APM) promove um encontro com médicos e autoridades da área de saúde pública para elaborar propostas que serão apresentadas a candidatos aos governos federal e estadual. A APM vai compilar todo o material apresentado e, a partir disso, pretende produzir uma carta de propostas para os candidatos.
 Os debates acontecerão das 9h às 13h na sede da APM, na avenida Brigadeiro Luís Antonio, 278 (centro de São Paulo), e serão abertos ao público.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-093</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-093</field>
+<field name="date">940805</field>
+<text_pt>
 O número de casos de Aids no Piauí dobrou este ano. Em todo o ano passado foram registrados 42 casos. Até o último dia 30, havia 49 novos registros. A média mensal em 93 ficou em 3,5 casos. Nos sete primeiros meses de 94, a média chegou a 7. Segundo o diretor do Hospital de Doenças Infecto-Contagiosas do Piauí, Fernando Correia Lima, a maior incidência ocorre entre heterossexuais. Lima disse que a Secretaria de Saúde fará trabalho de formação para crianças e jovens.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-094</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-094</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal do Rio
 O promotor da 2ª Vara da Infância e da Juventude, Márcio Fernandes, 27, pediu ontem à Divisão de Proteção à Criança e ao Adolescente a detenção de M.B.F., 17, acusado de participar do assassinato do ex-diretor do Banco Central José Carlos Madeira Serrano, 64.
 Conhecido como "Ratinho", ele foi acusado por L.M.F., 16, de envolvimento no crime, na madrugada de domingo passado. L.M.F. acusou também outro rapaz conhecido por "Primo".
@@ -1866,9 +1866,9 @@ O promotor enviou ofício à corregedoira da Polícia Civil para que sejam apuradas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-095</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-095</field>
+<field name="date">940805</field>
+<text_pt>
 Cineasta vai ao Festival de Gramado
 JOSÉ GERALDO COUTO
 Da Reportagem Local
@@ -1882,16 +1882,16 @@ Segundo sua mulher, as filmagens, que devem começar em 5 de outubro, serão feita
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-096</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-096</field>
+<field name="date">940805</field>
+<text_pt>
 Pescadores que moram na praia de Pântano do Sul, em Florianópolis (SC), encontraram ontem de manhã mais de cem pinguins mortos na praia. Os pinguins vêm das águas geladas da Patagônia, no sul da Argentina, e viajam acompanhando as correntes. Como a viagem era muito longa, eles não resistiram e morreram. O Ibama recolheu os pinguins na praia. Eles foram levados para o centro de pesquisas do instituto.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-097</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-097</field>
+<field name="date">940805</field>
+<text_pt>
 A menos de 200 km da capital, Atibaia e São Bento do Sapucaí são boas opções para escaladas
 Da Reportagem Local
 Em um raio de 200 km de São Paulo, quem gosta de alpinismo pode encontrar locais próprios para a prática do esporte, que alia a aventura a um bom passeio.
@@ -1905,9 +1905,9 @@ Um pouco mais longe, em Itatiaia, na divisa entre SP e RJ (cerca de 300 km da ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-098</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-098</field>
+<field name="date">940805</field>
+<text_pt>
 Contratações do clube obedecem mais à expectativa imediatista da torcida que a uma estratégia de longo prazo
 JOSÉ GERALDO COUTO
 Da Reportagem Local
@@ -1925,9 +1925,9 @@ Enquanto não se der conta de que no futebol moderno a vitória é cada vez mais o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-099</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-099</field>
+<field name="date">940805</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 A Fifa já marcou para o dia 23 de agosto o julgamento do craque argentino Maradona, acusado de se dopar às vésperas da peleja entre a sua seleção e a equipe da Nigéria, pela fase de classificação da Copa dos EUA. Da América, na data da imputação do "Pibe de Oro", remeti um longo texto denunciando o enredamento de Maradona numa trama suja, que envolvia desde uma empresa patrocinadora do Mundial até a incompetência dos médicos e dos cartolas da delegação da Argentina. 
 Maradona, então, prometeu revelar todos os meandros da safadeza quando o torneio se encerrasse. Fora traído. Não conteria a sua explosão. Apenas queria, porém, preservar os seus companheiros de um escândalo fatal. Pobre Maradona. Calado, engoliu sozinho mais uma humilhação da Fifa e nem por isso a sua Argentina sobreviveu no Mundial.
@@ -1937,27 +1937,27 @@ Eu continuo na perseguição dos meandros ainda obscuros desse enredo patético. Pe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-100</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-100</field>
+<field name="date">940805</field>
+<text_pt>
 Depois de duas temporadas de azares de infortúnios, entre o hospital e o banco de reservas do grande Milan, o volante Nando De Napoli, ex-Napoli, jogador fundamental nas seleções peninsulares do México/86 e da Itália/90, está de volta, aparentemente intacto, aos campos de futebol. De Napoli vai disputar a temporada de 1994/95 pela Reggiana.
 
 O norte-americano Alexis Lalas, contratado pelo Padova, time recém-promovido à primeira divisão da Velha Bota, tornou-se imediatamente o ídolo maior da torcida da equipe. Um séquito de moças acompanhou Lalas à Clínica Morganti da cidade, onde o zagueiro se submeteu aos exames médicos de praxe. Numa coletiva, o roqueiro Lalas prometeu gravar em disco o hino do Padova.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-101</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-101</field>
+<field name="date">940805</field>
+<text_pt>
 JOYCE PASCOWITCH
 Colunista da Folha
 As comemorações dos cem anos do Flamengo vão deixar o Brasil inteiro muito feliz &#150;e a Espanha nem tanto. Se as duas partes chegarem a um acordo, Romário não volta ao Barcelona e vira a estrela principal do Flamengo. A transação incluiria o patrocínio da Brahma e da Petrobrás.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-102</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-102</field>
+<field name="date">940805</field>
+<text_pt>
 Viola convence o lateral a ficar no Brasil e assinar contrato por 4 meses
 UBIRATAN BRASIL
 Da Reportagem Local
@@ -1974,9 +1974,9 @@ O Corinthians tenta agora acertar com o zagueiro Ricardo Rocha, o lateral Paulo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-103</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-103</field>
+<field name="date">940805</field>
+<text_pt>
 O filme de Mike Nichols, que estréia hoje em São Paulo, recorre aos sustos convencionais mas não apavora ninguém
 SÉRGIO AUGUSTO
 Da Sucursal do Rio
@@ -1998,9 +1998,9 @@ Pairando acima de tudo, Jack Nicholson, em soberba atuação. Sem ele, "Lobo" seri
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-104</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-104</field>
+<field name="date">940805</field>
+<text_pt>
 Da Sucursal do Rio
 Quase tão recorrente nas telas quanto o vampiro, o lobisomem é um mito quase tão antigo e disseminado na superstição popular quanto o morto-vivo. Por que o lobo? Porque era o maior rival do homem no tempo das cavernas. E é o "animal ansioso" por excelência, segundo Freud, um dos muitos fascinados pela mística canibalesca, satânica e sexualmente perversa da licantropia.
 Cúmplice da noite, como Drácula, também como o Príncipe das Trevas sua malignidade é transmitida através da corrente sanguínea e seu ritualizado extermínio exige uma arma especial, não uma estaca, mas uma bala de prata. Prata como a cor da lua, o regente de sua metamorfose. Infelizmente, ao contrário do vampiro e outras espécies de morto-vivo (Frankenstein, por exemplo), não inspirou criações literárias notáveis. Nem filmes memoráveis.
@@ -2013,9 +2013,9 @@ Convenhamos, não é um bom prontuário. Faltou ao lobisomem um Murnau ou mesmo um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-105</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-105</field>
+<field name="date">940805</field>
+<text_pt>
 ÁLVARO PEREIRA JÚNIOR
 Editor-chefe do NP
 Jim Harrison, um dos principais autores da literatura contemporânea dos EUA, é o nome-chave por trás de "Lobo". Harrison, cego de um olho, poeta e romancista, fez o roteiro especialmente para o amigo Jack Nicholson.
@@ -2033,37 +2033,37 @@ Só há um livro de Jim Harrison lançado no Brasil, "Lendas de Outono" (editora 34
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-106</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-106</field>
+<field name="date">940805</field>
+<text_pt>
 Beziers, no sul da França, apresenta até 13 de outubro uma mostra com mais de cem obras do pintor e escritor Jean Cocteau. A mostra reúne pela primeira vez uma série de desenhos consagrados à tauromaquia. As obras pertencem ao fundo do futuro museu Cocteau.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-107</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-107</field>
+<field name="date">940805</field>
+<text_pt>
 Outra francesa, a cidade de Bordeaux, ganhou da condessa Jacqueline de Chabannes, descendente direta de Montesquieu, uma coleção de 3,4 mil documentos, cartas e livros do filósofo, que é filho ilustre de Bordeaux. O acervo está avaliado em US$ 4 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-108</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-108</field>
+<field name="date">940805</field>
+<text_pt>
 Em São Francisco, Harrison Ford colhe os louros do sucesso e apresenta seu novo filme, "Clear and Present Danger". Já no Texas, o suposto arqueólogo Vendyl Jones afirma ser ele o modelo de Indiana Jones. E mais, diz que sabe onde encontrar a arca perdida.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-109</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-109</field>
+<field name="date">940805</field>
+<text_pt>
 Segundo Vendyl Jones, a arca perdida, objeto do desejo tanto dele quanto de Indiana, estaria em Israel. Segundo a tradição judaica, a arca conteria as tábuas de pedra dos dez mandamentos. Jones já andou cavando o país, há dois anos, mas foi expulso de lá.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-110</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-110</field>
+<field name="date">940805</field>
+<text_pt>
 O diretor chileno radicado na França está desenvolvendo um projeto de ficção interativa para computador
 DAVID FRANÇA MENDES
 Especial para a Folha
@@ -2088,9 +2088,9 @@ Ruiz - Isso, infelizmente, é cada vez mais raro. Gostaria muito que me encomenda
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-111</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-111</field>
+<field name="date">940805</field>
+<text_pt>
 Reproduções que vieram de Berlim mostram as ilustrações de episódios bíblicos feitas pelo artista alemão
 DANIEL PIZA   
 Da Reportagem Local
@@ -2110,9 +2110,9 @@ Figuras menores, de canto, pequenos incidentes, ligeiras variações de traços e o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-112</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-112</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 Albrecht Dürer nasceu em 1471 em Nuremberg, Alemanha, cidade de tradição artística e artesanal. Filho de ourives, aprendeu cedo o ofício do pai.
 Em 1494 viaja à Itália. Passa dois anos lá, estudando o renascimento, sobretudo o veneziano. Volta depois a Nuremberg e abre seu ateliê. Atua como pintor, desenhista e artista gráfico.
@@ -2121,9 +2121,9 @@ Como um antecessor do poeta Goethe, faz pesquisas científicas sobre cor, proporç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-113</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-113</field>
+<field name="date">940805</field>
+<text_pt>
 JOSÉ GERALDO COUTO
 Da Reportagem Local
 Filme: Ele e Ela (Deux)
@@ -2142,9 +2142,9 @@ Em tempo: as revistas francesas a-do-ra-ram.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-114</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-114</field>
+<field name="date">940805</field>
+<text_pt>
 Da Reportagem Local
 Filme: Loucuras de uma Paixão (The Heartbreak Kid)
 Produção: Austrália, 1993
@@ -2158,9 +2158,9 @@ A professorinha percebe, por trás da fachada de delinquente, um rapaz sensível, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-115</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-115</field>
+<field name="date">940805</field>
+<text_pt>
 Livro de fotografias expõe uma face da miséria que nossa 'consciência social' não imagina onde pode chegar
 MARCELO COELHO
 Da Equipe de Articulistas
@@ -2191,9 +2191,9 @@ Não sei se, na prática, os limites ideológicos e econômicos para uma reforma des
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-116</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-116</field>
+<field name="date">940805</field>
+<text_pt>
 O espetáculo da companhia teatral Uzyna Uzona tem a participação de Cristiane Torloni como a rainha Gertrude
 MARCELO MIGLIACCIO
 Da Sucursal do Rio
@@ -2218,18 +2218,18 @@ Quanto: R$ 10,00
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-117</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-117</field>
+<field name="date">940805</field>
+<text_pt>
 Das agências internacionais
 A confirmação do casamento de Michael Jackson e Lisa Marie Presley deu espaço para novos rumores em relação ao casal, como o de que Lisa estaria grávida, mas que o filho não seria de Michael.
 Segundo Joyce Jillison, responsável pelo horóscopo do "Daily News", o casamento ainda não se consumou "fisicamente". Segundo ela, o casamento está "escrito nas estrelas" e por isso deve durar. Michael deveria chegar hoje a Budapeste (Hungria) para gravar cenas de um vídeo promocional.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-118</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-118</field>
+<field name="date">940805</field>
+<text_pt>
 
 "Mulheres dominadoras, pessoas de pensamento livre, homens gays, fetichistas, heterossexuais, bissexuais, drag queens, mulheres gays e pessoas que amam. Se você tem algum problema com alguma dessas pessoas, não venha." Tá? Esse é o texto do convite das noites Até Que Enfim É Sexta-Feira, na Dr. Smith carioca, chupado da placa do Jackie 60. Verdadeiro tratado club. Um sucesso.
 
@@ -2239,9 +2239,9 @@ Aproveite que no dia seguinte, tem mais uma edição da Val-Demente. Aquende a boa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-119</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-119</field>
+<field name="date">940805</field>
+<text_pt>
 
 Quer dançar? Hoje no Galpão Paparazzi (reabriu, não sabia?) tem o seu, o meu, o nosso Renato Lopes, que está numa ótima fase. E amanhã tem o garage de Edu Gantous. Peça a eles para tocar Kristine W. ("Feel What You Want"), que é tudo, "Trouble" e Liberty City ("If You Really Love Somebody"). Identifique pelos refrões. São as músicas que recuperam aquela adorável sensação de sair correndo pra pista, onde quer que você esteja.
 
@@ -2251,9 +2251,9 @@ E Fran Bogdevicious está de volta à noite e ao Ursa Maior. Bem-vindo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-120</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-120</field>
+<field name="date">940805</field>
+<text_pt>
 
 E para quem reclama que agora só tem moda nesta coluna, aqui vão algumas notícias do mundo da moda. Rá rá rá (olá, Simão). E espere só pra ver a coleção bumba-meu-boi da Forum. Com desfile dia 29 para 2.500 pessoas.
 
@@ -2261,9 +2261,9 @@ Antes, a Viva Vida pára tudo com seu desfile no viveiro Manequinho Lopes, no Ibi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-121</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-121</field>
+<field name="date">940805</field>
+<text_pt>
 Mérito do restaurante reside ainda na escolha e na combinação de legumes e ervas frescas nos seus molhos
 JOSIMAR MELO
 Especial para a Folha
@@ -2278,9 +2278,9 @@ Das carnes, o ponto alto é a paleta e perna de cabrito assados, de carne macia, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-122</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-122</field>
+<field name="date">940805</field>
+<text_pt>
 Cotação
 Regular
 Endereço: r. Pará, 36, tel. 256-2843, Consolação
@@ -2293,9 +2293,9 @@ Preços: couvert, R$ 3,25; antepastos e saladas, de R$ 5,52 a R$ 15,20; massas e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-123</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-123</field>
+<field name="date">940805</field>
+<text_pt>
 A livraria Cultura do Conjunto Nacional (av. Paulista, 2.073, tel. 285-4033) está vendendo "Histórias de Maîtres" (R$ 15), de Carlos Roque, edição do próprio autor. O livro é composto por perfis de dezoito profissionais de conhecidos restaurante de São Paulo.
 
 MAÎTRES 2 
@@ -2307,9 +2307,9 @@ A Seagram lança no Brasil um dos mais novos produtoos de sua linha de uísques &#
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-124</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-124</field>
+<field name="date">940805</field>
+<text_pt>
 HAMILTON MELLÃO JR.
 Especial para a Folha
 Toda vez que um animal silvestre está prestes a desaparecer, os ecologistas esperneiam. No Brasil, centenas de receitas desaparecem todo ano e ninguém diz nada. Seja pela criminosa queima de um caderno de receitas da avó ou pela morte natural de alguma anônima cozinheira.
@@ -2331,9 +2331,9 @@ Se gostar adicione-se algumas flores de abobora. Serve-se com fatias de pão torr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-125</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-125</field>
+<field name="date">940805</field>
+<text_pt>
 JORGE CARRARA
 Especial para a Folha
 É sempre possível combinar pratos da culinária francesa com um pinot noir norte-americano ou um cabernet australiano sem precisar apelar a um exemplar das cepas de Bourgonha ou Bordeaux, por exemplo. Mas com as alquimias gastronômicas italianas, a substituição é mais complicada.
@@ -2347,9 +2347,9 @@ Entre a fruta do primeiro e a robustez do segundo, fica o Simposio 90, um Vino N
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-126</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-126</field>
+<field name="date">940805</field>
+<text_pt>
 Um belo branco doce sul-africano, o Fleur du Cap 90, um Noble Late Harvest (vinho elaborado com uvas atacadas por um fungo nobre que concentra o sabor dos grãos), pode ser comprado na cidade. Ele tem paladar intenso de mel, abricó e caramelo, bom equilíbrio. E é barato para este tipo de vinho: R$ 7,86, no Mercado das Novidades (r. Aurora, 873, tel. 220-5177).
 
 CURSOS &amp; CIA 1 - A Associação Brasileira de Sommeliers - São Paulo (tel. 275-1346) realiza a partir de 12 de setembro mais um Curso Básico de Vinhos, dedicado ao conhecimento, apreciação e serviço da bebida. Além deste curso, no dia 24 de agosto, a ABS-SP fará uma degustação de tintos temperados com carvalho. No dia 8 de setembro, será a vez dos borgonhas brancos.
@@ -2369,9 +2369,9 @@ Na coluna de 22 de julho foi publicado uma nota de um espumante Aliança Bairrada
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-127</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-127</field>
+<field name="date">940805</field>
+<text_pt>
 O Petit Comité - Buffet e Congelados (r. Luís Góis, 1491, tel. 581-6379, vila Mariana) já está aceitando encomendas para o almoço dos pais. Quem optar por peixe, pode pedir postas de badejo ao molho de agrião e alho. Quem preferir carne, filé mignon ao molho de limão e pimenta rosa. Os pratos não são congelados e os pedidos devem ser feitos até a próxima sexta-feira.
 
 BRASIL-JAPÃO 
@@ -2383,9 +2383,9 @@ O bar e restaurante Ovídio (r. Fradique Coutinho, 150, tel. 881-0716, Pinheiros)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940805-128</text_pt>
-<text_pt name="date">940805</text_pt>
-<text_pt name="text">
+<field name="id">FSP940805-128</field>
+<field name="date">940805</field>
+<text_pt>
 A coreógrafa e diretora baiana traz a São Paulo montagem de texto do dramaturgo alemão Tankred Dorst
 DANIELA ROCHA
 Da Redação

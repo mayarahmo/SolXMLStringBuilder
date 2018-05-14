@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940606-001</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-001</field>
+<field name="date">940606</field>
+<text_pt>
 A seleção brasileira empatou com o Canadá em 1 a 1 ontem na cidade canadense de Edmonton. Romário marcou para o Brasil aos 44min do primeiro tempo. Berdusco empatou aos 25min do segundo.
 A equipe voltou a mostrar problemas no meio-campo e ataque. O meia Raí não conseguiu se posicionar e Romário preferiu o drible ao passe.
 "Calma que o time vai melhorar", disse o técnico Parreira a cerca de 30 brasileiros que o vaiaram, informam Fernando Rodrigues e Mário Magalhães. No segundo tempo, ele trocou Mauro Silva por Mazinho, Raí por Paulo Sérgio e Cafu por Jorginho. Não gostou de nenhum dos substitutos.
@@ -13,9 +13,9 @@ A Folha publica hoje o "Folha na Copa", que mostra como será a cobertura do jorn
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-002</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-002</field>
+<field name="date">940606</field>
+<text_pt>
 Há exatos 50 anos, tropas aliadas desembarcavam na costa da Normandia, abrindo o segundo front da guerra que sepultaria definitivamente os desvarios do ditador homicida Adolf Hitler. Nem mesmo a formidável máquina de guerra alemã seria capaz de suportar ao mesmo tempo a existência de duas grandes frentes de batalha.
 A leste, a determinação do Exército Vermelho, à custa de milhões de vidas, conseguia deter o avanço do que parecia ser o invencível exército nazista. A oeste, a superioridade bélica e numérica das forças aliadas foi capaz de reverter a imensa vantagem de posicionamento das tropas germânicas.
 Tratava-se de uma corrida contra o tempo. Alguns dias depois do Dia D, Hitler lançava contra Londres as primeiras bombas V-1. E, pior, dentro em pouco seus cientistas deveriam desenvolver a bomba atômica, o que talvez tornasse os nazistas de fato invencíveis.
@@ -27,9 +27,9 @@ Felizmente, no Brasil, não existem candidatos que preguem ódio racial e chauvini
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-003</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-003</field>
+<field name="date">940606</field>
+<text_pt>
 Aos poucos, e com atraso, vão sendo tomadas algumas providências cruciais para o encaminhamento do plano de estabilização. No final da semana passada o ministro da Fazenda, Rubens Ricupero, anunciou finalmente a decisão sobre o destino da Ufir. O indexador de impostos fica praticamente congelado, mas não é extinto.
 Sabe-se que dentro do governo o debate sobre o tema foi intenso. De um lado, os técnicos da Receita advogavam a manutenção plena do indexador. Partiam de uma lógica correta: o ajuste fiscal é crucial para a estabilização, logo a arrecadação deve ser protegida. De outro lado, os técnicos da Fazenda insistiram no custo político de preservar um indexador que protege o governo, justamente quando todos os outros setores foram levados a abrir mão de toda e qualquer indexação.
 Alcançou-se, afinal, uma solução salomônica. Congela-se o indexador, mas não se o extingue. E o que é mais importante: a "nova" Ufir corrigirá apenas as tabelas que definem a incidência progressiva de Imposto de Renda na fonte, assim como os balanços das empresas. Ou seja, o governo evita que o valor real do IR suba em decorrência de uma eventual inflação. A solução significa, portanto, compartilhar com assalariados e empresários as vantagens de se manter semivivo o indexador dos tributos.
@@ -38,9 +38,9 @@ Ocorre entretanto que a dúvida quanto à possibilidade de reindexação não é exclu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-004</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-004</field>
+<field name="date">940606</field>
+<text_pt>
 O debate sobre uma eventual bolha de consumo a partir do real tem sido intenso nas últimas semanas, mas os dados vão sugerindo que esse é, agora, um risco menor. A equipe veterana do Cruzado naturalmente teme a repetição do ágio e do desabastecimento que ajudaram a sepultar o plano de 1986.
 O cenário pré-plano é agora o oposto. O primeiro fator favorável é o nível de utilização da capacidade instalada na indústria, hoje menor do que em 86. Se aumentar a procura, as empresas têm espaço para produzir mais. Com exceção de alguns pontos isolados, como o setor automobilístico e o de TVs (é véspera de Copa), a situação em geral é de folga para aumentar a produção sem elevar muito os custos.
 Outro indicador alvissareiro, embora frustrante para os industriais, é o aumento dos estoques. A indústria vendeu menos do que esperava, formando estoques involuntários. Segundo pesquisa da Câmara Americana de Comércio do Rio, a proporção de empresas com estoques considerados excessivos saltou de 6,4% em abril para 13% em maio. Assim, se aumentar a procura por bens de consumo após o real, antes mesmo de aumentar o grau de utilização da capacidade produtiva haverá estoques a liquidar.
@@ -49,9 +49,9 @@ Os estoques têm ainda outro efeito estabilizador. Se a indústria estivesse menos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-005</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-005</field>
+<field name="date">940606</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; O ministro da Fazenda pediu que os fazedores de preços pensassem. Falou em tom de ameaça ou de conselho? Afinal, outra coisa os fazedores de preço não estão fazendo, principalmente após o anúncio do novo plano econômico. E como o Juquinha que só pensava em mulher, todo mundo sabe em quê os fazedores de preços estão pensando: nos próprios preços.
 Se foi conselho, o ministro Rubens Ricupero perdeu tempo e latim. Se foi ameaça, resta saber o que o governo poderá fazer se os fazedores de preços continuarem fazendo os preços subirem. O Estado faliu, não tem recursos para operar o elementar (saúde, educação, segurança, previdência). Como vai criar uma rede de fiscalização, controle e castigo para aqueles que continuam aumentando os preços? No mínimo, é uma bravata.
@@ -61,9 +61,9 @@ Seguindo o conselho do ministro, também eu estou pensando. Se tivesse vinte anos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-006</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-006</field>
+<field name="date">940606</field>
+<text_pt>
 Marcelo Beraba
 SÃO PAULO &#150; A eleição de 89 colocou na Presidência da República o anti-José Sarney.
 O dinamismo e a juventude de Collor representavam a antítese do Sarney indeciso e da decrepitude dos políticos nacionais. De quebra, prometia combater a corrupção e o fisiologismo.
@@ -79,9 +79,9 @@ Estes itens evidenciam uma prioridade clara do eleitorado pelo fim do apartheid 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-007</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-007</field>
+<field name="date">940606</field>
+<text_pt>
 Florestan Fernandes
 Discute-se com ardor como "melhorar" a Constituição de 1988. Perdeu-se, com isso, muito tempo no Congresso Nacional. Primeiro, a celeuma girou em torno do artigo 3º do Ato das "Disposições Constitucionais Transitórias". Depois, os partidos dividiram-se no "como fazer" e as pressões externas jogaram uns contra os outros interesses inconciliáveis. Um regimento interno infeliz ignorou que a democracia só existe quando se respeitam as minorias. Foram esmagadas como pulgas.
 O governo, por sua vez, esperou demais da "reforma constitucional" e oscilou entre dois extremos negativos &#150;ou açulou e barganhou com a maioria parlamentar ou procedeu como se estivesse entrevado. Por sua vez, os que mandam aguardavam milagres. O relator, deputado Nelson Jobim, viu-se confinado a um espaço sufocante. Os "contras" surgiram como consequência natural dessa situação. E quando se dispuseram a cooperar, deram com a intransigência dos que pensavam empalmar o poder absoluto.
@@ -95,9 +95,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-008</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-008</field>
+<field name="date">940606</field>
+<text_pt>
 EMERSON KAPAZ
 O Brasil vive um dos seus momentos mais ricos, em todos os sentidos: revolução da cidadania, mobilização da sociedade organizada, eleições gerais, rediscussão de prioridades, combate à inflação. A importância da participação das lideranças responsáveis, das elites e dos formadores de opinião nunca foi tão grande como agora.
 Nesse sentido, nosso papel, o papel de cada um de nós, cidadãos-empresários, no bojo de um plano de estabilização que dará a chance de voltarmos a viver num país com inflação baixa, é histórico.
@@ -124,9 +124,9 @@ EMERSON KAPAZ, 38, empresário, é presidente da Abrinq (Associação Brasileira dos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-009</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-009</field>
+<field name="date">940606</field>
+<text_pt>
 FABIO FELDMANN
 Dois acontecimentos recentes levam-nos a refletir sobre o significado do Dia Mundial do Meio Ambiente, comemorado ontem, 5 de junho: o fim da revisão constitucional e a polêmica em torno da aprovação da construção da usina hidrelétrica de Tijuco Alto, no Vale do Ribeira, no Estado de São Paulo.
 Apesar do fim melancólico da revisão, seu processo possibilitou a redefinição da agenda ambiental brasileira. O resultado foi, no domínio do legislativo, a sistematização de avanços conceituais, técnicos, políticos e institucionais que permearam a discussão ambiental nos últimos anos, especialmente durante a preparação da Rio-92, e após a conferência.
@@ -147,9 +147,9 @@ FABIO FELDMANN, 39, é deputado federal pelo PSDB de São Paulo e presidente da Fu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-010</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-010</field>
+<field name="date">940606</field>
+<text_pt>
 "Hoje completam-se 50 anos do desembarque aliado nas praias da Normandia. Lembraremos com muito respeito todos aqueles que tombaram nessa luta contra o nazi-fascismo, que deu início à vitória total das Forças Aliadas sobre o totalitarismo. Mas não podemos e não devemos esquecer o atraso da decisão das Forças Aliadas de participar ativamente da Segunda Guerra Mundial. Esse atraso custou a vida de 50 milhões de seres humanos e a destruição de todos os valores morais e éticos da humanidade. Todo o peso da guerra recaía sobre a União Soviética que pagou um preço muito alto: 28 milhões de mortos, milhões de feridos, cidades destruídas, campos devastados e progresso econômico completamente estagnado. Que este fato da maior importância sirva como lição para todos nós, para ficarmos atentos e não permitirmos a repetição dos fatos que tiveram lugar na Europa entre 1939-1945. Guerra nunca mais."
 Alfredo Frajdenberg (Rio de Janeiro, RJ)
 
@@ -208,9 +208,9 @@ O quadro publicado, discriminando as coligações e candidaturas em todo país, sai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-011</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-011</field>
+<field name="date">940606</field>
+<text_pt>
 Câmara deve votar projeto de Feldmann
 Da Sucursal de Brasília
 A Câmara dos Deputados deve votar esta semana o substitutivo do relator Fábio Feldmann (PSDB-SP) ao projeto de lei apresentado pelo governo contra o abuso do poder econômico e a defesa da livre concorrência.
@@ -220,9 +220,9 @@ Aleluia tem várias restrições ao projeto de Feldmann e, caso não haja acordo, am
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-012</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-012</field>
+<field name="date">940606</field>
+<text_pt>
 Regras para aluguéis e casa própria são definidas                                                    Da Sucursal de Brasília
 O governo define esta semana as regras para a conversão de aluguéis e mensalidades escolares em URV. Devem ser editadas MPs (Medidas Provisórias) regulamentando os dois casos.                                                                                                                               No caso dos aluguéis, o governo anunciou várias vezes que iria editar a MP, mas a equipe econômica não chegou a consenso. Também não houve acordo entre as partes interessadas.
 O Banco Central pode definir ainda nesta semana como serão reajustadas as prestações do Sistema  Financeiro da Habitação na passagem para o real.
@@ -230,9 +230,9 @@ A grande preocupação são os contratos regidos pela equivalência salarial, cujas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-013</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-013</field>
+<field name="date">940606</field>
+<text_pt>
 Palmeira cobra 'determinação' de FHC
 Candidato a vice e ACM pedem empenho na busca do apoio de Sarney e criticam indecisão do candidato
 ARI CIPOLA
@@ -258,9 +258,9 @@ Segundo ACM, o presidente Itamar Franco já está trabalhando com o objetivo de de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-014</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-014</field>
+<field name="date">940606</field>
+<text_pt>
 Análise de cientista político com base nos dados do Datafolha mostra que as pessoas sabem distinguir governo e regime
 FERNANDO DE BARROS E SILVA
 Da Reportagem Local
@@ -274,9 +274,9 @@ Numa perspectiva otimista, pode-se dizer que as pessoas estão sabendo separar go
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-015</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-015</field>
+<field name="date">940606</field>
+<text_pt>
 FERNANDO DE BARROS E SILVA
 Da Reportagem local
 
@@ -313,9 +313,9 @@ Todas essas questões indicam que precisamos de uma reforma profunda na Constitui
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-016</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-016</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 Na visão do cientista político Wanderley Guilherme dos Santos, o petista José Álvaro Moisés não passa de um neo-oligarca.
 Fazem parte desse grupo difuso, segundo Wanderley, todos aqueles que acham que a saúde da democracia brasileira depende fundamentalmente de reformas institucionais que capacitem o Estado a tomar decisões e implementar políticas.
@@ -327,9 +327,9 @@ Eleitora de Fernando Henrique, Aspásia acha que Lula, candidato de Moisés, não t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-017</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-017</field>
+<field name="date">940606</field>
+<text_pt>
 
 
 13 de maio de 1989 - Garimpeiros que trabalham próximo à nascente do rio Orinoco afirmam que a Guarda Nacional da Venezuela destruiu os equipamentos e o estoque de alimentos de seus acampamentos.
@@ -356,9 +356,9 @@ Eleitora de Fernando Henrique, Aspásia acha que Lula, candidato de Moisés, não t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-018</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-018</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 O projeto Igreja-Sat tem como coordenador um padre da ordem dos redentoristas, que foi por nove anos diretor da Rádio Aparecida, a mais tradicional das emissoras católicas.
 César Moreira, 48, diz que a rede em formação não pretende se colocar a serviço de uma das tendências da igreja.
@@ -376,9 +376,9 @@ Moreira - Eu diria que evangelizar, em jornalismo, quer dizer algo bem diferente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-019</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-019</field>
+<field name="date">940606</field>
+<text_pt>
 
 JOÃO BATISTA NATALI
 Da Reportagem Local
@@ -399,9 +399,9 @@ Ainda no quadro sucroalcooleiro paulista, 65% da produção estão concentrados nas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-020</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-020</field>
+<field name="date">940606</field>
+<text_pt>
 GUSTAVO PATÚ
 Da Sucursal de Brasília
 Os bancos vão repassar às suas tarifas os custos da distribuição do real, a nova moeda que começa a circular em 1º de julho.
@@ -442,9 +442,9 @@ Tavares &#150; Não tenho dúvida nenhuma que isso vai acontecer, acontece sempre.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-021</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-021</field>
+<field name="date">940606</field>
+<text_pt>
 Banco, de três ex-executivos da Pirelli, negocia a venda de uma fábrica da empresa na Argentina
 NELSON BLECHER
 Da Reportagem Local
@@ -477,9 +477,9 @@ Uma reestruturação societária desse tipo está sendo arquitetada no momento pela 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-022</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-022</field>
+<field name="date">940606</field>
+<text_pt>
 20...por cento é o desconto para as ligações telefônicas que forem feitas dos EUA para o Brasil durante a Copa do Mundo. De 15 de junho a 18 de julho, o serviço Brasildireto reduz as tarifas e opera com o Telecard &#150;cartão para chamadas internacionais. Brasileiros nos EUA poderão efetuar as chamadas e pagar a conta no Brasil em cruzeiros reais (até 30 de junho) e em reais (a partir de julho). Quem quiser utilizar o serviço deverá discar 1 (800) 344-1055, 1 (800) 745-5521 ou 1 (800) 283-1055.
 
 O NÚMERO - 2
@@ -487,9 +487,9 @@ O NÚMERO - 2
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-023</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-023</field>
+<field name="date">940606</field>
+<text_pt>
 Marcos Sant'anna, da Câmara Brasileira da Indústria da Construção, defende a lei de licitações que o presidente Itamar está prestes a sancionar. "Mesmo sem ser perfeita, é possivelmente a mais moderna e completa do mundo."
 
 Veto perigoso
@@ -521,9 +521,9 @@ O Sindimaq estima que o setor de máquinas e equipamentos tem capacidade de supor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-024</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-024</field>
+<field name="date">940606</field>
+<text_pt>
 
 Se as pressões pré-eleitorais forçarem uma desvalorização do peso, a Argentina estará em melhor posição para consolidar as reformas, tímidas até agora, para criar um setor exportador dinâmico, diz David Lubin, economista do grupo inglês HSBC Holdings.
 
@@ -551,9 +551,9 @@ Cita o exemplo dos EUA, onde houve avanço da tecnologia e barateamento dos servi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-025</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-025</field>
+<field name="date">940606</field>
+<text_pt>
 RICARDO ANTÔNIO SILVA SEITENFUS
 "Há pessoas que são como alguns relógios: indicam uma hora e soam outra"
 (provérbio dinamarquês)
@@ -590,9 +590,9 @@ RICARDO ANTÔNIO SILVA SEITENFUS, 46, doutor em relações internacionais pelo Inst
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-026</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-026</field>
+<field name="date">940606</field>
+<text_pt>
 Sexta-feira, Pato Branco (cidade paranaense de 50 mil habitantes): numa sala do Sebrae, curso com dez pequenos empreiteiros locais ministrado por um consultor carioca. Tema: produtividade e qualidade.
 Domingo, almoço de família: política, futebol e Fórmula 1 substituídos por relatos sobre inovações comerciais, novidades em treinamento de pessoal e naturalmente qualidade e produtividade.
 Segunda, em casa: carta de prima do interior, dona de pequena escola, informando que já deu início a programas de qualidade e produtividade, valendo-se da estrutura do Sebrae de Minas Gerais.
@@ -611,9 +611,9 @@ Vai inevitavelmente entrar para a história como um dos quatro governos fundament
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-027</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-027</field>
+<field name="date">940606</field>
+<text_pt>
 Da Redação
 Será lançado no próximo dia 9, no auditório da Folha, a partir das 19h30, o livro "Tributação no Brasil e o Imposto Único", organizado pelo economista Marcos Cintra.
 Autor da proposta do Imposto Único, que pretende reduzir a enorme gama de tributos a um, Marcos Cintra fará uma palestra sobre o assunto.
@@ -624,9 +624,9 @@ Interessados poderão retirar convites na portaria da Folha a partir das 18h do d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-028</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-028</field>
+<field name="date">940606</field>
+<text_pt>
 
 MARCELO CHERTO e MARCUS RIZZO
 Volta e meia os autores desta coluna, nas viagens que fazem, se deparam com algum conceito de negócio de que nunca tinham ouvido falar antes. Foi assim com a Naked Furniture (ao pé da letra: Mobília Nua).
@@ -647,9 +647,9 @@ MARCELO CHERTO e MARCUS RIZZO são diretores da Cherto &amp; Rizzo Franchising e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-029</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-029</field>
+<field name="date">940606</field>
+<text_pt>
 
 HELCIO EMERICH
 Depois de uma fase de grande expansão na década de 80 (com crescimento anual de até 40%), o mercado americano de preservativos entrou em ritmo de câmera lenta. Multiplicam-se as campanhas que tentam posicionar o produto como única opção segura para a prevenção da Aids (sem contar, é claro, a abstinência sexual), mas as vendas praticamente estacionaram nos últimos anos.
@@ -662,9 +662,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-030</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-030</field>
+<field name="date">940606</field>
+<text_pt>
 Taxas nominais vão cair com a chegada da nova moeda; dinheiro sai dos CDBs prefixados e vai para as cadernetas
 RODNEY VERGILI
 Da Redação
@@ -686,9 +686,9 @@ De Conti não acredita, no entanto, em crescimento explosivo no consumo do mercad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-031</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-031</field>
+<field name="date">940606</field>
+<text_pt>
 
 POUPANÇA
 Os depósitos feitos hoje nas cadernetas terão rentabilidade superior a dos demais dias do mês. Uma estimativa preliminar é de que as cadernetas devem render 42,6% no dia 6 de julho; 40,3% no dia 7; 38,1% no dia 8. Aplicações no dia 9 e 10 caem em final de semana de julho.
@@ -719,9 +719,9 @@ O mercado de CDBs prefixados de 90 dias é praticamente inexistente. Os CDBs inde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-032</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-032</field>
+<field name="date">940606</field>
+<text_pt>
 Beltech quer faturar US$ 3 milhões este ano; clientes podem encomendar padrões exclusivos
 RODNEY VERGILI
 Da Redação
@@ -746,30 +746,30 @@ Para saber mais: Beltech Fone: (011) 852-1614
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-033</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-033</field>
+<field name="date">940606</field>
+<text_pt>
 Problemas de transporte atrapalharam as operações de ajuda humanitária na região leste da ilha de Java (Indonésia), atingida por um maremoto na semana passada. Os mortos são 192, segundo dados oficiais, mas podem chegar a 254, segundo jornais locais. Desde o terremoto de sexta-feira, que causou o maremoto, já foram registrados 526 abalos secundários.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-034</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-034</field>
+<field name="date">940606</field>
+<text_pt>
 Um barco cubano abriu fogo contra um cargueiro que havia sido sequestrado por fugitivos do país, ferindo quatro pessoas, incluindo uma criança. O barco que disparou os tiros fugiu. A Guarda Costeira dos EUA resgatou os feridos. O incidente aconteceu em águas internacionais, a 120 km da costa dos EUA. Os 61 passageiros cubanos foram levados para os EUA.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-035</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-035</field>
+<field name="date">940606</field>
+<text_pt>
 Uma eventual força de paz que os Estados Unidos enviem ao Haiti teria milhares de soldados e permaneceria no país por meses, disse o secretário da Defesa dos EUA, William Perry. Os militares haitianos se negam a permitir a posse do presidente eleito, Jean-Bertrand Aristide. Ontem, soldados dominicanos mataram a tiros um haitiano que tentava cruzar a fronteira.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-036</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-036</field>
+<field name="date">940606</field>
+<text_pt>
 Secretário da Defesa fala em impor sanções mesmo sem respaldo do Conselho de Segurança
 Das agências internacionais
 Os EUA poderão tentar impor sanções econômicas à Coréia do Norte, acusada de desenvolver um programa nuclear militar clandestino, mesmo sem respaldo do Conselho de Segurança da ONU.
@@ -784,9 +784,9 @@ No mês passado a Coréia do Norte substituiu o urânio do reator, oportunidade em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-037</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-037</field>
+<field name="date">940606</field>
+<text_pt>
 ANDRÉ LAHÓZ
 Enviado especial a Caen
 Hoje o dia D completa 50 anos. Na manhã de 6 de junho de 1944 começava o desembarque aliado na Normandia (norte da França), com o objetivo de expulsar as tropas nazistas que desde 1940 ocupavam o país. 150 mil soldados partiram da Grã-Bretanha em direção à França neste dia, dos quais 10 mil morreriam antes do segundo dia de combate.
@@ -802,9 +802,9 @@ O presidente dos EUA e a primeira-dama Hillary fizeram o final da viagem a bordo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-038</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-038</field>
+<field name="date">940606</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 O desconforto do comandante-em-chefe das Forças Armadas dos EUA, Bill Clinton, com seus subalternos militares é evidente.
@@ -820,9 +820,9 @@ Um major-general da Força Aérea, Harold Campbell, chegou a dizer que Clinton "ad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-039</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-039</field>
+<field name="date">940606</field>
+<text_pt>
 SÉRGIO MALBERGIER
 De Londres
 A rainha britânica, Elizabeth 2ª, o premiê John Major e o presidente dos EUA, Bill Clinton, embarcaram ontem no iate real Brittania para repetir a viagem pelo canal da Mancha até a França feita há 50 anos por 6.000 navios de guerra com a missão de iniciar o fim da ocupação nazista na Europa.
@@ -835,9 +835,9 @@ Analistas acham que a viagem pode ajudar Clinton a melhorar suas relações com os
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-040</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-040</field>
+<field name="date">940606</field>
+<text_pt>
 Do enviado especial a Caen
 Pierre Chaunu, 70, é um dos maiores historiadores franceses vivos. É professor de história na Sorbonne há mais de 20 anos e ultimamente tem participado de várias conferências sobre a Segunda Guerra Mundial.
 
@@ -859,9 +859,9 @@ Chaunu - É preciso diferenciar as coisas. Os neofascistas italianos não são a me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-041</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-041</field>
+<field name="date">940606</field>
+<text_pt>
 RICARDO BONALUME NETO
 Especial para a Folha, de Montecatini
 Cinquenta anos depois, veteranos da FEB (Força Expedicionária Brasileira) puderam rever a região em que combateram pela primeira vez em 1944, o vale do rio Serchio, no norte da Itália.
@@ -878,9 +878,9 @@ Como todos os da FEB, ele tinha grande respeito pelo inimigo bem mais experiente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-042</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-042</field>
+<field name="date">940606</field>
+<text_pt>
 Negociações por um cessar-fogo na guerra civil da Bósnia serão reiniciadas hoje em Genebra, anunciou a ONU. A reabertura se tornou possível depois que sérvios-bósnios aceitaram abandonar a zona de exclusão de 3 km em torno do encrave muçulmano de Gorazde.
 
 Choque na Cisjordânia deixa cinco feridos
@@ -900,9 +900,9 @@ A polícia da África do Sul negou ontem ter notícias de um complô para assassinar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-043</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-043</field>
+<field name="date">940606</field>
+<text_pt>
 Maior apreensão da droga no país aconteceu ontem em fazenda clandestina na capital de Tocantins
 DANIELA PINHEIRO
 Da Sucursal de Brasília
@@ -924,9 +924,9 @@ Os traficantes estão presos em uma delegacia de Palmas, aguardando transferência
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-044</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-044</field>
+<field name="date">940606</field>
+<text_pt>
 
 O motorista foi preso e a PF resolveu invadir a fazenda. Chegaram ao galpão onde a droga era misturada com tabaco e encaixotada. Cinco homens faziam a segurança do local. Estavam armados com fuzis AR-15 e granadas. Outros três mexiam com a droga.
 
@@ -934,17 +934,17 @@ Ao verem a PF, tentaram fugir. Um dos seguranças tentou lançar uma granada nos p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-045</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-045</field>
+<field name="date">940606</field>
+<text_pt>
 Parques dão mudas no Dia do Meio Ambiente
 Em comemoração ao Dia Mundial do Meio Ambiente, começou ontem a distribuição de 49 mil mudas de plantas em 29 parques de São Paulo. A menina Talita Gonçalves Monaco (foto), 7, ganhou duas mudas de árvores frutíferas no parque Ibirapuera. Segundo ela, as árvores serão plantadas em seu sítio.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-046</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-046</field>
+<field name="date">940606</field>
+<text_pt>
 As tarifas dos táxis de Belo Horizonte foram reajustadas com a UT (Unidade Taximétrica) passando a custar CR$ 700,00. Esse valor vai ser mantido até o dia 10. Em razão dos aumentos dos combustíveis, outros dois aumentos estão previstos para este mês.
 
 Minas Gerais 2
@@ -964,9 +964,9 @@ A polícia de Americana prendeu anteontem o comerciante Paulo Sérgio Palauro, acu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-047</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-047</field>
+<field name="date">940606</field>
+<text_pt>
 Cerca de 30 mil estudantes foram beneficiados com o passe-livre nos ônibus urbanos desde a sua implantação, há um ano. Segundo o prefeito Juvêncio César da Fonseca (PMDB), nesse período foram distribuídos 6,5 milhões de passes.
 
 Mato Grosso do Sul 2
@@ -980,9 +980,9 @@ A Secretaria do Meio Ambiente de Rio Verde e a Sociedade de Defesa do Pantanal l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-048</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-048</field>
+<field name="date">940606</field>
+<text_pt>
 
 JOSÉ ELIAS AIEX NETO
 Resolvi ser médico quando era uma criança que se deslumbrava com o trabalho realizado pelo único profissional que exercia esta profissão na cidade onde eu residia. Era um trabalho misto de sacerdócio, executado com idealismo por aquele homem que tinha perdido o domínio de sua vida, a qual ele entregara à comunidade.
@@ -997,9 +997,9 @@ JOSÉ ELIAS AIEX NETO, 41, psiquiatra, foi secretário municipal da Saúde de Foz d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-049</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-049</field>
+<field name="date">940606</field>
+<text_pt>
 O "Diário Oficial do Pará" publicou na última semana a lista de 1.028 demissões -1.005 na Secretaria Estadual de Educação e 23 na Fundação de Telecomunicações do Pará. Elas atingiram dois funcionários da fundação que trabalhavam no "Bom Dia, governador".
 
 Pará 2
@@ -1013,9 +1013,9 @@ O delegado geral da Polícia Civil, Mário Malato, pediu um levantamento sobre a s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-050</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-050</field>
+<field name="date">940606</field>
+<text_pt>
 A FBB (Fundação Banco do Brasil) vai liberar CR$ 198 milhões para 35 escolas de primeiro e segundo graus do Estado. O convênio foi assinado na última semana em Florianópolis por representantes da FBB e Campanha Nacional de Escolas da Comunidade.
 
 Santa Catarina 2
@@ -1041,9 +1041,9 @@ A polícia ainda não tem pistas sobre o paradeiro do contabilista Maurício José S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-051</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-051</field>
+<field name="date">940606</field>
+<text_pt>
 A Prefeitura de Maceió recebe 400 denúncias por mês de obras privadas. A denúncia mais comum é a de obras que invadem o passeio público. O superintendente de desenvolvimento urbano, Alfredo Gazzaneo, disse que as irregularidades são punidas com multas.
 
 Rio Grande do Norte
@@ -1069,9 +1069,9 @@ O Governo do Estado está propondo aos pecuaristas a importação de gado bovino da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-052</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-052</field>
+<field name="date">940606</field>
+<text_pt>
 Da Equipe de Articulistas
 A salutar divulgação de jurisprudência e doutrina em revistas editadas pelos tribunais merece incentivo.
 A lembrança me vem do recebimento do volume nº 52 da Revista do Tribunal Regional do Trabalho da 3ª Região, sediado em Belo Horizonte, que me foi enviada pelo juiz Michel Francisco Melin Aburjeli. Inclui doutrina, acórdãos, ementário e decisões de primeira instância.
@@ -1094,9 +1094,9 @@ O tratamento dado ao tema é inédito, reunindo informações úteis aos profissionai
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-053</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-053</field>
+<field name="date">940606</field>
+<text_pt>
 JAIRO BOUER
 Especial para a Folha
 Pouca gente sabe onde procurar ajuda quando um parente ou amigo tem uma mudança súbita no comportamento habitual.
@@ -1122,9 +1122,9 @@ API - r. Joaquim Távora 1011, Vila Mariana, tel.: (011) 571-1691; Equipsi - r. G
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-054</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-054</field>
+<field name="date">940606</field>
+<text_pt>
 Obra retrata evoluçãoda psicanálise em SP
 ReproduçãoO sugestivo título de "Álbum de Família" (foto), que será lançado dia 13, às 20h, no Centro Cultural São Paulo (rua Vergueiro, 1.000), retrata os 50 anos de atividades da Sociedade Brasileira de Psicanálise de São Paulo, fundada em 1944. Com 232 fotos em suas 212 páginas, o livro editado pela Casa do Psicólogo identifica as fontes e idéias da psicanálise em São Paulo e sua influência para o desenvolvimento da especialidade no Brasil. O lançamento do livro dará início, nos dias seguintes, no mesmo local, às 21h, a um ciclo de palestras sobre a história da psicanálise em São Paulo.
 
@@ -1147,9 +1147,9 @@ Mulheres com hipertensão crônica têm quatro vezes mais probabilidade de ter um b
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-055</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-055</field>
+<field name="date">940606</field>
+<text_pt>
 A aposentada Deolinda Moreira Prates, 72, morreu anteontem em um acidente que aconteceu durante perseguição da Rota a um carro roubado. O carro em que ela estava, um Gol, foi atingido pelo carro de Wagner da Silva, 31, que fugia da Rota. O acidente aconteceu em São Miguel Paulista (zona sul).
 
 Preso é libertado em hospital de São Paulo
@@ -1174,9 +1174,9 @@ Prêmio da quina CR$ 696 milhões
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-056</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-056</field>
+<field name="date">940606</field>
+<text_pt>
 A leitora Nilza Maria Coradi, residente na rua Sílvia, no bairro Bela Vista, reclama do Baú da Felicidade.
 Ela afirma que foi abordada por uma vendedora do Baú. Esta garantiu que se pagasse a primeira prestação ganharia vários prêmios.
 Neste dia, segundo Coradi, "Me interessei pelo sorteio de um videocassete e perguntei como ganharia. Ela afirmou que se comprasse dez carnês e pagasse as primeiras prestações no ato o vídeo seria entregue em poucos dias."
@@ -1190,9 +1190,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-057</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-057</field>
+<field name="date">940606</field>
+<text_pt>
 Ricupero não acredita que mensalidade possa seguir regra aplicada aos salários
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -1217,9 +1217,9 @@ Falando de mensalidades escolares e também de aluguéis, o ministro da Fazenda re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-058</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-058</field>
+<field name="date">940606</field>
+<text_pt>
 Os governos do Brasil, Portugal e Espanha começam a comemorar os 500 anos do Tratado de Tordesilhas (7 de junho de 1494) com um seminário acadêmico, terça-feira pela manhã, na Universidade de Brasília. O seminário será encerrado com um discurso do ministro da Fazenda, Rubens Ricupero. Na ocasião, será lançado o texto bilíngue do Tratado de Tordesilhas, numa edição da embaixada da Espanha.
 
 TORDESILHAS 2  
@@ -1227,9 +1227,9 @@ O ponto alto das comemorações será no dia 26 de julho. Navios das marinhas brasi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-059</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-059</field>
+<field name="date">940606</field>
+<text_pt>
 Maior apreensão feita no país aconteceu ontem em fazenda clandestina na cidade de Guaraí, em Tocantins
 DANIELA PINHEIRO
 Da Sucursal de Brasília
@@ -1248,16 +1248,16 @@ Os traficantes estão presos em uma delegacia de Palmas, aguardando transferência
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-060</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-060</field>
+<field name="date">940606</field>
+<text_pt>
 O ex-deputado federal do PSDB Caio Pompeu de Toledo morreu anteontem, aos 51 anos, vítima de infarto. Ele estava internado na Beneficência Portuguesa. Caio Pompeu iniciou sua carreira na Arena e passou também pelo PMDB. Foi vereador e deputado estadual, além de secretário municipal e estadual de Esportes e Turismo. Em 85, foi vice de Fernando Henrique na chapa que concorreu à prefeitura paulistana. Foi enterrado sábado, no cemitério da Consolação (região central de São Paulo).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-061</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-061</field>
+<field name="date">940606</field>
+<text_pt>
 A partir do dia 20, ônibus com visitantes que só passam o dia na cidade terão de pagar CR$ 280 mil para entrar
 PAULO SILVA PINTO
 Enviado especial a Campos do Jordão
@@ -1280,9 +1280,9 @@ Alves concorda com as restrições impostas aos ônibus. "Eles deixam um rastro de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-062</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-062</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 A Cetesb descarta a possibilidade de impedir o trânsito nas avenidas centrais de São Paulo neste inverno, devido à poluicão.
 Isso ocorreria quando a qualidade do ar atingisse o nível de "alerta". Os técnicos não acreditam que a poluição chegue a esse ponto.
@@ -1295,17 +1295,17 @@ Ou seja, mesmo quando a qualidade do ar é "regular" as pessoas podem até desenvo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-063</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-063</field>
+<field name="date">940606</field>
+<text_pt>
 BÉLGICA
 A seleção belga venceu a Zâmbia, atual vice-campeã africana, por 9 a 0, anteontem, em Bruxelas. O atacante croata, recém naturalizado, Josip Weber, 29, foi o grande destaque da partida, marcando cinco gols. A Bélgica, um dos seis cabeças-de-chave no sorteio dos grupo, disputará a primeira fase da Copa no F, com Marrocos, Holanda, e Arábia Saudita.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-064</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-064</field>
+<field name="date">940606</field>
+<text_pt>
 ALBERTO HELENA JR.
 O estádio de Edmonton é simplesmente um encanto. Nada daqueles monumentos ao mau gosto que costumamos erguer por aí, para abrigar hostilmente centenas de milhares de pessoas. Nada disso.
 Aqui, a lotação é de, no máximo, 60 mil pessoas, que vão lentamente tomando seus lugares, uma hora antes de o jogo começar. São dois lances de arquibancadas, poltroninhas de plástico com assentos dobráveis, como nos cinemas de antigamente.
@@ -1331,9 +1331,9 @@ Ou nada mais que o esperado?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-065</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-065</field>
+<field name="date">940606</field>
+<text_pt>
 
 Parreira insiste no modelo europeu
 MARCELO FROMERe NANDO REIS
@@ -1362,9 +1362,9 @@ Marcelo Fromer e Nando Reis são músicos da banda Titãs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-066</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-066</field>
+<field name="date">940606</field>
+<text_pt>
 O tenista espanhol bate o compatriota Alberto Berasategui por 3 sets a 1 no Aberto da França, em Paris
 THALES DE MENEZES
 Enviado especial a Paris
@@ -1390,9 +1390,9 @@ O jornalista THALES DE MENEZES vaija a convite da Koch Tavares
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-067</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-067</field>
+<field name="date">940606</field>
+<text_pt>
 Do enviado especial
 Faltou pouco para que a quadra Central de Roland Garros virasse uma arena de touros. Além da barulhenta torcida espanhola saudando seus campeões, o rei Juan Carlos apareceu para entregar o troféu principal.
 Pelo menos 30 bandeiras espanholas eram visíveis nas arquibancadas. Pelas alamedas do clube de Roland Garros, muitos jovens vestiam camisetas do campeão Barcelona e de Real Madrid, La Coru¤a e outros times de futebol da Espanha.
@@ -1405,9 +1405,9 @@ No feminino, Arantxa Sanchez é a única espanhola a vencer o Aberto da França. Se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-068</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-068</field>
+<field name="date">940606</field>
+<text_pt>
 
 O romeno Ilie Nastase, irreverente campeão dos anos 70, se deu mal quando tentou manter a fama de palhaço do tênis. Nastase resolveu andar num dos carrinhos motorizados que recolhem o lixo no clube de Roland Garros. O ex-tenista perdeu o controle do carrinho que dirigia e derrubou uma barraca que vendia refrigerantes. Ninguém se machucou.
 
@@ -1419,9 +1419,9 @@ Pessoas famosas que circularam em Roland Garros durante o Aberto da França: o "M
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-069</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-069</field>
+<field name="date">940606</field>
+<text_pt>
 Jogo abre as quartas-de-final e técnico brasileiro confia na vitória
 Da Reportagem Local
 A seleção do Brasil estréia contra o time de Cuba nas quartas-de-final do 12º Campeonato Mundial Feminino de Basquete, em Sydney, Austrália.
@@ -1438,9 +1438,9 @@ Cuba - Leonor Borrell, Tânia Scino, Olga Vigil, Lisdeivis Victores, Biosotis lag
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-070</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-070</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 O saldo da seleção brasileira na primeira fase já a coloca em melhor posição do que no Mundial da Malásia, em 1990, quando a equipe terminou em 10º lugar.
 Agora, no Mundial da Austrália, o time continua lutando pelas quatro primeiras colocações.
@@ -1453,9 +1453,9 @@ Ontem, após três horas de viagem &#150;de Launceston, na Tasmânia, até Sydney, l
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-071</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-071</field>
+<field name="date">940606</field>
+<text_pt>
 CIDA SANTOS
 A Liga Mundial faz sua última escala em terras brasileiras. No próximo final de semana, tem jogo no ginásio do Ibirapuera. Com o primeiro lugar da chave garantido, as partidas contra os búlgaros pouco significam para o Brasil. As cartas já estão marcadas: nas quartas-de-final, os brasileiros deverão fazer o primeiro jogo contra os italianos, no dia 26 de julho, em plena Itália. É por aí que já andam os os corações e mentes da seleção.
 Mas Brasil e Itália possuem mais coisas em comum do que esse encontro na próxima fase do torneio. Os técnicos das duas seleções têm testado diversas formações nessas cinco semanas da Liga. Zé Roberto tem procurado cada vez mais aplicar a tese de que não podem mais existir jogadores especialistas. Segundo ele, todos têm que fazer tudo. O futuro aponta nessa direção.
@@ -1466,9 +1466,9 @@ Velasco joga com uma pressão a mais. A fase final da Liga será na Itália e ele s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-072</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-072</field>
+<field name="date">940606</field>
+<text_pt>
 
 *
 O Milan, atual vice-campeão italiano, com problemas financeiros, perdeu o ginásio poliesportivo onde treinavam os times de vôlei, rugby e hóquei. A ex-equipe de Tande terá que voltar aos velhos tempos de pouco luxo. A pergunta que fica no ar é se o Milan vai conseguir manter suas principais estrelas: os atacantes Zorzi, Galli e Lucchetta, ex-capitão da seleção.
@@ -1479,9 +1479,9 @@ Uma nova geração do vôlei brasileiro já trabalha para ganhar mais experiência. A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-073</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-073</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 A seleção brasileira feminina de vôlei retoma hoje na Escola de Educação Física do Exército, no bairro da Urca (zona sul do Rio), os treinos preparatórios para o Mundial da modalidade.
 O técnico Bernardo Rezende, o Bernardinho, comanda os treinos em dois períodos. Pela manhã, as jogadoras fazem exercícios seguidos de uma corrida. À tarde, a equipe treina a parte tática.
@@ -1494,9 +1494,9 @@ A seleção brasileira viaja esta semana para a República Tcheca, onde disputa a p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-074</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-074</field>
+<field name="date">940606</field>
+<text_pt>
 O piloto norte-americano aumenta sua vantagem na F-Indy; Emerson fica em segundo e Boesel em oitavo
 Da Reportagem Local
 A equipe Penske levou ontem seus três pilotos ao pódio das 200 Milhas de Milwaukee, quinta etapa do Campeonato Mundial de Fórmula Indy de 1994.
@@ -1513,9 +1513,9 @@ A próxima etapa do Campeonato Mundial de F-Indy acontece no próximo domingo, com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-075</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-075</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 O piloto brasileiro André Ribeiro não conseguiu terminar o GP de Milwaukee de Indy Ligths. Apesar de largar na pole, ele acabou batendo ainda na primeira volta.
 No warm up (treino de aquecimento) realizado antes da prova, André disse que sentiu seu carro saindo muito de frente. De volta aos boxes, sua equipe fez algumas mudanças mas André acabou ficando sem maiores referências sobre o comportamento que seu carro teria na pista.
@@ -1528,9 +1528,9 @@ A próxima prova da Indy Lights acontece neste domingo no circuito de rua de Detr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-076</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-076</field>
+<field name="date">940606</field>
+<text_pt>
 Dos enviados especiais
 A seleção brasileira joga mais duas vezes antes de sua estréia na Copa do Mundo, dia 20, contra a equipe da Rússia. Enfrentará as seleções de Honduras e de El Salvador até domingo.
 Na quarta-feira, o jogo será contra o time de Honduras, na cidade de San Diego, no Estado da Califórnia.
@@ -1541,9 +1541,9 @@ No domingo, a seleção fará seu último amistoso antes da Copa do Mundo. O jogo se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-077</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-077</field>
+<field name="date">940606</field>
+<text_pt>
 Equipe vence série de 7 jogos e disputa título com o Houston  Rockets
 Da Reportagem Local
 O New York Knicks vai decidir o título da temporada 93-94 com o Houston Rockets, campeão da Conferência Oeste. Ganhou do Indiana Pacers por 94 a 90, ontem, e venceu a Conferência Leste.
@@ -1559,9 +1559,9 @@ O time tem outros bons jogadores como Vernon Maxwell, Kenny Smith e Otis Thorpe.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-078</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-078</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 A seleção do Brasil estréia contra o time de Cuba nas quartas-de-final do 12º Campeonato Mundial Feminino de Basquete, em Sydney, Austrália.
 O jogo integra a rodada de amanhã do Mundial mas, devido a diferença no fuso horário, começa às 23h30 de hoje pela hora de Brasília. Mas, o horário do jogo pode ser alterado caso a TV Bandeirantes decida transmitir a partida ao vivo.
@@ -1574,9 +1574,9 @@ As equipes: Brasil - Ruth, Alessandra, Janeth, Hortência e Paula (base), mais Cí
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-079</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-079</field>
+<field name="date">940606</field>
+<text_pt>
 O cantor conta a experiência do show que reuniu os Doces Bárbaros no Royal Albert Hall, na quarta-feira passada
 SÉRGIO MALBERGIER
 De Londres
@@ -1601,23 +1601,23 @@ Ela deixou bem claro já naquela altura, embora tivesse dado dicas importantes pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-080</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-080</field>
+<field name="date">940606</field>
+<text_pt>
 Paolo Gucci, da família dos fabricantes de calçados, achou melhor pagar os US$ 480 mil de pensão alimentícia atrasada para sua ex-mulher, Jennifer Puddefoot Gucci, a ficar ele comendo o trivial da Bronx House of Detention, onde estava preso desde 6 de abril.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-081</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-081</field>
+<field name="date">940606</field>
+<text_pt>
 Spike Lee está sendo acusado de ter colaborado com a derrota do New York Knicks contra o Indiana Pacers, nas semifinais de basquete da NBA. Segundo a imprensa de NY, Reggie Miller, maior responsável pela vitória do Pacers, foi impulsionado pelos xingos de Lee.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-082</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-082</field>
+<field name="date">940606</field>
+<text_pt>
 Compositor reflete sobre a pobreza e critica a obsessão pela geração da riqueza material como valor último
 De Londres
 As Paquitas da Xuxa foram fundamentais para a última composição de Caetano Veloso. Ele estava num estúdio do Rio para gravar uma canção para um projeto argentino de defesa dos direitos humanos.
@@ -1647,9 +1647,9 @@ O que não quero é admitir que minha inteligência esteja submetida a esta superst
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-083</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-083</field>
+<field name="date">940606</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 O teatro russo &#150;não mais soviético, graças a Deus&#150; é um dos que provoca mais curiosidade, hoje no mundo. Até no Brasil. Dois anos atrás, o Festival Internacional de Teatro de Londrina apresentava "Cinzano", a comédia amarga, dolorosa &#150;mas hilariante&#150; de Ludmila Petrushevskaya, uma autora de sucesso na Rússia, hoje.
@@ -1671,9 +1671,9 @@ Quanto: 35 URVs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-084</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-084</field>
+<field name="date">940606</field>
+<text_pt>
 LUÍS ANTÔNIO GIRON
 Enviado especial a Viena
 "Coêl-ho! Coêl-ho! Coêl-ho!"
@@ -1695,9 +1695,9 @@ O jornalista LUÍS ANTÔNIO GIRON viaja à Áustria a convite da agência Austríaca d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-085</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-085</field>
+<field name="date">940606</field>
+<text_pt>
 "Tudo é Verdade", que tem pré-estréia amanhã, foi filmado em 1942, mas ficou mais de 40 anos perdido
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1730,9 +1730,9 @@ Mais que essa idéia, o espantoso do filme é o sentido que Welles dá à verdade. A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-086</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-086</field>
+<field name="date">940606</field>
+<text_pt>
 ANA FRANCISCA PONZIO
 Especial para a Folha
 Por causa dos inúmeros compromissos no exterior, Denise Stoklos não tem se apresentado nos palcos de São Paulo.
@@ -1758,9 +1758,9 @@ Quando: de hoje, às 20h30, até 12 de junho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-087</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-087</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 Gênero que nasceu do encontro da música africana com a européia, desde os anos 20 o jazz persegue o status de erudito.
 Os exemplos desse gênero "crossover" são inúmeros: da "third stream" (fusão do jazz com formas de música clássica) do Modern Jazz Quartet às recentes experiências sinfônicas de Lalo Schiffrin, que o Montreux Jazz Festival promete repetir este ano.
@@ -1776,9 +1776,9 @@ Quanto: 18 URVs (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-088</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-088</field>
+<field name="date">940606</field>
+<text_pt>
 Da Reportagem Local
 Al Jarreau é um dos intérpretes mais populares entre os que há quase duas décadas surfam na onda do jzzz-pop &#150; o subestilo que combina melodias cantáveis com a improvisação jazzística.
 Em "Tenderness", seu novo álbum, o cantor americano exibe a mesma crise de identidade que outros adeptos dessa fusão vem enfrentando (leia texto abaixo).
@@ -1800,9 +1800,9 @@ Quanto: 18 URVs (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-089</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-089</field>
+<field name="date">940606</field>
+<text_pt>
 MARCELO REZENDE
 Da Redação
 Na paisagem exígua da música popular, a jazz se tornou um elemento de renovação. Volta como sucesso ao criar inusitados resultados na sua mistura com o rap.
@@ -1818,9 +1818,9 @@ Quanto: 18 URVs (em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-090</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-090</field>
+<field name="date">940606</field>
+<text_pt>
 Da Sucursal de Brasília e da Reportagem Local
 O presidente Itamar Franco divulgou sábado, através de sua assessoria de imprensa, nota lamentando a morte do paisagista Burle Marx. Ele disse que fica o exemplo do artista para as gerações futuras.
 A nota do presidente, na íntegra, é a seguinte: "O povo brasileiro e o Brasil perdem hoje uma das mais altas expressões do paisagismo contemporâneo. Ao lamentar a perda do grande profissional e artista Burle Marx e apresentar condolências aos seus familiares, resta-nos o conforto de que fica seu exemplo para as próximas gerações da capacidade do brasileiro de transformar seu ofício em atos permanentes de profundo humanismo, de amor à sua arte."
@@ -1836,9 +1836,9 @@ Para ele, o paisagista, que era um cientista "e um grande botânico", era uma esp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-091</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-091</field>
+<field name="date">940606</field>
+<text_pt>
 'Speed' estréia no mercado norte-americano, com Keanu Reeves e Dennis Hopper nos papéis principais
 FERNANDO CANZIAN
 De Nova York
@@ -1858,9 +1858,9 @@ Mas a reação do público nas pré-estréias já teria encorajado a Twentieth Century
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-092</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-092</field>
+<field name="date">940606</field>
+<text_pt>
 De Nova York
 Leia a seguir a entrevista que o ator Dennis Hopper, o vilão de "Speed", concedeu à Folha na última sexta-feira:
 
@@ -1878,9 +1878,9 @@ Hopper - Não sei. A violência atual não tem remorsos. Ninguém aguentava mais o r
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-093</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-093</field>
+<field name="date">940606</field>
+<text_pt>
 Empresário agrega mais 12 emissoras à sua rede Fox
 CARLOS EDUARDO LINS E SILVA
 De Washington
@@ -1900,9 +1900,9 @@ Murdoch iniciou sua carreira de empresário dos meios de comunicação com um jorna
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-094</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-094</field>
+<field name="date">940606</field>
+<text_pt>
 Depois de quatro anos sem se apresentar na cidade, a banda reaparece e promete fazer show empolgante
 HUMBERTO FINATTI
 Free-lance para a Folha
@@ -1934,23 +1934,23 @@ Russo &#150; Eu gostaria que, se o Brasil ganhar, a vitória fosse bonita. Se o B
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-095</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-095</field>
+<field name="date">940606</field>
+<text_pt>
 "Conviver com uma banda é superlegal. Pra mim, é uma das coisas mais importantes da vida. Acho que trabalho é uma coisa muito importante. Eu tive sorte de encontrar não só o Dado e o Bonfá, mas uma equipe que acredita no que a gente faz. Eu acho o Bonfá o mais inteligente da banda, mas ele é mais caseiro. Então fica parecendo que eu sou o mais inteligente, o mais culto. O Dado é o mais sensível. No fim das contas, cada um de nós é uma pessoa, mas pelo fato de a gente ter trabalhado tanto tempo junto, cada um de nós é uma parte do Legião Urbana. Nós temos muitas coisas em comum. E isso é impressionate porque somos três pessoas completamente diferentes." 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-096</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-096</field>
+<field name="date">940606</field>
+<text_pt>
 "A questão principal, eu acho, é você conhecer as pessoas com as quais você se relaciona, e principalmente, você ter um grande respeito pela atitude de cada um em relação a você, por mais absurda que possa parecer essa atitude. Assim: o Bonfá é um marciano (risos), ele não é desse planeta. O Renato não é desse sistema solar e eu acho que sou meio centrado, até. Mas, enfim, acho que essas coisas foram levadas em consideração por cada um e só assim você leva as coisas adiante. Aconteceram diversos episódios no trajeto da banda, momentos de altos e baixos. O que eu acho é que a gente passou por cima. E se essas pessoas não fossem tão legais, acho que a coisa já teria terminado lá pelo meio." 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-097</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-097</field>
+<field name="date">940606</field>
+<text_pt>
 ANTONINA LEMOS
 Da Reportagem Local
 Foi um amigo do colégio quem me apresentou ao Legião Urbana. Li as letras, achei o máximo. Aquele disco de capa branca virou a trilha sonora de 1985. Renato Russo logo virou nosso ídolo.
@@ -1964,9 +1964,9 @@ Renato sempre tratou os fãs como amigos íntimos. E os fãs sempre trataram Renato
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-098</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-098</field>
+<field name="date">940606</field>
+<text_pt>
 
 Especial para a Folha
 Sexo. De novo?! Pra lá e pra cá, cima e embaixo, puxa e traz, idéia fixa. Sem nexo? Sexo novamente, guri, atrapalhando sua concentração. Desta vez, com a mais cristalina de todas as verdades: sexo é porco, imundo e prejudicial à saúde. Perda de tempo. Evite-o!
@@ -1979,9 +1979,9 @@ Me desgrudo, prendo com as mãos seu pescoço, e estrangulo a infeliz criatura até
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-099</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-099</field>
+<field name="date">940606</field>
+<text_pt>
 Nem sei como começar essa carta, bem, talvez elogiando o desempenho de todos aí por publicarem matérias que ajudam os teens. O que mais me impressiona é que os temas abordados são os que geralmente todos omitem. Na maioria das vezes, as coisas polêmicas são as menos discutidas. Um erro, pois gravidez na adolescência é o que mais acontece. Na minha casa aconteceu. Minha irmã ficou grávida. No começo foi barra, pois a família dele não aceitava e ele estava sendo tão pressionado que chegou a "sugerir " o aborto. A casa veio a baixo, pois meu pai sempre a apoiou e segurou toda a barra. Aos poucos o pai da criança foi se acostumando e hoje está assumindo a responsabilidade aos poucos. Ela tem 18 anos e o bebê está com dez dias, lindo e sadio. Todos estão muito felizes e "corujas". Feliz Vida para os nossos bebês!
 Que legal a sua carta, Marianne! Milhões de beijos para sua irmã e para o seu sobrinho. Parabéns.
 
@@ -2001,9 +2001,9 @@ Escreva para o Folhateen: al. Barão de Limeira, 425, 4º andar, São Paulo, SP, CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-100</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-100</field>
+<field name="date">940606</field>
+<text_pt>
 "Fest Valda" acontece esta semana. As eliminatórias serão quarta, quinta e sexta-feira. A finalíssima acontece no sábado. Todos os shows serão às 21h, no Palace. 61 bandas estão participando do festival. Os ingressos estão a Cr$ 7 mil e Cr$ 10 mil (camarote).
 
 O JOGO WAR 
@@ -2024,9 +2024,9 @@ que você ama não precisa ira para o lixo. Existe uma loja especializada em refor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-101</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-101</field>
+<field name="date">940606</field>
+<text_pt>
 ROSELY SAYÃO
 Especial para a Folha
 "Gostaria de saber se quando uma menina se masturba acariciando a vagina, mas sem penetrar o dedo nela, é possível ela continuar virgem. Outra coisa: minha mãe diz que é perigoso usar absorvente interno porque o organismo pode reabsorver o sangue da menstruação. Isso é verdade?"
@@ -2043,9 +2043,9 @@ Se você tem dúvidas sobre sexo escreva para o Folhateen.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-102</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-102</field>
+<field name="date">940606</field>
+<text_pt>
 Especial para a Folha
 Chapéus são aquele eterno fetiche, tanto para homens quanto para mulheres. Todo mundo tem um. Às vezes está guardado porque a gente tem vergonha de usar, mas ele é tão legal que não temos coragem de jogar fora. Coragem. Aproveite o frio e ponho o seu onde deve: na cabeça.
 
@@ -2053,9 +2053,9 @@ ESTELA ALCANTARA, 28, é estilista.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-103</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-103</field>
+<field name="date">940606</field>
+<text_pt>
 Da Redação
 A próxima edição do manual da Fuvest terá uma extensa lista de livros, da qual serão escolhidos de oito a 12 por ano.
 De um ano para outro, entre quatro e seis obras serão trocadas pela lista maior, que reúne cerca de 130 títulos.
@@ -2069,9 +2069,9 @@ OBRAS PARA A FUVEST 95
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-104</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-104</field>
+<field name="date">940606</field>
+<text_pt>
 A crítica e o público nunca concordaram muito quando o assunto é rock nacional.
 O que quer dizer se uma banda é boa? O gosto do público que lota estádios e faz com que as bandas ganhem discos de ouro ou o gosto da crítica, que muitas vezes "detona" a banda?
 Esse descompasso começou a ficar muito nítido a partir de 1985. O rock começou a vender muito no Brasil. Não era o rock americano ou Europeu. Era um rock feito aqui mesmo, por garotos com cara de pirralhos.
@@ -2090,9 +2090,9 @@ Pela primeira vez, parece que público e crítica estão concordando. As músicas do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-105</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-105</field>
+<field name="date">940606</field>
+<text_pt>
 Conheça as diferenças entre o alpinismo tradicional e a escalada em muros artificiais
 RICARDO ROJAS
 Free-lance para a Folha
@@ -2124,9 +2124,9 @@ Paulo Gil, 28, o mais experiente de todos, foi o primeiro a completar a via e re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-106</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-106</field>
+<field name="date">940606</field>
+<text_pt>
 RODRIGO LEITE
 Da Reportagem Local
 O maior desafio que os alpinistas já tiveram &#150;chegar ao pico Everest, no Nepal&#150; foi vencido há 41 anos.
@@ -2149,9 +2149,9 @@ Hillary tinha bons motivos para pensar que o escalpo dava sorte a ele: no seu re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-107</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-107</field>
+<field name="date">940606</field>
+<text_pt>
 PAULO SILVA PINTO
 Da Reportagem Local
 O que você acha da sua herança? Não o dinheiro que os seus pais vão deixar para você, mas o planeta que a humanidade entregou quando você nasceu. Um mundo livre de exploração é o que o oceanógrafo Jacques-Yves Costeau quer.
@@ -2165,9 +2165,9 @@ Quem quiser assinar a Declaração dos Direitos do Homem das Gerações Futuras deve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-108</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-108</field>
+<field name="date">940606</field>
+<text_pt>
 ANDRÉ FORASTIERI
 Especial para a Folha
 Sempre em janeiro saem aquelas previsões para o ano que entra -o que vai sair, que artistas estão preparando o quê e tal. Só que muita coisa sempre muda no meio do caminho. Como a gente está chegando ao meio do ano, é hora de rever os lançamentos vindouros.
@@ -2190,9 +2190,9 @@ ANDRÉ FORASTIERI, 28, é editor da revista "General".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-109</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-109</field>
+<field name="date">940606</field>
+<text_pt>
 KATHY WOLLARD
 É difícil imaginar o tamanho médio de uma estrela. Às vezes é difícil mesmo imaginar o tamanho da Terra. A Terra tem cerca de 40 mil km de diâmetro no Equador.
 Imagine que a Terra fosse toda coberta por uma superfície sólida &#150;isto é, não tivesse oceanos. Você poderia, de carro, andar infinitamente. Se você dirigisse a 80 km/h durante 14 horas diárias, gastaria cinco semanas.
@@ -2207,9 +2207,9 @@ Copyright Los Angeles Times Syndicate.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-110</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-110</field>
+<field name="date">940606</field>
+<text_pt>
 MATINAS SUZUKI JR.
 Editor-executivo
 O futebol vai fazer a sua América. Quando a bola rolar para as quase 70 mil pessoas (presidente Bill Clinton incluído) no estádio Soldier Field, em Chicago, às 16h (Brasília) do dia 17, o maior esporte do século levará seu evento máximo ao país mais rico do planeta.
@@ -2223,9 +2223,9 @@ Veja, nas próximas páginas, como será o caderno Copa 94, a partir do próximo dom
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-111</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-111</field>
+<field name="date">940606</field>
+<text_pt>
 Da Redação
 A Folha publica a partir desta semana os textos dos colunistas que vão participar da cobertura da Copa do Mundo dos EUA.
 Jornalistas, técnicos de futebol e convidados especiais oferecerão ao público informações e análises sobre os jogos do Mundial, apoiados pelos números e estatísticas fornecidos pelo instituto Datafolha.
@@ -2249,9 +2249,9 @@ A Folha também terá a colaboração do jornalista Ruy Castro, autor de "O Anjo Por
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-112</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-112</field>
+<field name="date">940606</field>
+<text_pt>
 Da Redação
 A cobertura da Copa do Mundo na Folha vai mobilizar, além dos 17 enviados especiais, uma equipe de 25 jornalistas em São Paulo.
 A edição ficará a cargo dos jornalistas Melchiades Filho, 26, editor de Esporte, e Marcos Augusto Gonçalves, 38, editor da Revista da Folha.
@@ -2273,9 +2273,9 @@ Com isso, fica abolida a etapa de revelação de filmes. O tempo para transmissão 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-113</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-113</field>
+<field name="date">940606</field>
+<text_pt>
 Da Redação
 Com o Mundial dos EUA, as estatísticas ganham mais importância na cobertura esportiva da Folha. O caderno Copa 94 vai trazer, diariamente nas páginas 2 e 3, os principais números do torneio.
 As estatísticas serão passadas à Redação pelo Datafolha. Pioneiro no país nesse tipo de estudo &#150;adotado pela primeira vez na Copa de 1986 (México)&#150;, o instituto vai acompanhar e quantificar todas as partidas do Mundial televisionadas para o Brasil.
@@ -2291,9 +2291,9 @@ A página 2 vai trazer, ainda, a programação das emissoras de televisão.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940606-114</text_pt>
-<text_pt name="date">940606</text_pt>
-<text_pt name="text">
+<field name="id">FSP940606-114</field>
+<field name="date">940606</field>
+<text_pt>
 
 CALIFÓRNIA
 TEXAS

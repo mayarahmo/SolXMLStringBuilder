@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950701-001</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-001</field>
+<field name="date">950701</field>
+<text_pt>
 Para a Fiesp, a medida é menos ampla que o esperado, mas positiva 
 CUT critica decisão do governo e diz que ela `veta livre negociação' 
 A medida provisória que acaba com reajustes automáticos pela inflação atinge apenas salários. Ela veta definição prévia de qualquer forma de correção salarial, mas autoriza corrigir contratos por índice escolhido pelas partes.
@@ -12,9 +12,9 @@ Para o presidente da Fiesp, Carlos Eduardo Moreira Ferreira, a medida ``é menos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-002</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-002</field>
+<field name="date">950701</field>
+<text_pt>
 O Plano Real começou com uma âncora cambial. Mas o governo prometia, aliás desde antes da nova moeda, chegar o mais rápido possível à âncora fiscal.
 Nem saímos da âncora cambial, nem chegamos à fiscal. A sociedade espera até hoje pelos ajustes decisivos e pelas reformas audaciosas na esfera do setor público. Mas o aniversário do real vai ser mesmo celebrado é com a instituição de uma âncora salarial.
 O sistema financeiro recebeu apenas retoques de maquiagem. Apesar das inúmeras promessas de acabar com a ``zeragem automática", de reformar a indústria de fundos de investimento de curtíssimo prazo ou até mesmo de criar mecanismos de financiamento de longo prazo, na prática quase nada muda. E os outros contratos da economia, como aluguéis ou escolares, continuarão com cláusulas de correção monetária automática anual.
@@ -26,9 +26,9 @@ Sem poder prolongar a âncora cambial, frente a limites cada vez mais gritantes a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-003</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-003</field>
+<field name="date">950701</field>
+<text_pt>
 Ninguém de bom senso negará que parlamentares devem ser bem remunerados. Trata-se de uma atividade essencial pela simples e boa razão de que o Parlamento é um dos fundamentos da democracia.
 Ainda assim, a pressão de um grupo de parlamentares para reajustar seus próprios salários carrega dois vícios insanáveis: peca por inoportuna e pela indigência dos argumentos em favor do aumento.
 Afinal, os congressistas preparam-se para deliberar sobre uma MP que estabelece a livre negociação salarial e ainda prevê que reajustes só possam ocorrer uma vez por ano. Ora, os parlamentares já tiveram o seu reajuste de 1995. E foi expressivo: 95,7% em janeiro.
@@ -39,9 +39,9 @@ A presença em plenário tem sido maciça e as votações andam em ritmo acelerado. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-004</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-004</field>
+<field name="date">950701</field>
+<text_pt>
 Parece claro que a tendência de déficits comerciais é bem mais forte do que as previsões iniciais do governo. Desde o início do ano a expectativa de reequilíbrio da balança comercial tem sido frustrada a cada fim de mês. E, como não é possível manter essa situação deficitária por muito tempo, é necessário privilegiar as importações essenciais.
 Nesse sentido, foi positiva a redução da alíquota de importação de 265 tipos de máquinas e equipamentos sem similar nacional, promovida nesta semana pelo governo. A modernização do parque industrial torna o país mais produtivo e dá às empresas melhores condições de competir no mercado.
 Ainda que a ampla liberalização do comércio deva ser um objetivo sempre presente, a atual situação das contas externas do país impõe limites à entrada maciça de bens de consumo supérfluo.
@@ -50,9 +50,9 @@ Desonerar a importação de máquinas e equipamentos é um importante instrumento de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-005</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-005</field>
+<field name="date">950701</field>
+<text_pt>
 Clóvis Rossi 
 O bom comportamento relativo da inflação neste primeiro ano do real se deveu, essencialmente, à pressão dos importados, tal como o demonstrou esta Folha em texto publicado dias atrás. Sem ela, a inflação ainda estaria na faixa dos três dígitos anuais.
 A pressão dos importados, por sua vez, funciona de duas formas. Uma é consequência da abertura da economia, fenômeno inevitável quando se está condenado a entrar no jogo da globalização. É claro, em todo caso, que se poderia administrar melhor a abertura ou para reduzir o número de vítimas ou para ferir menos as que seriam atingidas de qualquer forma.
@@ -66,9 +66,9 @@ Conclusão: até aqui, o real cuidou de apenas uma perna, a do necessário, e mesmo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-006</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-006</field>
+<field name="date">950701</field>
+<text_pt>
 Gilberto Dimenstein 
  Perguntei ontem ao deputado Roberto Campos como se sentia com anúncio da medida que tenta extinguir a correção monetária, criada no seu tempo de ministro do Planejamento. Brincou: `` Nada tenho a ver com isso. Criei um cavalo alado que, depois, transformaram numa mula".
 O governo vai descobrir, agora, que a mula ainda vai dar muita patada _e, de preferência, com mais força diante da canela de algum ministro. Óbvio que as medidas anunciadas ontem são mais enfáticas (aliás, muitíssimo mais enfáticas) quando enfocam os salários. Na prática, criou-se uma âncora salarial.
@@ -81,9 +81,9 @@ PS _ Na esteira da discussão sobre a proibição do banda mirim Olodum de tocar nu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-007</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-007</field>
+<field name="date">950701</field>
+<text_pt>
 Carlos Heitor Cony 
 Parece que os quadros do PT estão em baixa. Caiu o número de filiados, mas essa queda é boa para o Partido dos Trabalhadores. Provavelmente, o PT está perdendo os intelectuais que agora estão aderindo ao neoliberalismo do governo.
 A única postura que eu entendo, para o intelectual, é a solidão. Ele deve ficar, permanecer e se gratificar por estar sozinho. Como elemento tribal, o indivíduo abdica do diferencial que o torna consumidor ou produtor de inteligência. Vai na onda, pensa e age de acordo com as palavras de ordem que recebe de uma direção central que no fundo o despreza, pois só respeita o poder.
@@ -93,9 +93,9 @@ A respeito de Pilatos: falam muito na bacia em que lavou as mãos _atitude típica
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-008</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-008</field>
+<field name="date">950701</field>
+<text_pt>
 Luciano Mendes de Almeida 
 Realizou-se, de 28 a 30 de junho, em Belo Horizonte, um seminário por uma política de atendimento a crianças e adolescentes portadores de deficiência mental, sensorial e/ou física. Essa iniciativa procura ser instrumento que articule e integre os setores governamentais e não-governamentais que atendem crianças e adolescentes com algum tipo de deficiência. O seminário permitiu também apresentar caminhos concretos para levar à frente os trabalhos, até hoje executados pela Febem, cuja extinção ficou determinada desde 31 de março pela lei 11.819/95.
 No entanto o objetivo maior é de que se estabeleça uma política global de promoção dos direitos da população infanto-juvenil, conforme o ``Estatuto da Criança e do Adolescente". Esse seminário teve o mérito de reunir as várias forças da sociedade, convencidas de que o atendimento aos portadores de deficiência não pode depender de ações isoladas e desarticuladas, mas deve surgir da cooperação de todos: governo e sociedade civil.
@@ -109,9 +109,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-009</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-009</field>
+<field name="date">950701</field>
+<text_pt>
 No Brasil dos escândalos, o sexual é café pequeno; a sociedade absorve os fatos com humor e sem prejuízos 
 LUIZ EDUARDO BORGERTH 
 A Constituição, expressamente em dois artigos, o 5º e 220, garante a plena liberdade de criação e veda ``toda e qualquer censura de natureza política, ideológica e artística". Estabelece, por outro lado, que compete à lei federal ``regular as diversões e espetáculos públicos, cabendo ao Poder Público informar sobre a natureza deles, as faixas etárias a que não se recomendem, locais e horários em que sua apresentação se mostre inadequada".
@@ -129,9 +129,9 @@ LUIZ EDUARDO BORGERTH, 62, é vice-presidente da Associação Brasileira de Emissor
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-010</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-010</field>
+<field name="date">950701</field>
+<text_pt>
 O Estado tem o direito de estipular limites, deve definir o contexto e não o texto dos atos criativos 
 JORGE DA CUNHA LIMA 
 Não tenho notícia de nenhuma civilização que se tenha engrandecido pela censura. Mas também não conheço sociedade que tenha amadurecido a partir da permissividade irresponsável.
@@ -149,9 +149,9 @@ JORGE DA CUNHA LIMA, 62, jornalista e escritor, é presidente da Fundação Padre A
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-011</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-011</field>
+<field name="date">950701</field>
+<text_pt>
 Classificação não implica censura; o direito de o artista exprimir seu talento não é restringido 
 PAULO GOUVÊA DA COSTA 
 O Estatuto da Criança e do Adolescente dispõe que as emissoras ``somente exibirão no horário recomendado para o público infanto-juvenil programas com finalidades educativas, artísticas, culturais e informativas". A quem cabe garantir a eficácia dessa norma?
@@ -167,9 +167,9 @@ PAULO GOUVÊA DA COSTA, 52, mestre em Política Pública Internacional pela Univers
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-012</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-012</field>
+<field name="date">950701</field>
+<text_pt>
 ``É totalmente desprovida de fundamento a matéria publicada pela Folha na edição de 25/6 referente a uma suposta disputa entre o Ministério do Planejamento e o Ministério da Fazenda a respeito dos financiamentos do BNDES. Nenhuma das afirmações ou informações sobre o Ministério do Planejamento é verdadeira. O repórter não procurou o Ministério do Planejamento para conferir o que publicou."
 Inácio Muzzi, coordenador de Comunicação do Ministério do Planejamento (Brasília, DF)
 
@@ -222,9 +222,9 @@ Resposta do jornalista Cláudio Augusto _ Se é descortesia fazer perguntas sobre 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-013</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-013</field>
+<field name="date">950701</field>
+<text_pt>
 Desde que assumiu a presidência da Câmara, Luís Eduardo Magalhães (PFL-BA) tem comandado a Casa de olho em seu futuro político. Para melhorar a imagem da instituição _e a sua_ tem sido determinado ao evitar cenas como o público atirando moedas sobre os deputados. Não hesita em mandar evacuar as galerias ao menos sinal de balbúrdia.
 O estilo disciplinador vem desde a época em que presidiu a Assembléia da Bahia. No cargo, Luís Eduardo resolveu acabar, a qualquer custo, com o barulho da esquerda baiana nas galerias da Assembléia. Numa sessão em que os militantes ameaçavam os deputados estaduais, Luís Eduardo ordenou a um segurança que esvaziasse as galerias.
 A manobra encontrou resistência em uma mulher que, exaltada, recusou-se a sair. O segurança voltou preocupado e narrou o episódio ao presidente, que ordenou:
@@ -234,9 +234,9 @@ _ Tá bem, eu tiro. Mas como fica minha imagem na imprensa?
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-014</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-014</field>
+<field name="date">950701</field>
+<text_pt>
 Governo proíbe que reajustes sejam vinculados a índices de preço 
 MARTA SALOMON
  Da Sucursal de Brasília 
@@ -264,9 +264,9 @@ O objetivo fixado para a desindexação da economia é reduzir a inflação para um d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-015</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-015</field>
+<field name="date">950701</field>
+<text_pt>
 Ministro faz discurso e brincadeiras no anúncio da MP  
 Da Sucursal de Brasília 
 O anúncio das medidas que marcam o início da segunda fase do Plano Real, ontem, reuniu na mesma mesa três auxiliares do presidente Fernando Henrique Cardoso diretamente relacionados aos assuntos em questão.
@@ -286,9 +286,9 @@ Na verdade, essa nova modalidade de aplicação será remunerada pela TR, como a ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-016</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-016</field>
+<field name="date">950701</field>
+<text_pt>
 JANIO DE FREITAS 
 O espetáculo deprimente dado por três ministros e pelo presidente do Banco Central esteve à altura da missão a que se propuseram: explicar o que ora não sabiam, ora não podiam explicar, sob pena de ter que admitir de público que os assalariados, inquilinos, pais de alunos _a grande maioria_ têm todos os motivos para sentir-se inquietos com o que os aguarda.
 O ministro José Serra, vivaldino, fez uma figuração no começo da entrevista ``explicativa", saiu e deixou a bomba com os outros. Ficou tempo suficiente, porém, para deixar uma afirmação que logo estará em xeque: ``A caderneta de poupança não sofrerá nenhum prejuízo, nenhum, nenhum, nenhum". Mas a caderneta foi assunto de interesse menor, suplantada de longe pela justificada persistência dos jornalistas nas regras salariais e nos aluguéis. E aí foi o afundamento dos ministros Pedro Malan e Paulo Paiva e do presidente do BC, Gustavo Loyola.
@@ -300,9 +300,9 @@ O que o governo fez não é desindexação: é o autoritarismo sob a forma de uma med
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-017</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-017</field>
+<field name="date">950701</field>
+<text_pt>
 Governo cria a figura do mediador nas negociações salariais, que terá 30 dias para tentar acordo entre as partes 
 LILIANA LAVORATTI
 SHIRLEY EMERICK 
@@ -330,9 +330,9 @@ O mediador tem 30 dias para fazer a composição. Se não chegar a um acordo, é ins
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-018</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-018</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 O presidente da CUT, Vicente Paulo da Silva, o Vicentinho, disse que a medida provisória (MP) baixada ontem pelo governo ``proíbe a livre negociação".
 Irritado, Vicentinho disse estar ``impressionado". ``O que o governo FHC está fazendo, ao tirar e até mesmo proibir a correção dos salários, nem a ditadura militar teve a coragem de fazer."
@@ -345,9 +345,9 @@ Vicentinho - A tendência é os conflitos trabalhistas aumentarem. Nós já estamos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-019</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-019</field>
+<field name="date">950701</field>
+<text_pt>
 Da Redação 
 A livre negociação de salários obteve apoio de 42% dos entrevistados pelo Datafolha em pesquisa realizada entre os dias 20 e 22 de junho, com 14.562 pessoas em 11 Estados e no Distrito Federal.
 A pesquisa verificou o comportamento da população após a divulgação das linhas gerais da Medida Provisória publicada ontem.
@@ -381,9 +381,9 @@ A coordenação do campo esteve a cargo de Ailton Gobira e Magda Ribeiro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-020</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-020</field>
+<field name="date">950701</field>
+<text_pt>
 Desindexação somente dos salários e negociação direta com cada empresa são criticadas pela oposição 
 LUCIO VAZ RAQUEL ULHÔA 
 Da Sucursal de Brasília 
@@ -402,9 +402,9 @@ Outra alternativa foi apresentada pelo líder do PC do B na Câmara, Aldo Rebelo (
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-021</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-021</field>
+<field name="date">950701</field>
+<text_pt>
 Duas principais centrais divergem 
 CRISTIANE PERINI LUCCHESI
  Da Reportagem Local 
@@ -421,9 +421,9 @@ Eles criticaram também o fato de a MP determinar, nas datas-bases, o desconto de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-022</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-022</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 A economista e deputada federal Maria da Conceição Tavares (PT-RJ) afirmou ontem ser ``uma piada" a medida provisória que trata da desindexação da economia. ``Mais uma vez quem vai pagar são os assalariados", afirmou. A seguir trechos da entrevista.
  
@@ -440,9 +440,9 @@ Conceição - A recessão vai atingir de frente a indústria de calçados, de aliment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-023</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-023</field>
+<field name="date">950701</field>
+<text_pt>
 CARLOS ALBERTO SARDENBERG
 Do enviado especial a Brasília 
 Os membros da equipe econômica mudaram seu discurso e não fazem mais previsões sobre qual será o superávit no comércio externo deste ano.
@@ -459,9 +459,9 @@ Mas o fato de a equipe econômica ter recorrido agora a esse argumento é sinal de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-024</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-024</field>
+<field name="date">950701</field>
+<text_pt>
 Da Redação 
 O IPC-r (Índice de Preços ao Consumidor em real), indexador dos salários na primeira fase do Plano Real, não será mais calculado pelo IBGE (Instituto Brasileiro de Geografia e Estatística).
 Os salários terão, na próxima data-base, o resíduo do IPC-r até junho de 95. A partir do resíduo haverá livre negociação.
@@ -471,9 +471,9 @@ O IBGE continuará medindo outros índices, como o IPCA-E.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-025</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-025</field>
+<field name="date">950701</field>
+<text_pt>
 MÁRCIA DE CHIARA
 Da Reportagem Local 
 Acabar com a correção automática dos salários com base na inflação passada agora é uma questão ``delicadíssima".
@@ -492,9 +492,9 @@ O fato de o governo ter aumentado o redutor da Taxa Referencial, que remunera a 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-026</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-026</field>
+<field name="date">950701</field>
+<text_pt>
 Limite de garantia para a aplicação, em caso de quebra do banco, fica restrito a R$ 5 mil, contra R$ 19.218 atuais 
 Da Sucursal de Brasília 
 O governo reduziu ontem os rendimentos da poupança e baixou, de R$ 19.218 para R$ 5 mil, a garantia oficial aos poupadores em caso de liquidação do banco onde está depositado o dinheiro.
@@ -523,9 +523,9 @@ Como as regras atuais para o crédito impõem limite de três meses para empréstimo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-027</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-027</field>
+<field name="date">950701</field>
+<text_pt>
 Ex-ministro afirma não estar convencido de que o `Brasil não é o México'  
 LUIZ ANTONIO CINTRA
  Da Reportagem Local 
@@ -552,9 +552,9 @@ Simonsen - Não dá para falar em políticas industriais setoriais no Brasil. Isso 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-028</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-028</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 Os únicos passos do governo para a desindexação do mercado financeiro foram a criação de duas novas aplicações _entre elas a poupança vinculada à aquisição de imóveis_ e da TBF (Taxa Básica Financeira), que corrigirá contratos com prazo mínimo de 60 dias.
 O ministro José Serra (Planejamento) e o ex-presidente do Banco Central, Pérsio Arida, defendiam medidas mais radicais. Na última quarta-feira, o ministro Clóvis Carvalho (Casa Civil) disse que o governo ``indicaria o caminho" da desindexação do setor.
@@ -571,9 +571,9 @@ Por enquanto, apenas duas aplicações _criadas ontem_ terão correção pela TBF: o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-029</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-029</field>
+<field name="date">950701</field>
+<text_pt>
 Com fim do IPC-r, novo indexador será o previsto no contrato ou uma média de índices a ser fixada pelo governo 
 Da Sucursal de Brasília 
 Os aluguéis comerciais e residenciais continuarão a ser reajustados em intervalos mínimos de um ano.
@@ -598,9 +598,9 @@ Os contratos anteriores ao Real, que não estavam sujeitos obrigatoriamente ao IP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-030</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-030</field>
+<field name="date">950701</field>
+<text_pt>
 LUÍS NASSIF
  Do Conselho Editorial 
 O anúncio das medidas de desindexação da economia seguiu um estilo visando "desdramatizar decisões econômicas, como tem sido a marca do governo Fernando Henrique Cardoso.
@@ -622,9 +622,9 @@ Se não, no segundo semestre, ao aperto recessivo que se prenuncia, ainda haverá 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-031</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-031</field>
+<field name="date">950701</field>
+<text_pt>
 LILIANA LAVORATTI
 CARI RODRIGUES
 Da Sucursal de Brasília 
@@ -654,9 +654,9 @@ Segundo o diretor da Área Internacional do Banco Central, Gustavo Franco, os con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-032</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-032</field>
+<field name="date">950701</field>
+<text_pt>
 FERNANDO CANZIAN
 Enviado especial a Denver 
 O Brasil vai exigir o fim das restrições à entrada de produtos brasileiros nos EUA como condição para participar da Área de Livre Comércio das Américas (Alca), que poderá reunir 34 países das três Américas a partir de 2005.
@@ -676,9 +676,9 @@ Oficialmente, esta também é a posição dos EUA em relação ao Nafta (que integra o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-033</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-033</field>
+<field name="date">950701</field>
+<text_pt>
 Leia a íntegra das explicações dos ministros Pedro Malan, Paulo Paiva e José Serra e do presidente do Banco Central, Gustavo Loyola:
 
 Ministro Pedro Malan -  É um prazer estar aqui com vocês, dando início a mais uma de várias conversas desse tipo, em que procuramos, desde o início _na verdade, desde junho de 1993_, explicar a direção geral em que pretendíamos caminhar, no esforço de assegurar a estabilização da economia brasileira, com crescimento sustentado e com menor injustiça social.
@@ -707,9 +707,9 @@ Na lei 8.880 foi estabelecido que, a partir do primeiro mês da emissão do real, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-034</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-034</field>
+<field name="date">950701</field>
+<text_pt>
 É desnecessário repetir que, olhando a história do nosso país, nós sabemos que todos os mecanismos de indexação foram utilizados. Todos eles, com a suposição de que poderiam proteger os salários, tiveram como resultado a proteção ao processo de aceleração inflacionária e, consequentemente, à redução do valor real dos salários.
 O outro aspecto que eu gostaria de salientar, esse sim inovador no caso do Brasil, é a criação do mecanismo de mediação no processo da livre negociação, na eventualidade de se frustrar a negociação da instauração do dissídio. A idéia da mediação é estimular e organizar as negociações e permitir aos segmentos _e particularmente aos sindicatos que por alguma eventualidade sintam necessidade de um amparo para manter o equilíbrio da negociação_ poder recorrer a ela.
 Uma vez frustrada a negociação, o mediador pode ser escolhido em comum acordo entre as partes. Na eventualidade de não se encontrar esse acordo, o Ministério do Trabalho indicará um mediador para essa fase. A fase de mediação é uma fase obrigatória para a instalação do dissídio. No processo do dissídio, o esforço é no sentido de estimular as partes a apresentarem as suas ofertas finais. A Justiça do Trabalho, cujo papel nas negociações coletivas neste país tem se mostrado da maior importância e da maior eficiência, continuará tendo essa função; função, neste momento, indispensável e importante do ponto de vista de auxiliar na consolidação da liberdade na área de relações do trabalho no país.
@@ -724,9 +724,9 @@ Então, essa, em linhas gerais, é a resolução do conselho que trata do cálculo da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-035</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-035</field>
+<field name="date">950701</field>
+<text_pt>
 das instituições financeiras. Apenas é agregada e extraída uma média pelo Banco Central, de acordo com uma fórmula que está aí na resolução.
 A segunda medida do Conselho Monetário é a permissão aos bancos de captarem os chamados depósitos a prazos de reaplicação automática. Esses depósitos serão remunerados pela Taxa Básica Financeira, podendo a instituição financeira pagar prêmio adicional a essa taxa. Esses depósitos terão prazo de 90 dias, ou seja, será a remuneração também creditada nesse prazo de 90 dias. A remuneração vai se dar com base num menor saldo da aplicação em cada período de 90 dias. Esses depósitos a prazo, como qualquer depósito a prazo, não podem ser movimentados por cheque. Vale dizer que esse depósito a prazo terá o mesmo tratamento tributário das demais aplicações financeiras, ou seja, estará sujeito ao Imposto de Renda e à alíquota de 10% sobre o rendimento nominal. Por outro lado, numa circular do Banco Central que deve ser divulgada hoje, fica estabelecido que esses depósitos a prazo terão um recolhimento compulsório de 30% em títulos federais, mais o recolhimento compulsório relacionado aos ganhos que a instituição financeira tenha caso o depositante saque os seus depósitos antes de completar o prazo de 90 dias. Então, existem dois componentes nesse depósito compulsório.
 A terceira resolução do Conselho Monetário cria uma nova modalidade de caderneta de poupança. É a caderneta de poupança vinculada, em que, basicamente, os depósitos estão vinculados à aquisição de imóvel residencial, ou à construção de imóvel residencial. Essa matéria sofrerá regulamentação pelo Banco Central nos próximos dias, ouvindo o Banco Central os membros da Comoc (Comissão de Moeda de Crédito), ou seja, o Ministério do Planejamento e o Ministério da Fazenda.
@@ -752,9 +752,9 @@ Eram apenas esses acréscimos ou exposições que eu gostaria de fazer às exposiçõe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-036</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-036</field>
+<field name="date">950701</field>
+<text_pt>
 Esta é a íntegra da exposição de motivos do governo:
 
 Excelentíssimo senhor presidente da República.
@@ -778,9 +778,9 @@ Paralelamente, nas obrigações e contratos em que haja previsão de reajuste pelo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-037</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-037</field>
+<field name="date">950701</field>
+<text_pt>
 No que tange ao mercado de trabalho, o principal desafio dos próximos anos é a necessidade de geração de empregos. Mudanças tecnológicas e na organização do trabalho, em ambiente de maior integração competitiva da nossa economia, requerem maior espaço para negociações trabalhistas e maior liberdade e autonomia sindicais.
 A ampliação do escopo da livre negociação coletiva entre empregados e empregadores e o estímulo à participação dos trabalhadores nos resultados das empresas são fatores essenciais para consolidar a liberdade no mercado de trabalho. A experiência brasileira já mostrou à saciedade que ganhos reais de salários não são garantidos através do processo de indexação. Ao contrário, a estabilidade monetária, a demanda por mão-de-obra, o aumento da produtividade e o fortalecimento do ambiente de negociações são condições necessárias para assegurar ganhos reais de salários. São estas as condições que o projeto de medida provisória visa estabelecer.
 De um lado, é estabelecida livre negociação coletiva como regra geral para a determinação dos salários e demais condições de trabalho. De outro, no contexto de uma fase de transição, garante-se a incorporação da variação do IPC-r acumulada entre a última data base e o mês de junho de 1995, inclusive.
@@ -810,9 +810,9 @@ Ministro de Estado da Previdência e Assistência Social
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-038</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-038</field>
+<field name="date">950701</field>
+<text_pt>
 Leia a íntegra da medida provisória divulgada ontem pelo governo:
 
 Medida provisória nº , de de de 1995.
@@ -862,9 +862,9 @@ Brasília, de de 1995; 174º da Independência e 107º da República.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-039</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-039</field>
+<field name="date">950701</field>
+<text_pt>
 Estas são as íntegras das resoluções do CMN:
 
 Resolução nº ...
@@ -961,9 +961,9 @@ Presidente
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-040</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-040</field>
+<field name="date">950701</field>
+<text_pt>
 Resolução nº
 Faculta a captação de recursos externos para repasses destinados a financiar a construção ou a aquisição de imóveis.
 O Banco Central do Brasil, na forma do art. 9º da lei nº 4.595, de 31.12.64, torna público que o Conselho Monetário Nacional, em sessão realizada em , tendo em vista as disposições dos arts. 4º, incisos VI e XXXI, da mencionada lei, e 2º, inciso V, do decreto-lei nº 857, de 11.09.69,
@@ -1064,9 +1064,9 @@ Diretor de Política Monetária
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-041</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-041</field>
+<field name="date">950701</field>
+<text_pt>
 Deputado e economista afirma que processo deve ser gradual para poupança, porque afeta nível de investimento 
 RITA FERNANDES 
 Da Sucursal do Rio 
@@ -1089,9 +1089,9 @@ E também os contribuintes podem sofrer uma tributação adicional, se aumenta a su
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-042</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-042</field>
+<field name="date">950701</field>
+<text_pt>
 Carlos Eduardo Moreira Ferreira, presidente da Fiesp (Federação das Indústrias do Estado de São Paulo): ``A MP da desindexação é menos ampla do que se esperava, mas positiva. Um dos pontos mais positivos é o fim da concessão do índice de produtividade pelos tribunais. A partir de agora, o índice será estimado objetivamente pela empresa. Empresas que dão prejuízo não serão obrigadas a conceder o índice a seus empregados. Também acho muito interessante a criação da figura do mediador para acertar divergências entre empresários e trabalhadores".
 
 Paulo Maluf (PPR), prefeito de São Paulo: ``Vejo as medidas como corretas. É verdade que a indexação servia também como uma barreira à hiperinflação, mas agora, com a inflação contida, já podemos passar para o segundo estágio do Plano Real, que é a desindexação. A indexação não existe em nenhum país desenvolvido. Na economia desindexada, o mercado é mais forte que o governo".
@@ -1170,9 +1170,9 @@ Aloizio Mercadante, vice-presidente do PT: ``Os assalariados vão pagar a conta a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-043</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-043</field>
+<field name="date">950701</field>
+<text_pt>
 Presidente cede a pressão de Adib Jatene e promete lutar para criar taxação sobre cheque para financiar setor 
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso comprometeu-se ontem, diante de secretários estaduais de Saúde e do ministro Adib Jatene (Saúde), a se empenhar pela volta do IPMF (Imposto Provisório sobre Movimentações Financeiras), o imposto sobre cheque, para financiar o setor.
@@ -1189,9 +1189,9 @@ O encontro com Jatene teve um momento descontraído. FHC posou, a pedido dos fotó
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-044</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-044</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 O ministro do Planejamento, José Serra, divulgou nota na qual afirma que não se opõe à volta do IPMF ``caso nenhuma outra possibilidade eficaz seja encontrada".
 Segundo a nota, o ministro determinou ao Ipea (Instituto de Pesquisas Econômicas Aplicadas) que estude outras alternativas de financiamento para a saúde que não exijam mudanças constitucionais.
@@ -1205,9 +1205,9 @@ Diz a nota: ``A convicção deste ministério é que a luta pela estabilidade de pre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-045</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-045</field>
+<field name="date">950701</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local 
 A cena é conhecida. Tanto que o ministro da Fazenda anunciou, como quem distribui os papéis de uma velha peça, para um elenco cansado:
@@ -1229,9 +1229,9 @@ Cena conhecida, que seguiu depois com o ministro ao vivo, nos telejornais. Cena 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-046</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-046</field>
+<field name="date">950701</field>
+<text_pt>
 BRUNO BLECHER
 Editor do Agrofolha 
 Cansado das chantagens da bancada ruralista, o presidente Fernando Henrique decidiu abrir um novo canal de negociação com o setor agrícola. Ontem pela manhã, FHC recebeu em seu gabinete 14 lideranças rurais, entre presidentes de cooperativas, sindicatos e empresas do agrobusiness.
@@ -1245,9 +1245,9 @@ Colaborou WILLIAM FRANÇA, da Sucursal de Brasília
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-047</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-047</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 O ministro Nelson Jobim (Justiça) afirmou ontem que a reforma tributária poderá começar a ser implantada ainda em 1995.
 Segundo ele, por envolverem a aglutinação de vários tipos de impostos -e não a criação de novos tributos ou alíquotas-, as medidas a serem sugeridas pelo governo Fernando Henrique Cardoso não ferem o princípio da anualidade (pela qual novos tributos podem ser aplicados apenas no ano seguinte à sua edição).
@@ -1256,9 +1256,9 @@ Segundo o ministro, durante as discussões sobre a reforma tributária, o governo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-048</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-048</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 O senador Gilberto Miranda (PMDB-AM), ex-relator do projeto Sivam (Sistema de Vigilância da Amazônia) no Senado, disse que o contrato assinado em 27 de maio entre o governo e a empresa norte-americana Raytheon Company para a compra dos equipamentos do projeto é irregular.
 Miranda fez a afirmação anteontem. Ele disse que as resoluções aprovadas pelo Senado autorizaram o governo a gastar R$ 1,035 bilhão com os equipamentos, mas o contrato assinado prevê uma despesa de R$ 1,285 bilhão.
@@ -1268,9 +1268,9 @@ Ele leu no plenário do Senado carta dirigida ao presidente Fernando Henrique Car
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-049</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-049</field>
+<field name="date">950701</field>
+<text_pt>
 CLÁUDIA TREVISAN
 Da Reportagem Local 
 A primeira-dama, Ruth Cardoso, defendeu ontem a destinação de mais recursos para a saúde, mas disse que o Congresso é que deve deve decidir sobre as formas de financiamento do setor.
@@ -1283,9 +1283,9 @@ Em nenhum momento da solenidade Ruth foi chamada de primeira-dama _expressão que
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-050</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-050</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 O presidente da CNBB (Conferência Nacional dos Bispos do Brasil), d. Lucas Moreira Neves, 70, disse ontem que é contra o sincretismo (fusão de elementos culturais) do catolicismo e religiões não-cristãs e defendeu a limitação de cenas de sexo na televisão.
 ``O sincretismo, pastoralmente falando, não é uma opção válida", disse. Na quarta-feira à noite, o grupo Olodum quase foi impedido pelo arcebispo de Brasília, d. José Freire Falcão, de se apresentar no no santuário Dom Bosco.
@@ -1302,9 +1302,9 @@ No mesmo período, esteve duas vezes no Vaticano e convidou formalmente o papa pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-051</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-051</field>
+<field name="date">950701</field>
+<text_pt>
 ISNAR TELES e RAIMUNDO DE OLIVEIRA
 Da Folha Vale 
 Os presos da Penitenciária 1, de Tremembé (135 km a nordeste de SP), ameaçam promover uma nova rebelião, caso não seja liberado o horário de visitas hoje e amanhã.
@@ -1320,9 +1320,9 @@ A rebelião, que durou 132 horas e 45 minutos, foi controlada anteontem pela PM. 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-052</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-052</field>
+<field name="date">950701</field>
+<text_pt>
  As pessoas obesas terão carteirinha especial para não passar pelas catracas dos ônibus em São Paulo. O documento não isenta o pagamento da tarifa, que continuará a ser cobrado normalmente. A lei que cria a carteirinha foi publicada na última quinta-feira no Diário Oficial e diz que ``o cidadão obeso é todo aquele que não consegue passar pela roleta dos ônibus por motivo de sua gordura". A prefeitura tem 58 dias para regulamentar a lei.
 
 Vítima de tiroteio quer processar shopping
@@ -1330,9 +1330,9 @@ Vítima de tiroteio quer processar shopping
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-053</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-053</field>
+<field name="date">950701</field>
+<text_pt>
 CARLOS MAGNO DE NARDI
 Da Reportagem Local 
 A direção da Fundação Seade (Sistema Estadual de Análise de Dados) decidiu iniciar na próxima semana seu plano de corte de pessoal.
@@ -1350,9 +1350,9 @@ O secretário André Franco Montoro Filho (Planejamento), a quem o Seade está atre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-054</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-054</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 A Justiça Federal reviu ontem a decisão de suspender a campanha publicitária sobre o aniversário da moeda.
 Como a decisão só saiu às 21h30, quando não havia mais tempo de retomar a programação normal das emissoras de TV e rádio, a campanha só volta na segunda-feira.
@@ -1367,9 +1367,9 @@ Três filmetes preparados para a TV serão veiculados até o dia 8. O primeiro, no 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-055</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-055</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 O governo não interferiu nas regras do crediário e de empréstimos bancários.
 A mudança no cálculo da TR (Taxa Referencial) reduz em 0,2 ponto percentual a correção das dívidas atreladas a esta taxa.
@@ -1381,9 +1381,9 @@ Como as regras atuais para o crédito impõem limite de três meses para empréstimo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-056</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-056</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília 
 A correção monetária foi criada em 1964 para permitir que o governo se financiasse sem emissão de moeda, mas acabou se transformando em verdadeiro vício da economia brasileira.
 Ela era o principal item da política econômica do governo Castello Branco, o primeiro depois do movimento militar que derrubou João Goulart no mesmo ano.
@@ -1403,9 +1403,9 @@ Ao explicar as razões da nova MP, os ministros da área econômica do governo FHC 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-057</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-057</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal de Brasília
 A substituição do IPC-r (Índice de Preços ao Consumidor em real) para aluguéis e contratos em geral vai exigir que se calcule um percentual composto por dois índices no próximo reajuste anual. 
 A correção monetária referente ao período anterior a julho de 1995 deverá ser calculada com base no IPC-r. 
@@ -1422,9 +1422,9 @@ Esses índices serão calculados respectivamente pelo IBGE (Instituto Brasileiro d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-058</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-058</field>
+<field name="date">950701</field>
+<text_pt>
 Expectativa de inflação zero dá margem a contestação, diz Ives Gandra; Octávio Bueno prevê reação de juízes 
 Da Reportagem Local 
 O advogado Ives Gandra da Silva Martins, professor emérito das universidades Mackenzie e Paulista, previu que as medidas adotadas pelo governo ``dão margem a um festival de ações jurídicas".
@@ -1446,9 +1446,9 @@ Manoel Gonçalves Ferreira Filho, professor de direito constitucional da USP, con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-059</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-059</field>
+<field name="date">950701</field>
+<text_pt>
 Roberto Campos, economista e deputado federal (PPR-RJ): ``Eu acho que o movimento de desindexação é saudável e oportuno. A desindexação de salários aumenta a flexibilidade da mão-de-obra e isso favorece o nível de emprego. Havia uma grande ilusão de se imaginar que a indexação é efetiva proteção para os salários. Na realidade, criava rigidez na estrutura salarial e era fator indutor do desemprego".
 
 Claudio Adilson Gonçalez, sócio da empresa de consultoria MCM: ``Se eu estivesse no governo, não faria isso agora. Do ponto vista político, o governo pode não conseguir aprovar a medida provisória da desindexação no Congresso Nacional, porque em julho a inflação deve atingir o pico".
@@ -1536,17 +1536,17 @@ Paulo César Farias, o PC, empresário e ex-tesoureiro da campanha do ex-president
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-060</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-060</field>
+<field name="date">950701</field>
+<text_pt>
 Da Agência Folha 
 Os deputados estaduais do Acre aprovaram na terça-feira um projeto que elevou seus salários em mais de 120%. A partir deste mês, o salário líquido de um deputado, que era de cerca de R$ 4,5 mil, passa a quase R$ 10 mil. A oposição (PT e PC do B) votou contra.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-061</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-061</field>
+<field name="date">950701</field>
+<text_pt>
 O deputado estadual Cesar Callegari (PMDB), da comissão de Cultura da Assembléia Legislativa, enviou um pedido de explicações ao secretário de Estado da Cultura, Marcos Mendonça, sobre contratações de assessores em seu gabinete. Ele contratou via Memorial da América Latina quatro assessores extras.
 
 Fundação Seade fará corte de funcionários
@@ -1566,30 +1566,30 @@ Os obesos terão carteirinha especial para não passar por catracas de ônibus em S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-062</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-062</field>
+<field name="date">950701</field>
+<text_pt>
 Quase 10 mil manifestantes bloquearam ontem o acesso à capital do Taiti, Papeete, em protesto contra a retomada dos testes nucleares franceses no atol de Mururoa (oceano Pacífico). Centenas de taitianos tiveram que ir a pé ou de barco para o trabalho. Anteontem, chegou ao Taiti o navio Rainbow Warrior 2º, do Greenpeace, que segue para o atol de Mururoa.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-063</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-063</field>
+<field name="date">950701</field>
+<text_pt>
 O número de mortos por causa do desabamento da loja Sampoong, em Seul (capital da Coréia do Sul), chegou ontem a 97. Os desaparecidos são 246 e pelo menos 918 pessoas ficaram feridas. Sete executivos da empresa foram detidos para interrogatório. Segundo a polícia, eles sabiam da má conservação do prédio. A Prefeitura de Seul disse que o prédio caiu porque foi mal construído.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-064</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-064</field>
+<field name="date">950701</field>
+<text_pt>
 O líder da Organização para a Libertação da Palestina, Iasser Arafat, e o chanceler de Israel, Shimon Peres, se encontram hoje, na última tentativa de chegarem a um acordo dentro do prazo estabelecido para negociação da autonomia palestina na Cisjordânia (ocupada por Israel). Ontem, prisioneiros palestinos encerraram greve de fome que faziam pela liberdade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-065</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-065</field>
+<field name="date">950701</field>
+<text_pt>
 Uma estátua de Ave Maria (foto) foi colocada na frente da casa de um holandês, na cidade de Brunssum (sul da Holanda). A estátua, de 30 cm de altura, começou na semana passada a verter um líquido vermelho do olho esquerdo, que seu dono diz ser sangue.
 
 González faz trocas em seu gabinete
@@ -1613,9 +1613,9 @@ A Suprema Corte tcheca absolveu o escultor Pavel Opocensky, acusado de matar "sk
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-066</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-066</field>
+<field name="date">950701</field>
+<text_pt>
 Governo sudanês diz temer invasão do Egito, após conflitos na fronteira entre os dois países
 Das agências internacionais
 O governo do Sudão anunciou ontem que vai armar sua população para enfrentar uma eventual invasão de tropas do Egito.
@@ -1634,9 +1634,9 @@ Além disso, os egípcios contam com uma ajuda anual de US$ 1 bilhão dos EUA desde
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-067</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-067</field>
+<field name="date">950701</field>
+<text_pt>
 Das agências internacionais
 O presidente da Rússia, Boris Ieltsin, aceitou ontem a demissão do ministro do Interior, Victor Ierin, do ministro da Segurança, Serguei Stepachin, e do vice-primeiro-ministro Nicolai Iegorov. Ieltsin negou a demissão do ministro da Defesa, Pavel Gratchev.
 Os quatro são os principais ministros do gabinete do premiê Viktor Tchernomirdin e tinham oferecido seus cargos na quarta. A demissão dos ministros deve facilitar a manutenção de Tchernomirdin.
@@ -1649,9 +1649,9 @@ O vice-presidente dos EUA, Al Gore, em reunião com Tchernomirdin em Moscou, não 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-068</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-068</field>
+<field name="date">950701</field>
+<text_pt>
 Das agências internacionais
 O governo da Bósnia passou a boicotar o enviado especial da ONU para a região, Yasushi Akashi. ``Deixamos de falar com ele. Para nós, ele deixou de existir", disse o ministro Hasan Muratovic, responsável pela relação do governo com as Nações Unidas.
 Muratovic acusou o japonês Akashi de privilegiar os sérvios da Bósnia. O porta-voz da ONU, Philip Arnold, não quis comentar.
@@ -1665,9 +1665,9 @@ Os sérvios tomaram reféns militares da ONU depois que a Otan ( a aliança militar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-069</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-069</field>
+<field name="date">950701</field>
+<text_pt>
 FLAVIO CASTELLOTTI
 Da Cidade do México
 O capitão do Exército brasileiro Rui Matsuda foi liberado anteontem às 18h30 pelos camponeses ligados à PAC (Patrulha de Autodefesa Civil), que o mantiveram como refém durante 30 horas.
@@ -1686,16 +1686,16 @@ A tomada dos reféns "foi uma ação abusiva", disse à Folha Sérgio Damasceno Vieir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-070</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-070</field>
+<field name="date">950701</field>
+<text_pt>
 Os dados do INCC (Índice Nacional de Custo da Construção), do IPA (Índice de Preços por Atacado) e do IPC (Índice de Preços ao Consumidor) publicados nas edições de 1 e 3/7 na seção "Indicadores Econômicos" do caderno Dinheiro e na seção "Roteiro de Índices" do caderno Finanças do dia 2/7 se referiam ao IGP-M de junho e não ao IGP do mesmo mês. Os demais dados da série ali publicada são do IGP.ERRAMOS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-071</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-071</field>
+<field name="date">950701</field>
+<text_pt>
 Correção do valor da moeda norte-americana será lenta; mercado futuro fecha com queda
 Da Redação
 Com dois leilões, o Banco Central (BC) puxou, pela primeira vez, as cotações do dólar dentro da nova ``banda" (limites máximo e mínimo para a variação do preço do dólar). O BC comprou a R$ 0,919 e vendeu a R$ 0,923.
@@ -1717,9 +1717,9 @@ sobre o mercado financeiro na pág. 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-072</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-072</field>
+<field name="date">950701</field>
+<text_pt>
 CLAUDIO DE MOURA CASTRO
 Em plena efervescência da perestroika, o vice-ministro do Trabalho da Rússia comunicou-me que estava por resolver o problema do financiamento da formação profissional. Ia passar a conta para as empresas. Quem quisesse treinamento que pagasse. Perplexo, só me ocorreu dizer-lhe que seu êxito nessa política teria a vantagem adicional de trazer divisas de turismo para o país, na forma de uma grande peregrinação internacional para ver o único país onde essa política teria dado certo.
 Fala-se hoje no Brasil em repetir o que a Rússia pensou em fazer, no seu entusiasmo de cristão-novo no capitalismo. Pode ser uma política maravilhosa. Contudo, se nenhum país industrial nem sequer tentou transferir a conta do treinamento industrial para pagamentos voluntários das empresas, é caso de pensar melhor.
@@ -1740,45 +1740,45 @@ CLAUDIO DE MOURA CASTRO, 55, doutor em economia pela Universidade de Vanderbilt 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-073</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-073</field>
+<field name="date">950701</field>
+<text_pt>
 O custo médio da cesta básica recuou 0,28% em junho na cidade de São Paulo. A compra dos 31 produtos passou a custar, ontem, R$ 100,78. No final de maio, o custo médio era de R$ 101,06. Os dados são da pesquisa feita em 70 supermercados pelo Procon, em convênio com o Dieese.
 Os alimentos registraram queda de 0,75% e foram os principais responsáveis pela baixa do custo médio no mês. Os produtos de higiene pessoal e os de limpeza aumentaram 2,29% e 1,11%, respectivamente, no período. No primeiro ano do Plano Real, a cesta registrou queda de 5,28%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-074</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-074</field>
+<field name="date">950701</field>
+<text_pt>
 Do total de 9.954 apartamentos colocados à venda na cidade de São Paulo em maio, 1.451 foram negociados (14,6%). Os apartamentos de dois e três dormitórios apresentaram vendas superiores à média, com 17% e 14,7%, respectivamente. Os apartamentos de um dormitório tiveram 29,1% das unidades negociadas. Os dados foram divulgados pelo Secovi (sindicato da habitação).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-075</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-075</field>
+<field name="date">950701</field>
+<text_pt>
 O consumo de alimentos na região metropolitana de São Paulo cresceu 31,2% em maio, comparado com o mesmo período do ano passado. Em relação ao mês anterior, o consumo caiu 1,39%. Este é o resultado do ICA (Índice de Consumo de Alimentos), divulgado pela FCESP (Federação do Comércio do Estado de São Paulo). De janeiro a maio deste ano, o consumo cresceu 25,39%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-076</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-076</field>
+<field name="date">950701</field>
+<text_pt>
 O movimento de carga aérea somou 36,9 mil toneladas em abril (importação e exportação). Esse volume mostra queda de 13,8% sobre as 42,8 mil toneladas transportadas em março. Os dados são da Infraero (Empresa Brasileira de Infra-Estrutura Aeroportuária).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-077</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-077</field>
+<field name="date">950701</field>
+<text_pt>
 O mercado de trabalho na região metropolitana de Porto Alegre recuou 0,1% em maio no total de ocupados, o que corresponde a 2.000 postos de trabalho a menos. A queda deve-se ao setor da construção civil, que demitiu 6.000 empregados, segundo o Dieese.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-078</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-078</field>
+<field name="date">950701</field>
+<text_pt>
 Das agências internacionais
 O ministro argentino da Economia, Domingo Cavallo, disse ontem que o país não vai precisar de novos créditos até o próximo ano.
 ``Já temos o dinheiro necessário para o pagamento dos serviços da dívida interna e externa até meados do próximo ano", disse Cavallo, que participa, em Denver, de um encontro entre ministros do Comércio dos países americanos.
@@ -1790,9 +1790,9 @@ A ameaça brasileira de impor um sistema de cotas para a importação de veículos a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-079</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-079</field>
+<field name="date">950701</field>
+<text_pt>
 FRANCISCA RODRIGUES
 Da Reportagem Local
 Os preços nos supermercados de São Paulo caíram 0,16%, em média, em junho. Nos hipermercados, os preços tiveram alta de 1,26% no mesmo período.
@@ -1802,9 +1802,9 @@ A pesquisa da cesta básica feita pelo Datafolha registrou queda de 3,66% em junh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-080</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-080</field>
+<field name="date">950701</field>
+<text_pt>
 A previsão é de concessionários da rede Volkswagen
 ARTHUR PEREIRA FILHO
 Da Reportagem Local
@@ -1823,9 +1823,9 @@ Os concessionários pedem à fábrica a restituição de R$ 90 milhões que a Fiat man
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-081</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-081</field>
+<field name="date">950701</field>
+<text_pt>
 Da Sucursal do Rio
 A Associação Comercial do Rio e o sistema Telecheque lançam hoje uma campanha que visa reabilitar os emitentes de cheques sem fundos. As dívidas dos clientes serão renegociadas em um prazo de até três meses.
 No primeiro semestre deste ano, em relação a igual período de 1994, houve um aumento de 84,52% no número de clientes que tiveram o cheque rejeitado como forma de pagamento, devido a débitos anteriores.
@@ -1835,9 +1835,9 @@ O número de cheques consultados nos seis meses deste ano foi de 3,5 milhões, um 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-082</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-082</field>
+<field name="date">950701</field>
+<text_pt>
 Expectativa é de queda de ritmo de atividade da economia; governo retira dinheiro do mercado com leilões de títulos
 Da Redação
 O governo realizou ontem uma série de leilões de títulos públicos, retirando dinheiro de circulação da economia.
@@ -1884,9 +1884,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-083</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-083</field>
+<field name="date">950701</field>
+<text_pt>
 A previsão é de concessionários da rede Volkswagen
 ARTHUR PEREIRA FILHO
 Da Reportagem Local
@@ -1906,9 +1906,9 @@ Colaborou a Sucursal do Rio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-084</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-084</field>
+<field name="date">950701</field>
+<text_pt>
 Expectativa é de queda de ritmo de atividade da economia; governo retira dinheiro do mercado com leilões de títulos
 Da Redação
 O governo realizou ontem uma série de leilões de títulos públicos, retirando dinheiro de circulação da economia.
@@ -1955,9 +1955,9 @@ No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros par
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-085</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-085</field>
+<field name="date">950701</field>
+<text_pt>
 A manicure Joselina da Silva, a Jô, que já foi uma das mulheres mais gordas do Brasil e está com 150 kg, vai ser operada hoje no Hospital Modelo de Sorocaba (SP). Segundo o cirurgião plástico José Mendes Junior, ela fará uma cirurgia vascular nas pernas para retirar varizes, perdendo 5 kg. Segundo ele, Jô vai andar com maior facilidade.
 
 Lei que obriga ensino de espanhol é aprovada 
@@ -1965,9 +1965,9 @@ O prefeito Paulo Maluf sancionou anteontem a lei que obriga o ensino de espanhol
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-086</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-086</field>
+<field name="date">950701</field>
+<text_pt>
 Classe média invade boates de região antes reservada a prostitutas do centro de São Paulo 
 ANTONIO ROCHA FILHO 
 Da Reportagem Local
@@ -1987,9 +1987,9 @@ Seguranças revistam todos. Na porta há um detetor de metal. ``É para evitar que 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-087</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-087</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local e do NP 
 Um grupo de oito amigos, todos moradores de bairros de classe média alta como Campo Belo (zona sul) e Perdizes (zona oeste), costuma passar os fins de noite em boates da ``boca do lixo" nos finais de semana.
 No último dia 23, após passarem pelo bar Lanterna, na Vila Madalena, foram para o Vagão Plaza. Eles são clientes da casa.
@@ -2002,9 +2002,9 @@ O nissei C.M. 24, que estava em outro grupo, chegou de manhã do Japão e à noite 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-088</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-088</field>
+<field name="date">950701</field>
+<text_pt>
 Tendência é aplicar a pena privativa de liberdade só aos crimes mais graves 
 EUNICE NUNES 
 Especial para a Folha 
@@ -2026,9 +2026,9 @@ Todas as medidas dependem de fiscalização para serem eficazes.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-089</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-089</field>
+<field name="date">950701</field>
+<text_pt>
 Especial para a Folha 
 O 9º Congresso da ONU (Organização das Nações Unidas) para Prevenção do Crime teve a participação de 160 países. O evento é realizado de cinco em cinco anos.
 Durante 14 dias, os 1.600 delegados presentes estudaram formas que permitam ampliar a cooperação com os países em desenvolvimento e em transição, mediante o estabelecimento de alianças estratégicas quanto à prevenção do delito.
@@ -2040,9 +2040,9 @@ A gestão e aperfeiçoamento da polícia e demais órgãos encarregados do cumpriment
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-090</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-090</field>
+<field name="date">950701</field>
+<text_pt>
 Irene Batista Muakadi mora no bairro de Santa Cecília (centro), mas pediu ligação de água à Sabesp para a rua Direitos Humanos, no Imirim (zona norte).
 Ela explica que gostaria de alugar o imóvel no Imirim, mas afirma que aguarda pela ligação de água desde setembro de 94. Segundo Irene, o pedido já foi vistoriado e aprovado pela regional de Santana da Sabesp. ``O serviço não foi executado e eu não consigo entender por que tanta demora", diz ela.
 
@@ -2054,9 +2054,9 @@ Cartas para ``A Cidade é Sua" devem ser enviadas para a Editoria de Cidades, Red
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-091</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-091</field>
+<field name="date">950701</field>
+<text_pt>
 ANTONIO JURANDIR PINOTI 
 São Paulo e Rio de Janeiro estão entregues a uma bilateral delinquência _a dos criminosos comuns e a dos policiais criminosos. De permeio, dezenas de inocentes são brutalmente sacrificados.
 A Folha de 16 de março de 95 noticiou que a Polícia Militar paulistana admitiu ter matado 136 civis nos dois primeiros meses do ano. Imagens da "Rede Globo de 4 de março de 95 mostram um assaltante rendido ser covardemente executado a tiros por um policial no Rio de Janeiro. No dia 8 de fevereiro de 95, a polícia carioca matou 14 pessoas na favela Nova Brasília. Segundo editorial da Folha de 10 de fevereiro, favelados testemunharam que os supostos traficantes haviam sido executados. As palavras dessas pessoas devem ser levadas a sério, mesmo porque dois cadáveres tinham suas mãos amarradas e os corpos foram retirados do local antes que se fizesse uma perícia.
@@ -2073,9 +2073,9 @@ ANTONIO JURANDIR PINOTI, 46, é juiz de Direito em São Paulo, especialista em Dir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-092</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-092</field>
+<field name="date">950701</field>
+<text_pt>
 WALTER CENEVIVA 
 Da Equipe de Articulistas 
 Cometi um erro em junho do ano passado. Preciso alertar o leitor para meu engano. Acentuando o inconveniente da reiteração de medidas provisórias sobre o plano Real, afirmei que não seria possível manter projeto econômico daquele relevo para a história do país sem que o Congresso o apreciasse em profundidade, dando-lhe forma definitiva de lei.
@@ -2094,9 +2094,9 @@ Para mudar a situação é necessário extinguir a medida provisória, sem o recurso 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-093</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-093</field>
+<field name="date">950701</field>
+<text_pt>
 Do Banco de Dados 
 O mais completo roteiro de cotação de veículos do país está disponível a partir de hoje também por telefone e fax para quem ligar de qualquer ponto do Estado de São Paulo. 
 O Folha Informações Veículos traz o valor médio de mercado de veículos nacionais novos e usados e de importados novos. Funciona pelo telefone 900-0317.
@@ -2115,9 +2115,9 @@ O Folha Informações existe há 52 anos e foi criado pelo poeta Guilherme de Almei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-094</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-094</field>
+<field name="date">950701</field>
+<text_pt>
 AURELIANO BIANCARELLI 
 Da Reportagem Local
 Crianças negras estão morando nos bairros mais pobres e frequentando as piores escolas com os profissinais menos preparados. São as que menos produzem, as que mais repetem e abandonam os cursos. 
@@ -2135,9 +2135,9 @@ O empobrecimento está empurrando as famílias negras para as áreas mais deteriora
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-095</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-095</field>
+<field name="date">950701</field>
+<text_pt>
 Escola fica a 4 km de ex-quilombo 
 ARI CIPOLA
 Da Agência Folha, em União dos Palmares 
@@ -2151,9 +2151,9 @@ Os Silva ainda fazem pó de café socando os grãos com pilão de madeira, não possu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-096</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-096</field>
+<field name="date">950701</field>
+<text_pt>
 Prefeitura multa outras duas padarias com irregularidades; proprietários dizem que funcionários são culpados 
 Da Reportagem Local 
 O Departamento de Inspeção Municipal de Alimentos vistoriou na última quarta-feira mais quatro padarias a pedido da Folha: todas foram multadas e duas foram interditadas.
@@ -2171,9 +2171,9 @@ O dono da Barcelona, Vicente Safon, 46, negou as irregularidades. ``Não há falta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-097</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-097</field>
+<field name="date">950701</field>
+<text_pt>
 AURELIANO BIANCARELLI 
 Da Reportagem Local 
 Crianças negras estão morando nos bairros mais pobres e frequentando as piores escolas com os profissionais menos preparados. São as que menos produzem, as que mais repetem e abandonam a escola.
@@ -2193,9 +2193,9 @@ Seus filhos estão mais sujeitos à mortalidade infantil. "Se sobreviverem, os neg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-098</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-098</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 O sindicalismo brasileiro está começando a assumir sua negritude. Nos últimos três anos, sindicatos ligados à CUT vêm organizando comissões de negros e associações anti-raciais.
 Em novembro passado, todas as centrais brasileiras e algumas estrangeiras se reuniram em Salvador para tratar do assunto.
@@ -2212,9 +2212,9 @@ A assessoria de imprensa da Febraban _Federação Brasileira de Bancos_ informou q
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-099</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-099</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 Na cabeça dos profissionais de recursos humanos e das chefias, o negro apareceria com uma vassoura na mão ou tocando serviços pesados. Se o cargo exige contato com outras pessoas e o manuseio de valores, o profissional ideal seria um branco bem apresentável.
 A conclusão é da psicóloga Maria Aparecida Silva Bento que cita pesquisa realizada pelo Ceert _instituição que estuda relações e desigualdades no trabalho_, o Instituto de Psicologia da USP e o Núcleo de Consciência Negra.
@@ -2233,9 +2233,9 @@ CEERT - Centro de Estudos das Relações de Trabalho e Desigualdades Tel. (011) 86
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-100</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-100</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 A Associação dos Administradores de Pessoal _AAPSA_, que reúne cerca de 5.000 profissionais de recursos humanos de 400 empresas, diz desconhecer qualquer tipo de discriminação praticada por selecionadores de pessoal.
 ``O profissional de recursos humanos é formado e treinado para selecionar o candidato mais adequado para uma função. Seus conceitos pessoais não interferem na escolha", diz Evando Freitas de Souza, presidente da AAPSA.
@@ -2246,9 +2246,9 @@ Segundo ele, cada função tem alguns quesitos fundamentais. Por exemplo, se o car
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-101</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-101</field>
+<field name="date">950701</field>
+<text_pt>
 GUSTAVO VENTURI e MAURO FRANCISCO PAULINO 
 Do Datafolha 
 A comparação da pesquisa do Datafolha sobre racismo com levantamentos feitos por institutos dos EUA mostra que brasileiros e norte-americanos diferem na percepção da questão racial como consequência de práticas sociais de discriminação diferentes.
@@ -2266,9 +2266,9 @@ Mas, ao contrário do que se poderia supor, essa situação objetiva de exclusão so
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-102</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-102</field>
+<field name="date">950701</field>
+<text_pt>
 Mudança visa terminar obras de túnel sob a Prestes Maia 
 Da Reportagem Local 
 A interdição de mais uma faixa da avenida Senador Queirós, em função das obras do túnel sob a avenida Prestes Maia, obrigou a CET (Companhia de Engenharia de Tráfego) a mais uma mudança no trânsito do centro de São Paulo.
@@ -2278,9 +2278,9 @@ A mudança nos sentidos das ruas vai até o final das obras na Prestes Maia, previ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-103</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-103</field>
+<field name="date">950701</field>
+<text_pt>
 Trinta empresas exibem de novas tecnologias a fraldas de bebê no Centro Cívico da Hebraica 
 Da Reportagem Local 
 Termina amanhã a primeira feira feita na cidade exclusivamente com produtos do Estado de Israel _um país criado há 50 anos, num território do tamanho de Sergipe, com uma população de um terço da que habita a Grande São Paulo.
@@ -2304,9 +2304,9 @@ MADE IN ISRAEL 1995 - hoje e amanhã, das 15h às 22h, no Centro Cívico da Hebraic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-104</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-104</field>
+<field name="date">950701</field>
+<text_pt>
 JOSÉ HENRIQUE MARIANTE 
 Responda rápido: com quantos carros se faz uma corrida? A resposta certa deu Eddie Jordan: apenas dois (dos bons) já resolvem o problema.
 Neste fim-de-semana, o GP da França quase acontece só com 22 carros no grid. Dois, da Simtek, não participam porque o time não tem dinheiro e pediu concordata.
@@ -2324,9 +2324,9 @@ A próxima da lista é a Pacific, que já começa a se debater para manter o pescoço
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-105</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-105</field>
+<field name="date">950701</field>
+<text_pt>
 Técnico da Portuguesa confia na experiência de seus jogadores para manter a boa campanha no Paulista 
 Da Reportagem Local 
 O técnico Candinho descarta uma ``tremedeira" por parte dos jogadores da Portuguesa, hoje, contra o Corinthians.``A Portuguesa sempre enfrenta os grandes times de São Paulo em desvantagem. Nossa torcida é menor, eles possuem mais estrutura, mais títulos e melhores jogadores", disse.
@@ -2342,9 +2342,9 @@ Os dirigentes do clube não estão preocupados com a arbitragem.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-106</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-106</field>
+<field name="date">950701</field>
+<text_pt>
 Dos enviados a Rivera 
 O técnico Mario Jorge Zagallo disse ontem ao chegar a Livramento (RS) que a seleção vai estrear na Copa América com a mesma equipe que vem treinando, mais o meia Juninho.
 O ataque, portanto, deve ser integrado por Edmundo e Túlio. Sávio começará na reserva.
@@ -2358,9 +2358,9 @@ Com medo do frio _a temperatura chega a zero grau Celsius_, Zagallo não quer tre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-107</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-107</field>
+<field name="date">950701</field>
+<text_pt>
 Antropólogo Hermano Vianna lança livro sobre o ritmo 
 LUIZ ANTÔNIO RYFF 
 Da Reportagem Local 
@@ -2390,9 +2390,9 @@ Vianna - Meu problema é conciliar o tempo. Uma coisa contribui para a outra. O m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-108</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-108</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 O que era para ser uma tese sobre rock acabou em samba. Durante a pesquisa, o antropólogo Hermano Vianna resolveu mudar a rota. Acabou contando os bastidores da ascensão do ritmo no livro ``O Mistério do Samba".
 Explica uma carreira meteórica para a qual não faltaram atores e interesses diversos. Afinal, se no início dos anos 20 quem fosse pego cantando ou dançando samba corria o risco de passar a noite na cadeia, anos mais tarde quem não gostasse do gênero era ``ruim da cabeça ou doente do pé".
@@ -2412,9 +2412,9 @@ Lançamento: 10 de julho
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-109</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-109</field>
+<field name="date">950701</field>
+<text_pt>
 Da Reportagem Local 
 Gilberto Freyre (1900-1987) - Sociólogo e escritor pernambucano, autor de ``Casa Grande &amp; Senzala" (1933), livro considerado um divisor de águas da sociologia brasileira. O livro estuda a importância da presença do negro na cultura nacional e explica as origens do processo de miscigenação no Brasil.
 Pixinguinha (1898-1973) - O carioca Alfredo da Rocha Viana Filho, um dos precursores do samba, era compositor, instrumentista e arranjador. Participou do conjunto ``Oito Batutas", criado em 1919. Ele é autor de um dos clássicos da música brasileira, ``Carinhoso", gravada pela primeira vez em 1937.
@@ -2428,9 +2428,9 @@ Trecho do livro ``O Mistério do Samba", do antropólogo Hermano Vianna (ed. Jorge
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-110</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-110</field>
+<field name="date">950701</field>
+<text_pt>
 Da Redação 
 A diretora Bia Lessa recebeu anteontem da promotora Kátia Regina Ferreira Lobo A. Maciel um procedimento contrário à participação de 75 crianças nuas _entre cinco e 11 anos_ nas cenas finais de sua ópera ``Suor Angelica". O espetáculo tem estréia prevista para hoje, às 20h30, no Teatro Municipal do Rio de Janeiro.
 ``Vou consultar a Procuradoria Geral do Estado e pedir uma liminar para apresentar a ópera sem mudanças", disse Emílio Kalil, diretor do teatro. A peça já foi apresentada em São Paulo, nas mesmas condições, em 1990 e 1992.
@@ -2441,9 +2441,9 @@ A opção apresentada pela promotora _vestir as crianças com malha ou colant cor d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-111</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-111</field>
+<field name="date">950701</field>
+<text_pt>
 Estrela americana foi sonho das garçonetes e dos homens de gosto duvidoso 
 SÉRGIO AUGUSTO 
 Da Sucursal do Rio 
@@ -2457,9 +2457,9 @@ Depois de "Imitação da Vida", produzido em 1959, Lana iniciou sua inexorável dec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-112</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-112</field>
+<field name="date">950701</field>
+<text_pt>
 JOÃO BATISTA NATALI 
 Enviado especial a Salvador 
 O sincretismo musical brasileiro se presta a prodígios como ``Lídia de Oxum, uma Ópera Negra", estreada anteontem no Teatro Castro Alves, em Salvador.
@@ -2476,9 +2476,9 @@ O jornalista JOÃO BATISTA NATALI viajou a Salvador a convite da Secretaria da Cu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-113</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-113</field>
+<field name="date">950701</field>
+<text_pt>
 Foram filmadas em São Paulo as últimas cenas de ``As Meninas", baseado no romance de Lygia Fagundes Telles 
 FERNANDA SCALZO 
 Da Reportagem Local 
@@ -2497,9 +2497,9 @@ Ribeiro diz que ``As Meninas" deve atrair dois públicos: as pessoas que hoje têm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-114</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-114</field>
+<field name="date">950701</field>
+<text_pt>
 JOSÉ GERALDO COUTO 
 Da Reportagem Local 
 
@@ -2526,9 +2526,9 @@ Kazan, que alguns anos depois delataria seus ex-companheiros comunistas ao Comit
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-115</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-115</field>
+<field name="date">950701</field>
+<text_pt>
 Antropólogo autografou ontem seu `Noções de Coisas' 
 Da Reportagem Local 
 O lançamento do livro ``Noções de Coisas" (ed. FTD), do antropólogo e senador Darcy Ribeiro (PDT-RJ), foi uma celebração da molecagem. Com Ziraldo Alves Pinto, que ilustrou o livro, Darcy contou histórias, falou bobagens e deu conselhos-provocações:
@@ -2543,9 +2543,9 @@ O lançamento do livro ficou no mesmo clima do texto, provocando garagalhadas e p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-116</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-116</field>
+<field name="date">950701</field>
+<text_pt>
 E bomba! Bomba! Recessão Real! Maricona vende o passe do bofe pra pagar as duplicatas! Rarará! Rarará! 
 JOSÉ SIMÃO 
 Da Equipe de Articulistas 
@@ -2559,9 +2559,9 @@ E revoltado com a música dos Paralamas ``Luiz Inácio ou os 300 Picaretas" um dep
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-117</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-117</field>
+<field name="date">950701</field>
+<text_pt>
 Da Redação 
 Um bambambã do pensamento contemporâneo disse que o mundo se parece cada vez mais com suas idéias. Não deve ser um auto-elogio: o mundo anda parecido com aquele desvio atroz da realidade que aparece em "De Volta para o Futuro 2".
 Isso para dizer que certos filmes neo-realistas hoje parecem água de rosas, como "A Terra Treme" (Cultura, 22h30), de Visconti. Os personagens são pescadores do sul da Itália, em 1948. É uma categoria miserável, da região mais pobre de um país que saía (derrotado) da guerra.
@@ -2571,9 +2571,9 @@ Visconti, à parte comunista, era um esteta, buscava a beleza das coisas. Mas iss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-118</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-118</field>
+<field name="date">950701</field>
+<text_pt>
 SUZY CAPÓ 
 Free-lance para a Folha 
 A boneca vira parte da iconografia pop. Diretores, fotógrafos, escultores e outros artistas dão a bonecas e bonecos diferentes conotações.
@@ -2588,9 +2588,9 @@ A diretora de programação musical da MTV, Yone Sassa, 33, chama atenção para o f
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-119</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-119</field>
+<field name="date">950701</field>
+<text_pt>
 ZECA CAMARGO 
 Editor da Ilustrada 
 Se os artistas de cinema e TV têm problemas para marcar um rosto (e torná-lo famoso) imagine alguém que quer marcar sua voz. Três lançamentos recentes trazem cantoras determinadas a chegar lá, no nirvana dos timbres de sucesso, que bastam soltar um pio para vender milhões de CDs.
@@ -2623,9 +2623,9 @@ Preço médio do CD: R$ 20
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-120</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-120</field>
+<field name="date">950701</field>
+<text_pt>
 BIA ABRAMO 
 Da Reportagem Local 
 O que fazem The Flaming Lips, Seal e Offspring no mesmo disco? Simples, fazem parte da trilha sonora de "Batman Eternamente", o terceiro filme da trilogia, que estréia sexta-feira que vem.
@@ -2643,9 +2643,9 @@ Preço: R$ 20 (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-121</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-121</field>
+<field name="date">950701</field>
+<text_pt>
 O museu mostra a partir de quarta-feira 57 obras de 14 fotógrafos, entre eles Jean Manzon e Walter Firmo 
 ANA MARIA GUARIGLIA 
 Free-lance para a Folha
@@ -2661,9 +2661,9 @@ Entrada: R$ 3 (às quintas-feiras, das 11h às 20h, a entrada é gratuita)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950701-122</text_pt>
-<text_pt name="date">950701</text_pt>
-<text_pt name="text">
+<field name="id">FSP950701-122</field>
+<field name="date">950701</field>
+<text_pt>
 Yehudi Menuhin rege orquestra com alma e leveza 
 WILLIAM LI 
 Especial para a Folha 

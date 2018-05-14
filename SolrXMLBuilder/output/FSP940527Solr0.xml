@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP940527-001</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-001</field>
+<field name="date">940527</field>
+<text_pt>
 A Folha publica neste domingo o especial Privatização, segundo da série Brasil 95. De periodicidade mensal, os cadernos debatem os problemas nacionais e apresentam as propostas dos candidatos a presidente para resolvê-los.
 Para sustentar o crescimento econômico, o setor estatal vai precisar de US$ 20 bilhões nos próximos dez anos. O governo não dispõe desses recursos. O caderno analisa a possível ruptura do monopólio no setor de petróleo, a perda de mercado nas telecomunicações e o rombo nos bancos estaduais.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-002</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-002</field>
+<field name="date">940527</field>
+<text_pt>
 Mal começa a campanha presidencial e já se observa por todos os lados uma série de desrespeitos flagrantes à legislação eleitoral em vigor, em alguns casos acompanhados de declarações no mínimo inquietantes. A lei é clara ao proibir partidos e candidatos de receber recursos ou usar equipamentos de sindicatos ou entidades de classe. Ainda assim, Lula utilizou um carro de som da CUT. Da mesma forma, a lei é cristalina ao não permitir que órgãos públicos ou suas dependências sejam usados em favor de qualquer partido. Ainda assim, Fernando Henrique Cardoso emprega a estrutura do Senado para fazer campanha.
 O princípio que inspira a legislação é sem dúvida correto. Afinal, não parece justo que recursos públicos ou dos trabalhadores sejam usados em favor de uma determinada candidatura.
 Também inquietante é a declaração de Lula de que entre a lei e a justiça, fica com a segunda. É bem verdade que o candidato petista não disse explicitamente que vai seguir desrespeitando a lei, afirmou apenas que a considera ilegítima, o que é sem sombra de dúvida um direito seu. É óbvio que podem existir leis injustas e qualquer um tem o direito de questionar sua validade nos fóruns adequados.
@@ -21,9 +21,9 @@ Nesse sentido, o que causa apreensão na declaração de Lula é que ela lança dúvid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-003</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-003</field>
+<field name="date">940527</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO _ Volta a circular uma das mais tristes frases do léxico político brasileiro, aquela que diz "vou votar com o nariz tapado".
 Desta vez, seus autores são tucanos de carteirinha ou de ocasião, incomodados com o fato de que Fernando Henrique Cardoso, o candidato presidencial do PSDB, fez uma estranha coligação com o PFL e o PTB.
@@ -39,9 +39,9 @@ Dez anos depois, o que poderia ser uma festa para a maioria (os eleitores de Lul
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-004</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-004</field>
+<field name="date">940527</field>
+<text_pt>
 Falta pouco mais de um mês para a introdução do real. Em que pese ainda algumas dúvidas, principalmente quanto à capacidade do governo de manter o equilíbrio orçamentário, o plano econômico conseguiu, pelo menos preliminarmente, resgatar boa parte da credibilidade perdida com o fracasso das tentativas anteriores.
 Se hoje as medidas de estabilização gozam de razoável aceitação é justamente porque não recorrem a fórmulas mágicas _confiscos, congelamentos, feriados bancários_ que no passado transtornaram a vida econômica sem trazer resultados duradouros. Ter as forças de mercado como base da futura estabilização não significa, porém, que o Estado possa ser eximido de certas funções reguladoras.
 Nesse sentido, é extremamente positivo o projeto de lei de defesa da livre concorrência, cuja votação no Congresso poderá ocorrer na semana que vem. O texto prevê multas de até US$ 3 milhões e a possibilidade de intervenção em empresas ou cartéis que usem seu poder de mercado para fixar preços acima do equilíbrio ou utilizem práticas que distorçam a livre concorrência.
@@ -50,9 +50,9 @@ No Brasil, o controle de alguns mercado por um reduzido número de empresas tem c
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-005</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-005</field>
+<field name="date">940527</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO _ Primeiro, foram os políticos. Ibsen Pinheiro, em sua despedida, alertou os antigos colegas para o fato de o Congresso estar se tornando refém da imprensa. Agora, são os jogadores da seleção nacional, aborrecidos com o jornalismo investigativo que nada poupa de suas vidas particulares, de suas manias e preferências.
 O sintoma é claro: em nome do direito de informar, parte da imprensa que se dedica a esse tipo de investigação acha que é do seu direito saber a que horas Romário vai dormir, se usa ou não camisinha, se prefere transar dessa ou daquela maneira.
@@ -64,9 +64,9 @@ Uma impossibilidade óbvia: o povão quer saber tudo e a função da imprensa é info
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-006</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-006</field>
+<field name="date">940527</field>
+<text_pt>
 Josias de Souza
 BRASÍLIA _ Ao desancar a lei eleitoral, desrespeitando-a e agredindo-a verbalmente, Lula torna-se um terrorista da inteligência. O candidato dinamita a lógica cada vez que sobe num carro de som de sindicato. Ele explode o bom senso sempre que tenta se explicar.
 Abro um rápido parêntese para dizer que tenho simpatias pelo que disse Lula. De fato, há leis que valem tanto quanto um casaco de pele no deserto. Em alguns casos, "a coisa justa", como diz Lula, pode valer mais que determinado texto legal.
@@ -80,9 +80,9 @@ Como exercício final de reflexão, suponha que esses militares decidam promover u
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-007</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-007</field>
+<field name="date">940527</field>
+<text_pt>
 O país já percebera há muito. Só agora, entretanto, o próprio Congresso parece reconhecer o retumbante fracasso de sua tentativa de dar ao país um arcabouço jurídico-institucional mais consentâneo com as exigências do desenvolvimento nacional.
 A idéia de promover revisões constitucionais a cada dez anos, começando já em 1995, representa de fato como que uma admissão, por parte dos parlamentares, da sua incapacidade de cumprir com suas funções e deveres. Esse quadro ressalta o imperativo de uma reforma da Carta por meio de uma assembléia revisora exclusiva.
 O caso da emenda para a reeleição de prefeitos, governadores e presidente, em que pese a sua importância, chega a ser motivo de pilhéria. O mérito da idéia à parte _e sem dúvida há bons argumentos a favor da reeleição_, essa tese, defendida agora pelas principais lideranças do Congresso, foi há pouco rejeitada pelo próprio Parlamento revisor. A mera possibilidade de que a alteração venha a ser feita segundo o rigoroso mecanismo de uma emenda normal após ter fracassado com o quórum reduzido da revisão já sugere a comédia em que se transformou esse processo.
@@ -91,9 +91,9 @@ Cada novo estertor da revisão _como o "esforço concentrado" encerrado ontem_ dá 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-008</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-008</field>
+<field name="date">940527</field>
+<text_pt>
 José Sarney
 A rosa sempre exerceu uma sedução muito grande na mente dos políticos. Para uns pela atração de sua beleza em si e noutros pelo seu profundo vermelho, a cor do sangue, uma passagem rápida para a mensagem revolucionária. Os socialistas a escolheram como símbolo e em Portugal, no 25 de abril, em vez da rosa, saíram os cravos vermelhos e a Revolução passou a ser a dos Cravos.
 E sua vinculação com pessoas? Rosa Luxemburgo, essa apaixonante figura humana, que discutia com Bernstein sobre revolução ou reforma, encheu nossa mocidade com a imagem da mulher guerreira, intelectual e dura. Não me lembro de ter visto um retrato seu, mas todos a julgavam bela, embora possa ter sido uma bruxa, mas era Rosa, Rosa, a Vermelha.
@@ -110,9 +110,9 @@ José Sarney escreve às sextas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-009</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-009</field>
+<field name="date">940527</field>
+<text_pt>
 Não basta mudar o modelo de assistência sem transformar a qualidade de vida do cidadão
 HENRIQUE SANTILLO
 A situação da saúde no Brasil tem sido objeto de frequentes reportagens. O fato seria positivo se as informações veiculadas traduzissem sempre a verdade. Mas os dados divulgados carecem muitas vezes desse requisito, o que torna equivocadas as conclusões e tendenciosos os juízos de valor formulados.
@@ -138,9 +138,9 @@ HENRIQUE SANTILLO, 56, médico pediatra, é ministro da Saúde. Foi senador pelo PM
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-010</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-010</field>
+<field name="date">940527</field>
+<text_pt>
 O Sistema Único de Saúde é a proposta mais moderna de reforma do Estado em curso no Brasil
 EDUARDO JORGE
 O rei está nu. Mas insiste em manter a pose. Quando acuado, solta fumaça ideológica para confundir a opinião pública. Foi assim que se comportou o prefeito de São Paulo, Paulo Maluf, em artigo na Folha de 11/05. Questionado pelo abandono a que relegou a saúde, ele não responde. Agride os críticos.
@@ -160,9 +160,9 @@ EDUARDO JORGE, 44, é deputado federal pelo PT de São Paulo. Foi líder do partido
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-011</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-011</field>
+<field name="date">940527</field>
+<text_pt>
 
 "Esperamos justiça sumária para a inadmissível corrupção que este petista Lula praticou subindo num carro de som de um sindicato. Afinal, por muito menos, foram ou poderão vir a ser condenados ilustres homens de bem, por terem apenas se envolvido em atos normais, como o escândalo do Orçamento, gratificações de empreiteiras, contas fantasmas, jogo do bicho..."
 Luiz Eduardo Guimarães Borges (Curitiba, PR)
@@ -205,9 +205,9 @@ João Luiz Muzinatti (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-012</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-012</field>
+<field name="date">940527</field>
+<text_pt>
 Os tucanos vão em peso ao interior de São Paulo na segunda e terça. FHC e Covas percorrerão juntos dez cidades. O candidato presidencial sabe que precisa melhorar em seu próprio Estado para sair do atual patamar nas pesquisas.
 
 Mão dupla
@@ -231,9 +231,9 @@ _ Ele deve estar dizendo que eu não mudo politicamente. Mas o Quércia muda: come
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-013</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-013</field>
+<field name="date">940527</field>
+<text_pt>
 Da Sucursal de Brasília
 A lei 8.713/93, que estabelece normas para as eleições presidenciais deste ano foi aprovada por todos os partidos representados no Congresso, por voto simbólico.
 O PT, um dos principais críticos desta lei, não fez qualquer gestão para modificar o artigo 45. Esse artigo é o que proíbe, a partido e candidato, receber direta ou indiretamente doação em dinheiro ou bem de entidade de classe ou sindical, entre outros.
@@ -247,9 +247,9 @@ O projeto seguiu para sanção presidencial. Não houve vetos. Ele foi publicado no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-014</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-014</field>
+<field name="date">940527</field>
+<text_pt>
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O PT vai arguir hoje no Supremo Tribunal Federal (STF) a inconstitucionalidade do artigo 57 da lei 8.713, que regula as eleições deste ano.
@@ -270,9 +270,9 @@ Lula participou de uma caminhada pelo centro de São Paulo ontem, depois de cance
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-015</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-015</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 O candidato do PT à Presidência, Luiz Inácio Lula da Silva, disse anteontem no Rio que "o justo e o legítimo" importavam mais do que a lei, ao comentar o uso de carros de som de sindicatos em seus comícios.
 Ontem, em São Paulo, Lula recorreu ao Manual de Redação da Folha para responder a uma pergunta sobre se existiria uma lei ao mesmo tempo legal e ilegítima.
@@ -282,9 +282,9 @@ Nota da Redação _ Lula repete o sentimento de muitos candidatos que não aceitam 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-016</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-016</field>
+<field name="date">940527</field>
+<text_pt>
 LUÍS FRANCISCO CARVALHO FILHO
 Da equipe de articulistas
 Lula, como candidato, não foi feliz ao falar da legitimidade das leis. Suas declarações preocupam, não pelos alto-falantes dos sindicatos colocados à sua disposição nas portas das fábricas, mas pela expectativa que se cria em torno do Lula governante. Em outras palavras, será que uma eventual administração petista só vai respeitar as leis "legítimas"?
@@ -297,9 +297,9 @@ Sustentar a inconstitucionalide de um dispositivo legal ou defender a mudança da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-017</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-017</field>
+<field name="date">940527</field>
+<text_pt>
 Do enviado especial a Aracaju
 A possível adesão da família do empresário Paulo César Farias à campanha do tucano Fernando Henrique Cardoso à Presidência provocou um racha entre o candidato e seu vice, o pefelista Guilherme Palmeira.
 FHC disse ontem, ao chegar a Aracaju, que não quer o apoio dos Farias. "Não pedi, não tenho e não quero o apoio dessa gente". Mas seu vice defende um acordo com a família Farias em Alagoas.
@@ -309,9 +309,9 @@ FHC vai hoje para Maceió (AL), onde participa de carreata. De lá, segue para Car
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-018</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-018</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 A direção da Empresa Folha da Manhã S/A notificou ontem a direção do PT para que o partido suspenda, imediatamente, veiculação de campanha eleitoral calcada em peça publicitária feita pela Folha.
 A partido está pondo à venda camisetas e adesivos em que consta estampada a frase "Lula, não dá pra não ser".
@@ -320,18 +320,18 @@ Em sua notificação, a Empresa Folha da Manhã lembra que "um dos princípios básic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-019</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-019</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 A Folha vai realizar hoje, às 19h, a palestra "Emprego, Ação da Cidadania e Campanha Eleitoral", que será dada pelo sociólogo Herbert de Souza, o Betinho. Aberta ao público, a palestra acontecerá no auditório do jornal. Marcelo Beraba, secretário de Redação da Folha, será o coordenador do encontro.
 Os interessados em participar poderão retirar os convites a partir das 18h de hoje na portaria da Folha (al. Barão de Limeira, 425, Campos Elíseos).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-020</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-020</field>
+<field name="date">940527</field>
+<text_pt>
 Petista passa de 42% para 40%; tucano, que tinha 16%, tem agora 17%; alterações estão na margem de erro
 CLÓVIS ROSSI
 Da Reportagem Local
@@ -358,9 +358,9 @@ Pesquisa sobre a avaliação do plano econômico à pág. 1-9.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-021</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-021</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 A pesquisa do Datafolha é um levantamento estatístico por amostragem estratificada, com sorteio aleatório.
 O conjunto da população eleitora do país é tomado como universo da pesquisa e dividido em quatro subuniversos, que representam as regiões: Sul, Sudeste, Nordeste e Norte/Centro-Oeste.
@@ -372,9 +372,9 @@ A coordenação da pesquisa foi de Wilson Aghanatios Chammas, auxiliado por Ailton
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-022</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-022</field>
+<field name="date">940527</field>
+<text_pt>
 Ricupero prepara pacote de redução tributária para que comércio exterior não seja afetado na entrada do real
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -399,9 +399,9 @@ A taxa de investimentos em relação ao PIB (medida da riqueza nacional) caiu para
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-023</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-023</field>
+<field name="date">940527</field>
+<text_pt>
 Da Sucursal de Brasília
 O presidente do Banco Central, Pedro Malan, defendeu ontem que o governo não recorra a MP (medida provisória) para definir as regras cambiais e monetárias (relativas à emissão) do real.
 Ele reconheceu que não há, dentro da equipe econômica, um consenso a respeito.
@@ -420,9 +420,9 @@ Franco defendeu que o artigo 38 do recém-aprovado projeto de conversão da MP (me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-024</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-024</field>
+<field name="date">940527</field>
+<text_pt>
 Da Sucursal de Brasília
 Os líderes partidários fecharam ontem um acordo para que a Câmara dos Deputados vote na próxima semana o substitutivo do deputado Fábio Feldmann (PSDB-SP) ao projeto de lei antitruste.
 Antes da reunião, o líder do governo na Câmara, deputado Luiz Carlos Santos (PMDB-SP), havia reafirmado a intenção do governo de editar Medida Provisória substituição ao projeto de lei, para que entrasse em vigor antes da chegada do real, em 1º de julho.
@@ -437,9 +437,9 @@ Os líderes vão reunir-se na próxima terça-feira, para decidir a data da votação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-025</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-025</field>
+<field name="date">940527</field>
+<text_pt>
 Responsáveis por Conselho de Administração e de RH que desrespeitaram conversão pela média perdem cargo
 Da Sucursal de Brasília
 O presidente Itamar Franco determinou ontem a demissão imediata dos diretores administrativos, de recursos humanos e do conselho de administração das empresas estatais que converteram os próprios salários em URV (Unidade Real de Valor) pelo pico.
@@ -457,9 +457,9 @@ Denys já havia pedido que Itamar demitisse o presidente da Rede Ferroviária, Ren
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-026</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-026</field>
+<field name="date">940527</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 Lula errou e vai insistindo no erro. "Tudo aquilo que eu entender que não é crime eu vou continuar fazendo", disse ontem, no TJ Brasil.
@@ -477,9 +477,9 @@ Que ninguém pense, de qualquer forma, que o nacionalismo que envolve a seleção é
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-027</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-027</field>
+<field name="date">940527</field>
+<text_pt>
 Da Folha Vale
 O chefe da gerência jurídica do BNDES (Banco Nacional de Desenvolvimento Econômico e Social), Arnaldo Montenegro, encaminhou ontem recurso para o Tribunal Regional Federal, em São Paulo, para suspender a liminar que retira o uso de "moedas podres" no leilão da Embraer.
 "Moedas podres" são títulos emitidos pelo governo para pagar dívidas com a iniciativa privada, que vão perdendo o valor à medida que o governo não paga os débitos.
@@ -491,9 +491,9 @@ O procurador Januário Paludo, que encaminhou a ação civil, afirma que os meios d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-028</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-028</field>
+<field name="date">940527</field>
+<text_pt>
 Troca do dinheiro
 Os bancos vão abrir nos dias 1, 2 e 3 de julho (sexta, sábado e domingo) para fazer a troca de cruzeiros reais por reais. Nada mais poderá ser feito nas agências.
 
@@ -523,9 +523,9 @@ Todos os pagamentos que vencem entre os dias 1, 2 e 3 de julho deverão ser feito
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-029</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-029</field>
+<field name="date">940527</field>
+<text_pt>
 A Companhia Cervejaria Brahma idealizou rótulos circulares para compor a embalagem da cerveja Skol Bock, o novo produto que vai concorrer com a Kaiser Bock. A Brahma não divulgou dados sobre a Skol Bock. O produto está sendo mantido em segredo pela empresa. Os rótulos são vermelhos com o desenho de dois bodes que sugerem a "sustentação" do emblema com o nome de Skol Bock.
 
 Preços em URV continuam em queda
@@ -536,9 +536,9 @@ O Sindicato das Indústrias Químicas e Petroquímicas descarta a negociação de rei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-030</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-030</field>
+<field name="date">940527</field>
+<text_pt>
 Os bancos que operam com crédito ao consumidor estão reduzindo a margem de ganho nos empréstimos.
 Querem estar com volume de crédito alto se houver congelamento do saldo de financiamento.
 
@@ -576,9 +576,9 @@ O Sinicesp impugnou concorrência da Prefeitura de Santana de Parnaíba argumentan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-031</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-031</field>
+<field name="date">940527</field>
+<text_pt>
 CLAUDIO L. S. HADDAD
 Pelo que se lê comumente na imprensa brasileira o México seria um exemplo de fracasso das chamadas políticas "neoliberais". Será isto verdade?
 Em primeiro lugar, quanto à inflação e às contas públicas o sucesso do México é inegável. O país deve fechar o ano com 7% de inflação e desde 1990 o governo vem obtendo superávit operacional em suas contas. Uma recente reforma fiscal fez com que a arrecadação, que em termos relativos é semelhante à brasileira (27% do PIB), se tornasse muito mais justa e eficiente, mesmo porque inexiste o iníquo imposto inflacionário.
@@ -600,9 +600,9 @@ CLAUDIO L. S. HADDAD, 47, doutor em economia pela Universidade de Chicago (EUA),
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-032</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-032</field>
+<field name="date">940527</field>
+<text_pt>
 216) Os valores do aviso prévio, férias, 13º salário e FGTS devem ser informados no quadro três, linha dois do formulário? H.U.F.C. (SP)
 No quadro três, linha dois do formulário devem ser informados somente o aviso prévio indenizado e o FGTS. O 13º salário deve ser indicado na linha um do quadro quatro, e as férias e o aviso prévio trabalhado, se for o caso, integram os rendimentos tributáveis do quadro um.
 
@@ -619,9 +619,9 @@ As respostas às dúvidas dos leitores serão dadas pelos técnicos da consultoria I
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-033</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-033</field>
+<field name="date">940527</field>
+<text_pt>
 Os alimentos subiram 38,63% na terceira quadrissemana de maio no município de São Paulo. Esta taxa ficou abaixo dos 39,79% da quadrissemana anterior e é a quinta semana que os alimentos sobem menos que a inflação média.
 Os dados são da Fipe, que acompanha preços no município de São Paulo. A menor elevação de preços na quadrissemana _comparação de 30 dias em relação aos 30 anteriores_ ficou para os produtos semi-elaborados.
 A desaceleração foi provocada pela retração de carnes e feijão. A carne bovina está com variação acumulada em 30 dias de 24%, enquanto o feijão subiu apenas 2,5% no período.O único setor que está acompanhando a inflação média entre os semi-elaborados é o de leite: reajuste de 44,83%. Já o arroz, mantém aceleração, acumulando 46% nos últimos 30 dias.
@@ -630,26 +630,26 @@ Os produtos "in natura" subiram 28,32%: verduras, 15%; legumes, 18% e frutas, 31
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-034</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-034</field>
+<field name="date">940527</field>
+<text_pt>
 
 As exportações de carne suína em abril deste ano devem atingir 2.200 t, contra 3.561 t em abril de 93. A previsão é da Associação Brasileira dos Exportadores de Carne Suína (Abecs). Para maio, a expectativa é de que as exportações fiquem em 2.000 t, contra 2.356 no mesmo período de 93.
 A receita gerada pelas vendas externas em abril deste ano deve alcançar US$ 4 milhões, contra US$ 6,225 milhões no mesmo mês de 93. Em março, os criadores movimentaram US$ 2,448 milhões, contra US$ 5.536 milhões no mesmo período do ano passado. Foram enviadas para o exterior 1.435 t.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-035</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-035</field>
+<field name="date">940527</field>
+<text_pt>
 
 O custo no setor de transporte rodoviário de carga subiu 50,58% em maio, taxa próxima dos 49,54% de abril. O índice é da Associação Nacional das Empresas de Transportes Rodoviários de Cargas e foi apurado entre os dias 21 de abril a 20 de maio. No ano, a variação atinge 607,50%. A tonelagem de carga expedida por empresa sofreu uma redução de 14,9% em abril comparada com o mês anterior. Foram movimentadas em média 7.676 toneladas por empresa contra 9.920 toneladas no mês anterior. A maior variação foi para as viagens de curta distância, com 54,57% de alta.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-036</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-036</field>
+<field name="date">940527</field>
+<text_pt>
 Matemática financeira não é matéria de fé. Pode haver discordâncias em relação a critérios, mas dispõe de uma lógica muito mais objetiva do que formulações macroeconômicas, políticas e futebolísticas. Por isso mesmo, seria conveniente que a questão do presumível expurgo do Índice Geral de Preços do Mercado (IGP-M) nos títulos do governo fosse analisado de maneira isenta. 
 Há grandes nomes da economia avalizando a tese de que o expurgo do resíduo inflacionário de junho significará perdas de US$ 2 bilhões ao mercado financeiro.
 Os avais são respeitáveis, mas não bastam. Tem que se demonstrar através de contas e de raciocínios que o expurgo significará perda.
@@ -675,9 +675,9 @@ A tabela "A conversão do IGP-M" de quanto seriam os ganhos com a passagem para o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-037</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-037</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 "O grosso do mercado parou". A afirmação é de Alexandre Zakia Albert, do Banco Operador, ao comentar sobre os negócios realizados ontem com CDBs prefixados (que embutem uma expectativa de inflação).
 A mudança nos prazos de aplicação dos CDBs pré _a partir do dia 30 passam a ter prazo mínimo de 90 dias_ e dos CDBs indexados pela TR (Taxa Referencial) _que passam a ser de 30 dias_ limitaram os negócios.
@@ -693,9 +693,9 @@ No mês de junho, o redutor da TR, conforme informou o diretor de Política Monetá
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-038</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-038</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 As empresas de energia elétrica vão enfrentar problemas financeiros com a conversão das tarifas para URV pela média dos últimos quatro meses. Os valores estavam defasados e em fase de recomposição, disse ontem o superintendente de Planejamento Econômico-Financeiro da Eletropaulo, Orestes Gonçalves Jr.
 Segundo ele, a lei 8.631, de março de 1993, que determina a imediata recomposição das tarifas, deixou de ser cumprida em novembro do ano passado. "A legislação previa a recomposição dos valores por etapas, para pesar menos no bolso do consumidor", explica.
@@ -703,9 +703,9 @@ Entretanto, segundo Gonçalves, apenas uma etapa foi cumprida, entre maio e outub
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-039</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-039</field>
+<field name="date">940527</field>
+<text_pt>
 Mercado do dólar comercial sofre duas correções; expectativa de maior volume de negócios com papéis pós-fixados
 Da Redação
 O mercado de Certificados de Depósito Bancário registrou ontem baixo volume de negócios.
@@ -752,30 +752,30 @@ O índice futuro do índice da Bolsa paulista para junho fechou com 29.700 pontos,
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-040</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-040</field>
+<field name="date">940527</field>
+<text_pt>
 O Exército de Myanma (antiga Birmânia) está escravizando camponeses para servir como carregadores no combate aos guerrilheiros liderados pela traficante de drogas Khun Sa. Os carregadores são obrigados a carregar munição para abastecer os postos do Exército no Estado de Shan. Vários carregadores fogem dos soldados, refugiando-se em bases da guerrilha.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-041</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-041</field>
+<field name="date">940527</field>
+<text_pt>
 O governo israelense confirmou ontem que o presidente da OLP, Iasser Arafat, visitará Jericó no dia 15 de junho. O líder palestino não será convidado a visitar Jerusalém, disse o ministro Moshe Shahal (Polícia). A ex-porta-voz da delegação palestina Hanan Ashrawi aceitou indicação para participar da Autoridade Nacional Palestina em Jericó e na faixa de Gaza.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-042</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-042</field>
+<field name="date">940527</field>
+<text_pt>
 Pesquisa de intenção de voto para as eleições européias de 12 de junho indica que a chapa "Europa Começa em Sarajevo" tem o apoio de 12% do eleitorado francês. São necessários 5% para obter representação no Parlamento Europeu. O grupo, liderado por Bernard-Henri Lévy, quer o fim do embargo de armas ao governo bósnio. A pesquisa sai amanhã na "Le Point".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-043</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-043</field>
+<field name="date">940527</field>
+<text_pt>
 EUA desvinculam respeito a direitos humanos de inclusão na lista de nações mais favorecidas
 CARLOS EDUARDO LINS DA SILVA
 De Washington
@@ -797,9 +797,9 @@ O líder do governo no Senado, George Mitchell, começou a tentar ontem entendimen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-044</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-044</field>
+<field name="date">940527</field>
+<text_pt>
 De Washington
 Estados Unidos e Vietnã anunciaram ontem a abertura recíproca de escritórios de representação nos dois países.
 Isso não significa ainda o estabelecimento de relações diplomáticas plenas. Mas elas ficam a apenas um passo com a decisão de ontem.
@@ -814,9 +814,9 @@ O escritório norte-americano em Hanói será liderado pelo diplomata de carreira J
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-045</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-045</field>
+<field name="date">940527</field>
+<text_pt>
 De Nova York
 A Presidential Bottles Inc., de Cleveland, Ohio, está doando US$ 0,25 (CR$ 400,00) para o governo dos EUA para cada caixa da cerveja Billary que vender.
 A marca Billary é uma associação dos nomes do presidente Bill Clinton e da primeira-dama Hillary Clinton. O dinheiro está sendo doado para ajudar a cobrir o déficit público americano.
@@ -828,9 +828,9 @@ O engarrafador define a cerveja como "a escolha politicamente correta". O rótulo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-046</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-046</field>
+<field name="date">940527</field>
+<text_pt>
 Primeira deficiente a posar nua na Playboy, Ellen Stohl quer lutar contra preconceitos
 AURELIANO BIANCARELLI
 Da Reportagem Local
@@ -855,9 +855,9 @@ Ellen - No início eu tinha certa resistência. Hoje vejo com naturalidade e até j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-047</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-047</field>
+<field name="date">940527</field>
+<text_pt>
 O juiz corregedor dos presídios do Estado de São Paulo, Ivo de Almeida, 36, disse ontem que poderá transferir nos próximos 15 dias o traficante Abidiel Pinto Rabelo (foto) para a Casa de Custódia e Tratamento, em Taubaté. Rabelo está preso na Penitenciária do Estado, no Carandiru (zona norte de SP).
 
 O NÚMERO
@@ -879,9 +879,9 @@ Dezenas sorteadas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-048</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-048</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 O assessor especial de preços do Ministério da Fazenda, Milton Dallari, confirmou ontem em São Paulo que a medida provisória (MP) sobre mensalidades escolares vai converter os valores em URV pela média de fevereiro a maio.
 Também em São Paulo, o ministro da Fazenda, Rubens Ricupero, afirmou que o governo espera anunciar a MP "antes de meados da semana que vem".
@@ -902,9 +902,9 @@ Nesse caso, se a MP for aplicada, o valor em URV deverá cair um pouco. Isso porq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-049</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-049</field>
+<field name="date">940527</field>
+<text_pt>
 BARBARA GANCIA
 Colunista da Folha
 O título aí em cima é de uma boçalidade ímpar? Pois foi proposital.
@@ -922,9 +922,9 @@ Enquanto aguardamos a publicação de manchetes como "Remédio que cura Aids chega 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-050</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-050</field>
+<field name="date">940527</field>
+<text_pt>
 É flagrante o descaso da DB Brinquedos com o consumidor. A loja do Shopping Iguatemi vende a pista "Hot Wheels", da Mattel, mas não vende os carrinhos da mesma linha. Para os interessados em saber para que serve o raio da pista sem os carrinhos, os funcionários oferecem uma singela explicação: "Pode usar qualquer outro carrinho, dá na mesma". Pois eu digo: dá na mesma, o escambau!
 
 Homenagem
@@ -935,9 +935,9 @@ Inspiradas pelo mecenas Kim Esteve, que passa os próximos quatro meses saracotea
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-051</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-051</field>
+<field name="date">940527</field>
+<text_pt>
 A Vigilância Sanitária de Florianópolis lacrou a tubulação da rede de esgoto do Hotel Joaquina Beach, na praia da Joaquina. Segundo os técnicos, o esgoto estava sendo despejado diretamente no mar. A direção do hotel já providenciou o conserto da tubulação.
 
 Santa Catarina 2
@@ -951,9 +951,9 @@ O documento, do século 18, foi encontrado em 92. Entitulado em latim deficiente 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-052</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-052</field>
+<field name="date">940527</field>
+<text_pt>
 Os trabalhadores do CNPGL (Centro Nacional de Pesquisa do Gado de Leite), da Embrapa, em Coronel Pacheco, decidiram parar anteontem. Segundo o presidente da seção sindical do CNPGL, José Luiz Belini, todas as 39 unidades aderiram ao movimento.
 
 SP Interior
@@ -967,9 +967,9 @@ O Monumento dos Andradas, localizado na praça da Independência, em Santos, começ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-053</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-053</field>
+<field name="date">940527</field>
+<text_pt>
 A Fabaju (Federação das Associações de Bairros de Aracaju) está promovendo reuniões semanais com moradores de bairros da periferia da cidade. O objetivo das reuniões é definir as reivindicaçõs da comunidade para que elas sejam encaminhadas à prefeitura.
 
 Bahia
@@ -983,9 +983,9 @@ O governo estadual assinou convênio com a Universidade Federal do Ceará para pov
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-054</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-054</field>
+<field name="date">940527</field>
+<text_pt>
 A polícia de Manaus prendeu anteontem em flagrante três funcionárias da Agroterra Indústria de Produtos Químicos. Elas são acusadas de desviar CR$ 90 milhões da empresa. Tazia Maria Maia de Souza, Ana Edna e Maria Cóvis Paulino negam o crime.
 
 Amazonas 2
@@ -999,9 +999,9 @@ As Secretarias Estaduais devem concluir até o dia 2 de junho o levantamento sobr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-055</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-055</field>
+<field name="date">940527</field>
+<text_pt>
 A Fundação de Promoção Social do Estado doou anteontem quatro toneladas de alimentos para os índios Guató, de Corumbá, Ofaié-Xavante, de Brasilândia, e Guaranis, de Coronel Sapucaia. São 650 índios que aguardam definição da posse das áreas de suas reservas.
 
 Mato Grosso do Sul 2
@@ -1015,9 +1015,9 @@ A Empaer (Empresa de Pesquisa, Assistência Técnica e Extensão Rural do Estado) e
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-056</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-056</field>
+<field name="date">940527</field>
+<text_pt>
 JOSÉ. R. DRUGOWICH DE FELÍCIO
 Professores e funcionários da maior universidade do país paralisaram suas atividades para negociar os salários na data-base. Como as universidades públicas paulistas têm autonomia administrativa e financeira, a negociação se dá no âmbito do Cruesp, (Conselho de Reitores das Universidades Estaduais Paulistas), que reúne USP, Unesp e Unicamp.
 Até o momento, a proposta das reitorias é de repor o salário aos níveis de maio de 93, repetindo portanto o que já foi feito em 93 e 92. Oferecem também um pequeno aumento real (1,68%) que se contrapõe a uma solicitação de 20% por parte das categorias.
@@ -1034,9 +1034,9 @@ JOSÉ ROBERTO DRUGOWICH DE FELÍCIO, 41, físico, é professor da Faculdade de Filos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-057</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-057</field>
+<field name="date">940527</field>
+<text_pt>
 João de Assis Júnior, o "João Matuto", é suspeito da chacina de favelados em Acari; ele nega as acusações
 SERGIO TORRES
 Da Sucursal do Rio
@@ -1056,9 +1056,9 @@ João Matuto foi preso anteontem à noite, quando visitava parentes. Ele não carre
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-058</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-058</field>
+<field name="date">940527</field>
+<text_pt>
 
 
 1- SIEEESP
@@ -1127,9 +1127,9 @@ COM A MP SOBE PARA
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-059</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-059</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 Há pelo menos cinco formas de reajuste de mensalidades em uso no país atualmente. Quatro delas têm alguma lógica.
 A quinta não segue nenhum critério fixo. A instituição alterna a fórmula de cálculo a cada mês de forma a obter mais lucro.
@@ -1140,9 +1140,9 @@ As escolas _ou seus sindicatos_ entendem que podem fixar nos próprios contratos 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-060</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-060</field>
+<field name="date">940527</field>
+<text_pt>
 Seleção chega à concentração na Califórnia; treinador diz que ainda não sabe os titulares
 FERNANDO RODRIGUES
 e MÁRIO MAGALHÃES
@@ -1172,9 +1172,9 @@ sobre Copa do Mundo nas págs. 3 a 6
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-061</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-061</field>
+<field name="date">940527</field>
+<text_pt>
 Dos enviados a Los Gatos
 Uma bandinha tocando "Aquarela do Brasil" e o prefeito da cidade de Los Gatos, Randy Attaway, receberam os jogadores brasileiros ontem de manhã na hora do desembarque em San Jose.
 O local não era aberto para torcedores, que foram deslocados para outro setor do aeroporto.
@@ -1190,9 +1190,9 @@ Almino falava pausadamente em português e aguardava a tradução para o inglês. De
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-062</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-062</field>
+<field name="date">940527</field>
+<text_pt>
 A seleção brasileira é a que menos paga nas apostas feitas nos EUA. Se os brasileiros forem os campeões mundiais, para cada dólar apostado na equipe o apostador receberá três. A Alemanha está pagando sete dólares para cada dois apostados e a Itália paga seis por um. As seleções da Coréia do Sul e de Marrocos pagam 200 por 1. A da Arábia Saudita é a que paga melhor: 500 por 1.
 
 Vitória vale 3 pontos no Italiano
@@ -1206,9 +1206,9 @@ O título foi assegurado com a vitória sobre o Barcelona por 77 a 64, em Barcelon
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-063</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-063</field>
+<field name="date">940527</field>
+<text_pt>
 Nome não ganha jogo e a derrota gosta de quem se acostuma com ela; a esperança está com Ronaldo e Viola
 ALON FEUERWERKER
 Especial para a Folha
@@ -1228,9 +1228,9 @@ Alon Feuerwerker é jornalista e assessor de José Dirceu, candidato do PT ao gove
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-064</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-064</field>
+<field name="date">940527</field>
+<text_pt>
 Organizadores da Copa dizem que brasileiros sempre chegam atrasados e que deve ser evitado símbolo de `OK'
 Dos enviados a Los Gatos
 Enquanto a seleção embarcava para os EUA anteontem, um grupo de 50 policiais e funcionários do aeroporto de San Jose aprendia os hábitos dos brasileiros.
@@ -1246,9 +1246,9 @@ O mapa brasileiro que ilustrava o texto continha poucas cidades anotadas. Não ci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-065</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-065</field>
+<field name="date">940527</field>
+<text_pt>
 ALBERTO HELENA JR.
 Show é com eles mesmos. Os americanos, até mesmo para lhe prestar uma informação trivial, atuam com um olho dissimuladamente perscrutando uma câmera de TV invisível.
 Assim, a chegada da seleção brasileira a San José da Califórnia não poderia ser outra coisa: um show, modesto, é verdade, discreto, mas com um roteiro leve e bem-humorado, precisão e eficiência.
@@ -1275,9 +1275,9 @@ Branco e Raí, apesar de ostentarem os números 6 e 10 nas costas, terão ainda de 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-066</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-066</field>
+<field name="date">940527</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 As seleções de futebol dos EUA e da Arábia Saudita que vão disputar a Copa do Mundo empataram em zero a zero em jogo amistoso em Piscataway, Nova Jersey.
@@ -1294,9 +1294,9 @@ Nos últimos 16 joogos disputados, os EUA venceram 4, empataram 5 e perderam 7.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-067</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-067</field>
+<field name="date">940527</field>
+<text_pt>
 De Washington
 A seleção da Arábia Saudita não vai ter pelo menos um tipo de problema durante a Copa: assédio de fãs a seus jogadores.
 Eles estão concentrados em Washington, onde farão dois dos seus três jogos nas oitavas-de-final. Na cidade, moram apenas 120 sauditas, quase todos funcionários da embaixada ou seus familiares.
@@ -1309,9 +1309,9 @@ Diz ter recebido ofertas para jogar na Europa, mas não pôde aceitá-las porque Fa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-068</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-068</field>
+<field name="date">940527</field>
+<text_pt>
 Ravelli
 Anderson
 Bjorkland
@@ -1335,9 +1335,9 @@ Além da irrisória versatilidade dos jogadores _que raramente abandonam sua posiç
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-069</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-069</field>
+<field name="date">940527</field>
+<text_pt>
 A suspensão pode acontecer por catástrofes naturais, atentados ou por decreto do governo norte-americano.
 
 Os presos da penitenciária da cidade de Palmira, na Colômbia, rebelaram-se, na quarta-feira. O motivo foi a falta de um aparelho de televisão no presídio, o que vai deixar os presos sem assistir à Copa do Mundo.
@@ -1347,9 +1347,9 @@ O técnico da Bolívia, Xavier Azkargorta, vai se reunir com os médicos da seleção
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-070</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-070</field>
+<field name="date">940527</field>
+<text_pt>
 JAIRO DOS SANTOS
 Especial para a Folha
 Fiel à concepção de seu treinador, a seleção da Espanha procura a combinação técnica-força.
@@ -1368,9 +1368,9 @@ Jairo dos Santos, 48, trabalha como observador para a seleção brasileira desde a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-071</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-071</field>
+<field name="date">940527</field>
+<text_pt>
 
 Um infortúnio inesperado está preocupando terrivelmente o inglês Roy Hodqson, o treinador da melhor seleção da Suíça em todos os tempos. Durante um treinamento, num lance boboca, o arqueiro titular da equipe, Marco Pascolo, se chocou com o atacante reserva Marco Grassi, seu xará, e comprometeu os ligamentos internos do seu joelho direito. Pascolo é dúvida para o Mundial dos EUA.
 
@@ -1378,9 +1378,9 @@ Ao menos a cidade de Detroit, sede de quatro pelejas da Copa, decidiu eternizar 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-072</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-072</field>
+<field name="date">940527</field>
+<text_pt>
 SÍLVIO LANCELLOTTI
 Podem-se tranquilizar os retranqueiros e os empatadores de plantão. A decisão da Fifa, três pontos por vitória na fase inicial da Copa dos EUA/94, não vai mudar quase nada a situação das equipes na competição. Uma pesquisa simples, fundamentada no passado dos mundiais, demonstra que pouquíssimas alterações ocorreriam se a norma fosse aplicada desde a primeira competição, em 1930.
 Valessem, então, os três pontos por vitória, em apenas três situações se modificaria o perfil dos torneios. No Grupo 3 da Suécia/58, a Hungria ficaria atrás da dona da casa, com direito a passar às quartas-de-final, sem a necessidade de uma partida de desempate contra Gales, que acabou arrebatando a qualificação.
@@ -1394,9 +1394,9 @@ Dirigia o Brasil na Alemanha/74 o mestre Mário Zagalo. Assessoravam-no os mesmos
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-073</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-073</field>
+<field name="date">940527</field>
+<text_pt>
 Do enviado especial
 O "Dream Team" (time dos sonhos) do vôlei vive em Belo Horizonte o clima que cerca os astros do rock.
 Sitiados em um hotel no centro da cidade, os jogadores não podem fazer menção de sair à rua sem que um exército de ninfetas se movimentasse em todas as direções em busca de um autógrafo, um abraço e um beijo dos jogadores.
@@ -1413,9 +1413,9 @@ As preocupações do técnico: Carlão, que está gripado, e Leandro, que, pelo esque
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-074</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-074</field>
+<field name="date">940527</field>
+<text_pt>
 Das agências internacionais
 O Houston Rockets deu um passo importante para a conquista do título da Conferência Oeste da NBA, a liga profissional de basquete dos EUA.
 Venceu o Utah Jazz por 104 a 99 e ampliou para 2 a 0 sua vantagem na série final melhor de sete jogos que disputam.
@@ -1430,9 +1430,9 @@ O armador John Stockton, que marcou 18 pontos e fez dez assistências (bola passa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-075</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-075</field>
+<field name="date">940527</field>
+<text_pt>
 ANDRÉ LAHOZ
 Enviado especial a Barcelona
 O GP da Espanha pode não se realizar por falta de pilotos. Os corredores se recusam a entrar nos carros enquanto não forem feitas as mudanças no traçado da pista que apresentaram há 15 dias para a FIA, entidade que dirige o automobilismo internacional.
@@ -1452,9 +1452,9 @@ A Benetton enviou carta à FIA, criticando-a abertamente e a responsabilizando po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-076</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-076</field>
+<field name="date">940527</field>
+<text_pt>
 Do enviado especial a Barcelona
 O piloto Rubens Barrichello realmente esteve nos planos da equipe Williams.
 O dono da equipe, Frank Williams, em resposta à pergunta da Folha, admitiu que o brasileiro foi um dos pilotos cogitados para substituir o tricampeão Ayrton Senna, morto em acidente no último dia 1º durante o GP de San Marino, disputado em Imola (Itália).
@@ -1470,9 +1470,9 @@ A "briga" foi interrompida em 1993 quando o brasileiro estreou na F-1. Em 1994, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-077</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-077</field>
+<field name="date">940527</field>
+<text_pt>
 Do enviado especial
 David Coulthard é o substituto de Ayrton Senna na equipe Williams. O escocês de 23 anos era o piloto de testes da escuderia inglesa. Foi rival de Rubens Barrichelo na F-3 e F-3000 (1991 e 92).
 Por enquanto, tem contrato por apenas uma corrida. Dependendo de seu desempenho, pode virar definitivamente o segundo piloto da equipe nesta temporada.
@@ -1499,9 +1499,9 @@ Coulthard - Se eu ficar pensando que tenho de mostrar um bom resultado, isso ser
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-078</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-078</field>
+<field name="date">940527</field>
+<text_pt>
 Organizadores da Copa dizem que brasileiros sempre chegam atrasados e que deve ser evitado símbolo de `OK'
 Dos enviados a Los Gatos
 Enquanto a seleção embarcava para os EUA anteontem, um grupo de 50 policiais e funcionários do aeroporto de San Jose aprendia os hábitos dos brasileiros.
@@ -1517,16 +1517,16 @@ O mapa brasileiro que ilustrava o texto continha poucas cidades anotadas. Não ci
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-079</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-079</field>
+<field name="date">940527</field>
+<text_pt>
 Os jogos, que acontecem entre os dias 13 e 15 de agosto, são os seguintes: Palmeiras x Paraná, Santos x Remo, Criciúma x Corinthians, Paysandu x São Paulo, Atlético (MG) x Portuguesa, Guarani x Cruzeiro, Bragantino x Grêmio, Internacional x União São João, Sport x Flamengo, Botafogo x Vitória, Bahia x Vasco e Fluminense x Náutico.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-080</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-080</field>
+<field name="date">940527</field>
+<text_pt>
 
 Neste artigo, dois nomes estão incorretos: Robert Gallo e Don Francis (e não Max Gallo e Don Taylor, respectivamente) são os personagens.ERRAMOS
 Filme vê Aids como aventura científica
@@ -1557,9 +1557,9 @@ Porque, no fim das contas, "E a Vida Continua" (um título inadequado) é sobretud
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-081</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-081</field>
+<field name="date">940527</field>
+<text_pt>
 ZECA CAMARGO
 Especial para a Folha
 "E a Vida Continua" é um caso de boa adaptação. Não que tudo que esteja no livro tenha sido passado de maneira perfeita para o filme. O próprio autor, Randy Shilts, teria reclamações suficientes para escrever outro livro. Mas ele pode se orgulhar de que a essência do seu trabalho foi respeitada.
@@ -1570,31 +1570,31 @@ Com "And the Band", Shilts quis fazer um livro para combater a homofobia _seu úl
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-082</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-082</field>
+<field name="date">940527</field>
+<text_pt>
 Embora a miss Colômbia não tenha ganho o título sábado passado (ficou em segundo), conseguiu um fã extremado. O vice-presidente filipino Joseph Estrada causou revolta ao declarar: "Se ela quiser ficar comigo, largo minha mulher e até a assasssino, se for preciso".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-083</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-083</field>
+<field name="date">940527</field>
+<text_pt>
 A produção de "Love Hurts", em cartaz em Nova York, espera ansiosamente a presença de John Wayne Bobbitt na sessão de hoje. Ele reservou dois ingressos para a peça, que é uma paródia musical da castração que sofreu pelas mãos de sua ex-mulher, Lorena Bobbitt.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-084</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-084</field>
+<field name="date">940527</field>
+<text_pt>
 MONDO DE JACKIE 1
 Jackie O brigou com Sinatra em 1961, culpando-o por ter apresentado Judith Campbell Exmer a JFK, que depois disse ter tido um caso com o presidente. Mas essas são águas passadas e Jackie O se reaproximou do cantor e convidou-o para escrever sua biografia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-085</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-085</field>
+<field name="date">940527</field>
+<text_pt>
 Mostra reúne em um percurso de 5,5 km 921 trabalhos de 240 artistas, realizados a partir de 1900 até a atualidade
 Da Reportagem Local
 A mostra Bienal Brasil Século 20, uma retrospectiva das artes plásticas brasileiras nos últimos cem anos, termina neste domingo. A exposição foi aberta no dia 24 de abril. Reúne quase mil trabalhos dos mais importantes artistas brasileiros do século.
@@ -1613,9 +1613,9 @@ Livro: Foram impressos 5.000 exemplares do catálogo completo da exposição, com 5
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-086</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-086</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 O público que percorreu a exposição Bienal Brasil prefere os trabalhos expostos entre 1917 e 1945, a fase denominada modernismo na história da arte no país.
 Este foi o resultado de uma pesquisa realizada pelo Datafolha nos dias 7 e 8 de maio, com 420 pessoas.
@@ -1624,9 +1624,9 @@ A manutenção do prédio foi considerada a maior falha da mostra (por 14% das pess
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-087</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-087</field>
+<field name="date">940527</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 Faz parte do treinamento dos monges zen-budistas uma prática conhecida como "takuhatsu" _a peregrinação para mendigar. Além de ajudar os mosteiros que vivem de doações e forçar o discípulo a ser humilde, esta prática tem ainda um outro sentido: purificar a cidade onde mora.
@@ -1635,9 +1635,9 @@ A esmola serve como a ligação entre duas necessidades, e o ambiente da cidade me
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-088</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-088</field>
+<field name="date">940527</field>
+<text_pt>
 WILLIAM LI
 Especial para a Folha
 A cravista brasileira Maria de Lourdes Cutolo, professora de música barroca na Escola de Música de Brasília, apresentou-se anteontem à noite no auditório do Instituto Goethe de São Paulo.
@@ -1652,9 +1652,9 @@ O recital terminou com duas "Sonatas" (K. 420 e K. 421) de Domenico Scarlatti (1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-089</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-089</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 A série de maior sucesso nos EUA neste ano, "A Dança da Morte" ("The Stand"), está sendo lançada no Brasil em vídeo. Foram cem dias de filmagem em vários lugares dos EUA para chegar a quase seis horas de filme.
 Um vírus criado em um laboratório militar foge ao controle dos cientistas e mata milhões de pessoas em poucas horas. Os poucos sobreviventes, imunes à doença _uma espécie de gripe_, vagam pelas estradas americanas. Cria-se uma espécie de road movie macabro.
@@ -1668,9 +1668,9 @@ Outro ponto são os efeitos especiais. Milhões de cadáveres e Jamey Sheridan (a v
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-090</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-090</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 Outro lançamento da Warner nesta safra é "O Demolidor" ("Demolition Man", EUA, 1993). É um tanto absurdo, mas para quem gosta de ver porrada na tela é um prato cheio.
 "O Demolidor" tem Silvester Stallone e Wesley Snipes no papel principal. Stallone é um John Spartan, um policial de Los Angeles que não poupa violência e destruição para cumprir a lei. Snipes é Simon Phoenix, um dos principais bandidos de L.A. em 1996. Daqui a dois anos, cidade vai estar destruída por uma guerra civil.
@@ -1685,9 +1685,9 @@ A atuação de Stallone é o esperado. O rapaz continua um mestre na arte de interp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-091</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-091</field>
+<field name="date">940527</field>
+<text_pt>
 Montagem de Zé Celso traz de volta as recriações anárquicas que celebrizaram o Oficina na década de 60
 MARIO VITOR SANTOS
 Da Reportagem Local
@@ -1710,9 +1710,9 @@ Pascoal da Conceição, 40, acha que a força da encenação está também em conseguir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-092</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-092</field>
+<field name="date">940527</field>
+<text_pt>
 Da Reportagem Local
 Depois de "Ham-let", o Oficina mostrará a primeira parte do que Zé Celso chama de trilogia da "Cacilda!". A companhia trabalha há tempos em "Mistério Gososo", de Oswald de Andrade (já apresentada na rua durante o Carnaval, com sucesso), e "As Bacantes", de Eurípides.
 Em seu projeto de alcançar público mais amplo, o grupo negocia ainda a transmissão de suas peças pela TV e deve mostrar "Galileu Galilei" no dia 25 de julho no Ibirapuera, data da chegada do primeiro homem à Lua.
@@ -1736,9 +1736,9 @@ Nós não pretendemos trabalhar desvinculados das pessoas que fazem arte em todas 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-093</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-093</field>
+<field name="date">940527</field>
+<text_pt>
 Mostra reúne 45 trabalhos realizados entre 1930 e meados da década de 50 por mais de 20 fotógrafos
 FERNANDO CANZIAN
 De Nova York
@@ -1760,9 +1760,9 @@ Há vários outros trabalhos inspirados no cotidiano, mas a maioria é de fotos est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-094</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-094</field>
+<field name="date">940527</field>
+<text_pt>
 JAIR RATTNER
 Especial para a Folha, de Lisboa
 As principais referências do surrealismo estão expostas em Lisboa. A exposição "As Tentações de Bosch ou O Eterno Retorno" encontra-se no Museu Nacional de Arte Antiga, da capital portuguesa.
@@ -1792,9 +1792,9 @@ Do verdadeiro Arcimboldo, que viveu entre 1527 e 1593, conhecem-se apenas 16 ori
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-095</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-095</field>
+<field name="date">940527</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 Com a morte do guitarrista norte-americano Joe Pass na segunda-feira, o jazz clássico dos anos 40 e 50 perdeu um dos últimos remanescentes célebres ainda em atividade.
@@ -1817,9 +1817,9 @@ Joe Pass era casado com Ellen Pass e teve dois filhos: Nina e Joe Jr.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-096</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-096</field>
+<field name="date">940527</field>
+<text_pt>
 O ator Leslie Nielsen e diretor estreante animam novo filme devastador da série "Corra que a Polícia Vem Aí"
 Da Redação
 
@@ -1844,9 +1844,9 @@ Ainda assim, pode-se conjecturar que Segal dá um novo ânimo a esse humor, que no
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-097</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-097</field>
+<field name="date">940527</field>
+<text_pt>
 "Tão Perto, Tão Longe", do cineasta alemão, pretende ser uma continuação para "As Asas do Desejo"
 BERNARDO CARVALHO
 Da Reportagem Local
@@ -1872,9 +1872,9 @@ A favor do cineasta, conta a trilha sonora de Laurent Petitgand, com U2, Lou Ree
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-098</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-098</field>
+<field name="date">940527</field>
+<text_pt>
 Erros de edição criam névoa admirativa em torno de livros como "Nas Trilhas da Crítica", com artigos de Proust
 MARCELO COELHO
 Da Equipe de ArticulistasAliteratura ocidental conta com cerca de 2.500 anos de idade. O número de grandes obras escritas durante esse tempo todo é assustador. Não é difícil, a esta altura, topar quase que casualmente com romances esplêndidos, com poemas geniais, com peças de teatro inesquecíveis.
@@ -1905,9 +1905,9 @@ Sem notas, na confusão de frases sem sentido, cria-se uma espécie de névoa admir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-099</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-099</field>
+<field name="date">940527</field>
+<text_pt>
 EVA JOORY
 Da Reportagem Local
 Com uma megafesta nesta terça-feira, no Jóquei Clube de São Paulo, a marca americana Guess? comemora a abertura de sua primeira filial no Brasil. A loja fica no andar térreo do Morumbi Shopping. O projeto nasceu de uma parceria entre um grupo de empresário brasileiros e a Guess? americana.
@@ -1918,9 +1918,9 @@ Segundo o diretor-executivo da loja brasileira, Maurício Saad, 32, A Guess? tem 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-100</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-100</field>
+<field name="date">940527</field>
+<text_pt>
 E pronto. Sábado passado foi o último dia do Krawitz. E quem viveu viveu, o que foi aquela adorável baderna. Que nem em NY tinha igual. Depois de morro com os donos, o staff _DJs, bar, Nenê e cia._ abandona a casa e aproveita para pôr todo mundo no pau. A nova casa, com o mesmo povo, tem nome: Samantha Santa. Abre em agosto, na r. Frei Caneca. Até lá.
 
 VALDEMENTE!!!
@@ -1945,9 +1945,9 @@ E é hoje que o nosso Renato Lopes toca no Sound Factory Bar, em NY. E na terça t
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-101</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-101</field>
+<field name="date">940527</field>
+<text_pt>
 NELSON DE SÁ
 Da Reportagem Local
 
@@ -1965,9 +1965,9 @@ Um confronto que o espectador de televisão, como aquele do teatro, terá que faze
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-102</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-102</field>
+<field name="date">940527</field>
+<text_pt>
 O Romário tá certo! Cadeira do meio é pra reserva e a do corredor pra perna-de-pau! Rarará! Rarará!
 JOSÉ SIMÃO
 Da Equipe de Articulistas
@@ -1981,9 +1981,9 @@ Claro que americano não gosta de futebol. Como é que americano vai achar emocion
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-103</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-103</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 
 Filme: Jesse James
@@ -2000,9 +2000,9 @@ Todo o princípio da aventura de Jesse (Tyrone Power) e seu irmão Frank (Henry Fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-104</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-104</field>
+<field name="date">940527</field>
+<text_pt>
 Seus três andares na praça Vilaboim reservam boas surpresas, como a recuperação dos pratos de botequins
 JOSIMAR MELO
 Especial para a Folha
@@ -2017,9 +2017,9 @@ Veja o quadro de restaurantes à pág. Especial-10.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-105</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-105</field>
+<field name="date">940527</field>
+<text_pt>
 JORGE CARRARA
 Especial para a Folha
 Não é a habitual oferta de vinhos de vários países que caracteriza o estoque do Club du Taste-Vin, uma nova importadora da cidade. Muito pelo contrário, ela está dedicada por inteiro aos produtos franceses, como o são seus proprietários, François Dupuis e Didier Chinchilla.
@@ -2037,9 +2037,9 @@ CLUB DU TASTE-VIN: tel. 011/64-7232 e fax 011/851-1085)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-106</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-106</field>
+<field name="date">940527</field>
+<text_pt>
 
 BECA 2 - Cintra planeja firmar convênio com a Academia Culinária da Califórnia, cujo método seria utilizado aqui. Nas manhãs haveriam cursos profissionalizantes e às tardes, cursos para amadores, ministrados pelo próprio Cintra e chefs convidados. A versão paulista da academia vai funcionar em Higienópolis, no espaço preparado para isso em um edifício de flats.
 
@@ -2048,9 +2048,9 @@ DÉFEUNER - O L'Arnaque (r. Oscar Freire, 518, tel. 011/280-0081, jardins) implan
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-107</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-107</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 Começa amanhã, no Brás, a 75ª edição da tradicional festa italiana de São Vito, o padroeiro da cidade de Polignano a Mare, no Sul da Itália.
 Organizada pela Associação São Vito Mártir, a festa contece anualmente e arrecada fundo para uma escola e uma creche mantidas pela associação.
@@ -2064,9 +2064,9 @@ Em 801, San Vito aparece em visão para princesa de Salerno e pede que seus resto
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP940527-108</text_pt>
-<text_pt name="date">940527</text_pt>
-<text_pt name="text">
+<field name="id">FSP940527-108</field>
+<field name="date">940527</field>
+<text_pt>
 Da Redação
 Termina neste domingo, dia 29, na Casa de Minas, a 2ª Mostra da Cachaça Mineira. Além de apresentar cerca de 20 marcas artesanais do produto, o evento marca o lançamento nacional da Sociedade Brasileira da Cachaça.
 O produto em exibição poderá ser adquirido a preços que variam entre 2,5 URVs e 5 URVs a garrafa. Os visitantes ainda poderão degustar o produto oferecido.

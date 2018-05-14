@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP950501-001</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-001</field>
+<field name="date">950501</field>
+<text_pt>
 Jorge Bandeira, piloto e ex-sócio de Paulo César Farias em empresa de táxi aéreo, foi preso ontem pela polícia federal argentina em Buenos Aires.
 Ele estava foragido da Justiça brasileira há um ano e dez meses. Foi condenado a quatro anos de prisão por sonegação e a um ano e dois meses por falsidade ideológica.
 Há outro pedido de prisão preventiva contra o piloto por remessa ilegal de US$ 1,5 milhão ao exterior.
@@ -11,16 +11,16 @@ A PF brasileira localizou Bandeira em Buenos Aires em dezembro, quando sua mulhe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-002</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-002</field>
+<field name="date">950501</field>
+<text_pt>
 Circula hoje o ``Jornal de Resenhas", publicação mensal da Folha, USP e Discurso Editorial. Ele traz a análise de quatro livros de viajantes que passaram pelo país entre os séculos 16 e 20. Leia também textos do historiador Fernando Novais e da filósofa Marilena Chaui.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-003</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-003</field>
+<field name="date">950501</field>
+<text_pt>
 A proposta de reforma da Previdência passou pelo primeiro obstáculo, ao ter a sua tramitação admitida pela Comissão de Constituição e Justiça da Câmara. Mas a admissibilidade não entra no mérito da proposta em si, que precisa ser discutida sob múltiplos enfoques, até porque são múltiplos os modelos em vigor no mundo.
 Um dos pontos centrais a ser examinado diz respeito ao elevadíssimo valor dos recolhimentos sobre os salários e a folha de pagamentos. A única alteração feita nesse aspecto até aqui foi o aumento da alíquota de contribuição sobre os salários mais altos de 10% para 11%. Os empregadores continuam a pagar 20% sobre a folha.
 Ora, conforme relatório organizado pelo Banco Garantia, nos Estados Unidos, por exemplo, a Previdência oficial recolhe apenas 6,2% dos empregados e mais 6,2% sobre a folha de pagamentos das empresas. A soma dá, portanto, menos da metade da porcentagem cobrada no Brasil.
@@ -37,9 +37,9 @@ Essa legislação atende, entretanto, a um critério de justiça social, o de não de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-004</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-004</field>
+<field name="date">950501</field>
+<text_pt>
 Está previsto para começar hoje, no Brasil, o acesso comercial à Internet, rede mundial de computadores. Mais de 15 mil usuários já se inscreveram para poder acessar seus serviços. Até agora, tinham de se conectar por meio de instituições educativas ou de pesquisa.
 Os primeiros 250 candidatos a usuários selecionados pela Embratel, que fazem parte de um projeto-piloto, pagarão apenas as tarifas hoje vigentes nos serviços de telecomunicações, enquanto a estatal define qual será a taxa cobrada pelo acesso à rede.
 Embora desconhecida pelo grande público, a rede Internet é responsável por um progresso científico considerável. Unifica dados e agiliza a colaboração entre universidades de muitos países. A relação de computador a computador possibilita o contato imediato entre cientistas que muitas vezes não teriam oportunidade de fazê-lo.
@@ -51,9 +51,9 @@ Espera-se então que interesses tão diferentes como o científico e comercial poss
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-005</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-005</field>
+<field name="date">950501</field>
+<text_pt>
 Marcelo Beraba
 SÃO PAULO _ A criminalidade violenta explodiu nas grandes cidades brasileiras no final da década de 70.
 O fenômeno coincidiu com o início do esgotamento de quase 20 anos de regime fechado em que os poderes constitucionais _Executivo, Legislativo e Judiciário_ foram subjugados por dois poderes maiores: o militar e o policial.
@@ -69,9 +69,9 @@ Mas são essas ações miseráveis, que se repetem diariamente em lugares miseráveis
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-006</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-006</field>
+<field name="date">950501</field>
+<text_pt>
 Josias de Souza 
 BRASÍLIA _ É impressionante a semelhança entre o cotidiano de um político do PT e a rotina de um bovino. A vaca e o petista não nasceram para a solidão. São seres coletivos, aos quais não é permitido um único e escasso instante de individualidade.
 Imagine uma boiada no pasto. Pense agora em uma bancada de petistas no Congresso. Evite mesclar as imagens. Embora parecidos, a vaca e o petista não se misturam a outras raças.
@@ -85,9 +85,9 @@ O PT argumenta que é contra a reforma porque, ao contrário da maioria, tem os pé
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-007</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-007</field>
+<field name="date">950501</field>
+<text_pt>
 Carlos Heitor Cony 
 RIO DE JANEIRO _ Ainda não tenho _e ignoro se terei_ opinião sobre a reforma ortográfica que está a caminho. Desde logo, porém, me alegrei com a tardia reabilitação das letras exiladas, sobretudo com o retorno do ipsilone. Evidente que exulto em causa própria. Até hoje não engoli uma época em que os radicais da ortografia cismaram de escrever meu nome de família com i.
 Cheguei ao exagero: recebi há tempos o livro do Sérgio Cabral sobre o Ary Barroso. Saudei esse livro antecipadamente, aqui mesmo neste espaço. Tentei lê-lo, apesar de o nome de Ary vir castrado com Ari. Não consegui ir além de duas páginas: aquele não era o Ary que eu conheci e do qual até hoje sou impenitente admirador. Vou esperar a segunda edição da obra, sei que o Sérgio é varão exemplar, cidadão respeitador das leis deste país, será obrigado, sob vara, a escrever certo o nome do autor de ``Rancho Fundo".
@@ -97,9 +97,9 @@ Houve chefe de revisão em jornal carioca que chegou impor Kubitschek como Cubits
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-008</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-008</field>
+<field name="date">950501</field>
+<text_pt>
 Florestan Fernandes 
 Os comentários de intenção crítica podem ser vistos como a cura dos furúnculos. Seus autores ora empregam com sagacidade o bisturi, ora optam, como o sargento de Baldus, pelo sabre e o iodo. Há também os que usam o tacape. Darcy Ribeiro e Adriano Diogo, por estranha afinidade, preferiram esta última técnica. Ambos são parlamentares: um, senador da República; o outro, vereador da Câmara paulistana.
 A visão paroquial de Diogo (Painel do Leitor, 23/4) revela-se na atitude contra o ``tratamento de doenças". Um megaprojeto, como o sugerido pela equipe Raia, é descartado em favor da orientação preventiva. Em todos os países existe lugar para a prevenção e para o tratamento. Hoje, com a tecnologia médico-hospitalar tão complexa e cara, os grandes hospitais treinam especialistas de alto nível, realizam descobertas que só eles possuem recursos para produzir e desenvolvem tratamento em larga escala.
@@ -113,9 +113,9 @@ Florestan Fernandes escreve às segundas-feiras nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-009</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-009</field>
+<field name="date">950501</field>
+<text_pt>
 São inevitáveis medidas de contenção do consumo no processo de estabilização 
 ANTONIO KANDIR 
 Passados dez meses da implantação bem-sucedida do Plano Real, a indústria brasileira está próxima ao limite de utilização da capacidade instalada. Dito de outra forma, a economia nacional funciona a pleno vapor.
@@ -142,9 +142,9 @@ ANTONIO KANDIR, 41, engenheiro, doutor em economia, é deputado federal pelo PSDB
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-010</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-010</field>
+<field name="date">950501</field>
+<text_pt>
 Os norte-americanos temem que a Amazônia se transforme numa incontrolável Colômbia 
 JOSÉ ALTINO MACHADO 
 Coisa difícil compreender os brasileiros. Pelo menos aqueles dignos de nota, que se tornam dirigentes do Brasil. Estou há muito tempo na Amazônia e sempre escutei o governo e a opinião pública discursarem sobre a vulnerabilidade da Amazônia, a falta de fiscalização e até a total ausência do próprio governo na região. Também já nos acostumamos a escutar que a Amazônia só é administrada, e mal, pela polícia.
@@ -167,9 +167,9 @@ JOSÉ ALTINO MACHADO, 53, foi fundador e presidente da União Sindical dos Garimpe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-011</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-011</field>
+<field name="date">950501</field>
+<text_pt>
 ``Nas edições dos dias 14 e 27 de setembro de 1994, a Folha noticiou duas vezes a investigação sobre os gastos de minha campanha, promovendo, em alguma medida, constrangimento a minha pessoa frente à opinião pública e aos meus eleitores. Um processo foi aberto e as investigações prosseguiram até o seu momento final, onde a Procuradoria Geral de São Paulo sentenciou de maneira irrevogável a improcedência da denúncia."
 Ayres da Cunha, deputado federal pelo PSDB-SP (São Paulo, SP)
 
@@ -214,9 +214,9 @@ Maria Aparecida Morgado (São Paulo, SP)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-012</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-012</field>
+<field name="date">950501</field>
+<text_pt>
 Líder do grupo acredita que humanidade é formada de uma raça só 
 MARILENE FELINTO
 Da Equipe de Articulistas  
@@ -261,9 +261,9 @@ Conceição - Não. O movimento só tem crescido, desde janeiro. Tem comitês em vári
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-013</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-013</field>
+<field name="date">950501</field>
+<text_pt>
 Emenda que quebra monopólio deve ser votada na quarta na Câmara e aprovação é tida como certa pelo governo 
 MARTA SALOMON
 Da Sucursal de Brasília
@@ -300,9 +300,9 @@ O capital externo só poderá investir na navegação de turismo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-014</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-014</field>
+<field name="date">950501</field>
+<text_pt>
 GÁS CANALIZADO
 . Votação prevista no plenário da Câmara: quarta ou quinta-feira
 . Por 24 votos a 6, parecer do relator foi aprovado na comissão especial
@@ -356,9 +356,9 @@ Acaba com a exclusividade das embarcações brasileiras no transporte de passageir
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-015</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-015</field>
+<field name="date">950501</field>
+<text_pt>
 MARTA SALOMON 
 Da Sucursal de Brasília 
 O presidente Fernando Henrique Cardoso atendeu a pressões de seus aliados do PFL quando decidiu apressar o ritmo do programa de venda das empresas estatais.
@@ -372,9 +372,9 @@ Serra concordou que o ritmo estava lento até para levar adiante a lista de priva
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-016</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-016</field>
+<field name="date">950501</field>
+<text_pt>
 ELVIRA LOBATO 
 Da Reportagem Local 
 Depois de muita polêmica com o Ministério da Ciência e Tecnologia, a Embratel inaugura hoje o acesso comercial à Internet, maior rede de comunicações por computador do mundo.
@@ -392,9 +392,9 @@ O Ministério da Ciência e Tecnologia tem defendido a cobrança de uma tarifa mens
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-017</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-017</field>
+<field name="date">950501</field>
+<text_pt>
 Secretário de Covas diz que trabalhador vive situação ``aflitiva" e pede unificação do mínimo entre membros do Mercosul 
 ANTONIO CARLOS SEIDL 
 Da Reportagem Local 
@@ -414,9 +414,9 @@ Eunice Cabral, presidente do Sindicato das Costureiras e Trabalhadores nas Indús
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-018</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-018</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 A primeira comemoração do Dia do Trabalho no Brasil aconteceu há cem anos, em Santos (72 km a sudeste de São Paulo), em 1º de maio de 1895 _nove anos após os acontecimentos que originaram a data nos EUA.
 Em 1º de maio de 1886, sindicalistas norte-americanos deflagraram manifestações pela jornada de oito horas diárias de trabalho.
@@ -427,9 +427,9 @@ Oito operários, liderados pelo anarquista August Spies, foram presos e responsab
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-019</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-019</field>
+<field name="date">950501</field>
+<text_pt>
 CRISTIANE PERINI LUCCHESI 
 Da Reportagem Local 
 O movimento sindical vive momento de redefinição. O debate sobre as reformas constitucionais funciona hoje como divisor de águas e provoca maremoto.
@@ -460,9 +460,9 @@ E quem diria que é hoje a CUT, e não a Força Sindical, a central que vai levar a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-020</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-020</field>
+<field name="date">950501</field>
+<text_pt>
 Ex-governador derrota chapa de Fleury por 272 votos a 86 e pede que partido reavalie apoio a governo federal 
 EMANUEL NERI 
 Da Reportagem Local 
@@ -495,9 +495,9 @@ quercistas e fleuryzistas admitem que uma composição dos dois grupos é impossíve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-021</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-021</field>
+<field name="date">950501</field>
+<text_pt>
 Da Sucursal de Brasília 
 O secretário de Governo de Goiás, Virmondes Cruvinel, afirmou que assumiu a vaga de deputado para atender ``uma série de compromissos". Alegou que tratou de projetos de sua autoria que estavam em andamento na Câmara. Ele foi deputado entre 1991 e 1995.
 O secretário de Agricultura de Santa Catarina, Dejandir Dalpasquale, afirmou que tomou posse, mesmo por um dia, porque perderia a suplência.
@@ -507,9 +507,9 @@ Gonzaga estava no interior. A secretária de Mendes afirmou à Folha que tentaria 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-022</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-022</field>
+<field name="date">950501</field>
+<text_pt>
 Do enviado especial a Águas de Lindóia 
 O governador de São Paulo, Mário Covas (PSDB), disse ``não" às principais reivindicações de 325 prefeitos do Estado, anteontem, em Águas de Lindóia (180 km ao norte de São Paulo).
 Os prefeitos, reunidos no 39º Congresso Estadual de Municípios, entregaram carta ao governador pedindo o ``término das obras paralisadas" e que o Estado se responsabilizasse pela iluminação pública.
@@ -518,9 +518,9 @@ Mas veio o anticlímax. Covas negou a reivindicação, apontando prejuízos nas esta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-023</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-023</field>
+<field name="date">950501</field>
+<text_pt>
 Operação conjunta prende o piloto Jorge Bandeira, condenado por falsidade ideológica e sonegação fiscal 
 RUI NOGUEIRA 
 Coordenador de Política da Sucursal de Brasília 
@@ -551,9 +551,9 @@ A mulher do piloto costumava dizer em entrevistas que Bandeira ``entrou no rolo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-024</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-024</field>
+<field name="date">950501</field>
+<text_pt>
 Da Sucursal de Brasília 
 O ministro interino da Justiça, Milton Seligman, disse que o governo brasileiro expediu ontem à tarde, através do Itamaraty (Ministério das Relações Exteriores), para a Justiça argentina, a cópia do mandado de prisão do STF (Supremo Tribunal Federal) contra Jorge Bandeira.
 O pedido de extradição será feito amanhã, por intermédio da embaixada brasileira em Buenos Aires. A PF e o Ministério da Justiça calculam que a extradição pode demorar entre 3 e 15 dias.
@@ -568,9 +568,9 @@ Favetti destacou a cooperação das polícias federais da Argentina e do Uruguai.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-025</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-025</field>
+<field name="date">950501</field>
+<text_pt>
 MARTA SALOMON
 Da Sucursal de Brasília 
 Com uma ordem de prisão determinada pelo STF (Supremo Tribunal Federal), o piloto Jorge Bandeira vai tentar ficar pouco tempo na cela da Superintendência da Polícia Federal quando chegar ao Brasil, informou ontem à Folha o advogado Nabor Bulhões.
@@ -584,9 +584,9 @@ No STF, Bandeira se livrou da responsabilidade pelas movimentações dos ``fantasm
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-026</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-026</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 1989
 Fernando Collor sai candidato à presidência da República. Seu amigo Paulo César Farias (PC) assume o caixa da campanha e busca dinheiro com empresários.
@@ -634,9 +634,9 @@ Fernando Collor sai candidato à presidência da República. Seu amigo Paulo César 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-027</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-027</field>
+<field name="date">950501</field>
+<text_pt>
 NELSON DE SÁ 
 Da Reportagem Local 
 O significado da prisão de Jorge Bandeira, nas palavras de Fernando Henrique, citado pelo ministro interino da Justiça, num plantão da Globo:
@@ -662,16 +662,16 @@ _ Certamente.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-028</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-028</field>
+<field name="date">950501</field>
+<text_pt>
 O ex-presidente Itamar Franco deve se casar no próximo sábado em Brasília com June Drummond. Itamar resolveu consolidar a união para poder assumir o posto de embaixador do Brasil em Portugal, já que June não aceitaria acompanhá-lo ao país sem o casamento. Depois do casamento, o casal deve seguir a Portugal em lua-de-mel. Itamar tem até 28 de maio para assumir seu posto de embaixador em Lisboa. O divórcio de June, que se separou nos Estados Unidos, foi homologado quarta-feira pelo STF (Supremo Tribunal Federal).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-029</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-029</field>
+<field name="date">950501</field>
+<text_pt>
 Operação conjunta prende o piloto Jorge Bandeira, condenado por falsidade ideológica e sonegação fiscal 
 RUI NOGUEIRA 
 Coordenador de Política da Sucursal de Brasília 
@@ -701,9 +701,9 @@ Ontem, no fim da tarde, depois de arriar a bandeira no Palácio do Alvorada, o pr
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-030</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-030</field>
+<field name="date">950501</field>
+<text_pt>
 Da Sucursal de Brasília 
 Com uma ordem de prisão determinada pelo STF (Supremo Tribunal Federal), o piloto Jorge Bandeira vai tentar ficar pouco tempo na cela da Superintendência da Polícia Federal quando chegar ao Brasil, informou ontem à Folha o advogado Nabor Bulhões.
 No STF, Bandeira foi condenado, cinco meses atrás, por falsidade ideológica, a um ano e dois meses de prisão em regime aberto.
@@ -718,30 +718,30 @@ Neste caso, um habeas corpus suspendeu a prisão enquanto Bandeira continuava for
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-031</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-031</field>
+<field name="date">950501</field>
+<text_pt>
 Sobreviventes e soldados americanos participaram ontem das comemorações dos 50 anos da libertação do campo de concentração de Dachau, o primeiro construído pelos nazistas e modelo para os demais. Ignatz Bubis, líder da comunidade judaica alemã, afirmou que "Dachau representa a brutalidade do regime nazista, do primeiro dia no poder ao amargo final".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-032</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-032</field>
+<field name="date">950501</field>
+<text_pt>
 Investigações da polícia sul-coreana indicavam que um operário trabalhando com solda é o motivo mais provável para a explosão de tubulação de gás na cidade de Taegu, que deixou cem mortos, dos quais 48 crianças. A polícia reprimiu manifestações em Seul (capital), onde estudantes protestavam contra suposta negligência do governo na explosão de sexta-feira.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-033</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-033</field>
+<field name="date">950501</field>
+<text_pt>
 Norman Olson e Ray Southwell, dois líderes fundadores do grupo paramilitar Milícia de Michigan, suspeito de envolvimento com o atentado de Oklahoma City (EUA), abandonaram a organização anteontem. Eles ficaram isolados após responsabilizarem o governo japonês pelo ataque do dia 19 de abril, que deixou mais de 125 mortos e 64 desaparecidos.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-034</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-034</field>
+<field name="date">950501</field>
+<text_pt>
 O premiê russo Viktor Tchernomirdin reiterou sua intenção de fundar um "partido da estabilidade. Seus seguidores marcaram para o próximo dia 12 o congresso de fundação. 
 
 Lech Walesa vai tentar reeleição 
@@ -755,9 +755,9 @@ Restos dos corpos de cerca de seis pessoas foram encontrados na última sexta-fei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-035</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-035</field>
+<field name="date">950501</field>
+<text_pt>
 De Paris 
 Déficit afasta França do ECU 
 O ex-presidente da Comissão Européia Jacques Delors disse que a França poderá deixar de cumprir até 1999 os critérios fixados pela União Européia para a adoção da moeda única (o ECU) por causa do déficit orçamentário e da necessidade de criar empregos.
@@ -765,9 +765,9 @@ Em entrevista ao "Monde", o ex-presidente do órgão executivo da UE diz que o déf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-036</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-036</field>
+<field name="date">950501</field>
+<text_pt>
 O presidente polonês Lech Walesa anunciou que vai tentar a reeleição no final do ano. O ex-líder do sindicato Solidariedade, que ocupa o cargo desde 1990, está em sexto lugar nas pesquisas de opinião, com apenas 7% das preferências. 
 
 Professores seguem em greve na Bolívia 
@@ -781,9 +781,9 @@ Dez crianças morreram e 16 ficaram gravemente feridas com a colisão de um ônibus
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-037</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-037</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 A Garoto investe este ano US$ 26 milhões em marketing. É a maior verba entre as três grandes do chocolate. A subsidiária da suíça Nestlé aplicará US$ 15 milhões.
 Segundo Guilherme Nucci, gerente de marketing, até três anos atrás a Garoto era uma empresa mais preocupada com produção.
@@ -801,9 +801,9 @@ Testado no mercado de Porto Alegre, a Nestlé está estendendo as vendas de Kit-Ka
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-038</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-038</field>
+<field name="date">950501</field>
+<text_pt>
 PAULO GODOY 
 A adoção do seguro-garantia de obras públicas é parte das mudanças nas relações entre o Estado e a iniciativa privada, num novo contexto em que o mercado terá melhores condições que o governo de assegurar _em seu benefício e no da sociedade_ o cumprimento e a qualidade dos contratos. Seguro é operação vinculada à garantia. E a garantia se faz necessária em função da existência de riscos. Na contratação de obras públicas, há riscos para os dois lados envolvidos: o órgão contratante e a empresa construtora.
 Os maiores riscos da empresa concentram-se numa das poucas obrigações da outra parte _o fiel cumprimento dos contratos. E aqui cabe destacar que a crise cada vez maior da capacidade de financiamento do Estado acentuou a quebra dos compromissos dessa outra parte, através das formas mais habituais de desrespeito aos contratos _atrasos de pagamento e suspensão dos projetos em execução.
@@ -826,9 +826,9 @@ PAULO GODOY, 40, administrador de empresas, é presidente da Apeop (Associação Pa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-039</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-039</field>
+<field name="date">950501</field>
+<text_pt>
 MARCELO CHERTO e MARCUS RIZZO 
 Temos, como se sabe, nossos gurus. Pessoas com quem sempre aprendemos algo de novo. Mais do que isso, pessoas que têm o dom de ``detonar" idéias novas em nossas cabeças. E que têm a capacidade de, às vezes, nos provocar até botarmos para fora idéias das quais ainda não estamos seguros.
 Nessa categoria estão, entre outros, Salim Mattar, Peter Rodenbeck, Guilherme Affonso Ferreira, Antoninho Trevisan e Stephen Kanitz. Gente com quem é sempre um prazer trocar idéias.
@@ -844,9 +844,9 @@ MARCUS RIZZO é presidente do Instituto Franchising. Os dois são professores da F
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-040</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-040</field>
+<field name="date">950501</field>
+<text_pt>
 145) Firma individual que apresenta IRPJ pelo regime do lucro presumido, com receita anual de R$ 200 mil e percentual de 3,5% para a atividade, como será tributada na pessoa física? (U.M., Guaratinguetá/SP)
 Como sua empresa sujeitou-se à tributação mensal de 25% sobre o resultado da aplicação do percentual, R$ 200 mil x 3,5% = R$ 7.000. Este é o lucro presumido que, multiplicado pela alíquota de 25%, resulta no Imposto de Renda da pessoa jurídica (R$ 7.000 x 25% = R$ 1.750).
 Se forem distribuídos até R$ 5.250 (R$ 7.000 - R$ 1.750), este valor é considerado isento, devendo ser informado na linha 10 do quadro 3 da Declaração de Ajuste do titular.
@@ -862,9 +862,9 @@ As consultas devem ser encaminhadas exclusivamente por escrito à Redação da Folh
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-041</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-041</field>
+<field name="date">950501</field>
+<text_pt>
 Central sindical de papel 
 O artigo de Antônio Neto, presidente da CGT (Central Geral dos Trabalhadores) _com críticas contra a coluna_, é relevante apenas por permitir uma avaliação mais crítica sobre o sistema de representações na sociedade civil. Contivesse alguma idéia própria e serviria para mais coisas, como alimentar uma boa polêmica.
 Nas modernas sociedades democráticas, há duas maneiras de legitimar a ação de entidades civis.
@@ -889,9 +889,9 @@ Um pequeno resumo:
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-042</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-042</field>
+<field name="date">950501</field>
+<text_pt>
 Franquia de agências de casamento quer 40 unidades em cinco anos 
 ALINE SORDILI 
 Da Reportagem Local 
@@ -907,9 +907,9 @@ Márcia exige dos clientes até atestado de antecedentes criminais. Segundo ela, 9
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-043</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-043</field>
+<field name="date">950501</field>
+<text_pt>
 FERNANDO PAULINO NETO 
 Da Sucursal do Rio 
 O aumento do percentual do II (Imposto de Importação) para veículos de 32% para 70% _com consequente aumento dos preços_ já começa a trazer problemas às concessionárias que vendem os carros no varejo no Rio.
@@ -927,9 +927,9 @@ Em março, foram vendidos 24 mil veículos importados no país.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-044</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-044</field>
+<field name="date">950501</field>
+<text_pt>
 Fundos de títulos brasileiros negociados no mercado internacional valorizam até 18,95% no mês de abril 
 LUIZ ANTONIO CINTRA 
 Da Reportagem Local 
@@ -954,9 +954,9 @@ O Bradesco é o primeiro colocado em patrimônio, com R$ 17,6 milhões. O BBA é o s
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-045</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-045</field>
+<field name="date">950501</field>
+<text_pt>
 FRANCESC PETIT 
 Os mais sensatos ficam atônitos com este festival de absurdos vendido como propaganda `moderna' 
 Em 1989, um importante empresário, sr. Miguel Corbero, o maior fabricante de fogões, máquinas de lavar e geladeiras da Espanha, me convidou para jantar no Iate Clube de Barcelona. 
@@ -980,9 +980,9 @@ FRANCESC PETIT é sócio da agência DPZ
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-046</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-046</field>
+<field name="date">950501</field>
+<text_pt>
 Brasileiros são os que mais desconfiam das promessas de publicidade 
 Da Reportagem Local 
 Consumidores brasileiros são os que menos acreditam em propaganda que promete devolução do dinheiro se a compra não agradar. A reação dos norte-americanos é oposta: esse é o tipo de mensagem mais eficiente para fisgar clientes.
@@ -1000,9 +1000,9 @@ Norte-americanos e latinos coincidem, no entanto, quando o assunto é ouvir músic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-047</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-047</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 O mercado brasileiro favorece o lançamento de novas marcas de produtos.
 É o que sugere a pesquisa conduzida pelo instituto Roper Starch, ao revelar que 33% dos consumidores brasileiros que não têm uma marca favorita adotam o critério de escolher a que julgam ser melhor para o momento.
@@ -1018,9 +1018,9 @@ Para a maioria dos argentinos (59%) e venezuelanos (55%) entrevistados, a corrup
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-048</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-048</field>
+<field name="date">950501</field>
+<text_pt>
 HELCIO EMERICH 
 Como anda a imagem das empresas de promoção entre os anunciantes americanos? Um estudo recente realizado pelo instituto de pesquisas NPD Group, de Port Washington (NY), cobrindo um universo de diretores e gerentes de marketing e de promoção de cem grandes companhias que trabalham com produtos de consumo nos EUA, mostrou que a imagem da atividade promocional e das agências especializadas tem sofrido um certo desgaste junto aos seus clientes. Embora 56% dos anunciantes consultados continuem considerando, por exemplo, que a promoção é mais importante do que a propaganda quando se trata de cumprir objetivos imediatos de vendas, não faltaram queixas quanto à atuação das agências, especialmente no que toca ao seu ``management".
 É uma insatisfação antiga. Já em 1970, um catedrático da Harvard Business School, Roger A. Strang, escreveu um artigo na ``Harvard Business Review" que veio a se tornar uma referência polêmica mas obrigatória na análise do relacionamento entre as agências de promoção e seus clientes (o título do artigo diz tudo, algo como ``Promoção de Vendas: Crescimento Rápido, `Management' Errado"). Strang manifestava seu espanto pelo fato de a promoção ter avançado tanto dentro do ``marketing mix" das grandes corporações americanas quando, paradoxalmente, o setor negligenciava o seu gerenciamento.
@@ -1031,9 +1031,9 @@ HELCIO EMERICH é jornalista, publicitário e vice-presidente da agência Almap/BBD
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-049</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-049</field>
+<field name="date">950501</field>
+<text_pt>
 SYDNEY MANZIONE JR. 
 Especial para a Folha 
 Quando alguém vai às compras (principalmente as mensais) já sai de casa com destino. Em geral com endereço certo, pensando naquele supermercado que oferece o melhor preço, a melhor oferta (``só até sábado!"), mais conforto, comodidade ou segurança.
@@ -1054,9 +1054,9 @@ SYDNEY MANZIONE JR. é gerente de atendimento da Nielsen Serviços de Marketing.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-050</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-050</field>
+<field name="date">950501</field>
+<text_pt>
 O agropecuarista Antonio Cabrera Mano, 64, pai do secretário estadual da Agricultura, Antonio Cabrera Mano Filho (foto), ficou ferido ontem em um acidente no km 528 na rodovia Euclides da Cunha (SP-32). A camionete de Cabrera teria batido de lado em um Corcel 2. O motorista do Corcel teve ruptura de baço e foi operado na Santa Casa de Votuporanga (SP).
 
 Mortos em explosão em Pernambuco já são seis 
@@ -1086,9 +1086,9 @@ Prêmio da quadra 1.004.529,94
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-051</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-051</field>
+<field name="date">950501</field>
+<text_pt>
 Babá conta como foram as 123 horas de sete pessoas em poder de três sequestradores no Paraná 
 JOSÉ MASCHIO 
 Da Agência Folha, em Marechal Cândido Rondon 
@@ -1114,9 +1114,9 @@ Ana Paula - Em momento algum. Só no início tínhamos que usar o banheiro da suíte
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-052</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-052</field>
+<field name="date">950501</field>
+<text_pt>
 Quatorze presos fugiram do presídio de Florianópolis na noite de sexta-feira, através de um túnel. O chefe de segurança do presídio, Adilson Maurino da Silva, disse que apenas dois detentos foram recapturados. Entre os fugitivos estão os irmãos Luís Carlos Pereira, o ``Touchê", e Jair Luís Pereira, ambos condenados a quase 30 anos de prisão por assassinato.
 
 Paraná
@@ -1124,9 +1124,9 @@ Estudantes do curso de Enfermagem da Universidade Federal do Paraná realizam em 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-053</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-053</field>
+<field name="date">950501</field>
+<text_pt>
 ANTONIO CARLOS KFOURI 
 De 1980 a 1994, a proporção de pessoas vivendo em favelas em relação ao conjunto dos paulistanos cresceu de 1 em cada 20 para 1 em cada 5 moradores da capital paulista.
 Estes dados, publicados pela Folha em outubro e novembro de 1994, a partir de estudo realizado pela Fipe (Fundação Instituto de Pesquisas Econômicas) da USP, por encomenda da Prefeitura de São Paulo, atestam que o aumento vertiginoso da população favelada _e, portanto, o empobrecimento crescente de parte significativa dos paulistanos_ é consequência evidente de causas econômicas estruturais vigentes em todo o Brasil.
@@ -1141,9 +1141,9 @@ ANTONIO CARLOS KFOURI, 35, arquiteto, é professor da Faculdade de Arquitetura e 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-054</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-054</field>
+<field name="date">950501</field>
+<text_pt>
 Da Equipe de Articulistas 
 Regina Maria Macedo Nery Ferrari aditou um capítulo e modificou outro, de seu livro ``A Inconstitucionalidade da Lei Municipal", e o publica, em forma de segunda edição, como ``Controle da Constitucionalidade das Leis Municipais" (Revista dos Tribunais, 134 páginas). O capítulo novo ocupa as últimas 35 páginas do volume, tratando da ação declaratória de constitucionalidade e a lei do município, que interessa especialmente às comunidades brasileiras.
 A resenha cobre a visão moderna do antigo tema dos direitos reais, por Venosa, o estudo sobre a recente reforma das leis processuais civis, por Dinamarco, e uma anotação atualizada da legislação trabalhista, por Manus.
@@ -1159,9 +1159,9 @@ Pedro Paulo Teixeira Manus percebeu, na qualidade de professor e de juiz, que o 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-055</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-055</field>
+<field name="date">950501</field>
+<text_pt>
 DANIELA FERNANDES 
 Especial para a Folha 
 As pessoas que compraram carros importados antes de 30 de março (data da publicação do decreto que aumentou a alíquota do Imposto de Importação para 70%) e ainda não receberam estão sendo chamados pelas concessionárias para pagar a diferença do imposto.
@@ -1181,9 +1181,9 @@ Issa diz que o fato gerador do imposto (que gera a sua incidência) só passa a ex
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-056</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-056</field>
+<field name="date">950501</field>
+<text_pt>
 Especial para a Folha 
 O Decon (Departamento de Polícia do Consumidor) prendeu cerca de 15 diretores e gerentes de revendedoras de carros importados nos últimos dois meses.
 O delegado João Antônio Miziara, 44, que efetuou todas as prisões, prendeu em março passado Frederico Guilherme Éder, diretor da T.Line, acusado de ter adulterado a nota fiscal de uma perua Toyota a fim de incluir o aumento da alíquota do Imposto de Importação (II) de 20% para 32%, determinado em 12 de fevereiro.
@@ -1198,9 +1198,9 @@ Foram ainda presos o representante da Renault, o diretor financeiro da Fiat Mila
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-057</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-057</field>
+<field name="date">950501</field>
+<text_pt>
 ALTERAÇÕES NA ALÍQUOTA DO IMPOSTO
 - Em 12 de fevereiro o Imposto de Importação (II) passou de 20% para 32%. O governo permitiu que as encomendas embarcadas até essa data pagassem a alíquota menor.
 - O decreto nº 1.427, publicado em 30 de março, aumentou o imposto para 70%. Este decreto, diferente do anterior, não prevê que os produtos encomendados e pagos no exterior anteriormente à publicação do decreto paguem o imposto menor. - A Secretaria da Receita Federal divulgou uma nota em 31 de março determinando que a alíquota de 32% só seria válida para as pessoas que tivessem conseguido o despacho na alfândega até o dia 29 de março.
@@ -1211,9 +1211,9 @@ PROBLEMAS
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-058</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-058</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 Segundo a Assessoria de Imprensa da CET (Companhia de Engenharia de Tráfego), as lombadas foram construídas pelos moradores das proximidades da rua.
 De acordo com informações prestadas pela assessoria, a interdição foi feita em protesto contra atropelamentos ocorridos no local e os moradores resolveram construir, eles mesmos, as sete lombadas.
@@ -1221,9 +1221,9 @@ A assessoria acrescenta que a CET e a Administração Regional do Butantã estão ma
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-059</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-059</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 Ney Baião Gonçalves é gerente de informática da Petrobrás e afirma que os contribuintes do Estado de São Paulo consomem ``o gás mais caro do mundo".
 Segundo Gonçalves, que mudou para um apartamento recentemente, a Comgás cobrou R$ 4,54 no mês de janeiro e R$ 4,51 em fevereiro, mas ele afirma que não houve consumo. Também foram cobrados, em janeiro e fevereiro, R$ 32,55 de tarifa para instalação do gás de rua.
@@ -1234,9 +1234,9 @@ Segundo ele, o mercado de distribuição de gás em bujão é competitivo e por isso 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-060</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-060</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 De acordo com Soisi Kanashiro, do Departamento de Imprensa da Comgás, o uso do gás canalizado em prédios é uma determinação do Decreto Municipal 24.714, que visa garantir a segurança das pessoas, ``pois o acúmulo de botijões de gás torna esses espaços vulneráveis à ocorrência de acidentes".
 Segundo ele, a cobrança de tarifa mínima, quando não há consumo, é justificada pelo custo de manutenção do sistema de distribuição.
@@ -1244,9 +1244,9 @@ Kanashiro informa que a cobrança da taxa de serviços para ligação de gás envolve
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-061</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-061</field>
+<field name="date">950501</field>
+<text_pt>
 Da Folha Vale 
 Cerca de 15 ônibus ficaram estacionados ontem em frente ao portal de entrada de Campos do Jordão (SP) porque os turistas não concordaram em pagar a taxa de R$ 339,40 que a prefeitura começou a cobrar no último sábado dos ônibus com turistas de um dia.
 Os turistas tiveram que usar ônibus do transporte coletivo, bondes ou táxis para entrar na cidade. A prefeitura ainda limitou a entrada de 90 ônibus de turismo por dia.
@@ -1258,9 +1258,9 @@ O feriado da Semana Santa é considerado a abertura oficial da temporada de inver
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-062</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-062</field>
+<field name="date">950501</field>
+<text_pt>
 MALU MACHADO
 Free-lance para a Folha 
 Reinaldo de Carvalho, 33, Rei Momo carioca há nove anos e conhecido como Bola, morreu sábado à noite de infarto do miocárdio.
@@ -1279,9 +1279,9 @@ O corpo foi velado durante toda a tarde de domingo, no Sambódromo. O enterro foi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-063</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-063</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 Será de 24 milhões, aproximadamente, o valor do prêmio que vai ser pago aos acertadores das seis dezenas do concurso 4 da Supersena. O sorteio vai ser realizado amanhã, às 9h, no auditório da Caixa Econômica Federal, em Brasília, devido ao feriado nacional de 1º de maio.
 Ao todo, foram vendidos aproximadamente 40 milhões de bilhetes. A arrecadação bruta foi de R$ 56 milhões, recorde em loterias brasileiras. A média de aposta foi de R$ 1,50, de acordo com o movimento extra-oficial, divulgado ontem pela Caixa.
@@ -1296,9 +1296,9 @@ Mas, enquanto uma aposta na Sena custa R$ 0,32, na Supersena sai por R$ 1. Ou se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-064</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-064</field>
+<field name="date">950501</field>
+<text_pt>
 Medo de que reforma na Previdência baixe renda causa ``pânico" entre professores, que antecipam fim da carreira 
 VINICIUS TORRES FREIRE
 Da Reportagem Local 
@@ -1322,9 +1322,9 @@ Para Abdala, no entanto, a calma é apenas aparente. ``A Faculdade de Filosofia, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-065</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-065</field>
+<field name="date">950501</field>
+<text_pt>
 CRIS GUTKOSKI
 Da Agência Folha, em São Luís 
 No ano do tricentenário da morte do líder negro Zumbi dos Palmares, a principal ação das comunidades rurais negras e dos fóruns estaduais de entidades negras será pressionar o Congresso e o governo federal para que sejam emitidos os títulos de posse das terras atualmente ocupadas por descendentes de escravos.
@@ -1345,9 +1345,9 @@ Para o dia do tricentenário, 20 de novembro, estão sendo organizadas uma passeat
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-066</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-066</field>
+<field name="date">950501</field>
+<text_pt>
 Já a equipe do São Paulo carece de talentos nas laterais do campo, o caminho certo para a modernidade 
 ALBERTO HELENA JR. 
 Da equipe de articulistas
@@ -1371,9 +1371,9 @@ Alberto Helena Jr. escreve neste espaço aos domingos, segundas e quartas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-067</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-067</field>
+<field name="date">950501</field>
+<text_pt>
 Objetivo de Parreira é não perder 
 MARCELO FROMER e NANDO REIS 
 Especial para a Folha 
@@ -1396,9 +1396,9 @@ Marcelo Fromer e Nando Reis são músicos e integrantes da banda Titãs
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-068</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-068</field>
+<field name="date">950501</field>
+<text_pt>
 SÍLVIO LANCELLOTTI 
 Da equipe de articulistas 
 Com vitórias excelentes, fora dos seus domínios, a Juventus de Turim e o Parma se mantiveram nas duas primeiras colocações do Campeonato Italiano de 1994/95.
@@ -1416,9 +1416,9 @@ Outros resultados: Lazio 0 x 0 Cagliari, Padova 0 x 0 Roma, Torino 1 x 1 Napoli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-069</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-069</field>
+<field name="date">950501</field>
+<text_pt>
 Torcedores falam, por computador, sobre o acidente a pedido da Folha 
 ANDRÉ FONTENELLE 
 De Paris 
@@ -1495,9 +1495,9 @@ Tive que chorar ao ver o acidente _nisso, também, John Watson errou em seu comen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-070</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-070</field>
+<field name="date">950501</field>
+<text_pt>
 Do enviado a Imola 
 Uma missa será realizada hoje, no circuito de Imola, Itália, em memória a Ayrton Senna, que morreu há um ano nesta pista, durante o GP de San Marino de 94.
 A celebração será feita no local em que o tricampeão mundial sofreu o acidente fatal, a curva Tamburello.
@@ -1514,9 +1514,9 @@ Outras quatro missas serão realizadas em cidades italianas.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-071</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-071</field>
+<field name="date">950501</field>
+<text_pt>
 CIDA SANTOS 
 Pode começar a contagem regressiva. Já estamos em maio, mês da Liga Mundial. Enquanto dia 19 não vem, as seleções treinam e apresentam novidades na preparação. No Brasil, o técnico José Roberto Guimarães está de olho nos movimentos dos jogadores na quadra. Entra em ação a biomecânica. Na Itália, o papo é mais cabeça. A seleção ``azzurra" terá agora uma psicóloga.
 Nos treinos da seleção brasileira, a câmera de Gilda Teixeira, uma das integrantes da comissão técnica, acompanha atenta os movimentos executados pelos atletas.
@@ -1532,9 +1532,9 @@ Todo o trabalho na seleção italiana está voltado para a Olimpíada, o único títul
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-072</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-072</field>
+<field name="date">950501</field>
+<text_pt>
 Furacão. É desta maneira que os jornais da Itália têm definido o desempenho do Daytona/Modena nas finais do Campeonato Italiano.
 Nas duas primeiras partidas, da série de cinco, o time de Modena não deu chances ao Sisley Treviso, de Zorzi e Bernardi. As duas vitórias foram por 3 sets a 0. Juntos, os atacantes Bracci e Cuminetti marcaram 30 dos 90 pontos do Modena nos dois jogos.
  
@@ -1546,9 +1546,9 @@ A bola começa a rolar amanhã no Sul-Americano de Clubes em San Juan, na Argentin
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-073</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-073</field>
+<field name="date">950501</field>
+<text_pt>
 Do enviado a Imola
 O poderio da Williams já perturba os bastidores da F-1.
 Os próprios pilotos da equipe, Damon Hill e David Coulthard, falam, de modo natural, que possuem o melhor equipamento da categoria na atualidade.
@@ -1563,9 +1563,9 @@ Seja como for, a Benetton parece perder terreno para a Williams e a Ferrari. Rub
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-074</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-074</field>
+<field name="date">950501</field>
+<text_pt>
 Parece que os novos recursos eletrônicos de fiscalização da FIA (máximo órgão do automobilismo) este ano pegaram os pilotos de surpresa. Nada menos que seis penalizações do tipo ``Stop &amp; Go" de dez segundos foram aplicadas. Quatro por excesso de velocidade nos boxes (80 km/h em Imola) e duas por largada irregular.
  
 Andrea Montermini, da Pacific, também seria penalizado por exceder o limite de velocidade nos boxes. Mas abandonou a prova antes. Mais tarde, foi multado em US$ 10 mil, perdoado pelo compromisso de não incorrer na mesma falta nos próximos três GPs.
@@ -1580,9 +1580,9 @@ Ponto para o serviço meteorológico de Bolonha. Foi preciso ao afirmar que o temp
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-075</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-075</field>
+<field name="date">950501</field>
+<text_pt>
 MÁRIO MAGALHÃES 
 Da Sucursal do Rio 
 O Fluminense venceu o Flamengo ontem por 4 a 3, no Maracanã, num dos jogos mais emocionantes do Campeonato Estadual do Rio. A derrota do Flamengo aumentou a crise no clube.
@@ -1614,9 +1614,9 @@ Gols - Mazinho a 1min, Ézio aos 10min, Sávio aos 17min, Renato Gaúcho aos 23min 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-076</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-076</field>
+<field name="date">950501</field>
+<text_pt>
 O escritor John Le Carré, 64, decidiu ambientar seu novo livro de espionagem, ``Our Game", na república da Tchetchênia. Nele, o protagonista Tim Cranmer é um agente do serviço secreto britânico que aos 50 anos perde seu posto após um corte de pessoal, mas acaba se envolvendo com a luta separatista da Tchetchênia levado por uma amante.
 
 ``People" divulga sexta lista dos 50 mais bonitos 
@@ -1630,9 +1630,9 @@ O filme ``Tempo de Violência" (Pulp Fiction) foi considerado o melhor filme do a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-077</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-077</field>
+<field name="date">950501</field>
+<text_pt>
 A montagem, que estreou na sexta e será levada a Londres, transporta a trajetória do líder negro para o presente 
 LUIZ FRANCISCO 
 Da Agência Folha, em Salvador 
@@ -1659,9 +1659,9 @@ Preços: R$ 10 (inteira) e R$ 5 (meia)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-078</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-078</field>
+<field name="date">950501</field>
+<text_pt>
 Das agências internacionais 
 Quarenta anos após a morte de James Dean, ocorrida em 30 de setembro de 1955, uma empresa californiana que estuda a causa de acidentes divulgou um estudo negando que o acidente que causou sua morte tenha sido causado por excesso de velocidade.
 Contratada principalmente por empresas de seguros, a empresa ``Análise de Erros" afirma que Dean era um motorista prudente e que morreu depois que outro automóvel se chocou com o seu. Teria sido este acidente a causa de sua colisão com uma árvore que motivou sua morte.
@@ -1672,9 +1672,9 @@ O filme ``Juventude Transviada" (Rebel Without a Cause, 1955), de Nicholas Ray, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-079</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-079</field>
+<field name="date">950501</field>
+<text_pt>
 O evento, que começa na quarta-feira, reúne pesquisadores e participantes dos movimentos de cultura alternativa 
 Da Redação 
 A série ``Diálogos", promovida pela Secretaria Municipal de Cultura, retoma suas atividades na próxima quarta-feira com o ciclo ``Contracultura e Cultura Alternativa", na Biblioteca Municipal Mário de Andrade (r. da Consolação, 94, região central).
@@ -1687,9 +1687,9 @@ As inscrições para o ciclo, que terá entrada franca, devem ser feitas com antece
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-080</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-080</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 O Laboratório de Estudos em Psicologia da Arte, do Instituto de Psicologia da USP, comemora seu 25º aniversário com um colóquio sobre a relação arte-dor, que reunirá conferencistas brasileiros e estrangeiros.
 A cerimônia de abertura acontece às 18h desta quarta-feira. Às 18h30, o poeta e crítico de arte Ferreira Gullar ministra a conferência ``Arte-Dor - Interrogações Poéticas". A seguir, o psiquiatra Jurandir Freire Costa tratará o tema ``A Dor entre o Psíquico e o Poético".
@@ -1700,9 +1700,9 @@ No Museu de Arte Contemporânea da USP continua em cartaz, entre as 12h e 20h, at
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-081</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-081</field>
+<field name="date">950501</field>
+<text_pt>
 Festival francês privilegia inéditos 
 AMIR LABAKI 
 Da equipe de articulistas 
@@ -1720,9 +1720,9 @@ Pior: até aqui nenhum filme brasileiro ou hispano-americano foi programado (a po
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-082</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-082</field>
+<field name="date">950501</field>
+<text_pt>
 O Quarteto Alban Berg de Viena realiza segunda versão integral da 17 composições do compositor alemão 
 LUÍS ANTÔNIO GIRON 
 Da Reportagem Local 
@@ -1753,9 +1753,9 @@ Quanto: R$ 25 (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-083</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-083</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 Quem visita a Villa Wahnfried em Bayreuth (nordeste da Alemanha) é capaz de perceber os miasmas daquele que a habitou por duas décadas. Tudo ali recende a Richard Wagner (1813-1883).
 Uma parte do fantasma wagneriano se materializa no recém-lançado CD ``Concert in Villa Wahnfried", com o pianista alemão Gerhard Oppitz, 42, e a contralto francesa Nathalie Stutzmann, 30.
@@ -1778,9 +1778,9 @@ Preço: R$ 20
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-084</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-084</field>
+<field name="date">950501</field>
+<text_pt>
 ARTHUR NESTROVSKI 
 Especial para a Folha 
 Num ensaio já quase clássico sobre os clássicos, Italo Calvino nos diz que um clássico é um livro ``que estamos sempre relendo, nunca lendo". Mas diz também que ``toda releitura de um clássico é uma leitura de descoberta, como a primeira". As duas frases poderiam servir de epígrafe para esta gravação dos ``Concertos de Brandemburgo", na interpretação de Nikolaus Harnoncourt e do Concentus Musicus Wien.
@@ -1807,9 +1807,9 @@ ARTHUR NESTROVSKI é professor na pós-graduação em comunicação e coordenador do C
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-085</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-085</field>
+<field name="date">950501</field>
+<text_pt>
 IRINEU FRANCO PERPETUO 
 Especial para a Folha 
 O público brasileiro tem a chance de saber como Villa-Lobos via suas próprias obras. A EMI está trazendo ao Brasil o volume ``Villa-Lobos" de sua coleção ``Composers in Person".
@@ -1828,9 +1828,9 @@ Preço: R$ 25 (o CD, em média)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-086</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-086</field>
+<field name="date">950501</field>
+<text_pt>
 Acervos têm de 1.500 a 3.000 títulos 
 Da Reportagem Local 
 Duas lojas meio escondidas em galerias no centro de São Paulo mantêm em suas prateleiras os objetos do desejo para o consumidor de música lírica e erudita.
@@ -1845,9 +1845,9 @@ Horário: de seg a sex, das 9h30 às 18h30; sáb, das 9h30 às 14h
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-087</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-087</field>
+<field name="date">950501</field>
+<text_pt>
 Como o texto de Nelson Rodrigues, série exagera taras, mas dispersa impacto ao transferir ação da casa para a rua 
 ESTHER HAMBURGER 
 Especial para a Folha 
@@ -1864,9 +1864,9 @@ O texto, publicado em capítulos diários, de agosto de 1959 a fevereiro de 1960, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-088</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-088</field>
+<field name="date">950501</field>
+<text_pt>
 O compositor carioca apresenta trabalho de ensino musical com enfoque brasileiro voltado para adultos e crianças 
 CARLOS CALADO 
 Especial para a Folha 
@@ -1891,9 +1891,9 @@ Lançamento: Lumiar Editora (tel. 021/541-4045)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-089</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-089</field>
+<field name="date">950501</field>
+<text_pt>
 Da Redação 
 A rede de televisão católica Redevida inicia hoje, às 9h, com uma mensagem de saudação do papa João Paulo 2º, as transmissões pelo canal 40 (UHF).
 Em seguida, uma missa ao vivo será transmitida do estúdio da TV Independente (São José do Rio Preto), a geradora da Redeviva. Segundo sua assessoria de imprensa, a emissora centrará sua programação em jornalismo e prestação de serviços à comunidade.
@@ -1903,27 +1903,27 @@ A Redevida deve ficar hoje cerca de 15 horas no ar. Até o final deste ano, a emi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-090</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-090</field>
+<field name="date">950501</field>
+<text_pt>
 Das agências internacionais 
 Henry Rogers, fundador _com Warren Cowan_ da agência de publicidade Rogers &amp; Cowan, morreu em Los Angeles (EUA) aos 82 anos de idade.
 Conhecido como o ``guru da publicidade de Hollywood", era responsável por campanhas de marketing de Rita Hayworth, Audrey Hepburn, Bette Davis e Paul Newman, entre outros. Sua campanha ajudou Joan Crawford a ganhar o Oscar em 1945. Entre seus clientes recentes estavam Silvester Stallone e Nick Nolte.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-091</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-091</field>
+<field name="date">950501</field>
+<text_pt>
 Das agências internacionais 
 Os habitantes de Lodz, na Polônia, entraram em pânico na última sexta-feira com a publicidade do filme ``Epidemia", com Dustin Hoffman. Sua distribuidora colocou carros com alto-falantes na rua anunciando uma terrível epidemia na Polônia e que as pessoas não deveriam sair de casa, a não ser para ir ao cinema.
 Nos anos 30, um programa de rádio de Orson Welles narrou a invasão da Terra por extraterrestres e também causou pânico nos EUA.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-092</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-092</field>
+<field name="date">950501</field>
+<text_pt>
 DANIEL PIZA 
 Da Reportagem Local 
 O lançamento do livro ``Um Jeca nos Vernissages", de Tadeu Chiarelli, e o relançamento de ``Urupês" e ``Negrinha", os livros de contos de Monteiro Lobato (1882-1948), podem mudar o verbete que as pessoas trazem na cabeça quando se trata de Lobato:
@@ -1957,9 +1957,9 @@ Preço: R$ 17 (capa dura) ou R$ 10
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-093</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-093</field>
+<field name="date">950501</field>
+<text_pt>
 Americano que criou Yellow Kid leva fama de ``inventor" dos quadrinhos, apesar de versão nacional surgir em 1869 
 SÉRGIO AUGUSTO 
 Da Sucursal do Rio 
@@ -1978,9 +1978,9 @@ Sobre os cem anos da HQ às págs. 6-2, 6-4, 6-5 e 6-8
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-094</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-094</field>
+<field name="date">950501</field>
+<text_pt>
 Especial para a Folha 
 A universidade, aqui, custa uma nota preta para quem não tem bolsa. O sistema, diferente da maioria das universidades, é trimestral; você faz um curso em três meses, lê tudo o que tem que ser lido em três meses, faz os exames e os trabalhos e é avaliado a cada três meses. O que tudo isso implica?
 Neguinho aqui não perde tempo. Não pára de estudar, está sempre ocupado, atrás das bibliografias ou ``papers" e não das meninas, o que seria natural num ambiente universitário. Não namoram, não testemunham o pôr-do-sol, não abrem os braços para chuva, nem exploram, com o olhar, as curvas da garota que passou. E a garota que passa também está sempre atrasada.
@@ -1994,9 +1994,9 @@ MARCELO RUBENS PAIVA está em San Francisco (EUA) como bolsista da Knight Fellows
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-095</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-095</field>
+<field name="date">950501</field>
+<text_pt>
 Primeira revista de quadrinhos brasileira de sucesso surgiu em 1905 
 CÉLIA ALMUDENA 
 Da Reportagem Local 
@@ -2010,9 +2010,9 @@ O personagem mais famoso das histórias em quadrinhos da ``O Tico-Tico" era Chiqu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-096</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-096</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 Ano passado, dez especialistas mundiais se reuniram, durante o festival de quadrinhos de Lucca, Itália, para determinar a origem dos quadrinhos.
 Depois de uma semana de polêmicas e discussões, por oito votos, o ano de 1896 foi estabelecido como o que marcou o início da linguagem de quadrinhos.
@@ -2025,9 +2025,9 @@ Agostini começou a publicar suas histórias ilustradas em 1867, na revista ``O Ca
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-097</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-097</field>
+<field name="date">950501</field>
+<text_pt>
 São José dos Campos, SP
 Tenho 15 anos e dirijo desde os 12. Ando ansioso para que seja liberada a carta para maiores de 16. Um amigo de meu pai me disse que ``emancipou" seu filho para que ele, com 16 anos, pudesse dirigir. Gostaria de saber o que é ``emancipação", o que é necessário para isto e a quem devo procurar.
 
@@ -2052,9 +2052,9 @@ Escreva para o Folhateen: al. Barão de Limeira, 425, 4º andar, São Paulo, SP. CE
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-098</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-098</field>
+<field name="date">950501</field>
+<text_pt>
 ROSELY SAYÃO 
 Especial para a Folha 
 ``Tenho 19 anos e há pouco tempo descobri a masturbação; sempre ouvi falar sobre isso, mas nunca tinha conseguido. Acontece que desde que gozei sozinha, tenho feito quase diariamente. O que me encuca é que eu fantasio sempre uma relação violenta, estupro, sangue, roupas rasgadas, etc. Não sou masoquista, só de pensar em ter uma relação assim com meu gato, me sinto mal. É anormal isso? ."
@@ -2068,9 +2068,9 @@ Rosely Sayão, 44, é psicóloga. Se você tem dúvidas sobre sexo, escreva para o Fo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-099</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-099</field>
+<field name="date">950501</field>
+<text_pt>
 FGV (Fundação Getúlio Vargas)
 Av. 9 de julho, 2.029, Bela Vista, tel. (011) 281-7711/281-7888
 Inscrições: até dia 5 de maio
@@ -2180,9 +2180,9 @@ Cursos: odontologia, fisioterapia, ciências farmacêutica, direito, administração
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-100</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-100</field>
+<field name="date">950501</field>
+<text_pt>
 CURSOS OFERECIDOS
 Administração de empresas: 150 vagas
 Administração pública: 50 vagas
@@ -2224,9 +2224,9 @@ Fonte: Fundação Getúlio Vargas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-101</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-101</field>
+<field name="date">950501</field>
+<text_pt>
 Gênero foi acusado de prejudicar educação de teens dos anos 50 
 J.M.M. KAZI 
 Free-lance para a Folha 
@@ -2246,9 +2246,9 @@ A década de 80 não trouxe nenhum novo personagem de sucesso, mas recriações de a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-102</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-102</field>
+<field name="date">950501</field>
+<text_pt>
 Free-lance para a Folha 
 Na Europa, os quadrinhos começaram na mesma época que nos outros lugares do mundo, isto é, mais ou menos junto com o cinema. E assim como o cinema daquele continente, o quadrinho europeu acabou menos popular do que o americano.
 Entre as ``estrelas" européias, uma das mais conhecidas é Asterix, de Gosciny e Uderzo (repleto de citações históricas dos celtas _o povo que colonizou a França_ e de caricaturas de personagens do meio político e artístico). 
@@ -2265,9 +2265,9 @@ E, é claro, há a ``Deadline", uma revista inglesa que fala de música alternativa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-103</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-103</field>
+<field name="date">950501</field>
+<text_pt>
 Asterix
 Guerreiro gaulês do século 1º. René Goscinny escrevia e Albert Uderzo desenhava. Os álbuns são publicados no Brasil com capa dura pela Record. Diversão para qualquer idade.
 Batman
@@ -2309,9 +2309,9 @@ Os álbuns eróticos de Milo Manara e Guido Crepax, as palhaçadas de ``Groo, the W
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-104</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-104</field>
+<field name="date">950501</field>
+<text_pt>
 Peça faz parte do evento que lembra os 50 anos da morte da garota judia, em um campo de concentração nazista 
 Da Reportagem Local 
 No próximo dia 4 (quinta-feira) estréia a peça ``O Diário de Anne Frank". O espetáculo faz parte do evento ``O Mundo de Anne Frank", lembrando os 50 anos da morte da garota judia que escreveu um diário, contando sua fuga dos nazistas durante a Segunda Guerra Mundial.
@@ -2332,9 +2332,9 @@ Rio de Janeiro _ 21 de setembro a 22 de outubro (a exposição, no Museu Nacional 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-105</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-105</field>
+<field name="date">950501</field>
+<text_pt>
 ANDRÉ FORASTIERI 
 Especial para a Folha 
 Pela milionésima vez rola um certo bafafá com essa história de legalizar ou não a maconha. Depois do ministro da justiça levantar a lebre no começo do ano, agora foi por causa de um vídeo da banda Planet Hemp que foi ``mezzo" censurada na MTV.
@@ -2358,9 +2358,9 @@ ANDRÉ FORASTIERI, 29, é editor da revista ``General".
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-106</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-106</field>
+<field name="date">950501</field>
+<text_pt>
 `Romances gráficos' surgiram com versão sombria do Batman e decretaram a maioridade dos super-heróis 
 BIA ABRAMO 
 Da Reportagem Local 
@@ -2373,9 +2373,9 @@ Violência, insanidade, sensualidade e dúvidas existenciais passaram a habitar os
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-107</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-107</field>
+<field name="date">950501</field>
+<text_pt>
 Da Reportagem Local 
 Uma das poucas opções de quadrinhos adultos disponíveis nas bancas brasileiras é a ``Vertigo" (Abril Jovem). Já em seu segundo número, a revista traz histórias de Hellblazer e de um dos personagens mais cultuados dos quadrinhos, o Sandman.
 De resto, é preciso paciência para achar em sebos ou livrarias especializadas. A série ``Marvels" (Abril Jovem), que conta a origem do Quarteto Fantástico, X-Men, Homem Aranha e outros super-heróis da Marvel, ainda deve dar para achar na banca. A última parte (de quatro) foi publicada mês passado.
@@ -2386,9 +2386,9 @@ Devir - r. Augusto de Toledo, 83, Aclimação, tel. (011) 242-8200.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-108</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-108</field>
+<field name="date">950501</field>
+<text_pt>
 KATHY WOLLARD  
 Quando a luz ilumina uma colher em um copo d'água, a colher parece torta ou quebrada. Essa imagem estranha acontece porque a luz sofre um desvio. Esse desvio se chama refração.
 A luz se movendo do ar em direção ao vidro sofre uma refração. É refratada de novo quando deixa o vidro e entra na água e só então atinge a colher, que fica com uma aparência quebrada.
@@ -2406,9 +2406,9 @@ Copyright Los Angeles Times Syndicate
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-109</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-109</field>
+<field name="date">950501</field>
+<text_pt>
 FERNANDO NOVAIS 
 Raízes do Brasil
 Sérgio Buarque de Holanda Companhia das Letras, 220 págs. R$ 15,00 
@@ -2423,9 +2423,9 @@ FERNANDO NOVAIS é professor de história na USP e autor, entre outros, de ``Portu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-110</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-110</field>
+<field name="date">950501</field>
+<text_pt>
 BERTA WALDMAN 
 Clarice Lispector, uma vida que se conta
 Nádia Battella Gotlib Ática, 460 págs. R$ 29,90 
@@ -2460,9 +2460,9 @@ BERTA WALDMAN é professora de teoria literária da Universidade de Campinas (Unic
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-111</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-111</field>
+<field name="date">950501</field>
+<text_pt>
 SÉRGIO MICELI 
 Mozart - Sociologia de um Gênio
 Norbert Elias tradução de Sergio Goes de Paula Jorge Zahar Editor, 150 págs. R$ 13,00 
@@ -2483,9 +2483,9 @@ SÉRGIO MICELI é professor do departamento de sociologia da USP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-112</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-112</field>
+<field name="date">950501</field>
+<text_pt>
 JOSÉ MIGUEL WISNIK 
 Os Fundamentos Racionais e Sociológicos da Música
 Max Weber Tradução: Leopoldo Waizbort Edusp
@@ -2501,9 +2501,9 @@ JOSÉ MIGUEL WISNIK é professor de literatura na USP, compositor e autor de ``O S
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-113</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-113</field>
+<field name="date">950501</field>
+<text_pt>
 PAULO EDUARDO ARANTES 
 A Filosofia e o espelho da natureza
 Richard Rorty Relume Dumará, 384 págs. Preço indefinido 
@@ -2519,9 +2519,9 @@ Cultura pós-filosófica então é isto: curado, graças a uma terapia adequada, o de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-114</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-114</field>
+<field name="date">950501</field>
+<text_pt>
 PAULO EDUARDO ARANTES 
 Em suma, a lógica cultural dos novos tempos pede uma segunda reforma do entendimento, porém desta vez sem um canon estabelecido que a oriente. Ou melhor, em guerra de paradigmas com o antigo canon epistemológico-transcendental, o da enroscada (ou reflexiva?) fundação do conhecimento por um conhecimento prévio dos fundamentos etc. A ser assim, o que se pede é uma reforma do entendimento que se resolva numa nova educação estética da humanidade, já podemos prever em que termos, se é fato que o desejo de verdade é uma compulsão incivilizada. 
 Como os bons modos recomendam que não se interrompa a conversação da humanidade, e que para tanto se multipliquem réplicas e deixas incomensuráveis, a pedra de toque de uma cultura pós-filosófica deve ser por contraste um desejo de "edificação", que é a maneira pela qual Rorty caracteriza a filosofia transformada, por assim dizer a filosofia pós-filosófica, algo como o projeto de encontrar novas maneiras de falar, "redescrições" que possuam o condão de nos refazer à medida em que falamos, lemos e escrevemos mais, em que aguçamos o senso da relatividade dos "vocabulários finais", em cuja trama vivemos, pelo confronto simpático com descrições alternativas recolhidas numa espécie de museu-biblioteca imaginário da edificação, de fato a Cena Primitiva da Instrução. No momento em que estivermos enfim convencidos de que o modo como as coisas são ditas é infinitamente mais importante do que a mera posse da verdade, não surpreenderá que o grande protagonista da cultura pós-filosófica (um herói bem à moda de Carlyle) seja um intelectual literário, por certo de um novo tipo ainda por identificar. Por enquanto, reconheçamos o insólito do desfecho, que a grande transformação da filosofia contemporânea culmine num curioso caso de grãfinismo cultural. Mutatis mutandis, algo como uma gentrification da vida mental. 
@@ -2534,9 +2534,9 @@ PAULO EDUARDO ARANTES  é professor do departamento de filosofia da USP e autor d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-115</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-115</field>
+<field name="date">950501</field>
+<text_pt>
 HAQUIRA OSAKABE 
 
 Obra Completa
@@ -2566,9 +2566,9 @@ HAQUIRA OSAKABE é professor de literatura portuguesa na Unicamp e autor de ``Arg
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-116</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-116</field>
+<field name="date">950501</field>
+<text_pt>
 CELSO FAVARETTO 
 Móvel moderno no Brasil
 Maria Cecília Loschiavo dos Santos Studio Nobel/FAPESP/Edusp, 198 págs. R$ 33,75 
@@ -2583,9 +2583,9 @@ CELSO FAVARETTO é professor da Faculdade de Educação da USP e autor de ``A Inven
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-117</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-117</field>
+<field name="date">950501</field>
+<text_pt>
 NICOLAU SEVCENKO 
 O Brasil dos viajantes
 Ana Maria de Moraes Belluzzo Metalivros, três volumes (156, 168, 192 págs.) Distribuição: bibliotecas, museus, instituições culturais Informações: tel 011 262.0355 
@@ -2611,9 +2611,9 @@ Com esse objetivo científico em vista, Langsdorff montou uma espécie de estação 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-118</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-118</field>
+<field name="date">950501</field>
+<text_pt>
 NICOLAU SEVCENKO 
 Os outros dois livros comentados aqui mantêm uma oblíqua correspondência entre si. A obra dos professores Boris Kossoy e Maria Luiza Tucci Carneiro reúne imagens que artistas e visitantes estrangeiros legaram dos negros escravos. O livro do professor Claude Lévi-Strauss apresenta uma seleção das fotos feitas na sua primeira visita ao Brasil, em 1935, sobretudo de grupos indígenas. Em ambos os trabalhos, o tema é basicamente o mesmo: opressão, violência e desintegração sócio-cultural. Se é possível, de modo figurado, falar em paisagem humana, esses dois livros proporcionam um viés através do qual se pode avaliar o estilo peculiar de relação que a condição colonial estabeleceu, entre o conquistador e a natureza, nesta e em outras partes do mundo. Há mais vicissitudes no nebuloso vão entre civilização e colonialismo, do que pode presumir o mais mirabolante paisagismo barroco ou romântico. E no entanto, não há como a documentação iconográfica, imagens enfim, para revelar as sutilezas cruas com que a tirania aflige as criaturas e que as palavras e os discursos foram justamente feitos para calar.
 O ato inaugural da expansão colonial moderna foi a conquista das Ilhas Canárias pelos espanhóis. Não poderia haver anúncio mais completo e revelador da catástrofe que estava por vir. Para ocupar as ilhas, os invasores exterminaram até o último de seus habitantes, os canarinos, povo original em todos os aspectos e sobre cuja existência não restam os mais remotos indícios. Depois, havia o problema da exuberante vegetação local. Era descrita como paradisíaca, mas não se podia ainda, naquele tempo, vender essa impressão. Os espanhóis decidiram plantar cana ali. Ato contínuo, queimaram toda a vegetação, também completamente original, num único e gigantesco incêndio. Diante do deserto calcinado, passaram a importar escravos negros para plantar os canaviais. E as ilhas desafortunadas readquiriram então uma população e uma paisagem. ``Sugar-cane fields forever", como Caetano crismou o paraíso colonial.
@@ -2627,9 +2627,9 @@ NICOLAU SEVCENKO é professor de história na USP, autor, entre outros, de ``Liter
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-119</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-119</field>
+<field name="date">950501</field>
+<text_pt>
 Franklin Leopoldo e Silva 
 
 Dicionário Descartes
@@ -2651,9 +2651,9 @@ FRANKLIN LEOPOLDO E SILVA é professor do departamento de filosofia da USP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-120</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-120</field>
+<field name="date">950501</field>
+<text_pt>
 RUBENS RODRIGUES TORRES FILHO 
 
 Como o Senso Comum Compreende a Filosofia
@@ -2679,9 +2679,9 @@ RUBENS RODRIGUES TORRES FILHO é estudioso de história da filosofia moderna e aut
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-121</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-121</field>
+<field name="date">950501</field>
+<text_pt>
 J. SERGIO LEITE LOPES 
 
 O Poder do Atraso - Ensaios de Sociologia da História Lenta
@@ -2708,9 +2708,9 @@ J. SERGIO LEITE LOPES é professor de antropologia no Museu Nacional da Universid
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-122</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-122</field>
+<field name="date">950501</field>
+<text_pt>
 ALBERTO LUIZ DA ROCHA BARROS 
 
 A matéria roubada: a apropriação crítica do objeto da física contemporânea
@@ -2735,9 +2735,9 @@ ALBERTO LUIZ DA ROCHA BARROS é físico teórico e professor da USP
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-123</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-123</field>
+<field name="date">950501</field>
+<text_pt>
 RENATO MEZAN
 
 Revisitando as Psicologias
@@ -2763,9 +2763,9 @@ Continua à pág. Esp.-17
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-124</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-124</field>
+<field name="date">950501</field>
+<text_pt>
 RENATO MEZAN
 Da mesma forma, a noção psicanalítica de representação não pertence à esfera cognitiva de corte cartesiano, mas introduz a idéia de um objeto que atua sobre o sujeito no plano afetivo e tem impacto sobre a regulação do seu nível de angústia: as representações inconscientes do pênis castrável ou do seio perseguidor não dependem nem da abstração de atributos do objeto, à maneira de Aristóteles, nem da evidência garantida pelo Deus veraz, à maneira de Descartes. Tudo indica que, a partir de uma crítica bem fundamentada à teoria da correspondência, Luis Cláudio acaba por abandonar um conceito que, reposto num contexto mais rico, lhe poderia prestar bons serviços _bastando para isso desvincular a representação do ``projeto epistemológico moderno" de cujas insuficiências sua análise nos convence sem dificuldades. Desta forma, uma idéia a meu ver demasiado estreita da representação o leva a procurar, do lado dos autores que efetuam a crítica do projeto moderno, algo que talvez esteja mais à mão na vertente dialética deste mesmo projeto.
 Talvez o próprio uso da ética como instrumento avaliador e genealógico seja uma herança iluminista, temperada pelo ``ethos" marxista que vinculava liberdade e conhecimento das leis da história, conhecimento cuja finalidade era transformar a condição humana. Certamente, Luis Cláudio tem a sobriedade dos contemporâneos; nada menos ingênuo do que seus refinados instrumentos de análise, nada menos esquemático do que a ponderação dos diversos fatores que tornam complexa a série de questões sobre as quais se debruça. Mas, no trajeto ``da epistemologia à ética" balizado pelos ensaios aqui comentados, o autor se compromete com o pensamento iluminista e com os sentidos mais dramáticos da divisa kantiana: ``Sapere Aude", ousa conhecer _conhecer aquilo que, em nós e no mundo, atemoriza e angustia: o avesso das nossas idéias e das nossas experiências. É numa leitura da psicanálise guiada pela reflexão heideggeriana que _como terceira linha de pesquisa_ Luis Cláudio vem buscando elementos para desenvolver seu projeto. Que desta incursão pelo ``outro lado do espelho" resultem textos tão instigantes quanto os que compõem o pequeno volume aqui resenhado.
@@ -2774,9 +2774,9 @@ RENATO MEZAN é psicanalista, membro do departamento de psicanálise do Sedes Sapi
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-125</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-125</field>
+<field name="date">950501</field>
+<text_pt>
 MARIA LUCIA CACCIOLA 
 
 Magazine Littéraire janeiro de 1995 
@@ -2797,9 +2797,9 @@ MARIA LUCIA CACCIOLA é professora de história da filosofia contemporânea no depa
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-126</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-126</field>
+<field name="date">950501</field>
+<text_pt>
 WALDYR A. RODRIGUES JR.
 A pesar do comentário favorável de Maria das Graças de Souza Nascimento (``Jornal de Resenhas" de 03.04.95) sobre o ``Convite à Filosofia", de Marilena Chaui (Atica, 1995), fato é que o livro contém um conjunto de afirmações completamente errôneas e/ou superficiais, em particular no que concerne às ciências físicas.
 Existem erros que podem ser identificados por qualquer jovem que tenha cursado o segundo grau como, por exemplo, o enunciado completamente sem sentido da lei da gravitação universal de Newton, que aparece na página 21. Outros erros podem passar desapercebidos em uma primeira leitura até para algumas pessoas cultas, sem proficiência adequada nas ciências naturais. De fato, as conclusões filosóficas que a dra. Chaui tira das teorias da relatividade e da mecânica quântica são frutos do que denomina-se pseudocultura, um mal que contamina boa parte dos intelectuais brasileiros.
@@ -2835,9 +2835,9 @@ WALDYR A. RODRIGUES JR. é professor titular de física-matemática e diretor do In
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-127</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-127</field>
+<field name="date">950501</field>
+<text_pt>
 MARILENA CHAUI
 Respondo uma única vez ao professor Waldyr Rodrigues porque sua carta, apesar da comicidade da autopromoção e do bacharelismo estilístico, poderia dar ao leitor que ainda não leu o livro a impressão de haver levantado objeções sérias a ``Convite à Filosofia".
 1. O livro não enuncia a lei da gravitação universal newtoniana (prova: não enuncia os três axiomas nem coloca o texto entre aspas), mas, como é evidente para quem lê todo o texto, as idéias subjacentes à sua formulação, isto é, idéias de lei natural, racionalidade, necessidade e universalidade como traços do pensamento ocidental. Todavia, é inacreditável a observação do prof. Waldyr, supondo que o fato da lei newtoniana considerar velocidade e tempo como instantâneos ou nulos, isto significaria que tais variáveis não entrariam em linha de conta nos cálculos. Entram exatamente desta maneira, isto é, como instantâneos e nulos, pois todo estudante do segundo grau sabe que os axiomas newtonianos: a) assumem tacitamente que as dimensões espaciais e os períodos temporais podem ser subdivididos indefinidamente e, por isso, as magnitudes associadas a eles podem ser cada vez menores até chegar ao nulo; b) pressupõem que velocidades e acelerações atribuídas aos ponto-massas são as que eles possuem no caso limite, quando os períodos temporais envolvidos se aproximam de zero e, por isso, os axiomas pressupõem velocidades e acelerações instantâneas para os ponto-massas.
@@ -2852,9 +2852,9 @@ MARILENA CHAUI é professora de filosofia da USP e autora, entre outros, de ``Con
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP950501-128</text_pt>
-<text_pt name="date">950501</text_pt>
-<text_pt name="text">
+<field name="id">FSP950501-128</field>
+<field name="date">950501</field>
+<text_pt>
 LUIZ FELIPE DE ALENCASTRO 
 
 Partidos e eleições no Maranhão 

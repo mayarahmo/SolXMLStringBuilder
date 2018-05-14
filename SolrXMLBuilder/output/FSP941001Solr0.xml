@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
 <add>
 <doc>
-<text_pt name="id">FSP941001-001</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-001</field>
+<field name="date">941001</field>
+<text_pt>
 A economia dos EUA cresce com vigor. No Japão, começam a celebrar o fim da recessão. Na Europa, depois de turbulências cambiais, também já se fala no início de uma fase mais tranquila. O Fundo Monetário Internacional acaba de anunciar uma projeção de crescimento mundial superior a 3,5% pela primeira vez depois de sete anos.
 A locomotiva mundial continua sendo norte-americana. Os números para o segundo trimestre de 1994 indicam um crescimento de 4,1% frente à taxa de 3,3% do primeiro trimestre. No último trimestre as importações norte-americanas alcançaram US$ 32 bilhões, contra exportações de US$ 24,3 bilhões.
 É um cenário bastante favorável à estabilização da economia brasileira. Afinal, o real usa a taxa de câmbio como uma de suas "âncoras". Na prática, isso significa que os produtos brasileiros tendem a ficar mais caros no mercado norte-americano. Mas como esse é um mercado em expansão, aumenta sua demanda por importados. Sabendo que pode vender cada vez mais, o exportador brasileiro pode absorver pelo menos parte da valorização do câmbio, mantendo o preço lá fora e diluindo os custos num volume de exportação maior.
@@ -14,9 +14,9 @@ O mundo realmente não pára de mudar. FMI neles!
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-002</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-002</field>
+<field name="date">941001</field>
+<text_pt>
 A popularidade que resultou da queda da inflação e levou Fernando Henrique Cardoso à liderança nas pesquisas de opinião explica em parte o fraco desempenho que, à exceção de Lula, vêm demonstrando os demais candidatos à Presidência da República.
 Enéas, que na última pesquisa Datafolha aparece em terceiro lugar com 6% das preferências, mostra que, à sombra do Plano Real, outras tendências, ainda que tímidas, se manifestam. Parte das intenções de voto nesse candidato deriva, sem dúvida, de seu aspecto folclórico e histriônico. Mas a colocação à frente de Quércia, Brizola e Amin &#150;que têm estruturas partidárias consolidadas&#150; indica que não se trata apenas de folclore ou de descrença no sistema político.
 O discurso autoritário de Enéas explora a frustração com a desorganização do Estado e com a corrupção &#150;embora há poucos dias tenha vindo a público que Enéas também se valeu de sinecuras.
@@ -26,9 +26,9 @@ No Brasil, a estabilização gera otimismo. Mas é óbvio que os problemas nacionais
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-003</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-003</field>
+<field name="date">941001</field>
+<text_pt>
 O último plano de expansão telefônica lançado em São Paulo ofereceu 47.000 novas linhas; apresentaram-se mais de 650.000 interessados. São corriqueiros os casos de cidadãos em todo o Brasil que esperam anos a fio pela instalação de telefones previamente pagos às concessionárias estatais. O número de telefones "per capita" é baixo mesmo face a outros países da América Latina, e o modelo adotado prevê a venda de linhas (por preços superiores a mil reais) quando noutras nações o telefone constitui não um bem, mas um serviço.
 Diante desse cenário, torna-se até desnecessário ressaltar o imperativo de rever a estrutura atual. Assim, não deixa de ser animador o recente anúncio da Telesp de que pretende instalar 500 mil novas linhas em parceria com a iniciativa privada &#150;ligações que serão alugadas aos usuários em vez de vendidas. Falta, é claro, verificar quando as linhas serão entregues.
 De todo modo, a medida, se concretizada, acena com um passo &#150;pequeno ainda, mas um passo&#150; na direção correta de uma reforma do modelo atual. Assim como noutras áreas de infra-estrutura, a limitada dimensão da rede pode traduzir-se em graves deficiências na oferta, particularmente se o país retomar um crescimento sustentado.
@@ -38,9 +38,9 @@ Realizado de forma adequada, o envolvimento da iniciativa privada desonera o Est
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-004</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-004</field>
+<field name="date">941001</field>
+<text_pt>
 Clóvis Rossi
 SÃO PAULO &#150; A dúvida que percorre os eternos céticos e até os não tão céticos é a seguinte: é para valer o namoro indireto entre Fernando Henrique Cardoso e Luiz Inácio Lula da Silva?
 Responder a essa pergunta exige formular outra, preliminar: um ou ambos ganham alguma coisa, eleitoralmente, com acenos recíprocos? Se a resposta é sim, então pode-se cogitar de mero jogo de cena.
@@ -55,9 +55,9 @@ Mais do que isso ainda entra na categoria das surpresas que não deveriam surpree
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-005</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-005</field>
+<field name="date">941001</field>
+<text_pt>
 Gilberto Dimenstein
 BRASÍLIA &#150; Em entrevista ontem à Folha, o presidente Itamar Franco desferiu um duro golpe na já combalida candidatura Lula. Disse que, na próxima semana, anuncia a redução dos preços dos combustíveis &#150;o gás, produto de consumo popular, pode cair até 5%.
 É mais um ingrediente para compor o clima de desânimo na cúpula do PT, onde já se vê como miragem a chance de virada. Para os responsáveis por pesquisas de opinião, a miragem chega a ser até uma visão otimista: todos apostam no fim da eleição na segunda-feira.
@@ -68,9 +68,9 @@ PS &#150; A entrevista de Itamar Franco à Folha é digna da nota máxima do patôme
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-006</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-006</field>
+<field name="date">941001</field>
+<text_pt>
 Carlos Heitor Cony
 RIO DE JANEIRO &#150; Na crônica de anteontem, referindo-me a Leonel Brizola, que as pesquisas colocam atrás do Enéas, disse que quem pretende votar nele (míseros 3%) ao menos sabe em quem está votando. No pólo oposto, há o candidato do governo, com mais de 45% das intenções de voto, já recolhido ao recesso para não fazer marola e vencer no primeiro turno.
 O problema de quem pretende votar em FHC é justamente saber em quem está votando. Não me refiro aos lances da campanha, quando foi o candidato que mais apareceu na mídia, ao vivo ou através de funcionários do governo que botavam azeitona em sua empada.
@@ -83,9 +83,9 @@ Quem irá para a cadeia será (se for) o dono do botequim que aumentar abusivament
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-007</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-007</field>
+<field name="date">941001</field>
+<text_pt>
 Luciano Mendes de Almeida
 Estamos nos últimos dias de preparação às eleições. Será o maior comparecimento previsto de eleitores às urnas. Agora, é preciso olhar para a frente.
 1) O primeiro exercício da cidadania é votar. Tudo indica que se evitará o voto nulo e que será maior a consciência e liberdade ao votar, escolhendo candidatos que tenham dado provas de honestidade e competência.
@@ -104,9 +104,9 @@ D. Luciano Mendes de Almeida escreve aos sábados nesta coluna.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-008</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-008</field>
+<field name="date">941001</field>
+<text_pt>
 Só alguém cego pela paixão política não vê que os termos de competição mudaram radicalmente
 MARIA HERMÍNIA TAVARES DE ALMEIDA
 Para os que participaram da oposição democrática ao regime militar, a disputa eleitoral entre Fernando Henrique e Lula tem sido, por vezes, uma experiência dolorosa: divide famílias, cria mal-estar entre amigos, torna desconfortável o convívio entre colegas. Mas, para o país, a competição entre esses candidatos é ótima &#150;pelo que foram no passado, pelo que representam no presente e pelo que propõem para o futuro.
@@ -126,9 +126,9 @@ MARIA HERMÍNIA TAVARES DE ALMEIDA, 51, cientista política, é professora do Depar
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-009</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-009</field>
+<field name="date">941001</field>
+<text_pt>
 Os dois candidatos mantiveram uma espécie de discurso de uma nota só: a defesa do social
 GERARDO MELLO MOURÃO
 O simples fato de haver eleições na data prevista é um lucro para as instituições. Mas a suposta polarização entre os candidatos Lula e FHC não traz vantagem ao aprimoramento das instituições. Até porque essa polarização, como a batalha de Itararé, não houve.
@@ -147,9 +147,9 @@ GERARDO MELLO MOURÃO, 75, poeta e escritor, é presidente da Academia Brasileira 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-010</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-010</field>
+<field name="date">941001</field>
+<text_pt>
 "Se bem que considere elogiável a iniciativa da imprensa de informar os eleitores sobre a atuação dos parlamentares na atual legislatura, foi injusta, incorreta e questionável a metodologia usada pelos repórteres da Folha para avaliar os deputados (Olho no Voto, 18/09). Segundo a avaliação da Folha, tive 103 faltas, correspondendo a 27,47% do total das sessões realizadas no período 1991/94. Não é verdade. Tive 31 faltas, afora licenciamento por motivos de saúde, computando-se aí faltas em razão de atividades parlamentares. Não estar no plenário na hora do registro eletrônico da presença nem sempre significa não estar na Casa. Trabalho nos gabinetes, nas comissões, nas CPMIs, em outras reuniões e em audiências públicas externas também faz parte da atuação de um deputado. Diz a Folha, também, que apresentei 35 projetos de lei e que não tive nenhuma proposta aprovada. Também não é verdade. Só nesta legislatura, apresentei 6 propostas de emenda à Constituição, 28 projetos de lei, 1 projeto de lei complementar, 2 projetos de decreto legislativo, 2 indicações, 23 requerimentos de informação e de convocação, o que totaliza 62 propostas. Isso sem contar as 376 emendas que apresentei à revisão constitucional e as inúmeras emendas às medidas provisórias e a projetos de lei do Executivo ou de outros parlamentares. Das seis emendas da revisão constitucional promulgadas, a de dupla cidadania é decorrente também de emenda de minha autoria. Afora isso, destaco ainda que tenho dez projetos de lei tramitando no Senado, já aprovados pela Câmara. Quanto a propostas de minha autoria transformadas em lei, na atual legislatura tive seis projetos de lei aprovados na Câmara e no Senado. Dois deles foram vetados e quatro foram sancionados pelo presidente e hoje são leis: lei que institucionaliza o Programa do Crédito Educativo; lei de seguro a vítimas no trânsito; lei de obrigatoriedade de declaração de bens e rendas para ocupantes de cargos públicos; e a lei da Rota do Sol. Foi por minha proposta que se instalou e se realizou a CPMI do endividamento agrícola."
 Victor Faccioni, deputado federal pelo PPR-RS (Brasília, DF)
 
@@ -174,9 +174,9 @@ Carlos Coradassi Buff (Curitiba, PR)
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-011</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-011</field>
+<field name="date">941001</field>
+<text_pt>
 Lula e FHC certamente gostariam de ver SP representado no Senado por Serra e Erundina
 BENTO PRADO JR.
 Se, por "polarização", entendêssemos única e exclusivamente a concentração das intenções de voto nos nomes de FHC e de Lula, em prejuízo dos demais candidatos, deveríamos responder com um sim inequívoco. Com efeito, essa concentração parece sintoma de notável maturidade do eleitorado &#150;lembremo-nos do êxito do malfadado Collor há quatro anos atrás.
@@ -193,9 +193,9 @@ BENTO PRADO JR., 56, é professor do Departamento de Filosofia da Universidade Fe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-012</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-012</field>
+<field name="date">941001</field>
+<text_pt>
 O dia 23 de agosto de 1954 foi agitado para o então jovem jornalista José Aparecido de Oliveira, hoje embaixador do Brasil em Portugal. Militante ardoroso da UDN, Aparecido trabalhava num jornal do partido em Minas, o "Correio do Dia" e não se cansava de atacar o governo de Getúlio Vargas.
 Naquele dia, escreveu um duríssimo artigo contra Getúlio. Satisfeito, deixou o jornal e foi para a casa do amigo Marcelo Coimbra Tavares para beber e conversar. Ficaram nisto até de manhã, quando foram a uma padaria tomar café.
 Logo perceberam que os demais fregueses estavam calados, alguns choravam. Aparecido perguntou o que acontecera. E o caixa gritou:
@@ -208,9 +208,9 @@ Para a felicidade de Aparecido, era verdade.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-013</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-013</field>
+<field name="date">941001</field>
+<text_pt>
 JANIO DE FREITAS
 Presidente da República por nove meses, no mínimo, do mandato que Fernando Henrique Cardoso está convicto de conquistar depois de amanhã, Marco Maciel viu encerrar-se a campanha, ontem, sem que pudesse ter feito sequer uma aparição no horário eleitoral para lhe salvar a face. Nos eventos públicos, em que antes Fernando Henrique se fazia acompanhar do então companheiro de chapa Guilherme Palmeira, Maciel só esteve presente nos casos, quase inexistentes, em que o rejeitar seria um ato de agressão ao PFL.
 Se você estranhou a observação sobre os noves meses, no mínimo, de Presidência ocupada por Maciel, lembre-se de que o direito de reeleição presidencial está proposto pelas forças que apóiam Fernando Henrique, que a partir da posse já estará agindo com vistas a ser reeleito. Para candidatar-se, precisará deixar o governo seis meses antes da eleição e, depois dela, aguardar mais três para a nova posse, se eleito. São nove meses em que o vice se torna o presidente.
@@ -221,9 +221,9 @@ Nos últimos dias os jornais têm se ocupado muito de uma hipotética aproximação d
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-014</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-014</field>
+<field name="date">941001</field>
+<text_pt>
 JOSUÉ MACHADO
 O ombudsman da Folha está sendo substituído nesta semana. Sai Junia Nogueira de Sá e entra Marcelo Leite. A propósito, a Folha grafa ombudsman no singular e ombudsmen no plural. Como Junia grafou no texto de despedida em que anuncia que vai fazer o de que mais gosta &#150;"ler muito, e ler jornais" (que coisa): "Mas, ao contrário dos dois ombudsmen que me antecederam...", "...os ombudsmen da Folha..."
 Culpa do Aurélio, que registra ombudsman assim:
@@ -238,9 +238,9 @@ JOSUÉ R.S. MACHADO é jornalista, formado em Línguas Neolatinas pela PUC-SP. Cola
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-015</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-015</field>
+<field name="date">941001</field>
+<text_pt>
 Tribunal Superior do Trabalho rejeita cláusulas propostas pela categoria
 Da Sucursal de Brasília
 O TST (Tribunal Superior do Trabalho) julgou abusiva a greve dos petroleiros, inicida segunda-feira. O TST indeferiu as principais cláusulas contratuais trabalhistas propostas pela categoria.
@@ -257,9 +257,9 @@ Anteontem à noite, a Petrobrás foi ao TST pedir ao presidente que baixasse nova 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-016</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-016</field>
+<field name="date">941001</field>
+<text_pt>
 Da Sucursal do Rio
 A Petrobrás decidiu demitir grevistas caso os petroleiros não voltem hoje ao trabalho, como determinou ontem o TST.
 Se ocorrerem demissões, elas poderão ser anunciadas a partir de amanhã. A intenção é dar aos petroleiros prazo para discutir em assembléia o retorno ao trabalho.
@@ -271,18 +271,18 @@ Na nota, a direção da empresa informa que "todas as operações deverão ser restab
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-017</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-017</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 A Comgás (Companhia de Gás de São Paulo) informou ontem que o abastecimento de gás encanado para os consumidores residenciais e comerciais da Grande São Paulo está sendo feito sem problemas.
 Segundo Aristides Monteiro, 44, superintendente de vendas industriais da empresa, só haveria falta se a Comgás ficasse pelo menos 15 dias seguidos sem receber o produto. O recebimento de gás natural foi reduzido para 1,4 milhão de metros cúbicos/dia (normalmente, é de 3 milhões). O abastecimento para o setor industrial foi reduzido em 50%.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-018</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-018</field>
+<field name="date">941001</field>
+<text_pt>
 Policial afirma que denúncia é vingança de comerciante
 MARCELO GODOY
 Da Reportagem Local
@@ -299,9 +299,9 @@ Segundo ele, há 40 dias, um comerciante foi extorquido por policiais para não se
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-019</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-019</field>
+<field name="date">941001</field>
+<text_pt>
 Da Sucursal de Brasília
 O professor de capoeira Francisco Rivelino, 22, foi condenado ontem em Brasília a 18 anos de prisão pela morte do estudante Marco Antônio Velasco, 16, em agosto de 93. A defesa pode recorrer.
 Marco Antônio foi morto a socos e pontapés por 11 integrantes da gangue "Falange Satânica". Incluindo Rivelino, oito acusados (quatro menores) já foram condenados pelo crime. Luciano Pinheiro, 21, também acusado, deve ser julgado no próximo dia 13.
@@ -311,9 +311,9 @@ A pena pode ser reduzida para seis anos, porque Rivelino ficou preso um ano à es
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-020</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-020</field>
+<field name="date">941001</field>
+<text_pt>
 Ventos de até 90 km/h destelharam casas em 12 dos 80 bairros de Rio Branco (AC). Segundo a Secretaria de Obras do município, o vendaval começou às 16h30 de anteontem e durou 20 minutos. Duas crianças foram internadas devido ao desabamento das paredes de uma escola.
 
 Investigador do 42º DP obtém redução de pena
@@ -321,9 +321,9 @@ A 5ª Câmara Criminal do Tribunal de Justiça de São Paulo diminuiu para 54 anos a
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-021</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-021</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 O projeto orçamentário entregue à Câmara prevê também que o IPTU (Imposto Predial e Territorial Urbano) terá a mesma alíquota de 0,6% utilizada este ano.
 A informação é do secretário de Finanças, Celso Pitta.
@@ -341,9 +341,9 @@ O presidente da Câmara, Miguel Colasuonno (PPR), estima que o projeto seja aprov
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-022</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-022</field>
+<field name="date">941001</field>
+<text_pt>
 Cientistas determinam chances de criança morrer por doença genética se pais forem primos de primeiro grau
 Das agências internacionais
 Crianças cujos pais são primos de primeiro grau têm risco 4% maior de morrer durante a infância do que outras crianças, sugere um estudo publicado no último número da revista "Nature Genetics".
@@ -362,16 +362,16 @@ A revisão não investigou o risco de um casal de primos ter um filho com um defei
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-023</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-023</field>
+<field name="date">941001</field>
+<text_pt>
 A Cooperativa Agrícola de Cotia (CAC) foi dissolvida ontem por decisão de assembléia de cooperados. Keiro Shimomoto, presidente da entidade, foi nomeado liquidante. A CAC acumula dívida de US$ 750 milhões junto ao sistema financeiro. A diretoria da CAC deixou a sede da cooperativa, ontem no início da tarde, sem receber os bancos credores. O maior credor é o Banespa, com créditos pendentes de US$ 200 milhões, seguido pelo Banco do Brasil, com outros US$ 50 milhões.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-024</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-024</field>
+<field name="date">941001</field>
+<text_pt>
 Dificuldades da Alcatel no Brasil contribuíram para a queda de 33% do lucro da matriz na França, para US$ 380 milhões no primeiro semestre.
 A subsidiária brasileira projeta prejuízo de US$ 60 milhões para este ano, depois de ter fechado 93 também no vermelho.
 
@@ -402,9 +402,9 @@ O "Financial Times" publicou ontem a bandeira do Brasil, em cores, na primeira p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-025</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-025</field>
+<field name="date">941001</field>
+<text_pt>
 MARCOS CINTRA
 "A idéia do imposto único não é, ao contrário do que diz a sabedoria tradicional dos fiscalistas, ingênua ou inexequível. É apenas insolentemente nova, cujo tempo já chegou."
 (Roberto Campos)
@@ -432,25 +432,25 @@ MARCOS CINTRA CAVALCANTI DE ALBUQUERQUE, 48, doutor em economia pela Universidad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-026</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-026</field>
+<field name="date">941001</field>
+<text_pt>
 As ofertas de emprego para executivos cresceram em setembro 40% sobre agosto e 33% em relação ao mesmo mês do ano passado, segundo a consultoria de recursos humanos Laerte Cordeiro &amp;amp; Associados. A pesquisa da consultoria apurou 153 anúncios de executivos nos jornais de São Paulo
 A procura em setembro foi 25% maior que a média mensal de 122 anúncios nos nove primeiros meses deste ano. A maior procura no mês passado recaiu sobre as áreas de marketing e vendas (39% dos anúncios), seguidas por produção e técnica (25%) e administração, finanças e controle (23%).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-027</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-027</field>
+<field name="date">941001</field>
+<text_pt>
 O volume transportado pela Fepasa (Ferrovia Paulista S/A) subiu 4,82% em agosto, quando 1,74 milhão de toneladas foram transportadas, contra 1,66 milhão de julho. O total acumulado até agosto (12,41 milhões de t) é 2,44% menor que as 12,72 milhões de t de igual período de 93.
 A RFFSA (Rede Ferroviária Federal S/A) teve avanço de 6,36% no total de t por km útil transportado em agosto, em relação a julho, e recuo de 6,15% sobre agosto do ano passado. De janeiro a agosto deste ano, houve queda de 13,5% no volume transportado, em relação a idêntico período de 93.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-028</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-028</field>
+<field name="date">941001</field>
+<text_pt>
 Dólar comercial chega a R$ 0,851, mas sem intervenção do BC; Bolsa cai no final do pregão
 Da Redação
 O clima ontem no mercado financeiro foi pré-eleitoral. As Bolsas de Valores abriram com fortes altas. No final do pregão, houve forte pressão vendedora e o índice da Bovespa (Bolsa de Valores de São Paulo) acabou fechando com alta de apenas 0,76%.
@@ -486,9 +486,9 @@ O índice Bovespa no mercado futuro para outubro fechou a 56.500 pontos e de 60.7
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-029</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-029</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Milton Dallari, assessor do Ministério da Fazenda, disse ontem que o governo pretende combater a especulação com o preço do feijão zerando a alíquota de importação do produto, hoje de 10%.
 Lentilha, grão de bico e ervilha também deverão ser incluídos.
@@ -505,9 +505,9 @@ Sobre os acordos de preços que vêm fazendo, Dallari disse que todos são até deze
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-030</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-030</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Está praticamente fechado um acordo com o setor de embalagens para que este não aumente seus preços até dezembro, afirmou ontem Milton Dallari, assessor do Ministério da Fazenda.
 "Eles podem praticar no mercado externo o preço normal de mercado externo", acrescentou. Mas o que interessa para o governo, alertou, é a garantia do abastecimento do mercado nacional.
@@ -521,9 +521,9 @@ Estão programados mais três leilões em outubro.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-031</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-031</field>
+<field name="date">941001</field>
+<text_pt>
 MARIA EDICY MOREIRA
 Free-lance para a Folha
 A Equipotel, feira de produtos para hotéis, motéis, bares e restaurantes, que acontece até hoje as 22h no parque Anhembi, em São Paulo, superou a expectativa de negócios. "Esperávamos 1,5 bilhão e devemos atingir US$ 2 bilhões até o encerramento do evento hoje", disse Katia Castro, diretora executiva da feira.
@@ -537,17 +537,17 @@ Equipotel: Parque Anhembi, das 14 as 22 horas, entrada mediante convite dos expo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-032</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-032</field>
+<field name="date">941001</field>
+<text_pt>
 
  SALÁRIOS &#150; O Conselho Curador do FCVS (Fundo de Compensação de Variações Salariais) não aprovou as contas apresentadas pela administração do fundo relativas aos anos de 1990, 1991 e 1992. As contas deverão ser reapresentadas até o final do ano com as correções apontadas pela auditoria da Ciset (Secretaria de Controle Interno do Ministério da Fazenda). O FCVS faz a cobertura de saldos devedores residuais do Sistema Financeiro da Habitação. O Ciset irá verificar, na auditoria a ser realizada durante o as contas relativas a este ano, se a administradora do FCVS promoveu as correções apontas nas contas dos anos anteriores.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-033</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-033</field>
+<field name="date">941001</field>
+<text_pt>
 Medida atinge exportadores de algumas matérias-primas em alta no país e visa conter aumentos de preços
 MÔNICA IZAGUIRRE
 Da Sucursal de Brasília
@@ -570,9 +570,9 @@ O mesmo motivo levou o governo a incluir na lista dos produtos que tiveram reduz
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-034</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-034</field>
+<field name="date">941001</field>
+<text_pt>
 Da Sucursal de Brasília
 O Conselho Nacional das ZPEs (Zonas de Processamento de Exportação) aprovou anteontem a criação de uma ZPE no Rio e outra em Minas Gerais.
 Caso o presidente Itamar Franco assine o documento, subirá para 18 o número de ZPE já aprovadas no país.
@@ -587,9 +587,9 @@ Além de gerar empregos, a instalação de indústrias em áreas carentes (caso de Te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-035</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-035</field>
+<field name="date">941001</field>
+<text_pt>
 Leia a íntegra da circular que altera o regulamento de câmbio de exportação.
 Circular nº
 Divulga alteração no Regulamento de Câmbio de Exportação instituído pela Circular nº 2.231, de 25.9.92.
@@ -657,30 +657,30 @@ II &#150; Remessa direta
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-036</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-036</field>
+<field name="date">941001</field>
+<text_pt>
 Juízes da França colocaram ontem sob investigação o ex-premiê Laurent Fabius. Ele é acusado de ser cúmplice de envenenamento devido à infecção de 1.250 hemofílicos em transfusões de sangue com o vírus HIV, da Aids, em 1985. Fabius, ex-líder do Partido Socialista, é o político mais importante envolvido no escândalo. Ele foi vaiado na saída do tribunal.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-037</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-037</field>
+<field name="date">941001</field>
+<text_pt>
 O presidente russo Boris Ieltsin não desceu de seu avião e deixou o premiê irlandês esperando-o no aeroporto. O vice-premiê Oleg Soskovets disse a Albert Reynolds que Ieltsin se sentia mal por causa da longa viagem que o levava dos EUA a Moscou. Em Moscou, Ieltsin disse estar ótimo. Alegou que dormiu e os seguranças não deixaram ninguém acordá-lo na Irlanda.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-038</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-038</field>
+<field name="date">941001</field>
+<text_pt>
 Pelo menos seis pessoas morreram num prédio de apartamentos que explodiu no centro de Milão. Membros da equipe de resgate supõem que deve haver mais mortos porque no térreo do prédio funcionava um bar de grande movimento. Pelo menos 12 pessoas se feriram. A explosão foi provavelmente por causa de vazamento de gás, disse o departamento de energia.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-039</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-039</field>
+<field name="date">941001</field>
+<text_pt>
 Inspetor sueco diz que incidentes semelhantes sem vítimas na Suécia ficaram em segredo
 Das agências internacionais
 Um barco finlandês encontrou a balsa Estonia que afundou na quarta-feira deixando mais de 900 pessoas desaparecidas ou mortas.
@@ -700,9 +700,9 @@ Apenas 25% dos sobreviventes são mulheres. O mais velho é um sueco de 77 anos. O
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-040</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-040</field>
+<field name="date">941001</field>
+<text_pt>
 JAIME SPITZCOVSKY
 De Pequim
 A China comemora hoje 45 anos de regime comunista, mas o capitalismo rouba a cena. As cerimônias abandonam os chavões socialistas e festejam símbolos do novo consumismo chinês.
@@ -721,9 +721,9 @@ Sem cargos, Deng segue como "mandarim" das reformas. O Museu da Revolução mostra
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-041</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-041</field>
+<field name="date">941001</field>
+<text_pt>
 Das agências internacionais
 Um tribunal especial determinou ontem que o chefe mafioso Salvatore "Tot&#149;" Riina e outros 36 acusados sejam julgados pelo assassinato do juiz anti-Máfia Giovanni Falcone, ocorrido em 1992.
 O julgamento deverá ocorrer em fevereiro de 1995. O indiciamento foi decidido num tribunal que por segurança foi especialmente instalado na prisão da cidade de Caltanissetta, região central da Sicília (ilha no sul da Itália).
@@ -734,9 +734,9 @@ O vice-comandante da polícia italiana, Gianni de Gennaro, afirmou ontem a um com
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-042</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-042</field>
+<field name="date">941001</field>
+<text_pt>
 Joseph Toft, ex-chefe da DEA (agência de combate às drogas dos EUA) em Bogotá (foto), disse que os cartéis do narcotráfico detêm tanto poder na Colômbia que transformaram o país numa "narcodemocracia". Foi a primeira entrevista de Toft, que se aposentou anteontem. O Departamento de Estado desautorizou a declaração, contestada pelo presidente colombiano, Ernesto Samper. 
 
 Enterrado cantor argelino assassinado 
@@ -756,9 +756,9 @@ A Arábia Saudita e os outros cinco integrantes do Conselho de Cooperação do Golf
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-043</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-043</field>
+<field name="date">941001</field>
+<text_pt>
 CARLOS EDUARDO LINS DA SILVA
 De Washington
 O governo dos Estados Unidos prevê muita violência nos próximos 15 dias no Haiti e, por isso, resolveu aumentar a quantidade de suas tropas no país.
@@ -778,9 +778,9 @@ Já o ex-presidente Jimmy Carter é visto com simpatia por 60% das pessoas ouvidas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-044</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-044</field>
+<field name="date">941001</field>
+<text_pt>
 Das agências internacionais
 A polícia mexicana prendeu ontem um funcionário da Câmara por suspeita de envolvimento no assassinato do secretário-geral do Partido Revolucionário Institucional (PRI, governista), José Francisco Ruiz Massieu, 48, ocorrido quarta-feira na Cidade do México.
 Fernando Rodríguez González, assessor do deputado Manuel Mu¤oz Rocha, do PRI, teria hospedado o assassino na capital enquanto o crime era preparado.
@@ -799,9 +799,9 @@ Em Brasília, o Itamaraty divulgou mensagem enviada a Salinas pelo presidente Ita
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-045</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-045</field>
+<field name="date">941001</field>
+<text_pt>
 O músico e humorista Juca Chaves inaugura no dia 5 de outubro, a partir das 22h, um novo teatro em São Paulo. O Jucabaré-Theatro Inteligente vai funcionar na rua Major Sertório, 661, no centro de São Paulo. A renda da noite de inauguração será doada ao Fundo Social de Solidariedade do Estado.
 
 O NÚMERO
@@ -815,9 +815,9 @@ A AACD (Associação de Assistência à Criança Defeituosa) promove, de 25 a 27 de n
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-046</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-046</field>
+<field name="date">941001</field>
+<text_pt>
 Professor Gordon Wells, que participa de seminário em SP, defende troca de informações entre estudantes
 PAULO SILVA PINTO
 Da Reportagem Local
@@ -831,9 +831,9 @@ O começo da resposta de Wells pode não ser alentadora. "As universidades estão m
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-047</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-047</field>
+<field name="date">941001</field>
+<text_pt>
 O Sistema Estadual de Análise de Dados e a Fundacentro iniciaram pesquisa em Santos, Praia Grande, Guarujá e Cubatão para avaliar o grau de pobreza da população. O resultado preliminar do trabalho será divulgado no início de 95.
 
 SP Litoral 2
@@ -853,9 +853,9 @@ O avião roubado no aeroclube dos Amarais, em Campinas, no final do mês passado, 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-048</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-048</field>
+<field name="date">941001</field>
+<text_pt>
 A Secretaria do Desenvolvimento de Goiânia e o Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas) vão realizar, de 23 a 27 de outubro, a 2ª Feira de Flores e Plantas Ornamentais de Goiânia. Os interessados devem procurar o Sebrae de Goiânia.
 
 Mato Grosso do Sul 1
@@ -869,9 +869,9 @@ O editor gráfico Ricardo Martins, 19, foi o vencedor do concurso para criação do
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-049</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-049</field>
+<field name="date">941001</field>
+<text_pt>
 O veterinário Francisco Oliveira, 57, foi preso anteontem pela PF em Olinda, sob a acusação de tráfico de drogas. A polícia afirmou que foram achados em sua casa 3 kg de maconha, 3 kg de cocaína em pó e em pasta, dois revólveres calibre 38 e US$ 8.756.
 
 Pernambuco 2
@@ -897,9 +897,9 @@ Doze embarcações foram apreendidas pela Capitania dos Portos de Salvador em apen
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-050</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-050</field>
+<field name="date">941001</field>
+<text_pt>
 O Centro de Zoonoses da Prefeitura de Manaus iniciou esta semana a operação de captura de animais na cidade. Segundo o órgão, entre os 140 mil cães que vivem nas ruas em Manaus, só 1.700 são vacinados. O centro possui uma carrocinha para recolher animais.
 
 Amazonas 2
@@ -913,9 +913,9 @@ O pintor Roland Stevensons &#150;um dos mais importantes de Manaus&#150; anuncio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-051</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-051</field>
+<field name="date">941001</field>
+<text_pt>
 A Prefeitura de Porto Alegre sancionou anteontem a lei que determina a construção de um monumento em memória dos brasileiros mortos e desaparecidos por motivos políticos de 1964 a 1984. Foi sugerida a sua localização no parque Marinha do Brasil.
 
 Paraná 1
@@ -941,9 +941,9 @@ O Procon (Programa de Orientação e Defesa do Consumidor) multou quatro restauran
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-052</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-052</field>
+<field name="date">941001</field>
+<text_pt>
 PAULO PLANET BUARQUE
 São Paulo recolhe 15 mil toneladas de lixo por dia. E até a presente data, o destino final desse lixo são aterros sanitários e, em pequena quantidade, incineração rudimentar, que transforma o resíduo em adubo.
 Os aterros sanitários remanescem distantes e invariavelmente combatidos pela população vizinha. Mesmo quando convenientemente cuidados, como é o caso do São João, o mais novo deles.
@@ -958,9 +958,9 @@ PAULO PLANET BUARQUE, 66, bacharel em direito pela Pontifícia Universidade Catól
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-053</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-053</field>
+<field name="date">941001</field>
+<text_pt>
 Estudo diz que bebês internados em São Paulo têm mais chances de contrair doença; creches duplicam casos
 CLÁUDIO CSILLAG
 Editor-assistente de Ciência
@@ -985,9 +985,9 @@ Entre as crianças usadas como grupo de controle, que foram ao Menino Jesus por o
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-054</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-054</field>
+<field name="date">941001</field>
+<text_pt>
 Da Redação
 É ilusório pensar que os 32 milhões de brasileiros que trocaram o sistema público por planos privados de saúde proporcionam uma economia ao Estado, disse o presidente eleito do CFM (Conselho Federal de Medicina), Waldir Paiva Mesquita, no debate "Fiscalização dos Planos de Saúde", realizado quarta-feira no auditório da Folha.
 Como as despesas com planos de saúde são dedutíveis do imposto de renda, a quantia que o governo deixa de arrecadar é muito maior, segundo Mesquita, do que a que ele economiza por não precisar prestar serviços médicos.
@@ -1001,9 +1001,9 @@ Para a advogada criminalista Rosana Chiavassa, as empresas estão se adaptando às
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-055</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-055</field>
+<field name="date">941001</field>
+<text_pt>
 Instalações de artistas iluminam pedestres no vale, que brincam com a própria sombra; projeto vai até o dia 24
 Da Reportagem Local
 Um canhão de luz que projeta sombras numa tela gigante recortada e sustentada por 13 balões. O cenário acaba formando um palco onde personagens &#150;anônimos e convidados&#150; brincam com seus vultos.
@@ -1022,9 +1022,9 @@ Outras estão ocorrendo no prédio da Eletropaulo &#150;na rua Xavier de Toledo&#1
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-056</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-056</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 No próximo dia 6 (quinta-feira), às 10h, o Banespa vai inaugurar o primeiro caixa eletrônico de auto-atendimento bancário para deficientes físicos da América Latina.
 Planejado com o objetivo de atender portadores de paraplegia (paralisia dos membros inferiores e que afeta parcialmente também o tronco), o caixa vai funcionar na estação especial da Lapa, no Centro de Convivência e Desenvolvimento Humano, rua Guaicurus, 1.274.
@@ -1035,9 +1035,9 @@ Segundo o assessor, o mesmo tipo de equipamento vai ser instalado em outras agên
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-057</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-057</field>
+<field name="date">941001</field>
+<text_pt>
 A leitora Nyvia Cristina Bandeira de Castro diz ter recebido um cartão de cliente preferencial da rede de supermercados Pão de Açúcar sem que ele fosse solicitado.
 "O `Special Card' promete uma série de vantagens, dentre elas um prazo para o pagamento da conta", conta Nyvia.
 "Acreditando na seriedade das propostas, fiz uma compra no dia 27 de agosto e paguei com cheque para dia 6 de setembro, de acordo com a promoção vigente. Mas tive a surpresa de constatar que o cheque fora depositado no dia primeiro do mês, o que me prejudicou muito. Parece-me antiético estabelecer um pacto com o cliente que não é cumprido", diz Nyvia. 
@@ -1048,9 +1048,9 @@ De acordo com Vera Giangrande, ombudsman do Grupo Pão de Açúcar, o cheque da cli
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-058</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-058</field>
+<field name="date">941001</field>
+<text_pt>
 Os leitores Luciana Rodrigues do Carmo, Paulina Burgatto, José Joaquim do Nascimento, Afonso Cabezos Infante, Sandra Sueli Zuccarello Rizzo, Zilma Brito Patti e Neida Paulina de Lacerda reclamam da demora do INSS para liberar seus benefícios.
 Resposta
 Segundo a Superintendência Estadual do INSS, "os reclamantes em questão tiveram seus benefícios concedidos retroativamente à data de entrada dos requerimentos, com o pagamento da correção monetária do período em que a concessão ultrapassou os 45 dias".
@@ -1059,9 +1059,9 @@ Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Editoria de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-059</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-059</field>
+<field name="date">941001</field>
+<text_pt>
 Ainda não foi analisada a obra de extensão da Faria Lima; Orçamento e IPTU têm que ser votados até dezembro
 Da Reportagem Local
 Até o final do ano, a Câmara dos Vereadores &#150;renovada em parte por causa das eleições&#150; terá dois projetos prioritários para votar: a Lei de Orçamento para o próximo ano e os valores do IPTU (Imposto Predial e Territorial Urbano). O orçamento é de R$ 4,5 bilhões, o terceiro maior do país, e 28% maior que o deste ano. Sem a votação, não pode haver recesso parlamentar.
@@ -1075,9 +1075,9 @@ Hoje, o prefeito conta com um apoio que varia entre 22 e 28 vereadores.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-060</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-060</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Em benefício do Centro de Apoio Social e Atendimento do Município de São Paulo (Casa), 11 estilistas da Associação Brasileira de Alta Moda colocaram seus modelos na passarela montada quinta-feira na Estação Julio Prestes.
 Cerca de 700 senhoras da sociedade paulistana pagaram os R$ 100 pelo convite e capricharam no guarda-roupa e nos penteados para engrossar o gargarejo do desfile, que começou por volta das 18h com as transparências de Alexandre Herchcovitch.
@@ -1087,9 +1087,9 @@ A apresentadora teve de dar novo empurrão durante o desfile dos longos e decotad
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-061</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-061</field>
+<field name="date">941001</field>
+<text_pt>
 Este texto grafou incorretamente o nome da loja Mario Bros. (saiu Mario Bross).
 
 ERRAMOS
@@ -1113,9 +1113,9 @@ Outros importados estão na mesma faixa de preço dos nacionais. É o caso da bonec
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-062</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-062</field>
+<field name="date">941001</field>
+<text_pt>
 Ribeirão Preto Começa hoje o 3º Ribeirão Open, competição da modalidade valendo pontos pela ATP (Associação de Tenistas Profissionais). O evento contará com presenças de tenistas como Fernando Meligeni, Roberto Jábali e Jaime Oncins.
 
  BASQUETE 
@@ -1138,9 +1138,9 @@ HIPISMO
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-063</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-063</field>
+<field name="date">941001</field>
+<text_pt>
 JOSÉ HENRIQUE MARIANTE
 Bastaria a assinatura de Rubens Barrichello com a McLaren e a permanência de Christian Fittipaldi na F-1 para garantir mais um ano de emoções para o torcedor. O problema é que, a cada dia que passa, esta possibilidade parece mais remota.
 Indagados sobre a chance de ocorrer o contrário, ou seja, Barrichello ficar mais um ano na Jordan e Christian ir para a Indy, vários jornalistas que acompanham a categoria há anos apostam numa perda de interesse por parte do público brasileiro sem precedentes na história.
@@ -1155,17 +1155,17 @@ E não tem paciência, com certa razão, de ser esperançoso.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-064</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-064</field>
+<field name="date">941001</field>
+<text_pt>
 
 O atacante Marcelo Negrão é o único brasileiro entre os melhores jogadores por fundamento na primeira rodada do Mundial. Foi o segundo colocado em saque. O primeiro foi o argelino Ali Dif. O cubano R. Hernandez foi o melhor atacante e o grego Tsakiropoulos, melhor bloqueio e defesa. O cubano Raul Diago foi considerado o melhor levantador e o italiano Bernardi, a melhor recepção.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-065</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-065</field>
+<field name="date">941001</field>
+<text_pt>
 A dupla italiana de estilistas apresenta amanhã e quarta-feira, em Milão, suas novas coleções primavera-verão
 Desenho da nova coleção Dolce &amp;amp; Gabbana 
 CELSO FIORAVANTE
@@ -1198,9 +1198,9 @@ Dolce - Em novembro, sairá o perfume Dolce &amp;amp; Gabbana para homens e, em j
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-066</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-066</field>
+<field name="date">941001</field>
+<text_pt>
 Das agências internacionais
 Os desfiles da coleção primavera-verão em Milão encontram o setor em crise. Três dos maiores estilistas do país &#150;Giorgio Armani, Gianni Versace e Gianfranco Ferrè&#150; tiveram seus nomes vinculados aos escândalos de corrupção no país, que há dois anos e meio vêm sendo investigados pela "Operação Mãos Limpas".
 Na semana passada, Armani revelou ao juiz Antonio Di Pietro, chefe da operação, ter pago os fiscais da Receita local para que eles "relaxassem" uma auditoria de rotina em 1990.
@@ -1209,30 +1209,30 @@ Sobre esses escândalos no mundo da moda, Domenico Dolce disse apenas que esses p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-067</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-067</field>
+<field name="date">941001</field>
+<text_pt>
 Já na Tunísia, pistoleiros assassinaram anteontem, em Oran (Tunísia), o cantor Cheb Hasni, de 26 anos, um dos maiores nomes da música "rai" (mistura de música tradicional árabe e "pop music"). No fim-de-semana passado, o cantor Matoub Lounes foi raptado.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-068</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-068</field>
+<field name="date">941001</field>
+<text_pt>
 Uma editora egípcia está "adaptando" o clássico da literatura árabe "As Mil e Uma Noites". Só que a adaptação é para a literatura mesmo. O jornal "Al Ahali" disse que a Oficina do Livro Egípcio altera o livro para torná-lo aceitável ao rigor islâmico.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-069</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-069</field>
+<field name="date">941001</field>
+<text_pt>
 A editora francesa Larousse acaba de lançar uma enciclopédia dedicada exclusivamente ao vinho. A obra traz informações sobre a bebida em todo o mundo, locais de produção, características e formas de tomá-los. O francês ganhou 200 das 608 páginas do volume.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-070</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-070</field>
+<field name="date">941001</field>
+<text_pt>
 Taslima Nasreen fala, em Lisboa, sobre sua condenação à morte por ofender o livro sagrado dos muçulmanos
 JAIR RATTNER
 De Lisboa
@@ -1275,9 +1275,9 @@ Taslima - Minhas tristezas eu coloco na escrita. Eu escrevo a minha saudade, min
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-071</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-071</field>
+<field name="date">941001</field>
+<text_pt>
 PAULO COELHO
 Colunista da Folha
 O guerreiro ninja era o mais ousado &#150;e, ao mesmo tempo, o que melhor desarmava os golpes do inimigo.
@@ -1289,9 +1289,9 @@ Os guerreiros riram. Afinal de contas, o homem que dizia isso estava diante dele
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-072</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-072</field>
+<field name="date">941001</field>
+<text_pt>
 `Tracing Narcissus' abre festival austríaco criticando narcisismo na arte atual
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
@@ -1311,9 +1311,9 @@ Na quinta-feira, a gravadora alemã Deutsche Grammophon registrou o último ensaio
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-073</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-073</field>
+<field name="date">941001</field>
+<text_pt>
 Cinco faroestes de John Ford e quatro musicais de Vincente Minnelli estão entre as principais atrações do festival
 Da Redação
 Esta é para os cinéfilos começarem a fazer fila desde hoje: a 18ª Mostra Internacional de Cinema de São Paulo fechou a exibição de 11 musicais da Metro e de nove faroestes clássicos.
@@ -1326,9 +1326,9 @@ Os faroestes não são menos animadores. Para começar, há cinco John Ford. "Sangue
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-074</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-074</field>
+<field name="date">941001</field>
+<text_pt>
 
 CONSTANZA PASCOLATO
 MILÃO &#150; Bem pacata em tempos normais, Milão ferve socialmente durante a semana da moda. A Via Della Spiga, sede das mais luxuosas butiques (Dolce e Gabbana, Prada, Versace, Hermès, etc. etc.) e ruas adjacentes, ficam animadíssimas com o beautiful people internacional. As lojas, contrariando o costume, ficam abertas para o almoço. Sábado e domingo, distribuição de spumanti.
@@ -1341,9 +1341,9 @@ A atual mania entre os vips do estilo é dizer "brilliant" para "bom" e "it's abo
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-075</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-075</field>
+<field name="date">941001</field>
+<text_pt>
 FERNANDA DA ESCÓSSIA
 Da Sucursal do Rio
 Uma mostra de documentários, a maioria inéditos no Brasil, vai trazer um pouco da história dos cem anos da invenção dos irmãos Pierre e Auguste Lumière: o cinematógrafo.
@@ -1353,9 +1353,9 @@ O político "Loin du Vietnam" (Longe do Vietnã, 1967) é um longa-metragem com peq
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-076</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-076</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Um manifesto com de mais de 500 assinaturas divulgado ontem defende a eleição de Luiza Erundina (PT) e José Serra (PSDB) para o Senado por São Paulo.
 Os dois candidatos pertencem a partidos rivais nas disputas pela Presidência e pelo governo do Estado.
@@ -1374,16 +1374,16 @@ Ontem, o grupo que prega o voto na dupla Erundina-Serra promoveu um almoço no re
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-077</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-077</field>
+<field name="date">941001</field>
+<text_pt>
 Ontem à noite, FHC e Lula fizeram seus últimos atos públicos antes do primeiro turno. O tucano foi a Santos (SP), cidade natal e reduto eleitoral de Mário Covas, candidato do PSDB ao governo paulista. Lula esteve em Recife (PE), onde tem o apoio do líder das pesquisas no Estado, Miguel Arraes (PSB).
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-078</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-078</field>
+<field name="date">941001</field>
+<text_pt>
 Pela manhã, fez carreata em Sorocaba (SP). Voltou a elogiar a "sensatez" de Lula, mas disse continuar fiel à aliança com o PFL. No início da tarde, promoveu passeata na praça da República, em São Paulo. Foi, em seguida, para Santos (SP), onde tinha previsto à noite seu último comício amtes do primeiro turno.
 pág. 1
 
@@ -1401,9 +1401,9 @@ pág. 4
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-079</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-079</field>
+<field name="date">941001</field>
+<text_pt>
 De que maneira o voto em branco influencia na eleição?
 Os votos em branco só influenciam nas eleições proporcionais (deputados federais, estaduais e vereadores). Eles são somados aos votos válidos para se determinar o quociente eleitoral, que é a quantidade de votos que cada partido precisa obter para eleger pelo menos um candidato.
 O voto em branco beneficia algum partido ou candidato?
@@ -1433,9 +1433,9 @@ O eleitor que não votar no primeiro turno não será impedido de votar no segundo.
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-080</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-080</field>
+<field name="date">941001</field>
+<text_pt>
 GUSTAVO KRIEGER
 Enviado Especial a Salvador
 O candidado do PT à presidência, Luiz Inácio Lula da Silva, disse ontem que termina o primeiro turno da campanha eleitoral "cansado como quem acaba de jogar uma partida de futebol".
@@ -1452,9 +1452,9 @@ Lula também se reuniu com pastores evangélicos. Respondeu sobre aborto e direito
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-081</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-081</field>
+<field name="date">941001</field>
+<text_pt>
 Da Folha ABCD e da Sucursal de Brasília
 A delegacia seccional de São Bernardo concluiu na última quinta-feira as investigações sobre a acusação de uso do carro de som do sindicato dos metalúrgicos pelo candidato a presidente pelo PT, Luiz Inácio Lula da Silva, nos dias 23 e 24 de maio último.
 O inquérito diz que há indícios de crime eleitoral, mas não denuncia ninguém. Caberá ao promotor eleitoral de São Bernardo denunciar ou não por crime eleitoral Vicente Paulo da Silva, o Vicentinho, presidente do sindicato dos metalúrgicos na época, e Lula.
@@ -1468,9 +1468,9 @@ Saldanha também se confundiu ao explicar a ata de uma reunião realizada em 16 de
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-082</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-082</field>
+<field name="date">941001</field>
+<text_pt>
 Do noticiário publicado sobre a eleição presidencial em setembro, 33,4% foram de material negativo aos candidatos
 Da Redação
 Na cobertura da eleição presidencial, a Folha foi o jornal mais crítico. Das 108,4 páginas que publicou a respeito da sucessão em setembro, 36,2 páginas foram de material negativo (33,4%) aos candidatos. Menos da metade disto foi de noticiário positivo: 17,3 páginas, ou 15,9% do total. Em agosto, a cobertura da Folha já tinha sido a mais crítica.
@@ -1489,9 +1489,9 @@ Em número de manchetes e altos de página publicados pela Folha, FHC foi o que te
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-083</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-083</field>
+<field name="date">941001</field>
+<text_pt>
 A Folha quase dobrou o espaço negativo sobre FHC. Ele teve 22,2% de material negativo em agosto e 39,8% em setembro.
 Houve vários fatos políticos que influenciaram este crescimento. No mês passado surgiram os casos Ricupero e o do assessor político de Bill Clinton, James Carville.
 Mais recentemente, foi noticiada a contribuição financeira de PC Farias para o comitê central da campanha de Joaquim Francisco (PFL) e de Marco Maciel (vice de FHC) em 90.
@@ -1507,9 +1507,9 @@ A Folha publicou 1,5 páginas de informações negativas sobre o peemedebista, o qu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-084</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-084</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Os limites impostos pela legislação eleitoral aumentaram o desinteresse do público pelo horário eleitoral, segundo os responsáveis pelos programas dos candidatos à Presidência.
 A lei também ajudou a provocar uma enxurrada de ações na Justiça eleitoral.
@@ -1537,9 +1537,9 @@ Outro ponto criticado por Santa Rita é o custo das campanhas com a nova lei. "Ap
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-085</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-085</field>
+<field name="date">941001</field>
+<text_pt>
 Levantamento Datafolha mostra que as duas vagas estão praticamente definidas em 5 dos 12 Estados pesquisados
 CLÁUDIA TREVISAN
 Da Reportagem Local
@@ -1565,9 +1565,9 @@ A margem de erro da pesquisa é de três pontos percentuais, exceto no Distrito Fe
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-086</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-086</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 O candidato do PSDB ao governo do Estado, Mário Covas, disse ontem que o crescimento de Francisco Rossi (PDT) nas pesquisas de opinião não o preocupa.
 Na sua opinião, a pesquisa demonstra que os eleitores de Rossi não têm o mesmo perfil dos eleitores do PSDB. "O crescimento dele (Rossi) deve preocupar o Barros Munhoz e o José Dirceu", disse Covas em referência aos candidatos do PMDB e do PT.
@@ -1585,9 +1585,9 @@ FHC e Covas se desencontraram quando a passeata passava em frente às escadarias 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-087</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-087</field>
+<field name="date">941001</field>
+<text_pt>
 JOSÉ SIMÃO
 Da equipe de articulistas
 Bomba! Bomba! O Brasil amanhece cantando! Acabou o horário eleitoral. Dia da Alforria Nacional! Adeus aos malas! É cada tipo! Eu tava entrando no banheiro com a televisão ligada quando ouvi "Ô lindo, psiu. Ô lindo, psiu". Aí eu peguei e voltei e adivinha quem era? O Homem do Sapatao Branco! Gente, ele fica pegando na televisão: "Ô lindo, psiu, ô linda psiu, meu número é tal e tal". Ah, sai pra lá jaburu que a minha pele não serve pra tamborim. É cada mala!
@@ -1600,9 +1600,9 @@ O horário do FHC foi o primeiro caso de demagogia transparente. Se depender das 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-088</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-088</field>
+<field name="date">941001</field>
+<text_pt>
 ITAMAR FRANCO
 Especial para a Folha
 Dentro de poucos dias teremos as mais amplas eleições da nossa história. Quase cem milhões de eleitores escolherão, em pleito livre e direto, o presidente da República, os governadores, dois terços dos senadores e todos os deputados federais e estaduais. Essa extensa consulta popular consolida o processo de redemocratização do país que se vem desenvolvendo nos últimos dez anos.
@@ -1617,9 +1617,9 @@ O grande resultado de nossos esforços &#150;e neste caso, dos esforços de todo p
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-089</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-089</field>
+<field name="date">941001</field>
+<text_pt>
 'Enéas atrai eleitor desnorteado'
 O jornal Libération dedicou ontem um pequeno texto ao candidato do Prona, Enéas.
 "Enéas Carneiro, presidente-fundador do Partido da Reedificação da Ordem Nacional (Prona), não faz por menos quando fala da classe política brasileira: `São todos baratas'."
@@ -1628,9 +1628,9 @@ O jornal lembra que o candidato, de "crânio liso, barba de Rasputin", é o "novo 
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-090</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-090</field>
+<field name="date">941001</field>
+<text_pt>
 De Londres
 'Vitória de FHC deverá ser fácil'
 O jornal inglês "Financial Times" publicou ontem material de destaque sobre as eleições no Brasil. Segundo a reportagem, que recebeu chamada na primeira página, Fernando Henrique Cardoso é favorito para vencer no primeiro turno. Diz que FHC deverá conseguir 60% de sustentação no Congresso em seu governo.
@@ -1638,9 +1638,9 @@ Outro texto diz que a vitória de FHC será "fácil" e cita a última pesquisa do Da
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-091</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-091</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 Os candidatos do PSDB à Presidência, Fernando Henrique Cardoso, e ao governo de São Paulo, Mário Covas, se perderam um do outro ontem durante caminhada do partido no centro de São Paulo.
 O desencontro provocou trocas de farpas entre Covas e o secretário-geral do PSDB, Sérgio Motta, que acompanhou FHC até o final.
@@ -1658,9 +1658,9 @@ Para Dirceu, "a pesquisa pode até estar certa, mas eu só dou credibilidade à apu
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-092</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-092</field>
+<field name="date">941001</field>
+<text_pt>
 Da Reportagem Local
 O presidente nacional do PT, deputado estadual Rui Falcão (SP), negou ontem que o partido possa participar de uma composição com um eventual governo de Fernando Henrique (PSDB).
 Falcão não é totalmente contrário ao diálogo com FHC, mas vê nas alianças feitas pelo tucano um obstáculo à participação do PT em qualquer cargo do governo federal.
@@ -1670,9 +1670,9 @@ Falcão abriu a possibilidade de uma composição entre o PSDB e o PT apenas no cas
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-093</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-093</field>
+<field name="date">941001</field>
+<text_pt>
 Eduardo Romanini Resstom (PSC) &#150; 201 Brig. Eng. Soares Dutra (Prona) &#150; 561 Medeiros (PP) &#150; 391
 Mário Covas (PSDB) &#150; 451
 Zé Dirceu (PT) &#150; 131
@@ -1698,18 +1698,18 @@ DEPUTADO FEDERAL
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-094</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-094</field>
+<field name="date">941001</field>
+<text_pt>
 
 O número do candidato a deputado federal Horácio Figueiredo (PT-SP) é 01356 e não 01336, como consta na relação publicada neste encarte.ERRAMOS
  PT  José Machado &#150; 01301 José Antonio Martins &#150; 01303 Telma de Souza &#150; 01304 Luiz Cruz de Oliveira &#150; 01305 João Bosco Alves de Amorim &#150; 01307 Marcos Antonio Gama &#150; 01310 Arselino Tatto &#150; 01311 Flavio Wolf de Aguiar &#150; 01312 José Genoino &#150; 01313 José Cicote (ou Chicote) &#150; 01314 Luiz Gushiken (ou Gushi) &#150; 01315 Pedro Antonio Liston &#150; 01316 Professor Paulo Nunes &#150; 01317 Altair Venarusso (Branco) &#150; 01318 Lafaiete Pereira Biet &#150; 01320 Eduardo Jorge &#150; 01321 Arlindo Chinaglia &#150; 01322 José Mentor &#150; 01323 João Paulo &#150; 01325 Gilmar Carneiro &#150; 01327 Roque Ferreira &#150; 01328 Ivan Valente &#150; 01330 Jeronimo Alves &#150; 01331 Irma Passoni &#150; 01333 Padre Chico (ou Dr. Moraes) &#150; 01334 Hélio Bicudo &#150; 01335 George Nacaguma (Xin) &#150; 01336 Professor Caetano da Silva &#150; 01338 Wilson Nunes Cerqueira &#150; 01340 José Augusto Silva Ramos &#150; 01344 Celso Daniel &#150; 01345 José Domingos (Domingos da Nitro) &#150; 01350 Luiz Eduardo Greenhalgh &#150; 01351 Professora Bia &#150; 01355 Horácio Figueiredo &#150; 01336 Antenor Chicarino &#150; 01360 Ali Sami El Kadri (Dr. Ali) &#150; 01361 Ítalo Cardoso Araújo &#150; 01365 Francisco Carlos Souza (Chico Gordo) &#150; 01366 César Nascimento (César do PT) &#150; 01368 Jair Meneguelli &#150; 01371 Tenente Manoel Aragão &#150; 01377 Eustáquio Luciano Zica &#150; 01380 Gumercindo Milhomem &#150; 01382 Eraze Martinho &#150; 01388 Tenente Francisco Paz &#150; 01394 Marta Suplicy &#150; 01398 Chico Whitaker Ferreira &#150; 01399    PTB  Leonel Júlio &#150; 01401 Gesse Barbosa de Souza &#150; 01402 José Sabino (Dr. Sabino) &#150; 01403 Ciro Bastos &#150; 01404 Deonizio Vargas &#150; 01405 Álvaro Djalma Viel &#150; 01406 João Messias da Silva &#150; 01407 Sílvio Ferreira Leite &#150; 01408 Benedito (Dito) Roque Moraes &#150; 01409 Paulino José Carrara &#150; 01410 Duílio Pisaneschi &#150; 01411 Orlando Delfino (ou Delfine) &#150; 01412 Osvaldo Sbeghen (ou Esbergue) &#150; 01413 José de Castro Coimbra &#150; 01414 Dorival Masci de Abreu &#150; 01415 Jorge Fernandes da Silva &#150; 01416 Conselheiro Lafaiete Oliveira &#150; 01417 Alberto Melo Santos &#150; 01418 Amadeu Righetti Pelegrini &#150; 01420 José Humberto de Oliveira &#150; 01421 Jayme Sebastião Afonso (Pancho) &#150; 01422 Elpídio Ribeiro Neves &#150; 01424 Aragão Gonçalves de Lima &#150; 01425 Rafael Ivo Caliente &#150; 01427 Geraldo Guimarães Cruvinel &#150; 01428 Gercino Soares de Lima &#150; 01429 José Silvestre Viana Egreja &#150; 01430 Professor Gil Nobre Introini &#150; 01431 Oscar (ou Acácio) Ferreira &#150; 01432 José de Barros Lima (José Lagoa) &#150; 01433 Nelson Marquezelli &#150; 01434 Granwille de Oliveira &#150; 01435 Dr. Jayme Aparecido Tortorello &#150; 01436 Nladen Matijascic (Mário Flash Tur) &#150; 01437 Luiz Adriano dos Santos &#150; 01439 Ary Fossen &#150; 01440 Wolney Rodrigues Rabelo &#150; 01441 Nicanor Aguiar Filho &#150; 01442 Osaías Ferreira (Alemão) &#150; 01443 Roberto Cardoso Alves (Robertão) &#150; 01444 José Batista de Oliveira &#150; 01445 Richard Bernardes Martins Silva &#150; 01446 Marco Antonio P. Alves (Marcão) &#150; 01447 Rubens de Mello Bittencourt (Bi) &#150; 01449 Sander Danek &#150; 01450 Antonio Carlos Tocha Vieira &#150; 01451 Dr. Victório Vieira &#150; 01452 Mário Tenório Cavalcante &#150; 01453 Walter Faria &#150; 01455 Silvana Cabral Silveira &#150; 01456 José Eduardo de Oliveira Galvão &#150; 01457 Severino da Silva &#150; 01458 Pastor (ou padre) Ruy F. Leite &#150; 01461 Delegado Waldemar Franco &#150; 01462 Wanderley Silveira &#150; 01466 Ademar Aparecido Vilela &#150; 01467 Benedito (Ditinho) Alves Camargo &#150; 01469 Daniel Izidio dos Santos &#150; 01470 Miguel Arcanjo Malheiro Filho &#150; 01474 Natalicio Bezerra &#150; 01477 Wilson Sandoli &#150; 01480 Gentil Padilha &#150; 01484 Alcides Ângelo Alexandre Sobrinho &#150; 01488 Dr. Aldo Casarini Junior &#150; 01490 Dr. Francisco de Souza Cardoso &#150; 01492 Aparecido Costa de Morais &#150; 01494 José Rubens Vieira &#150; 0149
 </text_pt>
 </doc>
 <doc>
-<text_pt name="id">FSP941001-095</text_pt>
-<text_pt name="date">941001</text_pt>
-<text_pt name="text">
+<field name="id">FSP941001-095</field>
+<field name="date">941001</field>
+<text_pt>
  PPR  Dr. Herbert Gauss Junior &#150; 11101 Fernando Chiarelli &#150; 11102 Jairo Pintos &#150; 11103 Ohanes Harmandaian (Chessman) &#150; 11104 Antonio Orival Salgado (Valim) &#150; 11105 Roberto de Barros (Pai Guaranta) &#150; 11106 Dr. Helder Ribeiro A. Esteves &#150; 11107 Dr. Heitor Franco de Oliveira &#150; 11108 Lealdino Sampaio Pedreira Filho &#150; 11109 Vanderlei Bailoni &#150; 11110 Salim Curiati &#150; 11111 Ismael dos Santos (Ismaelzinho) &#150; 11112 Patrícia Farias &#150; 11113 Pedro Miller &#150; 11114 Hermínio Silva &#150; 11115 Anany Martins de Souza (Miranda) &#150; 11116 Soraya Kassab &#150; 11117 Tania Sorio &#150; 11118 Maeli V. Maglarelli (Lupércio) &#150; 11119 Wadih Helu &#150; 11120 Major Marcio da Silva &#150; 11121 José Aldo Demarchi &#150; 11122 Hernnani Gentil (Gino) Caputo &#150; 11123 Antonio Carlos Pereira Neto (Doca) &#150; 11125 Aroldo Martinelli &#150; 11126 Carlos Antonio Diniz (Carlão) &#150; 11127 Sargento Andre Luis &#150; 11130 Lauro Moraes &#150; 11131 Hildebrando S. da Silva (Will) &#150; 11132 João Carlos Vieira &#150; 11133 Gil Gitirana &#150; 11134 Professor José Renzo Pasino &#150; 11135 Luis Pereira &#150; 11137 Capitão Conte Lopes &#150; 11138 Graça Ribeiro ou Graça de Paulo &#150; 11140 Abílio Martins &#150; 11141 Nilson Domingues (Nilson do Gás) &#150; 11143 Edson Rabello da Silva &#150; 11144 Manoel (Mané) Massaretti &#150; 11145 Dr. Eurico Mattos &#150; 11146 João Ferraz &#150; 11147 Alan Lopes &#150; 11148 Professor Osvaldo Sanches &#150; 11149 Antonio Carlos Petrin &#150; 11150 Caldini Crespo &#150; 11151 Jose Lucio Alves (Mineiro) &#150; 11152 Maria de Lourdes (Dra. Mara) &#150; 11153 Dantas Filho &#150; 11154 Ferreira Netto &#150; 11155 Paulo  Molina &#150; 11156 Almussa Filho &#150; 11160 Maria Haidee Furlan &#150; 11161 Agnaldo Jorge dos Santos (Gui) &#150; 11166 Wanderley Castro &#150; 11170 João (Poeta) Rodrigues &#150; 11172 Juarez Pereira de Souza &#150; 11174 Sergio Pacheco &#150; 11175 João Manuel Baptista &#150; 11177 Vicente Seixas &#150; 11179 Alphio Merlin &#150; 11180 Dr. Benedito Rafael &#150; 11187 Dr. Décio Mariotoni &#150; 11190 Sergio Costa (Zumbi) &#150; 11191 Juarez Távora &#150; 11194 Ismael da Luz &#150; 11199 Jorge Sader &#150; 11200 Santo Romeu Netto &#150; 11201 Hatiro Shimomoto &#150; 11204 Cícero Feliciano &#150; 11210 Coronel Erasmo Dias &#150; 11211 Marcelo Ortiz &#150; 11213 Mário Vieira de Sá &#150; 11220 Paulo (Paul) Chediak Alves &#150; 11221 Reynaldo de Barros Filho &#150; 11222 Paulo Ramos Mello &#150; 11223 José Cláudio Grando &#150; 11230 Dercila Bastos (Erci ou Ercília) &#150; 11231 Helly Alves &#150; 11233 Felipe Cheidde (Felipão) &#150; 11234 Edson Miranda &#150; 11237 Célio Pereira dos Santos (Celião) &#150; 11240 Márcio Araújo (pastor e coronel) &#150; 11244 Natal Led &#150; 11251 Edna B. S. Fernandes (ou Edna Macedo) &#150; 11252 Alexandre Galdi &#150; 11255 Professor José Américo &#150; 11260 Dr. Medina Dias &#150; 11270 Olívio Nóbrega Filho &#150; 11271 Antonio Zacharias &#150; 11277 Jorge Teixeira da Costa &#150; 11280 Walter de Carvalho &#150; 11298 Manoel Sala &#150; 11299     PDT  Jeorge Urbini &#150; 12106 Salvador Afonso (Nenê) &#150; 12108 Edson Camillo &#150; 12110 Paulo Julião &#150; 12111 Professor Caleb Soares &#150; 12112 Dr. Aloisio Vieira &#150; 12115 Valdeci Teixeira &#150; 12117 Edson (Cantor) da Paz &#150; 12121 Roberto Pupo &#150; 12123 Hilkias de Oliveira &#150; 12127 Antonio Leite (Jaguá) &#150; 12129 Alexandre Castilho &#150; 12132 Wilson Antonio Marques (Chin) &#150; 12133 Floriano Cortes &#150; 12134 Hamilton Andrade &#150; 12135 Aurélio Câmara &#150; 12138 Dr. Aloisio Coelho &#150; 12140 Joel Pereira dos Santos &#150; 12144 Dr. João Borges &#150; 12148 Welington Reis &#150; 12149 José Roberto de Abreu (JR) &#150; 12150 Humberto Ramalho &#150; 12151 Walter Demarchi (Waltinho) &#150; 12152 Osmar Ferreira &#150; 12154 Professor Nelson Nunes &#150; 12155 André Luis (Gaeta ou Massa) de Moraes &#150; 12159 Therezinha Godoy Zerbini &#150; 12160 Gilberto Lara &#150; 12163 Paulo Enos &#150; 12166 Dr. Wilson Ferreira &#150; 12168 Herb Carlini &#150; 12170 Luiz Iwanaga &#150; 12171 Carlos (Carlão) Messas &#150; 12172 Zaia Tarraf &#150; 12177 Antonio Mansur &#150; 12179 Moyses Gomes Aroxa &#150; 12181 Leovegildo R. S. Jr. (Dr. Leo) &#150; 12187 Waldemir Luiz Gonzaga &#150; 12188 Antonio Jacomini (Jacó) &#150; 12189 Wilson (Sampson) Miguel da Silva &#150; 12192 Sérgio Mele (Queijinho) &#150; 12194 Francisco Soares (Chiquinho Automóveis) &#150; 12195 Euclécio Turci &#150; 12197 Maria Alice Marcondes &#150; 12198 Carlos Roberto Salge &#150; 12199 Laurindo Junqueira &#150; 12200 Rafael Silva &#150; 12201 Elias da Silva &#150; 12202 Oscar Azevedo &#150; 12205 Silvio Félix &#150; 12206 João Batista Rocha &#150; 12209 Willians Rafael &#150; 12211 José Santos Sasso (Saco) &#150; 12212 José Roberto Reder (Pato) &#150; 12215 Álvaro (Mineiro) Cezar Carvalho &#150; 12220 Hércules Vallim &#150; 12222 Dr. Eugênio Ferrari &#150; 12226 Menna Barreto &#150; 12227 Horácio Blazeck &#150; 12229 Azil Francisco Brochini &#150; 12231 Joseph Zuza &#150; 12233 Lopes Cruz &#150; 12236 João Dirani &#150; 12240 Cesar Augusto Gorrao &#150; 12248 Dagnone de Melo &#150; 1225
 </text_pt>
 </doc>
