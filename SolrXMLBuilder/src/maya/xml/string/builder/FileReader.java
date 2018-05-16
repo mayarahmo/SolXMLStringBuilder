@@ -114,10 +114,7 @@ public class FileReader {
     	Element docElem = doc.createElement("doc");
         docElem.appendChild(getFieldElement(doc, "id", id));
         docElem.appendChild(getFieldElement(doc, "date", date));
-        Element textElem = doc.createElement("text_pt");
-        textElem.setTextContent(text);
-        docElem.appendChild(textElem);
-        //docElem.appendChild(getFieldElement(doc, "text", text));
+        docElem.appendChild(getFieldElement(doc, "text_pt", text));
         return docElem;
     }
  

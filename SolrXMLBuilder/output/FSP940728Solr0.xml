@@ -3,7 +3,7 @@
 <doc>
 <field name="id">FSP940728-001</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Revela uma sensível mudança no quadro eleitoral o empate estatístico entre Luiz Inácio Lula da Silva e Fernando Henrique Cardoso, apurado na pesquisa do Datafolha que este jornal publica hoje.
 Do início de junho (dias 9 a 13), quando Lula levava uma vantagem de 22 pontos percentuais, para o final de julho, a diferença virtualmente desapareceu. É uma movimentação pouco comum em um período de tempo tão reduzido.
 Mais ainda: na simulação de um segundo turno entre os dois, FHC vence por uma diferença de sete pontos (47% x 40%), fora portanto da margem de erro.
@@ -13,35 +13,35 @@ O lógico é supor que o real continuará pesando no cenário eleitoral, o que ajuda
 O segundo fator a influir certamente nos resultados das pesquisas foi a longa novela Bisol, que paralisou o PT. Agora que a questão parece resolvida, é de se imaginar que o partido retomará a campanha, ao mesmo tempo em que o vice de FHC, o senador Guilherme Palmeira, começa a ficar na berlinda.
 Em tese, portanto, há elementos positivos e negativos para cada um dos dois principais candidatos.
 Claro que o impulso maior fica com quem está subindo (FHC), mas é sempre importante enfatizar que pesquisas são apenas um instantâneo de momento e não necessariamente o retrato do resultado final.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-002</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Já era previsível, mas ainda assim incomoda a inflação medida pela Fipe, que atingiu 6,38% na terceira quadrissemana de julho. Trata-se, em boa parte, do que os economistas denominam "resíduo inflacionário". Estatisticamente compreensível, mas politicamente delicado.
 O índice da Fipe é calculado a partir de variações médias. Ou seja, para cada cálculo quadrissemanal comparam-se os preços médios vigentes numa sequência de quatro semanas com os preços médios das quatro semanas anteriores. A inflação da terceira quadrissemana de julho assim é na verdade uma média que leva em consideração preços do final de junho.
 Para entender a armadilha estatística basta lembrar do que aconteceu no final de junho. A maioria dos preços estava já convertida à URV e, portanto, estava estabilizada. Mas nos últimos dias de junho houve uma corrida e mesmo depois, no início de julho, muitos aproveitaram a conversão ao real para elevar ainda mais os preços ou arrendodá-los para cima.
 O resultado agora é que, comparando-se os preços de julho com os praticados em junho antes dos reajustes e arredondamentos, a inflação é ainda significativa.
 A inflação de julho é portanto uma inflação contaminada. Pesaram bastante alguns reajustes contra os quais o governo bateu-se inutilmente, como transportes, em que tarifas metropolitanas foram reajustadas em 1º de julho. Ou ainda serviços pessoais e alimentação fora do domicílio, produtos e serviços que dificilmente submetem-se à âncora do câmbio (pois nunca enfrentam concorrência de importações).
 Estatisticamente, a reversão do índice rumo a valores próximos de zero parece inexorável e deve ocorrer rapidamente a partir de agora. Politicamente, entretanto, seria ingenuidade subestimar o efeito que essa inflação residual terá sobre os agentes econômicos e os sindicatos. O perigo é crescerem as demandas por reindexação, assim como o próprio sentimento de que o Plano Real enfrenta dificuldades maiores que as esperadas.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-003</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A economia brasileira acaba de registrar novos recordes de desempenho no comércio exterior. Nos últimos 12 meses, as exportações passaram pela primeira vez o valor acumulado de US$ 40 bilhões. As importações e a corrente de comércio (exportações mais importações) também atingiram valores inéditos.
 Esses resultados são mais uma indicação da tendência de amadurecimento da estrutura econômica brasileira. Muitos chegaram a prever que a abertura da economia traria uma desestruturação produtiva e que, com o tempo, a própria competitividade seria abalada. O aumento da corrente de comércio prova que é possível melhorar simultaneamente o desempenho dos setores exportador e importador.
 Ao mesmo tempo, não há como ignorar que os resultados dos últimos meses são ao menos em parte uma expressão de fatores transitórios. De um lado, certos produtos tiveram pela frente mercados extraordinariamente favoráveis. É o caso do café, cujos preços dispararam, mas que nos últimos dias já dão sinais de recuo para níveis mais baixos. Houve também a recuperação da economia dos EUA, grande consumidora de produtos brasileiros como o suco de laranja.
 O primeiro semestre foi, também, palco de juros extraordinariamente elevados no Brasil. Isso significou, para os exportadores, um estímulo adicional. Houve um verdadeiro "boom" de contratos de antecipação de exportações, por exemplo. Ou seja, o exportador muito antes de embarcar seus produtos fechou o contrato para receber o quanto antes seus dólares, convertê-los e aplicar os cruzeiros reais correspondentes a juros reais elevados.
 A partir do real, algumas dessas condições tendem a se inverter. Os juros devem cair e a taxa de câmbio, ao valorizar o real, barateia as importações e encarece as exportações. Resta esperar que a inflação dos próximos meses seja suficientemente baixa para ser compensada, entre os exportadores, por ganhos de produtividade e competitividade. É a forma mais segura de manter em alta a corrente que integra o Brasil aos mercados internacionais.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-004</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Clóvis Rossi
 SÃO PAULO &#150; A sabedoria política convencional diz que uma campanha eleitoral tem dois momentos realmente decisivos, ao menos em circunstâncias normais e previsíveis. Um é o horário gratuito de propaganda eleitoral, que permite a massificação de fato da campanha.
 O outro é a presença do candidato na rua, o contato direto com o eleitorado, desde que, é lógico, acompanhado depois de uma ação proselitista que consolide os eventuais apoios conquistados.
@@ -50,12 +50,12 @@ E, ainda assim, mudou enormemente o cenário sucessório. Dos 22 pontos percentuai
 É evidente que o país não vive circunstâncias eleitorais perfeitamente normais. Não é todo o dia que se muda de moeda em época de eleição. Sabe-se, pelas experiências da Bolívia, da Argentina e do próprio Brasil (Plano Cruzado), que a estabilização da economia produz dividendos eleitorais formidáveis para quem é considerado responsável por ela.
 O que fascina, no caso presente, é que o Brasil não alcançou a estabilidade. Deu apenas um passo (o da quebra da memória inflacionária) e tudo o mais terá que ser feito pelo próximo presidente, dado que o plano em andamento é meramente uma ponte até o fim do atual governo. Mesmo assim, tudo indica que se está votando (ao menos nas pesquisas) na estabilização que ainda não houve.
 Se não for essa a explicação para a reviravolta, só há outra possível: a cabeça dos brasileiros, ao menos da massa, é insondável para os analistas e para os próprios partidos, políticos e candidatos.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-005</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Gilberto Dimenstein
 BRASÍLIA &#150; A indicação do deputado Aloizio Mercadante para vice de Luiz Inácio Lula da Silva evita o aprofundamento do desgaste provocado por José Paulo Bisol. Mas é no mínimo duvidoso que a solução atraia votos. Motivo: a chapa tornou-se mais restrita, centrada apenas no PT paulista.
 Os eleitores de Mercadante já são, em sua maioria, eleitores de Lula. No mais, calculava-se que, com sua previsivelmente expressiva votação, ele ajudaria a puxar mais deputados para a bancada do PT na Câmara &#150;obter apoio no Legislativo é uma das questões vitais de um eventual governo Lula.
@@ -64,12 +64,12 @@ Mais importante é a imagem de moderação cultivada pelo deputado, capaz de reduzi
 Na sua passagem pela Câmara, Mercadante abriu canais de diálogo com economistas de outras de tendências como Delfim Netto, Roberto Campos ou Francisco Dornelles. E também com lideranças mais à "direita", como Luís Eduardo Magalhães, do PFL.
 Em essência, não foi uma solução, mas um remendo. O PSDB torcia ardorosamente para que Bisol ficasse, utilizando-o como alvo prefencial no horário eleitoral gratuito. O fato é que o PT, despencando nas pesquisas, ainda não deu indícios de estar saindo de seu inferno astral.
 PS &#150; A direção do PPR estudava ontem a possibilidade de tentar na Justiça a impugnação do nome de Mercadante como vice. Baseado no jurista Célio Silva, especialista em legislação eleitoral, o partido imagina que a escolha só pode ser feita através de uma convenção e não por indicação das executivas dos partidos que formam a Frente Brasil Popular. A lei não prevê substituição para renúncia de candidato.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-006</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Sérgio Augusto
 RIO DE JANEIRO &#150; Em 1943, ele trocou os pampas pelo Rio. E foi ficando. Aqui se fez, daqui expandiu-se para o mundo e à sombra do Cristo Redentor pretendia viver até a última pincelada.
 Éramos quase vizinhos quando, na década passada, um trágico acidente, que os paulistas julgam tipicamente carioca, o levou a cometer dois desatinos: matar um assaltante (em legítima defesa) e abandonar o Rio (pelo mesmo motivo). Hoje ele está de volta à cidade que tanto adorava. Não ele, exatamente, mas seu espírito. Ou, melhor dizendo, sua obra.
@@ -80,12 +80,12 @@ Representada por 60 quadros, nunca antes a expuseram tão plena e rigorosa. Lá es
 Teimoso, contracorrente, exaltado, Iberê divide com Picasso o mesmo signo (Escorpião) e o mesmo ímpeto de conciliar em seus quadros emoção, reflexão e aquilo que os críticos de esquerda de antanho chamavam de compromisso social. "Sou acima de tudo um pintor emotivo", fez questão de dizer ao explicar, dia desses, por que desistira de vir ao Rio.
 Não, Iberê não está com medo dos assaltos. Seu vilão agora é outro: um câncer que há oito meses o afastou, temporariamente, dos pincéis. E foi para combatê-lo com maior eficácia que preferiu ficar em tratamento na sua segunda cidade adotiva, Porto Alegre.
 De qualquer modo, bem-vindo ao Rio, mestre.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-007</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Otavio Frias Filho
 Há uma polêmica nos meios intelectuais na qual os partidários de FHC sustentam que a sua candidatura ainda é, apesar de tudo, social-democrata. O próprio candidato interveio, num artigo recente, encerrando a questão com sua autoridade indiscutível de sociólogo.
 Vamos deixar de lado o fato de que esses nomes e rótulos significam muito pouco na prática. Vamos esquecer que o apelido social-democrata, de tão confortável e vaporoso, tornou-se o preferido de nove entre dez políticos.
@@ -100,12 +100,12 @@ Mas FHC é pessoalmente social-democrata e tem a "hegemonia", como gostam de dize
 Mas que além disso reclamem acesso restrito ao rótulo de social-democrata parece demais, até porque social-democratas já existem &#150;e são (ou serão) os outros...
 
 Otavio Frias Filho escreve às quintas-feiras nesta coluna.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-008</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 As dificuldades da escola pública não podem ser enfrentadas exclusivamente no âmbito do Estado
 CARLOS ESTEVAM MARTINS
 Partidos e candidatos preparam-se para apresentar seus programas na área educacional. Nesta hora, o eleitor precisa precaver-se contra o facilitário populista, que promete resolver as questões da educação como se o Estado fosse tudo e a sociedade nada. O que precisamos, isto sim, é diminuir os altos índices de indiferença social que caracterizam nossa cultura cívica e que o populismo só faz reforçar.
@@ -132,12 +132,12 @@ Na verdade, a estabilidade protege não só a pessoa do servidor como a própria ca
 Os caminhos que estamos sugerindo &#150;dez ao todo&#150; constituem roteiros variados e desafiadores. Mas só avançaremos por qualquer um deles se a sociedade abandonar a omissão, tomar a si os problemas, refletir sobre as escolhas possíveis e, assim, ajudar o governo a fazer a parte que lhe cabe.
 
 CARLOS ESTEVAM MARTINS, 59, sociólogo, é secretário da Educação do Estado de São Paulo e professor do Departamento de Ciência Política da USP (Universidade de São Paulo).
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-009</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A solução para a crise das mensalidades escolares já existe e atende pelo nome de contrato de adesão
 PAULO PAN CHACON
 É no mínimo enjoativo o noticiário sobre mensalidades escolares. São sempre as mesmas questões: o público e a imprensa vêm em José Aurélio de Camargo, presidente do sindicato das escolas, o protótipo do "tubarão do ensino"; os editoriais atacam a mediocridade presidencial, graças Deus, em final de carreira; os donos de escolas recusam o diálogo com lideranças sociais de consumidores (Mauro Bueno) e estudantis (Fernando Gusmão) porque não lhes reconhecem representatividade.
@@ -158,12 +158,12 @@ Da mesma forma, ignora a importância do setor educacional privado recusando-se a
 Se é esse o caminho, pergunta-se: e 95? Começa tudo de novo? Contrato em São Paulo e "laissez-faire" no resto do Brasil? Qual nova MP regerá o mercado de escolas privadas?
 
 PAULO PAN CHACON, 40, professor de Política e diretor do Colégio Oswald de Andrade, é diretor do Grupo Associação de Escolas Particulares.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-010</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 
 "Parabéns ao jornalista Clóvis Rossi por seu artigo sobre o ufanismo causado pela vitória do Brasil na Copa. Festa justificada a parte, o brasileiro irá recuperar sua auto-estima e o orgulho por seu país no dia que deixarmos de ter a segunda pior distribuição de renda e a terceira maior evasão escolar do planeta, e quando 350 mil crianças abaixo de cinco anos deixarem de morrer por ano por indiferença absoluta dos nossos governantes, e quatro crianças brasileiras deixarem de ser impunemente assassinadas por dia."
 Oded Grajew, presidente da Fundação Abrinq pelos Direitos da Criança (São Paulo, SP)
@@ -222,12 +222,12 @@ Adriano Diogo, vereador pelo PT (São Paulo, SP)
 Orientação vocacional
 "Como profissional de orientação vocacional, venho registrar meu desacordo em relação a matéria publicada no dia 23/07 ('Colégio oferece orientação vocacional gratuita a alunos'). Isto porque a descrição da atividade do que se pretende fazer poderia, quando muito, ser chamada de informação profissional: 'visitas programadas onde os alunos participam de palestras com profissionais'. Orientação vocacional ou profissional é um processo muito mais profundo desenvolvido por especialistas das áreas de, principalmente, psicologia e pedagogia."
 Silvio Duarte Bock (São Paulo, SP)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-011</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Há poucos dias, o ex-ministro da Fazenda Mailson da Nóbrega estava conversando com um investidor estrangeiro que havia assistido às palestras do candidato do PT, Luiz Inácio Lula da Silva, nos EUA. Hoje um consultor de empresas, Mailson interessou-se em saber qual a reação dos banqueiros à performance do presidenciável petista.
 &#150; Do Lula eu gostei, mas o irmão dele é muito radical &#150;disse o investidor ao ex-ministro.
 Mailson ficou intrigado, pois nenhum irmão de Lula foi em sua comitiva aos EUA. Diante disto, pediu ao investidor uma descrição do suposto irmão. O relato não deixou margem a dúvidas: a pessoa em questão era o deputado e novo vice de Lula, Aloizio Mercadante.
@@ -235,12 +235,12 @@ Mailson investigou um pouco mais para descobrir de onde o investidor tirara a id
 &#150; E agora, o meu companheiro...
 O tradutor não teve dúvidas:
 &#150; And now, my brother...
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-012</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Lula
 Reuniu-se com empresários do setor de transporte rodoviário de carga, em São Paulo, pela manhã. Comparou o Plano Real à situação na Argentina, afirmando que ele provocará recessão e aumento do desemprego. À noite, foi a São Bernardo (SP) receber carro de som dos metalúrgicos do ABC.
 pág. 1-10
@@ -255,12 +255,12 @@ pág. 1-10
 
 Quércia
 Permaneceu em São Paulo. Reuniu-se com assessores para avaliar o lançamento de seu programa de governo, anteontem, e discutir o debate de hoje da CNBB. Às 20h, recebeu o candidato do PMDB ao governo de Tocantins, João Cruz.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-013</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Tucano tem 29% das intenções de voto contra 32% do petista; candidato do PSDB venceria hoje o 2º turno
 CLÓVIS ROSSI 
 Da Reportagem Local
@@ -279,12 +279,12 @@ Na pesquisa espontânea (sem a exibição do cartão com o nome dos candidatos), rep
 Na divisão pelas quatro regiões do país, Lula leva vantagem em duas (Sul e Nordeste), ambas fora da margem de erro, e fica atrás, mas na margem de erro, no Sudeste e no Norte/Centro-Oeste.
 Das 11 unidades federativas em que a pesquisa é feita, apenas quatro oferecem resultados fora da margem de erro, em todas a favor de Lula (RS, BA, PE e DF)
 FHC leva vantagem em São Paulo, mas por apenas um ponto (18% x 17%). Nos outros seis estados, Lula ainda está na frente, mas sempre por diferença inferior à margem de erro.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-014</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 1) O que é amostra?
 A melhor maneira de se compreender o que é uma amostra é tomar um exemplo corriqueiro usado pelos estatísticos.
 Ao preparar uma sopa para os fregueses de seu restaurante, o cozinheiro não precisa tomar todo o caldeirão para saber se o tempero usado está no ponto. Basta experimentar uma colherada.
@@ -309,12 +309,12 @@ No caso do Datafolha, o intervalo de confiança das pesquisas é também de 95%. Is
 
 5) O que é resposta espontânea?
 É quando o entrevistado responde, sem qualquer estímulo, à pergunta feita pelo pesquisador.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-015</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Redação
 A Folha realiza hoje, às 19h30, a terceira palestra da série "Meninos de Rua". O tema será "Responsabilidade social: compromisso e prática".
 Participam como expositores Antonio Carlos Martinelli, diretor do Instituto C&amp;A de Desenvolvimento Social, e Brígida Sacramento dos Santos, secretária da Promoção Social de Embu (SP) e coordenadora da Apic (Associação de Proteção e Incentivo à Criança).
@@ -324,12 +324,12 @@ Segundo Martinelli, o instituto é uma espécie de central de recursos materiais e
 A Apic é uma das instituições que conta com o apoio da C&amp;A. Formada por 40 entidades &#150;entre creches, casas da juventude e abrigos&#150;, funciona desde 1991.
 A Apic desenvolve em parceria com o instituto dois projetos: Creche Plan e Meninfor. O primeiro é um programa para treinar pessoal na área social. O segundo, um curso de computação dirigido a adolescentes.
 A série "Meninos de Rua", organizada pela Folha, é composta de palestras sobre iniciativas bem-sucedidas de apoio a crianças e adolescentes carentes.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-016</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 NELSON DE SÁ
 Da Reportagem Local
 Agora não adianta Lula sair dizendo, na Bandeirantes, que José Paulo Bisol é "uma figura humana fantástica". Agora não adianta Rui Falcão e Roberto Freire afirmarem, na Globo, que foi somente para tirar a campanha da paralisia.
@@ -346,12 +346,12 @@ Não bastava a brincadeira, para Marília Gabriela:
 &#150; Minha opinião pessoal é que o Brasil é um país muito complicado. Vocês têm tantos extremos. Tanta riqueza e tanta pobreza. Vocês têm uma política tão complicada. Tiveram um governo militar por tanto tempo e agora lutam para estabelecer uma democracia estável. Eu acho que, conforme vocês se tornem mais confiantes na comunidade internacional, nossa relação será mais próxima.
 Ainda não era o bastante e Marília Gabriela insistiu mais à frente, tirando a resposta:
 &#150; Eu que acho que o nosso interesse em vocês continua sendo se irão ou não, uma vez que são um país importante e grande, se irão conseguir ou não a estabilidade política que procuram. Num canto da nossa mente, estamos sempre querendo saber se o Brasil voltará um dia à ditadura militar.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-017</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Sucursal do Rio
 Primeiro candidato a participar do simpósio "Presidenciável do Esporte", no Rio, Esperidião Amin (PPR) prometeu que vai vincular a Secretaria de Esportes à Presidência &#150;como no governo Collor&#150; e que vai incentivar o patrocínio de atividades esportivas por empresas estatais.
 Amin disse que a mudança da secretaria, hoje ligada ao Ministério da Educação, não acarretaria qualquer custo suplementar.
@@ -359,12 +359,12 @@ Ele arrancou aplausos aos dizer que é difícil que um ministro da Educação consig
 Quanto ao patrocínio esportivo, Amin disse que cabe ao governo estimular as empresas estatais a utilizar parte de sua verba publicitária para patrocinar equipes e seleções.
 Ele parabenizou a CEF (Caixa Econômica Federal) que patrocinou a seleção de basquete feminino. Amin acredita que, com o exemplo das empresas públicas, a iniciativa privada também possa investir mais em patrocínio.
 O candidato disse que a função do Estado é dar as direções gerais, mas a administração, tanto do esporte quanto de outras áreas, têm que ficar fora do governo.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-018</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Opção de candidato por Mercadante retira poder da esquerda e extrema&#150;esquerda, majoritárias na direção
 Lula fala durante congresso de empresários do setor de transportes, ocorrido ontem
 CARLOS EDUARDO ALVES
@@ -387,12 +387,12 @@ A opção por Mercadante significa no PT a vitória das teses mais próximas à socia
 Perdem, junto com os liderados por Falcão no grupo "'Opção de Esquerda", o minoritário "Na Luta PT", ala radical que tem Greenhalgh como expressão pública mais conhecida.
 A idéia de Lula, agora, é tocar a sua campanha de rua e deixar para Mercadante um papel maior na coordenação política do PT.
 Apesar do baque, os grupos mais radicais devem aceitar a solução, já que entenderam o recado de que o partido voltou a ter dono.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-019</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 No PT, Mercadante é tido como articulado, vaidoso e ambicioso
 Da Reportagem Local
 A queda definitiva do senador José Paulo Bisol (PSB-RS) começou a ser articulada na última quarta-feira, 20, na cidade paulista de Bauru. Lá, Lula recebeu de sua coordenação de campanha avaliação que dava como insustentável a posição de Bisol.
@@ -409,12 +409,12 @@ Além de querer marcar a chapa com uma pessoa de inteira identidade política, Lul
 Mercadante é considerado no partido como articulado, vaidoso e ambicioso em graus suficientes para justificar o apelido interno de "Serra do PT", numa referência a características atribuídas no meio político ao deputado tucano José Serra (SP).
 Por causa disso, foi diversas vezes aconselhado por Lula a agir com mais cautela. Mas Mercadante é, entre os deputados petistas, o que mais pode exibir sem contestação a qualificação de "homem de Lula".
 (Carlos Eduardo Alves)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-020</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Agência Folha, em Porto Alegre
 O senador José Paulo Bisol (PSB-RS) disse ontem que foi "correta", do ponto de vista político, a decisão da Frente Brasil Popular de substituí-lo na chapa de Lula.
 Em sua primeira aparição pública desde domingo passado, Bisol deu entrevista coletiva em frente à casa de sua família em Porto Alegre. Ele elogiou o novo candidato a vice, Aloizio Mercadante.
@@ -432,12 +432,12 @@ Pergunta - Esse episódio pode prejudicar a candidatura Lula?
 Resposta - Algum prejuízo deve ter ocorrido, mas não irrecuperável. Tenho no meu coração uma convicção muito profunda de que, para a felicidade de todos nós, o Lula vai ser presidente.
 Pergunta - Se o PSB pedir, o sr. aceita concorrer à reeleição?
 Resposta - Não estou pensando nisso e é uma idéia que não me agrada em princípio.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-021</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 O senador José Paulo Bisol (PSB-RS) viveu momentos de depressão por ter sido o principal personagem da crise que envolveu a candidatura Lula.
 Foi esse estado de espírito que atrasou a apresentação oficial do deputado Aloizio Mercadante como o novo candidato a vice.
@@ -447,22 +447,22 @@ O PT foi obrigado a alugar um táxi aéreo, que saiu de São Paulo no final da tard
 O seu filho e assessor no Senado, Jairo Bisol, e o vice-presidente do PSB Beto Albuquerque tentaram preservar o senador, evitando que ele tomasse conhecimento de detalhes da utilização de seu nome na campanha.
 Segundo assessores do senador, isso fez com que ele tivesse uma avaliação deturpada da sua situação na chapa de Lula. Ele continuava acreditando que sua candidatura poderia ser mantida, mesmo depois de a coordenação da campanha ter decidido pela sua saída.
 (Américo Martins)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-022</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O candidato do PMDB, Orestes Quércia, está espalhando pelo país milhares de fitas de vídeo, onde mostra as obras que fez em São Paulo e pede votos. Cerca de 150 mil fitas foram entregues a líderes do PMDB em todos os estados. A fita conta ainda a história de Quércia.
 
 MP recebe pedido para cancelar licitações
 O Ministério Público recebeu representação que pede cancelamento de quatro licitações, no valor de R$ 86,5 milhões, da Cesp (Companhia Energética de São Paulo). Elas contrariam a lei 8.666, que regulamenta as licitações. O caso foi revelado pela Folha na semana passada.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-023</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Tucano tem 29% das intenções de voto contra 32% do petista; candidato do PSDB venceria hoje o 2º turno
 CLÓVIS ROSSI
 Da Reportagem Local
@@ -485,12 +485,12 @@ Na divisão pelas quatro regiões do país, Lula leva vantagem em duas (Sul e Norde
 
 Nesta pesquisa do Datafolha, realizada nos dias 25 e26 de julho, foram entrevistados 14.482 eleitores em 378 municípios de todas as unidades da federação, incluindo todas as capitais. A margem de erro desse processo de amostragem é de 2 pontos percentuais para mais ou para menos.
 A direção do Datafolha é exercida pelos sociólogos Antônio Manuel Teixeira Mendes e Gustavo Venturi, tendo como assistentes Mauro Francisco Paulino, Emilia de Franco e a estatística Renata Nunes Cesar. A direção comercial é de Eneida Nogueira e Silva. O levantamento de dados primários da pesquisa é coordenado por Ailton Gobira, Branca Lima, Magda Ribeiro e Mauro Carreão. A sistematização de dados secundários é feita por Wilson Chammas, Sávio Nascimento e Márcia Cintra. A coordenação da amostra é de Sandra Dorgan e Paulo Levi.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-024</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 NELSON DE SÁ
 Da Reportagem Local
 Agora não adianta Lula sair dizendo, na Bandeirantes, que José Paulo Bisol é "uma figura humana fantástica". Agora não adianta Rui Falcão e Roberto Freire afirmarem, na Globo, que foi somente para tirar a campanha da paralisia.
@@ -507,12 +507,12 @@ Não bastava a brincadeira, para Marília Gabriela:
 &#150; Minha opinião pessoal é que o Brasil é um país muito complicado. Vocês têm tantos extremos. Tanta riqueza e tanta pobreza. Vocês têm uma política tão complicada. Tiveram um governo militar por tanto tempo e agora lutam para estabelecer uma democracia estável. Eu acho que, conforme vocês se tornem mais confiantes na comunidade internacional, nossa relação será mais próxima.
 Ainda não era o bastante e Marília Gabriela insistiu, até arrancar esta resposta:
 &#150; Nosso interesse em vocês continua sendo se irão ou não, uma vez que são um país grande e importante, se irão ou não obter a estabilidade política que procuram. No canto da mente, nós estamos sempre querendo saber se o Brasil vai voltar um dia à ditadura militar.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-025</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Agência Folha, em Porto Alegre
 O senador José Paulo Bisol disse ontem que foi "correta", do ponto de vista político, a decisão da Frente Brasil Popular de substituí-lo na chapa de Lula.
 Em sua primeira aparição pública desde domingo passado, Bisol deu entrevista coletiva em frente à casa de sua família em Porto Alegre. Ele elogiou o novo candidato a vice, Aloizio Mercadante.
@@ -532,12 +532,12 @@ Pergunta - Esse episódio pode prejudicar a candidatura Lula?
 Resposta - Algum prejuízo deve ter ocorrido, mas não irrecuperável. Tenho no meu coração uma convicção muito profunda de que, para a felicidade de todos nós, o Lula vai ser presidente.
 Pergunta - Se o PSB pedir, o sr. aceita concorrer à reeleição?
 Resposta - Não estou pensando nisso e é uma idéia que não me agrada em princípio.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-026</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 CARLOS EDUARDO ALVES
 Da Reportagem Local
 O candidato do PT à Presidência, Luiz Inácio Lula da Silva, decidiu assumir a direção de sua campanha e, com a imposição do deputado Aloizio Mercadante (SP) como vice, retomou o controle do PT, que havia perdido para a extrema-esquerda do paqrtido.
@@ -558,12 +558,12 @@ A opção por Mercadante significa no PT a vitória das teses mais próximas à socia
 Perdem, junto com os liderados por Falcão no grupo "'Opção de Esquerda", o minoritário "Na Luta PT", ala radical que tem Greenhalgh como expressão pública mais conhecida.
 A idéia de Lula, agora, é tocar a sua campanha de rua e deixar para Mercadante um papel maior na coordenação política do PT.
 Apesar do baque, os grupos mais radicais devem aceitar a solução, já que entenderam o recado de que o partido voltou a ter dono.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-027</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 VINICIUS TORRES FREIRE
 O economista Aloizio Mercadante, 40, é o principal assessor econômico de Lula. Foi escalado pelo candidato petista à Presidência para barrar propostas do setor ortodoxo do partido, como a moratória da dívida externa.
 "Aloizio é a figura pública mais importante na elaboração do programa", disse Lula em fevereiro deste ano. Pelo menos até as eleições de 1989, Mercadante defendia a moratória.
@@ -578,12 +578,12 @@ O vice de Lula foi presidente do Centro Acadêmico da Faculdade de Economia. Mili
 Mercadante é filho do general-de-exército aposentado Oswaldo Muniz Oliva. É casado com Regina de Barros e tem dois filhos. Sua segunda mulher morreu de câncer em 1981. Em 1982, sofreu um acidente de carro, no qual morreu o ex-presidente da UNE, Luis Travassos. Mercadante dirigia o carro.
 
 Colaborou a Sucursal de Brasília
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-028</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 
 Lula: retomou o controle do PT ao impor o deputado Aloizio Mercadante como vice e sinalizou um eventual governo mais aberto a composições com outras forças sociais.
 
@@ -601,12 +601,12 @@ Luiz Eduardo Greenhalgh: o líder da extrema esquerda petista perde espaço com a 
 Burocracia petista: sai arranhada do episódio, e a aposta da força do aparelho na direção da campanha é esvaziada com uma simples indicação de Lula.
 
 Extrema-esquerda e esquerda: os grupos esquerdistas ortodoxos, que tomaram a máquina do partido, perdem espaço para a facção considerada mais moderada (afinada com a social-democracia). Os radicais não conseguiram contornar a crise e precisaram do "braço forte" de Lula, considerado, como Mercadante, um moderado.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-029</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Diretor da entidade atribui férias coletivas na indústria ao juro elevado e diz que prática tem vida curta
 ANTONIO CARLOS SEIDL
 Da Reportagem Local
@@ -631,24 +631,24 @@ As vendas do comércio lojista caíram cerca de 50% nos dez primeiros dias do Plan
 Ele diz que as vendas vão crescer em agosto por causa do Dia dos Pais e das promoções do vestuário com a chegada da coleção primavera-verão.
 
 Colaborou MARCOS CÉZARI, da Reportagem Local
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-030</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Sucursal de Brasília
 O relator da MP (medida provisória) do real, senador José Fogaça (PMDB-RS), alertou ontem para o risco de "um caos monetário" caso a medida não seja aprovada antes das eleições de outubro.
 "Imaginem a moeda do país depender de uma lei que precisa ser reeditada a cada mês, em pleno fim de governo. Seria arriscado demais para a credibilidade do plano", disse o senador, referindo-se à incerteza quanto à manutenção da MP pelo futuro governo.
 "É preciso uma lei estável que garanta a moeda", disse. Aprovada a lei, se não quiser mudar o plano de estabilização, o novo governo terá que editar outra MP.
 Na avaliação do senador, tanto o Congresso quanto o governo não estão fazendo o esforço que deveriam para votar logo a MP do real.
 Ele acha que cabe muito mais ao governo a iniciativa de mobilizar os parlamentares para o esforço concentrado marcado para agosto.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-031</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Sucursal de Brasília
 O presidente Itamar está insatisfeito com a atuação dos ministérios da Fazenda e do Planejamento no combate ao aumento abusivos de preços. Às vésperas do Plano Real completar um mês, Itamar continua reclamando das remarcações feitas na troca da moeda.
 O presidente também está preocupado com propostas de mudanças na legislação tributária que possam beneficiar os bancos, como a redução da cobrança do PIS.
@@ -657,23 +657,23 @@ Justiça e Fazenda acertaram ontem a assinatura de convênio que facilita a tramit
 
 LEIA MAIS
 sobre redução do PIS na pág. 2-5
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-032</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Sucursal de Brasília
 O Tribunal de Justiça do Distrito Federal concedeu ontem habeas corpus para os três acionistas e o gerente da empresa atacadista Makro. A decisão foi tomada por unanimidade.
 No despacho, os desembargadores alegam que os quatro acusados são reús primários, com residência fixa e profissão definida. Também afirmam que não há como alegar que os acionistas e o gerente poderiam dificultar o trabalho da Justiça, uma das prerrogativas para a decretação da prisão preventiva.
 No último dia 17, o desembargador Hermenegildo Gonçalves concedeu liminar revogando a prisão preventiva. Com o julgamento do habeas corpus, a decisão torna-se definitiva.
 A prisão foi decretada no último dia 15 pelo juiz-substituto da 1ª Vara Criminal de Brasília, Héctor Valverde Santana, com base na Lei Antitruste.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-033</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Cálculo da TR muda e poupança volta a ter rendimento conhecido antecipadamente em agosto
 GUSTAVO PATÚ
 Da Sucursal de Brasília
@@ -693,12 +693,12 @@ Quem abrir poupança até amanhã ainda terá a aplicação corrigida pelo critério an
 Para estes casos, o BC vai manter a TR pós-fixada, com índices diários, ao longo do mês de agosto. Nos dias de aniversário das aplicações, elas passarão para a TR prefixada.
 A TR prefixada será calculada com base nos CDBs do dia, tomando por base os 30 maiores bancos e retirando do cálculo os dois bancos que pagam mais juros e os dois que pagam menos.
 Assim a TR do dia 1º de agosto, que corrigirá as poupanças abertas nesse dia, será calculada com base nos juros médios do dia e seu valor será divulgado no dia seguinte.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-034</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A Autolatina está concluindo em segredo os estudos para a construção de uma nova fábrica de veículos no Brasil.
 A capacidade de suas unidades não atende à produção prevista para os próximos anos.
 
@@ -732,12 +732,12 @@ Emílio Garófalo, ex-Banco do Brasil e ex-Banco Central, vem atuando como consult
 
 Calça curta
 O presidente da Abit (indústria têxtil), Luiz Américo Medeiros, diz que a participação do tecido no preço da roupa pronta é de 6,21%, em média, segundo pesquisa da entidade.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-035</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 As encomendas do comércio à indústria de brinquedos voltaram a esquentar desde a última segunda-feira.
 "É o reflexo da queda dos juros no começo da semana", diz Emerson Kapaz.
 
@@ -764,12 +764,12 @@ O presidente da OAB-SP, João Roberto Piza, conversa segunda-feira com os preside
 
 Plano na mesa
 O presidente do Banco Central, Pedro Malan, almoça amanhã no Instituto Brasileiro de Executivos Financeiros (Ibef), na sede da entidade no Rio.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-036</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 PEDRO DE CAMARGO NETO
 Essencialmente vinculada à questão da renda da população, o conceito de segurança alimentar engloba uma política agrícola que assegure o acesso a alimentos, sustentável no tempo, com custos e riscos reduzidos. Estaríamos progredindo no desenvolvimento deste tipo de política?
 A agricultura viveu nos últimos cinco anos grandes transformações. O modelo de intervenção nos mercados e apoio do Estado através do crédito e preços mínimos de garantia esgotou-se na falta de recursos orçamentários para mantê-lo. A transição pela independência do agricultor foi traumática porém parcela dinâmica superou os obstáculos.
@@ -788,12 +788,12 @@ Destruiu-se um setor produtivo que tinha mostrado enormes progresso em termos de
 Nos últimos meses acompanhamos pela imprensa as reuniões dos governos da Argentina, Canadá e Estados Unidos, decidindo o abastecimento do mercado brasileiro. Isto mesmo, são os governos estrangeiros que discutem e decidem o nosso abastecimento. O governo brasileiro optou por criar o Conselho de Segurança Alimentar (Consea) que, trata de muita coisa importante, menos de segurança alimentar.
 
 PEDRO DE CAMARGO NETO, 45, doutor em engenharia de produção, é presidente da Sociedade Rural Brasileira.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-037</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 ANTONIO IBANEZ RUIZ
 O conceito de segurança alimentar é quase auto-explicativo, mas ainda não firmou-se totalmente no imaginário social. Aparentemente, ele é mais propício a discussões acadêmicas, com a participação de profissionais das mais diversas áreas do saber, do que a debates com movimentos sociais e populares. Falar em fome, por outro lado, se pode deixar alguns acadêmicos constrangidos, é tema mais fácil de alastrar-se entre a população em geral.
 Mas, se esta contradição é aparentemente verdadeira, o que teria levado, ao longo do semestre que passou, milhares de pessoas de fora dos bancos acadêmicos a discutirem, mesmo nos rincões mais distantes deste país, o tema segurança alimentar, enquanto preparavam-se para escolher delegados e participar da 1ª Conferência Nacional de Segurança Alimentar, que acontece em Brasília de 27 a 30 de julho?
@@ -809,48 +809,48 @@ Da mesma forma, universidades públicas, como foi o caso daquelas localizadas no 
 Em suma, o quadro aqui brevemente descrito demonstra claramente que o tema da segurança alimentar veio para ficar. Os próximos governos, federal e estaduais, terão necessariamente que levá-lo em conta, caso pretendam realmente combater a fome e a miséria, erradicando-as de uma vez por todas da realidade do nosso país.
 
 ANTONIO IBANEZ RUIZ, 51, é membro do Conselho Nacional de Segurança Alimentar (Consea) e representante do Conselho de Reitores das Universidades Brasileiras (Crub) no Movimento pela Ética na Política. Foi reitor da Universidade de Brasília (UnB).
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-038</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O custo médio da cesta básica na ciadade de São Paulo continua caindo. Ontem, a cesta custava R$ 102,23, segundo a pesquisa do Procon, feita em convênio com o Dieese, com queda de 0,76% sobre terça-feira. A cesta acumula redução de 3,92% no mês. O item alimentação diminuiu 0,92%.
 Foi o grupo que mais colaborou com a retração ontem, mas na variação sobre o final de junho teve a menor queda (3,48%). Os produtos de limpeza subiram ontem 0,40%, apesar de registrarem recuo de 2,87% no mês. Higiene pessoal caiu 0,53%, o que acentuou a redução no mês (8,57%).
 Ontem, 32 produtos registraram redução nos seus preços e 14, alta. O preço médio do feijão carioquinha (pacote de um quilo) caiu 4,17%, a maior queda. Os ovos brancos (dúzia) baixaram 3,92% e a linguiça fresca (quilo), 2,21%. As farinhas de trigo Sol e Lili subiu mais (2,33%).
 Em seguida ficaram o macarrão Maggi (500 gramas), com aumento de 1,54%, e o extrato de tomate Etti (350 gramas a 370 gramas), 1,18%. A pesquisa do Procon e do Dieese é feita em 70 supermercados de cinco regiões da cidade de São Paulo.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-039</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 As exportações de calçados geraram US$ 125,3 milhões de faturamento em junho. O resultado é 32% inferior comparado com o mês anterior. Para a Abicalçados (Associação Brasileira da Indústria de Calçados), junho foi o mês de pior desempenho para o setor calçadista.
 No primeiro semestre de 94, o faturamento total do setor com exportações foi de US$ 853 milhões. O resultado é 11,8% inferior ao atingido nos primeiros seis meses do ano passado. Segundo a Abicalçados, o setor vem apresentando receitas negativas desde fevereiro deste ano.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-040</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Os preços dos produtos vendidos por 16 atacadistas de São Paulo aos supermercados caíram 8,43% nos últimos 35 dias, segundo pesquisa da BEIS (Bolsa Eletrônica Interstocks). A queda foi puxada pela redução de 13,33% ocorrida entre 21 e 30 de junho, antes da introdução do real.
 Nas duas primeiras semanas de julho houve altas de 4,30% e 1,34%, respectivamente. Na terceira semana, os reajustes desaceleraram novamente e a elevação foi de 0,18%. Na quarta, os preços recuaram 0,22%. Os preços coletados representam as melhores ofertas à vista no dia.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-041</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Na terceira quadrissemana de julho, os preços tiveram aumento médio de 6,73% em Belo Horizonte. O resultado é 0,42 ponto percentual superior ao registrado na segunda quadrissemana. O levantamento é feito pelo Ipead (Instituto de Pesquisas Econômicas e Administrativas de Minas Gerais).
 As maiores pressões na terceira quadrissemana vieram, entre outros, das bebidas alcoólicas, com alta de 23,87%, derivados de carne (21,89%), legumes (21,76%), sal e condimentos (20,92%), frutas (20,72%), bebidas e sucos em supermercados (20,23%).
 O IPCA (Índice de Preços ao Consumidor Amplo) mede os gastos de famílias com renda de 1 a 40 salários mínimos. Os itens que lideraram os aumentos foram os produtos "in natura", que tiveram alta de 16,37%, e alimentação em restaurante, 16,08%.
 O IPCR (Índice de Preços ao Consumidor Restrito) registrou aumento de 7,54% na terceira quadrissemana. Comparado com o resultado da segunda, o IPCR registra alta de 0,71 ponto percentual. O índice mede gastos de famílias com renda de um a oito salários mínimos. A pesquisa compara preços em reais com preços em URV.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-042</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Ainda no Bolo de Noiva, a falta de experiência operacional acabou afastando o grupo da PUC-RJ da condução dos trabalhos de abertura do governo Collor. 
 Quinze dias depois de iniciado o governo, outro puquiano &#150;o economista Marcelo Abreu&#150; pediu demissão da Secretaria Nacional de Economia por não ter conseguido nomear nenhum de seus subordinados.
 João Maia assumiu a secretaria e indicou Luiz Paulo Velloso para diretor do Departamento de Indústria e Comércio. Velloso levou Antônio Maciel como seu vice. Os "integracionistas" chegavam ao poder.
@@ -868,12 +868,12 @@ Visão fiscalista
 O coroamento desse processo foi com a câmara setorial da indústria automobilística, em reunião em que a equipe econômica precisou decidir sobre a redução dos tributos. Havia grande resistência interna, de pessoas ainda impregnadas da visão fiscalista da economia.
 A questão foi resolvida quando Dorothéa apresentou trabalho preparado por Maciel que, segundo os presentes, era uma obra-prima de racionalidade. Listava as reivindicações de cada setor envolvido &#150;trabalhadores, montadores, fornecedores e governo&#150;, demonstrava que todas eram justas em si mas, somadas, produziam um todo ilógico. E conclamava a uma racionalização de esforços em torno de um objetivo mais amplo.
 Terminada a exposição, o presidente do Banco Central, Francisco Gros, provavelmente o mais influente homem da equipe de Marcílio, declarou-se convencido. A redução foi aprovada, consagrando a câmara setorial.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-043</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Sucursal de Brasília
 O governo adiou mais uma vez o prazo para a troca de cruzeiros reais por reais. O Banco Central fixou ontem para 30 de agosto a data final para a troca na rede bancária. Nas agências do próprio BC, este prazo foi estendido até o próximo dia 15 de setembro.
 Não foi alterado o prazo para a aceitação de cheques em cruzeiros reais, que termina amanhã.
@@ -883,19 +883,19 @@ O BC promete normalizar a distribuição de moedas em agosto, colocando em circula
 Foi o segundo adiamento do prazo para a troca. Entretanto, o prazo para a troca junto aos bancos foi estendido para 1º de agosto, devido à MP (medida provisória) do real, que determinou que os cruzeiros seriam aceitos obrigatoriamente pelo comércio em julho.
 O erro de cálculo na distribuição de moedas foi causado pela estratégia de distribuição dos reais.
 O BC forneceu cédulas e moedas aos bancos a partir das quantidades pedidas pelas instituições. Segundo técnicos do governo, isso fez com que não fosse levada em conta a necessidade de moedas da economia como um todo.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-044</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O assessor especial de preços do Ministério da Fazenda, José Milton Dallari, informou que as concessionárias de energia elétrica, telefone, água e esgoto devem se acertar com as instituições financeiras para que o pagamento desses serviços possa continuar sendo feito normalmente nas agências bancárias sem qualquer ônus para o consumidor. Se os bancos resolverem cobrar taxas, devem cobrá-la das concessionárias e não dos consumidores, diz Dallari. Segundo ele, o custo de administração desses pagamentos está incluído na estrutura tarifária.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-045</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Taxa ainda reflete aceleração de preços na virada do mês e os efeitos da geada sobre os hortifrutigranjeiros
 MAURO ZAFALON
 Da Redação
@@ -914,12 +914,12 @@ Heron do Carmo diz que pode não estar havendo elevação dos preços dos serviços e
 A pesquisa da Fipe atinge apenas 25% da amostra por semana. A cada semana o índice passa a incorporar os novos valores dos serviços, mas que já estavam vigorando desde o final do mês passado.
 A terceira quadrissemana de julho compara preços médios de três semanas em reais, mais uma em cruzeiros reais convertidos pela URV (Unidade Real de Valor), com as quatro imediatamente anteriores, todas em cruzeiros reais convertidos para URV.
 O índice tradicional de inflação da Fipe &#150;preços em reais multiplicados por 2.750 contra cruzeiros reais de junho e maio&#150; ficou em 39,96% na terceira quadrissemana de julho, com queda de 6,68 pontos percentuais em relação à anterior.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-046</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 O Banco Itamarati, braço financeiro do grupo controlado pelo empresário Olacyr Francisco de Moraes, comprou o Banco Crefisul por US$ 60 milhões, que serão pagos ao Citibank e à família Gregori até o final do ano.
 A operação foi divulgada ontem pelos vice-presidentes do Banco Itamarati, Antonio Hermann Dias Menezes de Azevedo, e do Citibank, Alcides Souza Amaral.
@@ -927,12 +927,12 @@ Com a compra do Crefisul, o Itamarati incorpora frentes de negócios nas quais nã
 O principal alvo da aquisição, acrescentou, foi a área de administração de recursos de terceiros do Crefisul, que possui uma carteira total da ordem de US$ 700 milhões &#150;incluindo fundos de pensão, mútuos e estrangeiros&#150; e vai se somar aos US$ 240 milhões administrados pelo Itamarati, chegando próximo a US$ 1 bilhão.
 No primeiro semestre de 1994, o Banco Itamarati obteve um lucro líquido de US$ 20 milhões, próximo aos US$ 21,7 milhões obtidos em todo o ano passado.
 O Citibank tinha adquirido a participação no Crefisul em 1972, para complementar seus negócios, já que a legislação vedava o acesso a determinadas operações a bancos estrangeiros. "A complementaridade desapareceu com o advento do banco múltiplo", disse Amaral.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-047</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Essa é a expectativa de queda mínima de receita mensal para o FSE; a perda está sendo calculada pela Receita
 FERNANDO GODINHO
 GUSTAVO PATÚ
@@ -955,12 +955,12 @@ O presidente Itamar também vem desconfiando da disposição da equipe econômica em
 Ele recebe explicações da Fazenda e do Banco Central de que a medida é necessária para "destravar o mercado", conforme gosta de dizer o diretor do BÁ, Gustavo Franco.
 Ele explica que a cobrança do PIS é repassada pelos bancos para suas taxas de juros, pressionando estes índices para cima. Com esta argumentação, a equipe tenta acalmar o presidente Itamar, notório crítico das altas taxas de juros praticadas pelo BÁ.
 Gustavo Franco nega que a redução do PIS dos bancos vai trazer prejuízos para o FSE, criado exatamente para permitir o equilíbrio das contas públicas do governo.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-048</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 
 BM&amp;F reduz taxa de cobrança para desonerar operações futuras; índices das Bolsas registram alta
 Da Redação
@@ -1002,12 +1002,12 @@ FUTUROS
 No mercado de DI (Depósito Interfinanceiro) da BM&amp;F, a projeção de juros para julho fechou em 6,70% ao mês, de 3,76% para agosto e 3,23% para setembro e 3,63% para outubro.
 No mercado futuro de dólar, a cotação foi de R$ 0,941 para 29 de julho, R$ 0,961 para 31 de agosto, R$ 0,978 para 30 de setembro e R$ 0,989 para 31 de outubro e R$ 1,000 para 30 de novembro.
 O índice Bovespa futuro fechou a 42.400 pontos com expectativa de valorização de 3,11% ao mês.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-049</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O juiz da 9ª Vara da Fazenda Pública do Rio, André Gustavo Corrêa de Andrade, concedeu liminar mandando reduzir o valor da tarifa dos ônibus urbanos do Rio de R$ 0,35 para R$ 0,32. A ação cível foi movida pela promotora Léa Barbosa Viana Freire, da Comissão de Defesa do Consumidor da Procuradoria Geral. O prefeito César Maia deve pedir cassação da liminar.
 
 Metalúrgicos anunciam mudanças na Scania
@@ -1021,33 +1021,33 @@ O governo solicitou às montadoras de veículos que aumentem a produção, principal
 
 Petrobrás é a 77ª maior empresa do mundo
 A Petrobrás ficou em 77º lugar na lista das 500 maiores empresas do mundo, subindo doze posições ao longo de 93 em relação a 92. As informações são da assessoria da Petrobrás com base na revista norte-americana "Fortune". A receita da estatal em 93 foi de US$ 15 bilhões. Na categoria de empresa refinadora, porém, a Petrobrás alcançou a 18ª posição, subindo dois pontos sobre 1993.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-050</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O fazendeiro Wang Lao-yang anunciou ontem que está fundando o Partido Comunista de Taiwan. "Só assim podemos salvar Taiwan do corrupto Partido Nacionalista e da incompetente oposição do Partido Progressista Democrático", disse. Taiwan e a China não reconhecem um ao outro desde que os nacionalistas foram expulsos do continente pelos comunistas.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-051</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Um soldado britânico morreu e outro foi ferido ontem quando um comboio da ONU que se dirigia a Sarajevo foi atacado por sérvios. Os sérvios da Bósnia haviam declarado que bloqueariam para civis estradas que chegam a Sarajevo. Um caminhão-tanque com 20 mil litros de combustível pegou fogo. A ONU chamou aviões da Otan mas não houve ataque.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-052</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Proprietários de ações do fundo de investimento russo MMM se aglomeraram ontem na Bolsa de Valores e nos escritórios da companhia tentando vender seus papéis. As ações perderam metade do valor desde o início da semana, quando a MMM parou de comprá-las. O governo acusa a MMM de usar dinheiro de novos investidores para comprar ações valorizando-as.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-053</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Ordem de prisão contra seu irmão espalhou o boato e causou a desvalorização da lira
 Das agências internacionais
 O governo italiano negou ontem que o premiê Silvio Berlusconi esteja pensando em renunciar.
@@ -1073,12 +1073,12 @@ Os parlamentares querem também que ele explique as atividades do Estudio Tremont
 "Uma vez mais estamos diante de um conflito de interesses", disse Beniamino Andreatta, do Partido Popular (ex-democracia cristã).
 Foi recusada ordem de prisão internacional contra o ex-primeiro-ministro socialista Bettino Craxi. Craxi é acusado em dois processos e investigado por 20 outros casos de corrupção.
 Ele passou os últimos meses em sua casa de praia na Tunísia e evitou assim a prisão preventiva. A alegação é de que seu estado de saúde não lhe permite viajar.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-054</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 
 BBC
 Noticia que mais de 200 pessoas já morreram nos últimos dias em conflitos entre tutsis e hutus no Burundi. O país é vizinho a Ruane da e tem os mesmos grupos étnicos.
@@ -1088,12 +1088,12 @@ O diário sul-africano diz que o Partido Nacional, do vice-presidente Frederik de
 
 Le Monde
 Informa que a companhia de aviação francesa Air France vai receber cerca de US$ 4 bilhões do Estado. O jornal ressalta que o plano de recapitalização foi autorizado pela Comissão Européia. A idéia é preparar a Air France para a privatização, saneando-a financeiramente em três anos.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-055</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O presidente dos EUA, Bill Clinton, encontrou-se com as jogadoras de basquete da Universidade da Carolina do Norte, campeãs da Divisão 1 do campeonato universitário feminino (foto). Clinton disse a Gwendolyn Gillingham, de 2 metros, que sempre procurou "uma mulher tão alta" quanto ele.
 
 Sai preço de bebê de proveta
@@ -1107,12 +1107,12 @@ A receita suíça informou ontem que o exercício da prostituição será submetido ao
 
 Castelo de Drácula precisa de reforma
 O castelo associado ao lendário vampiro Drácula precisa de uma reforma avaliada em US$ 300 mil, informaram os encarregados pela manutenção do prédio. Construído em 1370, o castelo na Transilvânia romena recebe cerca de 4.000 visitantes por dia. Nele viveu, no século 15, Vlad, príncipe de Wallachia, que inspirou o britânico Bram Stoker a escrever o romance "Drácula" no século 19.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-056</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Líderes judaicos e israelenses haviam pedido reforço policial um mês antes das duas explosões em Londres
 SÉRGIO MALBERGIER
 De Londres
@@ -1127,12 +1127,12 @@ Nos dois atentados, os carros-bombas foram abandonados minutos antes da explosão
 O governo britânico afirmou ter recebido ligação de "alguma parte do Oriente Médio" reivindicando os atentados ao grupo fundamentalista palestino Hamas.
 Mas em Gaza, Jordânia e Síria, porta-vozes do Hamas, contrário ao processo de paz no Oriente Médio e à existência de Israel, negaram qualquer participação.
 O governo israelense acusa o Irã e o grupo fundamentalista libanês Hizbollah (sustentado pelo Irã) de serem responsáveis pela onda de terror contra alvos israelenses ou judaicos, como a explosão em Buenos Aires no último dia 18.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-057</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Das agências internacionais
 A OLP (Organização para a Libertação da Palestina) pediu ontem uma reunião extraordinária dos embaixadores da Liga Árabe para discutir a questão de Jerusalém.
 Segundo o representante palestino na liga, Mohamed Subeih, serão discutidos pontos da Declaração de Washington sobre a cidade.
@@ -1142,12 +1142,12 @@ A organização reivindica Jerusalém Oriental como a capital de um futuro Estado p
 Em uma tentativa de conseguir apoio para a discussão da Declaração de Washington, o líder da OLP, Iasser Arafat, conversou por telefone com o rei Hassan, do Marrocos, o ministro da Defesa da Arábia Saudita, príncipe Sultan Bin Abdul-Aziz, e o chanceler Amr Moussa (Egito).
 Israel afirma que não abrirá mão da soberania sobre qualquer parte de Jerusalém, cuja parte oriental foi conquistada em 1967.
 O país considera Jerusalém sua capital indivisível. Para a comunidade internacional, Tel Aviv é a capital de Israel.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-058</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O presidente dos EUA, Bill Clinton, encontrou-se com as jogadoras de basquete da Universidade da Carolina do Norte, campeãs da Divisão 1 do campeonato universitário feminino (foto). Clinton disse a Gwendolyn Gillingham, de 2 metros, que sempre procurou "uma mulher tão alta" quanto ele.
 
 O NÚMERO
@@ -1164,12 +1164,12 @@ A receita suíça informou ontem que o exercício da prostituição será submetido ao
 
 Castelo de Drácula precisa de reforma
 O castelo associado ao lendário vampiro Drácula precisa de uma reforma avaliada em US$ 300 mil, informaram os encarregados pela manutenção do prédio. Construído em 1370, o castelo na Transilvânia romena recebe cerca de 4.000 visitantes por dia.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-059</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O juiz Adherbal dos Santos Acquati, da 12ª  Vara da Fazenda Pública de São Paulo, proibiu a venda no Brasil das ervas formuladas pelo sueco Donald Douglas-Torry (foto). As ervas seriam  capazes de rejuvenescer, emagrecer e até "curar" celulite, segundo Douglas-Torry.
 
 O NÚMERO
@@ -1183,12 +1183,12 @@ Dois cinemas de Sorocaba (SP) suspenderam a exibição de um anúncio de uma grife 
 
 Carimbo postal lembra 50 anos de parque
 A Empresa Brasileira de Correios e Telégrafos lança amanhã um carimbo postal comemorativo aos 50 anos do parque do rio Doce (MG). A cerimônia ocorrerá no próprio parque, localizado na região leste do Estado. O Parque Estadual do Rio Doce abriga espécies raras de animais e vegetais.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-060</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A Procuradoria Geral do Estado emitiu parecer indicando o fechamento da Guarda Noturna de Santos. A entidade, que é privada, existe há 94 anos. Hoje, a corporação conta com 160 homens. A guarda está com seus imóveis penhorados por insolvência.
 
 SP Litoral 2
@@ -1205,12 +1205,12 @@ Começa hoje e segue até domingo, no Recinto Permanente de Exposições em Ituverav
 
 SP Interior 2
 O clube Botafogo lançou ontem, em Ribeirão Preto, seu cartão de crédito personalizado em conjunto com o Bradesco-Visa. Segundo Márcio Santos Souza, 50, diretor do Bradesco-Visa, o Botafogo deve arrecadar R$ 120 mil por ano com os cartões.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-061</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Os professores municipais de Porto Alegre, que trabalham em escolas fora dos limites da cidade, podem obter passes escolares caso não recebam vale-transporte. O benefício é estabelecido pela Lei nº 7.462, sancionada pelo prefeito Tarso Genro (PT).
 
 Rio Grande do Sul 2
@@ -1221,12 +1221,12 @@ O Departamento de Nutrição da UFPR (Universidade Federal do Paraná) vai ser o Ce
 
 Paraná 2
 A Urbs (Urbanização de Curitiba S/A) credenciou os primeiros quatro táxis especiais para atuarem na cidade. Os carros são equipados com telefone celular. Os táxis especiais vão cobrar 33% a mais que a tarifa comum, que é de R$ 0,38 UTs (Unidade Taximétrica).
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-062</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O governador Carlos Santos (PP) prometeu construir em Salvaterra um "carimbódromo" para as manifestações folclóricas do carimbó, música regional. Ele disse seguir o exemplo de Parintins (AM), onde existe um "bumbódromo" a festa de boi-bumbá. 
 
 Pará 2
@@ -1249,12 +1249,12 @@ O Tribunal Regional do Trabalho do Amazonas vai incinerar mais de 10 mil process
 
 Amazonas 6
 Segundo estudo da Secretaria de Indústria, Comércio e Turismo do Amazonas, a média da massa salarial das empresas da Zona Franca de Manaus registrou um crescimento de 1,74% nos cinco primeiros meses desse ano em comparação com o mesmo período de 93.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-063</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O GOF (Grupo de Operações da Fronteira) recuperou um veículo BMW 93, com placas do Chile, que havia sido roubado em São Paulo. O paraguaio Balbino Duarte Costa, 32, disse, ao ser preso, que receberia US$ 1 mil para levar o carro para o Paraguai.
 
 Mato Grosso do Sul 2
@@ -1265,12 +1265,12 @@ Os 250 policiais florestais do Estado vão fazer um curso, durante três dias, no 
 
 Mato Grosso do Sul 4
 A partir de 1º de agosto, o município de Dourados passa a contar com o SIE (Serviço de Inspeção Estadual). O SIE, órgão da Secretaria Estadual de Agricultura e Pecuária, é responsável pela inspeção dos produtos de origem animal como carnes e embutidos.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-064</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A Divisão de Fiscalização da Emdagro (Empresa de Desenvolvimento Agropecuário de Sergipe) apreendeu 1.500 quilos de carne bovina que estavam sendo comercializados sem inspeção. A apreensão aconteceu em mercados e feiras livres de Aracaju.
 
 Sergipe 2
@@ -1293,12 +1293,12 @@ O juiz do Juizado de Pequenas Causas de João Pessoa, Manoel Paulino da Luz, cond
 
 Paraíba 2
 Bonfim aceitou a pena. Ele vai dar expediente às quintas-feiras na biblioteca do Espaço Cultural José Lins do Rêgo, em João Pessoa. O estudante será vigiado por um oficial de Justiça. A frequência ao trabalho é obrigatória e será comunicada ao juiz.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-065</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 JOSÉ RUBENS REBELATTO
 Acontece até o dia 30 deste mês, na Universidade de Brasília, a 1ª Conferência Nacional de Segurança Alimentar.
 Em maio, as principais universidades de São Paulo organizaram o Seminário de Segurança Alimentar e Cidadania, na Unicamp, onde surgiram propostas concretas de estudos que podem ajudar no trabalho de erradicação da fome, e ocorreram relatos e avaliação de ações já implementadas.
@@ -1313,12 +1313,12 @@ No entanto, de maneira alguma isso pode significar o desprezo ou a ignorância da
 Principalmente quando tais decorrências envolvem a perda de cidadania, da dignidade e, muitas vezes, da própria vida humana. Neste aspecto, especificamente, as universidades que tomaram essa iniciativa merecem a reverência daqueles que as observam.
 
 JOSÉ RUBENS REBELATTO, 39, é doutor em educação pela Unicamp (Universidade Estadual de Campinas) e vice-reitor da UFSCar (Universidade Federal de São Carlos).
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-066</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Marido passa mal durante o velório
 Da Reportagem Local
 O velório da dona-de-casa Kelmy Etelvina Coelho Martins, 23, e de seu bebê, mortos anteontem a tiros por dois assaltantes, virou local de "romaria".
@@ -1328,12 +1328,12 @@ O marido de Kelmy, Renato Martins, passou mal duas vezes durante o velório e pre
 "Tudo o que ele quer agora é descobrir quem foram os assassinos", disse Antonio Farias, irmão de Renato. Os dois passaram a madrugada de ontem tentando liberar os corpos de Kelmy e da filha para que o enterro fosse simultâneo.
 A criança morreu por volta das 14h de anteontem no hospital Tide Setúbal. De acordo com Farias, o corpo não foi levado ao IML a tempo de passar pela autópsia porque o IML só tinha um carro, que não estava disponível.
 "Tivemos que esperar até o dia seguinte e pedir para passarem o nosso caso na frente dos outros, para não precisar fazer dois enterros."
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-067</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 Usuários de drogas injetáveis de cinco cidades brasileiras começam a ser entrevistados e examinados na próxima semana. São 1.400 dependentes que responderão a um longo questionário e passarão por exames de saúde, entre eles o teste HIV.
 O Projeto Brasil, como foi batizado, faz parte de um amplo programa de prevenção do HIV entre usuários de drogas coordenado pelo Ministério da Saúde e co-financiado pelas Nações Unidas. O programa total se estenderá por quatro anos e custará US$ 9,28 milhões.
@@ -1343,12 +1343,12 @@ Os detalhes do projeto estão sendo definidos por técnicos do Iepas com a partici
 Um segundo projeto-piloto começará ainda este ano a distribuição de seringas entre dependentes de cinco cidades brasileiras.
 Na próxima segunda-feira, o Conselho Federal de Entorpecentes se reúne para avaliar a legalidade do projeto e se é ou não adequado à realidade do país.
 (AB)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-068</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 A infecção pulmonar que o humorista Antônio Carlos Bernardes Gomes, 53, o Mussum, tem desde a semana passada, é uma infecção hospitalar.
 Este tipo de infecção é difícil de ser combatida pois os microrganismos que a causam costumam ser resistentes a medicamentos.
@@ -1363,12 +1363,12 @@ O humorista está tomando também vários antibióticos para combater todos os germe
 O excesso de medicamentos prejudica o funcionamento dos rins do humorista, que está passando por sessões de hemodiálise.
 Os humoristas Renato Aragão (Didi) e Manfried Santanna (Dedé), companheiros de Mussum, deverão visitá-lo hoje, às 12h.
 No dia 12 de julho, Mussum sofreu um transplante cardíaco. Ele está internado na UTI (Unidade de Terapia Intensiva), em São Paulo, desde o dia 7 de julho.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-069</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O prefeito Paulo Maluf (foto) assinou ontem projeto de lei que isenta as empresas que exploram o serviço de transporte por táxi do pagamento do ISS (Imposto sobre Serviços de Qualquer Natureza). A isenção havia sido concedida em dezembro de 81, mas foi revogada em 89.
 
 O NÚMERO
@@ -1382,12 +1382,12 @@ A Vigilância Sanitária fechou ontem um asilo, em Campo Belo (zona sul), por maus
 
 Surfistas pedem mais segurança em PE
 Cerca de 30 surfistas fizeram ontem uma manifestação na praia de Boa Viagem, em Recife (PE), pedindo mais segurança para a prática do esporte no local. No último domingo, o estudante Carlos Frederico Gomes Martins, 15, teve seu pé esquerdo arrancado por um tubarão quando surfava em Boa Viagem.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-070</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A leitora Ana Paula Fratoni reclama do atraso na instalação de uma linha telefônica adquirida pelo plano de expansão da Telesp.
 "Meu pai adquiriu a linha em 87 para o Itaim Bibi. Só que, como até 90 o telefone não havia sido instalado, foi solicitada uma transferência para São Miguel Paulista. Desde então, esperamos a instalação da linha", conta Ana.
 Ela diz temer que, com a abertura de novas inscrições este ano, a instalação da linha fique "cada vez mais difícil". "Na última consulta que fiz à Telesp, a instalação estava prevista para 95. Cinco anos de espera é um prazo longo demais."
@@ -1397,12 +1397,12 @@ Segundo Carlos Roberto Inaba, da Divisão de Imprensa da Telesp, para fazer a tra
 Ele diz que o serviço será entregue no primeiro semestre de 95, mas que a linha pode ser instalada "imediatamente" no Itaim Bibi.
 
 Cartas para "A Cidade é Sua/Via São Paulo" devem ser enviadas para a Secretaria de Redação (Área Administrativa), na al. Barão de Limeira, 425, 3º andar, Campos Elíseos, São Paulo (SP), CEP 01290-900, com nome completo, CIC, RG, endereço e telefone do reclamante.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-071</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Pai invade faculdade em Brasília, atira em estudante que discutiu com sua filha e mata jovem que estava a seu lado
 Da Sucursal de Brasília
 O psicólogo Ricardo de Brito Rocha, 40, invadiu ontem à tarde a Faculdade de Música da UnB (Universidade de Brasília) e disparou quatro tiros contra os estudantes Milton dos Santos Júnior, 19, e João Rochael Alcântara, 36. Milton teve morte cerebral.
@@ -1415,12 +1415,12 @@ A briga parecia ter terminado ali. Meia hora depois, Rocha teria voltado à facul
 Rocha seguiu o estudante, invadiu a sala e disparou vários tiros. Um deles atingiu Milton dos Santos Júnior, que estava sentado em uma das cadeiras preenchendo a ficha de matrícula. As cerca de 30 pessoas que estavam na sala esconderam-se embaixo das mesas.
 A segurança da UnB foi chamada, mas não conseguiu alcançar Rocha, que já havia fugido. Até as 23h de ontem, a Polícia Civil ainda não tinha capturado o pai de Ariana.
 Rocha fugiu em uma lambreta Vespa, vermelha, que ele abandonou a 600 metros da UnB. Ariana presta hoje depoimento na 2ª DP (Delegacia Policial), onde o caso foi registrado.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-072</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 CORAÇÃO
 Mussum sofreu um transplante de coração no dia 12 de julho. Segundo os médicos, o humorista responde bem ao transplante, não apresentando sintomas de rejeição. Para evitá-la, ele está tomando medicamentos que diminuem sua resistência imunológica.
 
@@ -1429,12 +1429,12 @@ O excesso de medicamentos está prejudicando o funcionamento dos rins de Mussum. 
 
 PULMÃO
 Ele está com uma infecção na base do pulmão direito. Os medicamentos contra rejeição prejudicam a recuperação. Para os médicos a infecção está controlada e não deve se disseminar. No entanto, apesar de ele estar tomando vários antibióticos, não há sinais de melhora.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-073</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Bandas tocam temas de desenhos animados, seriados de TV e filmes em casas noturnas da cidade
 LUÍS EDUARDO LEAL
 Da Reportagem Local
@@ -1459,12 +1459,12 @@ Mesmo assim, a trilha do filme sobrevive nos shows da banda, em composições próp
 Além das músicas, os nove integrantes do grupo &#150;formação com dois saxes, trumpete, trombone, teclados, bateria, guitarra, baixo e vocal&#150; conservam os óculos escuros e o look "gângster" dos blues brothers originais.
 "No início, o Kristian (Steuer, arranjos e baixo) e o João (de Paula, vocal) tocavam com o traje dos personagens do filme", diz Guto Sciotti, 34, sax tenor. A "Cara de Pau" surgiu há quatro anos e já teve diversas formações.
 Para quem prefere rock a rhythm and blues e soul, a banda faz um medley de "Black Dog" (Led Zeppelin) e "Lazy" (Deep Purple), ainda que em roupagem rhythm and blues.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-074</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 O culto a seriados de televisão é o denominador comum de numerosas confrarias espalhadas pelo país de adoradores dessas "pérolas" do pop.
 "...E no Próximo Episódio..." é o nome de um fanzine trimestral editado em São Paulo, 48 páginas dedicadas a reunir, em cada número, o maior número de informações sobre seriados americanos.
@@ -1477,12 +1477,12 @@ Entre os dias 8 e 12 de agosto, a equipe do fanzine participará da "semana Batma
 No Rio, o clube "Amigos do Ultraman" se reúne duas vezes por mês em uma sala na Tijuca (zona norte) para assistir diversas versões da série japonesa.
 "Pretendemos fazer um fanzine para nos correspondermos com outros fãs do país"', diz o estudante Guilherme Carneiro, 28, um dos "Amigos do Ultraman".
 (LEL)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-075</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Lalas assina com equipe do Padova
 O zagueiro da seleção dos EUA, Alexi Lalas, assinou ontem o contrato com o Padova, equipe italiana da primeira divisão
 
@@ -1505,12 +1505,12 @@ O mexicano Julio Cezar Chavez disse ontem que está cogitando parar de lutar. O m
 BASQUETE
 Procura-se segurança para Shaquille O'Neil
 Os organizadores do Meeting de basquete, que se realizará no Rio de Janeiro, a partir de 29 de agosto, estão procurando um guarda-costas para o jogador norte-americano Shaquille O'Neil. A exigência é que tenha aproximadamente a compleição física de Shaquille: 2,16 metros de altura e 137 quilos.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-076</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Problemas de comunicação com jogadores e nenhuma assessoria dificultaram trabalho da imprensa estrangeira
 UBIRATAN BRASIL
 Da Reportagem Local
@@ -1525,12 +1525,12 @@ Não fosse a ajuda de jornalistas brasileiros, que lhe passaram informações básic
 No segundo dia, já se sentindo habituado ao esquema brasileiro, conseguiu uma brecha próximo a Romário, na acirrada disputa com gravadores e microfones. Depois de esperar pelas entrevistas aos brasileiros, as quais não entendeu nada, tomou ar para fazer uma pergunta, auxiliado por um voluntário, quando viu o jogador virar as costas, encerrando seu tempo. Novamente teve que rogar por notícias dos colegas brasileiros.
 Depois da final, Brasil tetracampeão, a espera era pelo técnico Carlos Alberto Parreira. Afinal, tão criticado pela imprensa brasileira, era o momento ideal para desabafar, com testemunhas do mundo inteiro à sua disposição. Parreira, porém, só fez elogios difusos e disparou comentários óbvios do tipo "Brasil e Itália disputavam o tetracampeonato", que provocaram gargalhadas.
 Em prática novamente a caça por jornalistas brasileiros. "Não sei como vocês conseguem as notícias", comentou um alemão a um repórter de rádio, que lhe passara informações do goleiro Taffarel. A sensação de desforra só veio com a volta da seleção ao Brasil: a pesadíssima bagagem trazida pelos jogadores, dirigentes e os inúmeros convidados da CBF (e o consequente escândalo alfandegário) foi encarada com ironia, como mais uma batida de samba do criolo doido, que afinal já contagiava o país.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-077</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 SERGIO TORRES
 Da Sucursal do Rio
 O juiz da 22ª Vara Federal do Rio, Lafredo Lisboa Vieira Lopes, deu ao ministro da Fazenda, Rubens Ricupero, o prazo de 20 dias para prestar esclarecimentos judiciais sobre a liberação da bagagem da delegação brasileira que voltou no dia 18 da Copa dos EUA.
@@ -1543,12 +1543,12 @@ Os demais 63 listados não têm endereço conhecido pela Receita e pela Justiça Fed
 Por causa da falta de endereço, o juiz determinou que eles sejam convocados a prestar esclarecimentos através de edital publicado na imprensa.
 A partir da publicação do edital, eles terão 30 dias para apresentar "relação detalhada dos bens adquiridos no exterior até a efetivação da diligência".
 O juiz determinou que as emissoras Globo, Bandeirantes, SBT e Manchete forneçam em 15 dias as imagens do desembarque.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-078</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 CARLOS SARLI
 No banquete da ASP de encerramento da temporada de surfe profissional de 93, no Havaí, o brilho da vitória do havaiano Derek Ho contrastava como vídeo projetado durante a festa. O filme exibia, em sua maioria, campeonatos disputados ao longo do ano, em ondas mais apropriadas 'a categoria pré-mirim.
 Há uns quatro anos, chegou à minha mesa um projeto bem apresentado do OP Pro Fernando de Noronha. Concebido para ser um evento em que a qualidade seria a ênfase, o campeonato nunca saiu do papel.
@@ -1560,23 +1560,23 @@ Sobre este último item, tivemos uma experiência frustrante em 1988, aqui no circ
 A temporada terminou com uma grande repercussão e o esporte viveu um novo momento de euforia. No ano seguinte, Associação e patrocinadores das etapas exigiram mais dinheiro para a renovação do contrato com a TV. Não rolou e o esporte perdeu.
 Entre erros e acertos, é certo que o surfe profissional tem evoluído como produto e a TV tem e terá cada vez mais um papel importante nisso.
 Por último, o encerramento da temporada na Austrália, ao invés do Havaí, por força do patrocinador, a Coca Cola australiana, é pior que final de Copa do Mundo decidida nos pênaltis.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-079</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 
 
 Neste fim-de-semana, no município de Brotas, na Serra de São Pedro, mais um grupo de alpinistas de cachoeira &#150;canyoning&#150; fará seu "batismo" na cachoeira do Pinheirinho. Comandados pelo instrutor Carlos Zaith do grupo H2Omem, a galera está preparada após alguns treinos sob a ponte da Dr. Arnaldo, na Av. Sumaré.
 
 Começa dia 29 de julho o 13º Raam, Race Across America, competição ciclística considerada por muitos atletas como a mais árdua competição do mundo. Disputada nas categorias individual e time (quatro competidores), a prova tem largada em Irvine, na Califórnia, e chegada prevista para oito dias depois, na individual, em Savannah, na Georgia, na costa leste dos EUA.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-080</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 SÉRGIO KRASELIS
 Enviado especial a Turim
 Brasil, Itália, Cuba e Bulgária fazem amanhã em Milão os jogos da fase semifinal da Liga Mundial Masculina de Vôlei.
@@ -1594,12 +1594,12 @@ Os cubanos viraram em 15/14, os brasileiros buscaram o empate e a decisão aconte
 "Isso prova que o Brasil atingiu a maturidade dentro da quadra. Mesmo numa situação de adversidade, conseguimos manter a cabeça suficientemente fria para transformar o placar desfavorável", disse o capitão da seleção.
 Nos outros jogos da rodada, a Itália venceu a Holanda por 3 sets a 2 (9/15, 6/1, 15/10, 15/8 e 15/12), enquanto a Bulgária bateu a Rússia por 3 sets a 0 (15/13, 15/8 e 15/6), quebrando um tabu de 24 anos sem ganhar dos adversários em jogos oficiais (antes era URSS).
 A seleção brasileira viaja hoje para Milão e à tarde faz o reconhecimento do Forum Assago, onde acontecem os jogos da semifinal e final.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-081</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Do enviado especial a Turim
 O técnico Zé Roberto decidiu poupar alguns titulares da seleção para evitar o desgaste da equipe na reta final da Liga Mundial.
 A cautela começou no jogo contra a Itália, na última terça-feira, quando ele testou uma nova formação do time, com a entrada de Gílson no lugar de Carlão e Jorge Édson no lugar de Maurício.
@@ -1608,12 +1608,12 @@ Segundo ele, a comissão técnica acertou no planejamento da preparação física, o 
 Para o técnico brasileiro, a seleção conseguiu ficar mais aliviada após a vitória sobre a Itália. "Tiramos um peso dos ombros. Vencer a Itália em Turim é uma situação que te lava a alma. Mas isso é apenas o início. Muitas surpresas estão acontecendo com equipes consideradas fortes."
 "A Holanda, por exemplo, perdeu para a Bulgária. Só o que posso dizer é que desta vez conseguimos sair na frente dos adversários", afirmou.
 (SK)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-082</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Atrações do último festival de Montreux, quatro 'ferinhas' do gênero terão seus discos lançados em agosto
 O pianista nova-iorquino Peter Delano
 Roy Hargrove, discípulo de Wynton Marsalis, é revelação no trompete
@@ -1635,12 +1635,12 @@ Mais precoce ainda é o pianista Peter Delano, 17, que acaba de lançar "Bite of t
 Articulado como raros garotos de sua geração, o pianista nova-iorquino também cresceu ouvindo pop e hip hop, mas encontrou algo especial no jazz.
 "O problema é que as pessoas da minha idade vêem o jazz como algo estereotipado. Pensam logo no "swing", o jazz dos anos 40. Não percebem que o jazz tem inúmeras formas e estilos", reclama.
 Citando mestres como o saxofonista John Coltrane ou o trompetista Miles Davis, Peter diz que a busca do estilo próprio extrapola o instrumento. "Desde cedo compreendi que não seria ouvindo e imitando outros pianistas que eu desenvolveria meu estilo pessoal."
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-083</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 No mercado musical de hoje, idade virou documento. Mesmo assim, na esperta estratégia de marketing dos "young lions", também há espaço para os jazzistas que passaram dos 30.
 "Parece até que as companhias de discos promovem um concurso para encontrar o músico mais jovem", ironiza o pianista inglês Django Bates, 33. "Isso definitivamente não ajuda a música, mas o que podemos fazer?"
@@ -1661,33 +1661,33 @@ Quanto: R$ 20,00 (em média, cada CD)
 Disco: 'Revelation', de Cyrus Chestnut
 Lançamento: Atlantic/Warner (CD importado)
 Quanto: R$ 22,00 (em média)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-084</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A top alemã Claudia Schiffer está abrindo uma nova frente. Está preparando uma série de programas para a TV intitulada "Claudia Schiffer Specials", com matérias sobre cinema, moda e comportamento. A negociação está sendo feita com a TV a cabo Premiere.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-085</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Tem festa hoje no mundo da moda. Aenne Burda faz 85 anos. A empresária alemã é a criadora da revista "Burda Moden", a primeira a ultrapassar &#150;em 1965&#150; a tiragem de um milhão de exemplares e a primeira do gênero a entrar na Ex-União Soviética, em russo.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-086</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Os jornais britânicos aventaram a possibilidade de um acordo entre o italiano Valentino e a princesa Diana em que ela desfilaria para o estilista em Paris, em outubro. Isso por US$ 1 milhão. Metade do dinheiro iria para a Unicef e metade para uma entidade inglesa.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-087</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O cantor e compositor baiano lança disco para atingir mercado hispano e dialogar com o próprio passado
 LUÍS ANTÔNIO GIRON
 Da Reportagem Local
@@ -1708,12 +1708,12 @@ A exemplo de João, Caetano lavra a latinidade até chegar à bossa-nova. Isso ganh
 Disco: Fina Estampa
 Lançamento: Polygram
 Quanto: R$ 15,00 (o CD, em média)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-088</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 INÁCIO ARAUJO
 Crítico de Cinema
 
@@ -1732,20 +1732,20 @@ Basta tomar o momento em que ele paquera uma prostituta, dublando uma música de 
 A parte mais fraca diz respeito a Fernanda Torres, como Claudete: na tentativa de fazer um tipo humorístico, ela invade o terreno do histrionismo com frequência. Maitê Proença, ao contrário, tem uma atuação mais modesta e eficaz.
 Se o fraco do filme são as trucagens excessivas (como a sequência final, meio despropositada), um dos aspectos fortes é o som. Walter Rogério é um exímio técnico de som. Isso garante a qualidade técnica, o que é importante.
 É claro, seria possível reprovar ainda isso e aquilo a "O Beijo". Mas desde que se passe da atividade crítica ao trabalho de bedel. No geral, é uma bela estréia, uma comédia nada burocrática e um filme que se assiste com prazer.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-089</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Das agências internacionais
 O abade do monastério espanhol de Santo Domingo de Silos, sucesso mundial com seu disco de canto gregoriano, ofereceu ajuda ao monastério de São Daniel, em Moscou, para a gravação de um disco de cantos do rito ortodoxo-bizantino. "Eles têm muito mais registros e polifonia que a nossa", disse.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-090</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Walter Rodrigues e Fause Haten usam informações das coleções européias para suas próprias convicções
 ERIKA PALOMINO
 Colunista da Folha
@@ -1760,33 +1760,33 @@ Vestidos bordados com canutilhos quebrados reproduziam com romantismo gotas de c
 Finalizaram o desfile, com mostras da preocupação de Haten em relação ao acabamento e à qualidade das peças. Sinais do talento de um estilista que ainda pode ir muito mais longe. Olho nele.
 
 Colaborou JACKSON ARAUJO, free-lance para a Folha
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-091</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 A marca Sucumbe a Cólera trabalhou com lycra e helanca, seus tecidos mais caraterísticos. Mas o resultado se mostrou impraticável e algo perdido dentro do Phytoervas. Os microcomprimentos &#150;radicais&#150; soaram por demais "moda praia", carioca.
 Segundo os estilistas Liana Padilha e Regis Fadel, a proposta é uma roupa sexy, para homens e mulheres. O look algo espacial associado à Sucumbe veio mais suave, aparecendo em azul bebê metálico e lavanda. De resto, muitos recortes, cores fortes e a sobreposição (falsa) de biquínis sobre as partes de baixo. Em geral, não agradou.
 (Eva Joory)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-092</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Reportagem Local
 A estilista Sonia Maalouli, responsável pela moda da Cia. do Linho, mostrou uma mistureba de tendências &#150;traduzidas trambém pela confusão da cenografia, de máquinas de fliperama a cabaré.
 Teve look sintético (tops em cirés), fake (as plumas tipo marabu), micro baby-dolls, schoolgirls, boxeuses. Neon e tons pastéis, prata e ouro matalizados nos tecidos como organzas foram as cores propostas. Ninguém entendeu. Foi o desfile mais equivocado até aqui.
 Também não deu para entender as inscrições como "tem você amando" nas blusas em lycra das meninas. Modelos seminuas mostraram as grandes saias drapeadas.
 (Eva Joory)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-093</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 PAULO COELHO
 Colunista da Folha
 O argentino M. Moreno, da Kamuzawa, fala da luta de judô: "A harmonia e a repetição dos mesmos movimentos estabelecem um vínculo entre o corpo e a mente, que &#150;embora difícil de conseguir&#150; é bastante tangível. Não há outro segredo que trabalhar, cair, e tornar a levantar-se.
@@ -1794,12 +1794,12 @@ O argentino M. Moreno, da Kamuzawa, fala da luta de judô: "A harmonia e a repeti
 "É preciso entender a dinâmica própria da vida: crise, queda, maturidade com a queda, e nova iniciativa.
 "É preciso saber aproveitar a força do oponente; a conseguir ficar sem ser notado, e saber vencer discretamente.
 "É a melhor maneira de aprender é &#150;emprestar seu corpo para a luta com adversários fortes. O fraco não vai lhe ensinar nada."
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-094</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O patriarca, entretanto, jamais conseguiria filmar como Groucho Marx, que só aparece na 91ª colocação
 DAVID DREW ZINGG
 Em São PauloNo mês de julho, 25 anos atrás, tio Dave era um homem muito mais moço, e Ted Kennedy um homem muito mais triste.
@@ -1851,12 +1851,12 @@ Na vida real ela seria primeiro presa e depois despedida.
 No filme de Oliver Stone que sai em agosto, veremos um ator-repórter ajudando a transformar uma dupla de "serial killers"'em celebridades nacionais. Faz o clássico "A Primeira Página" parecer um documentário.
 
 Tradução de Paulo Migliacci
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-095</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 A peça 'As Favoritas do Rádio', em cartaz no Ruth Escobar, revive a era de ouro das cantoras Emilinha e Marlene
 DANIELA ROCHA
 Da Redação
@@ -1875,12 +1875,12 @@ Elenco: Andréa Bassitt, Luciana Carnielli, entre outros
 Quando: de quinta a sábado, 21h; domingo, às 19h. Até 7 de agosto.
 Onde: teatro Ruth Escobar (r. dos Ingleses, 209, tel. 289-2358)
 Quanto: R$ 7,00 (desconto de 50% para músicos, estudantes e maiores de 50 anos)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-096</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Público aplaude Rosana Lamosa em clima de tetra
 IRINEU FRANCO PERPETUO
 Da Redação
@@ -1898,12 +1898,12 @@ Elenco: Jadranka Jovanovic (Carmen), Edmund Barham (Don José), Boris Martinovic 
 Quando: hoje e 2 de agosto às 20h30, dia 30 de julho às 17h
 Onde: Teatro Municipal (pça. Ramos de Azevedo, s/nº, tel. 011/222-8698, região central)
 Quanto: de R$ 6,00 a R$ 13,00
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-097</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 FERNANDO CANZIAN
 De Nova York
 Dois grandes festivais de música devem atrair cerca de 300 mil pessoas para duas cidadezinhas no Estado de Nova York, no fim-de-semana de 13 e 14 de agosto, para a comemoração dos 25 anos de Woodstock.
@@ -1913,12 +1913,12 @@ O evento está sendo organizado pelas mesmas pessoas que, há 25 anos, criaram os 
 
 LEIA MAIS
 Sobre os festivais nas págs. 6-2 a 6-5.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-098</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Agências de viagens oferecem pacotes para Nova York, com ingressos incluídos, por preços a partir de US$ 1.268
 Free-lance para a Folha
 Três agências de viagens têm pacotes específicos para o Woodstock'94 &#150;Beverly Tours, Star Way e Victoria Tours. Os preços começam em US$ 1.268 (com passagem aérea, seis noites de hospedagem, ingressos para os três dias de shows e traslados).
@@ -1943,12 +1943,12 @@ Agaxtur: Pacotes de sete noites, sem passagem aérea, de US$ 475 (Belvedere, três
 (Luciana Veit)
 
 ADVANCE: (011) 259-2777; AGAXTUR: (011) 214-2211; ATI: (011) 258-4899; BEVERLY TUR: (011) 217-4427; ELANTUR: (011) 288-2377; FLOT: (011) 258-9811; FUN TOUR: (011) 231-2544; IMPERIAL TOURS: (011) 258-7764; INTERPOINT: (011) 881-9400; METRÓPOLE: (011) 255-9300; MUNDIRAMA: (011) 259-5577; PANEXPRESS: (011) 259-5122; SOLETUR: (011) 231-4244; STAR WAY: (011) 259-8433; TRAVEL PLAN: (011) 258-5977; VICTORIA TOURS: (011) 256-5877.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-099</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Woodstock'94, que será realizado em Saugerties, norte de Nova York, será o maior evento musical do ano dos EUA
 De Nova York
 Woodstock'94 será o maior evento musical do ano nos Estados Unidos. Organizado pelos criadores do festival de Woodstock em 1969, o "revival" terá 30 bandas e músicos novos e veteranos, que participaram do evento original.
@@ -1963,12 +1963,12 @@ Embora as vendas de ingressos ainda não tenham decolado com força total, princip
 O local do festival foi transferido mais para o norte pelo fato de os organizadores não terem conseguido convencer a Prefeitura de Bethel, onde o festival original aconteceu, a encarar mais uma vez um evento de grandes proporções.
 "O local não é o mesmo, mas o espírito de Woodstock estará com a gente", diz Joel Rosenman, um dos três organizadores do festival em 1969.(Fernando Canzian)
 Ingressos para o Woodstock'94 e Bethel'94 são vendidos através do sistema Ticketmaster (nos EUA, tel. 001 212 307-7171). Vendas internacionais são feitas com cartão de crédito e os ingressos devem ser retirados nos escritórios nos locais dos festivais. Podem também ser encontrados em agências de viagens brasileiras.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-100</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Organizadores da época miravam os dólares que os hippies carregavam nos bolsos das calças desbotadas
 ÁLVARO PEREIRA JÚNIOR
 Editor-chefe do NP
@@ -1984,12 +1984,12 @@ Pelo menos dois anos antes de Woodstock, as gravadoras já punham em curso a coop
 Em 1967, revistas publicavam anúncios cínicos como "A Revolução está na CBS" (CBS é a multinacional do disco).
 Publicações "alternativas", caso da então nascente "Rolling Stone", sobreviviam graças a toneladas de anúncios...justamente das grandes gravadoras.
 A pureza de Woodstock é um mito. O que havia lá era uma venda de mercadoria, como qualquer outra. Ainda que essa mercadoria se chamasse sinceridade.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-101</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Cidadezinha de 6.000 habitantes, ao norte do Estado de Nova York, vive da nostalgia, turismo e artesanato
 MÁRCIA CAETANO
 Free-lance para a Folha
@@ -2005,12 +2005,12 @@ O motivo de Woodstock ter se tornado um símbolo do movimento hippie está em sua 
 Entretanto, a filosofia antiindustrial de Whitehead &#150;que insistia em não utilizar máquinas na fabricação dos móveis&#150; tornou o seu produto caro.
 A colônia de artistas desapareceu, mas Woodstock passou a ser sinônimo de filosofia de vida ligada à natureza, um templo de arte e bem-estar no alto da selva capitalista: Manhattan fica a 193 km. Foi, porém, em 1969, quando os produtores de um concerto de rock decidiram realizar o evento em Woodstock, que a cidade se tornou símbolo da contracultura.
 Como o concerto foi transferido às vésperas da data prevista, não houve tempo de mudar os cartazes. Woodstock foi consagrada como a capital da revolução hippie.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-102</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Free-lance para a Folha
 De Nova York, chega-se à cidadezinha de Woodstock de carro (veja preço de aluguel na pág. 6-2), ônibus ou trem.
 A maneira mais fácil é de ônibus. Eles partem diariamente do Terminal Rodoviário de Nova York às 7h, 10h, 10h30, 12h30, 15h30 e 17h (menos às sextas, que têm horário único às 19h). A passagem custa US$ 38. 
@@ -2019,12 +2019,12 @@ De carro, pegue a rodovia Interestadual na saída 19, sentido norte, e siga as pl
 (MC)
 
 TERMINAL RODOVIÁRIO: 8th. Avenue com 41 Street, tel. 564-1114; ESTAÇÃO FERROVIÁRIA PENNSYLVANIA: 8th. Avenue com a 31 Street, tel. 582-6875; COMPANHIA FERROVIÁRIA AMTRACK: tel. (914) 867-3364.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-103</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Várias atividades, como caminhadas, alpinismo e festivais, marcam a temporada de junho a setembro no Estado
 MARCELO CALLIARI
 Enviado especial ao Colorado (EUA)
@@ -2046,12 +2046,12 @@ LEIA MAIS
 Sobre o Colorado nas págs. 6-7 a 6-10.
 
 MARCELO CALLIARI viajou a convite da Interpoint Turismo, Aspen Skiing Company, Vail Associates e Keystone Resort.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-104</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Do enviado especial
 Diz-se em Aspen que as pessoas vêm conhecer a cidade por causa do inverno, mas acabam ficando por causa do verão. Sem a neve, cercada de verde, a rainha das estações de esqui norte-americanas de fato muda completamente.
 A badalação do inverno, quando celebridades de todos os tipos vêm para serem vistas, diminui um pouco, embora rostos conhecidos como Jack Nicholson, Melanie Griffith, Kurt Russel, a top model Cindy Crawford ou esportistas como Martina Navratilova estejam sempre por perto.
@@ -2072,12 +2072,12 @@ Apesar de todos os eventos especiais do verão, uma das grandes atrações continua
 Para guloseimas diversas, a Paradise Bakery é a grande pedida, e o J-Bar do Hotel Jerome continua imbatível nas noites de sexta-feira.
 O inverno sem dúvida ainda é a estação de ouro de Aspen, quando a ocupação, a badalação e os preços sobem aos céus. Mas o verão é cada vez menos um segredo conhecido apenas pelos seus moradores.
 (MC)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-105</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Keystone, Breckenridge e mais três cidades tentam disputar o público de pesos-pesados como Aspen e Vail
 Do enviado especial ao Colorado (EUA)
 Há vários anos, as estações de esqui no Estado norte-americano do Colorado resolveram juntar forças para poder fazer frente a pesos-pesados como as cidades de Aspen e Vail no competitivo mercado local.
@@ -2095,12 +2095,12 @@ Breckenridge tem diversos restaurantes e lanchonetes, mas os mais requintados &#
 O Alpenstube Glow, por exemplo, fica no topo da montanha em Keystone, e só se chega de bondinho. Já o Keystone Ranch é numa antiga cada de fazenda, à beira de um campo de golfe e cobra US$ 58 por um jantar de seis pratos.
 Há um serviço de ônibus entre as cidades e muitas das atividades oferecem transporte a partir de pontos centrais. Ainda assim, alugar um carro pode dar muita comodidade. 
 (Marcelo Calliari)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-106</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Do enviado especial ao Colorado (EUA)
 Pode parecer difícil imaginar um lugar que tenha ao mesmo tempo sido escolhido como sede de uma Copa do Mundo de esqui e do Campeonato Mundial de "Mountain Bike". Mas ele existe. É Vail, mais uma estação de esqui no Colorado que vem se consolidando como um resort de férias também no verão.
 Construída em estilo alpino europeu especialmente para ser um centro de esqui, Vail não é uma cidade normal. Tem um centro para pedestres, recheado de lojas e resturantes, enquanto o restante é basicamente hotéis e condomínios.
@@ -2115,12 +2115,12 @@ Um destaque não menos importante de Vail é a comida. É fácil encontrar lanchonet
 A um deles, Beano's Cabin, chega-se a cavalo ou de carroça (no inverno de trenó ou esqui de fundo) e a refeição é sempre em seis pratos visualmente impressionantes.
 Já o Wildflower tem um terraço com vistas para a montanha e oferece ainda um dia de caça ao cogumelo, em que os interessados saem ao redor da cidade à cata dos fungos com um especialista durante o dia e comem a colheita à noite.
 (MC)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-107</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Embora o inverno ofereça mais opções, operadoras vendem agora excursões a partir de US$ 798, sem aéreo
 Free-lance para a Folha
 No verão, poucas agências e operadoras de viagens brasileiras vendem roteiros para o Colorado. Confira, a seguir, algumas opções de hotéis e excursões.
@@ -2132,12 +2132,12 @@ Victoria Tours: Excursão de 12 dias, passando por Denver, Aspen e Vail e visitan
 (Luciana Veit)
 
 INTERPOINT: (011) 881-9400; MONUMENTO: (011) 530-1741; N.S.TURISMO: (011) 851-2800; QUEENSBERRY: (011) 255-0211; VICTORIA TOURS: (011) 256-5877.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-108</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Do enviado especial ao Colorado (EUA)
 Pode-se fazer atividades diferentes todos os dias. As operadoras mencionadas aqui são apenas algumas das inúmeras que existem para cada esporte. Informações são fáceis de conseguir nos hotéis.
 Keystone centraliza todas as atividades num único telefone, 1-800-354-4386. O código de área para o Colorado é 303.
@@ -2152,12 +2152,12 @@ Alpinismo: cursos para principiantes (US$ 125) até treinamento avançado (US$ 280
 Caça: a temporada vai de agosto a novembro. A permissão custa desde US$ 40 para aves até US$ 250 para alces e ursos. Programas de uma semana, com guias, custam a partir de US$ 1.750. Capitol Peak Outfitters (963-0211), Rifle Country (625-2085)
 Golfe: Há diversos campos em todas as cidades, alguns considerados os melhores do país.
 (Marcelo Calliari)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-109</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 SOFIA CARVALHOSA
 Free-lance para a Folha
 Em junho, por três dias, Aspen se transforma na capital de gastronomia dos Estados Unidos. Há 12 anos, é nesta estação de esqui do Colorado que acontece o Aspen Food &amp; Wine Classic, reunindo "foodies" e amantes do vinho.
@@ -2167,12 +2167,12 @@ As aulas mais concorridas aconteciam nos salões de convenções do hotel Ritz-Carl
 O tema de Julia Child era uma simples quiche, mas era político: mostrar aos paranóicos americanos que o ovo e a manteiga fazem pratos deliciosos e que a patrulha do colesterol deve dar espaço ao prazer da comida.
 Marcella Hazan falou sobre alcachofras e catequizou o público sobre a supremacia do óleo de oliva extra virgem para cozinhar, apesar da exorbitância do preço.
 Patricia Wells ensinou o preparo de codornas marinadas e cuscuz marroquino e incentivava o público a repartir "food experiences" (o nome moderno para receber amigos para comer) como ela mesma faz em sua casa na Provence (sul da França), região em moda nos Estados Unidos.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-110</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Free-lance para a Folha
 Na praça central da cidade, uma grande tenda branca reúne diversos produtores de vinho, comida e "gadgets" culinários.
 Na hora do almoço, e para lá que o público vai degustar vinhos (dos tradicionais franceses até os distantes australianos), comer salmão do Alasca ou comida étnica de Cingapura. E lá também que as estrelas gastronômicas autografam seus livros e onde se adquire um programa de computador especial para arquivar receitas.
@@ -2181,12 +2181,12 @@ Para queimar as calorias, as opções são muitas: alugar uma bicicleta (US$ 5/hora
 (SC)
 
 Informações sobre o Aspen Food &amp; Wine Classic: 425, Rio Grande Place, Aspen, Colorado 81611, EUA; ou tel. 303/925-9000. Neste ano, a inscrição custou US$ 400 com aulas e visita à tenda de degustação.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-111</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 CARLOS KAUFFMANN
 Da Reportagem Local
 O dólar está barato? É o que se pergunta o turista que vai viajar ao exterior nos próximos meses.
@@ -2200,12 +2200,12 @@ Entre as aplicações de curto prazo mais rentáveis hoje, Nehme e Dutra são unânim
 
 LEIA MAIS
 Sobre câmbio na pág. 6-12.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-112</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Câmbio tem cotação 3% superior à do dólar-turismo
 Da Reportagem Local
 Quem frequenta vôos internacionais toma contato com outra "moeda" &#150;o chamado dólar-Iata, com sufixo emprestado da sigla da International Air Transport Association, órgão que rege as normas da aviação.
@@ -2215,12 +2215,12 @@ Hoje, a diferença entre o dólar-Iata e o dólar-turismo é de cerca de 3% em favor
 Segundo Sanovicz, a Advance teve de 20 a 30 casos de passageiros que teriam que pagar passagens em 4 e 5 de julho e pediram para postergar o pagamento em função da diferença de câmbio.
 Um dólar-Iata estava cotado a R$ 0,937 em 25 de julho. Como as casas de câmbio compravam o dólar por uma média de R$ 0,90, o passageiro que quisesse comprar um bilhete de US$ 1.000 deveria dispor de US$ 1.041 em papel-moeda norte-americano (ou R$ 937,00) para viajar.
 (CK)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-113</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 O hotel Hilton transformou o seu antigo restaurante The Harvest em uma casa italiana, batizada agora de Aragosta Ristorante. O cardápio tem pratos de diversas regiões da Itália. As entradas vão do "carpaccio" à "lagosta com salada chitake". Tem música de piano ao vivo todas as noites. Reservas: (011) 256-0033.
 
 Maksoud faz em agosto festival da cozinha francesa
@@ -2231,12 +2231,12 @@ sA Bel Air Viagens promove no próximo dia 16, em São Paulo, o seminário "Vat e o
 
 Curitiba cria uma linha de ônibus para turismo
 Quem visitar Curitiba, pode embarcar na Linha Turismo, um roteiro de 33 quilômetros que mostra as principais atrações urbanísticas e arquitetônicas da cidade, além de monumentos históricos e parques. São 16 estações, percorridas em duas horas por quatro ônibus jardineiras. Em cada parada haverá uma placa com os horários dos ônibus, que circularão diariamente (exceto às segundas), entre 8h30 e 17h.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-114</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 RAQUEL RIBEIRO
 Free-lance para a Folha
 Mergulham nas tocas as andorinhas, os bem-te-vis, os curiós. Os olhos amarelos da coruja refletem os últimos vestígios de uma luz que anoitece. Ao longo delineiam-se raras árvores retorcidas compondo quadros japoneses em terras mineiras. Nessas horas, o Parque Nacional da Serra da Canastra (MG) mostra sua imensidão quase plana, desértica.
@@ -2248,12 +2248,12 @@ Sem movimento, a estrada tornou-se rota de queijeiros que fogem da fiscalização.
 
 LEIA MAIS
 Sobre o Parque Nacional da Serra da Canastra na pág. 6-14.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-115</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Curso do "Velho Chico" é sinuoso e atravessa piscinas e cachoeiras
 Free-lance para a Folha
 Não bastassem as belezas das cênicas e lúdicas formações rochosas, a serra da Canastra &#150;assim batizada pela semelhança do chapadão com a forma de um baú&#150; abriga as nascentes do mais brasileiro dos rios. Cantado em versos e prosa, o São Francisco mostra seus primeiros filetes d'água próximo à entrada leste do parque.
@@ -2276,12 +2276,12 @@ Próxima à represa de Peixoto, a cidadezinha fica à margem do rio Grande e é cerc
 A vegetação nas redondezas da cidade é semelhante à do parque, com bromélias e orquídeas.
 Nas escarpas íngremes da serra do Cemitério, uma das ramificações da Canastra, existem pequenas fontes termais em meio às rochas.
 (Raquel Ribeiro)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-116</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Viena, Praga e Budapeste estão no roteiro de 19 dias na Europa Central organizado pela Kulturismo. A viagem privilegia visitas às várias regiões da Áustria, como Tirol, Caríntia e a dos Alpes, mas abrange seis países da região. Com saída em 31/8, custa US$ 3.445 (aéreo e terrestre). Informações: (011) 240-9879.
 
 Passeio a Galápagos pode incluir mergulho
@@ -2295,12 +2295,12 @@ A temporada de cruzeiro do navio Funchal pela costa brasileira, de 16 de dezembr
 
 Curso dá especialização em hotelaria e turismo
 A SIS dispõe de um curso de especialização em hotelaria e turismo na Suíça para que já tem formação universitária. O curso do Centre Internationale de Glion, com duração de três a seis semestres, pode ser feito nas cidades de Montreux ou Bulle. O custo é de a partir de R$ 34,65 mil. Inclui aulas, hospedagem, alimentação e seguro-saúde. Informações: (011) 852-6333.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-117</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Agência Folha
 São largas e bem iluminadas as avenidas da cidade sacra de Jerusalém, repletas de canteiros com esculturas arrojadas e fontes projetadas por designers.
 Um espetáculo à parte são as 20 mil tulipas doadas pela Holanda anualmente, que desabrocham entre o final de março e o início de abril &#150;a curta primavera que separa o verão de nove meses de inverno chuvoso, entre os meses de dezembro e fevereiro.
@@ -2314,12 +2314,12 @@ Descendo a famosa rua Dizengoff, encontra-se o charme de vitrinas bem cuidadas, 
 Noites claras e repletas de estrelas são complementadas por shows na orla da capital e da frugal Haifa.
 Telões, espetáculos de danças folclóricas ("rikudim iam") e grupos musicais acalentam os ânimos já aquecidos pela tensão que precede a paz.
 (ABL)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-118</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Apesar da paisagem modernizada do país, a língua hebraica e a música ainda lembram tempos ancestrais
 ANDRÉA BARBOSA DE LIMA
 Da Agência Folha
@@ -2339,12 +2339,12 @@ Convivem ao mesmo tempo &#150;e no mesmo cenário&#150; uma legião de jovens e of
 
 LEIA MAIS
 Sobre Israel na pág. 6-20.
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-119</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Agência Folha
 Com a chegada do verão em Israel, os beduínos no deserto da Judéia começam a levantar acampamento para voltar às regiões menos áridas do Oriente Médio, em busca de pastagens e água para seus rebanhos.
 Saindo de Jerusalém, em direção a Eilat, no sul, a bifurcação na estrada nos alerta aos perigos de se enveredar pelos caminhos que levam a Jericó.
@@ -2357,12 +2357,12 @@ A falta de árvores e sombras obriga os visitantes a se protegerem como podem. Ro
 A implementação paulatina do acordo de paz entre judeus e palestinos deve ampliar o leque de opções do turismo na região.
 E, com certeza, as duas partes deverão ganhar com isso. A paz promete transpor fronteiras, superar diferenças religiosas e sugerir parcerias na área do turismo.
 (ABL)
-</text_pt>
+</field>
 </doc>
 <doc>
 <field name="id">FSP940728-120</field>
 <field name="date">940728</field>
-<text_pt>
+<field name="text_pt">
 Da Agência Folha
 Se no sul o terreno é arenoso e o clima seco, no norte de Israel a umidade se eleva e da terra brota uma vegetação densa, com pastagens e imensas plantações de trigo e algodão.
 O prenúncio da curta primavera, em abril, é o desabrochar de milhares de "calaniot" (flores semelhantes às tulipas, em geral vermelhas e amarelas).
@@ -2383,6 +2383,6 @@ As celebrações são repletas de símbolos: Sucot comemora o tempo das colheitas, e
 (Andréa Barbosa de Lima)
 
 
-</text_pt>
+</field>
 </doc>
 </add>
